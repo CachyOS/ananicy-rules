@@ -31,3 +31,6 @@
 # Type: Adj OOM Score
 { "type": "OOM_KILL", "oom_score_adj": 1000 }
 { "type": "OOM_NO_KILL", "oom_score_adj": -1000 }
+
+# Type: Service
+{ "type": "Service", "nice": 10, "ioclass": "best-effort", "ionice": 6 }
