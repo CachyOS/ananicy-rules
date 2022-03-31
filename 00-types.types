@@ -28,6 +28,9 @@
 # Type: Chat
 {"type": "Chat", "nice": -3, "ioclass": "best-effort", "ionice": 7 }
 
+# Type: Indifference
+{"type": "IN_DIFF", "nice": 0, "ioclass": "best-effort", "ionice": 7 }
+
 # Type: Adj OOM Score
 { "type": "OOM_KILL", "oom_score_adj": 1000 }
 { "type": "OOM_NO_KILL", "oom_score_adj": -1000 }
