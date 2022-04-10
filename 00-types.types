@@ -1,21 +1,21 @@
 # Type: Game
 # Use more CPU time if possible
 # Games do not always need more IO, but in most cases can be hungry for CPU
-{ "type": "Game", "nice": -9, "ioclass": "best-effort" }
+{ "type": "Game", "nice": -7, "ioclass": "best-effort" }
 
 # Type: Player Audio/Video
 # Try to add more CPU power to decrease latency/lags
 # Try to add real time io for avoiding lags
-{ "type": "Player-Audio", "nice": -6, "ioclass": "realtime" }
-{ "type": "Player-Video", "nice": -6, "ioclass": "realtime" }
+{ "type": "Player-Audio", "nice": -4, "ioclass": "realtime" }
+{ "type": "Player-Video", "nice": -4, "ioclass": "realtime" }
 
 # Must have more CPU/IO time, but not so much as other apps
-{ "type": "Image-View", "nice": -6 }
-{ "type": "Doc-View",   "nice": -6 }
+{ "type": "Image-View", "nice": -4 }
+{ "type": "Doc-View",   "nice": -4 }
 
 # Type: Low Latency Realtime Apps
 # In general case not so heavy, but must not lag
-{ "type": "LowLatency_RT", "nice": -18, "ioclass": "realtime" }
+{ "type": "LowLatency_RT", "nice": -11, "ioclass": "realtime" }
 
 # Type: BackGround CPU/IO Load
 # Background CPU/IO it's needed, but it must be as silent as possible
