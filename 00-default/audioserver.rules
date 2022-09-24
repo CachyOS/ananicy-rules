@@ -1,0 +1,2 @@
+{ "name": "pipewire", "type": "LowLatency_RT", "nice": -19, "sched": "rr" }
+{ "name": "wireplumber", "type": "LowLatency_RT", "nice": -19, "sched": "rr" }

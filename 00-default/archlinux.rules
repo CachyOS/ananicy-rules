@@ -5,3 +5,5 @@
 { "name": "pacman", "type": "BG_CPUIO" }
 { "name": "paru", "type": "BG_CPUIO" }
 { "name": "yay", "type": "BG_CPUIO" }
+# pamac frontend
+{ "name": "pamac-manager", "type": "Doc-View" }

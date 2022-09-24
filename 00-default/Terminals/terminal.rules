@@ -1,0 +1,14 @@
+# Konsole
+{ "name": "konsole", "type": "Doc-View" }
+# simple terminal (https://st.suckless.org/)
+{ "name": "st", "type": "Doc-View" }
+# alacritty terminal (https://github.com/alacritty/alacritty)
+{ "name": "alacritty", "type": "Doc-View" }
+# kitty: https://sw.kovidgoyal.net/kitty/
+{ "name": "kitty", "type": "Doc-View" }
+# hyper
+{ "name": "hyper", "type": "Doc-View" }
+# Mosh
+{ "name": "mosh", "type": "Doc-View" }
+# foot
+{ "name": "foot", "type": "Doc-View" }
