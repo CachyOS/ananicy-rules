@@ -3,3 +3,6 @@
 { "name": "chrome-sandbox", "type": "Doc-View" }
 { "name": "chromium-snapshot", "type": "Doc-View" }
 { "name": "chromium-snapshot-bin", "type": "Doc-View" }
+{ "name": "thorium", "type": "Doc-View" }
+{ "name": "thorium-browser-unstable", "type": "Doc-View" }
+{ "name": "thorium-shell", "type": "Doc-View" }
