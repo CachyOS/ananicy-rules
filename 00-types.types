@@ -19,7 +19,7 @@
 
 # Type: BackGround CPU/IO Load
 # Background CPU/IO it's needed, but it must be as silent as possible
-{ "type": "BG_CPUIO", "nice": 19, "ioclass": "idle", "sched": "idle", "cgroup": "cpu80" }
+{ "type": "BG_CPUIO", "nice": 19, "ioclass": "idle", "sched": "idle", "cgroup": "cpu85" }
 
 # Type: Heavy CPU Load
 # It must work fast enough but must not create so much noise
