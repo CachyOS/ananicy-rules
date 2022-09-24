@@ -10,3 +10,11 @@
 { "name": "vim", "type": "Doc-View" }
 { "name": "nvim", "type": "Doc-View" }
 { "name": "lapce", "type": "Doc-View" }
+# GUI git client: https://www.sublimemerge.com/
+{ "name": "sublime_merge", "type":"Doc-View" }
+{ "name": "sublime-text", "type": "Doc-View" }
+# https://www.sublimetext.com
+{ "name": "subl3", "type": "Doc-View" }
+{ "name": "sublime_text", "type": "Doc-View" }
+{ "name": "plugin_host", "type": "Doc-View" }
+{ "name": "nano", "type": "Doc-View" }

@@ -29,3 +29,5 @@
 { "name": "mailspring", "type": "Chat" }
 # https://www.mozilla.org/en-US/thunderbird/
 { "name": "thunderbird", "type": "Chat" }
+# Messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and more: https://meetfranz.com/
+{ "name": "franz", "type": "Chat" }
