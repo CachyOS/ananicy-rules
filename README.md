@@ -1,2 +1,3 @@
-# ananicy-custom-rules
-### Self-use ananicy-cpp rules. I will add more rules with my daily PC usage.
+# ananicy-cpp-rules for CachyOS
+
+This is a rules collection for ananicy-cpp maintained from CachyOS.
