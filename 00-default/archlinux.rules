@@ -3,3 +3,5 @@
 { "name": "mkinitcpio", "type": "BG_CPUIO" }
 { "name": "makepkg", "type": "BG_CPUIO" }
 { "name": "pacman", "type": "BG_CPUIO" }
+{ "name": "paru", "type": "BG_CPUIO" }
+{ "name": "yay", "type": "BG_CPUIO" }
