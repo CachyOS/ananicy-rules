@@ -1,0 +1,5 @@
+{ "name": "hackbench", "type": "tests" }
+{ "name": "cyclictests", "type": "tests" }
+{ "name": "jitterdebugger", "type": "tests" }
+{ "name": "geekbench", "type": "tests" }
+{ "name": "hwlatdetect", "type": "tests" }

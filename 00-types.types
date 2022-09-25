@@ -40,3 +40,6 @@
 
 # Type: Compiler
 {"type":"compiler", "nice": 3, "latency_nice": 4 }
+
+# Type: Tests
+{"type":"tests", "nice": -15, "latency_nice": -19 }
