@@ -1,0 +1,6 @@
+{ "name": "lld", "type": "compiler" }
+{ "name": "mold", "type": "compiler" }
+{ "name": "ld", "type": "compiler" }
+{ "name": "ld.bfd", "type": "compiler" }
+{ "name": "ld.mold", "type": "compiler" }
+{ "name": "ld.lld", "type": "compiler" }
