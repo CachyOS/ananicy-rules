@@ -15,7 +15,7 @@
 
 # Type: Low Latency Realtime Apps
 # In general case not so heavy, but must not lag
-{ "type": "LowLatency_RT", "nice": -11, "ioclass": "realtime", "latency_nice": -12 }
+{ "type": "LowLatency_RT", "nice": -11, "ioclass": "realtime", "latency_nice": -13 }
 
 # Type: BackGround CPU/IO Load
 # Background CPU/IO it's needed, but it must be as silent as possible
@@ -26,10 +26,10 @@
 { "type": "Heavy_CPU", "nice": 19, "ioclass": "best-effort", "ionice": 7, "cgroup": "cpu90" , "latency_nice": 15 }
 
 # Type: Chat
-{ "type": "Chat", "nice": -3, "ioclass": "best-effort", "ionice": 7 , "latency_nice": -2 }
+{ "type": "Chat", "nice": -3, "ioclass": "best-effort", "ionice": 7 , "latency_nice": -3 }
 
 # Type: Indifference
-{ "type": "IN_DIFF", "nice": 0, "ioclass": "best-effort", "ionice": 7 , "latency_nice": 1 }
+{ "type": "IN_DIFF", "nice": 0, "ioclass": "best-effort", "ionice": 7 , "latency_nice": 0 }
 
 # Type: Adj OOM Score
 { "type": "OOM_KILL", "oom_score_adj": 1000 }
@@ -39,7 +39,7 @@
 { "type": "Service", "nice": 10, "ioclass": "best-effort", "ionice": 6 , "latency_nice": 9 }
 
 # Type: Compiler
-{"type":"compiler", "nice": 3, "latency_nice": 4 }
+{"type":"compiler", "nice": 3, "latency_nice": 2 }
 
 # Type: Tests
-{"type":"tests", "nice": -15, "latency_nice": -19 }
+{"type":"tests", "nice": -15, "latency_nice": -15 }
