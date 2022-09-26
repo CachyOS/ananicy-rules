@@ -11,6 +11,9 @@
 { "name": "telegram", "type": "Chat" }
 # Discord: https://discordapp.com/
 { "name": "Discord", "type": "Chat" }
+{ "name": "DiscordPTB", "type": "Chat" }
+{ "name": "DiscordCanary", "type": "Chat" }
+{ "name": "DiscordDevelopment", "type": "chat" }
 { "name": "webcord", "type": "Chat" }
 # https://hexchat.github.io
 { "name": "hexchat", "type": "Chat" }
