@@ -1,2 +1,3 @@
-{ "name": "pipewire", "type": "LowLatency_RT", "nice": -19, "sched": "rr" }
-{ "name": "wireplumber", "type": "LowLatency_RT", "nice": -19, "sched": "rr" }
+{ "name": "pipewire", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+{ "name": "wireplumber", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+{ "name": "pulseaudio", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
