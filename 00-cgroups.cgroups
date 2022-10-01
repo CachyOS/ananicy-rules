@@ -4,4 +4,5 @@
 # cpuquota same as systemd CPUQuota,
 # only difference is - meaning of N% is all CPUs, not one core.
 { "cgroup": "cpu90", "CPUQuota": 90 }
+{ "cgroup": "cpu85", "CPUQuota": 85 }
 { "cgroup": "cpu80", "CPUQuota": 80 }
