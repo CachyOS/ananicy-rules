@@ -42,3 +42,6 @@
 { "name": "chrome-sandbox", "type": "Doc-View" }
 { "name": "google-chrome-dev", "type": "Doc-View" }
 { "name": "google-chrome-unstable", "type": "Doc-View" }
+
+# Waterfox
+{ "name": "waterfox-g", "type": "Doc-View" }
