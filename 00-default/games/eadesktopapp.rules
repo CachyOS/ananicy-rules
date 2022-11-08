@@ -1,0 +1,22 @@
+## Rules for EA Desktop App
+# Launcher
+{ "name": "EADesktop.exe", "type": "BG_CPUIO" }
+{ "name": "EALauncher.exe", "type": "BG_CPUIO" }
+
+# integrated services
+{ "name": "EAStreamProxy.exe", "type": "BG_CPUIO" }
+{ "name": "Link2EA.exe", "type": "BG_CPUIO" }
+{ "name": "EALaunchHelper.exe", "type": "BG_CPUIO" }
+{ "name": "EABackgroundService.exe", "type": "BG_CPUIO" }
+{ "name": "EACrashReporter.exe", "type": "BG_CPUIO" }
+{ "name": "EAConnect_microsoft.exe", "type": "BG_CPUIO" }
+{ "name": "EAGEP.exe", "type": "BG_CPUIO" }
+{ "name": "EAUninstall.exe", "type": "BG_CPUIO" }
+{ "name": "ErrorReporter.exe", "type": "BG_CPUIO" }
+{ "name": "GetGameToken32.exe", "type": "BG_CPUIO" }
+{ "name": "GetGameToken64.exe", "type": "BG_CPUIO" }
+{ "name": "IGOProxy32.exe", "type": "BG_CPUIO" }
+{ "name": "OriginLegacyCompatibility.exe", "type": "BG_CPUIO" }
+
+# integrated web engine
+{ "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
