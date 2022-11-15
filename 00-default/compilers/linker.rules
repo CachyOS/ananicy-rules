@@ -4,4 +4,4 @@
 { "name": "ld.bfd", "type": "compiler" }
 { "name": "ld.mold", "type": "compiler" }
 { "name": "ld.lld", "type": "compiler" }
-{ "name": "lto1-trans", "type": "compiler" }
+{ "name": "lto1-ltrans", "type": "compiler" }
