@@ -15,6 +15,7 @@
 { "name": "DiscordCanary", "type": "Chat" }
 { "name": "DiscordDevelopment", "type": "chat" }
 { "name": "webcord", "type": "Chat" }
+{ "name": "armcord", "type": "Chat" }
 # https://hexchat.github.io
 { "name": "hexchat", "type": "Chat" }
 # Teams: https://teams.microsoft.com/downloads#allDevicesSection
