@@ -1,0 +1,16 @@
+# General rule for some Source-based mods, like Fortress Forever, Entropy: Zero, etc.
+{ "name": "hl2.exe", "type": "Game" }
+
+# Source SDK Base tools
+# Hammer map editor
+{ "name": "hammer.exe", "type": "Doc-View" }
+
+# Model viewer
+{ "name": "hlmv.exe", "type": "Doc-View" }
+
+# GoldSrc mods
+{ "name": "hl.exe", "type": "Game" }
+
+# CS 1.6
+{ "name": "cstrike.exe", "type": "Game" }
+{ "name": "cstrike-online.exe", "type": "Game" }
