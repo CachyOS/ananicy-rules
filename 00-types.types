@@ -6,8 +6,8 @@
 # Type: Player Audio/Video
 # Try to add more CPU power to decrease latency/lags
 # Try to add real time io for avoiding lags
-{ "type": "Player-Audio", "nice": -4, "ioclass": "realtime", "latency_nice": -4 }
-{ "type": "Player-Video", "nice": -4, "ioclass": "realtime", "latency_nice": -4 }
+{ "type": "Player-Audio", "nice": -4, "latency_nice": -4 }
+{ "type": "Player-Video", "nice": -4, "latency_nice": -4 }
 
 # Must have more CPU/IO time, but not so much as other apps
 { "type": "Image-View", "nice": -4, "latency_nice": -4 }
