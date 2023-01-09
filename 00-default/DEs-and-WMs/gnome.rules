@@ -1,2 +1,11 @@
 # http://live.gnome.org/ThumbnailerSpec 
 { "name": "tumblerd", "type": "TODO" }
+
+# Used for password management - https://wiki.archlinux.org/title/GNOME/Keyring
+{ "name" : "gnome-keyring-daemon", "type": "Service"}
+
+# Used for pam/gdm-password
+{ "name" : "gdm-session-worker", "type": "Service"}
+
+# polkit-gnome
+{ "name" : "polkit-gnome-authentication-agent-1", "type": "Service"}
