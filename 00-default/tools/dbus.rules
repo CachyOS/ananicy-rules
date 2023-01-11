@@ -1,0 +1,3 @@
+# D-Bus is a message bus system that provides an easy way for inter-process communication.
+# https://wiki.archlinux.org/title/D-Bus and https://dbus.freedesktop.org/doc/dbus-daemon.1.html
+{ "name": "dbus-daemon", "type": "Service" }

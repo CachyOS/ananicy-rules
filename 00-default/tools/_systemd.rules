@@ -1,2 +1,5 @@
 # https://www.freedesktop.org/wiki/Software/systemd/
 { "name": "systemd-timesyncd", "type": "BG_CPUIO" }
+
+# DNS (https://wiki.archlinux.org/title/systemd-resolved)
+{ "name": "systemd-resolved", "type": "BG_CPUIO" }
