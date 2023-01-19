@@ -1,0 +1,3 @@
+# Redshift fork with wayland support
+# https://gitlab.com/chinstrap/gammastep
+{ "name": "gammastep", "type": "BG_CPUIO" }
