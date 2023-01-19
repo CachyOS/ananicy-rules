@@ -1,0 +1,3 @@
+# Day/night gamma adjustments for Wayland compositors
+# https://sr.ht/~kennylevinsen/wlsunset/
+{ "name": "wlsunset", "type": "BG_CPUIO" }
