@@ -24,3 +24,5 @@
 { "name": "emacsclient", "type": "Doc-View" }
 # https://kakoune.org
 { "name": "kak", "type": "Doc-View" }
+# https://helix-editor.com
+{ "name": "hx", "type": "Doc-View" }
