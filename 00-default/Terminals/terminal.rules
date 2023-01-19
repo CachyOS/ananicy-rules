@@ -13,3 +13,5 @@
 # foot
 { "name": "foot", "type": "Doc-View" }
 { "name": "footclient", "type": "Doc-View" }
+# Gnome terminal
+{ "name": "gnome-terminal-server", "type": "Doc-View" }
