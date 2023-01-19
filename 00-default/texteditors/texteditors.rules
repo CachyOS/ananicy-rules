@@ -22,3 +22,5 @@
 # https://www.gnu.org/software/emacs
 { "name": "emacs", "type": "Doc-View" }
 { "name": "emacsclient", "type": "Doc-View" }
+# https://kakoune.org
+{ "name": "kak", "type": "Doc-View" }
