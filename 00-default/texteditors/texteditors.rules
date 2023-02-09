@@ -19,3 +19,10 @@
 { "name": "plugin_host", "type": "Doc-View" }
 { "name": "nano", "type": "Doc-View" }
 { "name": "kate", "type": "Doc-View" }
+# https://www.gnu.org/software/emacs
+{ "name": "emacs", "type": "Doc-View" }
+{ "name": "emacsclient", "type": "Doc-View" }
+# https://kakoune.org
+{ "name": "kak", "type": "Doc-View" }
+# https://helix-editor.com
+{ "name": "hx", "type": "Doc-View" }

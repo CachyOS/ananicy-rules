@@ -1,0 +1,5 @@
+# Nix is a purely functional package manager and a build system
+# https://nixos.org/
+{ "name": "nix", "type": "BG_CPUIO" }
+{ "name": "nix-daemon", "type": "BG_CPUIO" }
+{ "name": "nix-store", "type": "BG_CPUIO" }
