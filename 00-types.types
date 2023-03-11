@@ -3,6 +3,11 @@
 # Games do not always need more IO, but in most cases can be hungry for CPU
 { "type": "Game", "nice": -7, "ioclass": "best-effort", "latency_nice": -7 }
 
+# Type: Benchmark
+# Use more CPU time if possible
+# Benchmark as games do not always need more IO, but in most cases can be hungry for CPU
+{ "type": "Benchmark", "nice": -7, "ioclass": "best-effort", "latency_nice": -7 }
+
 # Type: Player Audio/Video
 # Try to add more CPU power to decrease latency/lags
 # Try to add real time io for avoiding lags
