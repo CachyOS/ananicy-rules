@@ -1,0 +1,5 @@
+# Geekbench: https://www.geekbench.com/
+{ "name": "geekbench6", "type": "Benchmark"}
+{ "name": "geekbench5", "type": "Benchmark"}
+{ "name": "geekbench_avx2", "type": "Benchmark"}
+{ "name": "geekbench_x86_64", "type": "Benchmark"}
