@@ -28,8 +28,9 @@
 { "name": "signal-desktop-beta", "type": "Chat" }
 { "name": "skypeforlinux", "type": "Chat" }
 { "name": "slack", "type":"Chat" }
-{ "name": "rambox", "type": "Chat"}
+{ "name": "rambox", "type": "Chat" }
 { "name": "qtox", "type": "Chat" }
+{ "name": "caprine", "type": "Chat" }
 { "name": "mailspring", "type": "Chat" }
 # https://www.mozilla.org/en-US/thunderbird/
 { "name": "thunderbird", "type": "Chat" }
