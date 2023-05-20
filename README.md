@@ -4,7 +4,7 @@ This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS
 ## Ananicy-cpp & ananicy-cpp-rules
 - **[ananicy-cpp](https://gitlab.com/ananicy-cpp/ananicy-cpp)** - daemon that automatically adjusts the nice levels of processes.
 - **ananicy-cpp-rules** - list of rules used to assign specific nice values to specific processes.
-> The nice value determines the priority of a process. The higher the value, the lower the priority, making the process 'nicer' to other processes. On Linux workstations, the default nice value is 0.
+> The nice value determines the priority of a process, with higher values indicating lower priority and making the process "nicer" to other processes. By default, on Linux workstations, the nice value is set to 0.
 
 ## How to contribute
 You can add your favorite games, apps, and more. Any help would be greatly appreciated!  
