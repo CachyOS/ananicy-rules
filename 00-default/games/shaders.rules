@@ -1,2 +1,2 @@
 # Give Shaders compilation less cpu power, to avoid fps spikes until they are compiled
-{ "name": "fossilize_replay", "type": "BG_CPUIO"}
+{ "name": "fossilize_replay", "type": "BG_CPUIO" }

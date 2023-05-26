@@ -1,4 +1,4 @@
-## Wireguard https://www.wireguard.com/
+# Wireguard https://www.wireguard.com/
 
-{ "name" : "wg", "type" : "LowLatency_RT", "ionice" : 1}
-{ "name" : "wg-quick", "type" : "LowLatency_RT", "ionice" : 1}
+{ "name": "wg", "type": "LowLatency_RT", "ionice": 1 }
+{ "name": "wg-quick", "type": "LowLatency_RT", "ionice": 1 }
