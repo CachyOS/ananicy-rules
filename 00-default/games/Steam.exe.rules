@@ -1,4 +1,4 @@
-## Rules for Steam on Wine
+# Rules for Steam on Wine
 # Steam client
 { "name": "Steam.exe", "type": "BG_CPUIO" }
 

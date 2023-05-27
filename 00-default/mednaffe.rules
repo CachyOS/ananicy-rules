@@ -1,4 +1,3 @@
-################################################################################
 # Rules for mednaffe: A front-end (GUI) for mednafen emulator
 # https://github.com/AmatCoder/mednaffe
 { "name": "mednaffe", "type": "BG_CPUIO" }
