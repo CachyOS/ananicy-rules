@@ -2,4 +2,4 @@
 { "name": "arma3.exe", "type": "Game" }
 { "name": "arma3_x64.exe", "type": "Game" }
 { "name": "arma3battleye.exe", "type": "Game" }
-{ "name": "arma3launcher.exe", "type": "game-launcher" }
+{ "name": "arma3launcher.exe", "type": "BG_CPUIO" }

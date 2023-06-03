@@ -1,4 +1,4 @@
 # https://store.steampowered.com/app/221100/DayZ/
 { "name": "DayZ_BE.exe", "type": "Game" }
 { "name": "DayZ_x64", "type": "Game" }
-{ "name": "DayZLauncher.exe", "type": "game-launcher" }
+{ "name": "DayZLauncher.exe", "type": "BG_CPUIO" }
