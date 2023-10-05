@@ -41,9 +41,6 @@
 { "name": "firefox-esr", "type": "Doc-View" }
 { "name": "firefox-nightly", "type": "Doc-View" }
 
-# Tor - https://www.torproject.org
-{ "name": "firefox.real", "type": "Doc-View" }
-
 # IceCat - https://www.gnu.org/software/gnuzilla/
 { "name": "icecat", "type": "Doc-View" }
 
@@ -54,6 +51,9 @@
 
 # Mercury - https://thorium.rocks/mercury
 { "name": "mercury-bin", "type": "Doc-View" }
+
+# Tor - https://www.torproject.org
+{ "name": "firefox.real", "type": "Doc-View" }
 
 # Waterfox - https://www.waterfox.net
 { "name": "waterfox-g", "type": "Doc-View" }
