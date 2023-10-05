@@ -50,5 +50,8 @@
 { "name": "librewolf-bin", "type": "Doc-View" }
 { "name": "librewolf-nightly", "type": "Doc-View" }
 
+# Mercury - https://thorium.rocks/mercury
+{ "name": "mercury-bin", "type": "Doc-View" }
+
 # Waterfox - https://www.waterfox.net
 { "name": "waterfox-g", "type": "Doc-View" }
