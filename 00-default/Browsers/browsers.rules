@@ -40,6 +40,8 @@
 { "name": "firefox-developer-edition", "type": "Doc-View" }
 { "name": "firefox-esr", "type": "Doc-View" }
 { "name": "firefox-nightly", "type": "Doc-View" }
+
+# Tor - https://www.torproject.org
 { "name": "firefox.real", "type": "Doc-View" }
 
 # IceCat - https://www.gnu.org/software/gnuzilla/
