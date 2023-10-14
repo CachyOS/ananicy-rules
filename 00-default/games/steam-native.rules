@@ -5,18 +5,25 @@
 
 # https://store.steampowered.com/app/730
 { "name": "csgo_linux64", "type": "Game" }
+{ "name": "cs2", "type": "Game" }
 # http://store.steampowered.com/app/355180
 { "name": "cure_linux", "type": "Game" }
 # http://store.steampowered.com/app/570
 { "name": "dota2", "type": "Game" }
+# https://store.steampowered.com/app/4000
+{ "name": "gmod", "type": "Game" }
 # https://store.steampowered.com/app/70
 { "name": "hl_linux", "type": "Game" }
 # http://store.steampowered.com/app/440
 { "name": "hl2_linux", "type": "Game" }
+# https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
+{ "name": "jbep3", "type": "Game" }
 # http://store.steampowered.com/app/4920
 { "name": "ns2_linux", "type": "Game" }
 # https://store.steampowered.com/app/620
 { "name": "portal2_linux", "type": "Game" }
+# https://store.steampowered.com/app/17500
+{ "name": "zps_linux", "type": "Game" }
 
 # Common bin names
 # https://store.steampowered.com/app/200510
@@ -89,6 +96,9 @@
 
 # https://store.steampowered.com/app/383930 (AND OTHER DOORWAYS GAMES)
 { "name": "Doorways.x86", "type": "Game" }
+
+# https://store.steampowered.com/app/239140/
+{ "name": "DyingLightGame", "type": "Game" }
 
 # https://store.steampowered.com/app/311690
 { "name": "EtG.x86_64", "type": "Game" }
@@ -361,11 +371,9 @@
 # https://store.steampowered.com/app/2066020/
 { "name": "Soulstone-Survivors.x86_64", "type": "Game" }
 
-#https://store.steampowered.com/app/108600
+# https://store.steampowered.com/app/108600
 { "name": "ProjectZomboid64", "type": "Game" }
 
-#https://store.steampowered.com/app/730/
-{ "name": "cs2", "type": "Game" }
-
-#https://store.steampowered.com/app/1012110/
+# https://store.steampowered.com/app/1012110/
 { "name": "mcv_linux64", "type": "Game" }
+
