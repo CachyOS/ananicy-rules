@@ -73,11 +73,18 @@
 # https://store.steampowered.com/app/57300/
 { "name": "Amnesia.bin.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/235800/Audiosurf_2/
+{ "name": "Audiosurf2.x86_64", "type": "Game" }
+
 # https://store.steampowered.com/app/22828
 { "name": "BaldursGate", "type": "Game" }
 
 # https://store.steampowered.com/app/257350/
 { "name": "BaldursGateII", "type": "Game" }
+
+# https://store.steampowered.com/app/284160/BeamNGdrive/
+# Experimental native build
+{ "name": "BeamNG.drive.x64", "type": "Game" }
 
 # https://store.steampowered.com/app/362890/
 { "name": "bms_linux", "type": "Game" }
@@ -87,6 +94,9 @@
 
 # https://store.steampowered.com/app/330020/
 { "name": "ChildrenOfMorta", "type": "Game" }
+
+# https://store.steampowered.com/app/255710/Cities_Skylines/
+{ "name": "Cities.x64", "type": "Game" }
 
 # https://store.steampowered.com/app/368340/
 { "name": "CrossCode", "type": "Game" }
@@ -109,11 +119,18 @@
 # https://store.steampowered.com/app/265930
 { "name": "GoatGame", "type": "Game" }
 
+# https://store.steampowered.com/app/431240/Golf_With_Your_Friends/
+{ "name": "Golf With Your Friends.x86_64", "type": "Game" }
+
 # https://store.steampowered.com/app/316790
 { "name": "GrimFandango", "type": "Game" }
 
 # https://store.steampowered.com/app/341940
 { "name": "Hatred-Linux-Shipping", "type": "Game" }
+
+# https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
+# Linux version
+{ "name": "hoi4", "type": "Game" }
 
 # https://store.steampowered.com/app/677120
 { "name": "HWR", "type": "Game" }
@@ -126,6 +143,9 @@
 
 # https://store.steampowered.com/app/257850
 { "name": "HyperLightDrifter", "type": "Game" }
+
+# https://store.steampowered.com/app/222880/Insurgency/
+{ "name": "insurgency_linux", "type": "Game" }
 
 # https://store.steampowered.com/app/562860
 { "name": "fury.bin", "type": "Game" }
@@ -151,11 +171,17 @@
 # https://store.steampowered.com/app/356570
 { "name": "PartyHardGame.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/677620/Splitgate/
+{ "name": "PortalWars-Linux-Shipping", "type": "Game" }
+
 # https://store.steampowered.com/app/466300
 { "name": "Torment", "type": "Game" }
 
 # https://store.steampowered.com/app/559210
 { "name": "Rakuen.amd64", "type": "Game" }
+
+# https://store.steampowered.com/app/636480/Ravenfield/
+{ "name": "ravenfield.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/564310
 { "name": "Sam2017", "type": "Game" }
@@ -171,6 +197,13 @@
 
 # https://store.steampowered.com/app/405830
 { "name": "Turok2Ex", "type": "Game" }
+
+# https://store.steampowered.com/app/304930/Unturned/
+{ "name": "Unturned.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/236390/War_Thunder/
+{ "name": "aces", "type": "Game" }
+{ "name": "launcher", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/app/259130
 { "name": "wasteland", "type": "Game" }
