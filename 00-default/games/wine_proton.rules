@@ -432,6 +432,10 @@
 
 ### H ###
 
+# https://store.steampowered.com/app/976730/
+{ "name": "mcclauncher.exe", "type": "Game" }
+{ "name": "MCC-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 # Windows version
 { "name": "hoi4.exe", "type": "Game" }
@@ -878,6 +882,10 @@
 
 # TERA Online MMORPG Game
 { "name": "TERA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/105600/
+{ "name": "Terraria", "type": "Game" }
+{ "name": "Terraria.bin.x86_64", "type": "Game" }
 
 # TESO https://store.steampowered.com/app/306130/
 { "name": "eso64.exe", "type": "Game" }
