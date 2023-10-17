@@ -388,6 +388,9 @@
 # https://store.steampowered.com/app/637650/
 { "name": "ffxv_s.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1680880
+{ "name": "FORSPOKEN.exe", "type": "Game" }
+
 ### G ###
 
 # GenshinImpact International version
@@ -609,6 +612,10 @@
 # https://store.steampowered.com/app/1049890/
 { "name": "LittleWitchNobeta.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1501750
+{ "name": "LOTF2.exe", "type": "Game" }
+{ "name": "LOTF2-Win64-Shipping.exe", "type": "Game" }
+
 ### M ###
 
 # https://store.steampowered.com/app/42910/Magicka/
@@ -704,6 +711,13 @@
 # ParanormalHK https://store.steampowered.com/app/1178490
 { "name": "PuzzleGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "PuzzleGame.exe", "type": "Game" }
+
+# Payday3 https://store.steampowered.com/app/1272080
+{ "name": "PAYDAY3Client.exe", "type": "Game" }
+{ "name": "PAYDAY3Client-Win64-Shipping.exe", "type": "Game" }
+
+# PartyAnimals https://store.steampowered.com/app/1260320
+{ "name": "PartyAnimals.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/238960
 # Steam version
@@ -883,6 +897,9 @@
 
 # https://store.steampowered.com/app/814380
 { "name": "sekiro.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1602080
+{ "name": "Soulstice.exe", "type": "Game" }
 
 ### T ###
 
