@@ -284,8 +284,10 @@
 { "name": "disgaea5.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/205100
+# https://store.steampowered.com/app/614570
 # https://store.steampowered.com/app/403640
 { "name": "Dishonored.exe", "type": "Game" }
+{ "name": "Dishonored_DO.exe", "type": "Game" }
 { "name": "Dishonored2.exe", "type": "Game" }
 
 # Divinity: Original Sin https://store.steampowered.com/app/373420
@@ -462,6 +464,9 @@
 
 # https://store.steampowered.com/app/824600/
 { "name": "HROT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/686810
+{ "name": "HLL-Win64-Shipping.exe", "type": "Game" }
 
 ### I ###
 
@@ -871,8 +876,9 @@
 
 # System Shock 2 https://store.steampowered.com/app/238210
 { "name": "SS2.exe", "type": "Game" }
-# System Shock Remake https://store.steampowered.com/app/668580/Atomic_Heart/
-{ "name": "SystemReShock-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/814380
+{ "name": "sekiro.exe", "type": "Game" }
 
 ### T ###
 
