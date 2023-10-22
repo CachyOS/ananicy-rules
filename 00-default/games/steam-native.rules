@@ -1,34 +1,44 @@
 # Rules for Steam and Steam Apps: http://store.steampowered.com
 { "name": "steam", "type": "IN_DIFF" }
+
 # Steam integrated web browser
 { "name": "steamwebhelper", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/app/730
 { "name": "csgo_linux64", "type": "Game" }
 { "name": "cs2", "type": "Game" }
+
 # http://store.steampowered.com/app/355180
 { "name": "cure_linux", "type": "Game" }
+
 # http://store.steampowered.com/app/570
 { "name": "dota2", "type": "Game" }
+
 # https://store.steampowered.com/app/4000
 { "name": "gmod", "type": "Game" }
+
 # https://store.steampowered.com/app/70
 { "name": "hl_linux", "type": "Game" }
+
 # http://store.steampowered.com/app/440
 { "name": "hl2_linux", "type": "Game" }
+
 # https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
 { "name": "jbep3", "type": "Game" }
+
 # http://store.steampowered.com/app/4920
 { "name": "ns2_linux", "type": "Game" }
+
 # https://store.steampowered.com/app/620
 { "name": "portal2_linux", "type": "Game" }
+
 # https://store.steampowered.com/app/17500
 { "name": "zps_linux", "type": "Game" }
 
 # Common bin names
 # https://store.steampowered.com/app/200510
-{ "name": "game.x86_64", "type": "Game" }
 { "name": "game.x86", "type": "Game" }
+{ "name": "game.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/391540
 # https://store.steampowered.com/app/447530
@@ -39,25 +49,34 @@
 
 # http://store.steampowered.com/app/233250
 { "name": "PA", "type": "Game" }
+
 # PA UI
 { "name": "CoherentUI_Host", "type": "Game" }
 
 # http://store.steampowered.com/app/41070
 { "name": "Sam3", "type": "Game" }
+
 # http://store.steampowered.com/app/212070
 { "name": "StarConflict", "type": "Game" }
+
 # http://store.steampowered.com/app/236390
 { "name": "aces", "type": "Game" }
+
 # http://store.steampowered.com/app/252950
 { "name": "RocketLeague", "type": "Game" }
+
 # http://store.steampowered.com/app/233720
 { "name": "ss2013.bin", "type": "Game" }
+
 # http://store.steampowered.com/app/206420
 { "name": "SaintsRow4.i386", "type": "Game" }
+
 # http://store.steampowered.com/app/203160
 { "name": "TombRaider", "type": "Game" }
+
 # https://store.steampowered.com/app/750920/
 { "name": "ShadowOfTheTombRaider", "type": "Game" }
+
 # http://store.steampowered.com/app/301520
 { "name": "Robocraft.x86_64", "type": "Game" }
 
@@ -238,8 +257,8 @@
 
 # https://store.steampowered.com/app/223470
 # https://store.steampowered.com/app/360960
-{ "name": "postal2-bin", "type": "Game" }
 { "name": "paradiselost-bin", "type": "Game" }
+{ "name": "postal2-bin", "type": "Game" }
 
 # https://store.steampowered.com/app/300550
 { "name": "Dragonfall", "type": "Game" }
@@ -254,8 +273,8 @@
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
 
 # https://store.steampowered.com/app/332200
-{ "name": "AxiomVerge.bin.x86_64", "type": "Game" }
 { "name": "AxiomVerge.bin.x86", "type": "Game" }
+{ "name": "AxiomVerge.bin.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/200900
 { "name": "CaveStory+", "type": "Game" }
@@ -289,8 +308,8 @@
 { "name": "HitmanPro", "type": "Game" }
 
 # https://store.steampowered.com/app/231160
-{ "name": "TheSwapper.bin.x86_64", "type": "Game" }
 { "name": "TheSwapper.bin.x86", "type": "Game" }
+{ "name": "TheSwapper.bin.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/49520
 { "name": "Borderlands2", "type": "Game" }
@@ -308,16 +327,16 @@
 # https://store.steampowered.com/app/22180
 # https://store.steampowered.com/app/22120
 # https://store.steampowered.com/app/22140
-{ "name": "penumbra", "type": "Game" }
 { "name": "blackplague", "type": "Game" }
+{ "name": "penumbra", "type": "Game" }
 { "name": "requiem", "type": "Game" }
 
 # https://store.steampowered.com/app/286220
 { "name": "pshd", "type": "Game" }
 
 # https://store.steampowered.com/app/282140
-{ "name": "Soma.bin.x86_64", "type": "Game" }
 { "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
+{ "name": "Soma.bin.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/291650
 # https://store.steampowered.com/app/560130
@@ -328,8 +347,8 @@
 { "name": "Timespinner", "type": "Game" }
 
 # https://store.steampowered.com/app/200710
-{ "name": "Torchlight2.bin.x86_64", "type": "Game" }
 { "name": "Torchlight2.bin.x86", "type": "Game" }
+{ "name": "Torchlight2.bin.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/272270
 { "name": "TidesOfNumenera", "type": "Game" }
@@ -342,8 +361,8 @@
 { "name": "trine3_linux_64bit", "type": "Game" }
 
 # https://store.steampowered.com/app/362960
-{ "name": "Tyranny.x86_64", "type": "Game" }
 { "name": "Tyranny.x86", "type": "Game" }
+{ "name": "Tyranny.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/70300
 { "name": "VVVVVV", "type": "Game" }

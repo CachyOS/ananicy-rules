@@ -1,3 +1,2 @@
 # Tailscale - Userspace wireguard overlay (https://github.com/tailscale/tailscale)
-
 { "name": "tailscaled", "type": "LowLatency_RT", "ionice": 1 }
