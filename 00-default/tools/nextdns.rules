@@ -1,4 +1,3 @@
 # NextDNS is a DNS resolution service with features like adblocking, DoT/DoH.
 # The app here has a LowLatency_RT because DNS requests go through it.
-
 { "name": "nextdns", "type": "LowLatency_RT", "ionice": 1 }

@@ -1,9 +1,9 @@
-### Chromium-Based Browsers
+### Chromium-Based Browsers ###
 
 # Brave - https://brave.com/
+{ "name": "/usr/lib/brave-bin/brave", "type": "Doc-View" }
 { "name": "brave", "type": "Doc-View" }
 { "name": "brave-bin", "type": "Doc-View" }
-{ "name": "/usr/lib/brave-bin/brave", "type": "Doc-View" }
 { "name": "brave-browser", "type": "Doc-View" }
 { "name": "brave-sandbox", "type": "Doc-View" }
 
@@ -25,7 +25,7 @@
 { "name": "thorium-browser-unstable", "type": "Doc-View" }
 { "name": "thorium-shell", "type": "Doc-View" }
 
-### Firefox-Based Browsers
+### Firefox-Based Browsers ###
 
 # Cachy - https://cachyos.org/
 { "name": "cachy-browser", "type": "Doc-View" }

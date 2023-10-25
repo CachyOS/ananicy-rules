@@ -1,30 +1,38 @@
 { "name": "atom", "type": "Doc-View" }
 { "name": "pulsar", "type": "Doc-View" }
+
 # https://github.com/VSCodium/vscodium
 { "name": "codium", "type": "Doc-View" }
+
 # https://code.visualstudio.com/
 { "name": "code", "type": "Doc-View" }
 { "name": "code-insiders", "type": "Doc-View" }
 { "name": "code.js", "type": "Doc-View" }
 { "name": "micro", "type": "Doc-View" }
+
 # vim: https://www.vim.org/
 # nvim: https://neovim.io/
-{ "name": "vim", "type": "Doc-View" }
 { "name": "nvim", "type": "Doc-View" }
+{ "name": "vim", "type": "Doc-View" }
 { "name": "lapce", "type": "Doc-View" }
+
 # GUI git client: https://www.sublimemerge.com/
 { "name": "sublime_merge", "type": "Doc-View" }
 { "name": "sublime-text", "type": "Doc-View" }
+
 # https://www.sublimetext.com
+{ "name": "nano", "type": "Doc-View" }
+{ "name": "plugin_host", "type": "Doc-View" }
 { "name": "subl3", "type": "Doc-View" }
 { "name": "sublime_text", "type": "Doc-View" }
-{ "name": "plugin_host", "type": "Doc-View" }
-{ "name": "nano", "type": "Doc-View" }
 { "name": "kate", "type": "Doc-View" }
+
 # https://www.gnu.org/software/emacs
 { "name": "emacs", "type": "Doc-View" }
 { "name": "emacsclient", "type": "Doc-View" }
+
 # https://kakoune.org
 { "name": "kak", "type": "Doc-View" }
+
 # https://helix-editor.com
 { "name": "hx", "type": "Doc-View" }

@@ -1,4 +1,5 @@
 # youtube-dl - video downloader https://rg3.github.io/youtube-dl/
 { "name": "youtube-dl", "type": "BG_CPUIO" }
+
 # yt-dlp - a fork of youtube-dl https://github.com/yt-dlp/yt-dlp/
 { "name": "yt-dlp", "type": "BG_CPUIO" }

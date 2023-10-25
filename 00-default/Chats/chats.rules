@@ -1,40 +1,49 @@
 # Zoom - https://zoom.us
 { "name": "zoom", "type": "Chat" }
+
 # weechat: https://weechat.org/
 { "name": "weechat", "type": "Chat" }
+
 # https://www.viber.com
 { "name": "viber", "type": "Chat" }
+
 # https://desktop.telegram.org/
+{ "name": "Telegram", "type": "Chat" }
 { "name": "telegram-desktop", "type": "Chat" }
 { "name": "telegram-desktop.bin", "type": "Chat" }
-{ "name": "Telegram", "type": "Chat" }
 { "name": "telegram", "type": "Chat" }
+
 # Discord: https://discord.com/
 { "name": "Discord", "type": "Chat" }
-{ "name": "DiscordPTB", "type": "Chat" }
 { "name": "DiscordCanary", "type": "Chat" }
 { "name": "DiscordDevelopment", "type": "Chat" }
+{ "name": "DiscordPTB", "type": "Chat" }
 { "name": "webcord", "type": "Chat" }
 { "name": "armcord", "type": "Chat" }
+
 # https://hexchat.github.io
 { "name": "hexchat", "type": "Chat" }
+
 # Teams: https://teams.microsoft.com/downloadsallDevicesSection
-{ "name": "teams", "type": "Chat" }
 { "name": "kotatogram-desktop", "type": "Chat" }
+{ "name": "teams", "type": "Chat" }
 { "name": "kotatogram-desktop.bin", "type": "Chat" }
+
 # http://vk.com/messenger
-{ "name": "vk", "type": "Chat" }
+{ "name": "caprine", "type": "Chat" }
+{ "name": "qtox", "type": "Chat" }
+{ "name": "rambox", "type": "Chat" }
 { "name": "signal-desktop", "type": "Chat" }
 { "name": "signal-desktop-beta", "type": "Chat" }
 { "name": "skypeforlinux", "type": "Chat" }
 { "name": "slack", "type": "Chat" }
-{ "name": "rambox", "type": "Chat" }
-{ "name": "qtox", "type": "Chat" }
-{ "name": "caprine", "type": "Chat" }
+{ "name": "vk", "type": "Chat" }
 { "name": "mailspring", "type": "Chat" }
+
 # https://www.mozilla.org/en-US/thunderbird/
 { "name": "thunderbird", "type": "Chat" }
+
 # Franz and its forks: https://meetfranz.com/
-{ "name": "franz", "type": "Chat" }
 { "name": "ferdi", "type": "Chat" }
 { "name": "ferdium", "type": "Chat" }
+{ "name": "franz", "type": "Chat" }
