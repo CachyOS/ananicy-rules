@@ -16,12 +16,12 @@ You can add your favorite games, apps, and more. Any help would be greatly appre
 ### Examples of rules
 The **first example** is simple. In the **second example**, it is different because some games generate multiple processes. In such cases, you need to add all the processes related to the game.
 
-#### 1. [Example of rule for the Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/games/justcause2.rules)
+#### 1. [Example rule for Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/8bfce840ae0db6f99c706c919ac61f3feff79db7/00-default/games/wine_proton.rules#L585)
 ```
 # https://store.steampowered.com/app/8190
 { "name": "JustCause2.exe", "type": "Game" }
 ```
-#### 2. [Example of rules for the The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/games/TheOuterWorlds.rules)
+#### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/8bfce840ae0db6f99c706c919ac61f3feff79db7/00-default/games/wine_proton.rules#L1086)
 ```
 # https://store.steampowered.com/app/578650
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game"}
