@@ -20,11 +20,6 @@
 # Opera - https://www.opera.com/
 { "name": "opera", "type": "Doc-View" }
 
-# Thorium - https://thorium.rocks/
-{ "name": "thorium", "type": "Doc-View" }
-{ "name": "thorium-browser-unstable", "type": "Doc-View" }
-{ "name": "thorium-shell", "type": "Doc-View" }
-
 ### Firefox-Based Browsers ###
 
 # Cachy - https://cachyos.org/
@@ -48,9 +43,6 @@
 { "name": "librewolf", "type": "Doc-View" }
 { "name": "librewolf-bin", "type": "Doc-View" }
 { "name": "librewolf-nightly", "type": "Doc-View" }
-
-# Mercury - https://thorium.rocks/mercury
-{ "name": "mercury-bin", "type": "Doc-View" }
 
 # Tor - https://www.torproject.org
 { "name": "firefox.real", "type": "Doc-View" }
