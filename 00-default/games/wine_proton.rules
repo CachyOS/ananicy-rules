@@ -837,6 +837,10 @@
 # https://store.steampowered.com/app/214870/Painkiller_Hell__Damnation/
 { "name": "PKHDGame-Win32-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1623730/Palworld
+{ "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Palworld.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/39530/Painkiller_Black_Edition/
 { "name": "Painkiller.exe", "type": "Game" }
 
