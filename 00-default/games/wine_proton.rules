@@ -77,6 +77,9 @@
 { "name": "AtomicHeart-Win64-Shipping.exe", "type": "Game" }
 { "name": "AtomicHeart.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/
+{ "name": "Ace7Game.exe", "type": "Game" }
+
 ### B ###
 
 # https://store.steampowered.com/app/208650/Batman_Arkham_Knight/
@@ -288,6 +291,7 @@
 
 # https://store.steampowered.com/app/548430/Deep_Rock_Galactic/
 { "name": "FSD.exe", "type": "Game" }
+{ "name": "FSD-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1929610
 { "name": "Demonologist.exe", "type": "Game" }
@@ -813,6 +817,9 @@
 # https://store.steampowered.com/app/283290
 { "name": "Nosferatu.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
+{ "name": "MWOClient.exe", "type": "Game" }
+
 ### O ###
 
 # https://store.steampowered.com/app/900883
@@ -889,6 +896,9 @@
 
 # https://store.steampowered.com/app/1056640
 { "name": "pso2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/895870/Project_Wingman/
+{ "name": "ProjectWingman.exe", "type": "Game" }
 
 ### Q ###
 ### R ###
