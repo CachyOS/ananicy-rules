@@ -1,6 +1,11 @@
 # General rules for Wine / Proton games
 # Add by sort! Wrap game series!
 
+### 1 ###
+# https://store.steampowered.com/app/282800/100_Orange_Juice/
+{ "name": "100orange.exe", "type": "Game" }
+{ "name": "100orange_x86.exe", "type": "Game" }
+
 ### A ###
 
 # https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
@@ -419,6 +424,9 @@
 
 # https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
 { "name": "eurotrucks2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
+{ "name": "EDF5.exe", "type": "Game" }
 
 ### F ###
 
@@ -986,6 +994,9 @@
 # https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/400910/RabiRibi/
+{ "name": "rabiribi.exe", "type": "Game" }
+
 ### S ###
 
 # https://store.steampowered.com/app/55230/Saints_Row_The_Third/
@@ -1089,6 +1100,12 @@
 
 # https://store.steampowered.com/app/1377580/Soulworker/
 { "name": "SoulWorker.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/411830/SENRAN_KAGURA_SHINOVI_VERSUS/
+{ "name": "SKShinoviVersus.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/502800/SENRAN_KAGURA_ESTIVAL_VERSUS/
+{ "name": "SKEstivalVersus.exe", "type": "Game" }
 
 ### T ###
 
