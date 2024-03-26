@@ -20,6 +20,10 @@
 # Opera - https://www.opera.com/
 { "name": "opera", "type": "Doc-View" }
 
+# Vivaldi  - https://vivaldi.com/
+{ "name": "vivaldi", "type": "Doc-View" }
+{ "name": "vivaldi-snapshot", "type": "Doc-View" }
+
 ### Firefox-Based Browsers ###
 
 # Cachy - https://cachyos.org/
