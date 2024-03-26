@@ -1,0 +1,10 @@
+# Teeworlds is a free online multiplayer game, available for all major operating systems.
+# https://teeworlds.com/
+{ "name": "teeworlds", "type": "Game" }
+{ "name": "teeworlds_srv", "type": "LowLatency_RT" }
+
+# DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay.
+# https://ddnet.org/
+{ "name": "DDNet", "type": "Game" }
+{ "name": "DDNet-Server", "type": "LowLatency_RT" }
+
