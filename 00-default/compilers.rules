@@ -1,0 +1,24 @@
+# C
+{ "name": "clang", "type": "compiler" }
+{ "name": "clang++", "type": "compiler" }
+{ "name": "cmake", "type": "compiler" }
+{ "name": "gcc", "type": "compiler" }
+{ "name": "g++", "type": "compiler" }
+{ "name": "make", "type": "compiler" }
+
+# Go
+{ "name": "go", "type": "compiler" }
+
+# Java
+{ "name": "java", "type": "compiler" }
+{ "name": "javac", "type": "compiler" }
+
+# Rust
+{ "name": "cargo", "type": "compiler" }
+{ "name": "rustc", "type": "compiler" }
+{ "name": "rust-analyzer", "type": "compiler" }
+
+# Build systems
+{ "name": "bazel", "type": "compiler" }
+{ "name": "ninja", "type": "compiler" }
+{ "name": "meson", "type": "compiler" }
