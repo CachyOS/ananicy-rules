@@ -1,24 +1,33 @@
 # C
-{ "name": "clang", "type": "compiler" }
-{ "name": "clang++", "type": "compiler" }
-{ "name": "cmake", "type": "compiler" }
-{ "name": "gcc", "type": "compiler" }
-{ "name": "g++", "type": "compiler" }
-{ "name": "make", "type": "compiler" }
+{ "name": "clang", "type": "Compiler" }
+{ "name": "clang++", "type": "Compiler" }
+{ "name": "cmake", "type": "Compiler" }
+{ "name": "gcc", "type": "Compiler" }
+{ "name": "g++", "type": "Compiler" }
+{ "name": "make", "type": "Compiler" }
 
 # Go
-{ "name": "go", "type": "compiler" }
+{ "name": "go", "type": "Compiler" }
 
 # Java
-{ "name": "java", "type": "compiler" }
-{ "name": "javac", "type": "compiler" }
+{ "name": "java", "type": "Compiler" }
+{ "name": "javac", "type": "Compiler" }
 
 # Rust
-{ "name": "cargo", "type": "compiler" }
-{ "name": "rustc", "type": "compiler" }
-{ "name": "rust-analyzer", "type": "compiler" }
+{ "name": "cargo", "type": "Compiler" }
+{ "name": "rustc", "type": "Compiler" }
+{ "name": "rust-analyzer", "type": "Compiler" }
+
+# Linkers
+{ "name": "lld", "type": "Compiler" }
+{ "name": "mold", "type": "Compiler" }
+{ "name": "ld", "type": "Compiler" }
+{ "name": "ld.bfd", "type": "Compiler" }
+{ "name": "ld.mold", "type": "Compiler" }
+{ "name": "ld.lld", "type": "Compiler" }
+{ "name": "lto1-ltrans", "type": "Compiler" }
 
 # Build systems
-{ "name": "bazel", "type": "compiler" }
-{ "name": "ninja", "type": "compiler" }
-{ "name": "meson", "type": "compiler" }
+{ "name": "bazel", "type": "Compiler" }
+{ "name": "ninja", "type": "Compiler" }
+{ "name": "meson", "type": "Compiler" }
