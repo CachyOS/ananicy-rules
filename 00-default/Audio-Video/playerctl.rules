@@ -1,0 +1,4 @@
+# Daemon for controlling music and video players
+# https://github.com/altdesktop/playerctl/issues/161
+
+{ "name": "playerctld", "type": "Player-Video" }
