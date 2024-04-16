@@ -1,2 +1,3 @@
 # https://github.com/Alexays/Waybar
 { "name": "waybar", "type": "LowLatency_RT" }
+{ "name": ".waybar-wrapped", "type": "LowLatency_RT" }
