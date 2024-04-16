@@ -13,6 +13,7 @@
 { "name": "google-chrome-dev", "type": "Doc-View" }
 { "name": "google-chrome-unstable", "type": "Doc-View" }
 { "name": "nacl_helper", "type": "Doc-View" }
+{ "name": "chrome_crashpad_handler", "type": "BG_CPUIO" }
 
 # Chromium - https://www.chromium.org/
 { "name": "chromium", "type": "Doc-View" }
