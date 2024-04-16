@@ -1,0 +1,8 @@
+{ "name": "devmon", "type": "Service" }
+{ "name": "udevil", "type": "Service" }
+
+{ "name": "dconf-service", "type": "Service" }
+
+{ "name": "gpg", "type": "Service" }
+{ "name": "gpg-agent", "type": "Service" }
+{ "name": "scdaemon", "type": "Service" }
