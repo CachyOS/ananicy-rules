@@ -54,3 +54,6 @@
 
 # Waterfox - https://www.waterfox.net
 { "name": "waterfox-g", "type": "Doc-View" }
+
+# Microsoft Edge - https://www.microsoft.com/en-us/edge/
+{ "name": "msedge", "type": "Doc-View" }
