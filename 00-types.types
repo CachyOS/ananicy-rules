@@ -28,6 +28,9 @@
 # Type: Chat
 { "type": "Chat", "nice": -3, "ioclass": "best-effort", "ionice": 7 , "latency_nice": -3 }
 
+# Type: Compiler
+{ "type":"Compiler", "nice": 13, "latency_nice": 13 }
+
 # Type: Service
 { "type": "Service", "nice": 10, "ioclass": "best-effort", "ionice": 6 , "latency_nice": 10 }
 
