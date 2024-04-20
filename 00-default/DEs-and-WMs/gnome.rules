@@ -3,6 +3,7 @@
 
 # Used for password management - https://wiki.archlinux.org/title/GNOME/Keyring
 { "name": "gnome-keyring-daemon", "type": "Service" }
+{ "name": ".gnome-keyring-", "type": "Service" }
 
 # Used for pam/gdm-password
 { "name": "gdm-session-worker", "type": "Service" }

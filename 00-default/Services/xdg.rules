@@ -1,0 +1,17 @@
+# https://flatpak.github.io/xdg-desktop-portal/
+{ "name": "xdg-desktop-portal", "type": "Service" }
+{ "name": "xdg-desktop-portal-gtk", "type": "Service" }
+{ "name": "xdg-desktop-portal-gnome", "type": "Service" }
+{ "name": "xdg-desktop-portal-hyprland", "type": "Service" }
+{ "name": "xdg-desktop-portal-kde", "type": "Service" }
+{ "name": "xdg-desktop-portal-lxqt", "type": "Service" }
+{ "name": "xdg-desktop-portal-shana", "type": "Service" }
+{ "name": "xdg-desktop-portal-wlr", "type": "Service" }
+{ "name": "xdg-desktop-portal-xapp", "type": "Service" }
+
+{ "name": "xdg-document-portal", "type": "Service" }
+{ "name": "xdg-permission-store", "type": "Service" }
+
+{ "name": ".xdg-desktop-po", "type": "Service" }
+{ "name": ".xdg-document-p", "type": "Service" }
+{ "name": ".xdg-permission", "type": "Service" }

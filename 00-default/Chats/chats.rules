@@ -12,9 +12,13 @@
 { "name": "telegram-desktop", "type": "Chat" }
 { "name": "telegram-desktop.bin", "type": "Chat" }
 { "name": "telegram", "type": "Chat" }
+{ "name": ".telegram-deskt", "type": "Chat" }
+{ "name": ".telegram-desktop", "type": "Chat" }
 
 # Discord: https://discord.com/
 { "name": "Discord", "type": "Chat" }
+{ "name": ".Discord-wrappe", "type": "Chat" }
+{ "name": ".Discord-wrapped", "type": "Chat" }
 { "name": "DiscordCanary", "type": "Chat" }
 { "name": "DiscordDevelopment", "type": "Chat" }
 { "name": "DiscordPTB", "type": "Chat" }
@@ -43,6 +47,7 @@
 
 # https://www.mozilla.org/en-US/thunderbird/
 { "name": "thunderbird", "type": "Chat" }
+{ "name": ".thunderbird-wrapped", "type": "Chat" }
 
 # Franz and its forks: https://meetfranz.com/
 { "name": "ferdi", "type": "Chat" }
