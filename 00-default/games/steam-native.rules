@@ -20,8 +20,11 @@
 # https://store.steampowered.com/app/70
 { "name": "hl_linux", "type": "Game" }
 
-# http://store.steampowered.com/app/440
+# https://store.steampowered.com/app/220
 { "name": "hl2_linux", "type": "Game" }
+
+# http://store.steampowered.com/app/440
+{ "name": "tf_linux64", "type": "Game" }
 
 # https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
 { "name": "jbep3", "type": "Game" }
