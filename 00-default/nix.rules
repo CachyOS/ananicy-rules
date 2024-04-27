@@ -6,9 +6,20 @@
 
 # https://github.com/maralorn/nix-output-monitor
 { "name": "nom", "type": "BG_CPUIO" }
+{ "name": "nom-shell", "type": "BG_CPUIO" }
 
 # Nix language LSP
 # https://github.com/nix-community/nixd
 { "name": "nixd", "type": "BG_CPUIO" }
+{ "name": "nixd-attrset-eval", "type": "BG_CPUIO" }
+
 # https://github.com/oxalica/nil
 { "name": "nil", "type": "BG_CPUIO" }
+
+# https://github.com/Mic92/nixpkgs-review
+{ "name": "nixpkgs-review", "type": "BG_CPUIO" }
+{ "name": ".nixpkgs-review-wrapped", "type": "BG_CPUIO" }
+
+# https://github.com/viperML/nh
+{ "name": "nh", "type": "BG_CPUIO" }
+{ "name": ".nh-wrapped", "type": "BG_CPUIO" }
