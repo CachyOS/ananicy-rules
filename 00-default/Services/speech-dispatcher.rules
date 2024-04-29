@@ -1,0 +1,7 @@
+# https://github.com/brailcom/speechd
+{ "name": "speech-dispatcher", "type": "Service" }
+{ "name": "sd_pico", "type": "Service" }
+{ "name": "sd_flite", "type": "Service" }
+{ "name": "sd_dummy", "type": "Service" }
+{ "name": "sd_espeak-ng", "type": "Service" }
+{ "name": "sd_espeak-ng-mb", "type": "Service" }

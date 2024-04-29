@@ -4,6 +4,7 @@
 { "name": ".gvfsd-wrapped", "type": "Service" }
 
 { "name": "gvfsd-metadata", "type": "Service" }
+{ "name": ".gvfsd-metadata", "type": "Service" }
 
 { "name": "gvfsd-fuse", "type": "Service" }
 { "name": ".gvfsd-fuse-wra", "type": "Service" }
