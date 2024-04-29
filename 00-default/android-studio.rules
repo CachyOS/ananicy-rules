@@ -1,2 +1,7 @@
+# https://developer.android.com/studio
 { "name": "android-studio", "type": "Heavy_CPU" }
+{ "name": "android-studio-stable", "type": "Heavy_CPU" }
+{ "name": "android-studio-beta", "type": "Heavy_CPU" }
+{ "name": "android-studio-dev", "type": "Heavy_CPU" }
+{ "name": "android-studio-canary", "type": "Heavy_CPU" }
 { "name": "avd", "type": "Heavy_CPU" }
