@@ -1,0 +1,3 @@
+# https://github.com/clangd/clangd
+{ "name": "clangd", "type": "Service" }
+{ "name": "ion.clangd.main", "type": "Service" }
