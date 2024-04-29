@@ -1,4 +1,8 @@
+# https://github.com/containers/bubblewrap
+{ "name": "bwrap", "type": "Service" }
+
 { "name": "devmon", "type": "Service" }
+{ "name": "fsnotifier", "type": "Service" }
 { "name": "udevil", "type": "Service" }
 
 { "name": "dconf-service", "type": "Service" }
