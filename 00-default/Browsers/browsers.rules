@@ -57,3 +57,4 @@
 
 # Microsoft Edge - https://www.microsoft.com/en-us/edge/
 { "name": "msedge", "type": "Doc-View" }
+{ "name": "msedge_crashpad", "type": "BG_CPUIO" }
