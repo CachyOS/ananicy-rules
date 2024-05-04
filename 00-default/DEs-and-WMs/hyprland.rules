@@ -7,3 +7,7 @@
 # https://github.com/hyprland-community/pyprland
 { "name": "pypr", "type": "Image-View" }
 { "name": ".pypr-wrapped", "type": "Image-View" }
+
+{ "name": "hyprpaper", "type": "Service" }
+{ "name": "hypridle", "type": "Service" }
+{ "name": "hyprlock", "type": "Image-View" }
