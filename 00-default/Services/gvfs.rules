@@ -12,6 +12,18 @@
 { "name": "gvfsd-http", "type": "Service" }
 { "name": ".gvfsd-http-wra", "type": "Service" }
 
+{ "name": "gvfsd-dnssd", "type": "Service" }
+{ "name": ".gvfsd-dnssd-wr", "type": "Service" }
+
+{ "name": "gvfsd-network", "type": "Service" }
+{ "name": ".gvfsd-network-", "type": "Service" }
+
+{ "name": "gvfsd-recent", "type": "Service" }
+{ "name": ".gvfsd-recent-w", "type": "Service" }
+
+{ "name": "gvfsd-trash", "type": "Service" }
+{ "name": ".gvfsd-trash-wr", "type": "Service" }
+
 { "name": "gvfs-afc-volume-monitor", "type": "Service" }
 { "name": ".gvfs-afc-volum", "type": "Service" }
 

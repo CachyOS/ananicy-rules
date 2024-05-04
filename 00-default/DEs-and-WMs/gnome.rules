@@ -10,3 +10,7 @@
 
 # polkit-gnome
 { "name": "polkit-gnome-authentication-agent-1", "type": "Service" }
+
+# network-manager applet
+{ "name": "nm-applet", "type": "Service" }
+{ "name": ".nm-applet-wrap", "type": "Service" }

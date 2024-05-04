@@ -5,3 +5,7 @@
 { "name": "sd_dummy", "type": "Service" }
 { "name": "sd_espeak-ng", "type": "Service" }
 { "name": "sd_espeak-ng-mb", "type": "Service" }
+
+# https://github.com/numediart/MBROLA
+{ "name": "sd_espeak-ng-mbrola", "type": "Service" }
+{ "name": "mbrola", "type": "Service" }
