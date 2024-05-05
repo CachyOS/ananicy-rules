@@ -1241,6 +1241,9 @@
 { "name": "witcher2.exe", "type": "Game" }
 { "name": "witcher3.exe", "type": "Game" }
 
+# World of Warcraft
+{ "name": "Wow.exe", "type": "Game" }
+
 # https://worldofwarships.eu/
 # The Launcher is the application that downloads and applies the updates.
 # It regularly interrupts IO operations of other processes (e.g. Browsers, Image Viewers, Music Players, ...)
