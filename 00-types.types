@@ -1,7 +1,7 @@
 # Type: Game
 # Use more CPU time if possible
 # Games do not always need more IO, but in most cases can be hungry for CPU
-{ "type": "Game", "nice": -7, "ioclass": "best-effort", "latency_nice": -7 }
+{ "type": "Game", "nice": -5, "ioclass": "best-effort", "latency_nice": -5 }
 
 # Type: Player Audio/Video
 # Try to add more CPU power to decrease latency/lags
@@ -15,7 +15,7 @@
 
 # Type: Low Latency Realtime Apps
 # In general case not so heavy, but must not lag
-{ "type": "LowLatency_RT", "nice": -9, "ioclass": "best-effort", "latency_nice": -9 }
+{ "type": "LowLatency_RT", "nice": -12, "ioclass": "best-effort", "latency_nice": -9 }
 
 # Type: BackGround CPU/IO Load
 # Background CPU/IO it's needed, but it must be as silent as possible
