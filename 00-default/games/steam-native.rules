@@ -4,437 +4,495 @@
 # Steam integrated web browser
 { "name": "steamwebhelper", "type": "BG_CPUIO" }
 
-# https://store.steampowered.com/app/730
-{ "name": "csgo_linux64", "type": "Game" }
-{ "name": "cs2", "type": "Game" }
+### A ###
 
-# http://store.steampowered.com/app/355180
-{ "name": "cure_linux", "type": "Game" }
-
-# http://store.steampowered.com/app/570
-{ "name": "dota2", "type": "Game" }
-
-# https://store.steampowered.com/app/4000
-{ "name": "gmod", "type": "Game" }
-
-# https://store.steampowered.com/app/70
-{ "name": "hl_linux", "type": "Game" }
-
-# https://store.steampowered.com/app/220
-{ "name": "hl2_linux", "type": "Game" }
-
-# http://store.steampowered.com/app/440
-{ "name": "tf_linux64", "type": "Game" }
-
-# https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
-{ "name": "jbep3", "type": "Game" }
-
-# http://store.steampowered.com/app/4920
-{ "name": "ns2_linux", "type": "Game" }
-
-# https://store.steampowered.com/app/620
-{ "name": "portal2_linux", "type": "Game" }
-
-# https://store.steampowered.com/app/17500
-{ "name": "zps_linux", "type": "Game" }
-
-# Common bin names
-# https://store.steampowered.com/app/200510
-{ "name": "game.x86", "type": "Game" }
-{ "name": "game.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/391540
-# https://store.steampowered.com/app/447530
-# https://store.steampowered.com/app/491040
-# https://store.steampowered.com/app/242680
-# https://store.steampowered.com/app/643880
-{ "name": "runner", "type": "Game" }
-
-# http://store.steampowered.com/app/233250
-{ "name": "PA", "type": "Game" }
-
-# PA UI
-{ "name": "CoherentUI_Host", "type": "Game" }
-
-# http://store.steampowered.com/app/41070
-{ "name": "Sam3", "type": "Game" }
-
-# http://store.steampowered.com/app/212070
-{ "name": "StarConflict", "type": "Game" }
-
-# http://store.steampowered.com/app/236390
-{ "name": "aces", "type": "Game" }
-
-# http://store.steampowered.com/app/252950
-{ "name": "RocketLeague", "type": "Game" }
-
-# http://store.steampowered.com/app/233720
-{ "name": "ss2013.bin", "type": "Game" }
-
-# http://store.steampowered.com/app/206420
-{ "name": "SaintsRow4.i386", "type": "Game" }
-
-# http://store.steampowered.com/app/203160
-{ "name": "TombRaider", "type": "Game" }
-
-# https://store.steampowered.com/app/750920/
-{ "name": "ShadowOfTheTombRaider", "type": "Game" }
-
-# http://store.steampowered.com/app/301520
-{ "name": "Robocraft.x86_64", "type": "Game" }
-
-# http://store.steampowered.com/app/233130
-{ "name": "ShadowWarrior.bin.x86", "type": "Game" }
-
-# https://store.steampowered.com/app/394360
-{ "name": "hoi4", "type": "Game" }
-
-# https://store.steampowered.com/app/225840
-{ "name": "svencoop_linux", "type": "Game" }
-
-# https://store.steampowered.com/app/57300/
-{ "name": "Amnesia.bin.x86_64", "type": "Game" }
+# https://store.steampowered.com/app/332200/Axiom_Verge/
+{ "name": "AxiomVerge.bin.x86", "type": "Game" }
+{ "name": "AxiomVerge.bin.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/235800/Audiosurf_2/
 { "name": "Audiosurf2.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/349690/ARMED_SEVEN/
+{ "name": "ArmedSeven.x86", "type": "Game" }
+
+# https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
+{ "name": "Amnesia.bin.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/233550/Another_World__20th_Anniversary_Edition/
+{ "name": "AnotherWorld-amd64", "type": "Game" }
+
+### B ###
+
 # https://store.steampowered.com/app/22828
+# Store page is down
 { "name": "BaldursGate", "type": "Game" }
 
-# https://store.steampowered.com/app/257350/
+# https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "BaldursGateII", "type": "Game" }
 
 # https://store.steampowered.com/app/284160/BeamNGdrive/
 # Experimental native build
 { "name": "BeamNG.drive.x64", "type": "Game" }
 
-# https://store.steampowered.com/app/362890/
+# https://store.steampowered.com/app/362890/Black_Mesa/
 { "name": "bms_linux", "type": "Game" }
 
-# https://store.steampowered.com/app/474210
+# https://store.steampowered.com/app/474210/BUTCHER/
 { "name": "Butcher", "type": "Game" }
 
-# https://store.steampowered.com/app/330020/
+# https://store.steampowered.com/app/49520/Borderlands_2/
+{ "name": "Borderlands2", "type": "Game" }
+
+# https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/
+{ "name": "BorderlandsPreSequel", "type": "Game" }
+
+### C ###
+
+# https://store.steampowered.com/app/730/CounterStrike_2/
+{ "name": "csgo_linux64", "type": "Game" }
+{ "name": "cs2", "type": "Game" }
+
+# http://store.steampowered.com/app/355180/Codename_CURE/
+{ "name": "cure_linux", "type": "Game" }
+
+# https://store.steampowered.com/app/330020/Children_of_Morta/
 { "name": "ChildrenOfMorta", "type": "Game" }
 
 # https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.x64", "type": "Game" }
 
-# https://store.steampowered.com/app/368340/
+# https://store.steampowered.com/app/368340/CrossCode/
 { "name": "CrossCode", "type": "Game" }
 
-# https://store.steampowered.com/app/373420/
+# https://store.steampowered.com/app/200900/Cave_Story/
+{ "name": "CaveStory+", "type": "Game" }
+
+# https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/
+{ "name": "NecroDancer", "type": "Game" }
+
+# https://store.steampowered.com/app/504230/Celeste/
+{ "name": "Celeste.bin.x86_64", "type": "Game" }
+
+### Common bin names ###
+
+# https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
+{ "name": "game.x86", "type": "Game" }
+{ "name": "game.x86_64", "type": "Game" }
+# https://store.steampowered.com/app/391540/Undertale/
+# https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
+# https://store.steampowered.com/app/491040/Bot_Vice/
+# https://store.steampowered.com/app/242680/Nuclear_Throne/
+# https://store.steampowered.com/app/643880/Strikey_Sisters/
+{ "name": "runner", "type": "Game" }
+
+### D ###
+
+# http://store.steampowered.com/app/570/Dota_2/
+{ "name": "dota2", "type": "Game" }
+
+# https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 { "name": "EoCApp", "type": "Game" }
 
 # https://store.steampowered.com/app/383930 (AND OTHER DOORWAYS GAMES)
 { "name": "Doorways.x86", "type": "Game" }
 
-# https://store.steampowered.com/app/239140/
+# https://store.steampowered.com/app/239140/Dying_Light/
 { "name": "DyingLightGame", "type": "Game" }
 
-# https://store.steampowered.com/app/311690
+# https://store.steampowered.com/app/274520/Darkwood/
+{ "name": "Darkwood.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/495280/Disgaea_2_PC/
+{ "name": "Disgaea2SteamOS", "type": "Game" }
+
+# https://store.steampowered.com/app/219740/Dont_Starve/
+# https://store.steampowered.com/app/322330/Dont_Starve_Together/
+{ "name": "dontstarve_steam", "type": "Game" }
+
+### E ###
+
+# https://store.steampowered.com/app/311690/Enter_the_Gungeon/
 { "name": "EtG.x86_64", "type": "Game" }
+
+### F ###
 
 # https://store.steampowered.com/app/427520/Factorio/
 { "name": "factorio", "type": "Game" }
 
-# https://store.steampowered.com/app/265930
+# https://store.steampowered.com/app/668980/Forsaken_Remastered/
+{ "name": "ForsakenEx", "type": "Game" }
+
+# https://store.steampowered.com/app/493540/Figment/
+{ "name": "Figment.x86", "type": "Game" }
+{ "name": "Figment.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
+{ "name": "Fahrenheit", "type": "Game" }
+
+### G ###
+
+# https://store.steampowered.com/app/4000/Garrys_Mod/
+{ "name": "gmod", "type": "Game" }
+
+# https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame", "type": "Game" }
 
 # https://store.steampowered.com/app/431240/Golf_With_Your_Friends/
 { "name": "Golf With Your Friends.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/316790
+# https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/
 { "name": "GrimFandango", "type": "Game" }
 
-# https://store.steampowered.com/app/341940
-{ "name": "Hatred-Linux-Shipping", "type": "Game" }
+# https://store.steampowered.com/app/278930/GIGANTIC_ARMY/
+{ "name": "GiganticArmy.x86", "type": "Game" }
+
+### H ###
+
+# https://store.steampowered.com/app/70/HalfLife/
+{ "name": "hl_linux", "type": "Game" }
+
+# https://store.steampowered.com/app/220/HalfLife_2/
+# https://store.steampowered.com/app/400/Portal/
+{ "name": "hl2_linux", "type": "Game" }
 
 # https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
-# Linux version
 { "name": "hoi4", "type": "Game" }
 
-# https://store.steampowered.com/app/677120
+# https://store.steampowered.com/app/341940/Hatred/
+{ "name": "Hatred-Linux-Shipping", "type": "Game" }
+
+# https://store.steampowered.com/app/677120/Heroes_of_Hammerwatch/
 { "name": "HWR", "type": "Game" }
 
-# https://store.steampowered.com/app/219150
+# https://store.steampowered.com/app/219150/Hotline_Miami/
 { "name": "Hotline", "type": "Game" }
 
-# https://store.steampowered.com/app/274170
+# https://store.steampowered.com/app/274170/Hotline_Miami_2_Wrong_Number/
 { "name": "HotlineMiami2", "type": "Game" }
 
-# https://store.steampowered.com/app/257850
+# https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
 { "name": "HyperLightDrifter", "type": "Game" }
+
+# https://store.steampowered.com/app/236870/HITMAN/
+{ "name": "HitmanPro", "type": "Game" }
+
+# https://store.steampowered.com/app/367520/Hollow_Knight/
+{ "name": "hollow_knight.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/2218750/Halls_of_Torment/
+{ "name": "HallsOfTorment.x86_64", "type": "Game" }
+
+### I ###
 
 # https://store.steampowered.com/app/222880/Insurgency/
 { "name": "insurgency_linux", "type": "Game" }
 
-# https://store.steampowered.com/app/562860
+# https://store.steampowered.com/app/562860/Ion_Fury/
 { "name": "fury.bin", "type": "Game" }
 
-# https://store.steampowered.com/app/391720
+# https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/
+{ "name": "IcewindDale", "type": "Game" }
+
+# https://store.steampowered.com/app/421170/Indivisible/
+{ "name": "Indivisible.x86_64-pc-linux-gnu", "type": "Game" }
+
+### J ###
+
+# https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
+{ "name": "jbep3", "type": "Game" }
+
+# https://store.steampowered.com/app/262260/JetsnGuns_Gold/
+{ "name": "jng_gold", "type": "Game" }
+
+### K ###
+### L ###
+
+# https://store.steampowered.com/app/391720/Layers_of_Fear_2016/
 { "name": "LOF", "type": "Game" }
 
-# https://store.steampowered.com/app/361300
+# https://store.steampowered.com/app/230700/LaMulana/
+{ "name": "LaMulana.bin.x86", "type": "Game" }
+
+### M ###
+
+# https://store.steampowered.com/app/361300/Mother_Russia_Bleeds/
 { "name": "Mother Russia Bleeds.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/2274120
+# https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
+{ "name": "mcv_linux64", "type": "Game" }
+
+# https://store.steampowered.com/app/286690/Metro_2033_Redux/
+# https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
+{ "name": "metro", "type": "Game" }
+
+# https://store.steampowered.com/app/607260/McOsu/
+{ "name": "McEngine", "type": "Game" }
+
+### N ###
+
+# http://store.steampowered.com/app/4920/Natural_Selection_2/
+{ "name": "ns2_linux", "type": "Game" }
+
+# https://store.steampowered.com/app/2274120/NSFW_Solitaire/
 { "name": "NSFWSolitaire.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/704450
+# https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/
 { "name": "nwmain-linux", "type": "Game" }
 
-# https://store.steampowered.com/app/238320
+### O ###
+
+# https://store.steampowered.com/app/238320/Outlast/
 { "name": "OLGame.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/239030
+# https://store.steampowered.com/app/457140/Oxygen_Not_Included/
+{ "name": "OxygenNotIncluded", "type": "Game" }
+
+# https://store.steampowered.com/app/420530/OneShot/
+{ "name": "oneshot", "type": "Game" }
+
+### P ###
+
+# https://store.steampowered.com/app/620/Portal_2/
+{ "name": "portal2_linux", "type": "Game" }
+
+# store page is down http://store.steampowered.com/app/233250
+# https://steamdb.info/app/233250/
+# Planetary Annihilation
+{ "name": "PA", "type": "Game" }
+
+# PA UI
+{ "name": "CoherentUI_Host", "type": "Game" }
+
+# https://store.steampowered.com/app/239030/Papers_Please/
 { "name": "PapersPlease", "type": "Game" }
 
-# https://store.steampowered.com/app/356570
+# https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/677620/Splitgate/
-{ "name": "PortalWars-Linux-Shipping", "type": "Game" }
+# https://store.steampowered.com/app/246620/Plague_Inc_Evolved/
+{ "name": "PlagueIncEvolved.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/466300
+# https://store.steampowered.com/app/108600/Project_Zomboid/
+{ "name": "ProjectZomboid64", "type": "Game" }
+
+# https://store.steampowered.com/app/232770/POSTAL/
+{ "name": "postal1", "type": "Game" }
+
+# https://store.steampowered.com/app/401680/POSTAL_Redux/
+{ "name": "PostalREDUX-Linux-Shipping", "type": "Game" }
+
+# https://store.steampowered.com/app/223470/POSTAL_2/
+{ "name": "postal2-bin", "type": "Game" }
+
+# https://store.steampowered.com/app/360960/POSTAL_2_Paradise_Lost/
+{ "name": "paradiselost-bin", "type": "Game" }
+
+# https://store.steampowered.com/app/218620/PAYDAY_2/
+{ "name": "payday2_release", "type": "Game" }
+
+# https://store.steampowered.com/app/22180/Penumbra_Overture/
+{ "name": "penumbra", "type": "Game" }
+
+# https://store.steampowered.com/app/22140/Penumbra_Requiem/
+{ "name": "requiem", "type": "Game" }
+
+# https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
+{ "name": "blackplague", "type": "Game" }
+
+# https://store.steampowered.com/app/286220/Pier_Solar_and_the_Great_Architects/
+{ "name": "pshd", "type": "Game" }
+
+# https://store.steampowered.com/app/291650/Pillars_of_Eternity/
+{ "name": "PillarsOfEternity", "type": "Game" }
+
+# https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/
+{ "name": "PillarsOfEternityII", "type": "Game" }
+
+# https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/
 { "name": "Torment", "type": "Game" }
 
-# https://store.steampowered.com/app/559210
+### Q ###
+### R ###
+
+# http://store.steampowered.com/app/252950/Rocket_League/
+{ "name": "RocketLeague", "type": "Game" }
+
+# http://store.steampowered.com/app/301520/Robocraft/
+{ "name": "Robocraft.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/559210/Rakuen/
 { "name": "Rakuen.amd64", "type": "Game" }
 
 # https://store.steampowered.com/app/636480/Ravenfield/
 { "name": "ravenfield.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/564310
+### S ###
+
+# https://store.steampowered.com/app/564310/Serious_Sam_Fusion_2017_beta/
 { "name": "Sam2017", "type": "Game" }
 
-# https://store.steampowered.com/app/294440
+# http://store.steampowered.com/app/41070/Serious_Sam_3_BFE/
+{ "name": "Sam3", "type": "Game" }
+
+# http://store.steampowered.com/app/212070/Star_Conflict/
+{ "name": "StarConflict", "type": "Game" }
+
+# http://store.steampowered.com/app/233720/Surgeon_Simulator/
+{ "name": "ss2013.bin", "type": "Game" }
+
+# http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
+{ "name": "SaintsRow4.i386", "type": "Game" }
+
+# https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
+{ "name": "ShadowOfTheTombRaider", "type": "Game" }
+
+# http://store.steampowered.com/app/233130/Shadow_Warrior/
+{ "name": "ShadowWarrior.bin.x86", "type": "Game" }
+
+# https://store.steampowered.com/app/225840/Sven_Coop/
+{ "name": "svencoop_linux", "type": "Game" }
+
+# https://store.steampowered.com/app/677620/Splitgate/
+{ "name": "PortalWars-Linux-Shipping", "type": "Game" }
+
+# https://store.steampowered.com/app/211820/Starbound/
+{ "name": "starbound", "type": "Game" }
+
+# https://store.steampowered.com/app/300550/Shadowrun_Dragonfall__Directors_Cut/
+{ "name": "Dragonfall", "type": "Game" }
+
+# https://store.steampowered.com/app/346940/Shadowrun_Hong_Kong__Extended_Edition/
+{ "name": "SRHK", "type": "Game" }
+
+# https://store.steampowered.com/app/294440/Shadowgate/
 { "name": "Shadowgate.x86", "type": "Game" }
 
-# https://store.steampowered.com/app/278460
+# https://store.steampowered.com/app/278460/Skyborn/
 { "name": "Skyborn.amd64", "type": "Game" }
 
-# https://store.steampowered.com/app/405820
+# https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/
+{ "name": "ShovelKnight", "type": "Game" }
+
+# https://store.steampowered.com/app/96200/Steel_Storm_Burning_Retribution/
+{ "name": "steelstorm64", "type": "Game" }
+
+# https://store.steampowered.com/app/404100/STEEL_STRIDER/
+{ "name": "SteelStrider.x86", "type": "Game" }
+
+# https://store.steampowered.com/app/413150/Stardew_Valley/
+{ "name": "Stardew Valley", "type": "Game" }
+
+# https://store.steampowered.com/app/2066020/Soulstone_Survivors/
+{ "name": "Soulstone-Survivors.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/282140/SOMA/
+{ "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
+{ "name": "Soma.bin.x86_64", "type": "Game" }
+
+### The ###
+#There is a a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
+
+# https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
+{ "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
+
+# https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
+{ "name": "isaac.i386", "type": "Game" }
+{ "name": "isaac.x64", "type": "Game" }
+
+# https://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/
+{ "name": "TheEternalCastle", "type": "Game" }
+
+# https://store.steampowered.com/app/231160/The_Swapper/
+{ "name": "TheSwapper.bin.x86", "type": "Game" }
+{ "name": "TheSwapper.bin.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
+{ "name": "witcher2", "type": "Game" }
+
+### T ###
+
+# http://store.steampowered.com/app/440/Team_Fortress_2/
+{ "name": "tf_linux64", "type": "Game" }
+
+# http://store.steampowered.com/app/203160/Tomb_Raider/
+# 2013 reboot version
+{ "name": "TombRaider", "type": "Game" }
+
+# https://store.steampowered.com/app/405820/Turok/
 { "name": "TurokEx", "type": "Game" }
 
-# https://store.steampowered.com/app/405830
+# https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/
 { "name": "Turok2Ex", "type": "Game" }
+
+# https://store.steampowered.com/app/105600/Terraria/
+{ "name": "Terraria.bin.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/368620/Timespinner/
+{ "name": "Timespinner", "type": "Game" }
+
+# https://store.steampowered.com/app/200710/Torchlight_II/
+{ "name": "Torchlight2.bin.x86", "type": "Game" }
+{ "name": "Torchlight2.bin.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/272270/Torment_Tides_of_Numenera/
+{ "name": "TidesOfNumenera", "type": "Game" }
+
+# https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/
+{ "name": "trine1_linux_32bit", "type": "Game" }
+
+# https://store.steampowered.com/app/35720/Trine_2_Complete_Story/
+{ "name": "trine2_linux_32bit", "type": "Game" }
+
+# https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/
+{ "name": "trine3_linux_64bit", "type": "Game" }
+
+# https://store.steampowered.com/app/362960/Tyranny/
+{ "name": "Tyranny.x86", "type": "Game" }
+{ "name": "Tyranny.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/
+{ "name": "TotalWarhammer3", "type": "Game" }
+
+# https://store.steampowered.com/app/617480/Tower_of_Time/
+{ "name": "TowerOfTime.x86", "type": "Game" }
+{ "name": "TowerOfTime.x86_64", "type": "Game" }
+
+### U ###
+
+# Unreal Tournament 2004 https://steamcommunity.com/app/13230
+{ "name": "ut2004-bin", "type": "Game" }
+{ "name": "ut2004-bin-linux-amd64", "type": "Game" }
 
 # https://store.steampowered.com/app/304930/Unturned/
 { "name": "Unturned.x86_64", "type": "Game" }
+
+### V ###
+
+# https://store.steampowered.com/app/70300/VVVVVV/
+{ "name": "VVVVVV", "type": "Game" }
+
+### W ###
 
 # https://store.steampowered.com/app/236390/War_Thunder/
 { "name": "aces", "type": "Game" }
 { "name": "launcher", "type": "BG_CPUIO" }
 
-# https://store.steampowered.com/app/259130
+# https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland", "type": "Game" }
 
-# https://store.steampowered.com/app/240760
+# https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2", "type": "Game" }
 
-# https://store.steampowered.com/app/233550
-{ "name": "AnotherWorld-amd64", "type": "Game" }
+### X ###
 
-# https://store.steampowered.com/app/274520
-{ "name": "Darkwood.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/495280
-{ "name": "Disgaea2SteamOS", "type": "Game" }
-
-# https://store.steampowered.com/app/219740
-# https://store.steampowered.com/app/322330
-{ "name": "dontstarve_steam", "type": "Game" }
-
-# https://store.steampowered.com/app/321800
-{ "name": "IcewindDale", "type": "Game" }
-
-# https://store.steampowered.com/app/232770
-{ "name": "postal1", "type": "Game" }
-
-# https://store.steampowered.com/app/401680
-{ "name": "PostalREDUX-Linux-Shipping", "type": "Game" }
-
-# https://store.steampowered.com/app/211820
-{ "name": "starbound", "type": "Game" }
-
-# https://store.steampowered.com/app/223470
-# https://store.steampowered.com/app/360960
-{ "name": "paradiselost-bin", "type": "Game" }
-{ "name": "postal2-bin", "type": "Game" }
-
-# https://store.steampowered.com/app/300550
-{ "name": "Dragonfall", "type": "Game" }
-
-# https://store.steampowered.com/app/346940
-{ "name": "SRHK", "type": "Game" }
-
-# https://store.steampowered.com/app/963450
-{ "name": "TheEternalCastle", "type": "Game" }
-
-# https://store.steampowered.com/app/401360
-{ "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
-
-# https://store.steampowered.com/app/332200
-{ "name": "AxiomVerge.bin.x86", "type": "Game" }
-{ "name": "AxiomVerge.bin.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/200900
-{ "name": "CaveStory+", "type": "Game" }
-
-# https://store.steampowered.com/app/247080
-{ "name": "NecroDancer", "type": "Game" }
-
-# https://store.steampowered.com/app/668980
-{ "name": "ForsakenEx", "type": "Game" }
-
-# https://store.steampowered.com/app/262260
-{ "name": "jng_gold", "type": "Game" }
-
-# https://store.steampowered.com/app/250760
-{ "name": "ShovelKnight", "type": "Game" }
-
-# https://store.steampowered.com/app/96200
-{ "name": "steelstorm64", "type": "Game" }
-
-# https://store.steampowered.com/app/250900
-{ "name": "isaac.i386", "type": "Game" }
-{ "name": "isaac.x64", "type": "Game" }
-
-# https://store.steampowered.com/app/105600
-{ "name": "Terraria.bin.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/278930
-{ "name": "GiganticArmy.x86", "type": "Game" }
-
-# https://store.steampowered.com/app/236870
-{ "name": "HitmanPro", "type": "Game" }
-
-# https://store.steampowered.com/app/231160
-{ "name": "TheSwapper.bin.x86", "type": "Game" }
-{ "name": "TheSwapper.bin.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/49520
-{ "name": "Borderlands2", "type": "Game" }
-
-# https://store.steampowered.com/app/261640
-{ "name": "BorderlandsPreSequel", "type": "Game" }
-
-# https://store.steampowered.com/app/286690
-# https://store.steampowered.com/app/287390
-{ "name": "metro", "type": "Game" }
-
-# https://store.steampowered.com/app/218620
-{ "name": "payday2_release", "type": "Game" }
-
-# https://store.steampowered.com/app/22180
-# https://store.steampowered.com/app/22120
-# https://store.steampowered.com/app/22140
-{ "name": "blackplague", "type": "Game" }
-{ "name": "penumbra", "type": "Game" }
-{ "name": "requiem", "type": "Game" }
-
-# https://store.steampowered.com/app/286220
-{ "name": "pshd", "type": "Game" }
-
-# https://store.steampowered.com/app/282140
-{ "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
-{ "name": "Soma.bin.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/291650
-# https://store.steampowered.com/app/560130
-{ "name": "PillarsOfEternity", "type": "Game" }
-{ "name": "PillarsOfEternityII", "type": "Game" }
-
-# https://store.steampowered.com/app/368620
-{ "name": "Timespinner", "type": "Game" }
-
-# https://store.steampowered.com/app/200710
-{ "name": "Torchlight2.bin.x86", "type": "Game" }
-{ "name": "Torchlight2.bin.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/272270
-{ "name": "TidesOfNumenera", "type": "Game" }
-
-# https://store.steampowered.com/app/35700
-# https://store.steampowered.com/app/35720
-# https://store.steampowered.com/app/319910
-{ "name": "trine1_linux_32bit", "type": "Game" }
-{ "name": "trine2_linux_32bit", "type": "Game" }
-{ "name": "trine3_linux_64bit", "type": "Game" }
-
-# https://store.steampowered.com/app/362960
-{ "name": "Tyranny.x86", "type": "Game" }
-{ "name": "Tyranny.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/70300
-{ "name": "VVVVVV", "type": "Game" }
-
-# https://store.steampowered.com/app/20920
-{ "name": "witcher2", "type": "Game" }
-
-# https://store.steampowered.com/app/268500
+# https://store.steampowered.com/app/268500/XCOM_2/
 { "name": "XCOM2", "type": "Game" }
 
-# https://store.steampowered.com/app/349690
-{ "name": "ArmedSeven.x86", "type": "Game" }
+### Y ###
+### Z ###
 
-# https://store.steampowered.com/app/312840
-{ "name": "Fahrenheit", "type": "Game" }
+# https://store.steampowered.com/app/17500/Zombie_Panic_Source/
+{ "name": "zps_linux", "type": "Game" }
 
-# https://store.steampowered.com/app/230700
-{ "name": "LaMulana.bin.x86", "type": "Game" }
-
-# https://store.steampowered.com/app/404100
-{ "name": "SteelStrider.x86", "type": "Game" }
-
-# https://store.steampowered.com/app/413150
-{ "name": "Stardew Valley", "type": "Game" }
-
-# https://store.steampowered.com/app/504230
-{ "name": "Celeste.bin.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/457140
-{ "name": "OxygenNotIncluded", "type": "Game" }
-
-# https://store.steampowered.com/app/246620
-{ "name": "PlagueIncEvolved.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/493540
-{ "name": "Figment.x86", "type": "Game" }
-{ "name": "Figment.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/420530
-{ "name": "oneshot", "type": "Game" }
-
-# https://store.steampowered.com/app/607260
-{ "name": "McEngine", "type": "Game" }
-
-# https://store.steampowered.com/app/367520/
-{ "name": "hollow_knight.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/421170
-{ "name": "Indivisible.x86_64-pc-linux-gnu", "type": "Game" }
-
-# https://store.steampowered.com/app/1142710
-{ "name": "TotalWarhammer3", "type": "Game" }
-
-# https://store.steampowered.com/app/2218750/
-{ "name": "HallsOfTorment.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/617480/
-{ "name": "TowerOfTime.x86", "type": "Game" }
-{ "name": "TowerOfTime.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/2066020/
-{ "name": "Soulstone-Survivors.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/108600
-{ "name": "ProjectZomboid64", "type": "Game" }
-
-# https://store.steampowered.com/app/1012110/
-{ "name": "mcv_linux64", "type": "Game" }
-
-# https://steamcommunity.com/app/13230
-{ "name": "ut2004-bin", "type": "Game" }
-{ "name": "ut2004-bin-linux-amd64", "type": "Game" }
+### Non-latin titles ###
