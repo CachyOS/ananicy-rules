@@ -110,6 +110,10 @@
 # https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam", "type": "Game" }
 
+# https://store.steampowered.com/app/588650/Dead_Cells/
+{ "name": "deadcells", "type": "Game" }
+{ "name": "deadcells.sh", "type": "BG_CPUIO" }
+
 ### E ###
 
 # https://store.steampowered.com/app/311690/Enter_the_Gungeon/
