@@ -1131,6 +1131,7 @@
 
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
+{ "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 
 # TERA Online MMORPG Game
 { "name": "TERA.exe", "type": "Game" }
