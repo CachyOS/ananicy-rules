@@ -1127,18 +1127,15 @@
 # https://store.steampowered.com/app/502800/SENRAN_KAGURA_ESTIVAL_VERSUS/
 { "name": "SKEstivalVersus.exe", "type": "Game" }
 
-### T ###
+### The ###
+# There is a a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
 
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 
-# TERA Online MMORPG Game
-{ "name": "TERA.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/105600/Terraria/
-{ "name": "Terraria", "type": "Game" }
-{ "name": "Terraria.bin.x86_64", "type": "Game" }
+# The Forest https://store.steampowered.com/agecheck/app/242760/The_Forest/
+{ "name": "TheForest.exe", "type": "Game" }
 
 # TESO https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
 { "name": "eso64.exe", "type": "Game" }
@@ -1159,6 +1156,8 @@
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "TOTClient.exe", "type": "Game" }
 
+### T ###
+
 # https://store.steampowered.com/app/211600/Thief_Gold/
 # https://www.ttlg.com/forums/showthread.php?t=134733
 { "name": "THIEF.EXE", "type": "Game" }
@@ -1172,6 +1171,13 @@
 { "name": "thief2_no_ddfix.exe", "type": "Game" }
 { "name": "thief2.exe", "type": "Game" }
 { "name": "Thief2.exe", "type": "Game" }
+
+# TERA Online MMORPG Game
+{ "name": "TERA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/105600/Terraria/
+{ "name": "Terraria", "type": "Game" }
+{ "name": "Terraria.bin.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/6980/Thief_Deadly_Shadows/
 { "name": "t3.exe", "type": "Game" }
