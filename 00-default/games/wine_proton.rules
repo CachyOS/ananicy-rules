@@ -260,6 +260,12 @@
 { "name": "Cyberpunk2077.exe", "type": "Game" }
 { "name": "Redprelauncher", "type": "BG_CPUIO" }
 
+# https://store.steampowered.com/app/2240390/Celebrity_Kombat/
+{ "name": "CelebrityKombat.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/231430/Company_of_Heroes_2/
+{ "name": "RelicCoH2.exe", "type": "Game" }
+
 ### D ###
 
 # https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
@@ -332,9 +338,6 @@
 
 # Rules for Diablo IV
 { "name": "Diablo IV.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2240390/Celebrity_Kombat/
-{ "name": "CelebrityKombat.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/
 { "name": "disco.exe", "type": "Game" }
@@ -612,10 +615,10 @@
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "InsurgencyEAC.exe", "type": "Game" }
 
+### J ###
+
 # Judge Dredd https://store.steampowered.com/app/3710
 { "name": "Dredd.exe", "type": "Game" }
-
-### J ###
 
 # https://store.steampowered.com/app/8190/Just_Cause_2/
 { "name": "JustCause2.exe", "type": "Game" }
@@ -912,9 +915,6 @@
 # https://store.steampowered.com/app/20500/Red_Faction_Guerrilla_Steam_Edition/
 { "name": "RFG.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/231430/Company_of_Heroes_2/
-{ "name": "RelicCoH2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/
 { "name": "Remnant-Win64-Shipping.exe", "type": "Game" }
 { "name": "Remnant.exe", "type": "Game" }
@@ -1085,11 +1085,25 @@
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
-# https://store.steampowered.com/app/465840/THE_LAST_BLADE/
-{ "name": "LastBlade.exe", "type": "Game" }
+# https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
+{ "name": "Morrowind.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/702110/THE_LAST_BLADE_2/
-{ "name": "LastBlade2App.exe", "type": "Game" }
+# https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
+{ "name": "Oblivion.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
+{ "name": "SkyrimSE.exe", "type": "Game" }
+{ "name": "TESV.exe", "type": "Game" }
+
+# TESO https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
+{ "name": "eso64.exe", "type": "Game" }
+
+# The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
+{ "name": "Discovery.exe", "type": "Game" }
+{ "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
+
+# https://store.steampowered.com/agecheck/app/242760/The_Forest/
+{ "name": "TheForest.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION
 { "name": "kofxiii.exe", "type": "Game" }
@@ -1110,25 +1124,11 @@
 # https://store.steampowered.com/app/1498570/THE_KING_OF_FIGHTERS_XV/
 { "name": "KOFXV_Steam.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
-{ "name": "Morrowind.exe", "type": "Game" }
+# https://store.steampowered.com/app/465840/THE_LAST_BLADE/
+{ "name": "LastBlade.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
-{ "name": "Oblivion.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
-{ "name": "SkyrimSE.exe", "type": "Game" }
-{ "name": "TESV.exe", "type": "Game" }
-
-# TESO https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
-{ "name": "eso64.exe", "type": "Game" }
-
-# The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
-{ "name": "Discovery.exe", "type": "Game" }
-{ "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
-
-# https://store.steampowered.com/agecheck/app/242760/The_Forest/
-{ "name": "TheForest.exe", "type": "Game" }
+# https://store.steampowered.com/app/702110/THE_LAST_BLADE_2/
+{ "name": "LastBlade2App.exe", "type": "Game" }
 
 # The Last Of Us https://store.steampowered.com/app/1888930/
 { "name": "tlou-i-l.exe", "type": "Game" }
