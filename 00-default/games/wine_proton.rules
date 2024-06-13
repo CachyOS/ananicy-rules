@@ -260,6 +260,9 @@
 { "name": "Cyberpunk2077.exe", "type": "Game" }
 { "name": "Redprelauncher", "type": "BG_CPUIO" }
 
+# https://store.steampowered.com/app/2240390/Celebrity_Kombat/
+{ "name": "CelebrityKombat.exe", "type": "Game" }
+
 ### D ###
 
 # https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
@@ -332,9 +335,6 @@
 
 # Rules for Diablo IV
 { "name": "Diablo IV.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2240390/Celebrity_Kombat/
-{ "name": "CelebrityKombat.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/
 { "name": "disco.exe", "type": "Game" }
@@ -612,10 +612,10 @@
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "InsurgencyEAC.exe", "type": "Game" }
 
+### J ###
+
 # Judge Dredd https://store.steampowered.com/app/3710
 { "name": "Dredd.exe", "type": "Game" }
-
-### J ###
 
 # https://store.steampowered.com/app/8190/Just_Cause_2/
 { "name": "JustCause2.exe", "type": "Game" }
@@ -647,25 +647,6 @@
 # Kingdoms of amalur https://store.steampowered.com/app/1041720
 { "name": "koa.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION
-{ "name": "kofxiii.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/571260/THE_KING_OF_FIGHTERS_XIV_STEAM_EDITION
-{ "name": "kofxiv.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/222440/THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH
-{ "name": "KingOfFighters2002UM.exe", "type": "Game" }
-{ "name": "KingOfFighters2002UM_x64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/222420/THE_KING_OF_FIGHTERS_98_ULTIMATE_MATCH_FINAL_EDITION
-{ "name": "KingOfFighters98UM.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/702120/THE_KING_OF_FIGHTERS_97_GLOBAL_MATCH
-{ "name": "KOF97.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1498570/THE_KING_OF_FIGHTERS_XV/
-{ "name": "KOFXV_Steam.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/38430/Kingpin__Life_of_Crime
 { "name": "kingpin.exe", "type": "Game" }
 
@@ -673,12 +654,6 @@
 
 # https://store.steampowered.com/app/110800/LA_Noire/
 { "name": "LANoire.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/465840/THE_LAST_BLADE/
-{ "name": "LastBlade.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/702110/THE_LAST_BLADE_2/
-{ "name": "LastBlade2App.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/500/Left_4_Dead/
 { "name": "left4dead.exe", "type": "Game" }
@@ -748,21 +723,11 @@
 { "name": "LEGO The Incredibles.exe", "type": "Game" }
 { "name": "LEGO The Incredibles_DX11.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/640590/The_LEGO_NINJAGO_Movie_Video_Game/
-{ "name": "LEGONINJAGO.exe", "type": "Game" }
-{ "name": "LEGONINJAGO_DX11.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/32450/LEGO_Indiana_Jones_2_The_Adventure_Continues/
 { "name": "LEGOIndy2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/213330/LEGO_Batman_2_DC_Super_Heroes/
 { "name": "LEGOBatman2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/267530/The_LEGO_Movie__Videogame/
-{ "name": "LEGOEMMET.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/881320/The_LEGO_Movie_2_Videogame/
-{ "name": "LEGO The LEGO Movie 2_DX11.exe", "type": "Game" }
 
 # Lies of P https://store.steampowered.com/app/1627720/
 { "name": "LOP-Win64-Shipping.exe", "type": "Game" }
@@ -816,9 +781,6 @@
 # https://store.steampowered.com/app/582010/Monster_Hunter_World/
 { "name": "MonsterHunterWorld.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
-{ "name": "Morrowind.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/774171/Muse_Dash/
 { "name": "MuseDash.exe", "type": "Game" }
 
@@ -849,9 +811,6 @@
 { "name": "Windose.exe", "type": "Game" }
 
 ### O ###
-
-# https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
-{ "name": "Oblivion.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
 { "name": "Octopath_Traveler-Win64-Shipping.exe", "type": "Game" }
@@ -1060,10 +1019,6 @@
 # https://store.steampowered.com/app/1313/SiN_Gold/
 { "name": "sin.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
-{ "name": "SkyrimSE.exe", "type": "Game" }
-{ "name": "TESV.exe", "type": "Game" }
-
 # Smite https://www.smitegame.com/
 { "name": "CoherentUI_Host", "type": "Game" }
 
@@ -1127,25 +1082,67 @@
 # https://store.steampowered.com/app/502800/SENRAN_KAGURA_ESTIVAL_VERSUS/
 { "name": "SKEstivalVersus.exe", "type": "Game" }
 
-### T ###
+### The ###
+# There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
+# https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
+{ "name": "Morrowind.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
+{ "name": "Oblivion.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
+{ "name": "SkyrimSE.exe", "type": "Game" }
+{ "name": "TESV.exe", "type": "Game" }
+
+# TESO https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
+{ "name": "eso64.exe", "type": "Game" }
 
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 
-# TERA Online MMORPG Game
-{ "name": "TERA.exe", "type": "Game" }
+# https://store.steampowered.com/agecheck/app/242760/The_Forest/
+{ "name": "TheForest.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/105600/Terraria/
-{ "name": "Terraria", "type": "Game" }
-{ "name": "Terraria.bin.x86_64", "type": "Game" }
+# https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION
+{ "name": "kofxiii.exe", "type": "Game" }
 
-# TESO https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
-{ "name": "eso64.exe", "type": "Game" }
+# https://store.steampowered.com/app/571260/THE_KING_OF_FIGHTERS_XIV_STEAM_EDITION
+{ "name": "kofxiv.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/222440/THE_KING_OF_FIGHTERS_2002_UNLIMITED_MATCH
+{ "name": "KingOfFighters2002UM.exe", "type": "Game" }
+{ "name": "KingOfFighters2002UM_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/222420/THE_KING_OF_FIGHTERS_98_ULTIMATE_MATCH_FINAL_EDITION
+{ "name": "KingOfFighters98UM.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/702120/THE_KING_OF_FIGHTERS_97_GLOBAL_MATCH
+{ "name": "KOF97.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1498570/THE_KING_OF_FIGHTERS_XV/
+{ "name": "KOFXV_Steam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/465840/THE_LAST_BLADE/
+{ "name": "LastBlade.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/702110/THE_LAST_BLADE_2/
+{ "name": "LastBlade2App.exe", "type": "Game" }
 
 # The Last Of Us https://store.steampowered.com/app/1888930/
 { "name": "tlou-i-l.exe", "type": "Game" }
 { "name": "tlou-i.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/267530/The_LEGO_Movie__Videogame/
+{ "name": "LEGOEMMET.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/881320/The_LEGO_Movie_2_Videogame/
+{ "name": "LEGO The LEGO Movie 2_DX11.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/640590/The_LEGO_NINJAGO_Movie_Video_Game/
+{ "name": "LEGONINJAGO.exe", "type": "Game" }
+{ "name": "LEGONINJAGO_DX11.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1773180/The_Matriarch/
 { "name": "TheMatriarch-Win64-Shipping.exe", "type": "Game" }
@@ -1158,6 +1155,15 @@
 # The Outlast Trials https://store.steampowered.com/app/1304930
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "TOTClient.exe", "type": "Game" }
+
+### T ###
+
+# TERA Online MMORPG Game
+{ "name": "TERA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/105600/Terraria/
+{ "name": "Terraria", "type": "Game" }
+{ "name": "Terraria.bin.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/211600/Thief_Gold/
 # https://www.ttlg.com/forums/showthread.php?t=134733
