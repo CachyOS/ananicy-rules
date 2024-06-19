@@ -210,6 +210,10 @@
 { "name": "jng_gold", "type": "Game" }
 
 ### K ###
+
+# https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/
+{ "name": "KingdomTwoCrowns.x86", "type": "Game" }
+
 ### L ###
 
 # https://store.steampowered.com/app/391720/Layers_of_Fear_2016/
@@ -217,6 +221,9 @@
 
 # https://store.steampowered.com/app/230700/LaMulana/
 { "name": "LaMulana.bin.x86", "type": "Game" }
+
+# https://store.steampowered.com/app/48000/LIMBO/
+{ "name": "limbo", "type": "Game" }
 
 ### M ###
 
@@ -395,7 +402,7 @@
 { "name": "Soma.bin.x86_64", "type": "Game" }
 
 ### The ###
-#There is a a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
+# There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
 
 # https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
