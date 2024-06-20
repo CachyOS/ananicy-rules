@@ -401,6 +401,12 @@
 { "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
 { "name": "Soma.bin.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/322500/SUPERHOT/
+{ "name": "SUPERHOT.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
+{ "name": "SUPERHOTMCD.x86_64", "type": "Game" }
+
 ### The ###
 # There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
 
