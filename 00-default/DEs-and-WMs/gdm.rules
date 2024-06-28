@@ -1,3 +1,10 @@
 # display manager
+{ "name": "gdm3", "type": "LowLatency_RT" }
 { "name": "gdm", "type": "LowLatency_RT" }
 { "name": "gdm-wayland-session", "type": "LowLatency_RT" }
+{ "name": "gdm-session-worker", "type": "LowLatency_RT" }
+
+# gnome shell
+{ "name": "gnome-shell","type": "LowLatency_RT"}
+{ "name": "gnome-session-binary","type": "LowLatency_RT"}
+{ "name": "gnome-session-ctl","type": "LowLatency_RT"}
