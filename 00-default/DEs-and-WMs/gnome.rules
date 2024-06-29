@@ -14,3 +14,48 @@
 # network-manager applet
 { "name": "nm-applet", "type": "Service" }
 { "name": ".nm-applet-wrap", "type": "Service" }
+
+# gsd-datetime
+{ "name": "gsd-datetime", "type": "BG_CPUIO" }
+
+# gsd-xsettings
+{ "name": "gsd-xsettings", "type": "BG_CPUIO" }
+
+# gjs
+{ "name": "gjs", "type": "BG_CPUIO" }
+
+# gsd-disk-utility-notify
+{ "name": "gsd-disk-utility-notify", "type": "BG_CPUIO" }
+
+# gsd-sound
+{ "name": "gsd-sound", "type": "BG_CPUIO" }
+
+# gsd-screensaver-proxy
+{ "name": "gsd-screensaver-proxy", "type": "BG_CPUIO" }
+
+# gsd-power
+{ "name": "gsd-power", "type": "BG_CPUIO" }
+
+# gsd-housekeeping
+{ "name": "gsd-housekeeping", "type": "BG_CPUIO" }
+
+# gsd-media-keys
+{ "name": "gsd-media-keys", "type": "BG_CPUIO" }
+
+# gsd-keyboard
+{ "name": "gsd-keyboard", "type": "BG_CPUIO" }
+
+# at-spi2-registryd
+{ "name": "at-spi2-registryd", "type": "BG_CPUIO" }
+
+# at-spi-bus-launcher
+{ "name": "at-spi-bus-launcher", "type": "BG_CPUIO" }
+
+# gnome-control-center-search-provider
+{ "name": "gnome-control-center-search-provider", "type": "BG_CPUIO" }
+
+# gnome-session-ctl
+{ "name": "gnome-session-ctl", "type": "BG_CPUIO" }
+
+# gnome-session-binary
+{ "name": "gnome-session-binary", "type": "BG_CPUIO" }
