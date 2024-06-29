@@ -1,0 +1,10 @@
+# Wine process.
+
+# Touch Keyboard and Handwriting Panel.
+{ "name": "tabtip.exe", "type": "BG_CPUIO" }
+
+# Windows file explorer.
+{ "name": "explorer.exe", "type": "BG_CPUIO" }
+
+# Plug & Play.
+{ "name": "plugplay.exe", "type": "BG_CPUIO" }
