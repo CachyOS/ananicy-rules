@@ -16,46 +16,46 @@
 { "name": ".nm-applet-wrap", "type": "Service" }
 
 # gsd-datetime
-{ "name": "gsd-datetime", "type": "BG_CPUIO" }
+{ "name": "gsd-datetime", "type": "Service" }
 
 # gsd-xsettings
-{ "name": "gsd-xsettings", "type": "BG_CPUIO" }
+{ "name": "gsd-xsettings", "type": "Service" }
 
 # gjs
-{ "name": "gjs", "type": "BG_CPUIO" }
+{ "name": "gjs", "type": "Service" }
 
 # gsd-disk-utility-notify
-{ "name": "gsd-disk-utility-notify", "type": "BG_CPUIO" }
+{ "name": "gsd-disk-utility-notify", "type": "Service" }
 
 # gsd-sound
-{ "name": "gsd-sound", "type": "BG_CPUIO" }
+{ "name": "gsd-sound", "type": "Service" }
 
 # gsd-screensaver-proxy
-{ "name": "gsd-screensaver-proxy", "type": "BG_CPUIO" }
+{ "name": "gsd-screensaver-proxy", "type": "Service" }
 
 # gsd-power
-{ "name": "gsd-power", "type": "BG_CPUIO" }
+{ "name": "gsd-power", "type": "Service" }
 
 # gsd-housekeeping
-{ "name": "gsd-housekeeping", "type": "BG_CPUIO" }
+{ "name": "gsd-housekeeping", "type": "Service" }
 
 # gsd-media-keys
-{ "name": "gsd-media-keys", "type": "BG_CPUIO" }
+{ "name": "gsd-media-keys", "type": "Service" }
 
 # gsd-keyboard
-{ "name": "gsd-keyboard", "type": "BG_CPUIO" }
+{ "name": "gsd-keyboard", "type": "Service" }
 
 # at-spi2-registryd
-{ "name": "at-spi2-registryd", "type": "BG_CPUIO" }
+{ "name": "at-spi2-registryd", "type": "Service" }
 
 # at-spi-bus-launcher
-{ "name": "at-spi-bus-launcher", "type": "BG_CPUIO" }
+{ "name": "at-spi-bus-launcher", "type": "Service" }
 
 # gnome-control-center-search-provider
-{ "name": "gnome-control-center-search-provider", "type": "BG_CPUIO" }
+{ "name": "gnome-control-center-search-provider", "type": "Service" }
 
 # gnome-session-ctl
-{ "name": "gnome-session-ctl", "type": "BG_CPUIO" }
+{ "name": "gnome-session-ctl", "type": "Service" }
 
 # gnome-session-binary
-{ "name": "gnome-session-binary", "type": "BG_CPUIO" }
+{ "name": "gnome-session-binary", "type": "Service" }
