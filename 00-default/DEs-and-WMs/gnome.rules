@@ -5,9 +5,6 @@
 { "name": "gnome-keyring-daemon", "type": "Service" }
 { "name": ".gnome-keyring-", "type": "Service" }
 
-# Used for pam/gdm-password
-{ "name": "gdm-session-worker", "type": "Service" }
-
 # polkit-gnome
 { "name": "polkit-gnome-authentication-agent-1", "type": "Service" }
 
@@ -53,9 +50,3 @@
 
 # gnome-control-center-search-provider
 { "name": "gnome-control-center-search-provider", "type": "Service" }
-
-# gnome-session-ctl
-{ "name": "gnome-session-ctl", "type": "Service" }
-
-# gnome-session-binary
-{ "name": "gnome-session-binary", "type": "Service" }
