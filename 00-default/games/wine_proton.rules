@@ -1116,7 +1116,13 @@
 
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
+{ "name": "start_protected_game.exe", "type": "Game" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
+{ "name": "UEPrereqSetup_x64.exe", "type": "Game" }
+{ "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
+{ "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
+{ "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/agecheck/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
