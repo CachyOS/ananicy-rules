@@ -77,3 +77,9 @@
 
 # gsd-a11y-settings
 { "name": "gsd-a11y-settings", "type": "Service" }
+
+# goa-daemon
+{ "name": "goa-daemon", "type": "Service" }
+
+# goa-identity-service
+{ "name": "goa-identity-service", "type": "Service" }
