@@ -50,3 +50,30 @@
 
 # gnome-control-center-search-provider
 { "name": "gnome-control-center-search-provider", "type": "Service" }
+
+# gsd-printer
+{ "name": "gsd-printer", "type": "Service" }
+
+# gsd-wacom
+{ "name": "gsd-wacom", "type": "Service" }
+
+# gsd-usb-protection
+{ "name": "gsd-usb-protection", "type": "Service" }
+
+# gsd-smartcard
+{ "name": "gsd-smartcard", "type": "Service" }
+
+# gsd-sharing
+{ "name": "gsd-sharing", "type": "Service" }
+
+# gsd-rfkill
+{ "name": "gsd-rfkill", "type": "Service" }
+
+# gsd-print-notification
+{ "name": "gsd-print-notifications", "type": "Service" }
+
+# gsd-color
+{ "name": "gsd-color", "type": "Service" }
+
+# gsd-a11y-settings
+{ "name": "gsd-a11y-settings", "type": "Service" }
