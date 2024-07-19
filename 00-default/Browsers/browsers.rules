@@ -55,6 +55,9 @@
 # Waterfox - https://www.waterfox.net
 { "name": "waterfox-g", "type": "Doc-View" }
 
+# Floorp - https://floorp.app
+{ "name": "floorp", "type": "Doc-View" }
+
 # Microsoft Edge - https://www.microsoft.com/en-us/edge/
 { "name": "msedge", "type": "Doc-View" }
 { "name": "msedge_crashpad", "type": "BG_CPUIO" }

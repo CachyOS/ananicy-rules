@@ -119,6 +119,9 @@
 # https://store.steampowered.com/app/311690/Enter_the_Gungeon/
 { "name": "EtG.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/236850/Europa_Universalis_IV/
+{ "name": "eu4", "type": "Game" }
+
 ### F ###
 
 # https://store.steampowered.com/app/427520/Factorio/
@@ -406,6 +409,9 @@
 
 # https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
 { "name": "SUPERHOTMCD.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/1592280/Selaco/
+{ "name": "Selaco.x86_64", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"

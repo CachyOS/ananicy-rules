@@ -1,0 +1,4 @@
+# https://miru.watch/
+{ "name": "miru", "type": "Player-Video" }
+{ "name": "miru --type=renderer", "type": "Player-Video" }
+{ "name": "miru --type=gpu-process", "type": "Player-Video" }
