@@ -455,6 +455,10 @@
 # https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters
 { "name": "Fable.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1928420/Farlight_84/
+{ "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "SolarlandClient.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
 { "name": "falloutw.exe", "type": "Game" }
 
