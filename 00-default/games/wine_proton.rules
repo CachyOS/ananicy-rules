@@ -150,6 +150,9 @@
 # https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "BioShockInfinite.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/582660/Black_Desert/
+{ "name": "blackdesert64.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3810/BloodRayne_Legacy/
 { "name": "rayne.exe", "type": "Game" }
 
@@ -421,6 +424,10 @@
 # https://store.steampowered.com/app/1245620/ELDEN_RING/
 { "name": "eldenring.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
+{ "name": "EnderLiliesSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "EnderLilies.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 { "name": "Environmental Station Alpha.exe", "type": "Game" }
 
@@ -533,6 +540,10 @@
 # Grounded, https://store.steampowered.com/app/962130/Grounded/
 { "name": "Maine-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1090630/Granblue_Fantasy_Versus/
+{ "name": "GBVS.exe", "type": "Game" }
+{ "name": "GBVS-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
 { "name": "GTAIV.exe", "type": "Game" }
 
@@ -551,13 +562,19 @@
 # https://store.steampowered.com/app/12170/Grand_Theft_Auto
 { "name": "Grand Theft Auto.exe", "type": "Game" }
 
-# Guild Wars 2
+# https://store.steampowered.com/app/219990/Grim_Dawn/
+{ "name": "Grim Dawn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1284210/Guild_Wars_2/
 { "name": "Gw2-64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1593500/God_of_War/
 { "name": "GoW.exe", "type": "Game" }
 
 ### H ###
+
+# https://store.steampowered.com/app/1145360/Hades/
+{ "name": "Hades.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
@@ -828,6 +845,10 @@
 
 # https://store.steampowered.com/app/1869590/Omega_Strikers/
 { "name": "OmegaStrikers.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/798490/Othercide/
+{ "name": "Othercide.exe", "type": "Game" }
+{ "name": "UnityCrashHandler64.exe", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/app/794260/Outward_Definitive_Edition/
 { "name": "Outward.exe", "type": "Game" }
@@ -1207,6 +1228,12 @@
 # https://store.steampowered.com/app/6980/Thief_Deadly_Shadows/
 { "name": "t3.exe", "type": "Game" }
 { "name": "T3Main.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
+# this is from open beta test, beware
+{ "name": "TL.exe", "type": "Game" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
+{ "name": "UnrealCEFSubProcess.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1237970/Titanfall_2/
 { "name": "Titanfall2.exe", "type": "Game" }
