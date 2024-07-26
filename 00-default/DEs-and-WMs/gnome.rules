@@ -5,12 +5,81 @@
 { "name": "gnome-keyring-daemon", "type": "Service" }
 { "name": ".gnome-keyring-", "type": "Service" }
 
-# Used for pam/gdm-password
-{ "name": "gdm-session-worker", "type": "Service" }
-
 # polkit-gnome
 { "name": "polkit-gnome-authentication-agent-1", "type": "Service" }
 
 # network-manager applet
 { "name": "nm-applet", "type": "Service" }
 { "name": ".nm-applet-wrap", "type": "Service" }
+
+# gsd-datetime
+{ "name": "gsd-datetime", "type": "Service" }
+
+# gsd-xsettings
+{ "name": "gsd-xsettings", "type": "Service" }
+
+# gjs
+{ "name": "gjs", "type": "Service" }
+
+# gsd-disk-utility-notify
+{ "name": "gsd-disk-utility-notify", "type": "Service" }
+
+# gsd-sound
+{ "name": "gsd-sound", "type": "Service" }
+
+# gsd-screensaver-proxy
+{ "name": "gsd-screensaver-proxy", "type": "Service" }
+
+# gsd-power
+{ "name": "gsd-power", "type": "Service" }
+
+# gsd-housekeeping
+{ "name": "gsd-housekeeping", "type": "Service" }
+
+# gsd-media-keys
+{ "name": "gsd-media-keys", "type": "Service" }
+
+# gsd-keyboard
+{ "name": "gsd-keyboard", "type": "Service" }
+
+# at-spi2-registryd
+{ "name": "at-spi2-registryd", "type": "Service" }
+
+# at-spi-bus-launcher
+{ "name": "at-spi-bus-launcher", "type": "Service" }
+
+# gnome-control-center-search-provider
+{ "name": "gnome-control-center-search-provider", "type": "Service" }
+
+# gsd-printer
+{ "name": "gsd-printer", "type": "Service" }
+
+# gsd-wacom
+{ "name": "gsd-wacom", "type": "Service" }
+
+# gsd-usb-protection
+{ "name": "gsd-usb-protection", "type": "Service" }
+
+# gsd-smartcard
+{ "name": "gsd-smartcard", "type": "Service" }
+
+# gsd-sharing
+{ "name": "gsd-sharing", "type": "Service" }
+
+# gsd-rfkill
+{ "name": "gsd-rfkill", "type": "Service" }
+
+# gsd-print-notification
+{ "name": "gsd-print-notifications", "type": "Service" }
+
+# gsd-color
+{ "name": "gsd-color", "type": "Service" }
+
+# gsd-a11y-settings
+{ "name": "gsd-a11y-settings", "type": "Service" }
+
+# goa-daemon
+{ "name": "goa-daemon", "type": "Service" }
+
+# goa-identity-service
+{ "name": "goa-identity-service", "type": "Service" }

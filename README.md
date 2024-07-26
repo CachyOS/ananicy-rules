@@ -16,16 +16,22 @@ You can add your favorite games, apps, and more. Any help would be greatly appre
 ### Examples of rules
 The **first example** is simple. In the **second example**, it is different because some games generate multiple processes. In such cases, you need to add all the processes related to the game.
 
-#### 1. [Example rule for Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/8bfce840ae0db6f99c706c919ac61f3feff79db7/00-default/games/wine_proton.rules#L585)
+#### 1. [Example rule for Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/68a0f5f2d83fefb657ac0db8e0c8848609b319e4/00-default/games/wine_proton.rules#L617)
 ```
-# https://store.steampowered.com/app/8190
+# https://store.steampowered.com/app/8190/Just_Cause_2/
 { "name": "JustCause2.exe", "type": "Game" }
 ```
-#### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/8bfce840ae0db6f99c706c919ac61f3feff79db7/00-default/games/wine_proton.rules#L1086)
+#### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/68a0f5f2d83fefb657ac0db8e0c8848609b319e4/00-default/games/wine_proton.rules#L1144)
 ```
-# https://store.steampowered.com/app/578650
+# The Outer Worlds https://store.steampowered.com/app/578650
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game"}
 { "name": "TheOuterWorlds.exe", "type": "Game"}
+```
+
+#### 3. [Example rules for Portal 2 which is Linux native game](https://github.com/CachyOS/ananicy-rules/blob/68a0f5f2d83fefb657ac0db8e0c8848609b319e4/00-default/games/steam-native.rules#L256)
+```
+# https://store.steampowered.com/app/620/Portal_2/
+{ "name": "portal2_linux", "type": "Game" }
 ```
 
 ## How to find out proper process name?
