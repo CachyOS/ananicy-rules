@@ -1,6 +1,0 @@
-# Rules for Epic Games Launcher
-# Epic Games Launcher
-{ "name": "EpicGamesLauncher.exe", "type": "BG_CPUIO" }
-
-# integrated web browser
-{ "name": "EpicWebHelper.exe", "type": "BG_CPUIO" }
