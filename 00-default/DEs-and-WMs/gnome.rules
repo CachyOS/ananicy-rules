@@ -83,3 +83,6 @@
 
 # goa-identity-service
 { "name": "goa-identity-service", "type": "Service" }
+
+# mutter-x11-frames
+{ "name": "mutter-x11-frames", "type": "LowLatency_RT" }
