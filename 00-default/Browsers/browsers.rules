@@ -55,6 +55,9 @@
 # Waterfox - https://www.waterfox.net
 { "name": "waterfox-g", "type": "Doc-View" }
 
+# Zen: https://zen-browser.app
+{ "name": "zen-bin", "type": "Doc-View" }
+
 # Floorp - https://floorp.app
 { "name": "floorp", "type": "Doc-View" }
 
