@@ -34,6 +34,9 @@
 { "name": "teams", "type": "Chat" }
 { "name": "kotatogram-desktop.bin", "type": "Chat" }
 
+# 64gram: https://64gr.am/
+{ "name": "64gram-desktop", "type": "Chat" }
+
 # http://vk.com/messenger
 { "name": "caprine", "type": "Chat" }
 { "name": "qtox", "type": "Chat" }
