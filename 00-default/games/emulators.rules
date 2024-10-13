@@ -1,0 +1,47 @@
+### Amiga ###
+
+# Amiga emulator https://fs-uae.net/ 
+{ "name": "fs-uae", "type": "Game" }
+{ "name": "fs-uae-devel", "type": "Game" }
+
+### N******* ###
+# Dolphin emulator for Gamecube and Wii Games https://dolphin-emu.org/
+{ "name": "dolphin-emu", "type": "Game" }
+
+# N*******64 emulator https://github.com/n64dev/cen64
+{ "name": "cen64", "type": "Game" }
+{ "name": "cen64-qt", "type": "Game" }
+
+# A familiar, open source, and powerful N******* Switch emulator: https://suyu.dev/
+{ "name": "suzu", "type": "Game" }
+
+# Yuzu Emulator for Switch games: https://yuzu-emu.org/
+{ "name": "yuzu", "type": "Game" }
+
+### Others ###
+
+# Multi-purpose emulation framework. https://www.mamedev.org/
+{ "name": "mame", "type": "Game" }
+{ "name": "sdlmame", "type": "Game" }
+
+# Mednafen emulator is multy-system emulator that can support Apple II/II+/IIe/Enhanced IIe, Sony PlayStation, SNES and more! https://mednafen.github.io/
+{ "name": "mednafen", "type": "Game" }
+
+# Multi-system emulator that supports mostly N******* systems. https://www.mesen.ca/
+{ "name": "mesen", "type": "Game" }
+{ "name": "mesen-git", "type": "Game" }
+
+### Sega ###
+
+# BlastEm is an open source, higly accurate emulator for the Sega Genesis/Megadrive. https://www.retrodev.com/blastem/
+{ "name": "blastem", "type": "Game" }
+
+### Sony ###
+
+# RPCS3, a PlayStation 3 emulator: https://rpcs3.net
+{ "name": "rpcs3", "type": "Game" }
+
+# PPSSPP, PSP emulator: https://github.com/hrydgard/ppsspp/
+{ "name": "PPSSPPHeadless", "type": "Game" }
+{ "name": "PPSSPPQt", "type": "Game" }
+{ "name": "PPSSPPSDL", "type": "Game" }
