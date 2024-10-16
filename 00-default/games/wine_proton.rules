@@ -153,6 +153,10 @@
 # https://store.steampowered.com/app/582660/Black_Desert/
 { "name": "blackdesert64.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2358720/Black_Myth_Wukong/
+{ "name": "b1-Win64-Shipping.exe", "type": "Game" }
+{ "name": "b1.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3810/BloodRayne_Legacy/
 { "name": "rayne.exe", "type": "Game" }
 
@@ -919,7 +923,7 @@
 # Pathfinder: Wrath of the Righteous https://store.steampowered.com/app/1184370
 { "name": "Wrath.exe", "type": "Game" }
 
-# Pro Evolution Soccer 2013 
+# Pro Evolution Soccer 2013
 { "name": "pes2013.exe", "type": "Game" }
 
 # Pro Evolution Soccer 6
@@ -1218,6 +1222,9 @@
 { "name": "Talos2.exe", "type": "Game" }
 
 ### T ###
+
+# https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
+{ "name": "Card Shop Simulator.exe", "type": "Game" }
 
 # TERA Online MMORPG Game
 { "name": "TERA.exe", "type": "Game" }
