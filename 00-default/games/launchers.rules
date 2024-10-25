@@ -17,12 +17,6 @@
 # EA Origin Launcher
 { "name": "Origin.exe", "type": "BG_CPUIO" }
 
-# integrated service
-{ "name": "EAStreamProxy.exe", "type": "BG_CPUIO" }
-
-# integrated web engine
-{ "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
-
 # Rules for EA Desktop App
 # Launcher
 { "name": "EADesktop.exe", "type": "BG_CPUIO" }
