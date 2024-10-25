@@ -1075,7 +1075,7 @@
 { "name": "sin.exe", "type": "Game" }
 
 # Smite https://www.smitegame.com/
-{ "name": "CoherentUI_Host", "type": "Game" }
+{ "name": "CoherentUI_Host.exe", "type": "Game" }
 
 # Sniper Elite 5 https://store.steampowered.com/app/1029690
 { "name": "sniper5_dx12.exe", "type": "Game" }
@@ -1253,7 +1253,6 @@
 # https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
 # this is from open beta test, beware
 { "name": "TL.exe", "type": "Game" }
-{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
 { "name": "UnrealCEFSubProcess.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1237970/Titanfall_2/
@@ -1277,7 +1276,7 @@
 { "name": "Troy.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/
-{ "name": "TotalWarhammer3", "type": "Game" }
+{ "name": "TotalWarhammer3.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/851100/Touhou_Luna_Nights/
 { "name": "touhou_luna_nights.exe", "type": "Game" }
