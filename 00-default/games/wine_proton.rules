@@ -1028,6 +1028,10 @@
 # https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
 { "name": "RaccoonCity.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
+{ "name": "RoboCop.exe", "type": "Game" }
+{ "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
+
 # Rocket League via Proton
 { "name": "RocketLeague.exe", "type": "Game" }
 
