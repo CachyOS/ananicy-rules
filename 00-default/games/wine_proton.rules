@@ -1355,6 +1355,10 @@
 # That's the actual command of the game (the argument vector that is displayed in top and htop is different).
 { "name": "worldofwarships", "type": "Game" }
 
+# https://worldoftanks.com/
+{ "name": "wgc.exe", "type": "BG_CPUIO" }
+{ "name": "WorldOfTanks.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
 { "name": "wrath-sdl.exe", "type": "Game" }
 { "name": "wrath.exe", "type": "Game" }
