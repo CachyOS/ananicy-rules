@@ -1,0 +1,2 @@
+# Xournal++: https://xournalpp.github.io/
+{ "name": "xournalpp", "type": "LowLatency_RT", "nice": -10, "ioclass": "realtime" }
