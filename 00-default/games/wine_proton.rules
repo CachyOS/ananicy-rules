@@ -628,6 +628,9 @@
 # https://store.steampowered.com/app/863550/HITMAN_2/
 { "name": "HITMAN2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/632300/Hobo_Tough_Life/
+{ "name": "HoboRPG.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/367520/Hollow_Knight/
 { "name": "hollow_knight.exe", "type": "Game" }
 
@@ -1106,6 +1109,10 @@
 # https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
 # https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
 { "name": "xrEngine.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1643320/STALKER_2_Heart_of_Chornobyl/
+{ "name": "Stalker2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Stalker2.exe", "type": "Game" }
 
 # Star Citizen - https://robertsspaceindustries.com
 { "name": "StarCitizen.exe", "type": "Game" }
