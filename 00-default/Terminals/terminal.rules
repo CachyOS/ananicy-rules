@@ -24,5 +24,12 @@
 # Gnome terminal
 { "name": "gnome-terminal-server", "type": "Doc-View" }
 
+# urxvt 
+{ "name": "urxvt", "type": "Doc-View" }
+{ "name": "urxvtc", "type": "Doc-View" }
+{ "name": "urxvtd", "type": "Doc-View" }
+{ "name": "urxvt-tabbed", "type": "Doc-View" }
+
+
 # wezterm
 { "name": "wezterm-gui", "type": "Doc-View" }
