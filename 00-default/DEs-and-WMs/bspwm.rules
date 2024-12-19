@@ -1,2 +1,6 @@
 # https://github.com/baskerville/bspwm
 { "name": "bspwm", "type": "LowLatency_RT" }
+{ "name": "bspc", "type": "LowLatency_RT" }
+
+# https://github.com/phenax/bsp-layout
+{ "name": "bsp-layout", "type": "LowLatency_RT" }
