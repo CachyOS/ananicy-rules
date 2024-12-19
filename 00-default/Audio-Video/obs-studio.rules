@@ -1,2 +1,5 @@
-# OBS Studio - Free and open source software for live streaming and screen recording
+# OBS Studio - Free and open source software for live streaming and screen recording https://github.com/obsproject/obs-studio
+{ "name": "obs", "type": "Player-Video" }
 { "name": "obs-studio", "type": "Player-Video" }
+{ "name": "obs-ffmpeg-mux", "type": "Player-Video" }
+{ "name": "obs-nvenc-test", "type": "Player-Video" }

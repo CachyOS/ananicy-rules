@@ -1,0 +1,6 @@
+# https://sr.ht/~exec64/imv/
+{ "name": "imv", "type": "Image-View" }
+{ "name": "imv-x11", "type": "Image-View" }
+{ "name": "imv-dir", "type": "Image-View" }
+{ "name": "imv-msg", "type": "Image-View" }
+{ "name": "imv-wayland", "type": "Image-View" }
