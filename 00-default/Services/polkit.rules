@@ -1,0 +1,10 @@
+# polkit agents
+{ "name": "lxpolkit", "type": "Service" }
+{ "name": "xfce-polkit", "type": "Service" }
+{ "name": "ts-polkitagent", "type": "Service" }
+{ "name": "hyprpolkitagent", "type": "Service" }
+{ "name": "lxqt-policykit-agent", "type": "Service" }
+{ "name": "polkit-kde-authentication-agent-1", "type": "Service" }
+{ "name": "polkit-mate-authentication-agent-1", "type": "Service" }
+{ "name": "io.elementary.desktop.agent-polkit", "type": "Service" }
+

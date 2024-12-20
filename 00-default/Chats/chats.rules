@@ -53,6 +53,9 @@
 { "name": "thunderbird", "type": "Chat" }
 { "name": ".thunderbird-wrapped", "type": "Chat" }
 
+# https://github.com/Betterbird/thunderbird-patches
+{ "name": "betterbird", "type": "Chat" }
+
 # Franz and its forks: https://meetfranz.com/
 { "name": "ferdi", "type": "Chat" }
 { "name": "ferdium", "type": "Chat" }
