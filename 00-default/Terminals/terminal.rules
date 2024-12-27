@@ -32,3 +32,6 @@
 
 # wezterm
 { "name": "wezterm-gui", "type": "Doc-View" }
+
+# ghostty
+{ "name": "ghostty", "type": "Doc-View" }
