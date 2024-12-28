@@ -209,6 +209,9 @@
 # https://store.steampowered.com/app/1942280/Brotato/
 { "name": "Brotato.exe", "type": "Game" }
 
+# https://steamcommunity.com/app/24740/
+{ "name": "burnoutparadise.exe", "type": "Game" }
+
 ### C ###
 
 # https://store.steampowered.com/app/22340/Call_of_Cthulhu_Dark_Corners_of_the_Earth/
@@ -1125,6 +1128,10 @@
 
 # https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
+
+# Star Wars: Battlefront II - https://store.epicgames.com/de/p/star-wars-battlefront-2
+{ "name": "starwarsbattlefrontii.exe", "type": "Game" }
+{ "name": "starwarsbattlefrontii_trial.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1332010/Stray/
 { "name": "Stray.exe", "type": "Game" }
