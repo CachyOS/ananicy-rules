@@ -1129,6 +1129,10 @@
 # https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
+# Star Wars: Battlefront II - https://store.epicgames.com/de/p/star-wars-battlefront-2
+{ "name": "starwarsbattlefrontii.exe", "type": "Game" }
+{ "name": "starwarsbattlefrontii_trial.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1332010/Stray/
 { "name": "Stray.exe", "type": "Game" }
 
