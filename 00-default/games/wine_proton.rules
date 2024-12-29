@@ -922,7 +922,9 @@
 { "name": "PartyAnimals.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/238960/Path_of_Exile/
+# https://store.steampowered.com/app/2694490/Path_of_Exile_2/
 # Steam version
+{ "name": "PathOfExile_x64Steam.exe", "type": "Game" }
 { "name": "PathOfExileSteam.exe", "type": "Game" }
 
 # Standalone version
@@ -953,6 +955,9 @@
 
 ### Q ###
 ### R ###
+
+# https://store.steampowered.com/app/548570/RAGE_2/
+{ "name": "RAGE2.exe", "type": "Game" }
 
 # Red Dead Redemption 2 https://store.steampowered.com/app/1174180/
 { "name": "RDR2.exe", "type": "Game" }
@@ -1024,6 +1029,10 @@
 
 # https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
 { "name": "RaccoonCity.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
+{ "name": "RoboCop.exe", "type": "Game" }
+{ "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
 
 # Rocket League via Proton
 { "name": "RocketLeague.exe", "type": "Game" }
@@ -1308,6 +1317,9 @@
 { "name": "Trackmania.exe", "type": "Game" }
 
 ### U ###
+
+# https://store.steampowered.com/app/1229490/ULTRAKILL/
+{ "name": "ULTRAKILL.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/250520/UnderRail/
 { "name": "underrail.exe", "type": "Game" }
