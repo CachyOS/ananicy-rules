@@ -922,7 +922,9 @@
 { "name": "PartyAnimals.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/238960/Path_of_Exile/
+# https://store.steampowered.com/app/2694490/Path_of_Exile_2/
 # Steam version
+{ "name": "PathOfExile_x64Steam.exe", "type": "Game" }
 { "name": "PathOfExileSteam.exe", "type": "Game" }
 
 # Standalone version
