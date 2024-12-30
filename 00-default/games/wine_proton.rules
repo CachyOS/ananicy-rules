@@ -90,6 +90,9 @@
 
 ### B ###
 
+# https://store.steampowered.com/app/2379780/Balatro/
+{ "name": "Balatro.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 { "name": "bg3_dx11.exe", "type": "Game" }
 { "name": "bg3.exe", "type": "Game" }
@@ -1425,4 +1428,8 @@
 { "name": "ys6_win.exe", "type": "Game" }
 
 ### Z ###
+
+# https://zenless.hoyoverse.com/
+{ "name": "ZenlessZoneZero.exe", "type": "Game" }
+
 ### Non-latin titles ###
