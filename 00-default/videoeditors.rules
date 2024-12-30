@@ -1,0 +1,4 @@
+# Davinci Resolve - https://www.blackmagicdesign.com/products/davinciresolve/
+# Sometimes, for some reason the process name is `GUI Thread` (verified via `btop` and `pkill` works)
+{ "name": "resolve", "type": "Heavy_CPU" }
+{ "name": "GUI Thread", "type": "Heavy_CPU" }
