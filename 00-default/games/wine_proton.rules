@@ -531,6 +531,9 @@
 # https://store.steampowered.com/app/1293830/Forza_Horizon_4/
 { "name": "ForzaHorizon4.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
+{ "name": "HorizonForbiddenWest.exe", "type": "Game" }
+
 ### G ###
 
 # GenshinImpact International version
@@ -1397,6 +1400,9 @@
 # https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
 { "name": "wrath-sdl.exe", "type": "Game" }
 { "name": "wrath.exe", "type": "Game" }
+
+https://store.steampowered.com/app/1911610/Windblown/
+{ "name": "Windblown.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
