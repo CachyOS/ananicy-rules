@@ -1,0 +1,77 @@
+## Audio Server ##
+
+# Pipewire - https://www.pipewire.org/
+{ "name": "pipewire", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+{ "name": "pipewire-pulse", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+
+# Wireplumber - https://pipewire.pages.freedesktop.org/wireplumber/
+{ "name": "wireplumber", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+
+# Pulseaudio - https://www.freedesktop.org/wiki/Software/PulseAudio/
+{ "name": "pulseaudio", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+
+## Audio Daemon ##
+
+# MPD - A music player daemon
+# https://www.musicpd.org/
+{ "name": "mpd", "type": "Player-Audio" }
+
+# playerctld - Daemon for controlling music and video players
+# https://github.com/altdesktop/playerctl/issues/161
+{ "name": "playerctld", "type": "Player-Video" }
+
+## Music Player ##
+
+# Ario - http://ario-player.sourceforge.net/
+{ "name": "ario", "type": "Player-Audio" }
+
+# Audacious - http://audacious-media-player.org/
+{ "name": "audacious", "type": "Player-Audio" }
+
+# Celementine - https://www.clementine-player.org
+{ "name": "clementine", "type": "Player-Audio" }
+{ "name": "clementine-tagreader", "type": "Player-Audio" }
+
+# Cider - Apple Music client based on Electron
+# https://cider.sh
+{ "name": "cider", "type": "Player-Audio" }
+
+# Cmus - TUI music player
+# https://cmus.github.io/
+{ "name": "cmus", "type": "Player-Audio" }
+
+# DeaDBeeF - http://deadbeef.sourceforge.net/
+{ "name": "deadbeef-gtkui", "type": "Player-Audio" }
+
+# ncmpcpp - TUI music player
+# https://rybczak.net/ncmpcpp/
+{ "name": "ncmpcpp", "type": "Player-Audio" }
+
+# qmmp - http://qmmp.ylsoftware.com/
+{ "name": "qmmp", "type": "Player-Audio" }
+
+# Rythmbox - https://wiki.gnome.org/Apps/Rhythmbox
+{ "name": "rhythmbox", "type": "Player-Audio" }
+
+# Spotify - Music streaming platform
+# https://www.spotify.com/download/linux/
+{ "name": "spotify", "type": "Player-Audio" }
+
+# Spotube - Spotify client
+# https://github.com/KRTirtho/spotube
+{ "name": "spotube", "type": "Player-Audio" }
+
+# Tauon - https://tauonmusicbox.rocks/
+{ "name": "tauonmb", "type": "Player-Audio" }
+
+# TIDAL Hi-Fi - https://github.com/Mastermindzh/tidal-hifi
+{ "name": "tidal-hifi", "type": "Player-Audio" }
+
+## Audio Editor ##
+
+# Audacity - http://www.audacityteam.org/
+{ "name": "audacity", "type": "LowLatency_RT" }
+
+# Tenacity - Audacity fork
+# https://codeberg.org/tenacityteam/tenacity
+{ "name": "tenacity", "type": "LowLatency_RT" }
