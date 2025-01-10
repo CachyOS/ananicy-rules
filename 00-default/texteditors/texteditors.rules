@@ -1,38 +1,58 @@
+# Android Studio - https://developer.android.com/studio
+{ "name": "android-studio", "type": "Heavy_CPU" }
+{ "name": "android-studio-stable", "type": "Heavy_CPU" }
+{ "name": "android-studio-beta", "type": "Heavy_CPU" }
+{ "name": "android-studio-dev", "type": "Heavy_CPU" }
+{ "name": "android-studio-canary", "type": "Heavy_CPU" }
+{ "name": "avd", "type": "Heavy_CPU" }
+
+# Atom - https://atom.io
 { "name": "atom", "type": "Doc-View" }
+
+# Emacs - https://www.gnu.org/software/emacs
+{ "name": "emacs", "type": "Doc-View" }
+{ "name": "emacsclient", "type": "Doc-View" }
+
+# Helix - https://helix-editor.com
+{ "name": "hx", "type": "Doc-View" }
+
+# Kakoune - https://kakoune.org
+{ "name": "kak", "type": "Doc-View" }
+
+# Kate - KDE Advanced Text Editor
+# https://kate-editor.org/
+{ "name": "kate", "type": "Doc-View" }
+
+# Lapce - https://lap.dev/lapce/
+{ "name": "lapce", "type": "Doc-View" }
+
+# neovim: vim-based text editor
+# https://neovim.io/
+{ "name": "nvim", "type": "Doc-View" }
+
+# Pulsar - https://pulsar-edit.dev/
 { "name": "pulsar", "type": "Doc-View" }
 
-# https://github.com/VSCodium/vscodium
-{ "name": "codium", "type": "Doc-View" }
+# Sublime Merge - GUI git client
+# https://www.sublimemerge.com/
+{ "name": "sublime_merge", "type": "Doc-View" }
+{ "name": "sublime-text", "type": "Doc-View" }
 
-# https://code.visualstudio.com/
+# Sublime Text - https://www.sublimetext.com
+{ "name": "nano", "type": "Doc-View" }
+{ "name": "plugin_host", "type": "Doc-View" }
+{ "name": "subl3", "type": "Doc-View" }
+{ "name": "sublime_text", "type": "Doc-View" }
+
+# Vim: vi improved
+# https://www.vim.org/
+{ "name": "vim", "type": "Doc-View" }
+
+# VSCode - https://code.visualstudio.com/
 { "name": "code", "type": "Doc-View" }
 { "name": "code-insiders", "type": "Doc-View" }
 { "name": "code.js", "type": "Doc-View" }
 { "name": "micro", "type": "Doc-View" }
 
-# vim: https://www.vim.org/
-# nvim: https://neovim.io/
-{ "name": "nvim", "type": "Doc-View" }
-{ "name": "vim", "type": "Doc-View" }
-{ "name": "lapce", "type": "Doc-View" }
-
-# GUI git client: https://www.sublimemerge.com/
-{ "name": "sublime_merge", "type": "Doc-View" }
-{ "name": "sublime-text", "type": "Doc-View" }
-
-# https://www.sublimetext.com
-{ "name": "nano", "type": "Doc-View" }
-{ "name": "plugin_host", "type": "Doc-View" }
-{ "name": "subl3", "type": "Doc-View" }
-{ "name": "sublime_text", "type": "Doc-View" }
-{ "name": "kate", "type": "Doc-View" }
-
-# https://www.gnu.org/software/emacs
-{ "name": "emacs", "type": "Doc-View" }
-{ "name": "emacsclient", "type": "Doc-View" }
-
-# https://kakoune.org
-{ "name": "kak", "type": "Doc-View" }
-
-# https://helix-editor.com
-{ "name": "hx", "type": "Doc-View" }
+# VSCodium - https://github.com/VSCodium/vscodium
+{ "name": "codium", "type": "Doc-View" }
