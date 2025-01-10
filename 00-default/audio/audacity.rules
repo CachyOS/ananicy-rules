@@ -1,0 +1,6 @@
+# Audacity - http://www.audacityteam.org/
+{ "name": "audacity", "type": "LowLatency_RT" }
+
+# Tenacity - Audacity fork
+# https://codeberg.org/tenacityteam/tenacity
+{ "name": "tenacity", "type": "LowLatency_RT" }

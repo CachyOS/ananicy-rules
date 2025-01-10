@@ -1,0 +1,9 @@
+# Pipewire - https://www.pipewire.org/
+{ "name": "pipewire", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+{ "name": "pipewire-pulse", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+
+# Wireplumber - https://pipewire.pages.freedesktop.org/wireplumber/
+{ "name": "wireplumber", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
+
+# Pulseaudio - https://www.freedesktop.org/wiki/Software/PulseAudio/
+{ "name": "pulseaudio", "type": "LowLatency_RT", "nice": -11, "sched": "rr", "latency_nice": -11 }
