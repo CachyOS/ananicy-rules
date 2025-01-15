@@ -1,5 +1,8 @@
+# pnames started with `.` are NixOS specific
+
 # Konsole
 { "name": "konsole", "type": "Doc-View" }
+{ "name": ".konsole-wrapped", "type": "Doc-View" }
 
 # simple terminal (https://st.suckless.org/)
 { "name": "st", "type": "Doc-View" }
@@ -16,6 +19,7 @@
 
 # Mosh
 { "name": "mosh", "type": "Doc-View" }
+{ "name": ".mosh-wrapped", "type": "Doc-View" }
 
 # foot
 { "name": "foot", "type": "Doc-View" }
@@ -29,13 +33,17 @@
 { "name": "urxvtc", "type": "Doc-View" }
 { "name": "urxvtd", "type": "Doc-View" }
 { "name": "urxvt-tabbed", "type": "Doc-View" }
+{ "name": ".urxvt-wrapped", "type": "Doc-View" }
+{ "name": ".urxvd-wrapped", "type": "Doc-View" }
 
 # wezterm
 { "name": "wezterm-gui", "type": "Doc-View" }
 
 # ghostty
 { "name": "ghostty", "type": "Doc-View" }
+{ "name": ".ghostty-wrapped", "type": "Doc-View" }
 
 # ptyxis
 { "name": "ptyxis", "type": "Doc-View" }
 { "name": "ptyxis-agent", "type": "Doc-View" }
+{ "name": ".ptyxis-wrapped", "type": "Doc-View" }

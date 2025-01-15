@@ -1,3 +1,5 @@
+# pnames started with `.` are NixOS specific
+
 ### Chromium-Based Browsers ###
 
 # Brave - https://brave.com/
@@ -6,6 +8,7 @@
 { "name": "brave-bin", "type": "Doc-View" }
 { "name": "brave-browser", "type": "Doc-View" }
 { "name": "brave-sandbox", "type": "Doc-View" }
+{ "name": ".brave-wrapped", "type": "Doc-View" }
 
 # Chrome - https://www.google.com/chrome/
 { "name": "chrome", "type": "Doc-View" }
@@ -40,6 +43,7 @@
 { "name": "firefox-developer-edition", "type": "Doc-View" }
 { "name": "firefox-esr", "type": "Doc-View" }
 { "name": "firefox-nightly", "type": "Doc-View" }
+{ "name": ".firefox-wrapped", "type": "Doc-View" }
 
 # IceCat - https://www.gnu.org/software/gnuzilla/
 { "name": "icecat", "type": "Doc-View" }
@@ -48,6 +52,7 @@
 { "name": "librewolf", "type": "Doc-View" }
 { "name": "librewolf-bin", "type": "Doc-View" }
 { "name": "librewolf-nightly", "type": "Doc-View" }
+{ "name": ".librewolf-wrapped", "type": "Doc-View" }
 
 # Tor - https://www.torproject.org
 { "name": "firefox.real", "type": "Doc-View" }
@@ -60,6 +65,7 @@
 
 # Floorp - https://floorp.app
 { "name": "floorp", "type": "Doc-View" }
+{ "name": ".floorp-wrapped", "type": "Doc-View" }
 
 # Microsoft Edge - https://www.microsoft.com/en-us/edge/
 { "name": "msedge", "type": "Doc-View" }
