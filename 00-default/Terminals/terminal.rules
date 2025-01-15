@@ -9,7 +9,6 @@
 
 # kitty: https://sw.kovidgoyal.net/kitty/
 { "name": "kitty", "type": "Doc-View" }
-{ "name": ".kitty-wrapped", "type": "Doc-View" }
 
 # hyper
 { "name": "hyper", "type": "Doc-View" }
