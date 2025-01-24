@@ -1,0 +1,12 @@
+# clangd - https://github.com/clangd/clangd
+{ "name": "clangd", "type": "Service" }
+{ "name": "ion.clangd.main", "type": "Service" }
+
+# clang-tidy - https://clang.llvm.org/extra/clang-tidy/
+{ "name": "clang-tidy", "type": "BG_CPUIO" }
+
+# Flutter - https://flutter.dev/
+{ "name": "flutter", "type": "Heavy_CPU" }
+
+# Dart - https://dart.dev
+{ "name": "dart", "type": "Heavy_CPU" }
