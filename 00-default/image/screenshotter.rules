@@ -1,0 +1,29 @@
+# Flameshot - https://flameshot.org/
+{ "name": "flameshot", "type": "Image-View" }
+
+# Grim - https://sr.ht/~emersion/grim/
+{ "name": "grim", "type": "Image-View" }
+
+# Maim - https://github.com/naelstrof/maim
+{ "name": "maim", "type": "Image-View" }
+
+# Scrot - https://github.com/resurrecting-open-source-projects/scrot
+{ "name": "scrot", "type": "Image-View" }
+
+# Shutter - https://shutter-project.org/
+{ "name": "shutter", "type": "Image-View" }
+
+# Slop - https://github.com/naelstrof/slop
+{ "name": "slop", "type": "Image-View" }
+
+# Slurp - https://github.com/emersion/slurp
+{ "name": "slurp", "type": "Image-View" }
+
+# Spectacle - https://apps.kde.org/spectacle/
+{ "name": "spectacle", "type": "Image-View" }
+
+# Swappy - https://github.com/jtheoof/swappy
+{ "name": "swappy", "type": "Image-View" }
+
+# XFCE screenshoter - https://docs.xfce.org/apps/screenshooter/start
+{ "name": "xfce4-screenshooter", "type": "Image-View" }
