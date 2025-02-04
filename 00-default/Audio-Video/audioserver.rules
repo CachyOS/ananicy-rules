@@ -1,4 +1,4 @@
-{ "name": "pipewire", "sched": "rr" }
-{ "name": "pipewire-pulse", "sched": "rr" }
-{ "name": "wireplumber", "sched": "rr" }
-{ "name": "pulseaudio", "sched": "rr" }
+{ "name": "pipewire", "type": "LowLatency_RT" }
+{ "name": "pipewire-pulse", "type": "LowLatency_RT" }
+{ "name": "wireplumber", "type": "LowLatency_RT" }
+{ "name": "pulseaudio", "type": "LowLatency_RT" }
