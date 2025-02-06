@@ -1,0 +1,3 @@
+# vscode / vscodium itself
+{ "name": "code", "type": "OOM_KILL" }
+{ "name": "codium", "type": "OOM_KILL" }
