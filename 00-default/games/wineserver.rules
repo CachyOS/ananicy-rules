@@ -1,3 +1,0 @@
-# Reschedule Wineserver for better performance
-# https://wiki.archlinux.org/index.php/GamingOptimus.2C_and_other_helping_programs
-{ "name": "wineserver", "nice": 19, "sched": "fifo" }
