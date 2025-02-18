@@ -18,8 +18,6 @@
 
 # https://github.com/Mic92/nixpkgs-review
 { "name": "nixpkgs-review", "type": "BG_CPUIO" }
-{ "name": ".nixpkgs-review-wrapped", "type": "BG_CPUIO" }
 
 # https://github.com/viperML/nh
 { "name": "nh", "type": "BG_CPUIO" }
-{ "name": ".nh-wrapped", "type": "BG_CPUIO" }
