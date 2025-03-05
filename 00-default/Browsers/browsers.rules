@@ -57,6 +57,7 @@
 
 # Zen: https://zen-browser.app
 { "name": "zen-bin", "type": "Doc-View" }
+{ "name": "zen", "type": "Doc-View" }
 
 # Floorp - https://floorp.app
 { "name": "floorp", "type": "Doc-View" }

@@ -53,6 +53,7 @@
 
 # https://github.com/Betterbird/thunderbird-patches
 { "name": "betterbird", "type": "Chat" }
+{ "name": "betterbird-bin", "type": "Chat" }
 
 # Franz and its forks: https://meetfranz.com/
 { "name": "ferdi", "type": "Chat" }
