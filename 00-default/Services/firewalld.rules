@@ -1,0 +1,2 @@
+ # FirewallD 
+{"name": "firewalld", "type": "LowLatency_RT", "ionice": 1 }
