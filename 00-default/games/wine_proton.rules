@@ -1172,9 +1172,6 @@
 # https://store.steampowered.com/app/502800/SENRAN_KAGURA_ESTIVAL_VERSUS/
 { "name": "SKEstivalVersus.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/9900/Star_Trek_Online/
-{ "name": "GameClient.exe", "type": "Game" }
-
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
