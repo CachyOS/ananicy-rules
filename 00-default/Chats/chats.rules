@@ -12,12 +12,9 @@
 { "name": "telegram-desktop", "type": "Chat" }
 { "name": "telegram-desktop.bin", "type": "Chat" }
 { "name": "telegram", "type": "Chat" }
-{ "name": ".telegram-deskt", "type": "Chat" }
-{ "name": ".telegram-desktop", "type": "Chat" }
 
 # Discord: https://discord.com/
 { "name": "Discord", "type": "Chat" }
-{ "name": ".Discord-wrappe", "type": "Chat" }
 { "name": "DiscordCanary", "type": "Chat" }
 { "name": "DiscordDevelopment", "type": "Chat" }
 { "name": "DiscordPTB", "type": "Chat" }

@@ -9,7 +9,6 @@
 
 # GNOME System Monitor
 { "name": "gnome-system-monitor", "type": "Doc-View" }
-{ "name": ".gnome-system-m", "type": "Doc-View" }
 
 # https://gitlab.com/mission-center-devs/mission-center
 { "name": "missioncenter", "type": "Doc-View" }

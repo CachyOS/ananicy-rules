@@ -11,7 +11,3 @@
 
 { "name": "xdg-document-portal", "type": "Service" }
 { "name": "xdg-permission-store", "type": "Service" }
-
-{ "name": ".xdg-desktop-po", "type": "Service" }
-{ "name": ".xdg-document-p", "type": "Service" }
-{ "name": ".xdg-permission", "type": "Service" }

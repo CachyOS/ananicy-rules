@@ -5,7 +5,6 @@
 # https://github.com/ErikReider/SwayNotificationCenter
 { "name": "swaync", "type": "Service" }
 { "name": "swaync-client", "type": "Service" }
-{ "name": ".swaync-client-", "type": "Service" }
 
 
 # Sway idle daemon
