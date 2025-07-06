@@ -3,14 +3,12 @@
 
 # Used for password management - https://wiki.archlinux.org/title/GNOME/Keyring
 { "name": "gnome-keyring-daemon", "type": "Service" }
-{ "name": ".gnome-keyring-", "type": "Service" }
 
 # polkit-gnome
 { "name": "polkit-gnome-authentication-agent-1", "type": "Service" }
 
 # network-manager applet
 { "name": "nm-applet", "type": "Service" }
-{ "name": ".nm-applet-wrap", "type": "Service" }
 
 # gsd-datetime
 { "name": "gsd-datetime", "type": "Service" }
