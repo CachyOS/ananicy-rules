@@ -36,3 +36,6 @@
 
 # https://helix-editor.com
 { "name": "hx", "type": "Doc-View" }
+
+# https://zed.dev
+{ "name": "zed-editor", "type": "Doc-View" }
