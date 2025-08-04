@@ -276,6 +276,10 @@
 # https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/
 { "name": "Condemned.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/
+{ "name": "Expedition33_Steam.exe", "type": "Game" }
+{ "name": "SandFall-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 { "name": "Cyberpunk2077.exe", "type": "Game" }
 { "name": "Redprelauncher", "type": "BG_CPUIO" }
@@ -1186,6 +1190,10 @@
 
 # https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
 { "name": "Oblivion.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/
+{ "name": "OblivionRemastered.exe", "type": "Game" }
+{ "name": "OblivionRemastered-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 { "name": "SkyrimSE.exe", "type": "Game" }
