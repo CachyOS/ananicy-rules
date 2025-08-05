@@ -27,9 +27,6 @@
 
 ### Firefox-Based Browsers ###
 
-# Cachy - https://cachyos.org/
-{ "name": "cachy-browser", "type": "Doc-View" }
-
 # FireDragon - https://github.com/dr460nf1r3/firedragon-browser
 { "name": "firedragon", "type": "Doc-View" }
 { "name": "firedragon-bin", "type": "Doc-View" }
