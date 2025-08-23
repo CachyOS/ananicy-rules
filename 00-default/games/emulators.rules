@@ -45,3 +45,6 @@
 { "name": "PPSSPPHeadless", "type": "Game" }
 { "name": "PPSSPPQt", "type": "Game" }
 { "name": "PPSSPPSDL", "type": "Game" }
+
+# PCSX2, PlayStation 2 emulator: https://pcsx2.net
+{ "name": "pcsx2-qt", "type": "Game" }
