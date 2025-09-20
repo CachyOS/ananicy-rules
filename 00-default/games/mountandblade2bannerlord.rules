@@ -1,0 +1,23 @@
+### Mount & Blade II: Bannerlord - https://www.taleworlds.com/en/Games/Bannerlord
+
+# Note: All exe's are possible process names depending on how the game was launched.
+
+# Vanilla Launcher
+{ "name": "TaleWorlds.MountAndBlade.Launcher.exe", "type": "Game" }
+
+# Vanilla Direct Start
+{ "name": "Bannerlord.exe", "type": "Game" }
+
+# Vanilla Direct Start Native
+{ "name": "Bannerlord.Native.exe", "type": "Game" }
+
+## Bannerlord Software Extender - https://github.com/BUTR/Bannerlord.BLSE
+
+# BLSE Extended Launcher
+{ "name": "Bannerlord.BLSE.LauncherEx.exe", "type": "Game" }
+
+# BLSE Vanilla Launcher
+{ "name": "Bannerlord.BLSE.Launcher.exe", "type": "Game" }
+
+# BLSE Direct Start
+{ "name": "Bannerlord.BLSE.Standalone.exe", "type": "Game" }
