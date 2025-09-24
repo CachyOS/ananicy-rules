@@ -1,0 +1,3 @@
+# TuneD - https://github.com/redhat-performance/tuned
+{ "name": "tuned", "type": "BG_CPUIO" }
+{ "name": "tuned-ppd", "type": "BG_CPUIO" }
