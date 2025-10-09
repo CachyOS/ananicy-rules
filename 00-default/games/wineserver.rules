@@ -1,0 +1,3 @@
+# Reschedule Wineserver for better performance
+# https://gitlab.winehq.org/wine/wine/-/wikis/Man-Pages/wineserver
+{ "name": "wineserver", "type": "LowLatency_RT" }
