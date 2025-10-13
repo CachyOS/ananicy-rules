@@ -1124,6 +1124,9 @@
 { "name": "sniper5_dx12.exe", "type": "Game" }
 { "name": "sniper5_vulkan.exe", "type": "Game" }
 
+# SnowRunner - https://www.focus-entmt.com/en/games/snowrunner
+{ "name": "SnowRunner.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/638490/Soldat/
 { "name": "soldat.exe", "type": "Game" }
 
