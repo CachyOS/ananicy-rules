@@ -46,6 +46,9 @@
 { "name": "mesen", "type": "Game" }
 { "name": "mesen-git", "type": "Game" }
 
+# Adventure Game Engine ScummVM
+{ "name": "scummvm", "type": "Game" }
+
 ### Sega ###
 
 # BlastEm is an open source, higly accurate emulator for the Sega Genesis/Megadrive. https://www.retrodev.com/blastem/
