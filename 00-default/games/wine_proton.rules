@@ -619,6 +619,9 @@
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
 { "name": "mcclauncher.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/253230/A_Hat_in_Time/
+{ "name": "HatinTimeGame.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 # Windows version
 { "name": "hoi4.exe", "type": "Game" }
@@ -805,6 +808,12 @@
 { "name": "LOP-Win64-Shipping.exe", "type": "Game" }
 { "name": "LOP.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2375550/Like_a_Dragon_Gaiden_The_Man_Who_Erased_His_Name/
+{ "name": "likeadragongaiden.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2072450/Like_a_Dragon_Infinite_Wealth/
+{ "name": "likeadragon8.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/
 { "name": "LittleWitchNobeta.exe", "type": "Game" }
 
@@ -840,6 +849,9 @@
 
 # https://store.steampowered.com/app/204100/Max_Payne_3/
 { "name": "MaxPayne3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/235460/METAL_GEAR_RISING_REVENGEANCE/
+{ "name": "METAL GEAR RISING REVENGEANCE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2417610/METAL_GEAR_SOLID_D_SNAKE_EATER/
 { "name": "MGSDelta-Win64-Shipping.exe", "type": "Game" }
@@ -978,6 +990,12 @@
 # https://store.steampowered.com/app/895870/Project_Wingman/
 { "name": "ProjectWingman.exe", "type": "Game" }
 { "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
+{ "name": "CelebrityPoker.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/234710/Poker_Night_2/
+{ "name": "PokerNight2.exe", "type": "Game" }
 
 ### Q ###
 ### R ###
@@ -1440,6 +1458,30 @@
 
 ### X ###
 ### Y ###
+
+# https://store.steampowered.com/app/638970/Yakuza_0/
+{ "name": "Yakzua0.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1088712/Yakuza_3_Remastered/
+{ "name": "Yakzua3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1105500/Yakuza_4_Remastered/
+{ "name": "Yakzua4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1105510/Yakuza_5_Remastered/
+{ "name": "Yakzua5.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1388590/Yakuza_6_The_Song_of_Life
+{ "name": "Yakzua6.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1235140/Yakuza_Like_a_Dragon/
+{ "name": "YakzuaLikeADragon.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/834530/Yakuza_Kiwami/
+{ "name": "YakzuaKiwami.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/927380/Yakuza_Kiwami_2/
+{ "name": "YakzuaKiwami2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2163330/Yet_Another_Zombie_Survivors/
 { "name": "Yet Another Zombie Survivors.exe", "type": "Game" }
