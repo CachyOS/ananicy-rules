@@ -27,6 +27,9 @@
 # N*******64 emulator https://github.com/Rosalie241/RMG
 { "name": "RMG", "type": "Game" }
 
+# N*******DS emulator https://github.com/melonDS-emu/melonDS
+{ "name": "melonDS", "type": "Game" }
+
 # A familiar, open source, and powerful N******* Switch emulator: https://suyu.dev/
 { "name": "suyu", "type": "Game" }
 
