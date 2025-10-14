@@ -4,13 +4,31 @@
 { "name": "fs-uae", "type": "Game" }
 { "name": "fs-uae-devel", "type": "Game" }
 
+### Microsoft ###
+# OG Xbox Emulator https://xemu.app/
+{ "name": "xemu", "type": "Game" }
+
+# Xbox 360 emulator https://xenia.jp/
+{ "name": "xenia.exe", "type": "Game" }
+{ "name": "xenia_canary.exe", "type": "Game" }
+{ "name": "xenia_canary", "type": "Game" }
+
 ### N******* ###
 # Dolphin emulator for Gamecube and Wii Games https://dolphin-emu.org/
 { "name": "dolphin-emu", "type": "Game" }
 
+# Wii U emulator https://cemu.info/
+{ "name": "cemu", "type": "Game" }
+
 # N*******64 emulator https://github.com/n64dev/cen64
 { "name": "cen64", "type": "Game" }
 { "name": "cen64-qt", "type": "Game" }
+
+# N*******64 emulator https://github.com/Rosalie241/RMG
+{ "name": "RMG", "type": "Game" }
+
+# N*******DS emulator https://github.com/melonDS-emu/melonDS
+{ "name": "melonDS", "type": "Game" }
 
 # A familiar, open source, and powerful N******* Switch emulator: https://suyu.dev/
 { "name": "suyu", "type": "Game" }
@@ -30,6 +48,9 @@
 # Multi-system emulator that supports mostly N******* systems. https://www.mesen.ca/
 { "name": "mesen", "type": "Game" }
 { "name": "mesen-git", "type": "Game" }
+
+# Adventure Game Engine ScummVM
+{ "name": "scummvm", "type": "Game" }
 
 ### Sega ###
 
