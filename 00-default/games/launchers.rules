@@ -3,6 +3,18 @@
 { "name": "heroic", "type": "Doc-View" }
 { "name": "legendary", "type": "IN_DIFF" }
 
+# Arc Launcher, bundled with games published by Arc 
+# Technically available as a standalone app. https://www.arcgames.com/en/about/client
+{ "name": "Arc.exe", "type": "BG_CPUIO" }
+{ "name": "ArcChat.exe", "type": "Chat" }
+{ "name": "ArcDepends.exe", "type": "BG_CPUIO" }
+{ "name": "ArcLite.exe", "type": "BG_CPUIO" }
+{ "name": "ArcLiteReport.exe", "type": "BG_CPUIO" }
+{ "name": "ArcOverlay.exe", "type": "Service" }
+{ "name": "ArcRepair.exe", "type": "BG_CPUIO" }
+{ "name": "ArcUpdate.exe", "type": "BG_CPUIO" }
+{ "name": "ArcWebviewRender.exe", "type": "Doc-View" }
+
 # VK Play GameCenter is a launcher of the vkplay 
 { "name": "GameCenter.exe", "type": "BG_CPUIO" }
 
