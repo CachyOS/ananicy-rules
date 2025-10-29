@@ -304,6 +304,9 @@
 
 ### D ###
 
+# https://store.steampowered.com/app/1562430
+{ "name": "DREDGE.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
 { "name": "DarkSoulsRemastered.exe", "type": "Game" }
 
@@ -461,6 +464,9 @@
 { "name": "Doki Doki Literature Club Plus.exe", "type": "Game" }
 
 ### E ###
+
+# https://store.steampowered.com/app/1203620
+{ "name": "enshrouded.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1245620/ELDEN_RING/
 { "name": "eldenring.exe", "type": "Game" }
@@ -910,6 +916,7 @@
 
 # https://store.steampowered.com/app/1063730/New_World_Aeternum/
 { "name": "NewWorld.exe", "type": "Game" }
+{ "name": "NewWorldLauncher.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/524220/NieRAutomata/
 { "name": "NierAutomata.exe", "type": "Game" }
@@ -1265,6 +1272,9 @@
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
+# https://store.steampowered.com/app/2904000
+{ "name": "TheSpellBrigade.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
