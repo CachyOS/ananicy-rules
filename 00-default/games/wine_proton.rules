@@ -172,6 +172,9 @@
 { "name": "b1-Win64-Shipping.exe", "type": "Game" }
 { "name": "b1.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3681810/Blue_Protocol_Star_Resonance/
+{ "name": "BPSR.exe", "type": "Game"}
+
 # https://store.steampowered.com/app/3810/BloodRayne_Legacy/
 { "name": "rayne.exe", "type": "Game" }
 
@@ -295,6 +298,9 @@
 { "name": "Expedition33_Steam.exe", "type": "Game" }
 { "name": "SandFall-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
+{ "name": "Cronos-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 { "name": "Cyberpunk2077.exe", "type": "Game" }
 { "name": "Redprelauncher", "type": "BG_CPUIO" }
@@ -335,6 +341,9 @@
 
 # https://store.steampowered.com/app/1238060/Dead_Space_3/
 { "name": "deadspace3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2334730/Death_Must_Die/
+{ "name": "Death Must Die.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT/
 { "name": "DeathStranding.exe", "type": "Game" }
@@ -577,8 +586,19 @@
 # https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/
 { "name": "GhostOfTsushima.exe", "type": "Game" }
 
+# Tom Clancy's Ghost Recon Advanced Warfighter
+{ "name": "GRAW.exe", "type": "Game" }
+{ "name": "GRAW-standalone.exe", "type": "Game" }
+
+# Tom Clancy's Ghost Recon Advanced Warfighter 2
+{ "name": "graw2.exe", "type": "Game" }
+{ "name": "graw2_dedicated.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1150760/Gloomwood/
 { "name": "Gloomwood.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1217060/Gunfire_Reborn/
+{ "name": "Gunfire Reborn.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/65540/Gothic_1/
 # https://github.com/GothicFixTeam/GothicFix
@@ -881,6 +901,12 @@
 # https://store.steampowered.com/app/204100/Max_Payne_3/
 { "name": "MaxPayne3.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
+{ "name": "MWOClient.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3405340/Megabonk/
+{ "name": "Megabonk.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/235460/METAL_GEAR_RISING_REVENGEANCE/
 { "name": "METAL GEAR RISING REVENGEANCE.exe", "type": "Game" }
 
@@ -928,9 +954,6 @@
 
 # https://store.steampowered.com/app/283290/Nosferatu_The_Wrath_of_Malachi/
 { "name": "Nosferatu.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
-{ "name": "MWOClient.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
 { "name": "Windose.exe", "type": "Game" }
@@ -1027,6 +1050,9 @@
 # https://store.steampowered.com/app/895870/Project_Wingman/
 { "name": "ProjectWingman.exe", "type": "Game" }
 { "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1894430/Plan_B_Terraform/
+{ "name": "Plan B Terraform.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
 { "name": "CelebrityPoker.exe", "type": "Game" }
@@ -1265,6 +1291,12 @@
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
+# https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
+{ "name": "Card Shop Simulator.exe", "type": "Game" }
+
+# https://www.gog.com/en/game/the_colonists
+{ "name": "TheColonists.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
