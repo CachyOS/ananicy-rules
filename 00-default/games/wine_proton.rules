@@ -640,6 +640,10 @@
 
 ### H ###
 
+# Horizon Zero Dawn
+# https://store.steampowered.com/app/1151640
+{ "name": "HorizonZeroDawn.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
 
@@ -1142,6 +1146,10 @@
 
 ### S ###
 
+# ShadowoftheTombRaider
+# https://store.steampowered.com/app/0
+{ "name": "SOTTR.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/55230/Saints_Row_The_Third/
 { "name": "SaintsRowTheThird.exe", "type": "Game" }
 { "name": "SaintsRowTheThird_DX11.exe", "type": "Game" }
@@ -1272,6 +1280,10 @@
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
+# The Farmer Was Replaced
+# https://store.steampowered.com/app/2060160
+{ "name": "TheFarmerWasReplaced.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2904000
 { "name": "TheSpellBrigade.exe", "type": "Game" }
