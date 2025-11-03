@@ -310,6 +310,10 @@
 
 ### D ###
 
+# DREDGE
+# https://store.steampowered.com/app/1562430
+{ "name": "DREDGE.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
 { "name": "DarkSoulsRemastered.exe", "type": "Game" }
 
@@ -470,6 +474,10 @@
 { "name": "Doki Doki Literature Club Plus.exe", "type": "Game" }
 
 ### E ###
+
+# Enshrouded
+# https://store.steampowered.com/app/1203620
+{ "name": "enshrouded.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1245620/ELDEN_RING/
 { "name": "eldenring.exe", "type": "Game" }
@@ -653,6 +661,10 @@
 { "name": "GoW.exe", "type": "Game" }
 
 ### H ###
+
+# Horizon Zero Dawn
+# https://store.steampowered.com/app/1151640
+{ "name": "HorizonZeroDawn.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
@@ -1167,6 +1179,10 @@
 
 ### S ###
 
+# Shadow of the Tomb Raider
+# https://store.steampowered.com/app/750920
+{ "name": "SOTTR.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/55230/Saints_Row_The_Third/
 { "name": "SaintsRowTheThird.exe", "type": "Game" }
 { "name": "SaintsRowTheThird_DX11.exe", "type": "Game" }
@@ -1300,6 +1316,14 @@
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
+# The Farmer Was Replaced
+# https://store.steampowered.com/app/2060160
+{ "name": "TheFarmerWasReplaced.exe", "type": "Game" }
+
+# The Spell Brigade
+# https://store.steampowered.com/app/2904000
+{ "name": "TheSpellBrigade.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
 { "name": "Card Shop Simulator.exe", "type": "Game" }
