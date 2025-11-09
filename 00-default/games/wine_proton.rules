@@ -571,6 +571,9 @@
 # https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/
 { "name": "ffxiv_dx11.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
+{ "name": "freddys.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1680880/Forspoken/
 { "name": "FORSPOKEN.exe", "type": "Game" }
 
@@ -1118,6 +1121,9 @@
 # https://store.steampowered.com/app/1282100/REMNANT_II/
 { "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Remnant2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3241660/REPO/
+{ "name": "REPO.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard
 { "name": "re7.exe", "type": "Game" }
