@@ -585,6 +585,11 @@
 
 ### G ###
 
+# https://store.steampowered.com/app/4000/Garrys_Mod/
+# Proton version of Garry's mod
+
+{ "name": "gmod.exe", "type": "Game" }
+
 # GenshinImpact International version
 { "name": "GenshinImpact.exe", "type": "Game" }
 
@@ -746,6 +751,9 @@
 { "name": "Insurgency.exe", "type": "Game" }
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "InsurgencyEAC.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
+{ "name": "isaac-ng.exe", "type": "Game" }
 
 ### J ###
 
