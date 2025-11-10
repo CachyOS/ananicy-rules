@@ -3,3 +3,9 @@
 
 # DNS (https://wiki.archlinux.org/title/systemd-resolved)
 { "name": "systemd-resolved", "type": "BG_CPUIO" }
+
+# Journald (https://wiki.archlinux.org/title/Systemd/Journal)
+{ "name": "systemd-journald", "type": "BG_CPUIO" }
+
+# UDEV (https://wiki.archlinux.org/title/Udev) ; (https://man.archlinux.org/man/systemd-udevd.service.8)
+{ "name": "systemd-udevd", "type": "BG_CPUIO" }
