@@ -1,0 +1,8 @@
+# https://reaper.fm
+{ "name": "reaper", "type": "LowLatency_RT" }
+
+# https://www.helgoboss.org/projects/helgobox
+{ "name": "helgobox", "type": "LowLatency_RT" }
+
+# https://github.com/QuentinFAIDIDE/KholorsStation
+{ "name": "KholorsStation", "type": "LowLatency_RT" }
