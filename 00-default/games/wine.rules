@@ -8,3 +8,6 @@
 
 # Plug & Play.
 { "name": "plugplay.exe", "type": "BG_CPUIO" }
+
+# Service Control Manager
+{ "name": "services.exe", "type": "BG_CPUIO" }
