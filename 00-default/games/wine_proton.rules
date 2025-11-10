@@ -8,6 +8,10 @@
 
 ### A ###
 
+# Abiotic Factor
+# https://store.steampowered.com/app/427410
+{ "name": "AbioticFactor.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
 { "name": "AvP_Classic.exe", "type": "Game" }
 
@@ -588,9 +592,12 @@
 
 ### G ###
 
+# Gas Station Simulator
+# https://store.steampowered.com/app/1149620
+{ "name": "GSS2.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/4000/Garrys_Mod/
 # Proton version of Garry's mod
-
 { "name": "gmod.exe", "type": "Game" }
 
 # GenshinImpact International version
@@ -1092,6 +1099,10 @@
 ### Q ###
 ### R ###
 
+# Ruined King: A League of Legends Story
+# https://store.steampowered.com/app/1276790
+{ "name": "RuinedKing.exe", "type": "Game" }
+
 # Rabbit and Steel https://store.steampowered.com/app/2132850/Rabbit_and_Steel/
 { "name": "RabbitSteel.exe", "type": "Game" }
 
@@ -1437,6 +1448,10 @@
 { "name": "Talos2.exe", "type": "Game" }
 
 ### T ###
+
+# Temtem: Swarm
+# https://store.steampowered.com/app/2510960
+{ "name": "TemtemSwarm.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
 { "name": "Card Shop Simulator.exe", "type": "Game" }
