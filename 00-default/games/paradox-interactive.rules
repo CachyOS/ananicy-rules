@@ -4,6 +4,9 @@
 # Europa Universalis IV - https://www.paradoxinteractive.com/games/europa-universalis-iv
 { "name": "eu4", "type": "Game" }
 
+# Europa Universalis V - https://www.paradoxinteractive.com/games/europa-universalis-v
+{ "name": "eu5.exe", "type": "Game" }
+
 # Hearts of Iron IV - https://www.paradoxinteractive.com/games/hearts-of-iron-iv
 { "name": "hoi4", "type": "Game" }
 
@@ -15,3 +18,4 @@
 
 # Victoria 3 - https://www.paradoxinteractive.com/games/victoria-3
 { "name": "victoria3", "type": "Game" }
+
