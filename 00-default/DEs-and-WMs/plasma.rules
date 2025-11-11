@@ -15,3 +15,5 @@
 { "name": "kwin_wayland_wrapper", "type": "LowLatency_RT" }
 { "name": "kwin_x11", "type": "LowLatency_RT" }
 { "name": "plasmashell", "nice": -1 }
+# https://github.com/KDE/powerdevil
+{ "name": "org_kde_powerdevil", "type": "Service" }
