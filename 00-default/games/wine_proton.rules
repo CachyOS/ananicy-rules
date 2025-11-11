@@ -302,6 +302,9 @@
 { "name": "Expedition33_Steam.exe", "type": "Game" }
 { "name": "SandFall-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3314790/CloverPit/
+{ "name": "CloverPit.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos-Win64-Shipping.exe", "type": "Game" }
 
@@ -333,10 +336,15 @@
 { "name": "DayZLauncher.exe", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/app/381210/Dead_by_Daylight/
+{ "name": "DeadByDaylight.exe", "type": "Game" }
 { "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1422450/Deadlock
 { "name": "deadlock.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2599300/Dead_Signal/
+{ "name": "DeadSignal.exe", "type": "Game" }
+{ "name": "DeadSignal-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1422450
 { "name": "project8.exe", "type": "Game" }
@@ -575,8 +583,19 @@
 # https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/
 { "name": "ffxiv_dx11.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
+{ "name": "FiveNightsatFreddys.exe", "type": "Game" }
+
+# https://gamejolt.com/games/imadethisforyou/981759
+{ "name": "FNAF 1 REMAKE.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
 { "name": "freddys.exe", "type": "Game" }
+{ "name": "freddys-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2287520/Five_Nights_at_Freddys_Help_Wanted_2/
+{ "name": "HW2.exe", "type": "Game" }
+{ "name": "HW2-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1680880/Forspoken/
 { "name": "FORSPOKEN.exe", "type": "Game" }
@@ -680,6 +699,9 @@
 # Horizon Zero Dawn
 # https://store.steampowered.com/app/1151640
 { "name": "HorizonZeroDawn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
+{ "name": "h3vr.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
@@ -967,6 +989,9 @@
 
 # https://store.steampowered.com/app/774171/Muse_Dash/
 { "name": "MuseDash.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/516750/My_Summer_Car/
+{ "name": "mysummercar.exe", "type": "Game" }
 
 ### N ###
 
@@ -1540,6 +1565,9 @@
 # Unreal Tournament 2004 https://steamcommunity.com/app/13230
 { "name": "UT2004.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
+{ "name": "Ultimate Custom Night.exe", "type": "Game" }
+
 ### V ###
 
 # https://store.steampowered.com/app/1794680/Vampire_Survivors/
@@ -1560,6 +1588,9 @@
 
 # https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/438100/VRChat/
+{ "name": "VRChat.exe", "type": "Game" }
 
 ### W ###
 
