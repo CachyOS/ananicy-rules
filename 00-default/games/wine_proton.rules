@@ -582,6 +582,12 @@
 # https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/
 { "name": "ffxiv_dx11.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
+{ "name": "FiveNightsatFreddys.exe", "type": "Game" }
+
+# https://gamejolt.com/games/imadethisforyou/981759
+{ "name": "FNAF 1 REMAKE.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
 { "name": "freddys.exe", "type": "Game" }
 { "name": "freddys-Win64-Shipping.exe", "type": "Game" }
@@ -1581,6 +1587,9 @@
 
 # https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/438100/VRChat/
+{ "name": "VRChat.exe", "type": "Game" }
 
 ### W ###
 
