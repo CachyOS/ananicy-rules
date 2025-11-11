@@ -302,6 +302,9 @@
 { "name": "Expedition33_Steam.exe", "type": "Game" }
 { "name": "SandFall-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3314790/CloverPit/
+{ "name": "CloverPit.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos-Win64-Shipping.exe", "type": "Game" }
 
@@ -337,6 +340,10 @@
 
 # https://store.steampowered.com/app/1422450/Deadlock
 { "name": "deadlock.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2599300/Dead_Signal/
+{ "name": "DeadSignal.exe", "type": "Game" }
+{ "name": "DeadSignal-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1422450
 { "name": "project8.exe", "type": "Game" }
@@ -577,6 +584,11 @@
 
 # https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
 { "name": "freddys.exe", "type": "Game" }
+{ "name": "freddys-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2287520/Five_Nights_at_Freddys_Help_Wanted_2/
+{ "name": "HW2.exe", "type": "Game" }
+{ "name": "HW2-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1680880/Forspoken/
 { "name": "FORSPOKEN.exe", "type": "Game" }
@@ -680,6 +692,9 @@
 # Horizon Zero Dawn
 # https://store.steampowered.com/app/1151640
 { "name": "HorizonZeroDawn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
+{ "name": "h3vr.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
@@ -967,6 +982,9 @@
 
 # https://store.steampowered.com/app/774171/Muse_Dash/
 { "name": "MuseDash.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/516750/My_Summer_Car/
+{ "name": "mysummercar.exe", "type": "Game" }
 
 ### N ###
 
@@ -1539,6 +1557,9 @@
 
 # Unreal Tournament 2004 https://steamcommunity.com/app/13230
 { "name": "UT2004.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
+{ "name": "Ultimate Custom Night.exe", "type": "Game" }
 
 ### V ###
 
