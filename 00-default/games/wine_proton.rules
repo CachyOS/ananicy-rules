@@ -694,6 +694,9 @@
 # https://store.steampowered.com/app/1593500/God_of_War/
 { "name": "GoW.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2322010/God_of_War_Ragnark/
+{ "name": "GoWR.exe", "type": "Game" }
+
 ### H ###
 
 # Horizon Zero Dawn
@@ -1230,6 +1233,9 @@
 # https://store.steampowered.com/app/400910/RabiRibi/
 { "name": "rabiribi.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
+{ "name": "RiftApart.exe", "type": "Game" }
+
 ### S ###
 
 # Shadow of the Tomb Raider
@@ -1550,6 +1556,18 @@
 
 # https://store.steampowered.com/app/1328350/Turbo_Overkill/
 { "name": "Turbo Overkill.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/
+{ "name": "ManOfMedan.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/
+{ "name": "HouseOfAshes.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/
+{ "name": "LittleHope.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
+{ "name": "TheDevilInMe.exe", "type": "Game" }
 
 ### U ###
 
