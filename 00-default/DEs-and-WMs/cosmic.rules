@@ -1,0 +1,66 @@
+#### Essential COSMIC components
+
+# Applies Background for the COSMIC Desktop Environment
+{ "name": "cosmic-bg", "type": "BG_CPUIO" }
+
+# OSD for the COSMIC Desktop Environment
+{ "name": "cosmic-osd", "type": "LowLatency_RT" }
+
+# Idle daemon for the COSMIC Desktop Environment
+{ "name": "cosmic-idle", "type": "BG_CPUIO" }
+
+# Compositor for the COSMIC Desktop Environment
+{ "name": "cosmic-comp", "type": "LowLatency_RT" }
+
+# Library and utility for displaying and configuring Wayland outputs
+{ "name": "cosmic-randr", "type": "BG_CPUIO" }
+
+# Panel for the COSMIC Desktop Environment
+{ "name": "cosmic-panel", "type": "LowLatency_RT" }
+
+# Session manager for the COSMIC desktop environment
+{ "name": "cosmic-session", "type": "LowLatency_RT" }
+
+# Applets for the COSMIC Desktop Environment
+{ "name": "cosmic-app-list", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-a11y", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-audio", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-battery", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-bluetooth", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-input-sources", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-minimize", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-network", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-notifications", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-power", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-status-area", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-tiling", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-time", "type": "LowLatency_RT" }
+{ "name": "cosmic-applet-workspaces", "type": "LowLatency_RT" }
+{ "name": "cosmic-applets", "type": "LowLatency_RT" }
+{ "name": "cosmic-panel-button", "type": "LowLatency_RT" }
+{ "name": "cosmic-app-list", "type": "LowLatency_RT" }
+
+# Launcher for the COSMIC Desktop Environment
+{ "name": "cosmic-launcher", "type": "LowLatency_RT" }
+
+# Screenshot tool for the COSMIC Desktop Environment
+{ "name": "cosmic-screenshot", "type": "Doc-View" }
+
+# Second Application Launcher for the COSMIC Desktop Environment
+{ "name": "cosmic-app-library", "type": "LowLatency_RT" }
+
+# Notifications for the COSMIC Desktop Environment
+{ "name": "cosmic-notifications", "type": "BG_CPUIO" }
+
+# Settings Daemon for the COSMIC Desktop Environment
+{ "name": "cosmic-settings-daemon", "type": "BG_CPUIO" }
+
+# Workspaces Epoch for the COSMIC Desktop Environment
+# I don't actually know what the best option is for this but no OOM kill seems to make the most sense for now
+{ "name": "cosmic-workspaces", "type": "OOM_NO_KILL" }
+
+#### COSMIC Built-in applications
+
+# PDF reader for the COSMIC Desktop Environment
+{ "name": "cosmic-reader", "type": "Doc-View" }
+

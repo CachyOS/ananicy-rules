@@ -39,3 +39,6 @@
 
 # https://zed.dev
 { "name": "zed-editor", "type": "Doc-View" }
+
+# COSMIC text editor
+{ "name": "cosmic-edit", "type": "Doc-View" }
