@@ -1,0 +1,11 @@
+# greetd itself
+{ "name": "greetd", "type": "LowLatency_RT" }
+
+# various greetd-based greeters
+{ "name": "tuigreet", "type": "LowLatency_RT" }
+{ "name": "regreet", "type": "LowLatency_RT" }
+{ "name": "nwg-hello", "type": "LowLatency_RT" }
+{ "name": "wlgreet", "type": "LowLatency_RT" }
+{ "name": "gtkgreet", "type": "LowLatency_RT" }
+{ "name": "qtgreet", "type": "LowLatency_RT" }
+{ "name": "cosmic-greeter", "type": "LowLatency_RT" }
