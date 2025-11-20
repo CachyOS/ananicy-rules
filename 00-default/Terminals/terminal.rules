@@ -38,3 +38,6 @@
 # ptyxis
 { "name": "ptyxis", "type": "Doc-View" }
 { "name": "ptyxis-agent", "type": "Doc-View" }
+
+# COSMIC terminal
+{ "name": "cosmic-term", "type": "Doc-View" }
