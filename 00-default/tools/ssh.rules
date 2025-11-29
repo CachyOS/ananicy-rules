@@ -1,2 +1,4 @@
 # ssh
 { "name": "ssh-agent", "type": "BG_CPUIO" }
+{ "name": "sshd", "type": "BG_CPUIO" }
+{ "name": "sshd-session", "type": "BG_CPUIO" }
