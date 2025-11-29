@@ -6,6 +6,8 @@
 
 # steam-runtime-launcher 
 { "name": "steam-runtime-launcher-service", "type": "BG_CPUIO" }
+{ "name": "srt-logger", "type": "BG_CPUIO" }
+{ "name": "srt-bwrap", "type": "BG_CPUIO" }
 
 ### A ###
 
