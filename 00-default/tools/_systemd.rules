@@ -9,3 +9,12 @@
 
 # UDEV (https://wiki.archlinux.org/title/Udev) ; (https://man.archlinux.org/man/systemd-udevd.service.8)
 { "name": "systemd-udevd", "type": "BG_CPUIO" }
+
+# systemd-logind - Login manager; "systemd-logind is a system service that manages user logins"
+{ "name": "systemd-logind", "type": "BG_CPUIO" }
+
+#  systemd, init - systemd system and service manager
+{ "name": "systemd", "type": "BG_CPUIO" }
+
+#  systemd-userdbd.service, systemd-userdbd - JSON User/Group Record Query Multiplexer/NSS Compatibility
+{ "name": "systemd-userdbd", "type": "BG_CPUIO" }
