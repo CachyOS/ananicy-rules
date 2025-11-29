@@ -1,0 +1,9 @@
+# MistServer https://mistserver.org/
+{ "name": "MistController", "type": "BG_CPUIO" }
+{ "name": "MistOutTSSRT", "type": "LowLatency_RT" }
+{ "name": "MistOutRTMP", "type": "LowLatency_RT" }
+{ "name": "MistOutRTSP", "type": "LowLatency_RT" }
+{ "name": "MistOutHTTP", "type": "LowLatency_RT" }
+{ "name": "MistOutWEBRTC", "type": "LowLatency_RT" }
+{ "name": "MistOutMP4", "type": "LowLatency_RT" }
+{ "name": "MistOutDTSC", "type": "LowLatency_RT" }
