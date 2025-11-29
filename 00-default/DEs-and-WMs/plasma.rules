@@ -17,3 +17,5 @@
 { "name": "plasmashell", "nice": -1 }
 # https://github.com/KDE/powerdevil
 { "name": "org_kde_powerdevil", "type": "Service" }
+# https://github.com/KDE/kwallet
+{ "name": "kwalletd6", "type": "Service" }
