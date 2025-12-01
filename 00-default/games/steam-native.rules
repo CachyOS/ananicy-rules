@@ -27,6 +27,9 @@
 # https://store.steampowered.com/app/233550/Another_World__20th_Anniversary_Edition/
 { "name": "AnotherWorld-amd64", "type": "Game" }
 
+# https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
+{ "name": "deskjob", "type": "Game" }
+
 ### B ###
 
 # https://store.steampowered.com/app/22828
@@ -118,6 +121,9 @@
 # https://store.steampowered.com/app/588650/Dead_Cells/
 { "name": "deadcells", "type": "Game" }
 { "name": "deadcells.sh", "type": "BG_CPUIO" }
+
+# https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
+{ "name": "DustAET", "type": "Game" }
 
 ### E ###
 

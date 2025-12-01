@@ -12,6 +12,9 @@
 # https://store.steampowered.com/app/427410
 { "name": "AbioticFactor.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/19680/Alice_Madness_Returns/
+{ "name": "AliceMadnessReturns.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
 { "name": "AvP_Classic.exe", "type": "Game" }
 
@@ -34,6 +37,9 @@
 # https://store.steampowered.com/app/916440/Anno_1800/
 { "name": "Anno1800.exe", "type": "Game" }
 { "name": "Anno1800_plus.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
+{ "name": "deskjob.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1172470/Apex_Legends/
 { "name": "r5apex_dx12.exe", "type": "Game" }
@@ -280,6 +286,9 @@
 { "name": "iw4sp.exe", "type": "Game" }
 { "name": "iw4mp.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
+{ "name": "BlackOps.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
 { "name": "t6mp.exe", "type": "Game" }
 { "name": "t6sp.exe", "type": "Game" }
@@ -321,6 +330,10 @@
 
 # https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1388770/Cruelty_Squad/
+{ "name": "crueltysquad.exe", "type": "Game" }
+{ "name": "crueltysquad32.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 { "name": "Cyberpunk2077.exe", "type": "Game" }
@@ -493,6 +506,9 @@
 # https://store.steampowered.com/app/39160/Dungeon_Siege_III/
 { "name": "Dungeon Siege III.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
+{ "name": "DustAET.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/922400/DXBall_2_20th_Anniversary_Edition/
 { "name": "DXBall2.exe", "type": "Game" }
 
@@ -625,6 +641,9 @@
 
 ### G ###
 
+# https://store.steampowered.com/app/1224600/G_String/
+{ "name": "gstring.exe", "type": "Game" }
+
 # Gas Station Simulator
 # https://store.steampowered.com/app/1149620
 { "name": "GSS2.exe", "type": "Game" }
@@ -743,6 +762,9 @@
 # https://store.steampowered.com/app/990080/Hogwarts_Legacy/
 { "name": "HogwartsLegacy.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1817230/HiFi_RUSH/
+{ "name": "Hi-Fi-RUSH.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/6900/Hitman_Codename_47/
 { "name": "Hitman.Exe", "type": "Game" }
 
@@ -843,6 +865,9 @@
 # https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/
 { "name": "KingdomCome.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1730680/Klonoa_Phantasy_Reverie_Series/
+{ "name": "Klonoa.exe", "type": "Game" }
+
 # Kingdoms of amalur https://store.steampowered.com/app/1041720
 { "name": "koa.exe", "type": "Game" }
 
@@ -859,6 +884,9 @@
 
 # https://store.steampowered.com/app/500/Left_4_Dead/
 { "name": "left4dead.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/
+{ "name": "SRX.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/32440/LEGO_Star_Wars__The_Complete_Saga/
 { "name": "LEGOStarWarsSaga.exe", "type": "Game" }
@@ -995,6 +1023,12 @@
 
 # https://store.steampowered.com/app/940910/Minoria/
 { "name": "Minoria.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/17410/Mirrors_Edge/
+{ "name": "MirrorsEdge.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1233570/Mirrors_Edge_Catalyst/
+{ "name": "MirrorsEdgeCatalyst.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1414020/Mixolumia/
 { "name": "Mixolumia.exe", "type": "Game" }
@@ -1676,6 +1710,18 @@
 { "name": "witcher.exe", "type": "Game" }
 { "name": "witcher2.exe", "type": "Game" }
 { "name": "witcher3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/
+{ "name": "WolfNewOrder_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/350080/Wolfenstein_The_Old_Blood/
+{ "name": "WolfOldBlood_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/
+{ "name": "NewColossus_x64vk.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1056960/Wolfenstein_Youngblood/
+{ "name": "Youngblood_x64vk.exe", "type": "Game" }
 
 # World of Warcraft
 { "name": "Wow.exe", "type": "Game" }
