@@ -1,0 +1,3 @@
+# wpaperd: Modern wallpaper daemon for Wayland
+# https://github.com/danyspin97/wpaperd
+{ "name": "wpaperd", "type": "BG_CPUIO" }
