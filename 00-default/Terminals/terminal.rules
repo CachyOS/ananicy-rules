@@ -35,6 +35,9 @@
 # ghostty
 { "name": "ghostty", "type": "Doc-View" }
 
+# rio
+{ "name": "rio", "type": "Doc-View" }
+
 # ptyxis
 { "name": "ptyxis", "type": "Doc-View" }
 { "name": "ptyxis-agent", "type": "Doc-View" }
