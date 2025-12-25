@@ -173,6 +173,10 @@
 # Beastieball https://store.steampowered.com/app/1864950/Beastieball/
 { "name": "beastieball.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3371240/Beyond_Citadel/
+{ "name": "beyond_citadel.exe", "type": "Game" }
+{ "name": "beyond_citadel-Win64-Shipping.exe", "type": "Game" }
+
 # Beyond Two Souls via Proton, https://store.steampowered.com/app/960990/Beyond_Two_Souls/
 { "name": "BeyondTwoSouls_", "type": "Game" }
 
@@ -1190,6 +1194,9 @@
 # https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
 { "name": "pso2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1907590/Psycho_Patrol_R/
+{ "name": "psychopatrolr.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/895870/Project_Wingman/
 { "name": "ProjectWingman.exe", "type": "Game" }
 { "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
@@ -1478,6 +1485,10 @@
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
+# https://store.steampowered.com/app/1378290/The_Citadel/
+{ "name": "the_citadel.exe", "type": "Game" }
+{ "name": "the_citadel-Win64-Shipping.exe", "type": "Game" }
 
 # The Farmer Was Replaced
 # https://store.steampowered.com/app/2060160
