@@ -36,6 +36,9 @@
 # Yuzu Emulator for Switch games: https://yuzu-emu.org/
 { "name": "yuzu", "type": "Game" }
 
+# Eden Emulator for Switch games: https://eden-emu.dev/
+{ "name": "eden", "type": "Game" }
+
 ### Others ###
 
 # Multi-purpose emulation framework. https://www.mamedev.org/
