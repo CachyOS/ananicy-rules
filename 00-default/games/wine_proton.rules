@@ -1107,6 +1107,15 @@
 # https://store.steampowered.com/app/516750/My_Summer_Car/
 { "name": "mysummercar.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2767030/Marvel_Rivals/
+{ "name": "Marvel.exe", "type": "Game" }
+{ "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
+{ "name": "MarvelRivals_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "CapturePro.exe", "type": "BG_CPUIO" }
+{ "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
+{ "name": "client_diagnose.exe", "type": "BG_CPUIO" }
+{ "name": "upload_profile.exe", "type": "BG_CPUIO" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1063730/New_World_Aeternum/
@@ -1369,6 +1378,9 @@
 # Risk of Rain 2 https://store.steampowered.com/app/632360/Risk_of_Rain_2/
 { "name": "Risk of Rain 2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/312520/Rain_World/
+{ "name": "RainWorld.exe", "type": "Game" }
+
 ### S ###
 
 # Shadow of the Tomb Raider
@@ -1517,6 +1529,10 @@
 
 # https://store.steampowered.com/app/502800/SENRAN_KAGURA_ESTIVAL_VERSUS/
 { "name": "SKEstivalVersus.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1172620/Sea_of_Thieves_2025_Edition/
+{ "name": "SeaOfThieves.exe", "type": "Game" }
+{ "name": "SoTGame.exe", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
