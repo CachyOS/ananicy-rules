@@ -233,6 +233,14 @@
 
 ### C ###
 
+# Crab Champions
+# https://store.steampowered.com/app/774801
+{ "name": "CrabChampions.exe", "type": "Game" }
+
+# Call of Duty Black Ops III
+# https://store.steampowered.com/app/311210
+{ "name": "BlackOps3.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/22340/Call_of_Cthulhu_Dark_Corners_of_the_Earth/
 { "name": "CoCMainWin32.exe", "type": "Game" }
 
@@ -313,6 +321,10 @@
 { "name": "CelebrityKombat.exe", "type": "Game" }
 
 ### D ###
+
+# Dispatch
+# https://store.steampowered.com/app/2592160
+{ "name": "Dispatch.exe", "type": "Game" }
 
 # DREDGE
 # https://store.steampowered.com/app/1562430
@@ -510,6 +522,10 @@
 { "name": "eu4.exe", "type": "Game" }
 
 ### F ###
+
+# FINAL FANTASY TACTICS - The Ivalice Chronicles
+# https://store.steampowered.com/app/1004640
+{ "name": "FFT_enhanced.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/288470/Fable_Anniversary
 { "name": "Fable Anniversary.exe", "type": "Game" }
@@ -1449,6 +1465,10 @@
 
 ### T ###
 
+# Tomb Raider
+# https://store.steampowered.com/app/203160
+{ "name": "TombRaider.exe", "type": "Game" }
+
 # Temtem: Swarm
 # https://store.steampowered.com/app/2510960
 { "name": "TemtemSwarm.exe", "type": "Game" }
@@ -1542,6 +1562,10 @@
 
 ### V ###
 
+# VRising
+# https://store.steampowered.com/app/1604030
+{ "name": "VRising.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1794680/Vampire_Survivors/
 { "name": "VampireSurvivors.exe", "type": "Game" }
 
@@ -1562,6 +1586,10 @@
 { "name": "VotV.exe", "type": "Game" }
 
 ### W ###
+
+# Where Winds Meet
+# https://store.steampowered.com/app/3564740
+{ "name": "wwm.exe", "type": "Game" }
 
 # Warframe (via Steam Proton): https://store.steampowered.com/app/230410/warframe
 { "name": "Warframe.x64.exe", "type": "Game" }
