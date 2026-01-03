@@ -180,6 +180,9 @@
 # Beastieball https://store.steampowered.com/app/1864950/Beastieball/
 { "name": "beastieball.exe", "type": "Game" }
 
+# Beat Saber https://store.steampowered.com/app/620980/Beat_Saber/
+{ "name": "Beat Saber.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3371240/Beyond_Citadel/
 { "name": "beyond_citadel.exe", "type": "Game" }
 { "name": "beyond_citadel-Win64-Shipping.exe", "type": "Game" }
@@ -362,6 +365,9 @@
 
 # The Chronicles of Riddick: Escape from Butcher Bay (2004)
 { "name": "SbzEngine.exe", "type": "Game" }
+
+# Cities: Skylines - https://store.steampowered.com/app/255710/Cities_Skylines/
+{ "name": "Cities.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/
 { "name": "Condemned.exe", "type": "Game" }
@@ -801,6 +807,9 @@
 # https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
 
+# Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
+{ "name": "hlvr.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
 { "name": "mcclauncher.exe", "type": "Game" }
@@ -1186,6 +1195,9 @@
 
 # https://store.steampowered.com/app/39560/Painkiller_Resurrection/
 { "name": "Resurrection.exe", "type": "Game" }
+
+# Paradiddle https://store.steampowered.com/app/685240/Paradiddle/
+{ "name": "Paradiddle-Win64-Shipping.exe", "type": "Game" }
 
 # ParanormalHK https://store.steampowered.com/app/1178490
 { "name": "PuzzleGame-Win64-Shipping.exe", "type": "Game" }
@@ -1629,6 +1641,10 @@
 
 ### T ###
 
+# Teardown https://store.steampowered.com/app/1167630/Teardown/
+{ "name": "teardown.exe", "type": "Game" }
+{ "name": "teardown_modtest.exe", "type": "Game" }
+
 # Tomb Raider
 # https://store.steampowered.com/app/203160
 { "name": "TombRaider.exe", "type": "Game" }
@@ -1745,6 +1761,9 @@
 # https://store.steampowered.com/app/1604030
 { "name": "VRising.exe", "type": "Game" }
 
+# Valheim https://store.steampowered.com/app/892970/Valheim/
+{ "name": "Valheim.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1794680/Vampire_Survivors/
 { "name": "VampireSurvivors.exe", "type": "Game" }
 
@@ -1761,8 +1780,14 @@
 # https://store.steampowered.com/app/529340/Victoria_3/
 { "name": "victoria3.exe", "type": "Game" }
 
+# Virtual Fighter Maneuvers https://store.steampowered.com/app/3952640/Virtual_Fighter_Maneuvers/
+{ "name": "VFM.exe", "type": "Game" }
+
 # https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
+
+# VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
+{ "name": "VTOLVR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/438100/VRChat/
 { "name": "VRChat.exe", "type": "Game" }
