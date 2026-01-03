@@ -1638,6 +1638,10 @@
 
 ### T ###
 
+# Teardown https://store.steampowered.com/app/1167630/Teardown/
+{ "name": "teardown.exe", "type": "Game" }
+{ "name": "teardown_modtest.exe", "type": "Game" }
+
 # Tomb Raider
 # https://store.steampowered.com/app/203160
 { "name": "TombRaider.exe", "type": "Game" }
