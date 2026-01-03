@@ -1,9 +1,22 @@
-# https://github.com/FunkinCrew/Funkin ; Friday Night Funkin'
+# https://github.com/FunkinCrew/Funkin ; Friday Night Funkin' (base game)
 { "name": "Funkin", "type": "Game" }
 { "name": "Funkin.exe", "type": "Game" }
+
+### Engines ###
+
+# Kade Engine https://gamebanana.com/mods/44291
+{ "name": "Kade Engine", "type": "Game" }
+{ "name": "Kade Engine.exe", "type": "Game" }
+
+# Psych Engine https://github.com/ShadowMario/FNF-PsychEngine
+{ "name": "PsychEngine", "type": "Game" }
+{ "name": "PsychEngine.exe", "type": "Game" }
+
+# Codename Engine https://github.com/CodenameCrew/CodenameEngine
+{ "name": "CodenameEngine", "type": "Game" }
 { "name": "CodenameEngine.exe", "type": "Game" }
 
-## Friday Night Funkin mods: ##
+### Mods ###
 
 # Friday Night Funkin': Mario's Madness; https://gamebanana.com/mods/359554
 { "name": "Mario.exe", "type": "Game" }
@@ -16,3 +29,18 @@
 
 # Friday Night Funkin': ANTIPATHY https://gamebanana.com/mods/404314
 { "name": "AntipathyPsych.exe", "type": "Game" }
+
+# VS IMPOSTOR https://gamebanana.com/mods/590608
+{ "name": "Vs. Impostor.exe", "type": "Game" }
+{ "name": "VS Impostor.exe", "type": "Game" } # Legacy
+
+# Indie Cross https://gamejolt.com/games/indiecross/643540
+{ "name": "Indie Cross.exe", "type": "Game" }
+
+# Mistful Crimson Morning https://gamebanana.com/mods/387663
+{ "name": "Mistful Crimson Morning.exe", "type": "Game" }
+{ "name": "Mist.exe", "type": "Game" } # Old version
+
+# Mobmod https://gamebanana.com/mods/464620
+{ "name": "Mobbos", "type": "Game" }
+{ "name": "Mobbos.exe", "type": "Game" }
