@@ -1681,6 +1681,14 @@
 # https://store.steampowered.com/app/1486920/Tempest_Rising
 { "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/365590/Tom_Clancys_The_Division/
+{ "name": "thedivision.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/
+{ "name": "TheDivision2.exe", "type": "Game" }
+{ "name": "thedivision2launcher.exe", "type": "Game" }
+{ "name": "EACLaunch.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/211600/Thief_Gold/
 # https://www.ttlg.com/forums/showthread.php?t=134733
 { "name": "THIEF.EXE", "type": "Game" }
@@ -1798,6 +1806,10 @@
 
 # Virtual Fighter Maneuvers https://store.steampowered.com/app/3952640/Virtual_Fighter_Maneuvers/
 { "name": "VFM.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2615540/VOIDBREAKER/
+{ "name": "VOIDBREAKER.exe", "type": "Game" }
+{ "name": "VOIDBREAKER-Win64-Shipping.exe", "type": "Game" }
 
 # https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
