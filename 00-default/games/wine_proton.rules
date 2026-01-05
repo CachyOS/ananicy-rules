@@ -41,6 +41,11 @@
 { "name": "Anno1800.exe", "type": "Game" }
 { "name": "Anno1800_plus.exe", "type": "Game" }
 
+# Ashes of creation
+# https://store.steampowered.com/app/4124950/Ashes_of_Creation/
+{ "name": "AOCClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "IntrepidStudiosLauncher.exe", "type": "BG_CPUIO" }
+
 # https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
 { "name": "deskjob.exe", "type": "Game" }
 
