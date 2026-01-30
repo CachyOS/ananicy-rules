@@ -1,0 +1,5 @@
+# These are the most popular cores to use with VLESS protocol in apps such as Throne/v2ray/etc.
+
+{ "name": "xray", "type": "IN_DIFF" }
+{ "name": "sing-box", "type": "IN_DIFF" }
+
