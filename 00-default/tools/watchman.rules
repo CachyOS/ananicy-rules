@@ -1,0 +1,2 @@
+# Watchman - A file watching service: https://www.gnu.org/software/wget
+{ "name": "watchman", "type": "IN_DIFF" }
