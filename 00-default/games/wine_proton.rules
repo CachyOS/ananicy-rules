@@ -115,10 +115,6 @@
 # Assetto Corsa Competizione, https://store.steampowered.com/app/805550/Assetto_Corsa_Competizione/
 { "name": "AC2-Win64-Shipping.exe", "type": "Game" }
 
-# Assetto Corsa Rally, https://store.steampowered.com/app/3917090/Assetto_Corsa_Rally/
-{ "name": "acr.exe", "type": "Game" }
-{ "name": "GameThread.exe", "type": "Game" }
-
 # Astroneer, https://store.steampowered.com/app/361420/ASTRONEER/
 { "name": "Astro-Win64-Shipping.exe", "type": "Game" }
 
@@ -832,9 +828,6 @@
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
 { "name": "mcclauncher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1240440/Halo_Infinite/
-{ "name": "HaloInfinite.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/253230/A_Hat_in_Time/
 { "name": "HatinTimeGame.exe", "type": "Game" }
 
@@ -969,6 +962,10 @@
 
 # https://store.steampowered.com/app/38430/Kingpin__Life_of_Crime
 { "name": "kingpin.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/824270/KovaaKs/
+{ "name": "FPSAimTrainer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "FPSAimTrainer.exe", "type": "Game" }
 
 ### L ###
 
@@ -1511,6 +1508,10 @@
 
 # https://store.steampowered.com/app/677620/Splitgate/
 { "name": "PortalWars-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2918300/SPLITGATE_Arena_Reloaded/
+{ "name": "PortalWars2Client-Win64-Shipping.exe", "type": "Game" }
+{ "name": "anticheat.x64.redKard.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/393380/Squad/
 { "name": "squad_launcher.exe", "type": "BG_CPUIO" }
