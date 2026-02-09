@@ -832,6 +832,9 @@
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
 { "name": "mcclauncher.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1240440/Halo_Infinite/
+{ "name": "HaloInfinite.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/253230/A_Hat_in_Time/
 { "name": "HatinTimeGame.exe", "type": "Game" }
 
