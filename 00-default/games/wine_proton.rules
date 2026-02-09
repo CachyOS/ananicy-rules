@@ -115,6 +115,10 @@
 # Assetto Corsa Competizione, https://store.steampowered.com/app/805550/Assetto_Corsa_Competizione/
 { "name": "AC2-Win64-Shipping.exe", "type": "Game" }
 
+# Assetto Corsa Rally, https://store.steampowered.com/app/3917090/Assetto_Corsa_Rally/
+{ "name": "acr.exe", "type": "Game" }
+{ "name": "GameThread.exe", "type": "Game" }
+
 # Astroneer, https://store.steampowered.com/app/361420/ASTRONEER/
 { "name": "Astro-Win64-Shipping.exe", "type": "Game" }
 
