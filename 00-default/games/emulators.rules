@@ -39,6 +39,9 @@
 # Eden Emulator for Switch games: https://eden-emu.dev/
 { "name": "eden", "type": "Game" }
 
+# Ryujinx Emulator for Switch games: https://ryujinx.app/
+{ "name": "ryujinx", "type": "Game" }
+
 ### Others ###
 
 # Multi-purpose emulation framework. https://www.mamedev.org/
