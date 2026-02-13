@@ -1178,6 +1178,16 @@
 # https://store.steampowered.com/app/589360/Ni_no_Kuni_II_Revenant_Kingdom/
 { "name": "Nino2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/485510/Nioh_Complete_Edition/
+{ "name": "nioh_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "nioh.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/
+{ "name": "nioh2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3681010/Nioh_3/
+{ "name": "Nioh3.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/275850/No_Mans_Sky/
 { "name": "NMS.exe", "type": "Game" }
 
@@ -1920,6 +1930,9 @@
 
 # https://store.steampowered.com/app/1056960/Wolfenstein_Youngblood/
 { "name": "Youngblood_x64vk.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1448440/Wo_Long_Fallen_Dynasty/
+{ "name": "WoLong.exe", "type": "Game"}
 
 # World of Warcraft
 { "name": "Wow.exe", "type": "Game" }
