@@ -3,7 +3,12 @@
 { "name": "heroic", "type": "Doc-View" }
 { "name": "legendary", "type": "IN_DIFF" }
 
-# Arc Launcher, bundled with games published by Arc 
+# Hydra is a game launcher that allows you to download, play, track your stats and manage your games all in one place: https://hydralauncher.gg/
+{"name" : "hydralauncher", "type": "Doc-View"}
+{"name" : "hydra-python-rpc", "type": "BG_CPUIO"}
+{"name" : "Hydra", "type": "BG_CPUIO"}
+
+# Arc Launcher, bundled with games published by Arc
 # Technically available as a standalone app. https://www.arcgames.com/en/about/client
 { "name": "Arc.exe", "type": "BG_CPUIO" }
 { "name": "ArcChat.exe", "type": "Chat" }
@@ -15,7 +20,7 @@
 { "name": "ArcUpdate.exe", "type": "BG_CPUIO" }
 { "name": "ArcWebviewRender.exe", "type": "Doc-View" }
 
-# VK Play GameCenter is a launcher of the vkplay 
+# VK Play GameCenter is a launcher of the vkplay
 { "name": "GameCenter.exe", "type": "BG_CPUIO" }
 
 # Rules for Epic Games Launcher
