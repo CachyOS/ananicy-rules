@@ -1194,6 +1194,9 @@
 # https://store.steampowered.com/app/1657090/Mini_Royale/
 { "name": "RoomRoyalA-Linux-Shipping", "type": "Game" }
 
+# https://store.steampowered.com/app/1657090/Mini_Royale/
+{ "name": "MiniRoyale.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1063730/New_World_Aeternum/
@@ -2033,7 +2036,9 @@
 { "name": "WW3_Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3513350/Wuthering_Waves/
-{ "name": "WRCG.exe", "type": "Game" }
+{ "name": "KRSDKExternal.exe", "type": "Game" }
+{ "name": "Client-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Wuthering Waves.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
