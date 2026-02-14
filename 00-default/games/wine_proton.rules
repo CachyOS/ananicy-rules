@@ -12,6 +12,9 @@
 # https://store.steampowered.com/app/427410
 { "name": "AbioticFactor.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/253230/A_Hat_in_Time/
+{ "name": "HatinTimeGame.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/19680/Alice_Madness_Returns/
 { "name": "AliceMadnessReturns.exe", "type": "Game" }
 
@@ -819,32 +822,40 @@
 
 ### H ###
 
-# Horizon Zero Dawn
-# https://store.steampowered.com/app/1151640
-{ "name": "HorizonZeroDawn.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
-{ "name": "h3vr.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
 
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1240440/Halo_Infinite/
+{ "name": "HaloInfinite.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
 { "name": "mcclauncher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1240440/Halo_Infinite/
-{ "name": "HaloInfinite.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/253230/A_Hat_in_Time/
-{ "name": "HatinTimeGame.exe", "type": "Game" }
+# Hearthstone 
+# https://hearthstone.blizzard.com/en-us
+{ "name": "Hearthstone.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 # Windows version
 { "name": "hoi4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/
+{ "name": "HellbladeGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "HellbladeGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
+{ "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Hellblade2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/553850/HELLDIVERS_2/
+{ "name": "helldivers2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/686810/Hell_Let_Loose/
+{ "name": "HLL-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/889910/Hell_Pie/
 { "name": "HellPie.exe", "type": "Game" }
@@ -852,26 +863,8 @@
 # https://store.steampowered.com/app/2181610/Heretics_Fork/
 { "name": "Heretics Fork.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/990080/Hogwarts_Legacy/
-{ "name": "HogwartsLegacy.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1817230/HiFi_RUSH/
 { "name": "Hi-Fi-RUSH.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/6900/Hitman_Codename_47/
-{ "name": "Hitman.Exe", "type": "Game" }
-
-# https://store.steampowered.com/app/6850/Hitman_2_Silent_Assassin/
-{ "name": "hitman2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/247430/Hitman_Contracts/
-{ "name": "HitmanContracts.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/6860/Hitman_Blood_Money/
-{ "name": "HitmanBloodMoney.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/203140/Hitman_Absolution/
-{ "name": "HMA.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/236870/HITMAN/
 { "name": "HITMAN.exe", "type": "Game" }
@@ -879,8 +872,29 @@
 # https://store.steampowered.com/app/863550/HITMAN_2/
 { "name": "HITMAN2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/6850/Hitman_2_Silent_Assassin/
+{ "name": "hitman2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/203140/Hitman_Absolution/
+{ "name": "HMA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/6860/Hitman_Blood_Money/
+{ "name": "HitmanBloodMoney.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/6900/Hitman_Codename_47/
+{ "name": "Hitman.Exe", "type": "Game" }
+
+# https://store.steampowered.com/app/247430/Hitman_Contracts/
+{ "name": "HitmanContracts.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/632300/Hobo_Tough_Life/
 { "name": "HoboRPG.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/990080/Hogwarts_Legacy/
+{ "name": "HogwartsLegacy.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/
+{ "name": "HoloCure.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/367520/Hollow_Knight/
 { "name": "hollow_knight.exe", "type": "Game" }
@@ -888,24 +902,19 @@
 # https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
 { "name": "Hollow Knight S", "type": "Game" }
 
-# https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/
-{ "name": "HoloCure.exe", "type": "Game" }
-
 # Honkai: Star Rail
 # https://hsr.hoyoverse.com/
 { "name": "StarRail.exe", "type": "Game" }
 
+# Horizon Zero Dawn
+# https://store.steampowered.com/app/1151640
+{ "name": "HorizonZeroDawn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
+{ "name": "h3vr.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/824600/HROT/
 { "name": "HROT.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/686810/Hell_Let_Loose/
-{ "name": "HLL-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/553850/HELLDIVERS_2/
-{ "name": "helldivers2.exe", "type": "Game" }
-
-# Hearthstone
-{ "name": "Hearthstone.exe", "type": "Game" }
 
 ### I ###
 
