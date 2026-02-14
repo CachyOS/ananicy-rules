@@ -382,6 +382,9 @@
 # https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/
 { "name": "ClientG.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/231430/Company_of_Heroes_2/
+{ "name": "RelicCoH2.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/39670/Chaser/
 { "name": "Chaser.exe", "type": "Game" }
 
@@ -1365,17 +1368,22 @@
 ### Q ###
 ### R ###
 
-# Ruined King: A League of Legends Story
-# https://store.steampowered.com/app/1276790
-{ "name": "RuinedKing.exe", "type": "Game" }
-
 # Rabbit and Steel https://store.steampowered.com/app/2132850/Rabbit_and_Steel/
 { "name": "RabbitSteel.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/400910/RabiRibi/
+{ "name": "rabiribi.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/548570/RAGE_2/
 { "name": "RAGE2.exe", "type": "Game" }
 
-# Red Dead Redemption 2 https://store.steampowered.com/app/1174180/
+# https://store.steampowered.com/app/312520/Rain_World/
+{ "name": "RainWorld.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
+{ "name": "RiftApart.exe", "type": "Game" }
+
+# Red Dead Redemption 2 https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
 { "name": "RDR2.exe", "type": "Game" }
 
 # Red Faction https://store.steampowered.com/app/20530
@@ -1396,22 +1404,22 @@
 # https://store.steampowered.com/app/20500/Red_Faction_Guerrilla_Steam_Edition/
 { "name": "RFG.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/231430/Company_of_Heroes_2/
-{ "name": "RelicCoH2.exe", "type": "Game" }
+# https://store.steampowered.com/app/1282100/REMNANT_II/
+{ "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Remnant2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/
 { "name": "Remnant-Win64-Shipping.exe", "type": "Game" }
 { "name": "Remnant.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1282100/REMNANT_II/
-{ "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Remnant2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/3241660/REPO/
 { "name": "REPO.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard
-{ "name": "re7.exe", "type": "Game" }
+# https://store.steampowered.com/app/304240/Resident_Evil
+{ "name": "bhd.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/339340/Resident_Evil_0
+{ "name": "re0hd.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/883710/Resident_Evil_2
 { "name": "re2.exe", "type": "Game" }
@@ -1425,35 +1433,35 @@
 # https://store.steampowered.com/app/2050650/Resident_Evil_4/
 { "name": "re4.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1196590/Resident_Evil_Village/
-{ "name": "re8.exe", "type": "Game" }
+# https://store.steampowered.com/app/21690/Resident_Evil_5
+{ "name": "re5dx9.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/221040/Resident_Evil_6
 { "name": "BH6.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/21690/Resident_Evil_5
-{ "name": "re5dx9.exe", "type": "Game" }
+# https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard
+{ "name": "re7.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/339340/Resident_Evil_0
-{ "name": "re0hd.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2
-{ "name": "rerev2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/304240/Resident_Evil
-{ "name": "bhd.exe", "type": "Game" }
+# https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
+{ "name": "RaccoonCity.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/222480/Resident_Evil_Revelations
 { "name": "rerev.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
-{ "name": "RaccoonCity.exe", "type": "Game" }
+# https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2
+{ "name": "rerev2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1196590/Resident_Evil_Village/
+{ "name": "re8.exe", "type": "Game" }
+
+# Risk of Rain 2 https://store.steampowered.com/app/632360/Risk_of_Rain_2/
+{ "name": "Risk of Rain 2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
 { "name": "RoboCop.exe", "type": "Game" }
 { "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
 
-# Rocket League via Proton
+# Rocket League https://www.rocketleague.com/en/
 { "name": "RocketLeague.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/7020/Rogue_Trooper/
@@ -1462,26 +1470,18 @@
 # https://store.steampowered.com/app/529490/Rogue_Trooper_Redux/
 { "name": "RTR_x64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/928390/RType_Dimensions_EX/
-{ "name": "R-Type_Dimensions.exe", "type": "Game" }
+# https://store.steampowered.com/app/1557740/ROUNDS/
+{ "name": "ROUNDS.exe", "type": "Game" }
+
+# Ruined King: A League of Legends Story
+# https://store.steampowered.com/app/1276790
+{ "name": "RuinedKing.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/400910/RabiRibi/
-{ "name": "rabiribi.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
-{ "name": "RiftApart.exe", "type": "Game" }
-
-# Risk of Rain 2 https://store.steampowered.com/app/632360/Risk_of_Rain_2/
-{ "name": "Risk of Rain 2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/312520/Rain_World/
-{ "name": "RainWorld.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1557740/ROUNDS/
-{ "name": "ROUNDS.exe", "type": "Game" }
+# https://store.steampowered.com/app/928390/RType_Dimensions_EX/
+{ "name": "R-Type_Dimensions.exe", "type": "Game" }
 
 ### S ###
 
