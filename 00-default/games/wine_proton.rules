@@ -933,6 +933,10 @@
 # https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/
 { "name": "TheGreatCircle.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1373960/INDIKA/
+{ "name": "Indika.exe", "type": "Game" }
+{ "name": "Indika-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/581320/Insurgency_Sandstorm/
 { "name": "Insurgency.exe", "type": "Game" }
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
