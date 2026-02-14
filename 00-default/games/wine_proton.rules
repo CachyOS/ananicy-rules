@@ -299,9 +299,6 @@
 # https://steamcommunity.com/app/24740/
 { "name": "burnoutparadise.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/774361/Blasphemous/
-{ "name": "Blasphemous.x86_64", "type": "Game" }\
-
 # Blasphemous (proton) https://store.steampowered.com/app/774361/Blasphemous/
 { "name": "Blasphemous.exe", "type": "Game" }
 
@@ -850,9 +847,6 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/220/HalfLife_2/
-{ "name": "hl2_linux", "type": "Game" }
-
 # Half Life 2 (Proton) https://store.steampowered.com/app/220/HalfLife_2/
 { "name": "hl2.exe", "type": "Game" }
 
@@ -1190,9 +1184,6 @@
 
 # https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
 { "name": "MK12.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1657090/Mini_Royale/
-{ "name": "RoomRoyalA-Linux-Shipping", "type": "Game" }
 
 # https://store.steampowered.com/app/1657090/Mini_Royale/
 { "name": "MiniRoyale.exe", "type": "Game" }
@@ -1661,9 +1652,6 @@
 
 # https://store.steampowered.com/app/617830/SUPERHOT_VR/
 { "name": "SUPERHOTVR.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/326460/ShellShock_Live/
-{ "name": "ShellShockLive.x64", "type": "Game" }
 
 # ShellShock Live (proton) https://store.steampowered.com/app/326460/ShellShock_Live/
 { "name": "ShellShockLive.exe", "type": "Game" }
