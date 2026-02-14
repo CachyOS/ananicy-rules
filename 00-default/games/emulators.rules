@@ -75,3 +75,6 @@
 
 # PCSX2, PlayStation 2 emulator: https://pcsx2.net
 { "name": "pcsx2-qt", "type": "Game" }
+
+# SHADPS4, a PlayStation 4 emulator: https://shadps4.net
+{ "name": "shadps4", "type": "Game" }
