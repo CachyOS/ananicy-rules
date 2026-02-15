@@ -143,6 +143,9 @@
 # https://store.steampowered.com/app/673130/AMID_EVIL/
 { "name": "AmidEvil.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/714010/Aimlabs/
+{ "name": "AimLab_tb.exe", "type": "Game" }
+
 ### B ###
 
 # https://store.steampowered.com/app/2379780/Balatro/
@@ -296,6 +299,9 @@
 # https://steamcommunity.com/app/24740/
 { "name": "burnoutparadise.exe", "type": "Game" }
 
+# Blasphemous (proton) https://store.steampowered.com/app/774361/Blasphemous/
+{ "name": "Blasphemous.exe", "type": "Game" }
+
 ### C ###
 
 # Crab Champions
@@ -436,6 +442,9 @@
 # https://store.steampowered.com/app/381210/Dead_by_Daylight/
 { "name": "DeadByDaylight.exe", "type": "Game" }
 { "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/534380/Dying_Light_2_Stay_Human_Reloaded_Edition/
+{ "name": "DyingLightGame_x64_rwdi.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1422450/Deadlock
 { "name": "deadlock.exe", "type": "Game" }
@@ -592,6 +601,9 @@
 # https://store.steampowered.com/app/690790/DiRT_Rally_20/
 { "name": "dirtrally2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/753650/Due_Process/
+{ "name": "DueProcess.exe", "type": "Game" }
+
 ### E ###
 
 # Enshrouded
@@ -726,6 +738,9 @@
 # https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
 { "name": "HorizonForbiddenWest.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/304390/FOR_HONOR/
+{ "name": "forhonor.exe", "type": "Game" }
+
 ### G ###
 
 # https://store.steampowered.com/app/1224600/G_String/
@@ -832,6 +847,9 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
+# Half Life 2 (Proton) https://store.steampowered.com/app/220/HalfLife_2/
+{ "name": "hl2.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
 { "name": "mcclauncher.exe", "type": "Game" }
@@ -929,6 +947,9 @@
 # https://store.steampowered.com/app/1012790/Into_the_Radius_VR/
 { "name": "IntoTheRadius-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntoTheRadius.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1149460/ICARUS/
+{ "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
 
 ### J ###
 
@@ -1161,6 +1182,12 @@
 { "name": "client_diagnose.exe", "type": "BG_CPUIO" }
 { "name": "upload_profile.exe", "type": "BG_CPUIO" }
 
+# https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
+{ "name": "MK12.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1657090/Mini_Royale/
+{ "name": "MiniRoyale.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1063730/New_World_Aeternum/
@@ -1200,6 +1227,10 @@
 # https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
 { "name": "NarakaBladepoint.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
+{ "name": "NeedForSpeedHeat.exe", "type": "Game" }
+{ "name": "EADesktop.exe", "type": "Game" }
+
 ### O ###
 
 # https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
@@ -1222,6 +1253,9 @@
 
 # https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3659280/Off_The_Grid/
+{ "name": "G01Client-Win64-Shipping.exe", "type": "Game" }
 
 ### P ###
 
@@ -1328,6 +1362,10 @@
 { "name": "P5R.exe", "type": "Game" }
 
 ### Q ###
+
+# https://store.steampowered.com/app/1089130/Quake_II_RTX/
+{ "name": "q2rtx.exe", "type": "Game" }
+
 ### R ###
 
 # Ruined King: A League of Legends Story
@@ -1447,6 +1485,10 @@
 
 # https://store.steampowered.com/app/1557740/ROUNDS/
 { "name": "ROUNDS.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
+{ "name": "RRREWebBrowser.exe", "type": "Game" }
+{ "name": "RRRE64.exe", "type": "Game" }
 
 ### S ###
 
@@ -1616,6 +1658,23 @@
 
 # Stella Sora: https://stellasora.global
 { "name": "StellaSora.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/861650/Session_Skate_Sim/
+{ "name": "SessionGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "SessionGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/617830/SUPERHOT_VR/
+{ "name": "SUPERHOTVR.exe", "type": "Game" }
+
+# ShellShock Live (proton) https://store.steampowered.com/app/326460/ShellShock_Live/
+{ "name": "ShellShockLive.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3800340/ScootX/
+{ "name": "ScootX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1818450/STALCRAFT_X/
+{ "name": "stalcraftw.exe", "type": "Game" }
+
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
@@ -1850,6 +1909,10 @@
 # https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
 { "name": "Ultimate Custom Night.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/470220/UNO/
+{ "name": "UNO.exe", "type": "Game" }
+{ "name": "UbisoftGameLauncher.exe", "type": "Game" }
+
 ### V ###
 
 # VRising
@@ -1881,6 +1944,9 @@
 # https://store.steampowered.com/app/2615540/VOIDBREAKER/
 { "name": "VOIDBREAKER.exe", "type": "Game" }
 { "name": "VOIDBREAKER-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/801550/VAIL_Extraction/
+{ "name": "VAIL.exe", "type": "Game" }
 
 # https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
@@ -1959,6 +2025,24 @@
 
 # https://store.steampowered.com/app/1911610/Windblown/
 { "name": "Windblown.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1462810/WRC_10_FIA_World_Rally_Championship/
+{ "name": "WRC10.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1267540/WRC_9_FIA_World_Rally_Championship/
+{ "name": "WRC9.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1953520/WRC_Generations__The_FIA_WRC_Official_Game/
+{ "name": "WRCG.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/674020/World_War_3/
+{ "name": "WW3_Launcher.exe", "type": "Game" }
+{ "name": "WW3_Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3513350/Wuthering_Waves/
+{ "name": "KRSDKExternal.exe", "type": "Game" }
+{ "name": "Client-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Wuthering Waves.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
