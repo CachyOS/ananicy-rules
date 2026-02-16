@@ -905,6 +905,10 @@
 # https://store.steampowered.com/app/553850/HELLDIVERS_2/
 { "name": "helldivers2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1620730/Hell_is_Us/
+{ "name": "HellIsUs.exe", "type": "Game" }
+{ "name": "HellIsUs-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/686810/Hell_Let_Loose/
 { "name": "HLL-Win64-Shipping.exe", "type": "Game" }
 
