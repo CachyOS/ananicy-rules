@@ -1698,16 +1698,6 @@
 # https://store.steampowered.com/app/298900/Space_Hulk_Deathwing/
 { "name": "SpaceHulkGame.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
-{ "name": "SpaceMarine.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3169520/Warhammer_40000_Space_Marine__Master_Crafted_Edition/
-{ "name": "SpaceMarineBootstrapper.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
-{ "name": "Warhammer 40000 Space Marine 2.exe", "type": "Game" }
-{ "name": "Warhammer 40000 Space Marine 2 - Retail.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/39540/SpellForce__Platinum_Edition/
 { "name": "SpellForce.exe", "type": "Game" }
 
@@ -2098,10 +2088,6 @@
 # https://store.steampowered.com/app/1794680/Vampire_Survivors/
 { "name": "VampireSurvivors.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/
-{ "name": "vermintide2_dx12.exe", "type": "Game" }
-{ "name": "vermintide2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
 { "name": "vampire.exe", "type": "Game" }
 
@@ -2147,6 +2133,23 @@
 
 # Wargame: Red Dragon - https://store.epicgames.com/de/p/wargame-red-dragon
 { "name": "WarGame3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/
+{ "name": "Warhammer 40,000 Boltgun.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
+{ "name": "SpaceMarine.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3169520/Warhammer_40000_Space_Marine__Master_Crafted_Edition/
+{ "name": "SpaceMarineBootstrapper.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
+{ "name": "Warhammer 40000 Space Marine 2.exe", "type": "Game" }
+{ "name": "Warhammer 40000 Space Marine 2 - Retail.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/
+{ "name": "vermintide2_dx12.exe", "type": "Game" }
+{ "name": "vermintide2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/719040/Wasteland_3/
 { "name": "WL3.exe", "type": "Game" }
