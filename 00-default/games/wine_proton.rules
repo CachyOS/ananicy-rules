@@ -1208,6 +1208,9 @@
 { "name": "MGSDelta-Win64-Shipping.exe", "type": "Game" }
 { "name": "Nightmare-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/287700/METAL_GEAR_SOLID_V_THE_PHANTOM_PAIN/
+{ "name": "mgsvtpp.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/412020/Metro_Exodus/
 { "name": "MetroExodus.exe", "type": "Game" }
 
