@@ -1833,6 +1833,11 @@
 { "name": "tlou-i-l.exe", "type": "Game" }
 { "name": "tlou-i.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/
+{ "name": "launcher.exe", "type": "BG_CPUIO" }
+{ "name": "tlou-ii.exe", "type": "Game" }
+{ "name": "tlou-ii-l.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/267530/The_LEGO_Movie__Videogame/
 { "name": "LEGOEMMET.exe", "type": "Game" }
 
