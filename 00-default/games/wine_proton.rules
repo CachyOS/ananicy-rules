@@ -1620,6 +1620,9 @@
 # https://store.steampowered.com/app/610860/Shogo_Mobile_Armor_Division/
 { "name": "Shogo.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1262350/SIGNALIS/
+{ "name": "SIGNALIS.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2124490/SILENT_HILL_2/
 { "name": "SHProto.exe", "type": "Game" }
 { "name": "SHProto-Win64-Shipping.exe", "type": "Game" }
@@ -1627,7 +1630,6 @@
 # https://store.steampowered.com/app/2947440/SILENT_HILL_f/
 { "name": "SHf.exe", "type": "Game" }
 { "name": "SHf-Win64-Shipping.exe", "type": "Game" }
-
 
 # https://store.steampowered.com/app/1313/SiN_Gold/
 { "name": "sin.exe", "type": "Game" }
