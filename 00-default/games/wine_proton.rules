@@ -626,11 +626,14 @@
 # https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
 { "name": "DBXV2.exe", "type": "Game" }
 
+# AT.exe is amusingly also shared with https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 # https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
 { "name": "AT-Win64-Shipping.exe", "type": "Game" }
 { "name": "AT.exe", "type": "Game" }
 
-# AT.exe is amusingly also shared with https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
+# https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/
+{ "name": "SparkingZERO.exe", "type": "Game" }
+{ "name": "SparkingZERO-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/
 { "name": "DRAGON QUEST XI S.exe", "type": "Game" }
