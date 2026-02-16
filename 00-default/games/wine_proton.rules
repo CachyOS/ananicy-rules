@@ -1636,6 +1636,12 @@
 # https://store.steampowered.com/app/298900/Space_Hulk_Deathwing/
 { "name": "SpaceHulkGame.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
+{ "name": "SpaceMarine.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3169520/Warhammer_40000_Space_Marine__Master_Crafted_Edition/
+{ "name": "SpaceMarineBootstrapper.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/39540/SpellForce__Platinum_Edition/
 { "name": "SpellForce.exe", "type": "Game" }
 
