@@ -1031,9 +1031,6 @@
 # https://store.steampowered.com/app/1192900/IRON_REBELLION/
 { "name": "Iron Rebellion.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
-{ "name": "isaac-ng.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1012790/Into_the_Radius_VR/
 { "name": "IntoTheRadius-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntoTheRadius.exe", "type": "Game" }
@@ -1853,6 +1850,9 @@
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
+# https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
+{ "name": "isaac-ng.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1378290/The_Citadel/
 { "name": "the_citadel.exe", "type": "Game" }
