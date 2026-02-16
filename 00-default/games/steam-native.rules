@@ -58,6 +58,9 @@
 # https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/
 { "name": "BorderlandsPreSequel", "type": "Game" }
 
+# https://store.steampowered.com/app/774361/Blasphemous/
+{ "name": "Blasphemous.x86_64", "type": "Game" }
+
 ### C ###
 
 # https://store.steampowered.com/app/730/CounterStrike_2/
@@ -278,6 +281,9 @@
 # https://store.steampowered.com/app/607260/McOsu/
 { "name": "McEngine", "type": "Game" }
 
+# https://store.steampowered.com/app/1657090/Mini_Royale/
+{ "name": "RoomRoyalA-Linux-Shipping", "type": "Game" }
+
 ### N ###
 
 # http://store.steampowered.com/app/4920/Natural_Selection_2/
@@ -447,6 +453,9 @@
 
 # https://store.steampowered.com/app/1592280/Selaco/
 { "name": "Selaco.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/326460/ShellShock_Live/
+{ "name": "ShellShockLive.x64", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
