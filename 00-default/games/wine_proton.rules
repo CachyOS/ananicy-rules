@@ -1685,6 +1685,10 @@
 { "name": "starwarsbattlefrontii.exe", "type": "Game" }
 { "name": "starwarsbattlefrontii_trial.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3489700/Stellar_Blade/
+{ "name": "SB.exe", "type": "Game" }
+{ "name": "SB-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/
 { "name": "stormworks64.exe", "type": "Game" }
 
