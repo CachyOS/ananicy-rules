@@ -1,21 +1,45 @@
-# Crusader Kings III - https://www.paradoxinteractive.com/games/crusader-kings-iii
+# Crusader Kings II (Native)- https://www.paradoxinteractive.com/games/crusader-kings-ii
+{ "name": "ck2", "type": "Game" }
+
+# Crusader Kings II (Windows)- https://www.paradoxinteractive.com/games/crusader-kings-ii
+{ "name": "ck2.exe", "type": "Game" }
+
+# Crusader Kings III (Native)- https://www.paradoxinteractive.com/games/crusader-kings-iii
 { "name": "ck3", "type": "Game" }
 
-# Europa Universalis IV - https://www.paradoxinteractive.com/games/europa-universalis-iv
+# Crusader Kings III (Windows)- https://www.paradoxinteractive.com/games/crusader-kings-iii
+{ "name": "ck3.exe", "type": "Game" }
+
+# Europa Universalis IV (Native)- https://www.paradoxinteractive.com/games/europa-universalis-iv
 { "name": "eu4", "type": "Game" }
 
-# Europa Universalis V - https://www.paradoxinteractive.com/games/europa-universalis-v
+# Europa Universalis IV (Windows)- https://www.paradoxinteractive.com/games/europa-universalis-iv
+{ "name": "eu4.exe", "type": "Game" }
+
+# Europa Universalis V (Windows) - https://www.paradoxinteractive.com/games/europa-universalis-v
 { "name": "eu5.exe", "type": "Game" }
 
-# Hearts of Iron IV - https://www.paradoxinteractive.com/games/hearts-of-iron-iv
+# Hearts of Iron IV (Native) - https://www.paradoxinteractive.com/games/hearts-of-iron-iv
 { "name": "hoi4", "type": "Game" }
 
-# Imperator: Rome - https://www.paradoxinteractive.com/games/imperator-rome
+# Hearts of Iron IV (Windows) - https://www.paradoxinteractive.com/games/hearts-of-iron-iv
+{ "name": "hoi4.exe", "type": "Game" }
+
+# Imperator: Rome (Native) - https://www.paradoxinteractive.com/games/imperator-rome
 { "name": "imperator", "type": "Game" }
 
-# Stellaris - https://www.paradoxinteractive.com/games/stellaris
+# Imperator: Rome (Windows) - https://www.paradoxinteractive.com/games/imperator-rome
+{ "name": "imperator.exe", "type": "Game" }
+
+# Stellaris (Native) - https://www.paradoxinteractive.com/games/stellaris
 { "name": "stellaris", "type": "Game" }
 
-# Victoria 3 - https://www.paradoxinteractive.com/games/victoria-3
+# Stellaris (Windows) - https://www.paradoxinteractive.com/games/stellaris
+{ "name": "stellaris.exe", "type": "Game" }
+
+# Victoria 3 (Native) - https://www.paradoxinteractive.com/games/victoria-3
 { "name": "victoria3", "type": "Game" }
+
+# Victoria 3 (Windows) - https://www.paradoxinteractive.com/games/victoria-3
+{ "name": "victoria3.exe", "type": "Game" }
 
