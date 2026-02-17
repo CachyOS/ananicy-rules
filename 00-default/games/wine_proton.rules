@@ -1760,6 +1760,10 @@
 # https://store.steampowered.com/app/1313/SiN_Gold/
 { "name": "sin.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/750130/The_Sinking_City_Remastered/
+{ "name": "TheSinkingCityRemastered.exe", "type": "Game" }
+{ "name": "TSCGame-Win64-Shipping.exe", "type": "Game" }
+
 # Smite https://www.smitegame.com/
 { "name": "CoherentUI_Host.exe", "type": "Game" }
 
