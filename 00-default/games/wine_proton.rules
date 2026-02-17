@@ -1725,9 +1725,13 @@
 { "name": "FactoryGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "FactoryGame.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/698670/Scorn/
+{ "name": "FactoryGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "FactoryGame.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1948450/Sex_Chess/
-{ "name": "BattleChess-Win64-Shipping.exe", "type": "Game" }
-{ "name": "BattleChess.exe", "type": "Game" }
+{ "name": "Scorn.exe", "type": "Game" }
+{ "name": "Scorn-Win64-Shipping.exe", "type": "Game" }
 
 # Shadows: Awakening https://store.steampowered.com/app/585450
 { "name": "shadows.exe", "type": "Game" }
