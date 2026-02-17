@@ -4,7 +4,7 @@
 # Steam integrated web browser
 { "name": "steamwebhelper", "type": "BG_CPUIO" }
 
-# steam-runtime-launcher 
+# steam-runtime-launcher
 { "name": "steam-runtime-launcher-service", "type": "BG_CPUIO" }
 { "name": "srt-logger", "type": "BG_CPUIO" }
 { "name": "srt-bwrap", "type": "BG_CPUIO" }
@@ -87,6 +87,10 @@
 
 # https://store.steampowered.com/app/504230/Celeste/
 { "name": "Celeste.bin.x86_64", "type": "Game" }
+
+# Combat Master
+# https://store.steampowered.com/app/2281730/Combat_Master
+{ "name" : "CombatMaster.x86_64","type": "Game"}
 
 ### Common bin names ###
 
@@ -290,6 +294,9 @@
 
 # https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/
 { "name": "nwmain-linux", "type": "Game" }
+
+# https://store.steampowered.com/app/1625450/Muck/
+{ "name": "Muck.x86_64", "type": "Game" }
 
 ### O ###
 
@@ -521,6 +528,9 @@
 # https://store.steampowered.com/app/617480/Tower_of_Time/
 { "name": "TowerOfTime.x86", "type": "Game" }
 { "name": "TowerOfTime.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/286160/Tabletop_Simulator/
+{ "name": "Tabletop Simulator.x86_64", "type": "Game" }
 
 ### U ###
 

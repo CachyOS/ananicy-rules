@@ -158,6 +158,11 @@
 # https://store.steampowered.com/app/714010/Aimlabs/
 { "name": "AimLab_tb.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
+{ "name": "ShooterGame_BE.exe", "type": "Game" }
+{ "name": "ShooterGame.exe", "type": "Game" }
+
+
 ### B ###
 
 # https://store.steampowered.com/app/2379780/Balatro/
@@ -318,6 +323,12 @@
 # Blasphemous (proton) https://store.steampowered.com/app/774361/Blasphemous/
 { "name": "Blasphemous.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3199170/Blood_Strike/
+{ "name": "BloodStrike.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2226280/BAPBAP/
+{ "name": "bapbap.exe", "type": "Game" }
+
 ### C ###
 
 # Crab Champions
@@ -456,6 +467,13 @@
 
 # https://store.steampowered.com/app/2240390/Celebrity_Kombat/
 { "name": "CelebrityKombat.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/386180/Crossout/
+{ "name": "Crossout_BE.exe", "type": "Game" }
+{ "name": "Crossout-D3D12.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/918570/Century_Age_of_Ashes/
+{ "name": "Century-Win64-Shipping.exe", "type": "Game" }
 
 ### D ###
 
@@ -602,7 +620,9 @@
 # https://store.steampowered.com/app/379720/DOOM/
 { "name": "DOOMx64vk.exe", "type": "Game" }
 
+# DOOM Eternal
 # https://store.steampowered.com/app/782330/DOOM_Eternal/
+{ "name": "DOOMx64.exe", "type": "Game" }
 { "name": "DOOMEternalx64vk.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/
@@ -705,6 +725,11 @@
 
 # https://store.steampowered.com/app/236850/Europa_Universalis_IV/
 { "name": "eu4.exe", "type": "Game" }
+
+# eFootball
+# https://store.steampowered.com/app/1665460/eFootball/
+{ "name" : "eFootball.exe", "type": "Game" }
+{ "name" : "Settings.exe", "type": "Game" }
 
 ### F ###
 
@@ -811,6 +836,10 @@
 # https://store.steampowered.com/app/304390/FOR_HONOR/
 { "name": "forhonor.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2943650/FragPunk/
+{ "name": "FragPunk.exe", "type": "Game" }
+{ "name": "FragNeacClient.exe", "type": "Game" }
+
 ### G ###
 
 # https://store.steampowered.com/app/1224600/G_String/
@@ -902,6 +931,9 @@
 # https://store.steampowered.com/app/2322010/God_of_War_Ragnark/
 { "name": "GoWR.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/815370/Green_Hell/
+{ "name": "GH.exe", "type": "Game" }
+
 ### H ###
 
 # https://store.steampowered.com/app/1145360/Hades/
@@ -926,7 +958,7 @@
 # https://store.steampowered.com/app/1740720/Have_a_Nice_Death/
 { "name": "HaveaNiceDeath.exe", "type": "Game" }
 
-# Hearthstone 
+# Hearthstone
 # https://hearthstone.blizzard.com/en-us
 { "name": "Hearthstone.exe", "type": "Game" }
 
@@ -1303,6 +1335,12 @@
 # https://store.steampowered.com/app/1657090/Mini_Royale/
 { "name": "MiniRoyale.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1607250/MY_HERO_ULTRA_RUMBLE/
+{ "name": "MHUR.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1625450/Muck/
+{ "name": "Muck.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1063730/New_World_Aeternum/
@@ -1383,6 +1421,10 @@
 
 # https://store.steampowered.com/app/3659280/Off_The_Grid/
 { "name": "G01Client-Win64-Shipping.exe", "type": "Game" }
+
+# Oh Deer
+# https://store.steampowered.com/app/2708450/Oh_Deer
+{ "name" : "OhDeer.exe" ,"type" : "Game"}
 
 ### P ###
 
@@ -1487,6 +1529,9 @@
 
 # https://store.steampowered.com/app/1687950/Persona_5_Royal/
 { "name": "P5R.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1241100/POLYGON/
+{ "name": "POLYGON-Win64-Shipping.exe", "type": "Game" }
 
 ### Q ###
 
@@ -1625,6 +1670,9 @@
 # https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRREWebBrowser.exe", "type": "Game" }
 { "name": "RRRE64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/872200/Rogue_Company/
+{ "name": "RogueCompany.exe", "type": "Game" }
 
 ### S ###
 
@@ -1847,6 +1895,9 @@
 # https://store.steampowered.com/app/1818450/STALCRAFT_X/
 { "name": "stalcraftw.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1227690/Severed_Steel/
+{ "name": "SeveredSteel.exe", "type": "Game" }
+
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
@@ -1903,8 +1954,11 @@
 { "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
 { "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
 
+# The Forest
 # https://store.steampowered.com/agecheck/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
+{ "name": "TheForest32.exe", "type": "Game" }
+{ "name": "TheForestVR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION
 { "name": "kofxiii.exe", "type": "Game" }
@@ -1971,6 +2025,9 @@
 # https://store.steampowered.com/app/835960/The_Talos_Principle_2/
 { "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Talos2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/450390/The_Lab/
+{ "name": "TheLab.exe", "type": "Game" }
 
 ### T ###
 
@@ -2064,6 +2121,11 @@
 # https://store.steampowered.com/app/2225070/Trackmania/
 { "name": "Trackmania.exe", "type": "Game" }
 
+# TrackMania Nations Forever
+# https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
+{ "name": "TmForever.exe", "type": "Game" }
+{ "name": "TmForeverLauncher.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1164940/Trepang2/
 { "name": "CPPFPS.exe", "type": "Game" }
 
@@ -2084,6 +2146,9 @@
 
 # https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
 { "name": "TheDevilInMe.exe", "type": "Game" }
+
+# Tabletop_Simulator (proton) https://store.steampowered.com/app/286160/Tabletop_Simulator/
+{ "name": "Tabletop Simulator.exe", "type": "Game" }
 
 ### U ###
 
