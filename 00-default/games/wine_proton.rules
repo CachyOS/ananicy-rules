@@ -959,6 +959,10 @@
 # Half Life 2 (Proton) https://store.steampowered.com/app/220/HalfLife_2/
 { "name": "hl2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2397300/Half_Sword/
+{ "name": "HalfSwordUE5.exe", "type": "Game" }
+{ "name": "HalfSwordUE5-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1240440/Halo_Infinite/
 { "name": "HaloInfinite.exe", "type": "Game" }
 
