@@ -559,7 +559,9 @@
 # https://store.steampowered.com/app/379720/DOOM/
 { "name": "DOOMx64vk.exe", "type": "Game" }
 
+# DOOM Eternal
 # https://store.steampowered.com/app/782330/DOOM_Eternal/
+{ "name": "DOOMx64.exe", "type": "Game" }
 { "name": "DOOMEternalx64vk.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/
@@ -650,6 +652,11 @@
 
 # https://store.steampowered.com/app/236850/Europa_Universalis_IV/
 { "name": "eu4.exe", "type": "Game" }
+
+# eFootball
+# https://store.steampowered.com/app/1665460/eFootball/
+{ "name" : "eFootball.exe", "type": "Game" }
+{ "name" : "Settings.exe", "type": "Game" }
 
 ### F ###
 
@@ -862,7 +869,7 @@
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
 { "name": "mcclauncher.exe", "type": "Game" }
 
-# Hearthstone 
+# Hearthstone
 # https://hearthstone.blizzard.com/en-us
 { "name": "Hearthstone.exe", "type": "Game" }
 
@@ -1298,6 +1305,10 @@
 
 # https://store.steampowered.com/app/3659280/Off_The_Grid/
 { "name": "G01Client-Win64-Shipping.exe", "type": "Game" }
+
+# Oh Deer
+#https://store.steampowered.com/app/2708450/Oh_Deer
+{ "name" : "OhDeer.exe" ,"type" : "Game"}
 
 ### P ###
 
@@ -1797,8 +1808,11 @@
 { "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
 { "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
 
+# The Forest
 # https://store.steampowered.com/agecheck/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
+{ "name": "TheForest32.exe", "type": "Game" }
+{ "name": "TheForestVR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION
 { "name": "kofxiii.exe", "type": "Game" }
@@ -1949,6 +1963,11 @@
 
 # https://store.steampowered.com/app/2225070/Trackmania/
 { "name": "Trackmania.exe", "type": "Game" }
+
+# TrackMania Nations Forever
+# https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
+{ "name": "TmForever.exe", "type": "Game" }
+{ "name": "TmForeverLauncher.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1328350/Turbo_Overkill/
 { "name": "Turbo Overkill.exe", "type": "Game" }
