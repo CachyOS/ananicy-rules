@@ -1586,6 +1586,10 @@
 # https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
 { "name": "RiftApart.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1144200/Ready_or_Not/
+{ "name": "ReadyOrNot.exe", "type": "Game" }
+{ "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" } 
+
 # https://store.steampowered.com/app/2129530/REANIMAL/
 { "name": "REANIMAL.exe", "type": "Game" }
 
