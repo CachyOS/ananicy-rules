@@ -295,6 +295,9 @@
 # https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/
 { "name": "nwmain-linux", "type": "Game" }
 
+# https://store.steampowered.com/app/1625450/Muck/
+{ "name": "Muck.x86_64", "type": "Game" }
+
 ### O ###
 
 # https://store.steampowered.com/app/238320/Outlast/
@@ -525,6 +528,9 @@
 # https://store.steampowered.com/app/617480/Tower_of_Time/
 { "name": "TowerOfTime.x86", "type": "Game" }
 { "name": "TowerOfTime.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/286160/Tabletop_Simulator/
+{ "name": "Tabletop Simulator.x86_64", "type": "Game" }
 
 ### U ###
 
