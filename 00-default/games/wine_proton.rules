@@ -411,6 +411,10 @@
 { "name": "CodeVein2.exe", "type": "Game" }
 { "name": "CodeVein2-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/870780/Control_Ultimate_Edition/
+{ "name": "Control.exe", "type": "Game" }
+{ "name": "Control_DX11.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2297010/Combat_Mission_Battle_for_Normandy/
 { "name": "CM Normandy.exe", "type": "Game" }
 
