@@ -515,6 +515,9 @@
 # https://store.steampowered.com/app/1422450/Deadlock
 { "name": "deadlock.exe", "type": "Game" }
 
+#https://store.epicgames.com/en-US/p/dead-island-2
+{ "name": "deadlock.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2599300/Dead_Signal/
 { "name": "DeadSignal.exe", "type": "Game" }
 { "name": "DeadSignal-Win64-Shipping.exe", "type": "Game" }
@@ -821,9 +824,6 @@
 # https://store.steampowered.com/app/1293830/Forza_Horizon_4/
 { "name": "ForzaHorizon4.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
-{ "name": "HorizonForbiddenWest.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/304390/FOR_HONOR/
 { "name": "forhonor.exe", "type": "Game" }
 
@@ -924,6 +924,10 @@
 
 # https://store.steampowered.com/app/815370/Green_Hell/
 { "name": "GH.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/ghostrunner
+{ "name": "GH.exe", "type": "Game" }
+
 
 ### H ###
 
@@ -1027,6 +1031,9 @@
 # Horizon Zero Dawn
 # https://store.steampowered.com/app/1151640
 { "name": "HorizonZeroDawn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
+{ "name": "HorizonForbiddenWest.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
 { "name": "h3vr.exe", "type": "Game" }
