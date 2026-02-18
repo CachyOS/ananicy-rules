@@ -951,10 +951,6 @@
 { "name": "HellbladeGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "HellbladeGame.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
-{ "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Hellblade2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/553850/HELLDIVERS_2/
 { "name": "helldivers2.exe", "type": "Game" }
 
@@ -1881,6 +1877,10 @@
 
 # https://store.steampowered.com/app/1227690/Severed_Steel/
 { "name": "SeveredSteel.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
+{ "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Hellblade2.exe", "type": "Game" }
 
 
 ### The ###
