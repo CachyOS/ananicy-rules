@@ -426,12 +426,6 @@
 # https://store.steampowered.com/app/39670/Chaser/
 { "name": "Chaser.exe", "type": "Game" }
 
-# The Chronicles of Riddick: Assault on Dark Athena
-{ "name": "DarkAthena.exe", "type": "Game" }
-
-# The Chronicles of Riddick: Escape from Butcher Bay (2004)
-{ "name": "SbzEngine.exe", "type": "Game" }
-
 # Cities: Skylines - https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.exe", "type": "Game" }
 
@@ -2027,6 +2021,12 @@
 
 # https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
 { "name": "TheDevilInMe.exe", "type": "Game" }
+
+# The Chronicles of Riddick: Assault on Dark Athena
+{ "name": "DarkAthena.exe", "type": "Game" }
+
+# The Chronicles of Riddick: Escape from Butcher Bay (2004)
+{ "name": "SbzEngine.exe", "type": "Game" }
 
 ### T ###
 
