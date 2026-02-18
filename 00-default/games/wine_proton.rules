@@ -853,14 +853,6 @@
 # https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/
 { "name": "GhostOfTsushima.exe", "type": "Game" }
 
-# Tom Clancy's Ghost Recon Advanced Warfighter
-{ "name": "GRAW.exe", "type": "Game" }
-{ "name": "GRAW-standalone.exe", "type": "Game" }
-
-# Tom Clancy's Ghost Recon Advanced Warfighter 2
-{ "name": "graw2.exe", "type": "Game" }
-{ "name": "graw2_dedicated.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1150760/Gloomwood/
 { "name": "Gloomwood.exe", "type": "Game" }
 
@@ -2052,6 +2044,18 @@
 
 # https://store.steampowered.com/app/365590/Tom_Clancys_The_Division/
 { "name": "thedivision.exe", "type": "Game" }
+
+# Tom Clancy's Ghost Recon Advanced Warfighter
+{ "name": "GRAW.exe", "type": "Game" }
+{ "name": "GRAW-standalone.exe", "type": "Game" }
+
+# Tom Clancy's Ghost Recon Advanced Warfighter
+{ "name": "GRAW.exe", "type": "Game" }
+{ "name": "GRAW-standalone.exe", "type": "Game" }
+
+# Tom Clancy's Ghost Recon Advanced Warfighter 2
+{ "name": "graw2.exe", "type": "Game" }
+{ "name": "graw2_dedicated.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/
 { "name": "TheDivision2.exe", "type": "Game" }
