@@ -2020,6 +2020,9 @@
 # TESO https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
 { "name": "eso64.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/268050/The_Evil_Within/
+{ "name": "evilwithin.exe", "type": "Game" }
+
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
 { "name": "start_protected_game.exe", "type": "Game" }
