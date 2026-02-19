@@ -2006,10 +2006,6 @@
 # https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1293160/The_Medium/
-{ "name": "Medium.exe", "type": "Game" }
-{ "name": "Medium-Win64-Shipping.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
 { "name": "Oblivion.exe", "type": "Game" }
 
@@ -2090,6 +2086,10 @@
 # https://store.steampowered.com/app/1773180/The_Matriarch/
 { "name": "TheMatriarch-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheMatriarch.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1293160/The_Medium/
+{ "name": "Medium.exe", "type": "Game" }
+{ "name": "Medium-Win64-Shipping.exe", "type": "Game" }
 
 # The Outer Worlds https://store.steampowered.com/app/578650
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
