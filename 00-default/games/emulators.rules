@@ -67,7 +67,6 @@
 
 # RPCS3, a PlayStation 3 emulator: https://rpcs3.net
 { "name": "rpcs3", "type": "Game" }
-{ "name": "AppRun.wrapped", "type": "Game" }
 
 # PPSSPP, PSP emulator: https://github.com/hrydgard/ppsspp/
 { "name": "PPSSPPHeadless", "type": "Game" }
