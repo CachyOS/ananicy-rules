@@ -2023,6 +2023,9 @@
 # https://store.steampowered.com/app/268050/The_Evil_Within/
 { "name": "evilwithin.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/601430/The_Evil_Within_2/
+{ "name": "TEW2.exe", "type": "Game" }
+
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
 { "name": "start_protected_game.exe", "type": "Game" }
