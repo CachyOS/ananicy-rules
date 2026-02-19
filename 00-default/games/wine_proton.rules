@@ -251,6 +251,10 @@
 # Blade and Sorcery https://store.steampowered.com/app/629730/Blade_and_Sorcery/
 { "name": "BladeAndSorcery.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1173220/Bleak_Faith_Forsaken/
+{ "name": "Forsaken.exe", "type": "Game" }
+{ "name": "Forsaken-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3681810/Blue_Protocol_Star_Resonance/
 { "name": "BPSR.exe", "type": "Game"}
 
@@ -310,6 +314,10 @@
 # https://store.steampowered.com/app/729040/Borderlands_Game_of_the_Year_Enhanced/
 { "name": "BorderlandsGOTY.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1623940/Bramble_The_Mountain_King/
+{ "name": "Bramble_TMK.exe", "type": "Game" }
+{ "name": "Bramble_TMK-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1942280/Brotato/
 { "name": "Brotato.exe", "type": "Game" }
 
@@ -320,8 +328,14 @@
 # https://steamcommunity.com/app/24740/
 { "name": "burnoutparadise.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2428980/Bye_Sweet_Carole/
+{ "name": "Bye Sweet Carole.exe", "type": "Game" }
+
 # Blasphemous (proton) https://store.steampowered.com/app/774361/Blasphemous/
 { "name": "Blasphemous.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2114740/Blasphemous_2/
+{ "name": "Blasphemous 2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3199170/Blood_Strike/
 { "name": "BloodStrike.exe", "type": "Game" }
@@ -334,6 +348,10 @@
 # Crab Champions
 # https://store.steampowered.com/app/774801
 { "name": "CrabChampions.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1544020/The_Callisto_Protocol/
+{ "name": "TheCallistoProtocol.exe", "type": "Game" }
+{ "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
 
 # Call of Duty Black Ops III
 # https://store.steampowered.com/app/311210
@@ -721,6 +739,7 @@
 
 # https://store.steampowered.com/app/1065310/Evil_West/
 { "name": "EvilWest.exe", "type": "Game" }
+{ "name": "HighMoon-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/804000/Expendable/
 { "name": "Expendable.exe", "type": "Game" }
@@ -1526,6 +1545,9 @@
 # PEAK https://store.steampowered.com/app/3527290/PEAK/
 { "name": "PEAK.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/494430/Praey_for_the_Gods/
+{ "name": "Praey For the Gods.exe", "type": "Game" }
+
 # Pro Evolution Soccer 2013
 { "name": "pes2013.exe", "type": "Game" }
 
@@ -1603,6 +1625,10 @@
 
 # https://store.steampowered.com/app/2129530/REANIMAL/
 { "name": "REANIMAL.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2668510/Red_Dead_Redemption/
+{ "name": "PlayRDR.exe", "type": "Game" }
+{ "name": "RDR.exe", "type": "Game" }
 
 # Red Dead Redemption 2 https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
 { "name": "RDR2.exe", "type": "Game" }
@@ -1987,10 +2013,6 @@
 # https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1293160/The_Medium/
-{ "name": "Medium.exe", "type": "Game" }
-{ "name": "Medium-Win64-Shipping.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
 { "name": "Oblivion.exe", "type": "Game" }
 
@@ -2004,6 +2026,12 @@
 
 # TESO https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
 { "name": "eso64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/268050/The_Evil_Within/
+{ "name": "evilwithin.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/601430/The_Evil_Within_2/
+{ "name": "TEW2.exe", "type": "Game" }
 
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
@@ -2071,6 +2099,10 @@
 # https://store.steampowered.com/app/1773180/The_Matriarch/
 { "name": "TheMatriarch-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheMatriarch.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1293160/The_Medium/
+{ "name": "Medium.exe", "type": "Game" }
+{ "name": "Medium-Win64-Shipping.exe", "type": "Game" }
 
 # The Outer Worlds https://store.steampowered.com/app/578650
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
@@ -2168,6 +2200,12 @@
 # https://store.steampowered.com/app/1030210/Torchlight_III/
 { "name": "Frontiers-Win64-Shipping.exe", "type": "Game" }
 { "name": "Frontiers.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1367590/Tormented_Souls/
+{ "name": "TormentedSouls.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2464280/Tormented_Souls_2/
+{ "name": "TormentedSouls2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/298030/Total_Annihilation/
 { "name": "TAE.EXE", "type": "Game" }
