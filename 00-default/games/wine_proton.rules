@@ -343,6 +343,9 @@
 # https://store.steampowered.com/app/2226280/BAPBAP/
 { "name": "bapbap.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/beyond-blue
+{ "name": "Beyond Blue.exe", "type": "Game" }
+
 ### C ###
 
 # Crab Champions
@@ -543,7 +546,8 @@
 { "name": "MainThrd", "type": "Game" }
 
 #https://store.epicgames.com/en-US/p/dead-island-2
-{ "name": "deadlock.exe", "type": "Game" }
+{ "name": "DeadIsland-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeadIsland.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2599300/Dead_Signal/
 { "name": "DeadSignal.exe", "type": "Game" }
@@ -712,6 +716,10 @@
 # https://store.steampowered.com/app/753650/Due_Process/
 { "name": "DueProcess.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/deliver-us-mars
+{ "name": "DeliverUsMars-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeliverUsMars.exe", "type": "Game" }
+
 ### E ###
 
 # Enshrouded
@@ -862,6 +870,9 @@
 { "name": "FragPunk.exe", "type": "Game" }
 { "name": "FragNeacClient.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/fall-guys
+{ "name": "FallGuys_client_game.exe", "type": "Game" }
+
 ### G ###
 
 # https://store.steampowered.com/app/1224600/G_String/
@@ -952,7 +963,11 @@
 { "name": "GH.exe", "type": "Game" }
 
 # https://store.epicgames.com/en-US/p/ghostrunner
-{ "name": "GH.exe", "type": "Game" }
+{ "name": "Ghostrunner.exe", "type": "Game" }
+{ "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/ghostwire-tokyo
+{ "name": "GWT.exe", "type": "Game" }
 
 
 ### H ###
@@ -1099,6 +1114,12 @@
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "InsurgencyEAC.exe", "type": "Game" }
 
+<<<<<<< HEAD
+=======
+# https://store.steampowered.com/app/1192900/IRON_REBELLION/
+{ "name": "Iron Rebellion.exe", "type": "Game" }
+
+>>>>>>> c082e33507f634625484d48bc40ee1a26f0b69fb
 # https://store.steampowered.com/app/1012790/Into_the_Radius_VR/
 { "name": "IntoTheRadius-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntoTheRadius.exe", "type": "Game" }
@@ -1389,6 +1410,9 @@
 # https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
 { "name": "Spider-Man.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy
+{ "name": "gotg.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1063730/New_World_Aeternum/
@@ -1440,6 +1464,10 @@
 # https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
 { "name": "NeedForSpeedHeat.exe", "type": "Game" }
 { "name": "EADesktop.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd
+{ "name": "detnoir.exe", "type": "Game" }
+{ "name": "detnoir-Win64-Shipping.exe", "type": "Game" }
 
 ### O ###
 
@@ -1586,6 +1614,9 @@
 
 # https://store.steampowered.com/app/1241100/POLYGON/
 { "name": "POLYGON-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/payday-2-c66369
+{ "name": "payday2_win32_release.exe", "type": "Game" }
 
 ### Q ###
 
@@ -1738,6 +1769,14 @@
 
 # https://store.steampowered.com/app/872200/Rogue_Company/
 { "name": "RogueCompany.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/redacted-d9d21e
+{ "name": "Redacted.exe", "type": "Game" }
+{ "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/redout-2
+{ "name": "redout2.exe", "type": "Game" }
+{ "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
 
 ### S ###
 
@@ -1979,6 +2018,9 @@
 { "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Hellblade2.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/sable
+{ "name": "Seble.exe", "type": "Game" }
+
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
@@ -2116,6 +2158,9 @@
 # https://store.steampowered.com/app/450390/The_Lab/
 { "name": "TheLab.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
+{ "name": "isaac-ng.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/
 { "name": "ManOfMedan.exe", "type": "Game" }
 
@@ -2133,6 +2178,15 @@
 
 # The Chronicles of Riddick: Escape from Butcher Bay (2004)
 { "name": "SbzEngine.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344
+{ "name": "Moria-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Moria.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/the-callisto-protocol
+{ "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TheCallistoProtocol.exe", "type": "Game" }
+{ "name": "TheCallistoProt", "type": "Game" }
 
 ### T ###
 
@@ -2266,6 +2320,9 @@
 
 # Tabletop_Simulator (proton) https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands
+{ "name": "Wonderlands.exe", "type": "Game" }
 
 ### U ###
 
@@ -2444,6 +2501,10 @@
 { "name": "Project_Plague.exe", "type": "Game" }
 { "name": "Project_Plague-Deck-Shipping.exe", "type": "Game" }
 { "name": "Project_Plague-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/wildcat-gun-machine-c66c4e
+{ "name": "Wildcat Gun Machine.exe", "type": "Game" }
+
 
 ### X ###
 ### Y ###
