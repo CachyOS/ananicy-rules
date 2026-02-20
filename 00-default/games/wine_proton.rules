@@ -343,15 +343,14 @@
 # https://store.steampowered.com/app/2226280/BAPBAP/
 { "name": "bapbap.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/beyond-blue
+{ "name": "Beyond Blue.exe", "type": "Game" }
+
 ### C ###
 
 # Crab Champions
 # https://store.steampowered.com/app/774801
 { "name": "CrabChampions.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1544020/The_Callisto_Protocol/
-{ "name": "TheCallistoProtocol.exe", "type": "Game" }
-{ "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
 
 # Call of Duty Black Ops III
 # https://store.steampowered.com/app/311210
@@ -451,12 +450,6 @@
 # https://store.steampowered.com/app/39670/Chaser/
 { "name": "Chaser.exe", "type": "Game" }
 
-# The Chronicles of Riddick: Assault on Dark Athena
-{ "name": "DarkAthena.exe", "type": "Game" }
-
-# The Chronicles of Riddick: Escape from Butcher Bay (2004)
-{ "name": "SbzEngine.exe", "type": "Game" }
-
 # Cities: Skylines - https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.exe", "type": "Game" }
 
@@ -546,6 +539,11 @@
 
 # https://store.steampowered.com/app/1422450/Deadlock
 { "name": "deadlock.exe", "type": "Game" }
+{ "name": "MainThrd", "type": "Game" }
+
+#https://store.epicgames.com/en-US/p/dead-island-2
+{ "name": "DeadIsland-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeadIsland.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2599300/Dead_Signal/
 { "name": "DeadSignal.exe", "type": "Game" }
@@ -714,6 +712,10 @@
 # https://store.steampowered.com/app/753650/Due_Process/
 { "name": "DueProcess.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/deliver-us-mars
+{ "name": "DeliverUsMars-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeliverUsMars.exe", "type": "Game" }
+
 ### E ###
 
 # Enshrouded
@@ -857,15 +859,15 @@
 # https://store.steampowered.com/app/1293830/Forza_Horizon_4/
 { "name": "ForzaHorizon4.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
-{ "name": "HorizonForbiddenWest.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/304390/FOR_HONOR/
 { "name": "forhonor.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2943650/FragPunk/
 { "name": "FragPunk.exe", "type": "Game" }
 { "name": "FragNeacClient.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/fall-guys
+{ "name": "FallGuys_client_game.exe", "type": "Game" }
 
 ### G ###
 
@@ -888,14 +890,6 @@
 
 # https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/
 { "name": "GhostOfTsushima.exe", "type": "Game" }
-
-# Tom Clancy's Ghost Recon Advanced Warfighter
-{ "name": "GRAW.exe", "type": "Game" }
-{ "name": "GRAW-standalone.exe", "type": "Game" }
-
-# Tom Clancy's Ghost Recon Advanced Warfighter 2
-{ "name": "graw2.exe", "type": "Game" }
-{ "name": "graw2_dedicated.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1150760/Gloomwood/
 { "name": "Gloomwood.exe", "type": "Game" }
@@ -964,6 +958,14 @@
 # https://store.steampowered.com/app/815370/Green_Hell/
 { "name": "GH.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/ghostrunner
+{ "name": "Ghostrunner.exe", "type": "Game" }
+{ "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/ghostwire-tokyo
+{ "name": "GWT.exe", "type": "Game" }
+
+
 ### H ###
 
 # https://store.steampowered.com/app/1145360/Hades/
@@ -1003,10 +1005,6 @@
 # https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/
 { "name": "HellbladeGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "HellbladeGame.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
-{ "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Hellblade2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/553850/HELLDIVERS_2/
 { "name": "helldivers2.exe", "type": "Game" }
@@ -1078,6 +1076,9 @@
 # Horizon Zero Dawn
 # https://store.steampowered.com/app/1151640
 { "name": "HorizonZeroDawn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
+{ "name": "HorizonForbiddenWest.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
 { "name": "h3vr.exe", "type": "Game" }
@@ -1396,6 +1397,12 @@
 # https://store.steampowered.com/app/1625450/Muck/
 { "name": "Muck.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
+{ "name": "Spider-Man.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy
+{ "name": "gotg.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1063730/New_World_Aeternum/
@@ -1447,6 +1454,10 @@
 # https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
 { "name": "NeedForSpeedHeat.exe", "type": "Game" }
 { "name": "EADesktop.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd
+{ "name": "detnoir.exe", "type": "Game" }
+{ "name": "detnoir-Win64-Shipping.exe", "type": "Game" }
 
 ### O ###
 
@@ -1593,6 +1604,9 @@
 
 # https://store.steampowered.com/app/1241100/POLYGON/
 { "name": "POLYGON-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/payday-2-c66369
+{ "name": "payday2_win32_release.exe", "type": "Game" }
 
 ### Q ###
 
@@ -1746,6 +1760,14 @@
 # https://store.steampowered.com/app/872200/Rogue_Company/
 { "name": "RogueCompany.exe", "type": "Game" }
 
+# https://store.epicgames.com/en-US/p/redacted-d9d21e
+{ "name": "Redacted.exe", "type": "Game" }
+{ "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/redout-2
+{ "name": "redout2.exe", "type": "Game" }
+{ "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
+
 ### S ###
 
 # Shadow of the Tomb Raider
@@ -1855,9 +1877,6 @@
 
 # https://store.steampowered.com/app/39540/SpellForce__Platinum_Edition/
 { "name": "SpellForce.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
-{ "name": "Spider-Man.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/677620/Splitgate/
 { "name": "PortalWars-Win64-Shipping.exe", "type": "Game" }
@@ -1984,6 +2003,13 @@
 
 # https://store.steampowered.com/app/1227690/Severed_Steel/
 { "name": "SeveredSteel.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
+{ "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Hellblade2.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/sable
+{ "name": "Seble.exe", "type": "Game" }
 
 
 ### The ###
@@ -2122,6 +2148,33 @@
 # https://store.steampowered.com/app/450390/The_Lab/
 { "name": "TheLab.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/
+{ "name": "ManOfMedan.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/
+{ "name": "HouseOfAshes.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/
+{ "name": "LittleHope.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
+{ "name": "TheDevilInMe.exe", "type": "Game" }
+
+# The Chronicles of Riddick: Assault on Dark Athena
+{ "name": "DarkAthena.exe", "type": "Game" }
+
+# The Chronicles of Riddick: Escape from Butcher Bay (2004)
+{ "name": "SbzEngine.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344
+{ "name": "Moria-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Moria.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/the-callisto-protocol
+{ "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TheCallistoProtocol.exe", "type": "Game" }
+{ "name": "TheCallistoProt", "type": "Game" }
+
 ### T ###
 
 # https://store.steampowered.com/app/1466060/Tainted_Grail_The_Fall_of_Avalon/
@@ -2153,6 +2206,14 @@
 
 # https://store.steampowered.com/app/365590/Tom_Clancys_The_Division/
 { "name": "thedivision.exe", "type": "Game" }
+
+# Tom Clancy's Ghost Recon Advanced Warfighter
+{ "name": "GRAW.exe", "type": "Game" }
+{ "name": "GRAW-standalone.exe", "type": "Game" }
+
+# Tom Clancy's Ghost Recon Advanced Warfighter 2
+{ "name": "graw2.exe", "type": "Game" }
+{ "name": "graw2_dedicated.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/
 { "name": "TheDivision2.exe", "type": "Game" }
@@ -2240,20 +2301,11 @@
 # https://store.steampowered.com/app/1343240/Thymesia/
 { "name": "PlagueProject.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/
-{ "name": "ManOfMedan.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/
-{ "name": "HouseOfAshes.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1194630/The_Dark_Pictures_Anthology_Little_Hope/
-{ "name": "LittleHope.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
-{ "name": "TheDevilInMe.exe", "type": "Game" }
-
 # Tabletop_Simulator (proton) https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands
+{ "name": "Wonderlands.exe", "type": "Game" }
 
 ### U ###
 
@@ -2432,6 +2484,10 @@
 { "name": "Project_Plague.exe", "type": "Game" }
 { "name": "Project_Plague-Deck-Shipping.exe", "type": "Game" }
 { "name": "Project_Plague-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/wildcat-gun-machine-c66c4e
+{ "name": "Wildcat Gun Machine.exe", "type": "Game" }
+
 
 ### X ###
 ### Y ###
