@@ -2155,6 +2155,10 @@
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheOuterWorlds.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1449110/The_Outer_Worlds_2/
+{ "name": "TheOuterWorlds2.exe", "type": "Game" }
+{ "name": "TheOuterWorlds2-Win64-Shipping.exe", "type": "Game" }
+
 # The Outlast Trials https://store.steampowered.com/app/1304930
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "TOTClient.exe", "type": "Game" }
