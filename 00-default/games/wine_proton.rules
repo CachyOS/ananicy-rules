@@ -21,6 +21,15 @@
 # https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/
 { "name": "APlagueTaleRequiem_x64.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/108710/Alan_Wake/
+{ "name": "AlanWake.exe", "type": "Game" }
+
+# https://store.epicgames.com/en-US/p/alan-wake-2
+{ "name": "AlanWake2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/
+{ "name": "alan_wakes_american_nightmare.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2407270/AI_LIMIT/
 { "name": "AI-LIMIT.exe", "type": "Game" }
 
@@ -124,6 +133,12 @@
 { "name": "ACValhalla_Plus.exe", "type": "Game" }
 { "name": "ACValhalla.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/
+{ "name": "ACShadows.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3035570/Assassins_Creed_Mirage/
+{ "name": "ACMirage.exe", "type": "Game" }
+
 # Assetto Corsa, https://store.steampowered.com/app/244210/Assetto_Corsa/
 { "name": "acs.exe", "type": "Game" }
 { "name": "AssettoCorsa.exe", "type": "Game" }
@@ -145,6 +160,9 @@
 # Automobilista 2 https://store.steampowered.com/app/1066890/Automobilista_2/
 { "name": "AMS2.exe", "type": "Game" }
 { "name": "AMS2AVX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2840770/Avatar_Frontiers_of_Pandora/
+{ "name": "afop.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/
 { "name": "Ace7Game.exe", "type": "Game" }
@@ -452,6 +470,9 @@
 
 # Cities: Skylines - https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/949230/Cities_Skylines_II/
+{ "name": "Cities2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/
 { "name": "Condemned.exe", "type": "Game" }
@@ -925,6 +946,9 @@
 # https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
 { "name": "GTAIV.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
+{ "name": "PlayGTAV.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/12120/Grand_Theft_Auto_San_Andreas/
 { "name": "gta-sa.exe", "type": "Game" }
 
@@ -1069,6 +1093,13 @@
 # https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
 { "name": "Hollow Knight S", "type": "Game" }
 
+# https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/
+{ "name": "Homeworld.exe", "type": "Game" }
+{ "name": "HomeworldRM.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1840080/Homeworld_3/
+{ "name": "Homeworld3.exe", "type": "Game" }
+
 # Honkai: Star Rail
 # https://hsr.hoyoverse.com/
 { "name": "StarRail.exe", "type": "Game" }
@@ -1182,6 +1213,9 @@
 
 # https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/
 { "name": "SRX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2842040/Star_Wars_Outlaws/
+{ "name": "Outlaws.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/32440/LEGO_Star_Wars__The_Complete_Saga/
 { "name": "LEGOStarWarsSaga.exe", "type": "Game" }
@@ -1345,6 +1379,10 @@
 # https://store.steampowered.com/app/356190/Middleearth_Shadow_of_War/
 { "name": "ShadowOfWar.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3265250/MindsEye/
+{ "name": "MindsEye.exe", "type": "Game" }
+{ "name": "MindsEye-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/940910/Minoria/
 { "name": "Minoria.exe", "type": "Game" }
 
@@ -1399,6 +1437,9 @@
 
 # https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
 { "name": "Spider-Man.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/
+{ "name": "Spider-Man2.exe", "type": "Game" }
 
 # https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy
 { "name": "gotg.exe", "type": "Game" }
@@ -1740,6 +1781,10 @@
 # https://store.steampowered.com/app/1557740/ROUNDS/
 { "name": "ROUNDS.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/606160/ROUTINE/
+{ "name": "Routine-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Routine.exe", "type": "Game" }
+
 # Ruined King: A League of Legends Story
 # https://store.steampowered.com/app/1276790
 { "name": "RuinedKing.exe", "type": "Game" }
@@ -2015,6 +2060,10 @@
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
+# https://store.steampowered.com/app/1601570/The_Alters/
+{ "name": "TheAlters.exe", "type": "Game" }
+{ "name": "TheAlters-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac-ng.exe", "type": "Game" }
 
@@ -2133,6 +2182,10 @@
 # The Outer Worlds https://store.steampowered.com/app/578650
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheOuterWorlds.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1449110/The_Outer_Worlds_2/
+{ "name": "TheOuterWorlds2.exe", "type": "Game" }
+{ "name": "TheOuterWorlds2-Win64-Shipping.exe", "type": "Game" }
 
 # The Outlast Trials https://store.steampowered.com/app/1304930
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
@@ -2400,6 +2453,9 @@
 
 # https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
 { "name": "Warhammer 40000 Space Marine 2 - Retail.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
+{ "name": "WH40KRT.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/
 { "name": "vermintide2_dx12.exe", "type": "Game" }
