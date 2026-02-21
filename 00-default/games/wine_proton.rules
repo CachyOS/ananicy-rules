@@ -2049,6 +2049,10 @@
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
+# https://store.steampowered.com/app/1601570/The_Alters/
+{ "name": "TheAlters.exe", "type": "Game" }
+{ "name": "TheAlters-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac-ng.exe", "type": "Game" }
 
