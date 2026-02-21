@@ -1,2 +1,2 @@
 # JAVA: https://www.java.com/en/
-{ "name": "java", "type": "BG_CPUIO" }
+{ "name": "java", "type": "BG_CPUIO", "sched": "normal" }
