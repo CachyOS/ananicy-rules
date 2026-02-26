@@ -1,0 +1,4 @@
+# Rust: https://rust-lang.org/
+{ "name": "cargo", "type": "Compiler" }
+{ "name": "rustc", "type": "Compiler" }
+{ "name": "rust-analyzer", "type": "Compiler" }

@@ -25,6 +25,10 @@
 # It must work fast enough but must not create so much noise
 { "type": "Heavy_CPU", "nice": 9, "ioclass": "best-effort", "ionice": 7, "latency_nice": 9 }
 
+# Type: Compiler
+# Must use ample resources but should not disturb other processes
+{ "type": "Compiler", "nice": 1, "ioclass": "best-effort"}
+
 # Type: Chat
 { "type": "Chat", "nice": -3, "ioclass": "best-effort", "ionice": 7 , "latency_nice": -3 }
 
