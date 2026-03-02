@@ -178,6 +178,9 @@
 # https://store.steampowered.com/app/2840770/Avatar_Frontiers_of_Pandora/
 { "name": "afop.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1898300/ASKA/
+{ "name": "Aska.exe", "type": "Game" }
+
 ### B ###
 
 # https://store.steampowered.com/app/2379780/Balatro/
@@ -363,6 +366,9 @@
 # https://store.steampowered.com/app/2428980/Bye_Sweet_Carole/
 { "name": "Bye Sweet Carole.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/637090/BATTLETECH/
+{ "name": "BattleTech.exe", "type": "Game" }
+
 ### C ###
 
 # https://store.steampowered.com/app/399810/Call_of_Cthulhu/
@@ -414,6 +420,9 @@
 # https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/
 { "name": "CoDWaW.exe", "type": "Game" }
 { "name": "CoDWaWmp.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/292730/Call_of_Duty_Infinite_Warfare/
+{ "name": "iw7_ship.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/
 { "name": "CoJGunslinger.exe", "type": "Game" }
@@ -777,6 +786,10 @@
 # https://store.steampowered.com/app/804000/Expendable/
 { "name": "Expendable.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/359320/Elite_Dangerous/
+{ "name": "EliteDangerous32.exe", "type": "Game" }
+{ "name": "EliteDangerous64.exe", "type": "Game" }
+
 ### F ###
 
 # https://store.steampowered.com/app/288470/Fable_Anniversary
@@ -1135,6 +1148,9 @@
 # Horizon Zero Dawn https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
 { "name": "HorizonZeroDawn.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2561580/Horizon_Zero_Dawn_Remastered/
+{ "name": "HorizonZeroDawnRemastered.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/
 { "name": "h3vr.exe", "type": "Game" }
 
@@ -1144,6 +1160,9 @@
 # https://store.steampowered.com/app/594650/Hunt_Showdown_1896/
 { "name": "hunt.exe", "type": "Game" }
 { "name": "HuntGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/613100/House_Flipper/
+{ "name": "HouseFlipper.exe", "type": "Game" }
 
 ### I ###
 
@@ -1191,6 +1210,9 @@
 
 # https://store.steampowered.com/app/517630/Just_Cause_4_Reloaded/
 { "name": "JustCause4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1244460/Jurassic_World_Evolution_2/
+{ "name": "JWE2.exe", "type": "Game" }
 
 ### K ###
 
@@ -1325,6 +1347,12 @@
 # https://store.steampowered.com/app/2072450/Like_a_Dragon_Infinite_Wealth/
 { "name": "likeadragon8.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3061810/Like_a_Dragon_Pirate_Yakuza_in_Hawaii/
+{ "name": "likeadragonpirates.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/
+ "name": "likeadragonpirates.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/
 { "name": "LOTF2-Win64-Shipping.exe", "type": "Game" }
 { "name": "LOTF2.exe", "type": "Game" }
@@ -1446,12 +1474,23 @@
 # https://store.steampowered.com/app/582010/Monster_Hunter_World/
 { "name": "MonsterHunterWorld.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2356560/Monster_Hunter_Stories/
+{ "name": "MHST.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
 { "name": "MK12.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1110910/Mortal_Shell/
 { "name": "Dungeonhaven-Win64-Shipping.exe", "type": "Game" }
 { "name": "Dungeonhaven.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/976310/Mortal_Kombat_11/
+{ "name": "MK11.exe", "type": "Game" }
+{ "name": "MK11_DX12.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/307780/Mortal_Kombat_X/
+{ "name": "MK10.exe", "type": "Game" }
+{ "name": "MKXLauncher.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1625450/Muck/
 { "name": "Muck.exe", "type": "Game" }
@@ -1464,6 +1503,10 @@
 
 # https://store.steampowered.com/app/516750/My_Summer_Car/
 { "name": "mysummercar.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1084600/My_Time_at_Sandrock/
+{ "name": "SandrockMultiPlayer.exe", "type": "Game" }
+{ "name": "Sandrock.exe", "type": "Game" }
 
 ### N ###
 
@@ -1520,6 +1563,13 @@
 
 # https://store.steampowered.com/app/283290/Nosferatu_The_Wrath_of_Malachi/
 { "name": "Nosferatu.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3054690/NORSE_Oath_of_Blood/
+{ "name": "NorseSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Norse.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2420660/Neva/
+{ "name": "Neva.exe", "type": "Game" }
 
 ### O ###
 
@@ -1831,6 +1881,12 @@
 # https://store.steampowered.com/app/302510/Ryse_Son_of_Rome/
 { "name": "Ryse.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1649240/Returnal/
+{ "name": "Returnal.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1096900/RPG_Maker_MZ/
+{ "name": "RPGMZ.exe", "type": "Game" }
+
 ### S ###
 
 # https://store.epicgames.com/en-US/p/sable
@@ -2084,6 +2140,10 @@
 # System Shock 2 https://store.steampowered.com/app/238210/System_Shock_2_1999/
 { "name": "SS2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
+{ "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
+{ "name": "SMT5V.exe", "type": "Game" }
+
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
@@ -2260,6 +2320,16 @@
 # https://store.steampowered.com/app/1684350/The_Thaumaturge/
 { "name": "TheThaumaturge.exe", "type": "Game" }
 { "name": "TheThaumaturge-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1284190/The_Planet_Crafter/
+{ "name": "Planet Crafter.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1559600/The_Ranch_of_Rivershine/
+{ "name": "Norse.exe", "type": "Game" }
+{ "name": "NorseSteam-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1449690/The_Walking_Dead_The_Telltale_Definitive_Series/
+{ "name": "TheRanchOfRivershine.exe", "type": "Game" }
 
 ### T ###
 
@@ -2577,6 +2647,12 @@
 { "name": "KRSDKExternal.exe", "type": "Game" }
 { "name": "Client-Win64-Shipping.exe", "type": "Game" }
 { "name": "Wuthering Waves.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/501300/What_Remains_of_Edith_Finch/
+{ "name": "FinchGame.exe", "type": "Game" }
+
+#  https://store.steampowered.com/app/1299460/Wanderstop/
+{ "name": "clearing-Win64-Shipping.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
