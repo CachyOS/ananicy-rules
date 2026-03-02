@@ -527,6 +527,9 @@
 { "name": "Cyberpunk2077.exe", "type": "Game" }
 { "name": "Redprelauncher", "type": "BG_CPUIO" }
 
+# https://store.steampowered.com/app/1588550/Cairn/
+{ "name": "Cairn.exe", "type": "Game" }
+
 ### D ###
 
 # https://store.steampowered.com/app/236430/DARK_SOULS_II/
@@ -1480,10 +1483,6 @@
 # https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
 { "name": "MK12.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1110910/Mortal_Shell/
-{ "name": "Dungeonhaven-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Dungeonhaven.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/976310/Mortal_Kombat_11/
 { "name": "MK11.exe", "type": "Game" }
 { "name": "MK11_DX12.exe", "type": "Game" }
@@ -1491,6 +1490,10 @@
 # https://store.steampowered.com/app/307780/Mortal_Kombat_X/
 { "name": "MK10.exe", "type": "Game" }
 { "name": "MKXLauncher.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1110910/Mortal_Shell/
+{ "name": "Dungeonhaven-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Dungeonhaven.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1625450/Muck/
 { "name": "Muck.exe", "type": "Game" }
