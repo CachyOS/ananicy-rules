@@ -1266,9 +1266,6 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
-# Half Life 2 (Proton) https://store.steampowered.com/app/220/HalfLife_2/
-{ "name": "hl2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2397300/Half_Sword/
 { "name": "HalfSwordUE5.exe", "type": "Game" }
 { "name": "HalfSwordUE5-Win64-Shipping.exe", "type": "Game" }
@@ -1650,7 +1647,6 @@
 { "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
 { "name": "MarvelRivals_Launcher.exe", "type": "BG_CPUIO" }
 { "name": "CapturePro.exe", "type": "BG_CPUIO" }
-{ "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
 { "name": "client_diagnose.exe", "type": "BG_CPUIO" }
 { "name": "upload_profile.exe", "type": "BG_CPUIO" }
 
@@ -2087,8 +2083,8 @@
 ### R ###
 
 # https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
-{ "name": "RRREWebBrowser.exe", "type": "Game" }
 { "name": "RRRE64.exe", "type": "Game" }
+{ "name": "RRREWebBrowser.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/9200/RAGE/
 { "name": "rage.exe", "type": "Game" }
@@ -2386,9 +2382,6 @@
 # https://store.steampowered.com/app/3221770/Sin_Spire/
 { "name": "SinSpire.exe", "type": "Game" }
 
-# Smite https://www.smitegame.com/
-{ "name": "CoherentUI_Host.exe", "type": "Game" }
-
 # Sniper Elite 5 https://store.steampowered.com/app/1029690/Sniper_Elite_5/
 { "name": "sniper5_dx12.exe", "type": "Game" }
 { "name": "sniper5_vulkan.exe", "type": "Game" }
@@ -2466,9 +2459,6 @@
 
 # https://store.steampowered.com/app/1716740/Starfield/
 { "name": "Starfield.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/9900/Star_Trek_Online/
-{ "name": "GameClient.exe", "type": "Game" }
 
 # Star Wars: Battlefront II - https://store.epicgames.com/de/p/star-wars-battlefront-2
 { "name": "starwarsbattlefrontii.exe", "type": "Game" }
@@ -2664,13 +2654,6 @@
 
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
-{ "name": "start_protected_game.exe", "type": "Game" }
-{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
-{ "name": "UEPrereqSetup_x64.exe", "type": "Game" }
-{ "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
-{ "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
-{ "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
-{ "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/
 { "name": "KZ.exe", "type": "Game" }
@@ -2869,7 +2852,6 @@
 # https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
 # this is from open beta test, beware
 { "name": "TL.exe", "type": "Game" }
-{ "name": "UnrealCEFSubProcess.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1343240/Thymesia/
 { "name": "PlagueProject.exe", "type": "Game" }
