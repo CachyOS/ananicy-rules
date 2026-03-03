@@ -2877,8 +2877,20 @@
 # https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands
 { "name": "Wonderlands.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1454890/Titanfall/
+{ "name": "Titanfall.exe", "type": "Game" }
+{ "name": "Titanfall_alt.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1237970/Titanfall_2/
 { "name": "Titanfall2.exe", "type": "Game" }
+{ "name": "Titanfall2_trial.exe", "type": "Game" }
+{ "name": "NorthstarLauncher.exe", "type": "Game" }
+
+# Titanfall Online
+{ "name": "TFO.exe", "type": "Game" }
+{ "name": "tfods.exe", "type": "Game" }
+{ "name": "TitanFallOnline.exe", "type": "Game" }
+{ "name": "r1_x64.exe", "type": "Game" }
 
 # Tokyo Xtreme Racer https://store.steampowered.com/app/2634950/Tokyo_Xtreme_Racer/
 { "name": "TokyoXtremeRacer-Win64-Shipping.exe", "type": "Game" }
