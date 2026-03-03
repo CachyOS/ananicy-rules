@@ -1,5 +1,6 @@
 # Konsole
 { "name": "konsole", "type": "Doc-View" }
+{ "name": "yakuake", "type": "Doc-View" }
 
 # simple terminal (https://st.suckless.org/)
 { "name": "st", "type": "Doc-View" }
