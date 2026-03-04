@@ -1,0 +1,7 @@
+# Video Player: https://github.com/jellyfin/jellyfin-desktop
+# uses libmpv inside of the main process to play videos,
+# spawns QtWebEngineProcess background processes for web UI drawing
+{ "name": "jellyfin-desktop", "type": "Player-Video" }
+
+# Alternate jellyfin-desktop build: https://aur.archlinux.org/packages/jellyfin-desktop-cef-git
+{ "name": "jellyfin-desktop-cef", "type": "Player-Video" }

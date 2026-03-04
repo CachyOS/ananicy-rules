@@ -1423,9 +1423,6 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
-# Half Life 2 (Proton) https://store.steampowered.com/app/220/HalfLife_2/
-{ "name": "hl2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2397300/Half_Sword/
 { "name": "HalfSwordUE5.exe", "type": "Game" }
 { "name": "HalfSwordUE5-Win64-Shipping.exe", "type": "Game" }
@@ -1505,7 +1502,6 @@
 { "name": "HitmanContracts.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
-{ "name": "Launcher.exe", "type": "BG_CPUIO" }
 { "name": "HITMAN3.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/632300/Hobo_Tough_Life/
@@ -1849,7 +1845,6 @@
 { "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
 { "name": "MarvelRivals_Launcher.exe", "type": "BG_CPUIO" }
 { "name": "CapturePro.exe", "type": "BG_CPUIO" }
-{ "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
 { "name": "client_diagnose.exe", "type": "BG_CPUIO" }
 { "name": "upload_profile.exe", "type": "BG_CPUIO" }
 
@@ -2374,8 +2369,8 @@
 ### R ###
 
 # https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
-{ "name": "RRREWebBrowser.exe", "type": "Game" }
 { "name": "RRRE64.exe", "type": "Game" }
+{ "name": "RRREWebBrowser.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/9200/RAGE/
 { "name": "rage.exe", "type": "Game" }
@@ -2699,9 +2694,6 @@
 
 # https://store.steampowered.com/app/3221770/Sin_Spire/
 { "name": "SinSpire.exe", "type": "Game" }
-
-# Smite https://www.smitegame.com/
-{ "name": "CoherentUI_Host.exe", "type": "Game" }
 
 # Sniper Elite 5 https://store.steampowered.com/app/1029690/Sniper_Elite_5/
 { "name": "sniper5_dx12.exe", "type": "Game" }
@@ -3051,13 +3043,6 @@
 
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
-{ "name": "start_protected_game.exe", "type": "Game" }
-{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
-{ "name": "UEPrereqSetup_x64.exe", "type": "Game" }
-{ "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
-{ "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
-{ "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
-{ "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/
 { "name": "KZ.exe", "type": "Game" }
@@ -3101,7 +3086,6 @@
 { "name": "tlou-i.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/
-{ "name": "launcher.exe", "type": "BG_CPUIO" }
 { "name": "tlou-ii.exe", "type": "Game" }
 { "name": "tlou-ii-l.exe", "type": "Game" }
 
@@ -3277,7 +3261,6 @@
 # https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
 # this is from open beta test, beware
 { "name": "TL.exe", "type": "Game" }
-{ "name": "UnrealCEFSubProcess.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1343240/Thymesia/
 { "name": "PlagueProject.exe", "type": "Game" }
@@ -3285,8 +3268,20 @@
 # https://store.steampowered.com/app/1286680/Tiny_Tinas_Wonderlands/
 { "name": "Wonderlands.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1454890/Titanfall/
+{ "name": "Titanfall.exe", "type": "Game" }
+{ "name": "Titanfall_alt.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1237970/Titanfall_2/
 { "name": "Titanfall2.exe", "type": "Game" }
+{ "name": "Titanfall2_trial.exe", "type": "Game" }
+{ "name": "NorthstarLauncher.exe", "type": "Game" }
+
+# Titanfall Online
+{ "name": "TFO.exe", "type": "Game" }
+{ "name": "tfods.exe", "type": "Game" }
+{ "name": "TitanFallOnline.exe", "type": "Game" }
+{ "name": "r1_x64.exe", "type": "Game" }
 
 # Tokyo Xtreme Racer https://store.steampowered.com/app/2634950/Tokyo_Xtreme_Racer/
 { "name": "TokyoXtremeRacer-Win64-Shipping.exe", "type": "Game" }
