@@ -219,7 +219,7 @@
 { "name": "AtomicHeart-Win64-Shipping.exe", "type": "Game" }
 { "name": "AtomicHeart.exe", "type": "Game" }
 
-# A Total War Saga: Troy - https://store.epicgames.com/de/p/a-total-war-saga-troy
+# https://store.steampowered.com/app/1099410/A_Total_War_Saga_TROY/
 { "name": "Troy.exe", "type": "Game" }
 
 # Automobilista 2 https://store.steampowered.com/app/1066890/Automobilista_2/
@@ -365,7 +365,7 @@
 # Beat Saber https://store.steampowered.com/app/620980/Beat_Saber/
 { "name": "Beat Saber.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/beyond-blue
+# https://store.steampowered.com/app/883360/Beyond_Blue/
 { "name": "Beyond Blue.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3371240/Beyond_Citadel/
@@ -777,7 +777,7 @@
 { "name": "DeadByDaylight.exe", "type": "Game" }
 { "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
 
-#https://store.epicgames.com/en-US/p/dead-island-2
+# https://store.steampowered.com/app/934700/Dead_Island_2/
 { "name": "DeadIsland-Win64-Shipping.exe", "type": "Game" }
 { "name": "DeadIsland.exe", "type": "Game" }
 
@@ -813,7 +813,7 @@
 { "name": "FSD.exe", "type": "Game" }
 { "name": "FSD-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/deliver-us-mars
+# https://store.steampowered.com/app/1345890/Deliver_Us_Mars/
 { "name": "DeliverUsMars-Win64-Shipping.exe", "type": "Game" }
 { "name": "DeliverUsMars.exe", "type": "Game" }
 
@@ -1046,7 +1046,7 @@
 # https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
 { "name": "eurotrucks2.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/evil-dead-the-game
+# https://store.steampowered.com/app/1493750/Evil_Dead_The_Game/
 { "name": "EvilDead-Win64-Shipping.exe", "type": "Game" }
 { "name": "EvilDead.exe", "type": "Game" }
 
@@ -1088,8 +1088,9 @@
 # https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters
 { "name": "Fable.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/fall-guys
+# https://store.steampowered.com/app/1097150/Fall_Guys/
 { "name": "FallGuys_client_game.exe", "type": "Game" }
+{ "name": "FallGuys_client.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/38410/Fallout_2_A_Post_Nuclear_Role_Playing_Game/
 { "name": "fallout2.exe", "type": "Game" }
@@ -1284,9 +1285,13 @@
 # https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/
 { "name": "GhostOfTsushima.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/ghostrunner
+# https://store.steampowered.com/app/1139900/Ghostrunner/
 { "name": "Ghostrunner.exe", "type": "Game" }
 { "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2144740/Ghostrunner_2/
+{ "name": "Ghostrunner2.exe", "type": "Game" }
+{ "name": "Ghostrunner2-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.epicgames.com/en-US/p/ghostwire-tokyo
 { "name": "GWT.exe", "type": "Game" }
@@ -2779,7 +2784,7 @@
 # https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
-# Star Wars: Battlefront II - https://store.epicgames.com/de/p/star-wars-battlefront-2
+# https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
 { "name": "starwarsbattlefrontii.exe", "type": "Game" }
 { "name": "starwarsbattlefrontii_trial.exe", "type": "Game" }
 
@@ -2991,7 +2996,7 @@
 # https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac-ng.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/the-callisto-protocol
+# https://store.steampowered.com/app/1544020/The_Callisto_Protocol/
 { "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheCallistoProtocol.exe", "type": "Game" }
 { "name": "TheCallistoProt", "type": "Game" }
@@ -3113,7 +3118,7 @@
 { "name": "LEGONINJAGO.exe", "type": "Game" }
 { "name": "LEGONINJAGO_DX11.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344
+# https://store.steampowered.com/app/2933130/The_Lord_of_the_Rings_Return_to_Moria/
 { "name": "Moria-Win64-Shipping.exe", "type": "Game" }
 { "name": "Moria.exe", "type": "Game" }
 
@@ -3280,7 +3285,7 @@
 # https://store.steampowered.com/app/1343240/Thymesia/
 { "name": "PlagueProject.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands
+# https://store.steampowered.com/app/1286680/Tiny_Tinas_Wonderlands/
 { "name": "Wonderlands.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1237970/Titanfall_2/
@@ -3522,7 +3527,7 @@
 # Wargame: Air Land Battle - https://store.steampowered.com/app/222750/Wargame_Airland_Battle/
 { "name": "WarGame2.exe", "type": "Game" }
 
-# Wargame: Red Dragon - https://store.epicgames.com/de/p/wargame-red-dragon
+# https://store.steampowered.com/app/251060/Wargame_Red_Dragon/
 { "name": "WarGame3.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/
@@ -3559,7 +3564,7 @@
 # Where Winds Meet https://store.steampowered.com/app/3564740/Where_Winds_Meet/
 { "name": "wwm.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/wildcat-gun-machine-c66c4e
+# https://store.steampowered.com/app/1288610/Wildcat_Gun_Machine/
 { "name": "Wildcat Gun Machine.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1911610/Windblown/
