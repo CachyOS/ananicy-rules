@@ -65,8 +65,8 @@
 { "name": "AliensDarkDescentGameSteam-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/
-{ "Endeavor.exe" }
-{ "Endeavor-Win64-Shipping.exe" }
+ { "name": "Endeavor.exe", "type": "Game" }
+ { "name": "Endeavor-Win64-Shipping.exe", "type": "Game" }
 
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks.exe", "type": "Game" }
