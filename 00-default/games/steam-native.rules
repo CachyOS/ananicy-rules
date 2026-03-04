@@ -49,6 +49,9 @@
 # https://store.steampowered.com/app/362890/Black_Mesa/
 { "name": "bms_linux", "type": "Game" }
 
+# https://store.steampowered.com/app/2835570/Buckshot_Roulette/
+{ "name": "Buckshot Roulette.x86_64", "type": "Game" }
+
 # https://store.steampowered.com/app/474210/BUTCHER/
 { "name": "Butcher", "type": "Game" }
 
@@ -181,15 +184,8 @@
 
 ### H ###
 
-# https://store.steampowered.com/app/70/HalfLife/
-{ "name": "hl_linux", "type": "Game" }
-
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
-
-# https://store.steampowered.com/app/220/HalfLife_2/
-# https://store.steampowered.com/app/400/Portal/
-{ "name": "hl2_linux", "type": "Game" }
 
 # https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 { "name": "hoi4", "type": "Game" }
