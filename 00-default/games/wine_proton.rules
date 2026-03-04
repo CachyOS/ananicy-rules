@@ -659,6 +659,12 @@
 { "name": "Clash.exe", "type": "Game" }
 { "name": "Clash-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1705180/Gunner_HEAT_PC/
+{ "name": "GHPC.exe", "type": "type": "Game"}
+
+# https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
+{ "name": "call_to_arms.exe", "type": "Game"}
+
 ### D ###
 
 # https://store.steampowered.com/app/236430/DARK_SOULS_II/
@@ -1412,6 +1418,9 @@
 { "name": "Hunter.exe", "type": "Game" }
 { "name": "Hunter-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1761390/Hatsune_Miku_Project_DIVA_Mega_Mix/
+{ "name": "DivaMegaMix.exe", "type": "Game" }
+
 ### I ###
 
 # https://store.steampowered.com/app/1149460/ICARUS/
@@ -1892,6 +1901,9 @@
 
 # https://store.steampowered.com/app/2320280/Nova_Strike/
 { "name": "Nova Strike.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2168680/Nuclear_Option/
+{ "name": "NuclearOption.exe", "type": "Game"}
 
 ### O ###
 
