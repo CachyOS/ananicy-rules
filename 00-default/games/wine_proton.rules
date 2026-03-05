@@ -2455,6 +2455,24 @@
 # https://store.steampowered.com/app/1721470/Poppy_Playtime/
 { "name": "Poppy_Playtime.exe", "type": "Game" }
 { "name": "Poppy_Playtime-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PlaytimeLauncher.exe", "type": "Game" }
+{ "name": "PlaytimeLauncher-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1817490/Poppy_Playtime__Chapter_2/
+{ "name": "Playtime_Prototype4.exe", "type": "Game" }
+{ "name": "Playtime_Prototype4-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2555190/Poppy_Playtime__Chapter_3/
+{ "name": "Playtime_Chapter3.exe", "type": "Game" }
+{ "name": "Playtime_Chapter3-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3008670/Poppy_Playtime__Chapter_4/
+{ "name": "Playtime_Chapter4.exe", "type": "Game" }
+{ "name": "ch4_pro-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/4100940/Poppy_Playtime__Chapter_5/
+{ "name": "ch5_pro.exe", "type": "Game" }
+{ "name": "ch5_pro-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3198850/Play_Together/
 { "name": "PlayTogether.exe", "type": "Game" }
