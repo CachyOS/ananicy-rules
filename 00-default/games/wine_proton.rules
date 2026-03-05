@@ -1298,6 +1298,10 @@
 # Store page is down
 { "name": "FNaF_World.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/
+{ "name": "fnaf9.exe", "type": "Game" }
+{ "name": "fnaf9-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2215390/Five_Nights_at_Freddys_Secret_of_the_Mimic/
 { "name": "FNAF_SOTM.exe", "type": "Game" }
 { "name": "FNAF_SOTM-Win64-Shipping.exe", "type": "Game" }
@@ -1310,11 +1314,11 @@
 { "name": "HW2.exe", "type": "Game" }
 { "name": "HW2-Win64-Shipping.exe", "type": "Game" }
 
-# Flyout https://store.steampowered.com/app/777390/Flyout/
-{ "name": "Flyout.exe", "type": "Game" }
-
 # FNAF 1 REMAKE (Five Nights at Freddy's REMAKE) https://gamejolt.com/games/imadethisforyou/981759
 { "name": "FNAF 1 REMAKE.exe", "type": "Game" }
+
+# Flyout https://store.steampowered.com/app/777390/Flyout/
+{ "name": "Flyout.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/304390/FOR_HONOR/
 { "name": "forhonor.exe", "type": "Game" }
