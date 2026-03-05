@@ -300,6 +300,58 @@
 # https://store.steampowered.com/app/353980/Ankh__Anniversary_Edition/
 { "name": "Ankh.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3365040/Atelier_Ryza_2_Lost_Legends__the_Secret_Fairy_DX/
+{ "name": "Atelier_Ryza_2_DX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3365030/Atelier_Ryza_Ever_Darkness__the_Secret_Hideout_DX/
+{ "name": "Atelier_Ryza_DX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3259600/Atelier_Resleriana_The_Red_Alchemist__the_White_Guardian/
+{ "name": "AtelierReslerianaRW.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3123410/Atelier_Yumia_The_Alchemist_of_Memories__the_Envisioned_Land/
+{ "name": "Atelier_Yumia.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2138090/Atelier_Marie_Remake_The_Alchemist_of_Salburg/
+{ "name": "Atelier_Marie_Remake.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1621310/Atelier_Sophie_2_The_Alchemist_of_the_Mysterious_Dream/
+{ "name": "Atelier_Sophie_2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1502980/Atelier_Firis_The_Alchemist_and_the_Mysterious_Journey_DX/
+{ "name": "Atelier_Firis_DX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1502990/Atelier_Lydie__Suelle_The_Alchemists_and_the_Mysterious_Paintings_DX/
+{ "name": "Atelier_Lydie_and_Suelle_DX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1502970/Atelier_Sophie_The_Alchemist_of_the_Mysterious_Book_DX/
+{ "name": "Atelier_Sophie_DX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1152320/Atelier_Shallie_Alchemists_of_the_Dusk_Sea_DX/
+{ "name": "Atelier_Shallie.exe", "type": "Game" }
+{ "name": "Atelier_Shallie_EN.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1152310/Atelier_Escha__Logy_Alchemists_of_the_Dusk_Sky_DX/
+{ "name": "Atelier_Escha_and_Logy.exe", "type": "Game" }
+{ "name": "Atelier_Escha_and_Logy_EN.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1152300/Atelier_Ayesha_The_Alchemist_of_Dusk_DX/
+{ "name": "Atelier_Ayesha.exe", "type": "Game" }
+{ "name": "Atelier_Ayesha_EN.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1045620/Atelier_Lulua_The_Scion_of_Arland/
+{ "name": "Atelier_Lulua.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/936190/Atelier_Meruru_The_Apprentice_of_Arland_DX/
+{ "name": "A13V_x64_Release.exe", "type": "Game" }
+{ "name": "A13V_x64_Release_EN.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/601050/Attack_on_Titan_2__AOT2/
+{ "name": "AOT2_AS.exe", "type": "Game" }
+{ "name": "AOT2_EU.exe", "type": "Game" }
+{ "name": "AOT2_JP.exe", "type": "Game" }
+
+
 ### B ###
 
 # https://store.steampowered.com/app/2379780/Balatro/
@@ -350,8 +402,14 @@
 # https://store.steampowered.com/app/1238810/Battlefield_V/
 { "name": "bfv.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2807960/Battlefield_6/
+{ "name": "bf6.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1238880/Battlefield_Hardline/
 { "name": "bfh.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/24960/Battlefield_Bad_Company_2/
+{ "name": "BFBC2Game.exe", "type": "Game" }
 
 # https://www.battlerite.com
 { "name": "Battlerite.exe", "type": "Game" }
@@ -530,6 +588,13 @@
 
 # https://store.steampowered.com/app/373240/Black_Sails__The_Ghost_Ship/
 { "name": "BlackSails.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1604270/Broken_Arrow/
+{ "name": "BrokenArrow.exe", "type": "Game" }
+{ "name": "BrokenArrowOnline.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1423600/BLUE_REFLECTION_Second_Light/
+{ "name": "BLUE REFLECTION Second Light.exe", "type": "Game" }
 
 ### C ###
 
@@ -750,6 +815,10 @@
 
 # https://store.steampowered.com/app/4460/City_Life_2008/
 { "name": "cld.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2567870/Chained_Together/
+{ "name": "ChainedTogether.exe", "type": "Game"}
+{ "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
 
 ### D ###
 
@@ -1009,6 +1078,24 @@
 # https://store.steampowered.com/app/1272840/Dordogne/
 { "name": "Dordogne.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2384580/DYNASTY_WARRIORS_ORIGINS/
+{ "name": "DWORIGINS.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1341200/DYNASTY_WARRIORS_9_Empires/
+{ "name": "DW9Emp.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1072420/DRAGON_QUEST_BUILDERS_2/
+{ "name": "DQB2.exe", "type": "Game" }
+{ "name": "DQB2_AS.exe", "type": "Game" }
+{ "name": "DQB2_EU.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/838380/DEAD_OR_ALIVE_6/
+{ "name": "DOA6.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/968790/DYNASTY_WARRIORS_7_Xtreme_Legends_Definitive_Edition/
+{ "name": "SM6EN.exe", "type": "Game" }
+{ "name": "SM6JP.exe", "type": "Game" }
+
 ### E ###
 
 # https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
@@ -1267,6 +1354,18 @@
 
 # https://store.steampowered.com/app/233190/Final_Exam/
 { "name": "final_exam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3002850/FAIRY_TAIL_2/
+{ "name": "FAIRY_TAIL_2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1233260/FAIRY_TAIL/
+{ "name": "FAIRY_TAIL.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1902690/FateSamurai_Remnant/
+{ "name": "FateSamuraiRemnant.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2130460/FATAL_FRAME__PROJECT_ZERO_Mask_of_the_Lunar_Eclipse/
+{ "name": "FATAL_FRAME_MOL.exe", "type": "Game" }
 
 ### G ###
 
@@ -2058,6 +2157,10 @@
 # https://store.steampowered.com/app/232750/Mars_War_Logs/
 { "name": "MarsWarLogs.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1716120/Monster_Rancher_1__2_DX/
+{ "name": "MF.exe", "type": "Game" }
+{ "name": "MF2.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
@@ -2096,6 +2199,15 @@
 
 # https://store.steampowered.com/app/3681010/Nioh_3/
 { "name": "Nioh3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1369760/NINJA_GAIDEN_3_Razors_Edge_NINJA_GAIDEN_Master_Collection/
+{ "name": "NINJA GAIDEN 3 Razor's Edge.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1580790/NINJA_GAIDEN_S2_NINJA_GAIDEN_Master_Collection/
+{ "name": "NINJA GAIDEN SIGMA2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1580780/NINJA_GAIDEN_S_NINJA_GAIDEN_Master_Collection/
+{ "name": "NINJA GAIDEN SIGMA.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/485510/Nioh_Complete_Edition/
 { "name": "nioh_launcher.exe", "type": "BG_CPUIO" }
@@ -2139,6 +2251,12 @@
 # https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
 { "name": "Necromunda.exe", "type": "Game"}
 { "name": "Necromunda-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1336980/NOBUNAGAS_AMBITION_Awakening/
+{ "name": "NOBU16.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/886820/Nelke__the_Legendary_Alchemists_Ateliers_of_the_New_World/
+{ "name": "Nelke_and_the_Legendary_Alchemists.exe", "type": "Game"}
 
 ### O ###
 
@@ -2586,6 +2704,16 @@
 # https://store.steampowered.com/app/7210/Runaway_A_Road_Adventure/
 { "name": "Runaway.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2288150/ROMANCE_OF_THE_THREE_KINGDOMS_8_REMAKE/
+{ "name": "SAN8R.exe", "type": "Game" }
+{ "name": "San8rWER.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/872410/ROMANCE_OF_THE_THREE_KINGDOMS_XIV/
+{ "name": "SAN14.exe", "type": "Game" }
+{ "name": "SAN14_KO.exe", "type": "Game" }
+{ "name": "SAN14_SC.exe", "type": "Game" }
+{ "name": "SAN14_TC.exe", "type": "Game" }
+
 ### S ###
 
 # https://store.epicgames.com/en-US/p/sable
@@ -2974,6 +3102,12 @@
 
 # https://store.steampowered.com/app/877280/SAO_Utils_2_Progressive/
 { "name": "NERvSteam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2719200/SAMURAI_WARRIORS_4_DX/
+{ "name": "SamuraiWarriors4DX.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1591530/SAMURAI_WARRIORS_5/
+{ "name": "SW5.exe", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
@@ -3407,6 +3541,13 @@
 # https://store.steampowered.com/app/860660/To_Hell_with_Hell/
 { "name": "ToHellWithHell.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/644930/They_Are_Billions/
+{ "name": "TheyAreBillions.exe", "type": "Game" }
+{ "name": "TheyAreBillions_x86.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1191260/Touken_Ranbu_Warriors/
+{ "name": "Touken Ranbu Warriors.exe", "type": "Game" }
+
 ### U ###
 
 # https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
@@ -3687,6 +3828,23 @@
 # https://store.steampowered.com/app/1608470/Warstride_Challenges/
 { "name": "Warstride.exe", "type": "Game" }
 { "name": "Warstride-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3427660/Waifusitter___Furry_Collection/
+{ "name": "Waifusitter.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1876890/Wandering_Sword/
+{ "name": "JH.exe", "type": "Game" }
+{ "name": "JH-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3178350/WARRIORS_Abyss/
+{ "name": "WARRIORSAbyss.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1879330/WARRIORS_OROCHI_3_Ultimate_Definitive_Edition/
+{ "name": "WO3U.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1938010/WILD_HEARTS/
+{ "name": "WILD HEARTS.exe", "type": "Game" }
+{ "name": "WILD HEARTS_Trial.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
