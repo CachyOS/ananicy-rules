@@ -7,3 +7,38 @@
 # https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
 # https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
 { "name": "game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/9900/Star_Trek_Online/
+{ "name": "GameClient.exe", "type": "Game" }
+
+# Crash handlers
+{ "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
+{ "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
+{ "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
+
+# Anti-cheat clients
+{ "name": "start_protected_game.exe", "type": "Game" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
+
+# Web helper processes
+{ "name": "UnrealCEFSubProcess.exe", "type": "Game" }
+{ "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
+{ "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
+{ "name": "ZFGameBrowser.exe", "type": "Game" }
+{ "name": "CoherentUI_Host.exe", "type": "Game" }
+{ "name": "awesomium_process.exe", "type": "Game" }
+
+# Background video player helper processes
+{ "name": "CCVideoPlayer.exe", "type": "Game" }
+{ "name": "MLiveCCPlayerApp.exe", "type": "Game" }
+{ "name": "CCMini.exe", "type": "Game" }
+
+# Redistributables
+{ "name": "UEPrereqSetup_x64.exe", "type": "Game" }
+{ "name": "DXSETUP.exe", "type": "Game" }
+{ "name": "D3D11Install.exe", "type": "Game" }
+{ "name": "vcredist_x64.exe", "type": "Game" }
+{ "name": "vcredist_x86.exe", "type": "Game" }
+{ "name": "VC_redist.x64.exe", "type": "Game" }
+{ "name": "VC_redist.x86.exe", "type": "Game" }
+{ "name": "Touchup.exe", "type": "Game" }

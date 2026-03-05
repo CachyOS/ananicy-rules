@@ -23,6 +23,8 @@
 { "name": "armcord", "type": "Chat" }
 { "name": "vesktop.bin", "type": "Chat" }
 { "name": "vesktop", "type": "Chat" }
+{ "name": "equibop", "type": "Chat" }
+{ "name": "legcord", "type": "Chat" }
 
 # https://hexchat.github.io
 { "name": "hexchat", "type": "Chat" }
@@ -34,6 +36,9 @@
 
 # 64gram: https://64gr.am/
 { "name": "64gram-desktop", "type": "Chat" }
+
+# https://archlinux.org/packages/extra/x86_64/gurk/
+{ "name": "gurk", "type": "Chat" }
 
 # http://vk.com/messenger
 { "name": "caprine", "type": "Chat" }

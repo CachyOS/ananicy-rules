@@ -1,2 +1,2 @@
 # https://github.com/polybar/polybar
-{ "name": "polybar", "type": "LowLatency_RT" }
+{ "name": "polybar", "type": "Service" }

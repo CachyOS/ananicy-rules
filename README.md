@@ -23,9 +23,9 @@ The **first example** is simple. In the **second example**, it is different beca
 ```
 #### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/68a0f5f2d83fefb657ac0db8e0c8848609b319e4/00-default/games/wine_proton.rules#L1144)
 ```
-# The Outer Worlds https://store.steampowered.com/app/578650
-{ "name": "Indiana-Win64-Shipping.exe", "type": "Game"}
-{ "name": "TheOuterWorlds.exe", "type": "Game"}
+# https://store.steampowered.com/app/578650/The_Outer_Worlds/
+{ "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TheOuterWorlds.exe", "type": "Game" }
 ```
 
 #### 3. [Example rules for Portal 2 which is Linux native game](https://github.com/CachyOS/ananicy-rules/blob/68a0f5f2d83fefb657ac0db8e0c8848609b319e4/00-default/games/steam-native.rules#L256)
@@ -33,7 +33,8 @@ The **first example** is simple. In the **second example**, it is different beca
 # https://store.steampowered.com/app/620/Portal_2/
 { "name": "portal2_linux", "type": "Game" }
 ```
-
+### <u>You can also contribute by opening an [issue](https://github.com/CachyOS/ananicy-rules/issues) and providing information about the application </u>
+**Make sure the app is not already in the repository before opening an issue.**
 ## How to find out proper process name?
 Here is a list of tools
 ### CLI

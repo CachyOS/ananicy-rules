@@ -18,6 +18,10 @@
 # Chromium - https://www.chromium.org/
 { "name": "chromium", "type": "Doc-View" }
 
+# Thorium - https://thorium.rocks/
+{ "name": "thorium", "type": "Doc-View" }
+{ "name": "thorium-browser", "type": "Doc-View" }
+
 # Cromite - https://github.com/uazo/cromite
 { "name": "cromite", "type": "Doc-View" }
 
