@@ -11,6 +11,11 @@
 # https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
+# Some KOEI TECMO Franchise's Game's
+{ "name": "Launch.exe", "type": "Game" }
+{ "name": "Launch_EA.exe", "type": "Game" }
+{ "name": "Launch_JP.exe", "type": "Game" }
+
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 { "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
