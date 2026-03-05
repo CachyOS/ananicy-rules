@@ -1275,6 +1275,33 @@
 # https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
 { "name": "FiveNightsatFreddys.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/332800/Five_Nights_at_Freddys_2/
+{ "name": "FiveNightsatFreddys2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/
+{ "name": "FiveNightsatFreddys3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/388090/Five_Nights_at_Freddys_4/
+{ "name": "FiveNightsatFreddys4.exe", "type": "Game" }
+{ "name": "HalloweenEdition.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
+{ "name": "SisterLocation.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
+{ "name": "Pizzeria Simulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
+{ "name": "Ultimate Custom Night.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/427920/
+# Store page is down
+{ "name": "FNaF_World.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2215390/Five_Nights_at_Freddys_Secret_of_the_Mimic/
+{ "name": "FNAF_SOTM.exe", "type": "Game" }
+{ "name": "FNAF_SOTM-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
 { "name": "freddys.exe", "type": "Game" }
 { "name": "freddys-Win64-Shipping.exe", "type": "Game" }
