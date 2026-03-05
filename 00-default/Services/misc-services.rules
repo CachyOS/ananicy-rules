@@ -1,6 +1,8 @@
 # https://github.com/containers/bubblewrap
 { "name": "bwrap", "type": "Service" }
 
+{ "name": "crashhelper", "type": "BG_CPUIO" }
+
 { "name": "devmon", "type": "Service" }
 { "name": "fsnotifier", "type": "Service" }
 { "name": "udevil", "type": "Service" }

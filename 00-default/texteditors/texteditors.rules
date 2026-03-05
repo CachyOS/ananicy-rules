@@ -41,5 +41,8 @@
 # https://zed.dev
 { "name": "zed-editor", "type": "Doc-View" }
 
+# https://tug.org/texworks/
+{ "name": "texworks", "type": "Doc-View" }
+
 # COSMIC text editor
 { "name": "cosmic-edit", "type": "Doc-View" }
