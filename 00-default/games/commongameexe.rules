@@ -8,6 +8,10 @@
 # https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
 { "name": "game.exe", "type": "Game" }
 
+# Football Manager Series
+{ "name": "fm.exe", "type": "Game" }
+{ "name": "Berkelium.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
