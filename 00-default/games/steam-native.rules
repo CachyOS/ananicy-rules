@@ -64,6 +64,15 @@
 # https://store.steampowered.com/app/774361/Blasphemous/
 { "name": "Blasphemous.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/243930/Bound_By_Flame/
+{ "name": "BoundByFlame", "type": "Game" }
+
+# https://store.steampowered.com/app/2427700/Backpack_Battles/
+{ "name": "BackpackBattles.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/602960/Barotrauma/
+{ "name": "Barotrauma", "type": "Game" }
+
 ### C ###
 
 # https://store.steampowered.com/app/730/CounterStrike_2/
@@ -95,6 +104,13 @@
 # https://store.steampowered.com/app/2281730/Combat_Master
 { "name" : "CombatMaster.x86_64","type": "Game"}
 
+# https://store.steampowered.com/app/368340/CrossCode/
+{ "name" : "CrossCode","type": "Game"}
+
+# https://store.steampowered.com/app/231430/Company_of_Heroes_2/
+{ "name" : "CompanyOfHeroes2","type": "Game"}
+{ "name" : "CompanyOfHeroes2.sh","type": "Game"}
+
 ### Common bin names ###
 
 # https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
@@ -106,6 +122,12 @@
 # https://store.steampowered.com/app/242680/Nuclear_Throne/
 # https://store.steampowered.com/app/643880/Strikey_Sisters/
 { "name": "runner", "type": "Game" }
+
+# https://store.steampowered.com/app/1621690/Core_Keeper
+{ "name": "CoreKeeper", "type": "Game" }
+
+# https://store.steampowered.com/app/1229240/Chained_Echoes/
+{ "name": "Chained_Echoes.x86_64", "type": "Game" }
 
 ### D ###
 
@@ -171,6 +193,9 @@
 { "name": "cefsimple", "type": "Game" }
 { "name": "berkelium", "type": "Game" }
 
+# https://store.steampowered.com/app/380600/Fishing_Planet/
+{ "name": "FishingPlanet.X86_64", "type": "Game" }
+
 ### G ###
 
 # https://store.steampowered.com/app/4000/Garrys_Mod/
@@ -229,6 +254,9 @@
 # https://store.steampowered.com/app/2218750/Halls_of_Torment/
 { "name": "HallsOfTorment.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/280180/Hover/
+{ "name": "Hover.x86", "type": "Game" }
+
 ### I ###
 
 # https://store.steampowered.com/app/222880/Insurgency/
@@ -242,6 +270,9 @@
 
 # https://store.steampowered.com/app/421170/Indivisible/
 { "name": "Indivisible.x86_64-pc-linux-gnu", "type": "Game" }
+
+# https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
+{ "name": "fcengine-bin32", "type": "Game" }
 
 ### J ###
 
@@ -289,6 +320,12 @@
 # https://store.steampowered.com/app/1657090/Mini_Royale/
 { "name": "RoomRoyalA-Linux-Shipping", "type": "Game" }
 
+# https://store.steampowered.com/app/1267910/Melvor_Idle/
+{ "name": "Melvor Idle", "type": "Game" }
+
+# https://store.steampowered.com/app/48700/Mount__Blade_Warband/
+{ "name": "mb_warband_linux", "type": "Game" }
+
 ### N ###
 
 # http://store.steampowered.com/app/4920/Natural_Selection_2/
@@ -313,6 +350,13 @@
 
 # https://store.steampowered.com/app/420530/OneShot/
 { "name": "oneshot", "type": "Game" }
+
+# https://store.steampowered.com/app/457140/Oxygen_Not_Included/
+{ "name": "OxygenNotIncluded", "type": "Game" }
+
+# https://store.steampowered.com/app/728880/Overcooked_2/
+{ "name": "Overcooked2.x86", "type": "Game" }
+{ "name": "Overcooked2.x86_64 ", "type": "Game" }
 
 ### P ###
 
@@ -375,6 +419,9 @@
 # https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/
 { "name": "Torment", "type": "Game" }
 
+# https://store.steampowered.com/app/330180/Pix_the_Cat/
+{ "name": "PixtheCat", "type": "Game" }
+
 ### Q ###
 ### R ###
 
@@ -389,6 +436,9 @@
 
 # https://store.steampowered.com/app/636480/Ravenfield/
 { "name": "ravenfield.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/975150/Resolutiion/
+{ "name": "Resolutiion.x86_64", "type": "Game" }
 
 ### S ###
 
@@ -474,6 +524,27 @@
 # https://store.steampowered.com/app/646570/Slay_the_Spire/
 { "name": "SlayTheSpire", "type": "Game" }
 
+# https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/
+{ "name": "CivBE", "type": "Game" }
+
+# https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/
+{ "name": "Civ7_linux_Vulkan_FinalRelease", "type": "Game" }
+
+# https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/
+{ "name": "Civ6", "type": "Game" }
+
+# https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/
+{ "name": "Civ5XP", "type": "Game" }
+
+# https://store.steampowered.com/app/281990/Stellaris/
+{ "name": "stellaris", "type": "Game" }
+
+# https://store.steampowered.com/app/275670/Space_Run/
+{ "name": "oSpaceGameMerged", "type": "Game" }
+
+# https://store.steampowered.com/app/3117820/Sultans_Game/
+{ "name": "Sultan's Game.x86_64", "type": "Game" }
+
 ### The ###
 # There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
 
@@ -493,6 +564,9 @@
 
 # https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
 { "name": "witcher2", "type": "Game" }
+
+# https://store.steampowered.com/app/305620/The_Long_Dark/
+{ "name": "tld.x86_64", "type": "Game" }
 
 ### T ###
 
@@ -539,12 +613,47 @@
 # https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/
 { "name": "TotalWarhammer3", "type": "Game" }
 
+# https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/
+{ "name": "TotalWarhammer2", "type": "Game" }
+
+# https://store.steampowered.com/app/364360/Total_War_WARHAMMER/
+{ "name": "TotalWarhammer", "type": "Game" }
+
+# https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
+{ "name": "Total War ROME REMASTERED.sh", "type": "Game" }
+{ "name": "Rome", "type": "Game" }
+
+# https://store.steampowered.com/app/325610/Total_War_ATTILA/
+{ "name": "Attila", "type": "Game" }
+
+# https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
+{ "name": "Empire.sh", "type": "Game" }
+{ "name": "Empire.sh", "type": "Game" }
+
+# https://store.steampowered.com/app/4700/Total_War_MEDIEVAL_II__Definitive_Edition/
+{ "name": "Medieval2", "type": "Game" }
+{ "name": "Medieval2.sh", "type": "Game" }
+
+# https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
+{ "name": "ThronesOfBritannia", "type": "Game" }
+{ "name": "ThronesOfBritannia.sh", "type": "Game" }
+
 # https://store.steampowered.com/app/617480/Tower_of_Time/
 { "name": "TowerOfTime.x86", "type": "Game" }
 { "name": "TowerOfTime.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/
+{ "name": "ThreeKingdoms", "type": "Game" }
+{ "name": "ThreeKingdoms.sh", "type": "Game" }
+
+# https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
+{ "name": "Tap Ninja.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/1066780/Transport_Fever_2/
+{ "name": "TransportFever2", "type": "Game" }
 
 ### U ###
 
@@ -554,6 +663,12 @@
 
 # https://store.steampowered.com/app/304930/Unturned/
 { "name": "Unturned.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/2471100/Unnamed_Space_Idle/
+{ "name": "SpaceIdle.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/3606890/Upload_Labs/
+{ "name": "Upload Labs.x86_64", "type": "Game" }
 
 ### V ###
 
@@ -575,6 +690,9 @@
 # https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2", "type": "Game" }
 
+# https://store.steampowered.com/app/529340/Victoria_3/
+{ "name": "victoria3", "type": "Game" }
+
 ### X ###
 
 # https://store.steampowered.com/app/392160/X4_Foundations/
@@ -584,6 +702,10 @@
 { "name": "XCOM2", "type": "Game" }
 
 ### Y ###
+
+# https://store.steampowered.com/app/1546320/Your_Chronicle/
+{ "name": "YourChronicle.x86_64", "type": "Game" }
+
 ### Z ###
 
 # https://store.steampowered.com/app/17500/Zombie_Panic_Source/
