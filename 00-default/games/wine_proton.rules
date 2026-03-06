@@ -16,6 +16,11 @@
 # https://store.steampowered.com/app/668550/8Doors_Arums_Afterlife_Adventure/
 { "name": "8Doors.exe", "type": "Game" }
 
+### 10 ##
+
+# https://store.steampowered.com/app/477010/10_Minute_Tower/
+{ "name": "10MinuteTower.exe", "type": "Game" }
+
 ### A ###
 
 # https://store.steampowered.com/app/1591450/Aka/
@@ -363,6 +368,15 @@
 
 # https://store.steampowered.com/app/449800/Attack_on_Titan__AOT_Wings_of_Freedom/
 { "name": "AoT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1210150/Ageless/
+{ "name": "Ageless.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/484900/Aven_Colony/
+{ "name": "AvenColony.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/984800/Automachef/
+{ "name": "Automachef.exe", "type": "Game" }
 
 ### B ###
 
@@ -852,6 +866,9 @@
 
 # https://store.steampowered.com/app/835570/Conquerors_Blade/
 { "name": "GameGuard.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1000010/Crown_Trick/
+{ "name": "CrownTrick.exe", "type": "Game"}
 
 ### D ###
 
@@ -1607,6 +1624,9 @@
 # https://store.steampowered.com/app/3478870/GeoGuessr_Steam_Edition/
 { "name": "GeoGuessr.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/712190/Genesis_Alpha_One_Deluxe_Edition/
+{ "name": "Genesis.exe", "type": "Game" }
+
 ### H ###
 
 # https://store.steampowered.com/app/1145360/Hades/
@@ -2035,6 +2055,12 @@
 # https://store.steampowered.com/app/2808930/Lust_Goddess/
 { "name": "Adult_wars.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/532270/Lethal_VR/
+{ "name": "LethalVR.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/278810/LA_Cops/
+{ "name": "lacops.exe", "type": "Game" }
+
 ### M ###
 
 # https://store.steampowered.com/app/1941540/Mafia_The_Old_Country/
@@ -2281,6 +2307,15 @@
 # https://store.steampowered.com/app/1367080/MOBILE_SUIT_GUNDAM_BATTLE_OPERATION_2/
 { "name": "MSGBO2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1641700/Moving_Out_2/
+{ "name": "mo2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/996770/Moving_Out/
+{ "name": "MovingOut.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/712180/Mugsters/
+{ "name": "Mugsters.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
@@ -2397,6 +2432,12 @@
 { "name": "NOBU14SR_JP.exe", "type": "Game"}
 { "name": "NOBU14SR_TC.exe", "type": "Game"}
 
+# https://store.steampowered.com/app/788100/Neon_Abyss/
+{ "name": "NeonAbyss.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2235200/Neon_Abyss_2/
+{ "name": "NeonAbyss2.exe", "type": "Game"}
+
 ### O ###
 
 # https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
@@ -2455,6 +2496,9 @@
 
 # https://store.steampowered.com/app/2918150/ONE_PIECE_Bounty_Rush/
 { "name": "BountyRush.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/448510/Overcooked/
+{ "name": "Overcooked.exe", "type": "Game" }
 
 ### P ###
 
@@ -2636,6 +2680,9 @@
 
 # https://store.steampowered.com/app/703080/Planet_Zoo/
 { "name": "PlanetZoo.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/485030/PLANET_ALPHA/
+{ "name": "PlanetAlpha.exe", "type": "Game" }
 
 ### Q ###
 
@@ -2877,6 +2924,9 @@
 { "name": "San13_jp.exe", "type": "Game" }
 { "name": "San13_kr.exe", "type": "Game" }
 { "name": "San13_tc.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/384200/Raging_Justice/
+{ "name": "RagingJustice.exe", "type": "Game" }
 
 ### S ###
 
@@ -3556,6 +3606,9 @@
 { "name": "TheForest32.exe", "type": "Game" }
 { "name": "TheForestVR.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/897450/The_Survivalists/
+{ "name": "The Survivalists.exe", "type": "Game" }
+
 ### T ###
 
 # https://store.steampowered.com/app/2545710/Tony_Hawks_Pro_Skater_3__4
@@ -4105,6 +4158,21 @@
 { "name": "SOVIET.exe", "type": "Game" }
 { "name": "SOVIET64.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/270910/Worms_World_Party_Remastered/
+{ "name": "w2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/217200/Worms_Armageddon/
+{ "name": "WA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/200170/Worms_Revolution/
+{ "name": "WormsRevolution.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/70620/Worms_Crazy_Golf/
+{ "name": "WormsCrazyGolf.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/70650/Worms_Blast/
+{ "name": "WormsBlast.exe", "type": "Game" }
+
 ### X ###
 ### Y ###
 
@@ -4176,6 +4244,9 @@
 
 # https://store.steampowered.com/app/252230/YAIBA_NINJA_GAIDEN_Z/
 { "name": "NRZGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/334940/Yokus_Island_Express/
+{ "name": "Yoku.exe", "type": "Game" }
 
 ### Z ###
 
