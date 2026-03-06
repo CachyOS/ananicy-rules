@@ -1388,6 +1388,9 @@
 # https://store.steampowered.com/app/2130460/FATAL_FRAME__PROJECT_ZERO_Mask_of_the_Lunar_Eclipse/
 { "name": "FATAL_FRAME_MOL.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/323190/Frostpunk/
+{ "name": "Frostpunk.exe", "type": "Game" }
+
 ### G ###
 
 # https://store.steampowered.com/app/4000/Garrys_Mod/
@@ -1531,6 +1534,9 @@
 # https://store.steampowered.com/app/1097840/Gears_5/
 { "name": "Gears5.exe", "type": "Game" }
 { "name": "Gears5_EAC.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/985810/GrandChase/
+{ "name": "GrandChase.exe", "type": "Game" }
 
 ### H ###
 
@@ -2770,6 +2776,10 @@
 { "name": "San13_kr.exe", "type": "Game" }
 { "name": "San13_tc.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/784150/Workers__Resources_Soviet_Republic/
+{ "name": "SOVIET.exe", "type": "Game" }
+{ "name": "SOVIET64.exe", "type": "Game" }
+
 ### S ###
 
 # https://store.epicgames.com/en-US/p/sable
@@ -3170,6 +3180,10 @@
 
 # https://store.steampowered.com/app/207140/SpeedRunners/
 { "name": "SpeedRunners.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1631270/StarRupture/
+{ "name": "StarRuptureGameSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "StarRuptureGameSteam.exe", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
