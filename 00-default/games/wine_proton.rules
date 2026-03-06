@@ -1296,6 +1296,37 @@
 # https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
 { "name": "FiveNightsatFreddys.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/332800/Five_Nights_at_Freddys_2/
+{ "name": "FiveNightsatFreddys2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/
+{ "name": "FiveNightsatFreddys3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/388090/Five_Nights_at_Freddys_4/
+{ "name": "FiveNightsatFreddys4.exe", "type": "Game" }
+{ "name": "HalloweenEdition.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
+{ "name": "SisterLocation.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
+{ "name": "Pizzeria Simulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
+{ "name": "Ultimate Custom Night.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/427920/
+# Store page is down
+{ "name": "FNaF_World.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/
+{ "name": "fnaf9.exe", "type": "Game" }
+{ "name": "fnaf9-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2215390/Five_Nights_at_Freddys_Secret_of_the_Mimic/
+{ "name": "FNAF_SOTM.exe", "type": "Game" }
+{ "name": "FNAF_SOTM-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
 { "name": "freddys.exe", "type": "Game" }
 { "name": "freddys-Win64-Shipping.exe", "type": "Game" }
@@ -1304,11 +1335,11 @@
 { "name": "HW2.exe", "type": "Game" }
 { "name": "HW2-Win64-Shipping.exe", "type": "Game" }
 
-# Flyout https://store.steampowered.com/app/777390/Flyout/
-{ "name": "Flyout.exe", "type": "Game" }
-
 # FNAF 1 REMAKE (Five Nights at Freddy's REMAKE) https://gamejolt.com/games/imadethisforyou/981759
 { "name": "FNAF 1 REMAKE.exe", "type": "Game" }
+
+# Flyout https://store.steampowered.com/app/777390/Flyout/
+{ "name": "Flyout.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/304390/FOR_HONOR/
 { "name": "forhonor.exe", "type": "Game" }
@@ -2507,6 +2538,24 @@
 # https://store.steampowered.com/app/1721470/Poppy_Playtime/
 { "name": "Poppy_Playtime.exe", "type": "Game" }
 { "name": "Poppy_Playtime-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PlaytimeLauncher.exe", "type": "Game" }
+{ "name": "PlaytimeLauncher-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1817490/Poppy_Playtime__Chapter_2/
+{ "name": "Playtime_Prototype4.exe", "type": "Game" }
+{ "name": "Playtime_Prototype4-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2555190/Poppy_Playtime__Chapter_3/
+{ "name": "Playtime_Chapter3.exe", "type": "Game" }
+{ "name": "Playtime_Chapter3-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3008670/Poppy_Playtime__Chapter_4/
+{ "name": "Playtime_Chapter4.exe", "type": "Game" }
+{ "name": "ch4_pro-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/4100940/Poppy_Playtime__Chapter_5/
+{ "name": "ch5_pro.exe", "type": "Game" }
+{ "name": "ch5_pro-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3198850/Play_Together/
 { "name": "PlayTogether.exe", "type": "Game" }
@@ -2901,6 +2950,44 @@
 
 # https://store.steampowered.com/app/474220/Soldat_2/
 { "name": "soldat2.exe", "type": "Game" }
+
+# Sonic Mania https://store.steampowered.com/app/584400/Sonic_Mania/
+{ "name": "SonicMania.exe", "type": "Game" }
+
+# Sonic Lost World https://store.steampowered.com/app/329440/Sonic_Lost_World/
+{ "name": "slw.exe", "type": "Game" }
+
+# Sonic Frontiers https://store.steampowered.com/app/1237320/Sonic_Frontiers/
+{ "name": "SonicFrontiers.exe", "type": "Game" }
+
+# Sonic Forces https://store.steampowered.com/app/637100/Sonic_Forces/
+{ "name": "Sonic Forces.exe", "type": "Game" }
+
+# Sonic Generations (Legacy) https://store.steampowered.com/app/71340/Sonic_Generations_Collection/
+{ "name": "SonicGenerations.exe", "type": "Game" }
+
+# Sonic Adventure DX https://store.steampowered.com/app/71250/Sonic_Adventure_DX/
+{ "name": "Sonic Adventure DX.exe", "type": "Game" }
+{ "name": "AppLauncher.exe", "type": "Game" }
+
+# Sonic Adventure 2 https://store.steampowered.com/app/213610/Sonic_Adventure_2/
+{ "name": "sonic2app.exe", "type": "Game" }
+{ "name": "Launcher.exe", "type": "Game" }
+
+# Sonic Origins https://store.steampowered.com/app/1794960/Sonic_Origins/
+{ "name": "SonicOrigins.exe", "type": "Game" }
+
+# Sonic Colors Ultimate https://store.steampowered.com/app/2055290/Sonic_Colors_Ultimate/
+{ "name": "SonicColorsUltimate.exe", "type": "Game" }
+
+# Sonic & All-Stars Racing Transformed Collection https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/
+{ "name": "Launcher.exe", "type": "Game" }
+{ "name": "ASN_App_PcDx9_Final.exe", "type": "Game" }
+
+# Sonic Rumble https://store.steampowered.com/app/2951690/Sonic_Rumble/
+{ "name": "GameLauncher.exe", "type": "Game" }
+{ "name": "SonicRumble.exe", "type": "Game" }
+{ "name": "ucldr_SonicRumble_ST_loader_x64.exe", "type": "Game" }
 
 # Sonic Racing: Crossworlds https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/
 { "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
