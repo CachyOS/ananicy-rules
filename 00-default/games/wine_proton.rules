@@ -614,6 +614,9 @@
 # https://store.steampowered.com/app/502280/BERSERK_and_the_Band_of_the_Hawk/
 { "name": "BERSERK.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/302080/Bus_Driver/
+{ "name": "busdriver.exe", "type": "Game" }
+
 ### C ###
 
 # https://store.steampowered.com/app/399810/Call_of_Cthulhu/
@@ -1182,6 +1185,9 @@
 
 # https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
 { "name": "eurotrucks2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/232010/Euro_Truck_Simulator/
+{ "name": "eurotrucks.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1493750/Evil_Dead_The_Game/
 { "name": "EvilDead-Win64-Shipping.exe", "type": "Game" }
@@ -3354,6 +3360,9 @@
 # https://store.steampowered.com/app/1282270/Strinova/
 { "name": "Strinova.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/258760/Scania_Truck_Driving_Simulator/
+{ "name": "scania_truck_driving_simulator.exe", "type": "Game" }
+
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
@@ -3828,6 +3837,9 @@
 
 # https://store.steampowered.com/app/4195470/Taimanin_Squad/
 { "name": "TaimaninSquad.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/302060/Trucks__Trailers/
+{ "name": "trucks_n_trailers.exe", "type": "Game" }
 
 ### U ###
 
