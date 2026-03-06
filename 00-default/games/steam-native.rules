@@ -468,6 +468,12 @@
 # https://store.steampowered.com/app/207140/SpeedRunners/
 { "name": "SpeedRunners.bin.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/2868840/Slay_the_Spire_2/
+{ "name": "SlayTheSpire2", "type": "Game" }
+
+# https://store.steampowered.com/app/646570/Slay_the_Spire/
+{ "name": "SlayTheSpire", "type": "Game" }
+
 ### The ###
 # There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
 
