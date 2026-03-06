@@ -838,6 +838,12 @@
 { "name": "ChainedTogether.exe", "type": "Game"}
 { "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
 
+# https://store.steampowered.com/app/363970/Clicker_Heroes/
+{ "name": "Clicker Heroes.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/629910/Clicker_Heroes_2/
+{ "name": "ClickerHeroes2.exe", "type": "Game"}
+
 ### D ###
 
 # https://store.steampowered.com/app/236430/DARK_SOULS_II/
@@ -1188,6 +1194,9 @@
 { "name": "Backrooms.exe", "type": "Game" }
 { "name": "Backrooms-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2135150/Elin/
+{ "name": "Elin.exe", "type": "Game" }
+
 ### F ###
 
 # https://store.steampowered.com/app/288470/Fable_Anniversary
@@ -1215,6 +1224,9 @@
 
 # https://store.steampowered.com/app/1151340/Fallout_76/
 { "name": "Fallout76.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/588430/Fallout_Shelter/
+{ "name": "FalloutShelter.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
 { "name": "falloutw.exe", "type": "Game" }
@@ -1363,9 +1375,6 @@
 { "name": "FragPunk.exe", "type": "Game" }
 { "name": "FragNeacClient.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3551340/Football_Manager_26/
-{ "name": "fm.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2300320/Farming_Simulator_25/
 { "name": "FarmingSimulator2025.exe", "type": "Game" }
 { "name": "FarmingSimulator2025Game.exe", "type": "Game" }
@@ -1421,6 +1430,9 @@
 
 # https://store.steampowered.com/app/323190/Frostpunk/
 { "name": "Frostpunk.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2336220/Feed_the_Cups/
+{ "name": "Feed the Cups.exe", "type": "Game" }
 
 ### G ###
 
@@ -1568,6 +1580,9 @@
 
 # https://store.steampowered.com/app/985810/GrandChase/
 { "name": "GrandChase.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/881020/Granblue_Fantasy_Relink/
+{ "name": "granblue_fantasy_relink.exe", "type": "Game" }
 
 ### H ###
 
@@ -1749,6 +1764,9 @@
 # https://store.steampowered.com/app/1796470/Haste/
 { "name": "Haste.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2349820/Heros_Land/
+{ "name": "HerosLand.exe", "type": "Game" }
+
 ### I ###
 
 # https://store.steampowered.com/app/1149460/ICARUS/
@@ -1807,6 +1825,9 @@
 
 # https://store.steampowered.com/app/1244460/Jurassic_World_Evolution_2/
 { "name": "JWE2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3164330/Infinity_Nikki/
+{ "name": "InfinityNikki.exe", "type": "Game" }
 
 ### K ###
 
@@ -2228,6 +2249,9 @@
 { "name": "MF.exe", "type": "Game" }
 { "name": "MF2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1367080/MOBILE_SUIT_GUNDAM_BATTLE_OPERATION_2/
+{ "name": "MSGBO2.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
@@ -2399,6 +2423,9 @@
 
 # https://store.steampowered.com/app/368740/Obliteracers/
 { "name": "Obliteracers.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2918150/ONE_PIECE_Bounty_Rush/
+{ "name": "BountyRush.exe", "type": "Game" }
 
 ### P ###
 
@@ -2579,6 +2606,9 @@
 
 # https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/
 { "name": "PlantsVsZombies.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/703080/Planet_Zoo/
+{ "name": "PlanetZoo.exe", "type": "Game" }
 
 ### Q ###
 
@@ -3064,6 +3094,9 @@
 # https://store.steampowered.com/app/2842040/Star_Wars_Outlaws/
 { "name": "Outlaws.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1286830/STAR_WARS_The_Old_Republic/
+{ "name": "swtor.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1283400/Steelrising/
 { "name": "Steelrising.exe", "type": "Game" }
 
@@ -3195,6 +3228,14 @@
 # https://store.steampowered.com/app/1934570/South_of_Midnight/
 { "name": "SouthOfMidnight.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/386360/SMITE/
+{ "name": "SmiteEAC.exe", "type": "Game" }
+{ "name": "Smite.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2437170/SMITE_2/
+{ "name": "Hemingway.exe", "type": "Game" }
+{ "name": "Hemingway-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/
 { "name": "StateOfDecay2.exe", "type": "Game" }
 { "name": "StateOfDecay2-Win64-Shipping.exe", "type": "Game" }
@@ -3271,6 +3312,9 @@
 # https://store.steampowered.com/app/1631270/StarRupture/
 { "name": "StarRuptureGameSteam-Win64-Shipping.exe", "type": "Game" }
 { "name": "StarRuptureGameSteam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/244850/Space_Engineers/
+{ "name": "SpaceEngineers.exe", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
@@ -3501,6 +3545,11 @@
 # https://store.steampowered.com/app/58570/The_Next_BIG_Thing/
 { "name": "The Next Big Thing.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/242760/The_Forest/
+{ "name": "TheForest.exe", "type": "Game" }
+{ "name": "TheForest32.exe", "type": "Game" }
+{ "name": "TheForestVR.exe", "type": "Game" }
+
 ### T ###
 
 # https://store.steampowered.com/app/2545710/Tony_Hawks_Pro_Skater_3__4
@@ -3601,6 +3650,21 @@
 { "name": "TheDivision2.exe", "type": "Game" }
 { "name": "thedivision2launcher.exe", "type": "Game" }
 { "name": "EACLaunch.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2231380/Tom_Clancys_Ghost_Recon_Breakpoint/
+{ "name": "GRB.exe", "type": "Game" }
+{ "name": "GRB_vulkan.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/
+{ "name": "GRW.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/212630/Tom_Clancys_Ghost_Recon_Future_Soldier/
+{ "name": "Future Soldier DX11.exe", "type": "Game" }
+{ "name": "Future Soldier DX9.exe", "type": "Game" }
+{ "name": "Future Soldier.exe", "type": "Game" }
+
+# the other older ghost recon games use the same exe name  https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
+{ "name": "GhostRecon.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/41500/Torchlight/
 { "name": "Torchlight.exe", "type": "Game" }
@@ -3719,6 +3783,9 @@
 { "name": "ToukidenKiwami_en.exe", "type": "Game" }
 { "name": "ToukidenKiwami_ja.exe", "type": "Game" }
 { "name": "ToukidenKiwami_tw.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/4195470/Taimanin_Squad/
+{ "name": "TaimaninSquad.exe", "type": "Game" }
 
 ### U ###
 
