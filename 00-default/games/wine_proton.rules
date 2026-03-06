@@ -388,9 +388,6 @@
 # https://store.steampowered.com/app/209000/Batman_Arkham_Origins/
 { "name": "BatmanOriginsOnline.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/267490/Batman_Arkham_Origins_Blackgate__Deluxe_Edition/
-{ "name": "Game.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition/
 { "name": "ShippingPC-BmGame.exe", "type": "Game" }
 
@@ -818,9 +815,6 @@
 
 # https://store.steampowered.com/app/1705180/Gunner_HEAT_PC/
 { "name": "GHPC.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
-{ "name": "call_to_arms.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/1931770/Chants_of_Sennaar/
 { "name": "Chants Of Sennaar.exe", "type": "Game"}
@@ -1353,9 +1347,6 @@
 # https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
 { "name": "Pizzeria Simulator.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
-{ "name": "Ultimate Custom Night.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/427920/
 # Store page is down
 { "name": "FNaF_World.exe", "type": "Game" }
@@ -1417,12 +1408,12 @@
 { "name": "FarmingSimulator2019Game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/447020/Farming_Simulator_17/
-{ "name": "FarmingSimulator2025.exe", "type": "Game" }
-{ "name": "FarmingSimulator2025Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/313160/Farming_Simulator_15/
 { "name": "FarmingSimulator2017.exe", "type": "Game" }
 { "name": "FarmingSimulator2017Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/313160/Farming_Simulator_15/
+{ "name": "FarmingSimulator2015.exe", "type": "Game" }
+{ "name": "FarmingSimulator2015Game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/220260/Farming_Simulator_2013_Titanium_Edition/
 { "name": "FarmingSimulator2013.exe", "type": "Game" }
@@ -1431,9 +1422,6 @@
 # https://store.steampowered.com/app/90200/Farming_Simulator_2011/
 { "name": "FarmingSimulator2011.exe", "type": "Game" }
 { "name": "FarmingSimulator2011Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/940580/FIA_European_Truck_Racing_Championship/
-{ "name": "TruckRacer.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/505460/Foxhole/
 { "name": "War.exe", "type": "Game" }
@@ -1465,9 +1453,6 @@
 
 # https://store.steampowered.com/app/2142790/Fields_of_Mistria/
 { "name": "FieldsOfMistria.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2142790/Fields_of_Mistria/
-{ "name": "Farmer Against Potatoes Idle.exe", "type": "Game" }
 
 ### G ###
 
@@ -1598,7 +1583,7 @@
 { "name": "Hood-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/
-{ "name": "Hood.exe", "type": "Game" }
+{ "name": "gogh.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1568590/Goose_Goose_Duck/
 { "name": "Goose Goose Duck.exe", "type": "Game" }
@@ -2595,9 +2580,6 @@
 { "name": "PCM-Win64-Shipping.exe", "type": "Game" }
 { "name": "PCM.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2494350/Pro_Cycling_Manager_2024/
-{ "name": "PCM64.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2063610/Pro_Cycling_Manager_2023/
 { "name": "PCM64.exe", "type": "Game" }
 
@@ -2788,10 +2770,6 @@
 
 # Risk of Rain 2 https://store.steampowered.com/app/632360/Risk_of_Rain_2/
 { "name": "Risk of Rain 2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
-{ "name": "RoboCop.exe", "type": "Game" }
-{ "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
 
 # Rocket League https://www.rocketleague.com/en/
 { "name": "RocketLeague.exe", "type": "Game" }
@@ -3013,9 +2991,6 @@
 { "name": "sniper5_dx12.exe", "type": "Game" }
 { "name": "sniper5_vulkan.exe", "type": "Game" }
 
-# SnowRunner - https://www.focus-entmt.com/en/games/snowrunner
-{ "name": "SnowRunner.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/638490/Soldat/
 { "name": "soldat.exe", "type": "Game" }
 
@@ -3043,7 +3018,6 @@
 
 # Sonic Adventure 2 https://store.steampowered.com/app/213610/Sonic_Adventure_2/
 { "name": "sonic2app.exe", "type": "Game" }
-{ "name": "Launcher.exe", "type": "Game" }
 
 # Sonic Origins https://store.steampowered.com/app/1794960/Sonic_Origins/
 { "name": "SonicOrigins.exe", "type": "Game" }
@@ -3052,7 +3026,6 @@
 { "name": "SonicColorsUltimate.exe", "type": "Game" }
 
 # Sonic & All-Stars Racing Transformed Collection https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "ASN_App_PcDx9_Final.exe", "type": "Game" }
 
 # Sonic Rumble https://store.steampowered.com/app/2951690/Sonic_Rumble/
@@ -3075,9 +3048,6 @@
 
 # https://store.steampowered.com/app/1377580/Soulworker/
 { "name": "SoulWorker.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/298900/Space_Hulk_Deathwing/
-{ "name": "SpaceHulkGame.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/39540/SpellForce__Platinum_Edition/
 { "name": "SpellForce.exe", "type": "Game" }
@@ -3179,9 +3149,6 @@
 { "name": "StreetFighterIV.exe", "type": "Game" }
 { "name": "SF4Launcher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/45760/Ultra_Street_Fighter_IV/
-{ "name": "SSFIV.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/3290690/Styx_Blades_of_Greed/
 { "name": "Styx3.exe", "type": "Game" }
 { "name": "Styx3-Win64-Shipping.exe", "type": "Game" }
@@ -3280,9 +3247,6 @@
 # https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/
 { "name": "StateOfDecay2.exe", "type": "Game" }
 { "name": "StateOfDecay2-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/329430/State_of_Decay_YOSE/
-{ "name": "StateOfDecay.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/241540/State_of_Decay/
 { "name": "StateOfDecay.exe", "type": "Game" }
@@ -3435,11 +3399,6 @@
 # https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/
 { "name": "KZ.exe", "type": "Game" }
 { "name": "BBQ-Win64-Shipping.exe", "type": "Game" }
-
-# The Forest https://store.steampowered.com/agecheck/app/242760/The_Forest/
-{ "name": "TheForest.exe", "type": "Game" }
-{ "name": "TheForest32.exe", "type": "Game" }
-{ "name": "TheForestVR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION
 { "name": "kofxiii.exe", "type": "Game" }
@@ -4063,9 +4022,6 @@
 # https://store.steampowered.com/app/1267540/WRC_9_FIA_World_Rally_Championship/
 { "name": "WRC9.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1267540/WRC_9_FIA_World_Rally_Championship/
-{ "name": "WRC9.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1462810/WRC_10_FIA_World_Rally_Championship/
 { "name": "WRC10.exe", "type": "Game" }
 
@@ -4204,11 +4160,6 @@
 
 # https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/
 { "name": "masterduel.exe", "type": "Game" }
-{ "name": "game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/
-{ "name": "masterduel.exe", "type": "Game" }
-{ "name": "game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3013550/YuGiOh_EARLY_DAYS_COLLECTION/
 { "name": "yugioh_early_days_collection.exe", "type": "Game" }
