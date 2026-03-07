@@ -3143,6 +3143,10 @@
 # Sonic Racing: Crossworlds https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/
 { "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2022670/SONIC_SUPERSTARS/
+{ "name": "SonicSuperstars_boot.exe", "type": "Game" }
+{ "name": "SonicSuperstars.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2513280/SONIC_X_SHADOW_GENERATIONS/
 { "name": "SONIC_GENERATIONS.exe", "type": "Game" }
 { "name": "SONIC_X_SHADOW_GENERATIONS.exe", "type": "Game" }
