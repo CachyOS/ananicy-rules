@@ -992,6 +992,9 @@
 # Diablo IV https://diablo4.blizzard.com/en-us/
 { "name": "Diablo IV.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/
+{ "name": "Digimon Story Time Stranger.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/690790/DiRT_Rally_20/
 { "name": "dirtrally2.exe", "type": "Game" }
 
@@ -1428,6 +1431,9 @@
 
 # https://store.steampowered.com/app/2440510/Forza_Motorsport/
 { "name": "forza_steamworks_release_final.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3551340/Football_Manager_26/
+{ "name": "fm.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2943650/FragPunk/
 { "name": "FragPunk.exe", "type": "Game" }
