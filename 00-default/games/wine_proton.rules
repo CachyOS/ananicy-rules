@@ -378,6 +378,15 @@
 # https://store.steampowered.com/app/984800/Automachef/
 { "name": "Automachef.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/22670/Alien_Breed_3_Descent/
+{ "name": "AlienBreed3Descent.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/22650/Alien_Breed_2_Assault/
+{ "name": "AlienBreed2Assault.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/22610/Alien_Breed_Impact/
+{ "name": "AlienBreed-Impact.exe", "type": "Game" }
+
 ### B ###
 
 # https://store.steampowered.com/app/2379780/Balatro/
@@ -1160,6 +1169,9 @@
 { "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
 { "name": "DuneSandbox_BE.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2201320/Date_Everything/
+{ "name": "Date Everything.exe", "type": "Game" }
+
 ### E ###
 
 # https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
@@ -1626,6 +1638,9 @@
 
 # https://store.steampowered.com/app/712190/Genesis_Alpha_One_Deluxe_Edition/
 { "name": "Genesis.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2748340/Goblin_Cleanup/
+{ "name": "Goblin Cleanup.exe", "type": "Game" }
 
 ### H ###
 
@@ -2928,6 +2943,12 @@
 # https://store.steampowered.com/app/384200/Raging_Justice/
 { "name": "RagingJustice.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1843840/Rogue_Point/
+{ "name": "Tango.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2066520/Ritual_of_Raven/
+{ "name": "RitualofRaven.exe", "type": "Game" }
+
 ### S ###
 
 # https://store.steampowered.com/app/757310/Sable/
@@ -3376,6 +3397,9 @@
 
 # https://store.steampowered.com/app/258760/Scania_Truck_Driving_Simulator/
 { "name": "scania_truck_driving_simulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1763250/SWORN/
+{ "name": "SWORN.exe", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
@@ -4172,6 +4196,9 @@
 
 # https://store.steampowered.com/app/70650/Worms_Blast/
 { "name": "WormsBlast.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/70600/Worms_Ultimate_Mayhem/
+{ "name": "WormsMayhem.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
