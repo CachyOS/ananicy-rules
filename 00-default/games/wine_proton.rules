@@ -3107,6 +3107,7 @@
 
 # https://store.steampowered.com/app/2169200/Sniper_Elite_Resistance/
 { "name": "sniperresistance.exe", "type": "Game" }
+{ "name": "sniperresistance_dx12.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/638490/Soldat/
 { "name": "soldat.exe", "type": "Game" }
