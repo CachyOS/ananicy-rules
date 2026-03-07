@@ -16,6 +16,11 @@
 # https://store.steampowered.com/app/668550/8Doors_Arums_Afterlife_Adventure/
 { "name": "8Doors.exe", "type": "Game" }
 
+### 10 ##
+
+# https://store.steampowered.com/app/477010/10_Minute_Tower/
+{ "name": "10MinuteTower.exe", "type": "Game" }
+
 ### A ###
 
 # https://store.steampowered.com/app/1591450/Aka/
@@ -346,11 +351,41 @@
 { "name": "A13V_x64_Release.exe", "type": "Game" }
 { "name": "A13V_x64_Release_EN.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/936160/Atelier_Rorona_The_Alchemist_of_Arland_DX/
+{ "name": "A11R_x64_Release_en.exe", "type": "Game" }
+{ "name": "A11R_x64_Release.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/756590/Atelier_Lydie__Suelle_The_Alchemists_and_the_Mysterious_Paintings/
+{ "name": "Atelier_Lydie_and_Suelle.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/527290/Atelier_Firis_The_Alchemist_and_the_Mysterious_Journey/
+{ "name": "A18.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/601050/Attack_on_Titan_2__AOT2/
 { "name": "AOT2_AS.exe", "type": "Game" }
 { "name": "AOT2_EU.exe", "type": "Game" }
 { "name": "AOT2_JP.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/449800/Attack_on_Titan__AOT_Wings_of_Freedom/
+{ "name": "AoT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1210150/Ageless/
+{ "name": "Ageless.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/484900/Aven_Colony/
+{ "name": "AvenColony.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/984800/Automachef/
+{ "name": "Automachef.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/22670/Alien_Breed_3_Descent/
+{ "name": "AlienBreed3Descent.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/22650/Alien_Breed_2_Assault/
+{ "name": "AlienBreed2Assault.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/22610/Alien_Breed_Impact/
+{ "name": "AlienBreed-Impact.exe", "type": "Game" }
 
 ### B ###
 
@@ -375,9 +410,6 @@
 
 # https://store.steampowered.com/app/209000/Batman_Arkham_Origins/
 { "name": "BatmanOriginsOnline.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/267490/Batman_Arkham_Origins_Blackgate__Deluxe_Edition/
-{ "name": "Game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition/
 { "name": "ShippingPC-BmGame.exe", "type": "Game" }
@@ -596,6 +628,15 @@
 # https://store.steampowered.com/app/1423600/BLUE_REFLECTION_Second_Light/
 { "name": "BLUE REFLECTION Second Light.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/658260/BLUE_REFLECTION/
+{ "name": "BLUE_REFLECTION.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/502280/BERSERK_and_the_Band_of_the_Hawk/
+{ "name": "BERSERK.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/302080/Bus_Driver/
+{ "name": "busdriver.exe", "type": "Game" }
+
 ### C ###
 
 # https://store.steampowered.com/app/399810/Call_of_Cthulhu/
@@ -798,9 +839,6 @@
 # https://store.steampowered.com/app/1705180/Gunner_HEAT_PC/
 { "name": "GHPC.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
-{ "name": "call_to_arms.exe", "type": "Game"}
-
 # https://store.steampowered.com/app/1931770/Chants_of_Sennaar/
 { "name": "Chants Of Sennaar.exe", "type": "Game"}
 
@@ -819,6 +857,27 @@
 # https://store.steampowered.com/app/2567870/Chained_Together/
 { "name": "ChainedTogether.exe", "type": "Game"}
 { "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/363970/Clicker_Heroes/
+{ "name": "Clicker Heroes.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/629910/Clicker_Heroes_2/
+{ "name": "ClickerHeroes2.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1190000/Car_Mechanic_Simulator_2021/
+{ "name": "Car Mechanic Simulator 2021.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1594320/Captain_of_Industry/
+{ "name": "Captain of Industry.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3548580/Chill_with_You__LoFi_Story/
+{ "name": "Chill With You.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/835570/Conquerors_Blade/
+{ "name": "GameGuard.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1000010/Crown_Trick/
+{ "name": "CrownTrick.exe", "type": "Game"}
 
 ### D ###
 
@@ -1096,6 +1155,23 @@
 { "name": "SM6EN.exe", "type": "Game" }
 { "name": "SM6JP.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/730310/DYNASTY_WARRIORS_9/
+{ "name": "DW9.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1401590/Disney_Dreamlight_Valley/
+{ "name": "ddv.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1085660/Destiny_2/
+{ "name": "destiny2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1172710/Dune_Awakening/
+{ "name": "DuneSandbox.exe", "type": "Game" }
+{ "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DuneSandbox_BE.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2201320/Date_Everything/
+{ "name": "Date Everything.exe", "type": "Game" }
+
 ### E ###
 
 # https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
@@ -1133,6 +1209,9 @@
 # https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
 { "name": "eurotrucks2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/232010/Euro_Truck_Simulator/
+{ "name": "eurotrucks.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1493750/Evil_Dead_The_Game/
 { "name": "EvilDead-Win64-Shipping.exe", "type": "Game" }
 { "name": "EvilDead.exe", "type": "Game" }
@@ -1167,6 +1246,9 @@
 { "name": "Backrooms.exe", "type": "Game" }
 { "name": "Backrooms-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2135150/Elin/
+{ "name": "Elin.exe", "type": "Game" }
+
 ### F ###
 
 # https://store.steampowered.com/app/288470/Fable_Anniversary
@@ -1194,6 +1276,9 @@
 
 # https://store.steampowered.com/app/1151340/Fallout_76/
 { "name": "Fallout76.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/588430/Fallout_Shelter/
+{ "name": "FalloutShelter.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
 { "name": "falloutw.exe", "type": "Game" }
@@ -1291,9 +1376,6 @@
 # https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
 { "name": "Pizzeria Simulator.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
-{ "name": "Ultimate Custom Night.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/427920/
 # Store page is down
 { "name": "FNaF_World.exe", "type": "Game" }
@@ -1342,9 +1424,6 @@
 { "name": "FragPunk.exe", "type": "Game" }
 { "name": "FragNeacClient.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3551340/Football_Manager_26/
-{ "name": "fm.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2300320/Farming_Simulator_25/
 { "name": "FarmingSimulator2025.exe", "type": "Game" }
 { "name": "FarmingSimulator2025Game.exe", "type": "Game" }
@@ -1358,12 +1437,12 @@
 { "name": "FarmingSimulator2019Game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/447020/Farming_Simulator_17/
-{ "name": "FarmingSimulator2025.exe", "type": "Game" }
-{ "name": "FarmingSimulator2025Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/313160/Farming_Simulator_15/
 { "name": "FarmingSimulator2017.exe", "type": "Game" }
 { "name": "FarmingSimulator2017Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/313160/Farming_Simulator_15/
+{ "name": "FarmingSimulator2015.exe", "type": "Game" }
+{ "name": "FarmingSimulator2015Game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/220260/Farming_Simulator_2013_Titanium_Edition/
 { "name": "FarmingSimulator2013.exe", "type": "Game" }
@@ -1372,9 +1451,6 @@
 # https://store.steampowered.com/app/90200/Farming_Simulator_2011/
 { "name": "FarmingSimulator2011.exe", "type": "Game" }
 { "name": "FarmingSimulator2011Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/940580/FIA_European_Truck_Racing_Championship/
-{ "name": "TruckRacer.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/505460/Foxhole/
 { "name": "War.exe", "type": "Game" }
@@ -1397,6 +1473,15 @@
 
 # https://store.steampowered.com/app/2130460/FATAL_FRAME__PROJECT_ZERO_Mask_of_the_Lunar_Eclipse/
 { "name": "FATAL_FRAME_MOL.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/323190/Frostpunk/
+{ "name": "Frostpunk.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2336220/Feed_the_Cups/
+{ "name": "Feed the Cups.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2142790/Fields_of_Mistria/
+{ "name": "FieldsOfMistria.exe", "type": "Game" }
 
 ### G ###
 
@@ -1423,7 +1508,7 @@
 { "name": "Ghostrunner2.exe", "type": "Game" }
 { "name": "Ghostrunner2-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/ghostwire-tokyo
+# https://store.steampowered.com/app/1475810/Ghostwire_Tokyo/
 { "name": "GWT.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1150760/Gloomwood/
@@ -1527,7 +1612,7 @@
 { "name": "Hood-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/
-{ "name": "Hood.exe", "type": "Game" }
+{ "name": "gogh.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1568590/Goose_Goose_Duck/
 { "name": "Goose Goose Duck.exe", "type": "Game" }
@@ -1541,6 +1626,21 @@
 # https://store.steampowered.com/app/1097840/Gears_5/
 { "name": "Gears5.exe", "type": "Game" }
 { "name": "Gears5_EAC.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/985810/GrandChase/
+{ "name": "GrandChase.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/881020/Granblue_Fantasy_Relink/
+{ "name": "granblue_fantasy_relink.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3478870/GeoGuessr_Steam_Edition/
+{ "name": "GeoGuessr.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/712190/Genesis_Alpha_One_Deluxe_Edition/
+{ "name": "Genesis.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2748340/Goblin_Cleanup/
+{ "name": "Goblin Cleanup.exe", "type": "Game" }
 
 ### H ###
 
@@ -1722,6 +1822,9 @@
 # https://store.steampowered.com/app/1796470/Haste/
 { "name": "Haste.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2349820/Heros_Land/
+{ "name": "HerosLand.exe", "type": "Game" }
+
 ### I ###
 
 # https://store.steampowered.com/app/1149460/ICARUS/
@@ -1758,6 +1861,9 @@
 # https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/
 { "name": "Injustice.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/627690/Idle_Champions_of_the_Forgotten_Realms/
+{ "name": "IdleDragons.exe", "type": "Game" }
+
 ### J ###
 
 # Judge Dredd: Dredd vs. Death https://store.steampowered.com/app/3710/Judge_Dredd_Dredd_vs_Death/
@@ -1777,6 +1883,9 @@
 
 # https://store.steampowered.com/app/1244460/Jurassic_World_Evolution_2/
 { "name": "JWE2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3164330/Infinity_Nikki/
+{ "name": "InfinityNikki.exe", "type": "Game" }
 
 ### K ###
 
@@ -1823,6 +1932,9 @@
 # https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/
 { "name": "kards.exe", "type": "Game" }
 { "name": "kards-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/389430/Knight_Online/
+{ "name": "KnightOnLine.exe", "type": "Game" }
 
 ### L ###
 
@@ -1955,6 +2067,15 @@
 { "name": "Lococycle32.exe", "type": "Game" }
 { "name": "Lococycle64.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2808930/Lust_Goddess/
+{ "name": "Adult_wars.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/532270/Lethal_VR/
+{ "name": "LethalVR.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/278810/LA_Cops/
+{ "name": "lacops.exe", "type": "Game" }
+
 ### M ###
 
 # https://store.steampowered.com/app/1941540/Mafia_The_Old_Country/
@@ -1981,8 +2102,11 @@
 { "name": "client_diagnose.exe", "type": "BG_CPUIO" }
 { "name": "upload_profile.exe", "type": "BG_CPUIO" }
 
-# https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy
+# https://store.steampowered.com/app/1088850/Marvels_Guardians_of_the_Galaxy/
 { "name": "gotg.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1997040/MARVEL_SNAP/
+{ "name": "SNAP.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2651280/Marvels_SpiderMan_2/
 { "name": "Spider-Man2.exe", "type": "Game" }
@@ -2195,6 +2319,18 @@
 { "name": "MF.exe", "type": "Game" }
 { "name": "MF2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1367080/MOBILE_SUIT_GUNDAM_BATTLE_OPERATION_2/
+{ "name": "MSGBO2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1641700/Moving_Out_2/
+{ "name": "mo2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/996770/Moving_Out/
+{ "name": "MovingOut.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/712180/Mugsters/
+{ "name": "Mugsters.exe", "type": "Game" }
+
 ### N ###
 
 # https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
@@ -2247,7 +2383,7 @@
 { "name": "nioh_launcher.exe", "type": "BG_CPUIO" }
 { "name": "nioh.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd
+# https://store.steampowered.com/app/1939970/Nobody_Wants_to_Die/
 { "name": "detnoir.exe", "type": "Game" }
 { "name": "detnoir-Win64-Shipping.exe", "type": "Game" }
 
@@ -2291,6 +2427,31 @@
 
 # https://store.steampowered.com/app/886820/Nelke__the_Legendary_Alchemists_Ateliers_of_the_New_World/
 { "name": "Nelke_and_the_Legendary_Alchemists.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/628890/NOBUNAGAS_AMBITION_Taishi/
+{ "name": "NOBU15_EN.exe", "type": "Game"}
+{ "name": "NOBU15_JP.exe", "type": "Game"}
+{ "name": "NOBU15_TC.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/636570/Nights_of_Azure_2_Bride_of_the_New_Moon/
+{ "name": "Nights of Azure 2_CHT.exe", "type": "Game"}
+{ "name": "Nights of Azure 2_En.exe", "type": "Game"}
+{ "name": "Nights of Azure 2_JP.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/527280/Nights_of_Azure/
+{ "name": "CNN.exe", "type": "Game"}
+{ "name": "CNN_JP.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/375450/NOBUNAGAS_AMBITION_Sphere_of_Influence__Ascension/
+{ "name": "NOBU14SR_EN.exe", "type": "Game"}
+{ "name": "NOBU14SR_JP.exe", "type": "Game"}
+{ "name": "NOBU14SR_TC.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/788100/Neon_Abyss/
+{ "name": "NeonAbyss.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2235200/Neon_Abyss_2/
+{ "name": "NeonAbyss2.exe", "type": "Game"}
 
 ### O ###
 
@@ -2348,6 +2509,12 @@
 # https://store.steampowered.com/app/368740/Obliteracers/
 { "name": "Obliteracers.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2918150/ONE_PIECE_Bounty_Rush/
+{ "name": "BountyRush.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/448510/Overcooked/
+{ "name": "Overcooked.exe", "type": "Game" }
+
 ### P ###
 
 # https://store.steampowered.com/app/1458140/Pacific_Drive/
@@ -2399,8 +2566,9 @@
 { "name": "PathOfExile_x64.exe", "type": "Game" }
 { "name": "PathOfExile.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/payday-2-c66369
+# https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_win32_release.exe", "type": "Game" }
+{ "name": "payday2_win32_release_vr.exe", "type": "Game" }
 
 # PAYDAY 3 https://store.steampowered.com/app/1272080/PAYDAY_3/
 { "name": "PAYDAY3Client-Win64-Shipping.exe", "type": "Game" }
@@ -2471,9 +2639,6 @@
 { "name": "PCM-Win64-Shipping.exe", "type": "Game" }
 { "name": "PCM.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2494350/Pro_Cycling_Manager_2024/
-{ "name": "PCM64.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2063610/Pro_Cycling_Manager_2023/
 { "name": "PCM64.exe", "type": "Game" }
 
@@ -2528,6 +2693,12 @@
 # https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/
 { "name": "PlantsVsZombies.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/703080/Planet_Zoo/
+{ "name": "PlanetZoo.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/485030/PLANET_ALPHA/
+{ "name": "PlanetAlpha.exe", "type": "Game" }
+
 ### Q ###
 
 # https://store.steampowered.com/app/1089130/Quake_II_RTX/
@@ -2567,7 +2738,7 @@
 # https://store.steampowered.com/app/2129530/REANIMAL/
 { "name": "REANIMAL.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/redacted-d9d21e
+# https://store.steampowered.com/app/2229940/REDACTED/
 { "name": "Redacted.exe", "type": "Game" }
 { "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
 
@@ -2596,7 +2767,7 @@
 # https://store.steampowered.com/app/20500/Red_Faction_Guerrilla_Steam_Edition/
 { "name": "RFG.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/redout-2
+# https://store.steampowered.com/app/1799930/Redout_2/
 { "name": "redout2.exe", "type": "Game" }
 { "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
 
@@ -2661,10 +2832,6 @@
 
 # Risk of Rain 2 https://store.steampowered.com/app/632360/Risk_of_Rain_2/
 { "name": "Risk of Rain 2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
-{ "name": "RoboCop.exe", "type": "Game" }
-{ "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
 
 # Rocket League https://www.rocketleague.com/en/
 { "name": "RocketLeague.exe", "type": "Game" }
@@ -2766,9 +2933,25 @@
 { "name": "SAN14_SC.exe", "type": "Game" }
 { "name": "SAN14_TC.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/363150/Romance_of_the_Three_Kingdoms_XIII/
+{ "name": "San.exe", "type": "Game" }
+{ "name": "San13_en.exe", "type": "Game" }
+{ "name": "San13_jp.exe", "type": "Game" }
+{ "name": "San13_kr.exe", "type": "Game" }
+{ "name": "San13_tc.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/384200/Raging_Justice/
+{ "name": "RagingJustice.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1843840/Rogue_Point/
+{ "name": "Tango.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2066520/Ritual_of_Raven/
+{ "name": "RitualofRaven.exe", "type": "Game" }
+
 ### S ###
 
-# https://store.epicgames.com/en-US/p/sable
+# https://store.steampowered.com/app/757310/Sable/
 { "name": "Seble.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/9480/Saints_Row_2/
@@ -2879,9 +3062,6 @@
 { "name": "sniper5_dx12.exe", "type": "Game" }
 { "name": "sniper5_vulkan.exe", "type": "Game" }
 
-# SnowRunner - https://www.focus-entmt.com/en/games/snowrunner
-{ "name": "SnowRunner.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/638490/Soldat/
 { "name": "soldat.exe", "type": "Game" }
 
@@ -2909,7 +3089,6 @@
 
 # Sonic Adventure 2 https://store.steampowered.com/app/213610/Sonic_Adventure_2/
 { "name": "sonic2app.exe", "type": "Game" }
-{ "name": "Launcher.exe", "type": "Game" }
 
 # Sonic Origins https://store.steampowered.com/app/1794960/Sonic_Origins/
 { "name": "SonicOrigins.exe", "type": "Game" }
@@ -2918,7 +3097,6 @@
 { "name": "SonicColorsUltimate.exe", "type": "Game" }
 
 # Sonic & All-Stars Racing Transformed Collection https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "ASN_App_PcDx9_Final.exe", "type": "Game" }
 
 # Sonic Rumble https://store.steampowered.com/app/2951690/Sonic_Rumble/
@@ -2941,9 +3119,6 @@
 
 # https://store.steampowered.com/app/1377580/Soulworker/
 { "name": "SoulWorker.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/298900/Space_Hulk_Deathwing/
-{ "name": "SpaceHulkGame.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/39540/SpellForce__Platinum_Edition/
 { "name": "SpellForce.exe", "type": "Game" }
@@ -3001,6 +3176,9 @@
 # https://store.steampowered.com/app/2842040/Star_Wars_Outlaws/
 { "name": "Outlaws.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1286830/STAR_WARS_The_Old_Republic/
+{ "name": "swtor.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1283400/Steelrising/
 { "name": "Steelrising.exe", "type": "Game" }
 
@@ -3041,9 +3219,6 @@
 # https://store.steampowered.com/app/21660/Street_Fighter_IV/
 { "name": "StreetFighterIV.exe", "type": "Game" }
 { "name": "SF4Launcher.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/45760/Ultra_Street_Fighter_IV/
-{ "name": "SSFIV.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3290690/Styx_Blades_of_Greed/
 { "name": "Styx3.exe", "type": "Game" }
@@ -3132,12 +3307,17 @@
 # https://store.steampowered.com/app/1934570/South_of_Midnight/
 { "name": "SouthOfMidnight.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/386360/SMITE/
+{ "name": "SmiteEAC.exe", "type": "Game" }
+{ "name": "Smite.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2437170/SMITE_2/
+{ "name": "Hemingway.exe", "type": "Game" }
+{ "name": "Hemingway-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/
 { "name": "StateOfDecay2.exe", "type": "Game" }
 { "name": "StateOfDecay2-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/329430/State_of_Decay_YOSE/
-{ "name": "StateOfDecay.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/241540/State_of_Decay/
 { "name": "StateOfDecay.exe", "type": "Game" }
@@ -3199,8 +3379,27 @@
 # https://store.steampowered.com/app/1591530/SAMURAI_WARRIORS_5/
 { "name": "SW5.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/348470/SAMURAI_WARRIORS_4II/
+{ "name": "SW4II.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/207140/SpeedRunners/
 { "name": "SpeedRunners.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1631270/StarRupture/
+{ "name": "StarRuptureGameSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "StarRuptureGameSteam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/244850/Space_Engineers/
+{ "name": "SpaceEngineers.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1282270/Strinova/
+{ "name": "Strinova.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/258760/Scania_Truck_Driving_Simulator/
+{ "name": "scania_truck_driving_simulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1763250/SWORN/
+{ "name": "SWORN.exe", "type": "Game" }
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
@@ -3274,11 +3473,6 @@
 # https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/
 { "name": "KZ.exe", "type": "Game" }
 { "name": "BBQ-Win64-Shipping.exe", "type": "Game" }
-
-# The Forest https://store.steampowered.com/agecheck/app/242760/The_Forest/
-{ "name": "TheForest.exe", "type": "Game" }
-{ "name": "TheForest32.exe", "type": "Game" }
-{ "name": "TheForestVR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION
 { "name": "kofxiii.exe", "type": "Game" }
@@ -3431,6 +3625,14 @@
 # https://store.steampowered.com/app/58570/The_Next_BIG_Thing/
 { "name": "The Next Big Thing.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/242760/The_Forest/
+{ "name": "TheForest.exe", "type": "Game" }
+{ "name": "TheForest32.exe", "type": "Game" }
+{ "name": "TheForestVR.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/897450/The_Survivalists/
+{ "name": "The Survivalists.exe", "type": "Game" }
+
 ### T ###
 
 # https://store.steampowered.com/app/2545710/Tony_Hawks_Pro_Skater_3__4
@@ -3531,6 +3733,25 @@
 { "name": "TheDivision2.exe", "type": "Game" }
 { "name": "thedivision2launcher.exe", "type": "Game" }
 { "name": "EACLaunch.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2231380/Tom_Clancys_Ghost_Recon_Breakpoint/
+{ "name": "GRB.exe", "type": "Game" }
+{ "name": "GRB_vulkan.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/
+{ "name": "GRW.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/212630/Tom_Clancys_Ghost_Recon_Future_Soldier/
+{ "name": "Future Soldier DX11.exe", "type": "Game" }
+{ "name": "Future Soldier DX9.exe", "type": "Game" }
+{ "name": "Future Soldier.exe", "type": "Game" }
+
+# the other older ghost recon games use the same exe name  https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
+{ "name": "GhostRecon.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+{ "name": "RainbowSix.exe", "type": "Game" }
+{ "name": "RainbowSix_BE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/41500/Torchlight/
 { "name": "Torchlight.exe", "type": "Game" }
@@ -3641,6 +3862,21 @@
 # https://store.steampowered.com/app/1191260/Touken_Ranbu_Warriors/
 { "name": "Touken Ranbu Warriors.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/551730/Toukiden_2/
+{ "name": "Toukiden2_EN.exe", "type": "Game" }
+{ "name": "Toukiden2_JA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/363130/Toukiden_Kiwami/
+{ "name": "ToukidenKiwami_en.exe", "type": "Game" }
+{ "name": "ToukidenKiwami_ja.exe", "type": "Game" }
+{ "name": "ToukidenKiwami_tw.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/4195470/Taimanin_Squad/
+{ "name": "TaimaninSquad.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/302060/Trucks__Trailers/
+{ "name": "trucks_n_trailers.exe", "type": "Game" }
+
 ### U ###
 
 # https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
@@ -3700,6 +3936,7 @@
 
 # https://store.steampowered.com/app/427290/Vampyr/
 { "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Vampyr-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/529340/Victoria_3/
 { "name": "victoria3.exe", "type": "Game" }
@@ -3737,10 +3974,6 @@
 
 # https://store.steampowered.com/app/1063420/Void_Crew/
 { "name": "Void Crew.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/427290/Vampyr/
-{ "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Vampyr-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/338140/Venetica__Gold_Edition/
 { "name": "Venetica.exe", "type": "Game" }
@@ -3866,9 +4099,6 @@
 # https://store.steampowered.com/app/1267540/WRC_9_FIA_World_Rally_Championship/
 { "name": "WRC9.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1267540/WRC_9_FIA_World_Rally_Championship/
-{ "name": "WRC9.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1462810/WRC_10_FIA_World_Rally_Championship/
 { "name": "WRC10.exe", "type": "Game" }
 
@@ -3935,9 +4165,40 @@
 # https://store.steampowered.com/app/1879330/WARRIORS_OROCHI_3_Ultimate_Definitive_Edition/
 { "name": "WO3U.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/831560/WARRIORS_OROCHI_4/
+{ "name": "WO4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/610190/WARRIORS_ALLSTARS/
+{ "name": "Star_JP.exe", "type": "Game" }
+{ "name": "Star_KR.exe", "type": "Game" }
+{ "name": "Star_TW.exe", "type": "Game" }
+{ "name": "Star_US.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1938010/WILD_HEARTS/
 { "name": "WILD HEARTS.exe", "type": "Game" }
 { "name": "WILD HEARTS_Trial.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/784150/Workers__Resources_Soviet_Republic/
+{ "name": "SOVIET.exe", "type": "Game" }
+{ "name": "SOVIET64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/270910/Worms_World_Party_Remastered/
+{ "name": "w2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/217200/Worms_Armageddon/
+{ "name": "WA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/200170/Worms_Revolution/
+{ "name": "WormsRevolution.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/70620/Worms_Crazy_Golf/
+{ "name": "WormsCrazyGolf.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/70650/Worms_Blast/
+{ "name": "WormsBlast.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/70600/Worms_Ultimate_Mayhem/
+{ "name": "WormsMayhem.exe", "type": "Game" }
 
 ### X ###
 ### Y ###
@@ -3994,11 +4255,6 @@
 
 # https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/
 { "name": "masterduel.exe", "type": "Game" }
-{ "name": "game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/
-{ "name": "masterduel.exe", "type": "Game" }
-{ "name": "game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3013550/YuGiOh_EARLY_DAYS_COLLECTION/
 { "name": "yugioh_early_days_collection.exe", "type": "Game" }
@@ -4012,6 +4268,12 @@
 
 # https://store.steampowered.com/app/205840/Yesterday/
 { "name": "oalinst.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/252230/YAIBA_NINJA_GAIDEN_Z/
+{ "name": "NRZGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/334940/Yokus_Island_Express/
+{ "name": "Yoku.exe", "type": "Game" }
 
 ### Z ###
 

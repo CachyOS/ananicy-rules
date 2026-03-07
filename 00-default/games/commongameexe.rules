@@ -8,8 +8,20 @@
 # https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
 { "name": "game.exe", "type": "Game" }
 
+# Sonic Adventure 2 Sonic & All-Stars Racing
+{ "name": "Launcher.exe", "type": "Game" }
+
+# Football Manager Series
+{ "name": "fm.exe", "type": "Game" }
+{ "name": "Berkelium.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
+
+# Some KOEI TECMO Franchise's Game's
+{ "name": "Launch.exe", "type": "Game" }
+{ "name": "Launch_EA.exe", "type": "Game" }
+{ "name": "Launch_JP.exe", "type": "Game" }
 
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
