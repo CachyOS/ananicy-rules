@@ -3101,6 +3101,11 @@
 # https://store.steampowered.com/app/3221770/Sin_Spire/
 { "name": "SinSpire.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/312660/Sniper_Elite_4/
+{ "name": "SniperElite4.exe", "type": "Game" }
+{ "name": "SniperElite4_DX11.exe", "type": "Game" }
+{ "name": "SniperElite4_DX12.exe", "type": "Game" }
+
 # Sniper Elite 5 https://store.steampowered.com/app/1029690/Sniper_Elite_5/
 { "name": "sniper5_dx12.exe", "type": "Game" }
 { "name": "sniper5_vulkan.exe", "type": "Game" }
