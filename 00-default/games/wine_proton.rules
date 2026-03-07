@@ -2119,6 +2119,10 @@
 # https://store.steampowered.com/app/12130/Manhunt/
 { "name": "manhunt.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/368260/Marvels_Midnight_Suns/
+{ "name": "MidnightSuns.exe", "type": "Game" }
+{ "name": "MidnightSuns-Win64-shipping.exe.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2767030/Marvel_Rivals/
 { "name": "Marvel.exe", "type": "Game" }
 { "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
