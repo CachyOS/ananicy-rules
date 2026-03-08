@@ -246,10 +246,12 @@
 # https://store.steampowered.com/app/1158850/The_Great_Ace_Attorney_Chronicles/
 { "name": "TGAAC.exe", "type": "Game" }
 
-# The Joy of Creation: Story Mode https://gamejolt.com/games/tjocsm/139218
+# The Joy of Creation https://gamejolt.com/games/tjocsm/139218
 # This is a FNAF (Five Nights at Freddy's) fangame
 { "name": "TJoC_SM.exe", "type": "Game" }
 { "name": "TJoC_SM-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TJoC_R.exe", "type": "Game" }
+{ "name": "UE4Game-Win64-Shipping.exe", "type": "Game" }
 
 ### T ###
 
