@@ -1249,6 +1249,9 @@
 # https://store.steampowered.com/app/2135150/Elin/
 { "name": "Elin.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2057760/Esoteric_Ebb/
+{ "name": "Esoteric Ebb.exe", "type": "Game" }
+
 ### F ###
 
 # https://store.steampowered.com/app/288470/Fable_Anniversary
@@ -1556,6 +1559,8 @@
 
 # https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
 { "name": "PlayGTAV.exe", "type": "Game" }
+{ "name": "GTA5_Enhanced.exe", "type": "Game" }
+{ "name": "GTA5_Enhanced_BE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/12120/Grand_Theft_Auto_San_Andreas/
 { "name": "gta-sa.exe", "type": "Game" }
@@ -1572,8 +1577,9 @@
 # https://store.steampowered.com/app/219990/Grim_Dawn/
 { "name": "Grim Dawn.exe", "type": "Game" }
 
-# Grounded, https://store.steampowered.com/app/962130/Grounded/
+# https://store.steampowered.com/app/962130/Grounded/
 { "name": "Maine-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Grounded.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2661300/Grounded_2/
 { "name": "Grounded2-WinGRTS-Shipping.exe", "type": "Game" }
@@ -1650,7 +1656,7 @@
 # https://store.steampowered.com/app/1145350/Hades_II/
 { "name": "Hades2.exe", "type": "Game" }
 
-# Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
+# https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2397300/Half_Sword/
@@ -1762,7 +1768,7 @@
 # https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
 { "name": "HorizonForbiddenWest.exe", "type": "Game" }
 
-# Horizon Zero Dawn https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
+# https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
 { "name": "HorizonZeroDawn.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2561580/Horizon_Zero_Dawn_Remastered/
@@ -1829,6 +1835,7 @@
 
 # https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Icarus.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/15320/IL2_Sturmovik_1946/
 { "name": "il2fb.exe", "type": "Game" }
@@ -2708,6 +2715,10 @@
 { "name": "QuantumBreak.exe", "type": "Game" }
 
 ### R ###
+
+# https://store.steampowered.com/app/252490/Rust/
+{ "name": "Rust.exe", "type": "Game" }
+{ "name": "RustClient.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
