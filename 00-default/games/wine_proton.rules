@@ -17,7 +17,7 @@
 # https://store.steampowered.com/app/668550/8Doors_Arums_Afterlife_Adventure/
 { "name": "8Doors.exe", "type": "Game" }
 
-### 10 ###
+### 10 ##
 
 # https://store.steampowered.com/app/477010/10_Minute_Tower/
 { "name": "10MinuteTower.exe", "type": "Game" }
@@ -373,17 +373,30 @@
 # https://store.steampowered.com/app/1210150/Ageless/
 { "name": "Ageless.exe", "type": "Game" }
 
+<<<<<<< HEAD
 # https://store.steampowered.com/app/984800/Automachef/
 { "name": "Automachef.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/484900/Aven_Colony/
 { "name": "AvenColony.exe", "type": "Game" }
 
+=======
+# https://store.steampowered.com/app/484900/Aven_Colony/
+{ "name": "AvenColony.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/984800/Automachef/
+{ "name": "Automachef.exe", "type": "Game" }
+
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 # https://store.steampowered.com/app/22670/Alien_Breed_3_Descent/
 { "name": "AlienBreed3Descent.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22650/Alien_Breed_2_Assault/
+<<<<<<< HEAD
 { "name": "AlienBreed2AssaultGame", "type": "Game" }
+=======
+{ "name": "AlienBreed2Assault.exe", "type": "Game" }
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 
 # https://store.steampowered.com/app/22610/Alien_Breed_Impact/
 { "name": "AlienBreed-Impact.exe", "type": "Game" }
@@ -1250,6 +1263,9 @@
 # https://store.steampowered.com/app/2135150/Elin/
 { "name": "Elin.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2057760/Esoteric_Ebb/
+{ "name": "Esoteric Ebb.exe", "type": "Game" }
+
 ### F ###
 
 # https://store.steampowered.com/app/288470/Fable_Anniversary
@@ -1453,9 +1469,6 @@
 { "name": "FarmingSimulator2011.exe", "type": "Game" }
 { "name": "FarmingSimulator2011Game.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/940580/FIA_European_Truck_Racing_Championship/
-{ "name": "TruckRacer.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/505460/Foxhole/
 { "name": "War.exe", "type": "Game" }
 { "name": "War-Win64-Shipping.exe", "type": "Game" }
@@ -1560,6 +1573,8 @@
 
 # https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
 { "name": "PlayGTAV.exe", "type": "Game" }
+{ "name": "GTA5_Enhanced.exe", "type": "Game" }
+{ "name": "GTA5_Enhanced_BE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/12120/Grand_Theft_Auto_San_Andreas/
 { "name": "gta-sa.exe", "type": "Game" }
@@ -1576,8 +1591,9 @@
 # https://store.steampowered.com/app/219990/Grim_Dawn/
 { "name": "Grim Dawn.exe", "type": "Game" }
 
-# Grounded, https://store.steampowered.com/app/962130/Grounded/
+# https://store.steampowered.com/app/962130/Grounded/
 { "name": "Maine-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Grounded.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2661300/Grounded_2/
 { "name": "Grounded2-WinGRTS-Shipping.exe", "type": "Game" }
@@ -1640,9 +1656,12 @@
 # https://store.steampowered.com/app/3478870/GeoGuessr_Steam_Edition/
 { "name": "GeoGuessr.exe", "type": "Game" }
 
+<<<<<<< HEAD
 # https://store.steampowered.com/app/1154810/Going_Under/
 { "name": "Going Under.exe", "type": "Game" }
 
+=======
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 # https://store.steampowered.com/app/712190/Genesis_Alpha_One_Deluxe_Edition/
 { "name": "Genesis.exe", "type": "Game" }
 
@@ -1657,7 +1676,7 @@
 # https://store.steampowered.com/app/1145350/Hades_II/
 { "name": "Hades2.exe", "type": "Game" }
 
-# Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
+# https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2397300/Half_Sword/
@@ -1769,7 +1788,7 @@
 # https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
 { "name": "HorizonForbiddenWest.exe", "type": "Game" }
 
-# Horizon Zero Dawn https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
+# https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/
 { "name": "HorizonZeroDawn.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2561580/Horizon_Zero_Dawn_Remastered/
@@ -1836,6 +1855,7 @@
 
 # https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Icarus.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/15320/IL2_Sturmovik_1946/
 { "name": "il2fb.exe", "type": "Game" }
@@ -2079,7 +2099,10 @@
 
 # https://store.steampowered.com/app/532270/Lethal_VR/
 { "name": "LethalVR.exe", "type": "Game" }
+<<<<<<< HEAD
 { "name": "LethalVR-Win64-Shipping.exe", "type": "Game" }
+=======
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 
 # https://store.steampowered.com/app/278810/LA_Cops/
 { "name": "lacops.exe", "type": "Game" }
@@ -2330,6 +2353,12 @@
 # https://store.steampowered.com/app/1367080/MOBILE_SUIT_GUNDAM_BATTLE_OPERATION_2/
 { "name": "MSGBO2.exe", "type": "Game" }
 
+<<<<<<< HEAD
+=======
+# https://store.steampowered.com/app/1641700/Moving_Out_2/
+{ "name": "mo2.exe", "type": "Game" }
+
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 # https://store.steampowered.com/app/996770/Moving_Out/
 { "name": "MovingOut.exe", "type": "Game" }
 
@@ -2455,8 +2484,13 @@
 # https://store.steampowered.com/app/788100/Neon_Abyss/
 { "name": "NeonAbyss.exe", "type": "Game"}
 
+<<<<<<< HEAD
 # https://store.steampowered.com/app/2393160/Nice_Day_for_Fishing/
 { "name": "NiceDayForFishing.exe", "type": "Game"}
+=======
+# https://store.steampowered.com/app/2235200/Neon_Abyss_2/
+{ "name": "NeonAbyss2.exe", "type": "Game"}
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 
 ### O ###
 
@@ -2714,6 +2748,10 @@
 
 ### R ###
 
+# https://store.steampowered.com/app/252490/Rust/
+{ "name": "Rust.exe", "type": "Game" }
+{ "name": "RustClient.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
 { "name": "RRREWebBrowser.exe", "type": "Game" }
@@ -2950,7 +2988,10 @@
 
 # https://store.steampowered.com/app/1843840/Rogue_Point/
 { "name": "Tango.exe", "type": "Game" }
+<<<<<<< HEAD
 { "name": "Tango-Win64-Shipping.exe", "type": "Game" }
+=======
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 
 # https://store.steampowered.com/app/2066520/Ritual_of_Raven/
 { "name": "RitualofRaven.exe", "type": "Game" }
@@ -3323,7 +3364,11 @@
 { "name": "StateOfDecay2.exe", "type": "Game" }
 { "name": "StateOfDecay2-Win64-Shipping.exe", "type": "Game" }
 
+<<<<<<< HEAD
 # https://store.steampowered.com/app/329430/State_of_Decay_YOSE/
+=======
+# https://store.steampowered.com/app/241540/State_of_Decay/
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 { "name": "StateOfDecay.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/847370/Sunset_Overdrive/
@@ -3478,11 +3523,6 @@
 { "name": "KZ.exe", "type": "Game" }
 { "name": "BBQ-Win64-Shipping.exe", "type": "Game" }
 
-# The Forest https://store.steampowered.com/agecheck/app/242760/The_Forest/
-{ "name": "TheForest.exe", "type": "Game" }
-{ "name": "TheForest32.exe", "type": "Game" }
-{ "name": "TheForestVR.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/222940/THE_KING_OF_FIGHTERS_XIII_STEAM_EDITION
 { "name": "kofxiii.exe", "type": "Game" }
 
@@ -3633,6 +3673,9 @@
 
 # https://store.steampowered.com/app/58570/The_Next_BIG_Thing/
 { "name": "The Next Big Thing.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/897450/The_Survivalists/
+{ "name": "The Survivalists.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/897450/The_Survivalists/
 { "name": "The Survivalists.exe", "type": "Game" }
@@ -4256,7 +4299,10 @@
 
 # https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/
 { "name": "masterduel.exe", "type": "Game" }
+<<<<<<< HEAD
 { "name": "game.exe", "type": "Game" }
+=======
+>>>>>>> 6a8dfe7e6517d28238920ceff6f3c4ec6d238187
 
 # https://store.steampowered.com/app/3013550/YuGiOh_EARLY_DAYS_COLLECTION/
 { "name": "yugioh_early_days_collection.exe", "type": "Game" }
