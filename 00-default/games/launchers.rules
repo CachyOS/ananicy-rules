@@ -54,6 +54,11 @@
 { "name": "Link2EA.exe", "type": "BG_CPUIO" }
 { "name": "OriginLegacyCompatibility.exe", "type": "BG_CPUIO" }
 
+# Prism Launcher; Used to launch minecraft (https://github.com/PrismLauncher/PrismLauncher)
+{ "name": "prismlauncher", "type": "Game" }
+# https://github.com/ElyPrismLauncher/ElyPrismLauncher
+{ "name": "elyprismlauncher", "type": "Game" }
+
 # integrated web engine
 { "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
 

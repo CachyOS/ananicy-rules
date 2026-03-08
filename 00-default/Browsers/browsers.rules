@@ -1,7 +1,6 @@
 ### Chromium-Based Browsers ###
 
 # Brave - https://brave.com/
-{ "name": "/usr/lib/brave-bin/brave", "type": "Doc-View" }
 { "name": "brave", "type": "Doc-View" }
 { "name": "brave-bin", "type": "Doc-View" }
 { "name": "brave-browser", "type": "Doc-View" }
