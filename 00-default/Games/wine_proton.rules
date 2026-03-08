@@ -379,12 +379,6 @@
 # https://store.steampowered.com/app/484900/Aven_Colony/
 { "name": "AvenColony.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/484900/Aven_Colony/
-{ "name": "AvenColony.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/984800/Automachef/
-{ "name": "Automachef.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/22670/Alien_Breed_3_Descent/
 { "name": "AlienBreed3Descent.exe", "type": "Game" }
 
@@ -406,9 +400,6 @@
 
 # https://store.steampowered.com/app/1239320/Animal_Shelter/
 { "name": "Animal Shelter.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2401970/Ace_Attorney_Investigations_Collection/
-{ "name": "GK12.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2401970/Ace_Attorney_Investigations_Collection/
 { "name": "GK12.exe", "type": "Game" }
@@ -1684,9 +1675,6 @@
 # https://store.steampowered.com/app/4000/Garrys_Mod/
 { "name": "gmod.exe", "type": "Game" }
 
-# Gas Station Simulator https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
-{ "name": "GSS2.exe", "type": "Game" }
-
 # GenshinImpact Chinese version https://genshin.hoyoverse.com/en/
 { "name": "YuanShen.exe", "type": "Game" }
 
@@ -1870,8 +1858,6 @@
 { "name": "Ghost Trick.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
-{ "name": "Gw.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
 { "name": "Gw.exe", "type": "Game" }
 
@@ -2578,9 +2564,6 @@
 # https://store.steampowered.com/app/3328910/MySims_Kingdom/
 { "name": "MySimsKingdom.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2603040/MXGP_24_The_Official_Game/
-{ "name": "MXGP.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1209360/Monster_Truck_Championship/
 { "name": "MonsterTruck.exe", "type": "Game" }
 { "name": "MonsterTruck-Win64-Shipping.exe", "type": "Game" }
@@ -2879,10 +2862,6 @@
 # https://store.steampowered.com/app/1147690/NGU_IDLE/
 { "name": "NGUIdle.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
-{ "name": "Necromunda.exe", "type": "Game"}
-{ "name": "Necromunda-Win64-Shipping.exe", "type": "Game"}
-
 # https://store.steampowered.com/app/1336980/NOBUNAGAS_AMBITION_Awakening/
 { "name": "NOBU16.exe", "type": "Game"}
 
@@ -2921,6 +2900,7 @@
 { "name": "NoImNotAHuman.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/566440/Necromunda_Underhive_Wars/
+# https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
 { "name": "Necromunda.exe", "type": "Game"}
 { "name": "Necromunda-Win64-Shipping.exe", "type": "Game"}
 
@@ -2991,9 +2971,6 @@
 { "name": "Overcooked.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/753640/Outer_Wilds/
-{ "name": "OuterWilds.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/558990/Opus_Magnum/
 { "name": "OuterWilds.exe", "type": "Game" }
 
 ### P ###
@@ -3465,6 +3442,7 @@
 { "name": "RSDragonwilds-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3949040/RV_There_Yet/
+# https://store.steampowered.com/app/345660/RIDE/
 { "name": "Ride.exe", "type": "Game" }
 { "name": "Ride-Win64-Shipping.exe", "type": "Game" }
 
@@ -3489,7 +3467,6 @@
 { "name": "Ride2X64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/345660/RIDE/
-{ "name": "Ride.exe", "type": "Game" }
 { "name": "RideX64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2333480/RAID_Shadow_Legends/
@@ -3704,10 +3681,6 @@
 { "name": "AnomalyDX8AVX.exe", "type": "Game" }
 { "name": "AnomalyDX8.exe", "type": "Game" }
 { "name": "AnomalyLauncher.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
-# https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
-{ "name": "xrEngine.exe", "type": "Game" }
 
 # Stalker:SoC https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/
 { "name": "XR_3DA.exe", "type": "Game" }
@@ -4255,9 +4228,6 @@
 # https://store.steampowered.com/app/897450/The_Survivalists/
 { "name": "The Survivalists.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/897450/The_Survivalists/
-{ "name": "The Survivalists.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1783560/The_Last_Caretaker/
 { "name": "Voyage.exe", "type": "Game" }
 
@@ -4291,9 +4261,6 @@
 #  https://store.steampowered.com/app/1167630/Teardown/
 { "name": "teardown.exe", "type": "Game" }
 { "name": "teardown_modtest.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1486920/Tempest_Rising
-{ "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2510960/Temtem_Swarm/
 { "name": "TemtemSwarm.exe", "type": "Game" }
@@ -4719,9 +4686,6 @@
 # https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
 { "name": "WH40KRT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/4570/Warhammer_40000_Dawn_of_War__Anniversary_Edition/
-{ "name": "W40k.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1031140/Warhammer_The_Horus_Heresy_Legions/
 { "name": "HorusHeresyLegions.exe", "type": "Game" }
 
@@ -4901,9 +4865,6 @@
 # https://store.steampowered.com/app/679110/Werewolf_The_Apocalypse__Earthblood/
 { "name": "WW.exe", "type": "Game" }
 { "name": "WW-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/774241/Warhammer_Chaosbane/
-{ "name": "Chaosbane.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1233590/Warhammer_Age_of_Sigmar_Storm_Ground/
 { "name": "StormGround.exe", "type": "Game" }
