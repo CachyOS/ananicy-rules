@@ -1,3 +1,7 @@
+# Anytype is the encrypted, local-first and P2P alternative to Notion: https://anytype.io/
+{ "name": "anytype", "type": "Doc-View" }
+{ "name": "anytypeHelper", "type": "Doc-View" }
+
 { "name": "atom", "type": "Doc-View" }
 { "name": "pulsar", "type": "Doc-View" }
 
@@ -77,3 +81,6 @@
 
 # RustRover: An IDE for Rust. https://www.jetbrains.com/rust/
 { "name": "rustrover", "type": "Heavy_CPU" }
+
+# Mochi is a note-taking and spaced-repetition flashcard app, built on top of Markdown. 
+{ "name": "mochi", "type": "Doc-View" }

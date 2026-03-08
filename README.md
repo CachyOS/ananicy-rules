@@ -11,7 +11,7 @@ This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS
 You can add your favorite games, apps, and more. Any help would be greatly appreciated!  
 **For example, let's say you want to add a game:**
 1. Go to [00-default](https://github.com/CachyOS/ananicy-rules/tree/master/00-default)
-2. Go to [games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/games)
+2. Go to [Games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games)
 3. Navigate to the desired folder depending on:
 	- Game is meant to be ran under with Proton: `ẁine_proton` - *Open the corresponding file depending on the letter.*
 	- Provides a native version for Linux: `steam-native` - *Open the corresponding file depending on the letter.*
@@ -53,6 +53,8 @@ Here is a list of tools
 - [btop](https://github.com/aristocratos/btop)
 ### GUI
 - System Monitor [KDE Plasma](https://apps.kde.org/plasma-systemmonitor/) or [GNOME](https://help.gnome.org/users/gnome-system-monitor/)
+
+**Don't use absolute paths for the executables. Process name alone is enough.**
 
 ## [GameMode](https://github.com/FeralInteractive/gamemode) + [ananicy-cpp](https://gitlab.com/ananicy-cpp/ananicy-cpp) = bad idea
 GameMode and ananicy-cpp both adjust the nice levels of processes. However, combining both tools is not recommended, and we strongly advise against doing so.

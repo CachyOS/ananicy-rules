@@ -55,6 +55,11 @@
 { "name": "mesen", "type": "Game" }
 { "name": "mesen-git", "type": "Game" }
 
+# Multi-system emulator
+# https://github.com/higan-emu/higan
+{ "name": "higan", "type": "Game" }
+
+
 # Adventure Game Engine ScummVM
 { "name": "scummvm", "type": "Game" }
 
