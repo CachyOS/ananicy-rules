@@ -1,5 +1,5 @@
 # Ananicy-cpp-rules for CachyOS
-This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS team.
+This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS team and the community.
 
 ## Ananicy-cpp & ananicy-cpp-rules
 - **[ananicy-cpp](https://gitlab.com/ananicy-cpp/ananicy-cpp)** - daemon that automatically adjusts the nice levels of processes.
@@ -7,32 +7,43 @@ This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS
 > The nice value determines the priority of a process, with higher values indicating lower priority and making the process "nicer" to other processes. By default, on Linux workstations, the nice value is set to 0.
 
 ## How to contribute
+
 You can add your favorite games, apps, and more. Any help would be greatly appreciated!  
-**For example, let's say you want to add a game.**
+**For example, let's say you want to add a game:**
 1. Go to [00-default](https://github.com/CachyOS/ananicy-rules/tree/master/00-default)
 2. Go to [games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/games)
-3. Create a new file with the same name as your game, for example, `gamename.rules`
+3. Navigate to the desired folder depending on:
+	- Game is meant to be ran under with Proton: `ẁine_proton` - *Open the corresponding file depending on the letter.*
+	- Provides a native version for Linux: `steam-native` - *Open the corresponding file depending on the letter.*
+	- External Game or Client not found on Steam: `linux-native-nonSteam`
+4. Open the corresponding file depending on the letter.
+5. Follow the examples from below.
 
 ### Examples of rules
 The **first example** is simple. In the **second example**, it is different because some games generate multiple processes. In such cases, you need to add all the processes related to the game.
 
-#### 1. [Example rule for Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/68a0f5f2d83fefb657ac0db8e0c8848609b319e4/00-default/games/wine_proton.rules#L617)
+#### 1. Example rule for Just Cause 2
+
 ```
 # https://store.steampowered.com/app/8190/Just_Cause_2/
 { "name": "JustCause2.exe", "type": "Game" }
 ```
-#### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/68a0f5f2d83fefb657ac0db8e0c8848609b319e4/00-default/games/wine_proton.rules#L1144)
+
+#### 2. Example rules for The Outer Worlds
+
 ```
 # https://store.steampowered.com/app/578650/The_Outer_Worlds/
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheOuterWorlds.exe", "type": "Game" }
 ```
 
-#### 3. [Example rules for Portal 2 which is Linux native game](https://github.com/CachyOS/ananicy-rules/blob/68a0f5f2d83fefb657ac0db8e0c8848609b319e4/00-default/games/steam-native.rules#L256)
+#### 3. Example rules for Portal 2 which is Linux native game
+
 ```
 # https://store.steampowered.com/app/620/Portal_2/
 { "name": "portal2_linux", "type": "Game" }
 ```
+
 ### <u>You can also contribute by opening an [issue](https://github.com/CachyOS/ananicy-rules/issues) and providing information about the application </u>
 **Make sure the app is not already in the repository before opening an issue.**
 ## How to find out proper process name?

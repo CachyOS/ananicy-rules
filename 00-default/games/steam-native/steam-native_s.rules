@@ -1,0 +1,127 @@
+### S ###
+
+# https://store.steampowered.com/app/564310/Serious_Sam_Fusion_2017_beta/
+{ "name": "Sam2017", "type": "Game" }
+
+# http://store.steampowered.com/app/41070/Serious_Sam_3_BFE/
+{ "name": "Sam3", "type": "Game" }
+
+# http://store.steampowered.com/app/212070/Star_Conflict/
+{ "name": "StarConflict", "type": "Game" }
+
+# http://store.steampowered.com/app/233720/Surgeon_Simulator/
+{ "name": "ss2013.bin", "type": "Game" }
+
+# http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
+{ "name": "SaintsRow4.i386", "type": "Game" }
+
+# https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
+{ "name": "ShadowOfTheTombRaider", "type": "Game" }
+
+# http://store.steampowered.com/app/233130/Shadow_Warrior/
+{ "name": "ShadowWarrior.bin.x86", "type": "Game" }
+
+# https://store.steampowered.com/app/225840/Sven_Coop/
+{ "name": "svencoop_linux", "type": "Game" }
+
+# https://store.steampowered.com/app/677620/Splitgate/
+{ "name": "PortalWars-Linux-Shipping", "type": "Game" }
+
+# https://store.steampowered.com/app/211820/Starbound/
+{ "name": "starbound", "type": "Game" }
+
+# https://store.steampowered.com/app/300550/Shadowrun_Dragonfall__Directors_Cut/
+{ "name": "Dragonfall", "type": "Game" }
+
+# https://store.steampowered.com/app/346940/Shadowrun_Hong_Kong__Extended_Edition/
+{ "name": "SRHK", "type": "Game" }
+
+# https://store.steampowered.com/app/294440/Shadowgate/
+{ "name": "Shadowgate.x86", "type": "Game" }
+
+# https://store.steampowered.com/app/278460/Skyborn/
+{ "name": "Skyborn.amd64", "type": "Game" }
+
+# https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/
+{ "name": "ShovelKnight", "type": "Game" }
+
+# https://store.steampowered.com/app/96200/Steel_Storm_Burning_Retribution/
+{ "name": "steelstorm64", "type": "Game" }
+
+# https://store.steampowered.com/app/404100/STEEL_STRIDER/
+{ "name": "SteelStrider.x86", "type": "Game" }
+
+# https://store.steampowered.com/app/413150/Stardew_Valley/
+{ "name": "Stardew Valley", "type": "Game" }
+
+# https://store.steampowered.com/app/2066020/Soulstone_Survivors/
+{ "name": "Soulstone-Survivors.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/282140/SOMA/
+{ "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
+{ "name": "Soma.bin.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/322500/SUPERHOT/
+{ "name": "SUPERHOT.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
+{ "name": "SUPERHOTMCD.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/1592280/Selaco/
+{ "name": "Selaco.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/326460/ShellShock_Live/
+{ "name": "ShellShockLive.x64", "type": "Game" }
+
+# https://store.steampowered.com/app/207140/SpeedRunners/
+{ "name": "SpeedRunners.bin.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/2868840/Slay_the_Spire_2/
+{ "name": "SlayTheSpire2", "type": "Game" }
+
+# https://store.steampowered.com/app/646570/Slay_the_Spire/
+{ "name": "SlayTheSpire", "type": "Game" }
+
+# https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/
+{ "name": "CivBE", "type": "Game" }
+
+# https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/
+{ "name": "Civ7_linux_Vulkan_FinalRelease", "type": "Game" }
+
+# https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/
+{ "name": "Civ6", "type": "Game" }
+
+# https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/
+{ "name": "Civ5XP", "type": "Game" }
+
+# https://store.steampowered.com/app/281990/Stellaris/
+{ "name": "stellaris", "type": "Game" }
+
+# https://store.steampowered.com/app/275670/Space_Run/
+{ "name": "oSpaceGameMerged", "type": "Game" }
+
+# https://store.steampowered.com/app/3117820/Sultans_Game/
+{ "name": "Sultan's Game.x86_64", "type": "Game" }
+
+### The ###
+# There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
+
+# https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
+{ "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
+
+# https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
+{ "name": "isaac.i386", "type": "Game" }
+{ "name": "isaac.x64", "type": "Game" }
+
+# https://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/
+{ "name": "TheEternalCastle", "type": "Game" }
+
+# https://store.steampowered.com/app/231160/The_Swapper/
+{ "name": "TheSwapper.bin.x86", "type": "Game" }
+{ "name": "TheSwapper.bin.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
+{ "name": "witcher2", "type": "Game" }
+
+# https://store.steampowered.com/app/305620/The_Long_Dark/
+{ "name": "tld.x86_64", "type": "Game" }
