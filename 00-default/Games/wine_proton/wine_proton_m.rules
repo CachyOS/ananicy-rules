@@ -16,6 +16,10 @@
 # https://store.steampowered.com/app/12130/Manhunt/
 { "name": "manhunt.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/368260/Marvels_Midnight_Suns/
+{ "name": "MidnightSuns.exe", "type": "Game" }
+{ "name": "MidnightSuns-Win64-shipping.exe.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2767030/Marvel_Rivals/
 { "name": "Marvel.exe", "type": "Game" }
 { "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
@@ -87,6 +91,9 @@
 
 # https://store.steampowered.com/app/1061910/Metal_Hellsinger/
 { "name": "Metal.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/
+{ "name": "METAPHOR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
@@ -370,6 +377,7 @@
 { "name": "MXGP_2X64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/256370/MXGP__The_Official_Motocross_Videogame/
+# https://store.steampowered.com/app/2603040/MXGP_24_The_Official_Game/
 { "name": "MXGP.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2350280/Monster_Jam_Showdown/

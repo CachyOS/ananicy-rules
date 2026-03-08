@@ -60,14 +60,23 @@
 # PEAK https://store.steampowered.com/app/3527290/PEAK/
 { "name": "PEAK.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1809700/Persona_3_Portable/
+{ "name": "P3P.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2161700/Persona_3_Reload/
 { "name": "P3R.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1113000/Persona_4_Golden/
 { "name": "P4G.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1602010/Persona_4_Arena_Ultimax/
+{ "name": "P4U2.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1687950/Persona_5_Royal/
 { "name": "P5R.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2254740/Persona_5_Tactica/
+{ "name": "Persona 5 Tactica.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3061570/Persona5_The_Phantom_X/
 { "name": "P5X.exe", "type": "Game" }
@@ -98,6 +107,12 @@
 
 # https://store.steampowered.com/app/494430/Praey_for_the_Gods/
 { "name": "Praey For the Gods.exe", "type": "Game" }
+
+# PRAGMATA DEMO https://store.steampowered.com/app/3357650/PRAGMATA/
+{ "name": "PRAGMATA_SKETCHBOOK.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2751000/Prince_of_Persia_The_Lost_Crown/
+{ "name": "TheLostCrown.exe", "type": "Game" }
 
 # Pro Evolution Soccer 6
 { "name": "PES6.exe", "type": "Game" }

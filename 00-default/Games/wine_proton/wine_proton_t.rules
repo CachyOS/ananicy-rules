@@ -8,6 +8,9 @@
 # https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac-ng.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/491540/The_Bus/
+{ "name": "TheBus.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1544020/The_Callisto_Protocol/
 { "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheCallistoProtocol.exe", "type": "Game" }
@@ -222,6 +225,11 @@
 # https://store.steampowered.com/app/58570/The_Next_BIG_Thing/
 { "name": "The Next Big Thing.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/242760/The_Forest/
+{ "name": "TheForest.exe", "type": "Game" }
+{ "name": "TheForest32.exe", "type": "Game" }
+{ "name": "TheForestVR.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/897450/The_Survivalists/
 { "name": "The Survivalists.exe", "type": "Game" }
 
@@ -273,6 +281,9 @@
 
 # https://store.steampowered.com/app/239160/Thief/
 { "name": "Shipping-ThiefGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1785650/TopSpin_2K25/
+{ "name": "topspin2k25.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/211740/Thief_II_The_Metal_Age/
 # https://www.ttlg.com/forums/showthread.php?t=146448/
@@ -432,12 +443,18 @@
 # https://store.steampowered.com/app/539280/Tetraminos/
 { "name": "Tetraminos.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/256070/Truck_Racer/
+{ "name": "TruckRacer.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2458830/Towerborne/
 { "name": "Belfry.exe", "type": "Game" }
 { "name": "Belfry-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1180660/Tell_Me_Why/
 { "name": "TME-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/
+{ "name": "Three_Kingdoms.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/214950/Total_War_ROME_II__Emperor_Edition/
 { "name": "Rome2.exe", "type": "Game" }
@@ -475,6 +492,9 @@
 
 # https://store.steampowered.com/app/302060/Trucks__Trailers/
 { "name": "trucks_n_trailers.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1649080/Two_Point_Campus/
+{ "name": "TPC.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/585420/Trailmakers/
 { "name": "Trailmakers.exe", "type": "Game" }
@@ -529,6 +549,9 @@
 # https://store.steampowered.com/app/530070/Train_Sim_World_2020/
 { "name": "TS2Prototype.exe", "type": "Game" }
 { "name": "TS2Prototype-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2185060/Two_Point_Museum/
+{ "name": "TPM.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/873840/Truck__Logistics_Simulator/
 { "name": "Truck & Logistics Simulator.exe", "type": "Game" }
