@@ -85,10 +85,6 @@
 # https://store.steampowered.com/app/1147690/NGU_IDLE/
 { "name": "NGUIdle.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
-{ "name": "Necromunda.exe", "type": "Game"}
-{ "name": "Necromunda-Win64-Shipping.exe", "type": "Game"}
-
 # https://store.steampowered.com/app/1336980/NOBUNAGAS_AMBITION_Awakening/
 { "name": "NOBU16.exe", "type": "Game"}
 
@@ -117,5 +113,20 @@
 # https://store.steampowered.com/app/788100/Neon_Abyss/
 { "name": "NeonAbyss.exe", "type": "Game"}
 
+# https://store.steampowered.com/app/2393160/Nice_Day_for_Fishing/
+{ "name": "NiceDayForFishing.exe", "type": "Game"}
+
 # https://store.steampowered.com/app/2235200/Neon_Abyss_2/
 { "name": "NeonAbyss2.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3180070/No_Im_not_a_Human/
+{ "name": "NoImNotAHuman.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/566440/Necromunda_Underhive_Wars/
+# https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
+{ "name": "Necromunda.exe", "type": "Game"}
+{ "name": "Necromunda-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3873970/NASCAR_25/
+{ "name": "NASCAR25_Steam.exe", "type": "Game"}
+{ "name": "NASCAR25_Steam-Win64-Shipping.exe", "type": "Game"}

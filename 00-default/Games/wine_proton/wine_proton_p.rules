@@ -60,14 +60,8 @@
 # PEAK https://store.steampowered.com/app/3527290/PEAK/
 { "name": "PEAK.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1809700/Persona_3_Portable/
-{ "name": "P3P.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2161700/Persona_3_Reload/
 { "name": "P3R.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1602010/Persona_4_Arena_Ultimax/
-{ "name": "P4U2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1113000/Persona_4_Golden/
 { "name": "P4G.exe", "type": "Game" }
@@ -75,8 +69,8 @@
 # https://store.steampowered.com/app/1687950/Persona_5_Royal/
 { "name": "P5R.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2254740/Persona_5_Tactica/
-{ "name": "Persona 5 Tactica.exe", "type": "Game" }
+# https://store.steampowered.com/app/3061570/Persona5_The_Phantom_X/
+{ "name": "P5X.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
 { "name": "pso2.exe", "type": "Game" }
@@ -104,12 +98,6 @@
 
 # https://store.steampowered.com/app/494430/Praey_for_the_Gods/
 { "name": "Praey For the Gods.exe", "type": "Game" }
-
-# PRAGMATA DEMO https://store.steampowered.com/app/3357650/PRAGMATA/
-{ "name": "PRAGMATA_SKETCHBOOK.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2751000/Prince_of_Persia_The_Lost_Crown/
-{ "name": "TheLostCrown.exe", "type": "Game" }
 
 # Pro Evolution Soccer 6
 { "name": "PES6.exe", "type": "Game" }
@@ -191,11 +179,30 @@
 # https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/
 { "name": "PlantsVsZombies.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2688950/Planet_Coaster_2/
-{ "name": "PlanetCoaster2.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/703080/Planet_Zoo/
 { "name": "PlanetZoo.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/485030/PLANET_ALPHA/
 { "name": "PlanetAlpha.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2997230/Planet_of_Lana_II/
+{ "name": "Planet of Lana 2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1608230/Planet_of_Lana/
+{ "name": "Planet of Lana.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/997010/Police_Simulator_Patrol_Officers/
+{ "name": "Boston.exe", "type": "Game" }
+{ "name": "Boston-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2688950/Planet_Coaster_2/
+{ "name": "PlanetCoaster2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2524890/Pixel_Gun_3D_PC_Edition/
+{ "name": "Pixel Gun 3D.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/
+{ "name": "PWAAT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1290000/PowerWash_Simulator/
+{ "name": "PowerWashSimulator.exe", "type": "Game" }

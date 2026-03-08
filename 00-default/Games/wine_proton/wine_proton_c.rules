@@ -127,9 +127,6 @@
 # https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/
 { "name": "Condemned.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1273400/Construction_Simulator/
-{ "name": "ConSim.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/870780/Control_Ultimate_Edition/
 { "name": "Control.exe", "type": "Game" }
 { "name": "Control_DX11.exe", "type": "Game" }
@@ -242,3 +239,45 @@
 
 # https://store.steampowered.com/app/1000010/Crown_Trick/
 { "name": "CrownTrick.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2881650/Content_Warning/
+{ "name": "Content Warning.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2070270/Cloudheim/
+{ "name": "CloudheimSteam.exe", "type": "Game"}
+{ "name": "CloudheimSteam-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1158160/Coral_Island/
+{ "name": "ProjectCoral-Win64-Shipping.exe", "type": "Game"}
+{ "name": "ProjectCoral.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3501070/Car_Service_Together/
+{ "name": "CarServiceTogether.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3483740/Cast_n_Chill/
+{ "name": "castnchill.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/756800/Contraband_Police/
+{ "name": "ContrabandPolice.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1097130/Circuit_Superstars/
+{ "name": "circuit-superstars.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1677280/Company_of_Heroes_3/
+{ "name": "RelicCoH3.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/228200/Company_of_Heroes/
+{ "name": "RelicCOH.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3361510/Coal_LLC/
+{ "name": "Coal LLC.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/635260/CarX_Drift_Racing_Online/
+{ "name": "Drift Racing Online.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2404880/Car_Dealer_Simulator/
+{ "name": "CarDealerSimulator.exe", "type": "Game"}
+{ "name": "CarDealerSimulator-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2737070/Crime_Simulator/
+{ "name": "Crime Simulator.exe", "type": "Game"}

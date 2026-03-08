@@ -12,14 +12,45 @@
 # https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/
 { "name": "Warhammer 40,000 Boltgun.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1611910/Warhammer_40000_Chaos_Gate__Daemonhunters/
-{ "name": "ChaosGate.exe", "type": "Game" }
+# https://store.steampowered.com/app/1022310/Warhammer_Underworlds__Shadespire_Edition/
+{ "name": "wuo.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
+# https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
+{ "name": "Warhammer.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/
 { "name": "Darktide.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1042800/Warhammer_40000_Inquisitor__Prophecy/
+{ "name": "WarHammer_Inquisitor_Prophecy.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/774241/Warhammer_Chaosbane/
+{ "name": "Chaosbane.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
 { "name": "WH40KRT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1031140/Warhammer_The_Horus_Heresy_Legions/
+{ "name": "HorusHeresyLegions.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1324530/Warhammer_40000_Shootas_Blood__Teef/
+{ "name": "ShootasBloodAndTeef.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1611910/Warhammer_40000_Chaos_Gate__Daemonhunters/
+{ "name": "ChaosGate.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1733890/Warhammer_40000_Battle_Sister/
+{ "name": "Battle_Sisters.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1295500/Warhammer_40000_Battlesector/
+{ "name": "Warhammer 40K Battlesector.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1641990/Warhammer_Combat_Cards/
+{ "name": "Combat Cards.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1584980/Warhammer_Quest_Silver_Tower/
+{ "name": "Silver Tower.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
 { "name": "SpaceMarine.exe", "type": "Game" }
@@ -33,6 +64,27 @@
 # https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/
 { "name": "vermintide2_dx12.exe", "type": "Game" }
 { "name": "vermintide2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3556750/Warhammer_40000_Dawn_of_War__Definitive_Edition/
+{ "name": "W40k.exe", "type": "Game" }
+{ "name": "W40kME.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3533730/Warhammer_40000_Boltgun__Words_of_Vengeance/
+{ "name": "BoltgunWOV.exe", "type": "Game" }
+{ "name": "BoltgunWOV-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2078450/Warhammer_40000_Speed_Freeks/
+{ "name": "SpeedFreeks.exe", "type": "Game" }
+{ "name": "SpeedFreeks-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1985170/Warhammer_40000_Warpforge/
+{ "name": "Warpforge.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1844380/Warhammer_Age_of_Sigmar_Realms_of_Ruin/
+{ "name": "Warhammer Age of Sigmar - Realms of Ruin.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/235540/Warhammer_End_Times__Vermintide/
+{ "name": "vermintide.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/719040/Wasteland_3/
 { "name": "WL3.exe", "type": "Game" }
@@ -159,9 +211,6 @@
 { "name": "WW.exe", "type": "Game" }
 { "name": "WW-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/774241/Warhammer_Chaosbane/
-{ "name": "Chaosbane.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1233590/Warhammer_Age_of_Sigmar_Storm_Ground/
 { "name": "StormGround.exe", "type": "Game" }
 
@@ -222,3 +271,28 @@
 
 # https://store.steampowered.com/app/70600/Worms_Ultimate_Mayhem/
 { "name": "WormsMayhem.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1527950/Wartales/
+{ "name": "Wartales.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3825780/WonderKing/
+{ "name": "WonderKing.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1611600/WARNO/
+{ "name": "WARNO.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2489330/Whiskerwood/
+{ "name": "Whiskerwood.exe", "type": "Game" }
+{ "name": "Whiskerwood-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3008740/Winter_Burrow/
+{ "name": "Winter Burrow.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3293260/Waterpark_Simulator/
+{ "name": "WaterparkSimulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3195790/White_Knuckle/
+{ "name": "White Knuckle.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/799960/Wizard101/
+{ "name": "Wizard101.exe", "type": "Game" }

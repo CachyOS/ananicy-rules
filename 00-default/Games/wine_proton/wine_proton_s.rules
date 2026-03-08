@@ -84,9 +84,6 @@
 { "name": "Shenmue3-Win64-Shipping.exe", "type": "Game" }
 { "name": "Shenmue3.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2361770/SHINOBI_Art_of_Vengeance/
-{ "name": "SHINOBI_AOV.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/610860/Shogo_Mobile_Armor_Division/
 { "name": "Shogo.exe", "type": "Game" }
 
@@ -110,18 +107,9 @@
 # https://store.steampowered.com/app/3221770/Sin_Spire/
 { "name": "SinSpire.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/312660/Sniper_Elite_4/
-{ "name": "SniperElite4.exe", "type": "Game" }
-{ "name": "SniperElite4_DX11.exe", "type": "Game" }
-{ "name": "SniperElite4_DX12.exe", "type": "Game" }
-
 # Sniper Elite 5 https://store.steampowered.com/app/1029690/Sniper_Elite_5/
 { "name": "sniper5_dx12.exe", "type": "Game" }
 { "name": "sniper5_vulkan.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2169200/Sniper_Elite_Resistance/
-{ "name": "sniperresistance.exe", "type": "Game" }
-{ "name": "sniperresistance_dx12.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/638490/Soldat/
 { "name": "soldat.exe", "type": "Game" }
@@ -146,7 +134,6 @@
 
 # Sonic Adventure DX https://store.steampowered.com/app/71250/Sonic_Adventure_DX/
 { "name": "Sonic Adventure DX.exe", "type": "Game" }
-{ "name": "AppLauncher.exe", "type": "Game" }
 
 # Sonic Adventure 2 https://store.steampowered.com/app/213610/Sonic_Adventure_2/
 { "name": "sonic2app.exe", "type": "Game" }
@@ -161,16 +148,11 @@
 { "name": "ASN_App_PcDx9_Final.exe", "type": "Game" }
 
 # Sonic Rumble https://store.steampowered.com/app/2951690/Sonic_Rumble/
-{ "name": "GameLauncher.exe", "type": "Game" }
 { "name": "SonicRumble.exe", "type": "Game" }
 { "name": "ucldr_SonicRumble_ST_loader_x64.exe", "type": "Game" }
 
 # Sonic Racing: Crossworlds https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/
 { "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2022670/SONIC_SUPERSTARS/
-{ "name": "SonicSuperstars_boot.exe", "type": "Game" }
-{ "name": "SonicSuperstars.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2513280/SONIC_X_SHADOW_GENERATIONS/
 { "name": "SONIC_GENERATIONS.exe", "type": "Game" }
@@ -178,9 +160,6 @@
 
 # Sons Of The Forest https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/
 { "name": "SonsOfTheForest.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1777620/Soul_Hackers_2/
-{ "name": "SOUL HACKERS2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1602080/Soulstice/
 { "name": "Soulstice.exe", "type": "Game" }
@@ -202,12 +181,20 @@
 { "name": "squad_launcher.exe", "type": "BG_CPUIO" }
 { "name": "SquadGame.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/736220/Squad_44/
+{ "name": "PostScriptum.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1818450/STALCRAFT_X/
 { "name": "stalcraftw.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1643320/STALKER_2_Heart_of_Chornobyl/
 { "name": "Stalker2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Stalker2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2427410/STALKER_Shadow_of_Chornobyl__Enhanced_Edition/
+# https://store.steampowered.com/app/2427430/STALKER_Call_of_Prypiat__Enhanced_Edition/
+# https://store.steampowered.com/app/2427420/STALKER_Clear_Sky__Enhanced_Edition/
+{ "name": "xrEngine.exe", "type": "Game" }
 
 # https://www.moddb.com/mods/stalker-anomaly; S.T.A.L.K.E.R. Anomaly
 { "name": "AnomalyDX11AVX.exe", "type": "Game" }
@@ -220,10 +207,6 @@
 { "name": "AnomalyDX8AVX.exe", "type": "Game" }
 { "name": "AnomalyDX8.exe", "type": "Game" }
 { "name": "AnomalyLauncher.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
-# https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
-{ "name": "xrEngine.exe", "type": "Game" }
 
 # Stalker:SoC https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/
 { "name": "XR_3DA.exe", "type": "Game" }
@@ -310,9 +293,6 @@
 # System Shock 2 https://store.steampowered.com/app/238210/System_Shock_2_1999/
 { "name": "SS2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1413480/Shin_Megami_Tensei_III_Nocturne_HD_Remaster/
-{ "name": "smt3hd.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
 { "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
 { "name": "SMT5V.exe", "type": "Game" }
@@ -368,9 +348,6 @@
 
 # https://store.steampowered.com/app/2709570/Supermarket_Together/
 { "name": "Supermarket Together.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1909950/SUPER_ROBOT_WARS_Y/
-{ "name": "SUPER ROBOT WARS Y.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/
 { "name": "SCPSL.exe", "type": "Game" }
@@ -474,3 +451,78 @@
 
 # https://store.steampowered.com/app/1763250/SWORN/
 { "name": "SWORN.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/
+{ "name": "Solasta.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1657630/Slime_Rancher_2/
+{ "name": "SlimeRancher2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/674940/Stick_Fight_The_Game/
+{ "name": "StickFight.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2646460/Soulmask/
+{ "name": "WS.exe", "type": "Game" }
+{ "name": "WS-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2643390/Star_Trek_Voyager__Across_the_Unknown/
+{ "name": "STVoyager.exe", "type": "Game" }
+{ "name": "STVoyager-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2719750/Star_Birds/
+{ "name": "StarBirds.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2747330/Species_Unknown/
+{ "name": "SpeciesUnknown.exe", "type": "Game" }
+{ "name": "SpeciesUnknown-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1785910/SBK22/
+{ "name": "SLR.exe", "type": "Game" }
+{ "name": "SLRX64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/355060/Sbastien_Loeb_Rally_EVO/
+{ "name": "sbk1.exe", "type": "Game" }
+{ "name": "sbk1-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1432860/Sun_Haven/
+{ "name": "Sun Haven.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2373990/Solo_Leveling_ARISE_OVERDRIVE/
+{ "name": "Solo_Leveling_ARISE_OVERDRIVE.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/513710/SCUM/
+{ "name": "SCUM.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1702010/Sengoku_Dynasty/
+{ "name": "SengokuDynasty.exe", "type": "Game" }
+{ "name": "SengokuDynasty-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1645820/SurrounDead/
+{ "name": "SurrounDead.exe", "type": "Game" }
+{ "name": "SurrounDead-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2885870/Strange_Antiquities/
+{ "name": "Strange Antiquities.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/314650/SpaceEngine/
+{ "name": "SpaceEngine.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/488790/South_Park_The_Fractured_But_Whole/
+{ "name": "SouthPark_TFBW.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1574580/Strange_Horticulture/
+ { "name": "Strange Horticulture.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1442430/Storage_Hunter_Simulator/
+{ "name": "StorageHunter.exe", "type": "Game" }
+{ "name": "StorageHunter-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1207650/Suzerain/
+{ "name": "Suzerain.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1990110/SpellRogue/
+{ "name": "SpellRogue.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1268750/Starship_Troopers_Extermination/
+{ "name": "Yakisoba.exe", "type": "Game" }
+{ "name": "Yakisoba-Win64-Shipping.exe", "type": "Game" }

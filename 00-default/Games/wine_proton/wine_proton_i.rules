@@ -2,6 +2,7 @@
 
 # https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Icarus.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/15320/IL2_Sturmovik_1946/
 { "name": "il2fb.exe", "type": "Game" }
@@ -36,3 +37,11 @@
 
 # https://store.steampowered.com/app/627690/Idle_Champions_of_the_Forgotten_Realms/
 { "name": "IdleDragons.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2456740/inZOI/
+{ "name": "inZOI-Win64-Shipping.exe", "type": "Game" }
+{ "name": "inZOI.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2116120/Incursion_Red_River/
+{ "name": "Test_C-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Test_C.exe", "type": "Game" }
