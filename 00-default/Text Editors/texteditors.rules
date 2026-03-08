@@ -81,3 +81,6 @@
 
 # RustRover: An IDE for Rust. https://www.jetbrains.com/rust/
 { "name": "rustrover", "type": "Heavy_CPU" }
+
+# Mochi is a note-taking and spaced-repetition flashcard app, built on top of Markdown. 
+{ "name": "mochi", "type": "Doc-View" }
