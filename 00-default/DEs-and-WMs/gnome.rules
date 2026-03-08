@@ -4,6 +4,9 @@
 # Used for password management - https://wiki.archlinux.org/title/GNOME/Keyring
 { "name": "gnome-keyring-daemon", "type": "Service" }
 
+# Bazaar : https://github.com/kolunmi/bazaar
+{ "name": "bazaar", "type": "BG_CPUIO" }
+
 # polkit-gnome
 { "name": "polkit-gnome-authentication-agent-1", "type": "Service" }
 
@@ -84,3 +87,6 @@
 
 # mutter-x11-frames
 { "name": "mutter-x11-frames", "type": "LowLatency_RT" }
+
+# GNOME image viewer: https://wiki.gnome.org/Apps/EyeOfGnome/
+{ "name": "eog", "type": "Image-View" }

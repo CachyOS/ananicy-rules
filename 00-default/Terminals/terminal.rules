@@ -30,6 +30,9 @@
 { "name": "urxvtd", "type": "Doc-View" }
 { "name": "urxvt-tabbed", "type": "Doc-View" }
 
+# wayst: https://github.com/91861/wayst
+{ "name": "wayst", "type": "Doc-View" }
+
 # wezterm
 { "name": "wezterm-gui", "type": "Doc-View" }
 
