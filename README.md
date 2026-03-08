@@ -11,7 +11,7 @@ This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS
 You can add your favorite games, apps, and more. Any help would be greatly appreciated!  
 **For example, let's say you want to add a game:**
 1. Go to [00-default](https://github.com/CachyOS/ananicy-rules/tree/master/00-default)
-2. Go to [games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/games)
+2. Go to [Games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/games)
 3. Navigate to the desired folder depending on:
 	- Game is meant to be ran under with Proton: `ẁine_proton` - *Open the corresponding file depending on the letter.*
 	- Provides a native version for Linux: `steam-native` - *Open the corresponding file depending on the letter.*
