@@ -47,8 +47,8 @@
 { "name": "AliensDarkDescentGameSteam-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/
-{ "name": "Endeavor.exe", "type": "Game" }
-{ "name": "Endeavor-Win64-Shipping.exe", "type": "Game" }
+ { "name": "Endeavor.exe", "type": "Game" }
+ { "name": "Endeavor-Win64-Shipping.exe", "type": "Game" }
 
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks.exe", "type": "Game" }
@@ -353,17 +353,43 @@
 # https://store.steampowered.com/app/1210150/Ageless/
 { "name": "Ageless.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/484900/Aven_Colony/
-{ "name": "AvenColony.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/984800/Automachef/
 { "name": "Automachef.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/484900/Aven_Colony/
+{ "name": "AvenColony.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22670/Alien_Breed_3_Descent/
 { "name": "AlienBreed3Descent.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22650/Alien_Breed_2_Assault/
+{ "name": "AlienBreed2AssaultGame", "type": "Game" }
 { "name": "AlienBreed2Assault.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22610/Alien_Breed_Impact/
 { "name": "AlienBreed-Impact.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/945360/Among_Us/
+{ "name": "Among Us.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2660460/Aviassembly/
+{ "name": "Aviassembly.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2658510/Animal_Shelter_2/
+{ "name": "Animal Shelter 2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1239320/Animal_Shelter/
+{ "name": "Animal Shelter.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2401970/Ace_Attorney_Investigations_Collection/
+{ "name": "GK12.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2187220/Apollo_Justice_Ace_Attorney_Trilogy/
+{ "name": "GS456.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3669570/Alchemy_Factory/
+{ "name": "AlchemyFactory.exe", "type": "Game" }
+{ "name": "AlchemyFactory-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/
+{ "name": "Ale and Tale Tavern.exe", "type": "Game" }

@@ -71,6 +71,8 @@
 
 # https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
 { "name": "PlayGTAV.exe", "type": "Game" }
+{ "name": "GTA5_Enhanced.exe", "type": "Game" }
+{ "name": "GTA5_Enhanced_BE.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/12120/Grand_Theft_Auto_San_Andreas/
 { "name": "gta-sa.exe", "type": "Game" }
@@ -87,8 +89,9 @@
 # https://store.steampowered.com/app/219990/Grim_Dawn/
 { "name": "Grim Dawn.exe", "type": "Game" }
 
-# Grounded, https://store.steampowered.com/app/962130/Grounded/
+# https://store.steampowered.com/app/962130/Grounded/
 { "name": "Maine-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Grounded.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2661300/Grounded_2/
 { "name": "Grounded2-WinGRTS-Shipping.exe", "type": "Game" }
@@ -151,8 +154,47 @@
 # https://store.steampowered.com/app/3478870/GeoGuessr_Steam_Edition/
 { "name": "GeoGuessr.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1154810/Going_Under/
+{ "name": "Going Under.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/712190/Genesis_Alpha_One_Deluxe_Edition/
 { "name": "Genesis.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2748340/Goblin_Cleanup/
 { "name": "Goblin Cleanup.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/850190/Goat_Simulator_3/
+{ "name": "Goat2.exe", "type": "Game" }
+{ "name": "Goat2-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1762930/Goat_Simulator_Remastered/
+{ "name": "Goatsim_UE4.exe", "type": "Game" }
+{ "name": "Goatsim_UE4-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/
+{ "name": "GZWClientSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "GZWClientEAC.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/493520/GTFO/
+{ "name": "GTFO.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/800240/Ghostly_Matter/
+{ "name": "nw.exe", "typhttps://store.steampowered.com/app/1149620/Gas_Station_Simulator/e": "Game" }
+
+# https://store.steampowered.com/app/3645890/GONE_Fishing/
+{ "name": "GONEfishing.exe", "type": "Game" }
+{ "name": "GONEfishing-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1967430/Ghost_Trick_Phantom_Detective/
+{ "name": "Ghost Trick.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
+# https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
+{ "name": "Gw.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
+{ "name": "GSS2.exe", "type": "Game" }
+{ "name": "GSS2-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/4130120/Genome_Guardian_2/
+{ "name": "Genome Guardian 2.exe", "type": "Game" }

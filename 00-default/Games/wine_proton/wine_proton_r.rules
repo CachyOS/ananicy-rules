@@ -1,5 +1,9 @@
 ### R ###
 
+# https://store.steampowered.com/app/252490/Rust/
+{ "name": "Rust.exe", "type": "Game" }
+{ "name": "RustClient.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
 { "name": "RRREWebBrowser.exe", "type": "Game" }
@@ -27,7 +31,7 @@
 
 # https://store.steampowered.com/app/1144200/Ready_or_Not/
 { "name": "ReadyOrNot.exe", "type": "Game" }
-{ "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" } 
+{ "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2129530/REANIMAL/
 { "name": "REANIMAL.exe", "type": "Game" }
@@ -79,16 +83,16 @@
 # https://store.steampowered.com/app/3241660/REPO/
 { "name": "REPO.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/304240/Resident_Evil
+# https://store.steampowered.com/app/304240/Resident_Evil/
 { "name": "bhd.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/339340/Resident_Evil_0
+# https://store.steampowered.com/app/339340/Resident_Evil_0/
 { "name": "re0hd.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/883710/Resident_Evil_2
+# https://store.steampowered.com/app/883710/Resident_Evil_2/
 { "name": "re2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/952060/Resident_Evil_3
+# https://store.steampowered.com/app/952060/Resident_Evil_3/
 { "name": "re3.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2050650/Resident_Evil_4/
@@ -97,10 +101,10 @@
 # https://store.steampowered.com/app/254700/Resident_Evil_4_2005/
 { "name": "bio4.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/21690/Resident_Evil_5
+# https://store.steampowered.com/app/21690/Resident_Evil_5/
 { "name": "re5dx9.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/221040/Resident_Evil_6
+# https://store.steampowered.com/app/221040/Resident_Evil_6/
 { "name": "BH6.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard
@@ -242,6 +246,42 @@
 
 # https://store.steampowered.com/app/1843840/Rogue_Point/
 { "name": "Tango.exe", "type": "Game" }
+{ "name": "Tango-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2066520/Ritual_of_Raven/
 { "name": "RitualofRaven.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/
+{ "name": "RSDragonwilds.exe", "type": "Game" }
+{ "name": "RSDragonwilds-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3949040/RV_There_Yet/
+# https://store.steampowered.com/app/345660/RIDE/
+{ "name": "Ride.exe", "type": "Game" }
+{ "name": "Ride-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2815070/RIDE_6/
+{ "name": "ride6.exe", "type": "Game" }
+{ "name": "ride6-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1650010/RIDE_5/
+{ "name": "ride5.exe", "type": "Game" }
+{ "name": "ride5-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1259980/RIDE_4/
+{ "name": "ride4.exe", "type": "Game" }
+{ "name": "ride4-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/759740/RIDE_3/
+{ "name": "ride3.exe", "type": "Game" }
+{ "name": "ride3-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/477770/Ride_2/
+{ "name": "Ride2.exe", "type": "Game" }
+{ "name": "Ride2X64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/345660/RIDE/
+{ "name": "RideX64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2333480/RAID_Shadow_Legends/
+{ "name": "Raid.exe", "type": "Game" }

@@ -52,8 +52,8 @@
 # https://store.steampowered.com/app/220240/Far_Cry_3/
 { "name": "farcry3_d3d11.exe", "type": "Game" }
 { "name": "FarCry3.exe", "type": "Game" }
-{ "name": "FC3Editor.exe", "type": "Game" } 
-{ "name": "FC3UpdaterSteam.exe", "type": "Game" } 
+{ "name": "FC3Editor.exe", "type": "Game" }
+{ "name": "FC3UpdaterSteam.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/233270/Far_Cry_3__Blood_Dragon/
 { "name": "FC3BDUpdaterSteam.exe", "type": "Game" }
@@ -243,3 +243,9 @@
 
 # https://store.steampowered.com/app/2142790/Fields_of_Mistria/
 { "name": "FieldsOfMistria.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1676840/For_The_King_II/
+{ "name": "For The King II.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/958530/Fury_of_Dracula_Digital_Edition/
+{ "name": "Fury of Dracula.exe", "type": "Game" }
