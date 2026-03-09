@@ -210,3 +210,13 @@
 
 # https://store.steampowered.com/app/3052730/Here_Comes_The_Swarm/
 { "name": "Here Comes The Swarm.exe", "type": "Game" }
+
+# Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor
+{ "name": "HelloNeighbor.exe", "type": "Game" }
+{ "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
+{ "name": "HelloNeighborReborn.exe", "type": "Game" }
+{ "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
+
+# Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2
+{ "name": "HelloNeighbor2.exe", "type": "Game" }
+{ "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }

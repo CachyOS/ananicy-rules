@@ -246,6 +246,17 @@
 # https://store.steampowered.com/app/1158850/The_Great_Ace_Attorney_Chronicles/
 { "name": "TGAAC.exe", "type": "Game" }
 
+# The Joy of Creation https://gamejolt.com/games/tjocsm/139218
+# This is a FNAF (Five Nights at Freddy's) fangame
+{ "name": "TJoC_SM.exe", "type": "Game" }
+{ "name": "TJoC_SM-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TJoC_R.exe", "type": "Game" }
+{ "name": "UE4Game-Win64-Shipping.exe", "type": "Game" }
+
+# The Glitched Attraction https://gamejolt.com/games/the_glitched_attraction/528354
+# This is a FNAF (Five Nights at Freddy's) fangame
+{ "name": "The Glitched Attraction.exe", "type": "Game" }
+
 ### T ###
 
 # https://store.steampowered.com/app/2545710/Tony_Hawks_Pro_Skater_3__4
@@ -555,3 +566,6 @@
 
 # https://store.steampowered.com/app/873840/Truck__Logistics_Simulator/
 { "name": "Truck & Logistics Simulator.exe", "type": "Game" }
+
+# Totally Reliable Delivery Service https://store.steampowered.com/app/1011670/Totally_Reliable_Delivery_Service/
+{ "name": "Totally Reliable Delivery Service.exe", "type": "Game" }
