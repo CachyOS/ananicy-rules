@@ -270,3 +270,8 @@
 
 # https://store.steampowered.com/app/666150/Prehistoric_Kingdom/
 { "name": "Prehistoric Kingdom.exe", "type": "Game" }
+
+# Perceptum https://store.steampowered.com/app/4124340/Perceptum/
+# Only the Playtest is available at the moment
+{ "name": "Perceptum.exe", "type": "Game" }
+{ "name": "Perceptum-Win64-Shipping.exe", "type": "Game" }

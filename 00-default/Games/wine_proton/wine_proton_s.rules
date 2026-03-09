@@ -424,7 +424,7 @@
 { "name": "Supermarket Simulator.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1465360/SnowRunner/
- { "name": "SnowRunner.exe", "type": "Game" }
+{ "name": "SnowRunner.exe", "type": "Game" }
 
  # https://store.steampowered.com/app/1116580/Shady_Part_of_Me/
 { "name": "spom.exe", "type": "Game" }
@@ -545,14 +545,14 @@
 { "name": "SouthPark_TFBW.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/
- { "name": "South Park - The Stick of Truth.exe", "type": "Game" }
+{ "name": "South Park - The Stick of Truth.exe", "type": "Game" }
 
- # https://store.steampowered.com/app/1214650/SOUTH_PARK_SNOW_DAY/
- { "name": "SnowDay.exe", "type": "Game" }
- { "name": "SnowDay-Win64-Shipping.exe", "type": "Game" }
+# https://store.steampowered.com/app/1214650/SOUTH_PARK_SNOW_DAY/
+{ "name": "SnowDay.exe", "type": "Game" }
+{ "name": "SnowDay-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1574580/Strange_Horticulture/
- { "name": "Strange Horticulture.exe", "type": "Game" }
+{ "name": "Strange Horticulture.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1442430/Storage_Hunter_Simulator/
 { "name": "StorageHunter.exe", "type": "Game" }
@@ -631,3 +631,11 @@
 # https://store.steampowered.com/app/1948280/Stacklands/
 { "name": "Stacklands.exe", "type": "Game" }
 
+# Super Chicken Jumper https://store.steampowered.com/app/584640/SUPER_CHICKEN_JUMPER/
+{ "name": "Super Chicken Jumper.exe", "type": "Game" }
+
+# Spooky's Jump Scare Mansion https://store.steampowered.com/app/356670/Spookys_Jump_Scare_Mansion/
+{ "name": "SPOOKY.exe", "type": "Game" }
+
+# Spooky's Jump Scare Mansion: HD Renovation https://store.steampowered.com/app/577690/Spookys_Jump_Scare_Mansion_HD_Renovation/
+{ "name": "SpookyUnity.exe", "type": "Game" }

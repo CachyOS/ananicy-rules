@@ -96,10 +96,10 @@
 { "name": "METAL GEAR SOLID.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2131650/METAL_GEAR_SOLID_3_Snake_Eater__Master_Collection_Version/
- { "name": "METAL GEAR SOLID3.exe", "type": "Game" }
+{ "name": "METAL GEAR SOLID3.exe", "type": "Game" }
 
- # https://store.steampowered.com/app/543900/METAL_GEAR_SURVIVE/
- {  "name": "mgv.exe", "type": "Game" }
+# https://store.steampowered.com/app/543900/METAL_GEAR_SURVIVE/
+{  "name": "mgv.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1061910/Metal_Hellsinger/
 { "name": "Metal.exe", "type": "Game" }
@@ -211,7 +211,7 @@
 { "name": "MTGA.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1623660/MIR4/
- { "name": "Mir4S.exe", "type": "Game" }
+{ "name": "Mir4S.exe", "type": "Game" }
 
  # https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_2020_40th_Anniversary_Edition/
 { "name": "FlightSimulator.exe", "type": "Game" }
@@ -443,3 +443,6 @@
 # https://store.steampowered.com/app/2669410/Metro_Awakening/
 { "name": "Impact.exe", "type": "Game" }
 { "name": "Impact-Win64-Shipping.exe", "type": "Game" }
+
+# My Friend Pedro https://store.steampowered.com/app/557340/My_Friend_Pedro/
+{ "name": "My Friend Pedro - Blood Bullets Bananas.exe", "type": "Game" }

@@ -54,3 +54,7 @@
 
 # https://store.steampowered.com/app/3226450/iRacing_Arcade/
 { "name": "iracing-arcade.exe", "type": "Game" }
+
+# Indigo Park https://store.steampowered.com/app/2504480/Indigo_Park_Chapter_1/
+{ "name": "RaccoonCh1.exe", "type": "Game" }
+{ "name": "RaccoonCh1-Win64-Shipping.exe", "type": "Game" }

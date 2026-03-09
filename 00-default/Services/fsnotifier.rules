@@ -1,0 +1,2 @@
+# A helper process spawned by all JetBrains IDEs to monitor file system changes
+{ "name": "fsnotifier", "type": "LowLatency_RT" }
