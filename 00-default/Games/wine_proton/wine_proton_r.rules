@@ -259,6 +259,7 @@
 # https://store.steampowered.com/app/345660/RIDE/
 { "name": "Ride.exe", "type": "Game" }
 { "name": "Ride-Win64-Shipping.exe", "type": "Game" }
+{ "name": "RideX64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2815070/RIDE_6/
 { "name": "ride6.exe", "type": "Game" }
@@ -279,9 +280,6 @@
 # https://store.steampowered.com/app/477770/Ride_2/
 { "name": "Ride2.exe", "type": "Game" }
 { "name": "Ride2X64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/345660/RIDE/
-{ "name": "RideX64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2333480/RAID_Shadow_Legends/
 { "name": "Raid.exe", "type": "Game" }

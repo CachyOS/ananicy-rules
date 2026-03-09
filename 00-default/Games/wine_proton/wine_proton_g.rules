@@ -3,8 +3,9 @@
 # https://store.steampowered.com/app/4000/Garrys_Mod/
 { "name": "gmod.exe", "type": "Game" }
 
-# Gas Station Simulator https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
+# https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
 { "name": "GSS2.exe", "type": "Game" }
+{ "name": "GSS2-Win64-Shipping.exe", "type": "Game" }
 
 # GenshinImpact Chinese version https://genshin.hoyoverse.com/en/
 { "name": "YuanShen.exe", "type": "Game" }
@@ -199,10 +200,6 @@
 # https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
 # https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
 { "name": "Gw.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
-{ "name": "GSS2.exe", "type": "Game" }
-{ "name": "GSS2-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/4130120/Genome_Guardian_2/
 { "name": "Genome Guardian 2.exe", "type": "Game" }

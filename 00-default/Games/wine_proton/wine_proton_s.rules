@@ -219,6 +219,9 @@
 # https://store.steampowered.com/app/2427410/STALKER_Shadow_of_Chornobyl__Enhanced_Edition/
 # https://store.steampowered.com/app/2427430/STALKER_Call_of_Prypiat__Enhanced_Edition/
 # https://store.steampowered.com/app/2427420/STALKER_Clear_Sky__Enhanced_Edition/
+# https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
+# https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
+{ "name": "xrEngine.exe", "type": "Game" }
 { "name": "xrEngine.exe", "type": "Game" }
 
 # https://www.moddb.com/mods/stalker-anomaly; S.T.A.L.K.E.R. Anomaly
@@ -232,10 +235,6 @@
 { "name": "AnomalyDX8AVX.exe", "type": "Game" }
 { "name": "AnomalyDX8.exe", "type": "Game" }
 { "name": "AnomalyLauncher.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
-# https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
-{ "name": "xrEngine.exe", "type": "Game" }
 
 # Stalker:SoC https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/
 { "name": "XR_3DA.exe", "type": "Game" }
