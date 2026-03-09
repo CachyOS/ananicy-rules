@@ -19,6 +19,9 @@
 # The Chronicles of Riddick: Assault on Dark Athena
 { "name": "DarkAthena.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/
+{ "name": "The Mortuary Assistant.exe", "type": "Game" }
+
 # The Chronicles of Riddick: Escape from Butcher Bay (2004)
 { "name": "SbzEngine.exe", "type": "Game" }
 
@@ -246,6 +249,28 @@
 # https://store.steampowered.com/app/1158850/The_Great_Ace_Attorney_Chronicles/
 { "name": "TGAAC.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2109370/The_Great_War_Western_Front/
+{ "name": "ClientG64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2294660/The_Quinfall/
+{ "name": "TheQuinfall.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3059070/The_Headliners/
+{ "name": "Headliners.exe", "type": "Game" }
+{ "name": "Headliners-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/490110/The_Precinct/
+{ "name": "Precinct.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1857080/The_Last_Starship/
+{ "name": "LastStarship64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online/
+{ "name": "lotroclient.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2753900/The_King_is_Watching/
+{ "name": "lotroclient.exe", "type": "Game" }
+
 ### T ###
 
 # https://store.steampowered.com/app/2545710/Tony_Hawks_Pro_Skater_3__4
@@ -361,6 +386,10 @@
 
 # the other older ghost recon games use the same exe name  https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
 { "name": "GhostRecon.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/235600/Tom_Clancys_Splinter_Cell_Blacklist/
+{ "name": "Blacklist_DX11_game.exe", "type": "Game" }
+{ "name": "Blacklist_game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
 { "name": "RainbowSix.exe", "type": "Game" }
@@ -487,6 +516,9 @@
 { "name": "ToukidenKiwami_ja.exe", "type": "Game" }
 { "name": "ToukidenKiwami_tw.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/304050/Trove/
+{ "name": "Trove.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/4195470/Taimanin_Squad/
 { "name": "TaimaninSquad.exe", "type": "Game" }
 
@@ -555,3 +587,67 @@
 
 # https://store.steampowered.com/app/873840/Truck__Logistics_Simulator/
 { "name": "Truck & Logistics Simulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1154030/Titan_Quest_II/
+{ "name": "TQ2.exe", "type": "Game" }
+{ "name": "TQ2-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/
+{ "name": "TQ.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1511630/TrackDayR/
+{ "name": "Track Day R.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/800270/Terraforming_Mars/
+{ "name": "TerraformingMars.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2288630/Taiko_no_Tatsujin_Rhythm_Festival/
+{ "name": "Taiko no Tatsujin Rhythm Festival.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1451090/Tactics_Ogre_Reborn/
+{ "name": "Tactics Ogre Reborn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2076140/Tavern_Talk__A_Cozy_Visual_Novel/
+{ "name": "Tavern Talk.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2331020/Tales_of_Berseria_Remastered/
+{ "name": "Tales of Berseria Remastered.exe", "type": "Game" }
+{ "name": "Tales of Berseria Remastered_Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2246670/Tales_of_Xillia_Remastered/
+{ "name": "Tales of Xillia Remastered.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1910090/Towa_and_the_Guardians_of_the_Sacred_Tree/
+{ "name": "Towa and the Guardians of the Sacred Tree.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2530980/Tales_of_Graces_f_Remastered/
+{ "name": "Tales of Graces f Remastered.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2197680/That_Time_I_Got_Reincarnated_as_a_Slime_ISEKAI_Chronicles/
+{ "name": "Slime.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1778820/TEKKEN_8/
+{ "name": "TEKKEN 8.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/389730/TEKKEN_7/
+{ "name": "TEKKEN 7.exe", "type": "Game" }
+{ "name": "TekkenGame-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/740130/Tales_of_ARISE/
+{ "name": "Tales of Arise.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1281220/Task_Force_Admiral__Vol1_American_Carrier_Battles/
+{ "name": "TFA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/745920/Temtem/
+{ "name": "Temtem.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/436780/Tavern_Keeper/
+{ "name": "TavernKeeper.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1881200/TRYP_FPV_Drone_Racer_Simulator/
+{ "name": "TrypFPV.exe", "type": "Game" }
+{ "name": "TrypFPV-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/250320/The_Wolf_Among_Us/
+{ "name": "TheWolfAmongUs.exe", "type": "Game" }

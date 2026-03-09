@@ -4,6 +4,9 @@
 { "name": "100orange.exe", "type": "Game" }
 { "name": "100orange_x86.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1675830/1000xRESIST/
+{ "name": "1000xRESIST.exe", "type": "Game" }
+
 ### 2 ###
 
 # https://store.steampowered.com/app/435100/2Dark/
@@ -14,7 +17,12 @@
 # https://store.steampowered.com/app/668550/8Doors_Arums_Afterlife_Adventure/
 { "name": "8Doors.exe", "type": "Game" }
 
-### 10 ##
+### 7 ###
+
+# https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/
+{ "name": "Seven Days to End with You.exe", "type": "Game" }
+
+### 10 ###
 
 # https://store.steampowered.com/app/477010/10_Minute_Tower/
 { "name": "10MinuteTower.exe", "type": "Game" }

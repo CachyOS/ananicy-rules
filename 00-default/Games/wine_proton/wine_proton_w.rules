@@ -89,10 +89,11 @@
 # https://store.steampowered.com/app/719040/Wasteland_3/
 { "name": "WL3.exe", "type": "Game" }
 
-# Watch Dogs 1 via UPlay
+# https://store.steampowered.com/app/243470/Watch_Dogs/
 { "name": "Watch_Dogs.exe", "type": "Game" }
+{ "name": "watch_dogs.exe", "type": "Game" }
 
-# Watch Dogs 2 via UPlay
+# https://store.steampowered.com/app/447040/Watch_Dogs_2/
 { "name": "WatchDogs2.exe", "type": "Game" }
 
 # Where Winds Meet https://store.steampowered.com/app/3564740/Where_Winds_Meet/
@@ -296,3 +297,35 @@
 
 # https://store.steampowered.com/app/799960/Wizard101/
 { "name": "Wizard101.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/699130/World_War_Z/
+{ "name": "wwzRetail.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1730700/We_Love_Katamari_REROLL_Royal_Reverie/
+{ "name": "WLKRR.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1203190/Wreckfest_2/
+{ "name": "Wreckfest2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/228380/Wreckfest/
+{ "name": "Wreckfest.exe", "type": "Game" }
+{ "name": "Wreckfest_x64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2730970/Westland_Survival/
+{ "name": "Westland Survival.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3725630/WISE_GUYS/
+{ "name": "RICO.exe", "type": "Game" }
+{ "name": "RICO-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/427730/Whos_Your_Daddy/
+{ "name": "WhosYourDaddy.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2379740/Wizardry_Variants_Daphne/
+{ "name": "WizardryVariantsDaphne.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/865360/We_Were_Here_Together/
+{ "name": "We Were Here Together.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/913740/WORLD_OF_HORROR/
+{ "name": "worldofhorror.exe", "type": "Game" }

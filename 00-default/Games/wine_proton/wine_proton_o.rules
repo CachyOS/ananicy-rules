@@ -4,6 +4,13 @@
 { "name": "Octopath_Traveler-Win64-Shipping.exe", "type": "Game" }
 { "name": "Octopath_Traveler.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3014320/OCTOPATH_TRAVELER_0/
+{ "name": "Octopath_Traveler0.exe", "type": "Game" }
+{ "name": "Octopath_Traveler0-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1971650/OCTOPATH_TRAVELER_II/
+{ "name": "Octopath_Traveler2-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3659280/Off_The_Grid/
 { "name": "G01Client-Win64-Shipping.exe", "type": "Game" }
 
@@ -12,6 +19,9 @@
 
 # https://store.steampowered.com/app/587620/Okami_HD/
 { "name": "okami.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1880620/Once_Upon_A_KATAMARI/
+{ "name": "OnceUponaKATAMARI.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2139460/Once_Human/
 { "name": "ONCE_HUMAN.exe", "type": "Game" }
@@ -60,8 +70,21 @@
 # https://store.steampowered.com/app/2918150/ONE_PIECE_Bounty_Rush/
 { "name": "BountyRush.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1089090/ONE_PIECE_PIRATE_WARRIORS_4/
+{ "name": "OPPW4.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/448510/Overcooked/
 { "name": "Overcooked.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/753640/Outer_Wilds/
 { "name": "OuterWilds.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1913370/OPERATOR/
+{ "name": "OPERATOR.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2893820/Of_Ash_and_Steel/
+{ "name": "ofAshAndSteelGame.exe", "type": "Game" }
+{ "name": "ofAshAndSteelGame-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1343370/Old_School_RuneScape/
+{ "name": "osclient.exe", "type": "Game" }

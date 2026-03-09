@@ -179,11 +179,19 @@
 { "name": "GTFO.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/800240/Ghostly_Matter/
-{ "name": "nw.exe", "typhttps://store.steampowered.com/app/1149620/Gas_Station_Simulator/e": "Game" }
+{ "name": "nw.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1672500/GUNDAM_BREAKER_4/
+{ "name": "GB4.exe", "type": "Game" }
+{ "name": "GB4-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3645890/GONE_Fishing/
 { "name": "GONEfishing.exe", "type": "Game" }
 { "name": "GONEfishing-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/571740/Golf_It/
+{ "name": "GolfIt.exe", "type": "Game" }
+{ "name": "GolfIt-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1967430/Ghost_Trick_Phantom_Detective/
 { "name": "Ghost Trick.exe", "type": "Game" }
@@ -198,3 +206,46 @@
 
 # https://store.steampowered.com/app/4130120/Genome_Guardian_2/
 { "name": "Genome Guardian 2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1357210/Galactic_Civilizations_IV/
+{ "name": "GalCiv4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/226860/Galactic_Civilizations_III/
+{ "name": "GalCiv3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/202200/Galactic_Civilizations_II_Ultimate_Edition/
+{ "name": "GalCiv2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/214150/Galactic_Civilizations_I_Ultimate_Edition/
+{ "name": "GalCiv.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3400930/Guilty_as_Sock/
+{ "name": "StandaloneWindows64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1775550/Gary_Grigsbys_War_in_the_East_2/
+{ "name": "WarInTheEast2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/644710/Gary_Grigsbys_War_in_the_West/
+{ "name": "WarInTheWest.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/370540/Gary_Grigsbys_War_in_the_East/
+{ "name": "WarInTheEast.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/436150/Governor_of_Poker_3/
+{ "name": "GOP3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2836100/Gemporium_A_Cute_Mining_Sim/
+{ "name": "Gemporium.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2772990/Ghost_Janitors/
+{ "name": "Ghost Janitors.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/704270/Generation_Zero/
+ { "name": "GenerationZero_F.exe", "type": "Game" }
+
+ # https://store.steampowered.com/app/3347400/GIRLS_FRONTLINE_2_EXILIUM/
+ { "name": "GF2_Exilium.exe", "type": "Game" }
+
+ # https://store.steampowered.com/app/2308690/Ground_of_Aces/
+ { "name": "GroundOfAces.exe", "type": "Game" }
+
