@@ -120,6 +120,18 @@
 # https://store.steampowered.com/app/690790/DiRT_Rally_20/
 { "name": "dirtrally2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/310560/DiRT_Rally/
+{ "name": "drt.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1038250/DIRT_5/
+{ "name": "DIRT5.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/421020/DiRT_4/
+{ "name": "dirt4.exe", "type": "Game" }
+
+# DiRT 3 (not on steam store anymore)
+{ "name": "dirt3_game.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/
 { "name": "Digimon Story Time Stranger.exe", "type": "Game" }
 
@@ -192,10 +204,16 @@
 # https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
 { "name": "DBXV2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/678950/DRAGON_BALL_FighterZ/
+{ "name": "DBFighterZ.exe", "type": "Game" }
+
 # AT.exe is amusingly also shared with https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 # https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
 { "name": "AT-Win64-Shipping.exe", "type": "Game" }
 { "name": "AT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1274570/DEVOUR/
+{ "name": "DEVOUR.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/
 { "name": "DRAGON QUEST XI S.exe", "type": "Game" }
@@ -350,3 +368,14 @@
 # https://store.steampowered.com/app/3228590/Deadzone_Rogue/
 { "name": "DeadzoneSteam.exe", "type": "Game" }
 { "name": "DeadzoneSteam-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2525310/Drop_Duchy/
+{ "name": "DropDuchy.exe", "type": "Game" }
+{ "name": "DropDuchy-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/
+{ "name": "DEATH NOTE Killer Within.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2507950/Delta_Force/
+{ "name": "DeltaForceClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeltaForceClient.exe", "type": "Game" }

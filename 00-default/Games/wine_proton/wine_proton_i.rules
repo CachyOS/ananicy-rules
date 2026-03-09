@@ -46,6 +46,15 @@
 { "name": "Test_C-Win64-Shipping.exe", "type": "Game" }
 { "name": "Test_C.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1113120/IXION/
+{ "name": "Ixion.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1465460/Infection_Free_Zone/
+{ "name": "Infection Free Zone.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3226450/iRacing_Arcade/
+{ "name": "iracing-arcade.exe", "type": "Game" }
+
 # Indigo Park https://store.steampowered.com/app/2504480/Indigo_Park_Chapter_1/
 { "name": "RaccoonCh1.exe", "type": "Game" }
 { "name": "RaccoonCh1-Win64-Shipping.exe", "type": "Game" }
