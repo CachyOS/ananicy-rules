@@ -2,10 +2,9 @@
 
 ### Z ###
 
-# https://store.steampowered.com/app/17500/Zombie_Panic_Source/
-{ "name": "zps_linux", "type": "Game" }
-
 # zdoom: https://zdoom.org/index
 { "name": "gzdoom", "type": "Game" }
 { "name": "zdoom", "type": "Game" }
 
+# https://store.steampowered.com/app/17500/Zombie_Panic_Source/
+{ "name": "zps_linux", "type": "Game" }
