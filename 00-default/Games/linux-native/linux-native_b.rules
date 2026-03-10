@@ -1,14 +1,13 @@
 ### B ###
 
-# https://store.steampowered.com/app/22828
-# Store page is down
+# Store page is down https://store.steampowered.com/app/22828
+# https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
 { "name": "BaldursGate", "type": "Game" }
 
 # https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "BaldursGateII", "type": "Game" }
 
-# https://store.steampowered.com/app/284160/BeamNGdrive/
-# Experimental native build
+# Experimental native build https://store.steampowered.com/app/284160/BeamNGdrive/
 { "name": "BeamNG.drive.x64", "type": "Game" }
 
 # https://store.steampowered.com/app/362890/Black_Mesa/

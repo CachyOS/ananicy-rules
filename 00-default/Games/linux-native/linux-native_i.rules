@@ -17,3 +17,16 @@
 
 # Imperator: Rome https://www.paradoxinteractive.com/games/imperator-rome
 { "name": "imperator", "type": "Game" }
+
+# Ironwail: High-performance QuakeSpasm fork https://github.com/andrei-drexler/ironwail
+{ "name": "ironwail", "type": "Game" }
+
+# ioquake3: https://ioquake3.org/
+{ "name": "ioquake3", "type": "Game" }
+{ "name": "quake3", "type": "Game" }
+
+# Iortcw : Merge of ioquake3 features and fixes into RTCW code bases https://github.com/iortcw/iortcw
+{ "name": "iortcw-mp", "type": "Game" }
+{ "name": "iortcw-sp", "type": "Game" }
+{ "name": "iowolfmp.x86_64", "type": "Game" }
+{ "name": "iowolfsp.x86_64", "type": "Game" }
