@@ -32,6 +32,12 @@
 # https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3949040/RV_There_Yet/
+# https://store.steampowered.com/app/345660/RIDE/
+{ "name": "Ride.exe", "type": "Game" }
+{ "name": "Ride-Win64-Shipping.exe", "type": "Game" }
+{ "name": "RideX64.exe", "type": "Game" }
+
 # Some KOEI TECMO Franchise's Game's
 { "name": "Launch.exe", "type": "Game" }
 { "name": "Launch_EA.exe", "type": "Game" }
