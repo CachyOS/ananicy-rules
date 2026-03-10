@@ -55,7 +55,3 @@
 
 # https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/
 { "name": "NecroDancer", "type": "Game" }
-
-# https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
-{ "name": "game.x86", "type": "Game" }
-{ "name": "game.x86_64", "type": "Game" }
