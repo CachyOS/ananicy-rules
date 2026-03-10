@@ -6,6 +6,9 @@
 { "name": "PenDriverPro.exe", "type": "Game" }
 { "name": "PenDriverPro-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC/
+{ "name": "PAC-MAN WORLD 2 Re-PAC.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/39530/Painkiller_Black_Edition/
 { "name": "Painkiller.exe", "type": "Game" }
 
@@ -24,12 +27,23 @@
 # https://store.steampowered.com/app/39560/Painkiller_Resurrection/
 { "name": "Resurrection.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2707930/Palia/
+{ "name": "PaliaClientSteam.exe", "type": "Game" }
+{ "name": "PaliaClientSteam-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1623730/Palworld
 { "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
 { "name": "Palworld.exe", "type": "Game" }
 
 # Paradiddle https://store.steampowered.com/app/685240/Paradiddle/
 { "name": "Paradiddle-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/858030/Paranoia_Happiness_is_Mandatory/
+{ "name": "PARANOIA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2197890/Paranormal_Cleanup/
+{ "name": "aCleaningHorror.exe", "type": "Game" }
+{ "name": "aCleaningHorror-Win64-Shipping.exe", "type": "Game" }
 
 # ParanormalHK https://store.steampowered.com/app/1178490/ParanormalHK/
 { "name": "PuzzleGame-Win64-Shipping.exe", "type": "Game" }
@@ -38,11 +52,17 @@
 # Party Animals https://store.steampowered.com/app/1260320/Party_Animals/
 { "name": "PartyAnimals.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2383200/PATAPON_12_REPLAY/
+{ "name": "PATAPON12_REPLAY.exe", "type": "Game" }
+
 # Pathfinder: Kingmaker https://store.steampowered.com/app/640820/Pathfinder_Kingmaker__Enhanced_Plus_Edition/
 { "name": "Kingmaker.exe", "type": "Game" }
 
 # Pathfinder: Wrath of the Righteous https://store.steampowered.com/app/1184370/Pathfinder_Wrath_of_the_Righteous__Enhanced_Edition/
 { "name": "Wrath.exe", "type": "Game" }
+
+# https://github.com/PathOfBuildingCommunity/PathOfBuilding
+{ "name": "Path of Building.exe", "type": "Heavy_CPU" }
 
 # https://store.steampowered.com/app/238960/Path_of_Exile/
 # https://store.steampowered.com/app/2694490/Path_of_Exile_2/
@@ -50,6 +70,9 @@
 { "name": "PathOfExileSteam.exe", "type": "Game" }
 { "name": "PathOfExile_x64.exe", "type": "Game" }
 { "name": "PathOfExile.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3199650/Pathologic_3/
+{ "name": "Pathologic3.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_win32_release.exe", "type": "Game" }
@@ -61,6 +84,17 @@
 
 # PEAK https://store.steampowered.com/app/3527290/PEAK/
 { "name": "PEAK.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1205520/Pentiment/
+{ "name": "Pentiment.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1118200/People_Playground/
+{ "name": "People Playground.exe", "type": "Game" }
+
+# Perceptum https://store.steampowered.com/app/4124340/Perceptum/
+# Only the Playtest is available at the moment
+{ "name": "Perceptum.exe", "type": "Game" }
+{ "name": "Perceptum-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1809700/Persona_3_Portable/
 { "name": "P3P.exe", "type": "Game" }
@@ -86,11 +120,56 @@
 # https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
 { "name": "pso2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2841770/Phantom_Squad/
+{ "name": "PhantomSquad.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/739630/Phasmophobia/
 { "name": "Phasmophobia.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/
+{ "name": "PWAAT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2885810/Pink_Noise/
+{ "name": "Pink Noise.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/
+{ "name": "Pioneers of Pagonia.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2524890/Pixel_Gun_3D_PC_Edition/
+{ "name": "Pixel Gun 3D.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1894430/Plan_B_Terraform/
 { "name": "Plan B Terraform.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/485030/PLANET_ALPHA/
+{ "name": "PlanetAlpha.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/493340/Planet_Coaster/
+{ "name": "PlanetCoaster.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2688950/Planet_Coaster_2/
+{ "name": "PlanetCoaster2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1608230/Planet_of_Lana/
+{ "name": "Planet of Lana.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2997230/Planet_of_Lana_II/
+{ "name": "Planet of Lana 2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/703080/Planet_Zoo/
+{ "name": "PlanetZoo.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/
+{ "name": "PlantsVsZombies.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1599600/PlateUp/
+{ "name": "PlateUp.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3198850/Play_Together/
+{ "name": "PlayTogether.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/
+{ "name": "PQTC.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/234710/Poker_Night_2/
 { "name": "PokerNight2.exe", "type": "Game" }
@@ -98,61 +177,12 @@
 # https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
 { "name": "CelebrityPoker.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/997010/Police_Simulator_Patrol_Officers/
+{ "name": "Boston.exe", "type": "Game" }
+{ "name": "Boston-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1241100/POLYGON/
 { "name": "POLYGON-Win64-Shipping.exe", "type": "Game" }
-
-# Portal 2 https://store.steampowered.com/app/620/Portal_2/
-{ "name": "portal2.exe", "type": "Game" }
-
-# Portal: Revolution https://store.steampowered.com/app/601360/Portal_Revolution/
-{ "name": "revolution.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/494430/Praey_for_the_Gods/
-{ "name": "Praey For the Gods.exe", "type": "Game" }
-
-# PRAGMATA DEMO https://store.steampowered.com/app/3357650/PRAGMATA/
-{ "name": "PRAGMATA_SKETCHBOOK.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2751000/Prince_of_Persia_The_Lost_Crown/
-{ "name": "TheLostCrown.exe", "type": "Game" }
-
-# Pro Evolution Soccer 6
-{ "name": "PES6.exe", "type": "Game" }
-
-# Pro Evolution Soccer 2013
-{ "name": "pes2013.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/895870/Project_Wingman/
-{ "name": "ProjectWingman.exe", "type": "Game" }
-{ "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1907590/Psycho_Patrol_R/
-{ "name": "psychopatrolr.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/
-{ "name": "PQTC.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/115320/Prototype_2/
-{ "name": "prototype2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1599600/PlateUp/
-{ "name": "PlateUp.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/10150/Prototype
-{ "name": "prototypef.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2511310/Pro_Cycling_Manager_25/
-{ "name": "PCM-Win64-Shipping.exe", "type": "Game" }
-{ "name": "PCM.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2063610/Pro_Cycling_Manager_2023/
-{ "name": "PCM64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/858030/Paranoia_Happiness_is_Mandatory/
-{ "name": "PARANOIA.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/794180/PRO_FISHING_SIMULATOR/
-{ "name": "ProFishingSimulator.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1721470/Poppy_Playtime/
 { "name": "Poppy_Playtime.exe", "type": "Game" }
@@ -176,56 +206,14 @@
 { "name": "ch5_pro.exe", "type": "Game" }
 { "name": "ch5_pro-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3198850/Play_Together/
-{ "name": "PlayTogether.exe", "type": "Game" }
+# Portal 2 https://store.steampowered.com/app/620/Portal_2/
+{ "name": "portal2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1205520/Pentiment/
-{ "name": "Pentiment.exe", "type": "Game" }
+# Portal: Revolution https://store.steampowered.com/app/601360/Portal_Revolution/
+{ "name": "revolution.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/607080/Psychonauts_2/
-{ "name": "Psychonauts2.exe", "type": "Game" }
-{ "name": "Psychonauts2-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/579490/RUSH_A_Disney_o_PIXAR_Adventure/
-{ "name": "Rushx64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1118200/People_Playground/
-{ "name": "People Playground.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2707930/Palia/
-{ "name": "PaliaClientSteam.exe", "type": "Game" }
-{ "name": "PaliaClientSteam-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/
-{ "name": "PlantsVsZombies.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/703080/Planet_Zoo/
-{ "name": "PlanetZoo.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/485030/PLANET_ALPHA/
-{ "name": "PlanetAlpha.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2997230/Planet_of_Lana_II/
-{ "name": "Planet of Lana 2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1608230/Planet_of_Lana/
-{ "name": "Planet of Lana.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/997010/Police_Simulator_Patrol_Officers/
-{ "name": "Boston.exe", "type": "Game" }
-{ "name": "Boston-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2688950/Planet_Coaster_2/
-{ "name": "PlanetCoaster2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/493340/Planet_Coaster/
-{ "name": "PlanetCoaster.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2524890/Pixel_Gun_3D_PC_Edition/
-{ "name": "Pixel Gun 3D.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/
-{ "name": "PWAAT.exe", "type": "Game" }
+# https://store.steampowered.com/app/1210320/Potion_Craft_Alchemist_Simulator/
+{ "name": "Potion Craft.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1290000/PowerWash_Simulator/
 # https://store.steampowered.com/app/2968420/PowerWash_Simulator_2/
@@ -234,52 +222,64 @@
 # https://store.steampowered.com/app/2968420/PowerWash_Simulator_2/
 { "name": "PowerWash Simulator 2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1210320/Potion_Craft_Alchemist_Simulator/
-{ "name": "Potion Craft.exe", "type": "Game" }
+# https://store.steampowered.com/app/494430/Praey_for_the_Gods/
+{ "name": "Praey For the Gods.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/
-{ "name": "Pioneers of Pagonia.exe", "type": "Game" }
+# PRAGMATA DEMO https://store.steampowered.com/app/3357650/PRAGMATA/
+{ "name": "PRAGMATA_SKETCHBOOK.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/961200/Predecessor/
 { "name": "PredecessorClient-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2324290/PACMAN_WORLD_2_RePAC/
-{ "name": "PAC-MAN WORLD 2 Re-PAC.exe", "type": "Game" }
+# https://store.steampowered.com/app/666150/Prehistoric_Kingdom/
+{ "name": "Prehistoric Kingdom.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2383200/PATAPON_12_REPLAY/
-{ "name": "PATAPON12_REPLAY.exe", "type": "Game" }
+# https://store.steampowered.com/app/321360/Primal_Carnage_Extinction/
+{ "name": "PrimalCarnageGame.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2885810/Pink_Noise/
-{ "name": "Pink Noise.exe", "type": "Game" }
+# https://store.steampowered.com/app/2751000/Prince_of_Persia_The_Lost_Crown/
+{ "name": "TheLostCrown.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2511310/Pro_Cycling_Manager_25/
+{ "name": "PCM-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PCM.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2063610/Pro_Cycling_Manager_2023/
+{ "name": "PCM64.exe", "type": "Game" }
+
+# Pro Evolution Soccer 6 https://www.pcgamingwiki.com/wiki/Pro_Evolution_Soccer_6
+{ "name": "PES6.exe", "type": "Game" }
+
+# Pro Evolution Soccer 2013 https://www.pcgamingwiki.com/wiki/Pro_Evolution_Soccer_2013
+{ "name": "pes2013.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/794180/PRO_FISHING_SIMULATOR/
+{ "name": "ProFishingSimulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/895870/Project_Wingman/
+{ "name": "ProjectWingman.exe", "type": "Game" }
+{ "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/10150/Prototype
+{ "name": "prototypef.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/115320/Prototype_2/
+{ "name": "prototype2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/
 { "name": "TslGame.exe", "type": "Game" }
 { "name": "TslGame_BE.exe", "type": "Game" }
 { "name": "TslGame_ZK.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3199650/Pathologic_3/
-{ "name": "Pathologic3.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/321360/Primal_Carnage_Extinction/
-{ "name": "PrimalCarnageGame.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2197890/Paranormal_Cleanup/
-{ "name": "aCleaningHorror.exe", "type": "Game" }
-{ "name": "aCleaningHorror-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2841770/Phantom_Squad/
-{ "name": "PhantomSquad.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/666150/Prehistoric_Kingdom/
-{ "name": "Prehistoric Kingdom.exe", "type": "Game" }
-
-# Perceptum https://store.steampowered.com/app/4124340/Perceptum/
-# Only the Playtest is available at the moment
-{ "name": "Perceptum.exe", "type": "Game" }
-{ "name": "Perceptum-Win64-Shipping.exe", "type": "Game" }
-
 # Psych Engine https://github.com/ShadowMario/FNF-PsychEngine
 { "name": "PsychEngine.exe", "type": "Game" }
 
-# https://github.com/PathOfBuildingCommunity/PathOfBuilding
-{ "name": "Path of Building.exe", "type": "Heavy_CPU" }
+# https://store.steampowered.com/app/607080/Psychonauts_2/
+{ "name": "Psychonauts2.exe", "type": "Game" }
+{ "name": "Psychonauts2-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1907590/Psycho_Patrol_R/
+{ "name": "psychopatrolr.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/579490/RUSH_A_Disney_o_PIXAR_Adventure/
+{ "name": "Rushx64.exe", "type": "Game" }
