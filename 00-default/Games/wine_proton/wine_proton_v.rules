@@ -20,9 +20,6 @@
 { "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "Vampyr-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/529340/Victoria_3/
-{ "name": "victoria3.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/42960/Victoria_II/
 { "name": "victoria2.exe", "type": "Game" }
 
@@ -79,6 +76,7 @@
 { "name": "Viewfinder.exe", "type": "Game" }
 
 # Victoria 3 https://www.paradoxinteractive.com/games/victoria-3
+# https://store.steampowered.com/app/529340/Victoria_3/
 { "name": "victoria3.exe", "type": "Game" }
 
 # Vs. RetroSpecter - Part Two: Infernadise https://gamebanana.com/mods/317366

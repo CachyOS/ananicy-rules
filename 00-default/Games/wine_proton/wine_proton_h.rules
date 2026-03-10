@@ -32,9 +32,6 @@
 # Hearthstone https://hearthstone.blizzard.com/en-us
 { "name": "Hearthstone.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
-{ "name": "hoi4.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/414340/Hellblade_Senuas_Sacrifice/
 { "name": "HellbladeGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "HellbladeGame.exe", "type": "Game" }
@@ -235,4 +232,5 @@
 { "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
 
 # Hearts of Iron IV https://www.paradoxinteractive.com/games/hearts-of-iron-iv
+# https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 { "name": "hoi4.exe", "type": "Game" }

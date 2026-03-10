@@ -38,7 +38,6 @@
 { "name": "cosmic-applet-workspaces", "type": "LowLatency_RT" }
 { "name": "cosmic-applets", "type": "LowLatency_RT" }
 { "name": "cosmic-panel-button", "type": "LowLatency_RT" }
-{ "name": "cosmic-app-list", "type": "LowLatency_RT" }
 
 # Launcher for the COSMIC Desktop Environment
 { "name": "cosmic-launcher", "type": "LowLatency_RT" }

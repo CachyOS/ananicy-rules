@@ -94,9 +94,6 @@
 # https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/
 { "name": "Civ5XP", "type": "Game" }
 
-# https://store.steampowered.com/app/281990/Stellaris/
-{ "name": "stellaris", "type": "Game" }
-
 # https://store.steampowered.com/app/275670/Space_Run/
 { "name": "oSpaceGameMerged", "type": "Game" }
 
@@ -127,6 +124,7 @@
 { "name": "tld.x86_64", "type": "Game" }
 
 # Stellaris https://www.paradoxinteractive.com/games/stellaris
+# https://store.steampowered.com/app/281990/Stellaris/
 { "name": "stellaris", "type": "Game" }
 
 # Super Mario 64 Coop DX | https://github.com/coop-deluxe/sm64coopdx

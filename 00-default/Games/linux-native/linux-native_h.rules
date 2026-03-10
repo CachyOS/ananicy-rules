@@ -6,9 +6,6 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
-# https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
-{ "name": "hoi4", "type": "Game" }
-
 # https://store.steampowered.com/app/341940/Hatred/
 { "name": "Hatred-Linux-Shipping", "type": "Game" }
 
@@ -48,5 +45,6 @@
 { "name": "hexen2", "type": "Game" }
 { "name": "hwcl", "type": "Game" }
 
-# Hearts of Iron IV (Native) - https://www.paradoxinteractive.com/games/hearts-of-iron-iv
+# Hearts of Iron IV https://www.paradoxinteractive.com/games/hearts-of-iron-iv
+# https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 { "name": "hoi4", "type": "Game" }

@@ -23,12 +23,6 @@
 # https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 { "name": "Environmental Station Alpha.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3450310/Europa_Universalis_V/
-{ "name": "eu5.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/236850/Europa_Universalis_IV/
-{ "name": "eu4.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/25800/Europa_Universalis_III_Complete/
 { "name": "eu3.exe", "type": "Game" }
 
@@ -113,7 +107,9 @@
 { "name": "Enigma.exe", "type": "Game" }
 
 # Europa Universalis IV https://www.paradoxinteractive.com/games/europa-universalis-iv
+# https://store.steampowered.com/app/236850/Europa_Universalis_IV/
 { "name": "eu4.exe", "type": "Game" }
 
 # Europa Universalis V https://www.paradoxinteractive.com/games/europa-universalis-v
+# https://store.steampowered.com/app/3450310/Europa_Universalis_V/
 { "name": "eu5.exe", "type": "Game" }
