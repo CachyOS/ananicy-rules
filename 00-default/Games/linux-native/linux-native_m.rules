@@ -2,31 +2,32 @@
 
 ### M ###
 
-# Megabonk https://store.steampowered.com/app/3405340
+# https://store.steampowered.com/app/607260/McOsu/
+{ "name": "McEngine", "type": "Game" }
+
+# Megabonk https://store.steampowered.com/app/3405340/Megabonk/
 { "name": "Megabonk.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/361300/Mother_Russia_Bleeds/
-{ "name": "Mother Russia Bleeds.x86_64", "type": "Game" }
-
-# https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
-{ "name": "mcv_linux64", "type": "Game" }
+# https://store.steampowered.com/app/1267910/Melvor_Idle/
+{ "name": "Melvor Idle", "type": "Game" }
 
 # https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro", "type": "Game" }
 
-# https://store.steampowered.com/app/607260/McOsu/
-{ "name": "McEngine", "type": "Game" }
+# https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
+{ "name": "mcv_linux64", "type": "Game" }
 
 # https://store.steampowered.com/app/1657090/Mini_Royale/
 { "name": "RoomRoyalA-Linux-Shipping", "type": "Game" }
 
-# https://store.steampowered.com/app/1267910/Melvor_Idle/
-{ "name": "Melvor Idle", "type": "Game" }
+# Mobmod https://gamebanana.com/mods/464620
+{ "name": "Mobbos", "type": "Game" }
+
+# https://store.steampowered.com/app/361300/Mother_Russia_Bleeds/
+{ "name": "Mother Russia Bleeds.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/48700/Mount__Blade_Warband/
 { "name": "mb_warband_linux", "type": "Game" }
 
-# Mobmod https://gamebanana.com/mods/464620
-{ "name": "Mobbos", "type": "Game" }
 
