@@ -5,14 +5,25 @@
 # https://store.steampowered.com/app/801550/VAIL_Extraction/
 { "name": "VAIL.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/438430/Valentino_Rossi_The_Game/
+{ "name": "MotoGPVR46.exe", "type": "Game" }
+{ "name": "MotoGPVR46X64.exe", "type": "Game" }
+
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "Valheim.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
+{ "name": "VBR.exe", "type": "Game" }
+{ "name": "VBR-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1794680/Vampire_Survivors/
 { "name": "VampireSurvivors.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
 { "name": "vampire.exe", "type": "Game" }
+
+# Vampire: The Masquerade Bloodlines : Unofficial Patch https://www.moddb.com/mods/vtmb-unofficial-patch
+{ "name": "Vampire.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1299510/Vampire_The_Masquerade__Swansong/
 { "name": "Swansong.exe", "type": "Game" }
@@ -22,8 +33,21 @@
 { "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "Vampyr-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/338140/Venetica__Gold_Edition/
+{ "name": "Venetica.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/42960/Victoria_II/
 { "name": "victoria2.exe", "type": "Game" }
+
+# Victoria 3 https://www.paradoxinteractive.com/games/victoria-3
+# https://store.steampowered.com/app/529340/Victoria_3/
+{ "name": "victoria3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1382070/Viewfinder/
+{ "name": "Viewfinder.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2909580/Viractal_Will_You_Trust_Your_Party/
+{ "name": "VIractal.exe", "type": "Game" }
 
 # Virtual Fighter Maneuvers https://store.steampowered.com/app/3952640/Virtual_Fighter_Maneuvers/
 { "name": "VFM.exe", "type": "Game" }
@@ -32,11 +56,25 @@
 { "name": "VOIDBREAKER.exe", "type": "Game" }
 { "name": "VOIDBREAKER-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1063420/Void_Crew/
+{ "name": "Void Crew.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1159690/Voidtrain/
 { "name": "VoidTrain.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2464530/VOIN/
+{ "name": "VOIN.exe", "type": "Game" }
+{ "name": "VOIN-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1702390/Voor_De_Kroon/
+{ "name": "FormationSystem.exe", "type": "Game" }
+{ "name": "FormationSystem-Win64-Shipping.exe", "type": "Game" }
+
 # https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/658700/VRally_4/
+{ "name": "VRally4.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/438100/VRChat/
 { "name": "VRChat.exe", "type": "Game" }
@@ -44,50 +82,12 @@
 # V Rising https://store.steampowered.com/app/1604030/V_Rising/
 { "name": "VRising.exe", "type": "Game" }
 
-# https://www.moddb.com/mods/vtmb-unofficial-patch
-{ "name": "Vampire.exe", "type": "Game" }
-
-# VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
-{ "name": "VTOLVR.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/658700/VRally_4/
-{ "name": "VRally4.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1063420/Void_Crew/
-{ "name": "Void Crew.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/338140/Venetica__Gold_Edition/
-{ "name": "Venetica.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1702390/Voor_De_Kroon/
-{ "name": "FormationSystem.exe", "type": "Game" }
-{ "name": "FormationSystem-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2464530/VOIN/
-{ "name": "VOIN.exe", "type": "Game" }
-{ "name": "VOIN-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2909580/Viractal_Will_You_Trust_Your_Party/
-{ "name": "VIractal.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
-{ "name": "VBR.exe", "type": "Game" }
-{ "name": "VBR-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1382070/Viewfinder/
-{ "name": "Viewfinder.exe", "type": "Game" }
-
-# Victoria 3 https://www.paradoxinteractive.com/games/victoria-3
-# https://store.steampowered.com/app/529340/Victoria_3/
-{ "name": "victoria3.exe", "type": "Game" }
-
-# Vs. RetroSpecter - Part Two: Infernadise https://gamebanana.com/mods/317366
-{ "name": "FNF - Vs. RetroSpecter.exe", "type": "Game" }
-
 # VS IMPOSTOR https://gamebanana.com/mods/590608
 { "name": "Vs. Impostor.exe", "type": "Game" }
 { "name": "VS Impostor.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/438430/Valentino_Rossi_The_Game/
-{ "name": "MotoGPVR46.exe", "type": "Game" }
-{ "name": "MotoGPVR46X64.exe", "type": "Game" }
+# Vs. RetroSpecter - Part Two: Infernadise https://gamebanana.com/mods/317366
+{ "name": "FNF - Vs. RetroSpecter.exe", "type": "Game" }
+
+# VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
+{ "name": "VTOLVR.exe", "type": "Game" }
