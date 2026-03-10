@@ -41,6 +41,7 @@
 # https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 { "name": "game.x86", "type": "Game" }
 { "name": "game.x86_64", "type": "Game" }
+
 # https://store.steampowered.com/app/391540/Undertale/
 # https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
 # https://store.steampowered.com/app/491040/Bot_Vice/
@@ -53,3 +54,35 @@
 
 # https://store.steampowered.com/app/1229240/Chained_Echoes/
 { "name": "Chained_Echoes.x86_64", "type": "Game" }
+
+# https://classicube.net
+{ "name": "ClassiCube", "type": "Game" }
+{ "name": "classicube", "type": "Game" }
+
+# chocolate doom: https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom
+{ "name": "chocolate-doom", "type": "Game" }
+
+# Codename Engine https://github.com/CodenameCrew/CodenameEngine
+{ "name": "CodenameEngine", "type": "Game" }
+{ "name": "CodenameEngine.exe", "type": "Game" }
+
+# Crusader Kings II (Native)- https://www.paradoxinteractive.com/games/crusader-kings-ii
+{ "name": "ck2", "type": "Game" }
+
+# Crusader Kings II (Windows)- https://www.paradoxinteractive.com/games/crusader-kings-ii
+{ "name": "ck2.exe", "type": "Game" }
+
+# Crusader Kings III (Native)- https://www.paradoxinteractive.com/games/crusader-kings-iii
+{ "name": "ck3", "type": "Game" }
+
+# Crusader Kings III (Windows)- https://www.paradoxinteractive.com/games/crusader-kings-iii
+{ "name": "ck3.exe", "type": "Game" }
+
+
+
+
+
+
+
+
+

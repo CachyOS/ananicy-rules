@@ -41,3 +41,15 @@
 
 # https://store.steampowered.com/app/280180/Hover/
 { "name": "Hover.x86", "type": "Game" }
+
+# http://uhexen2.sourceforge.net/
+{ "name": "glhexen2", "type": "Game" }
+{ "name": "glhwcl", "type": "Game" }
+{ "name": "hexen2", "type": "Game" }
+{ "name": "hwcl", "type": "Game" }
+
+# Hearts of Iron IV (Native) - https://www.paradoxinteractive.com/games/hearts-of-iron-iv
+{ "name": "hoi4", "type": "Game" }
+
+# Hearts of Iron IV (Windows) - https://www.paradoxinteractive.com/games/hearts-of-iron-iv
+{ "name": "hoi4.exe", "type": "Game" }

@@ -125,3 +125,22 @@
 
 # https://store.steampowered.com/app/305620/The_Long_Dark/
 { "name": "tld.x86_64", "type": "Game" }
+
+# Stellaris (Native) - https://www.paradoxinteractive.com/games/stellaris
+{ "name": "stellaris", "type": "Game" }
+
+# Stellaris (Windows) - https://www.paradoxinteractive.com/games/stellaris
+{ "name": "stellaris.exe", "type": "Game" }
+
+# Super Mario 64 Coop DX | https://github.com/coop-deluxe/sm64coopdx
+{ "name": "sm64coopdx", "type": "Game" }
+
+# Roblox game launcher: https://sober.vinegarhq.org/
+{ "name": "sober", "type": "Game" }
+{ "name": "sober_services", "type": "Game" }
+
+# Unleashed Recomp (Sonic Unleashed Recompiled): https://github.com/hedge-dev/UnleashedRecomp
+{ "name": "UnleashedRecomp", "type": "Game" }
+
+# SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play https://supertuxkart.net/
+{ "name": "supertuxkart", "type": "Game" }

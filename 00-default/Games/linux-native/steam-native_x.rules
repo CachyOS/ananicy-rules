@@ -5,3 +5,8 @@
 
 # https://store.steampowered.com/app/268500/XCOM_2/
 { "name": "XCOM2", "type": "Game" }
+
+# Xonotic https://www.xonotic.org/
+{ "name": "xonotic-glx", "type": "Game" }
+{ "name": "xonotic-local-sdl", "type": "Game" }
+{ "name": "xonotic-sdl", "type": "Game" }

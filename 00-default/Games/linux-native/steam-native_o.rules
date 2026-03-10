@@ -15,3 +15,15 @@
 # https://store.steampowered.com/app/728880/Overcooked_2/
 { "name": "Overcooked2.x86", "type": "Game" }
 { "name": "Overcooked2.x86_64 ", "type": "Game" }
+
+# OpenMW - an open source replacement engine for morrowind https://openmw.org/en/
+{ "name": "openmw.x86_64", "type": "Game" }
+
+# osu!lazer is a Rhythm game https://github.com/ppy/osu
+{ "name": "osu!", "type": "Game" }
+
+# Stable Version https://osu.ppy.sh
+{ "name": "osu!.exe", "type": "Game" }
+
+# openrct2: https://openrct2.org/
+{ "name": "openrct2", "type": "Game" }

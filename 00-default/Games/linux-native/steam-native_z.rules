@@ -2,3 +2,11 @@
 
 # https://store.steampowered.com/app/17500/Zombie_Panic_Source/
 { "name": "zps_linux", "type": "Game" }
+
+# zdoom: https://zdoom.org/index
+{ "name": "gzdoom", "type": "Game" }
+{ "name": "zdoom", "type": "Game" }
+
+# The Legend of Zelda: Majora's Mask Recompiled
+# https://github.com/Zelda64Recomp/Zelda64Recomp
+{ "name": "Zelda64Recompiled", "type": "Game" }

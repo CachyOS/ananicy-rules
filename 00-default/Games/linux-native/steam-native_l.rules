@@ -8,3 +8,13 @@
 
 # https://store.steampowered.com/app/48000/LIMBO/
 { "name": "limbo", "type": "Game" }
+
+# http://www.luanti.org/
+{ "name": "luanti", "type": "Game" }
+{ "name": "luanti.bin", "type": "Game" }
+
+# Imperator: Rome (Native) - https://www.paradoxinteractive.com/games/imperator-rome
+{ "name": "imperator", "type": "Game" }
+
+# Imperator: Rome (Windows) - https://www.paradoxinteractive.com/games/imperator-rome
+{ "name": "imperator.exe", "type": "Game" }
