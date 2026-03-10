@@ -5,9 +5,22 @@
 # https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2644050/Echoes_of_Elysium/
+{ "name": "Elysium.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/382310/Eco/
+{ "name": "Eco.exe", "type": "Game" }
+
 # eFootball https://store.steampowered.com/app/1665460/eFootball/
 { "name" : "eFootball.exe", "type": "Game" }
 { "name" : "Settings.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2570210/Eden_Crafters/
+{ "name": "EdenCrafters.exe", "type": "Game" }
+{ "name": "EdenCrafters32.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/269190/Edge_Of_Eternity/
+{ "name": "EdgeOfEternity.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1245620/ELDEN_RING/
 { "name": "eldenring.exe", "type": "Game" }
@@ -15,9 +28,23 @@
 # https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/
 { "name": "nightreign.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2135150/Elin/
+{ "name": "Elin.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/359320/Elite_Dangerous/
+{ "name": "EliteDangerous32.exe", "type": "Game" }
+{ "name": "EliteDangerous64.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/
+{ "name": "EotU.exe", "type": "Game" }
+{ "name": "EotU-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
 { "name": "EnderLiliesSteam-Win64-Shipping.exe", "type": "Game" }
 { "name": "EnderLilies.exe", "type": "Game" }
+
+# Enigma do Medo (Enigma of Fear) https://store.steampowered.com/app/1507580/Enigma_do_Medo/
+{ "name": "Enigma.exe", "type": "Game" }
 
 # Enshrouded https://store.steampowered.com/app/1203620/Enshrouded/
 { "name": "enshrouded.exe", "type": "Game" }
@@ -25,14 +52,55 @@
 # https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 { "name": "Environmental Station Alpha.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3258290/Equinox_Homecoming/
+{ "name": "ThunderHorseClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ThunderHorseClient.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3167020/Escape_From_Duckov/
+{ "name": "Duckov.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3932890/Escape_from_Tarkov/
+{ "name": "EscapeFromTarkov.exe", "type": "Game" }
+{ "name": "EscapeFromTarkov_BE.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1435790/Escape_Simulator/
+{ "name": "Escape Simulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2879840/Escape_Simulator_2/
+{ "name": "Escape Simulator2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1943950/Escape_the_Backrooms/
+{ "name": "Backrooms.exe", "type": "Game" }
+{ "name": "Backrooms-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2057760/Esoteric_Ebb/
+{ "name": "Esoteric Ebb.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/245370/Etherium/
+{ "name": "Etherium.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/25800/Europa_Universalis_III_Complete/
 { "name": "eu3.exe", "type": "Game" }
+
+# Europa Universalis IV https://www.paradoxinteractive.com/games/europa-universalis-iv
+# https://store.steampowered.com/app/236850/Europa_Universalis_IV/
+{ "name": "eu4.exe", "type": "Game" }
+
+# Europa Universalis V https://www.paradoxinteractive.com/games/europa-universalis-v
+# https://store.steampowered.com/app/3450310/Europa_Universalis_V/
+{ "name": "eu5.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/232010/Euro_Truck_Simulator/
+{ "name": "eurotrucks.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
 { "name": "eurotrucks2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/232010/Euro_Truck_Simulator/
-{ "name": "eurotrucks.exe", "type": "Game" }
+# https://store.steampowered.com/app/8500/EVE_Online/
+{ "name": "eve-online.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2730810/EVERYBODYS_GOLF_HOT_SHOTS/
+{ "name": "EverybodysGolfHotShots.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1493750/Evil_Dead_The_Game/
 { "name": "EvilDead-Win64-Shipping.exe", "type": "Game" }
@@ -42,76 +110,8 @@
 { "name": "EvilWest.exe", "type": "Game" }
 { "name": "HighMoon-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/804000/Expendable/
-{ "name": "Expendable.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/359320/Elite_Dangerous/
-{ "name": "EliteDangerous32.exe", "type": "Game" }
-{ "name": "EliteDangerous64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/269190/Edge_Of_Eternity/
-{ "name": "EdgeOfEternity.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/8500/EVE_Online/
-{ "name": "eve-online.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3167020/Escape_From_Duckov/
-{ "name": "Duckov.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2477340/Expeditions_A_MudRunner_Game/
 { "name": "Expeditions.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/245370/Etherium/
-{ "name": "Etherium.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1943950/Escape_the_Backrooms/
-{ "name": "Backrooms.exe", "type": "Game" }
-{ "name": "Backrooms-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2135150/Elin/
-{ "name": "Elin.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2057760/Esoteric_Ebb/
-{ "name": "Esoteric Ebb.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1435790/Escape_Simulator/
-{ "name": "Escape Simulator.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2879840/Escape_Simulator_2/
-{ "name": "Escape Simulator2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3932890/Escape_from_Tarkov/
-{ "name": "EscapeFromTarkov.exe", "type": "Game" }
-{ "name": "EscapeFromTarkov_BE.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3258290/Equinox_Homecoming/
-{ "name": "ThunderHorseClient-Win64-Shipping.exe", "type": "Game" }
-{ "name": "ThunderHorseClient.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/
-{ "name": "EotU.exe", "type": "Game" }
-{ "name": "EotU-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2570210/Eden_Crafters/
-{ "name": "EdenCrafters.exe", "type": "Game" }
-{ "name": "EdenCrafters32.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2644050/Echoes_of_Elysium/
-{ "name": "Elysium.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/382310/Eco/
-{ "name": "Eco.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2730810/EVERYBODYS_GOLF_HOT_SHOTS/
-{ "name": "EverybodysGolfHotShots.exe", "type": "Game" }
-
-# Enigma do Medo (Enigma of Fear) https://store.steampowered.com/app/1507580/Enigma_do_Medo/
-{ "name": "Enigma.exe", "type": "Game" }
-
-# Europa Universalis IV https://www.paradoxinteractive.com/games/europa-universalis-iv
-# https://store.steampowered.com/app/236850/Europa_Universalis_IV/
-{ "name": "eu4.exe", "type": "Game" }
-
-# Europa Universalis V https://www.paradoxinteractive.com/games/europa-universalis-v
-# https://store.steampowered.com/app/3450310/Europa_Universalis_V/
-{ "name": "eu5.exe", "type": "Game" }
+# https://store.steampowered.com/app/804000/Expendable/
+{ "name": "Expendable.exe", "type": "Game" }
