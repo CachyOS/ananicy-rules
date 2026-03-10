@@ -2,9 +2,6 @@
 
 ### V ###
 
-# https://store.steampowered.com/app/70300/VVVVVV/
-{ "name": "VVVVVV", "type": "Game" }
-
 # Victoria 3 https://www.paradoxinteractive.com/games/victoria-3
 # https://store.steampowered.com/app/529340/Victoria_3/
 { "name": "victoria3", "type": "Game" }
@@ -18,3 +15,6 @@
 
 # vkquake2: https://github.com/kondrak/vkQuake2
 { "name": "vkquake2", "type": "Game" }
+
+# https://store.steampowered.com/app/70300/VVVVVV/
+{ "name": "VVVVVV", "type": "Game" }
