@@ -2,32 +2,39 @@
 
 ### D ###
 
-# http://store.steampowered.com/app/570/Dota_2/
-{ "name": "dota2", "type": "Game" }
-
-# https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
-{ "name": "EoCApp", "type": "Game" }
-
-# https://store.steampowered.com/app/383930 (AND OTHER DOORWAYS GAMES)
-{ "name": "Doorways.x86", "type": "Game" }
-
-# https://store.steampowered.com/app/239140/Dying_Light/
-{ "name": "DyingLightGame", "type": "Game" }
-
 # https://store.steampowered.com/app/274520/Darkwood/
 { "name": "Darkwood.x86_64", "type": "Game" }
 
+# https://store.steampowered.com/app/588650/Dead_Cells/
+{ "name": "deadcells", "type": "Game" }
+{ "name": "deadcells.sh", "type": "BG_CPUIO" }
+
+# DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
+{ "name": "DDNet", "type": "Game" }
+{ "name": "DDNet-Server", "type": "LowLatency_RT" }
+
+# devilutionx: https://github.com/diasurgical/devilutionX
+{ "name": "devilutionx", "type": "Game" }
+
+# dhewm3: https://dhewm3.org/
+{ "name": "dhewm3", "type": "Game" }
+
 # https://store.steampowered.com/app/495280/Disgaea_2_PC/
 { "name": "Disgaea2SteamOS", "type": "Game" }
+
+# https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
+{ "name": "EoCApp", "type": "Game" }
 
 # https://store.steampowered.com/app/219740/Dont_Starve/
 # https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam", "type": "Game" }
 { "name": "dontstarve_steam_x64", "type": "Game" }
 
-# https://store.steampowered.com/app/588650/Dead_Cells/
-{ "name": "deadcells", "type": "Game" }
-{ "name": "deadcells.sh", "type": "BG_CPUIO" }
+# https://store.steampowered.com/app/383930/Doorways_Holy_Mountains_of_Flesh/ (AND OTHER DOORWAYS GAMES)
+{ "name": "Doorways.x86", "type": "Game" }
+
+# http://store.steampowered.com/app/570/Dota_2/
+{ "name": "dota2", "type": "Game" }
 
 # https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
 { "name": "DustAET", "type": "Game" }
@@ -36,12 +43,5 @@
 { "name": "d1x-rebirth", "type": "Game" }
 { "name": "d2x-rebirth", "type": "Game" }
 
-# devilutionx: https://github.com/diasurgical/devilutionX
-{ "name": "devilutionx", "type": "Game" }
-
-# dhewm3: https://dhewm3.org/
-{ "name": "dhewm3", "type": "Game" }
-
-# DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
-{ "name": "DDNet", "type": "Game" }
-{ "name": "DDNet-Server", "type": "LowLatency_RT" }
+# https://store.steampowered.com/app/239140/Dying_Light/
+{ "name": "DyingLightGame", "type": "Game" }
