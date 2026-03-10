@@ -126,11 +126,8 @@
 # https://store.steampowered.com/app/305620/The_Long_Dark/
 { "name": "tld.x86_64", "type": "Game" }
 
-# Stellaris (Native) - https://www.paradoxinteractive.com/games/stellaris
+# Stellaris https://www.paradoxinteractive.com/games/stellaris
 { "name": "stellaris", "type": "Game" }
-
-# Stellaris (Windows) - https://www.paradoxinteractive.com/games/stellaris
-{ "name": "stellaris.exe", "type": "Game" }
 
 # Super Mario 64 Coop DX | https://github.com/coop-deluxe/sm64coopdx
 { "name": "sm64coopdx", "type": "Game" }

@@ -379,3 +379,6 @@
 # https://store.steampowered.com/app/2507950/Delta_Force/
 { "name": "DeltaForceClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "DeltaForceClient.exe", "type": "Game" }
+
+# dreamseeker.exe, the runner for byond games such as ss13 https://www.byond.com/
+{ "name": "dreamseeker.exe", "type": "Game" }

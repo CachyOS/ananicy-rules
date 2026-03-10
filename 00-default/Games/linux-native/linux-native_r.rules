@@ -20,7 +20,6 @@
 
 # RimWorld - https://rimworldgame.com/
 { "name": "RimWorldLinux", "type": "Game" }
-{ "name": "RimWorldWin64.exe", "type": "Game" }
 
 # Riot: https://about.riot.im/
 { "name": "riot-web", "type": "LowLatency_RT" }

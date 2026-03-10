@@ -64,7 +64,5 @@
 
 # Psych Engine https://github.com/ShadowMario/FNF-PsychEngine
 { "name": "PsychEngine", "type": "Game" }
-{ "name": "PsychEngine.exe", "type": "Game" }
 
-# https://github.com/PathOfBuildingCommunity/PathOfBuilding
-{ "name": "Path of Building.exe", "type": "Heavy_CPU" }
+

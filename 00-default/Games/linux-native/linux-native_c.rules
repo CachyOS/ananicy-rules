@@ -64,19 +64,16 @@
 
 # Codename Engine https://github.com/CodenameCrew/CodenameEngine
 { "name": "CodenameEngine", "type": "Game" }
-{ "name": "CodenameEngine.exe", "type": "Game" }
 
 # Crusader Kings II (Native)- https://www.paradoxinteractive.com/games/crusader-kings-ii
 { "name": "ck2", "type": "Game" }
 
-# Crusader Kings II (Windows)- https://www.paradoxinteractive.com/games/crusader-kings-ii
-{ "name": "ck2.exe", "type": "Game" }
-
-# Crusader Kings III (Native)- https://www.paradoxinteractive.com/games/crusader-kings-iii
+# Crusader Kings III https://www.paradoxinteractive.com/games/crusader-kings-iii
 { "name": "ck3", "type": "Game" }
 
-# Crusader Kings III (Windows)- https://www.paradoxinteractive.com/games/crusader-kings-iii
-{ "name": "ck3.exe", "type": "Game" }
+
+
+
 
 
 

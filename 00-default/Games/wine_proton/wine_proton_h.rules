@@ -233,3 +233,6 @@
 # Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2
 { "name": "HelloNeighbor2.exe", "type": "Game" }
 { "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
+
+# Hearts of Iron IV https://www.paradoxinteractive.com/games/hearts-of-iron-iv
+{ "name": "hoi4.exe", "type": "Game" }

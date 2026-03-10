@@ -275,3 +275,9 @@
 # Only the Playtest is available at the moment
 { "name": "Perceptum.exe", "type": "Game" }
 { "name": "Perceptum-Win64-Shipping.exe", "type": "Game" }
+
+# Psych Engine https://github.com/ShadowMario/FNF-PsychEngine
+{ "name": "PsychEngine.exe", "type": "Game" }
+
+# https://github.com/PathOfBuildingCommunity/PathOfBuilding
+{ "name": "Path of Building.exe", "type": "Heavy_CPU" }

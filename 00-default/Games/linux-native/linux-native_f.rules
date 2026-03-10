@@ -23,16 +23,6 @@
 
 # https://github.com/FunkinCrew/Funkin ; Friday Night Funkin' (base game)
 { "name": "Funkin", "type": "Game" }
-{ "name": "Funkin.exe", "type": "Game" }
-
-# Friday Night Funkin': Mario's Madness; https://gamebanana.com/mods/359554
-{ "name": "Mario.exe", "type": "Game" }
-
-# FNF VS Hypno's Lullaby https://gamejolt.com/games/hypnos-lullabyv2cancelled/758792
-{ "name": "Hypnos Lullaby.exe", "type": "Game" }
-
-# Friday Night Funkin': ANTIPATHY https://gamebanana.com/mods/404314
-{ "name": "AntipathyPsych.exe", "type": "Game" }
 
 # freesynd: https://freesynd.sourceforge.io/
 { "name": "freesynd", "type": "Game" }
