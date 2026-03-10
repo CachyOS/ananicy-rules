@@ -2,23 +2,17 @@
 
 ### R ###
 
-# http://store.steampowered.com/app/252950/Rocket_League/
-{ "name": "RocketLeague", "type": "Game" }
-
-# http://store.steampowered.com/app/301520/Robocraft/
-{ "name": "Robocraft.x86_64", "type": "Game" }
-
 # https://store.steampowered.com/app/559210/Rakuen/
 { "name": "Rakuen.amd64", "type": "Game" }
 
 # https://store.steampowered.com/app/636480/Ravenfield/
 { "name": "ravenfield.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/975150/Resolutiion/
-{ "name": "Resolutiion.x86_64", "type": "Game" }
-
 # rbdoom3bfg: https://github.com/RobertBeckebans/RBDOOM-3-BFG
 { "name": "rbdoom3bfg", "type": "Game" }
+
+# https://store.steampowered.com/app/975150/Resolutiion/
+{ "name": "Resolutiion.x86_64", "type": "Game" }
 
 # RimWorld - https://rimworldgame.com/
 { "name": "RimWorldLinux", "type": "Game" }
@@ -26,10 +20,16 @@
 # Riot: https://about.riot.im/
 { "name": "riot-web", "type": "LowLatency_RT" }
 
-# rottexptr: https://github.com/LTCHIPS/rottexpr
-{ "name": "rott", "type": "Game" }
-{ "name": "rottexpr", "type": "Game" }
+# http://store.steampowered.com/app/301520/Robocraft/
+{ "name": "Robocraft.x86_64", "type": "Game" }
+
+# http://store.steampowered.com/app/252950/Rocket_League/
+{ "name": "RocketLeague", "type": "Game" }
 
 # rott: http://icculus.org/rott/
 { "name": "rott-registered", "type": "Game" }
 { "name": "rott-shareware", "type": "Game" }
+
+# rottexptr: https://github.com/LTCHIPS/rottexpr
+{ "name": "rott", "type": "Game" }
+{ "name": "rottexpr", "type": "Game" }
