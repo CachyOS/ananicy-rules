@@ -1,16 +1,14 @@
+# Add games in alphabetical order.
+
 ### A ###
 
-# https://store.steampowered.com/app/332200/Axiom_Verge/
-{ "name": "AxiomVerge.bin.x86", "type": "Game" }
-{ "name": "AxiomVerge.bin.x86_64", "type": "Game" }
+# aleph one: https://alephone.lhowon.org/
+{ "name": "alephone", "type": "Game" }
 
-# https://store.steampowered.com/app/235800/Audiosurf_2/
-{ "name": "Audiosurf2.x86_64", "type": "Game" }
+# Alien Isolation https://store.steampowered.com/app/214490/Alien_Isolation/
+{ "name": "AlienIsolation", "type": "Game" }
 
-# https://store.steampowered.com/app/349690/ARMED_SEVEN/
-{ "name": "ArmedSeven.x86", "type": "Game" }
-
-# Native American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
+# American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks", "type": "Game" }
 
 # https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
@@ -22,11 +20,15 @@
 # https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
 { "name": "deskjob", "type": "Game" }
 
-# Alien Isolation https://store.steampowered.com/app/214490/Alien_Isolation/
-{ "name": "AlienIsolation", "type": "Game" }
+# https://store.steampowered.com/app/349690/ARMED_SEVEN/
+{ "name": "ArmedSeven.x86", "type": "Game" }
 
 # AssaultCube https://assault.cubers.net
 { "name": "linux_64_client", "type": "Game" }
 
-# aleph one: https://alephone.lhowon.org/
-{ "name": "alephone", "type": "Game" }
+# https://store.steampowered.com/app/235800/Audiosurf_2/
+{ "name": "Audiosurf2.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/332200/Axiom_Verge/
+{ "name": "AxiomVerge.bin.x86", "type": "Game" }
+{ "name": "AxiomVerge.bin.x86_64", "type": "Game" }
