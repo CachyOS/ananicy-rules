@@ -2,6 +2,16 @@
 
 ### D ###
 
+# https://store.steampowered.com/app/1037130/Dandy_Ace/
+{ "name": "DandyAce.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/262060/Darkest_Dungeon/
+{ "name": "Darkest.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/370870/Dark_Future_Blood_Red_States/
+{ "name": "DarkFuture.exe", "type": "Game" }
+{ "name": "DarkFuture-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/236430/DARK_SOULS_II/
 { "name": "DarkSoulsII.exe", "type": "Game" }
 
@@ -10,6 +20,9 @@
 
 # https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
 { "name": "DarkSoulsRemastered.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2201320/Date_Everything/
+{ "name": "Date Everything.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/
 { "name": "DaveTheDiver.exe", "type": "Game" }
@@ -22,18 +35,33 @@
 { "name": "DayZ_x64.exe", "type": "Game" }
 { "name": "DayZLauncher.exe", "type": "BG_CPUIO" }
 
+# https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/
+{ "name": "DCS.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/381210/Dead_by_Daylight/
 { "name": "DeadByDaylight.exe", "type": "Game" }
 { "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2511800/Dead_in_Antares/
+{ "name": "Dead In Antares.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/934700/Dead_Island_2/
 { "name": "DeadIsland-Win64-Shipping.exe", "type": "Game" }
 { "name": "DeadIsland.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/211400/Deadlight/
+{ "name": "LOTDGame.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1422450/Deadlock
 { "name": "deadlock.exe", "type": "Game" }
 { "name": "MainThrd", "type": "Game" }
 { "name": "project8.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/838380/DEAD_OR_ALIVE_6/
+{ "name": "DOA6.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/958260/DEAD_OR_ALIVE_Xtreme_Venus_Vacation
+{ "name": "DOAX_VV.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2599300/Dead_Signal/
 { "name": "DeadSignal.exe", "type": "Game" }
@@ -49,8 +77,15 @@
 # https://store.steampowered.com/app/1238060/Dead_Space_3/
 { "name": "deadspace3.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3228590/Deadzone_Rogue/
+{ "name": "DeadzoneSteam.exe", "type": "Game" }
+{ "name": "DeadzoneSteam-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2334730/Death_Must_Die/
 { "name": "Death Must Die.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/
+{ "name": "DEATH NOTE Killer Within.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT/
 { "name": "DeathStranding.exe", "type": "Game" }
@@ -69,6 +104,10 @@
 { "name": "DeliverUsMars-Win64-Shipping.exe", "type": "Game" }
 { "name": "DeliverUsMars.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2507950/Delta_Force/
+{ "name": "DeltaForceClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DeltaForceClient.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1929610/Demonologist/
 { "name": "Demonologist.exe", "type": "Game" }
 { "name": "Shivers-Win64-Shipping.exe", "type": "Game" }
@@ -84,6 +123,12 @@
 
 # Derail Valley https://store.steampowered.com/app/588030/Derail_Valley/
 { "name": "DerailValley.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1085660/Destiny_2/
+{ "name": "destiny2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1450900/Desynced/
+{ "name": "Desynced.exe", "type": "Game" }
 
 # Detroit Become Human via Proton https://store.steampowered.com/app/1222140/Detroit_Become_Human/
 { "name": "DetroitBecomeHu", "type": "Game" }
@@ -110,6 +155,9 @@
 # https://store.steampowered.com/app/601150/Devil_May_Cry_5/
 { "name": "DevilMayCry5.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1274570/DEVOUR/
+{ "name": "DEVOUR.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2536520/Diablo_II_Resurrected__Infernal_Edition/
 { "name": "D2R.exe", "type": "Game" }
 
@@ -119,26 +167,32 @@
 # Diablo IV https://diablo4.blizzard.com/en-us/
 { "name": "Diablo IV.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/690790/DiRT_Rally_20/
-{ "name": "dirtrally2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/310560/DiRT_Rally/
-{ "name": "drt.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1038250/DIRT_5/
-{ "name": "DIRT5.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/421020/DiRT_4/
-{ "name": "dirt4.exe", "type": "Game" }
-
-# DiRT 3 (not on steam store anymore)
-{ "name": "dirt3_game.exe", "type": "Game" }
+# https://store.steampowered.com/app/3430340/Dice_A_Million/
+{ "name": "dice a million.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/
 { "name": "Digimon Story Time Stranger.exe", "type": "Game" }
 
+# DiRT 3 (not on steam store anymore)
+{ "name": "dirt3_game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/421020/DiRT_4/
+{ "name": "dirt4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1038250/DIRT_5/
+{ "name": "DIRT5.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/310560/DiRT_Rally/
+{ "name": "drt.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/690790/DiRT_Rally_20/
+{ "name": "dirtrally2.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/
 { "name": "disco.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2274620/Discounty/
+{ "name": "Discounty.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/405900/Disgaea_PC/
 { "name": "dis1_st.exe", "type": "Game" }
@@ -161,6 +215,12 @@
 # https://store.steampowered.com/app/614570/Dishonored_Death_of_the_Outsider/
 { "name": "Dishonored_DO.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1401590/Disney_Dreamlight_Valley/
+{ "name": "ddv.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/630610/Disneyland_Adventures/
+{ "name": "Disney.exe", "type": "Game" }
+
 # Dispatch https://store.steampowered.com/app/2592160/Dispatch/
 { "name": "Dispatch.exe", "type": "Game" }
 
@@ -168,8 +228,19 @@
 # Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
 { "name": "EoCApp.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/
+{ "name": "DJMAX RESPECT V.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/219700/Dogs_of_War_Online/
+{ "name": "DogsOfWar.exe", "type": "Game" }
+{ "name": "DogsOfWar_Master.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1388880/Doki_Doki_Literature_Club_Plus/
 { "name": "Doki Doki Literature Club Plus.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2610650/Dont_Stop_Girlypop/
+{ "name": "INCOLATUS.exe", "type": "Game" }
+{ "name": "INCOLATUS-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/379720/DOOM/
 { "name": "DOOMx64vk.exe", "type": "Game" }
@@ -184,6 +255,9 @@
 # https://store.steampowered.com/app/3017860/DOOM_The_Dark_Ages/
 { "name": "DOOMTheDarkAges.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1272840/Dordogne/
+{ "name": "Dordogne.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1238040/Dragon_Age_II_Ultimate_Edition/
 { "name": "DragonAge2.exe", "type": "Game" }
 
@@ -193,11 +267,8 @@
 # https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
 { "name": "DAOrigins.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2054970/Dragons_Dogma_2/
-{ "name": "DD2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/
-{ "name": "DDDA.exe", "type": "Game" }
+# https://store.steampowered.com/app/678950/DRAGON_BALL_FighterZ/
+{ "name": "DBFighterZ.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/
 { "name": "SparkingZERO.exe", "type": "Game" }
@@ -206,32 +277,68 @@
 # https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
 { "name": "DBXV2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/678950/DRAGON_BALL_FighterZ/
-{ "name": "DBFighterZ.exe", "type": "Game" }
-
-# AT.exe is amusingly also shared with https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 # https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
 { "name": "AT-Win64-Shipping.exe", "type": "Game" }
-{ "name": "AT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1274570/DEVOUR/
-{ "name": "DEVOUR.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/
-{ "name": "DRAGON QUEST XI S.exe", "type": "Game" }
+# https://store.steampowered.com/app/1863430/Dragonkin_The_Banished/
+{ "name": "DragonkinTheBanished.exe", "type": "Game" }
+{ "name": "DragonkinTheBanished-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2499860/DRAGON_QUEST_VII_Reimagined/
 { "name": "DQ7R.exe", "type": "Game" }
 { "name": "DQ7R-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/
+{ "name": "DRAGON QUEST XI S.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1072420/DRAGON_QUEST_BUILDERS_2/
+{ "name": "DQB2.exe", "type": "Game" }
+{ "name": "DQB2_AS.exe", "type": "Game" }
+{ "name": "DQB2_EU.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2054970/Dragons_Dogma_2/
+{ "name": "DD2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/367500/Dragons_Dogma_Dark_Arisen/
+{ "name": "DDDA.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/4104440/Dragon_Traveler/
+{ "name": "DragonTraveler.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2963800/DrainSim/
+{ "name": "DrainSim.exe", "type": "Game" }
+{ "name": "DrainSim-Win64-Shipping.exe", "type": "Game" }
+
+# dreamseeker.exe, the runner for byond games such as ss13 https://www.byond.com/
+{ "name": "dreamseeker.exe", "type": "Game" }
+
 # DREDGE https://store.steampowered.com/app/1562430/DREDGE/
 { "name": "DREDGE.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2625420/Drive_Beyond_Horizons/
+{ "name": "DriveBeyondHorizons.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2525310/Drop_Duchy/
+{ "name": "DropDuchy.exe", "type": "Game" }
+{ "name": "DropDuchy-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/456780/DUCATI__90th_Anniversary/
+{ "name": "Ducati.exe", "type": "Game" }
+{ "name": "DucatiX64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/753650/Due_Process/
 { "name": "DueProcess.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/434050/Duke_Nukem_3D_20th_Anniversary_World_Tour/
 { "name": "duke3d.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1172710/Dune_Awakening/
+{ "name": "DuneSandbox.exe", "type": "Game" }
+{ "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DuneSandbox_BE.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/215870/DungeonParty/
+{ "name": "berkelium.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/39190/Dungeon_Siege/
 { "name": "DungeonSiege.exe", "type": "Game" }
@@ -257,58 +364,6 @@
 # https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/
 { "name": "DyingLightGame_TheBeast_x64_rwdi.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1037130/Dandy_Ace/
-{ "name": "DandyAce.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/
-{ "name": "DJMAX RESPECT V.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/
-{ "name": "DSPGAME.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/215870/DungeonParty/
-{ "name": "berkelium.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2511800/Dead_in_Antares/
-{ "name": "Dead In Antares.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1863430/Dragonkin_The_Banished/
-{ "name": "DragonkinTheBanished.exe", "type": "Game" }
-{ "name": "DragonkinTheBanished-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/219700/Dogs_of_War_Online/
-{ "name": "DogsOfWar.exe", "type": "Game" }
-{ "name": "DogsOfWar_Master.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/262060/Darkest_Dungeon/
-{ "name": "Darkest.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/958260/DEAD_OR_ALIVE_Xtreme_Venus_Vacation
-{ "name": "DOAX_VV.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/630610/Disneyland_Adventures/
-{ "name": "Disney.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/211400/Deadlight/
-{ "name": "LOTDGame.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1272840/Dordogne/
-{ "name": "Dordogne.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2384580/DYNASTY_WARRIORS_ORIGINS/
-{ "name": "DWORIGINS.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1341200/DYNASTY_WARRIORS_9_Empires/
-{ "name": "DW9Emp.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1072420/DRAGON_QUEST_BUILDERS_2/
-{ "name": "DQB2.exe", "type": "Game" }
-{ "name": "DQB2_AS.exe", "type": "Game" }
-{ "name": "DQB2_EU.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/838380/DEAD_OR_ALIVE_6/
-{ "name": "DOA6.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/968790/DYNASTY_WARRIORS_7_Xtreme_Legends_Definitive_Edition/
 { "name": "SM6EN.exe", "type": "Game" }
 { "name": "SM6JP.exe", "type": "Game" }
@@ -316,71 +371,14 @@
 # https://store.steampowered.com/app/730310/DYNASTY_WARRIORS_9/
 { "name": "DW9.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1401590/Disney_Dreamlight_Valley/
-{ "name": "ddv.exe", "type": "Game" }
+# https://store.steampowered.com/app/1341200/DYNASTY_WARRIORS_9_Empires/
+{ "name": "DW9Emp.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1085660/Destiny_2/
-{ "name": "destiny2.exe", "type": "Game" }
+# https://store.steampowered.com/app/2384580/DYNASTY_WARRIORS_ORIGINS/
+{ "name": "DWORIGINS.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1172710/Dune_Awakening/
-{ "name": "DuneSandbox.exe", "type": "Game" }
-{ "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
-{ "name": "DuneSandbox_BE.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2201320/Date_Everything/
-{ "name": "Date Everything.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2963800/DrainSim/
-{ "name": "DrainSim.exe", "type": "Game" }
-{ "name": "DrainSim-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1450900/Desynced/
-{ "name": "Desynced.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2625420/Drive_Beyond_Horizons/
-{ "name": "DriveBeyondHorizons.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/
-{ "name": "DCS.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/4104440/Dragon_Traveler/
-{ "name": "DragonTraveler.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/456780/DUCATI__90th_Anniversary/
-{ "name": "Ducati.exe", "type": "Game" }
-{ "name": "DucatiX64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/370870/Dark_Future_Blood_Red_States/
-{ "name": "DarkFuture.exe", "type": "Game" }
-{ "name": "DarkFuture-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2610650/Dont_Stop_Girlypop/
-{ "name": "INCOLATUS.exe", "type": "Game" }
-{ "name": "INCOLATUS-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3430340/Dice_A_Million/
-{ "name": "dice a million.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2274620/Discounty/
-{ "name": "Discounty.exe", "type": "Game" }
+# https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/
+{ "name": "DSPGAME.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2430390/DYSPLACED/
 { "name": "Dysplaced.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3228590/Deadzone_Rogue/
-{ "name": "DeadzoneSteam.exe", "type": "Game" }
-{ "name": "DeadzoneSteam-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2525310/Drop_Duchy/
-{ "name": "DropDuchy.exe", "type": "Game" }
-{ "name": "DropDuchy-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/
-{ "name": "DEATH NOTE Killer Within.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2507950/Delta_Force/
-{ "name": "DeltaForceClient-Win64-Shipping.exe", "type": "Game" }
-{ "name": "DeltaForceClient.exe", "type": "Game" }
-
-# dreamseeker.exe, the runner for byond games such as ss13 https://www.byond.com/
-{ "name": "dreamseeker.exe", "type": "Game" }
