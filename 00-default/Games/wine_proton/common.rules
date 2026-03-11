@@ -1,0 +1,80 @@
+# https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
+{ "name": "player.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1042670/Orangeblood/
+# https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
+{ "name": "Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
+# https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
+# https://store.steampowered.com/app/1382330/Persona_5_Strikers/
+# https://store.steampowered.com/app/2072560/DRAGON_BALL_GEKISHIN_SQUADRA/
+{ "name": "game.exe", "type": "Game" }
+
+# Sonic Adventure 2 Sonic & All-Stars Racing
+{ "name": "Launcher.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
+# https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
+{ "name": "Gw.exe", "type": "Game" }
+
+# Football Manager Series
+# https://store.steampowered.com/app/3551340/Football_Manager_26/
+# https://store.steampowered.com/app/2252570/Football_Manager_2024/
+{ "name": "fm.exe", "type": "Game" }
+{ "name": "FM.exe", "type": "Game" }
+{ "name": "Berkelium.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
+# https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
+{ "name": "AT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
+# https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
+{ "name": "Warhammer.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/9900/Star_Trek_Online/
+{ "name": "GameClient.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3949040/RV_There_Yet/
+# https://store.steampowered.com/app/345660/RIDE/
+{ "name": "Ride.exe", "type": "Game" }
+{ "name": "Ride-Win64-Shipping.exe", "type": "Game" }
+{ "name": "RideX64.exe", "type": "Game" }
+
+# Some KOEI TECMO Franchise's Game's
+{ "name": "Launch.exe", "type": "Game" }
+{ "name": "Launch_EA.exe", "type": "Game" }
+{ "name": "Launch_JP.exe", "type": "Game" }
+
+# Crash handlers
+{ "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
+{ "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
+{ "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
+
+# Anti-cheat clients
+{ "name": "start_protected_game.exe", "type": "Game" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
+
+# Web helper processes
+{ "name": "UnrealCEFSubProcess.exe", "type": "Game" }
+{ "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
+{ "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
+{ "name": "ZFGameBrowser.exe", "type": "Game" }
+{ "name": "CoherentUI_Host.exe", "type": "Game" }
+{ "name": "awesomium_process.exe", "type": "Game" }
+
+# Background video player helper processes
+{ "name": "CCVideoPlayer.exe", "type": "Game" }
+{ "name": "MLiveCCPlayerApp.exe", "type": "Game" }
+{ "name": "CCMini.exe", "type": "Game" }
+
+# Redistributables
+{ "name": "UEPrereqSetup_x64.exe", "type": "Game" }
+{ "name": "DXSETUP.exe", "type": "Game" }
+{ "name": "D3D11Install.exe", "type": "Game" }
+{ "name": "vcredist_x64.exe", "type": "Game" }
+{ "name": "vcredist_x86.exe", "type": "Game" }
+{ "name": "VC_redist.x64.exe", "type": "Game" }
+{ "name": "VC_redist.x86.exe", "type": "Game" }
+{ "name": "Touchup.exe", "type": "Game" }

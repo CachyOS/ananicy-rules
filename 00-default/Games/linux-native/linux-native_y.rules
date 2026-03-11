@@ -1,0 +1,11 @@
+# Add games in alphabetical order.
+
+### Y ###
+
+# yamagi-quake2: https://www.yamagi.org/quake2/
+{ "name": "quake2", "type": "Game" }
+{ "name": "yamagi-quake2", "type": "Game" }
+{ "name": "yamagi-quake2-git", "type": "Game" }
+
+# https://store.steampowered.com/app/1546320/Your_Chronicle/
+{ "name": "YourChronicle.x86_64", "type": "Game" }

@@ -1,0 +1,57 @@
+# Add games in alphabetical order.
+
+### C ###
+
+# https://store.steampowered.com/app/200900/Cave_Story/
+{ "name": "CaveStory+", "type": "Game" }
+
+# https://store.steampowered.com/app/504230/Celeste/
+{ "name": "Celeste.bin.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/1229240/Chained_Echoes/
+{ "name": "Chained_Echoes.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/330020/Children_of_Morta/
+{ "name": "ChildrenOfMorta", "type": "Game" }
+
+# Chocolate doom: https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom
+{ "name": "chocolate-doom", "type": "Game" }
+
+# https://store.steampowered.com/app/255710/Cities_Skylines/
+{ "name": "Cities.x64", "type": "Game" }
+
+# https://classicube.net
+{ "name": "ClassiCube", "type": "Game" }
+{ "name": "classicube", "type": "Game" }
+
+# Codename Engine https://github.com/CodenameCrew/CodenameEngine
+{ "name": "CodenameEngine", "type": "Game" }
+
+# http://store.steampowered.com/app/355180/Codename_CURE/
+{ "name": "cure_linux", "type": "Game" }
+
+# Combat Master https://store.steampowered.com/app/2281730/Combat_Master
+{ "name" : "CombatMaster.x86_64","type": "Game"}
+
+# https://store.steampowered.com/app/231430/Company_of_Heroes_2/
+{ "name" : "CompanyOfHeroes2","type": "Game"}
+{ "name" : "CompanyOfHeroes2.sh","type": "Game"}
+
+# https://store.steampowered.com/app/1621690/Core_Keeper
+{ "name": "CoreKeeper", "type": "Game" }
+
+# https://store.steampowered.com/app/730/CounterStrike_2/
+{ "name": "csgo_linux64", "type": "Game" }
+{ "name": "cs2", "type": "Game" }
+
+# https://store.steampowered.com/app/368340/CrossCode/
+{ "name": "CrossCode", "type": "Game" }
+
+# Crusader Kings II https://www.paradoxinteractive.com/games/crusader-kings-ii
+{ "name": "ck2", "type": "Game" }
+
+# Crusader Kings III https://www.paradoxinteractive.com/games/crusader-kings-iii
+{ "name": "ck3", "type": "Game" }
+
+# https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/
+{ "name": "NecroDancer", "type": "Game" }

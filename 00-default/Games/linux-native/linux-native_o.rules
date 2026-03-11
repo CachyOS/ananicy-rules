@@ -1,0 +1,25 @@
+# Add games in alphabetical order.
+
+### O ###
+
+# https://store.steampowered.com/app/420530/OneShot/
+{ "name": "oneshot", "type": "Game" }
+
+# OpenMW - an open source replacement engine for morrowind https://openmw.org/en/
+{ "name": "openmw.x86_64", "type": "Game" }
+
+# openrct2: https://openrct2.org/
+{ "name": "openrct2", "type": "Game" }
+
+# osu! lazer is a Rhythm game https://github.com/ppy/osu
+{ "name": "osu!", "type": "Game" }
+
+# https://store.steampowered.com/app/238320/Outlast/
+{ "name": "OLGame.x86_64", "type": "Game" }
+
+# https://store.steampowered.com/app/728880/Overcooked_2/
+{ "name": "Overcooked2.x86", "type": "Game" }
+{ "name": "Overcooked2.x86_64 ", "type": "Game" }
+
+# https://store.steampowered.com/app/457140/Oxygen_Not_Included/
+{ "name": "OxygenNotIncluded", "type": "Game" }

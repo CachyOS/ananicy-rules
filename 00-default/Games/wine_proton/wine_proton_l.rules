@@ -1,13 +1,34 @@
+# Add games in alphabetical order.
+
 ### L ###
+
+# https://store.steampowered.com/app/1302240/Labyrinthine/
+{ "name": "Labyrinthine.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/278810/LA_Cops/
+{ "name": "lacops.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2353760/Landfall_Archives/
+{ "name": "Airships 2.exe", "type": "Game" }
+{ "name": "Airships.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/110800/LA_Noire/
 { "name": "LANoire.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/899770/Last_Epoch/
+{ "name": "Last Epoch.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1823950/Laysara_Summit_Kingdom/
+{ "name": "Laysara.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3981100/Leaf_it_Alone/
 { "name": "Leaf it Alone.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/500/Left_4_Dead/
 { "name": "left4dead.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3747730/Legacy_of_Kain_Defiance_Remastered/
+{ "name": "defiance.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/
 { "name": "SRX.exe", "type": "Game" }
@@ -28,12 +49,12 @@
 # https://store.steampowered.com/app/829110/LEGO_DC_SuperVillains/
 { "name": "LEGO DC Super-villains_DX11.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/21130/LEGO_Harry_Potter_Years_14/
-{ "name": "LEGOHarryPotter.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2950340/LEGO_Harry_Potter_Collection/
 { "name": "LHPC.exe", "type": "Game" }
 { "name": "harry1.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/21130/LEGO_Harry_Potter_Years_14/
+{ "name": "LEGOHarryPotter.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/204120/LEGO_Harry_Potter_Years_57/
 { "name": "harry2.exe", "type": "Game" }
@@ -90,6 +111,16 @@
 { "name": "LEGO_Worlds.exe", "type": "Game" }
 { "name": "LEGO_Worlds_DX11.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2399420/Le_Mans_Ultimate/
+{ "name": "Le Mans Ultimate.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1335830/Lens_Island/
+{ "name": "Len's Island.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/532270/Lethal_VR/
+{ "name": "LethalVR.exe", "type": "Game" }
+{ "name": "LethalVR-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/3097560/Liars_Bar/
 { "name": "Liar's Bar.exe", "type": "Game" }
 
@@ -106,58 +137,20 @@
 # https://store.steampowered.com/app/2072450/Like_a_Dragon_Infinite_Wealth/
 { "name": "likeadragon8.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3061810/Like_a_Dragon_Pirate_Yakuza_in_Hawaii/
-{ "name": "likeadragonpirates.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/
 { "name": "LikeaDragonIshin-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/
-{ "name": "LOTF2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "LOTF2.exe", "type": "Game" }
+# https://store.steampowered.com/app/3061810/Like_a_Dragon_Pirate_Yakuza_in_Hawaii/
+{ "name": "likeadragonpirates.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/
-{ "name": "LittleWitchNobeta.exe", "type": "Game" }
+# https://store.steampowered.com/app/1586800/Lil_Gator_Game/
+{ "name": "Lil Gator Game.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1973530/Limbus_Company/
 { "name": "LimbusCompany.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1599340/Lost_Ark/
-{ "name": "LOSTARK.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2058190/Lost_Judgment/
-{ "name": "LostJudgment.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/224040/LocoCycle/
-{ "name": "Lococycle32.exe", "type": "Game" }
-{ "name": "Lococycle64.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2808930/Lust_Goddess/
-{ "name": "Adult_wars.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/532270/Lethal_VR/
-{ "name": "LethalVR.exe", "type": "Game" }
-{ "name": "LethalVR-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/278810/LA_Cops/
-{ "name": "lacops.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3747730/Legacy_of_Kain_Defiance_Remastered/
-{ "name": "defiance.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2101390/Lost_and_Found_Co/
-{ "name": "Lost and Found Co.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2353760/Landfall_Archives/
-{ "name": "Airships 2.exe", "type": "Game" }
-{ "name": "Airships.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2956680/LORT/
-{ "name": "LortGame-Win64-Shipping.exe", "type": "Game" }
-{ "name": "LortGame.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2399420/Le_Mans_Ultimate/
-{ "name": "Le Mans Ultimate.exe", "type": "Game" }
+# https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/
+{ "name": "Little Kitty, Big City.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/424840/Little_Nightmares/
 { "name": "LittleNightmares.exe", "type": "Game" }
@@ -168,33 +161,42 @@
 # https://store.steampowered.com/app/1392860/Little_Nightmares_III/
 { "name": "LittleNightmaresIII.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1823950/Laysara_Summit_Kingdom/
-{ "name": "Laysara.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/899770/Last_Epoch/
-{ "name": "Last Epoch.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/447800/LostWinds_2_Winter_of_the_Melodias/
-{ "name": "LW2.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/447780/LostWinds/
-{ "name": "LW1.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1586800/Lil_Gator_Game/
-{ "name": "Lil Gator Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1302240/Labyrinthine/
-{ "name": "Labyrinthine.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1041320/Lords_Mobile_Kingdom_Wars/
-{ "name": "Lords Mobile.exe", "type": "Game" }
+# https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/
+{ "name": "LittleWitchNobeta.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2780980/LOCKDOWN_Protocol/
 { "name": "LockdownProtocol.exe", "type": "Game" }
 { "name": "LockdownProtocol-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1177980/Little_Kitty_Big_City/
-{ "name": "Little Kitty, Big City.exe", "type": "Game" }
+# https://store.steampowered.com/app/224040/LocoCycle/
+{ "name": "Lococycle32.exe", "type": "Game" }
+{ "name": "Lococycle64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1335830/Lens_Island/
-{ "name": "Len's Island.exe", "type": "Game" }
+# https://store.steampowered.com/app/1041320/Lords_Mobile_Kingdom_Wars/
+{ "name": "Lords Mobile.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/
+{ "name": "LOTF2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LOTF2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2956680/LORT/
+{ "name": "LortGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LortGame.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2101390/Lost_and_Found_Co/
+{ "name": "Lost and Found Co.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1599340/Lost_Ark/
+{ "name": "LOSTARK.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2058190/Lost_Judgment/
+{ "name": "LostJudgment.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/447780/LostWinds/
+{ "name": "LW1.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/447800/LostWinds_2_Winter_of_the_Melodias/
+{ "name": "LW2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2808930/Lust_Goddess/
+{ "name": "Adult_wars.exe", "type": "Game" }

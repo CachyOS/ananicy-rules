@@ -1,3 +1,5 @@
+# Add games in alphabetical order.
+
 ### F ###
 
 # https://store.steampowered.com/app/2591280/F1_Manager_2024/
@@ -11,6 +13,15 @@
 
 # https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters
 { "name": "Fable.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/303790/Faery__Legends_of_Avalon/
+{ "name": "FaerySteam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1233260/FAIRY_TAIL/
+{ "name": "FAIRY_TAIL.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3002850/FAIRY_TAIL_2/
+{ "name": "FAIRY_TAIL_2.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1097150/Fall_Guys/
 { "name": "FallGuys_client_game.exe", "type": "Game" }
@@ -32,14 +43,18 @@
 # https://store.steampowered.com/app/1151340/Fallout_76/
 { "name": "Fallout76.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/588430/Fallout_Shelter/
-{ "name": "FalloutShelter.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
 { "name": "falloutw.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/22380/Fallout_New_Vegas/
 { "name": "FalloutNV.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/588430/Fallout_Shelter/
+{ "name": "FalloutShelter.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/
+{ "name": "NFL1.exe", "type": "Game" }
+{ "name": "NFL1-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1570010/FAR_Changing_Tides/
 { "name": "FarChangingTides.exe", "type": "Game" }
@@ -82,8 +97,45 @@
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "SolarlandClient.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/313160/Farming_Simulator_15/
+{ "name": "FarmingSimulator2015.exe", "type": "Game" }
+{ "name": "FarmingSimulator2015Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/447020/Farming_Simulator_17/
+{ "name": "FarmingSimulator2017.exe", "type": "Game" }
+{ "name": "FarmingSimulator2017Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/787860/Farming_Simulator_19/
+{ "name": "FarmingSimulator2019.exe", "type": "Game" }
+{ "name": "FarmingSimulator2019Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1248130/Farming_Simulator_22/
+{ "name": "FarmingSimulator2022.exe", "type": "Game" }
+{ "name": "FarmingSimulator2022Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2300320/Farming_Simulator_25/
+{ "name": "FarmingSimulator2025.exe", "type": "Game" }
+{ "name": "FarmingSimulator2025Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/90200/Farming_Simulator_2011/
+{ "name": "FarmingSimulator2011.exe", "type": "Game" }
+{ "name": "FarmingSimulator2011Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/220260/Farming_Simulator_2013_Titanium_Edition/
+{ "name": "FarmingSimulator2013.exe", "type": "Game" }
+{ "name": "FarmingSimulator2013Game.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1044720/Farthest_Frontier/
+{ "name": "Farthest Frontier.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1732190/FATAL_FRAME__PROJECT_ZERO_Maiden_of_Black_Water/
 { "name": "FATAL_FRAME_MOBW.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2130460/FATAL_FRAME__PROJECT_ZERO_Mask_of_the_Lunar_Eclipse/
+{ "name": "FATAL_FRAME_MOL.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1902690/FateSamurai_Remnant/
+{ "name": "FateSamuraiRemnant.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/21090/FEAR/
 { "name": "FEAR.exe", "type": "Game" }
@@ -97,8 +149,23 @@
 # https://store.steampowered.com/app/21100/FEAR_3/
 { "name": "F.E.A.R. 3.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2506160/Fears_to_Fathom__Ironbark_Lookout/
+{ "name": "Fears to Fathom - Ironbark Lookout.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2336220/Feed_the_Cups/
+{ "name": "Feed the Cups.exe", "type": "Game" }
+
 # Fellowship (By Chief Rebel Games. Not to be confused with Fellowship by Elraim Studio.) https://store.steampowered.com/app/2352620/Fellowship/
 { "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1645630/FEROCIOUS/
+{ "name": "Ferocious.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2142790/Fields_of_Mistria/
+{ "name": "FieldsOfMistria.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/233190/Final_Exam/
+{ "name": "final_exam.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/
 { "name": "ff7rebirth.exe", "type": "Game" }
@@ -128,24 +195,6 @@
 { "name": "FiveNightsatFreddys4.exe", "type": "Game" }
 { "name": "HalloweenEdition.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
-{ "name": "SisterLocation.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
-{ "name": "Pizzeria Simulator.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/427920/
-# Store page is down
-{ "name": "FNaF_World.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/
-{ "name": "fnaf9.exe", "type": "Game" }
-{ "name": "fnaf9-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2215390/Five_Nights_at_Freddys_Secret_of_the_Mimic/
-{ "name": "FNAF_SOTM.exe", "type": "Game" }
-{ "name": "FNAF_SOTM-Win64-Shipping.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/732690/FIVE_NIGHTS_AT_FREDDYS_HELP_WANTED/
 { "name": "freddys.exe", "type": "Game" }
 { "name": "freddys-Win64-Shipping.exe", "type": "Game" }
@@ -154,20 +203,44 @@
 { "name": "HW2.exe", "type": "Game" }
 { "name": "HW2-Win64-Shipping.exe", "type": "Game" }
 
-# FNAF 1 REMAKE (Five Nights at Freddy's REMAKE) https://gamejolt.com/games/imadethisforyou/981759
+# Five Nights at Freddy's REMAKE (FNAF 1 REMAKE) https://gamejolt.com/games/imadethisforyou/981759
 { "name": "FNAF 1 REMAKE.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2215390/Five_Nights_at_Freddys_Secret_of_the_Mimic/
+{ "name": "FNAF_SOTM.exe", "type": "Game" }
+{ "name": "FNAF_SOTM-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/747660/Five_Nights_at_Freddys_Security_Breach/
+{ "name": "fnaf9.exe", "type": "Game" }
+{ "name": "fnaf9-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
+{ "name": "SisterLocation.exe", "type": "Game" }
+
+# Five Nights at Freddy's World (steam page is down rip) https://store.steampowered.com/app/427920/
+{ "name": "FNaF_World.exe", "type": "Game" }
 
 # Flyout https://store.steampowered.com/app/777390/Flyout/
 { "name": "Flyout.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/304390/FOR_HONOR/
-{ "name": "forhonor.exe", "type": "Game" }
+# Fobia - St. Dinfna Hotel https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/
+{ "name": "Fobia.exe", "type": "Game" }
+{ "name": "Fobia-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2981220/Forefront/
 { "name": "Forefront_Internal.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/304390/FOR_HONOR/
+{ "name": "forhonor.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1680880/Forspoken/
 { "name": "FORSPOKEN.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1676840/For_The_King_II/
+{ "name": "For The King II.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/410900/Forts/
+{ "name": "Forts.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1293830/Forza_Horizon_4/
 { "name": "ForzaHorizon4.exe", "type": "Game" }
@@ -178,65 +251,37 @@
 # https://store.steampowered.com/app/2440510/Forza_Motorsport/
 { "name": "forza_steamworks_release_final.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2252570/Football_Manager_2024/
-{ "name": "FM.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3551340/Football_Manager_26/
-{ "name": "fm.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2943650/FragPunk/
-{ "name": "FragPunk.exe", "type": "Game" }
-{ "name": "FragNeacClient.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2300320/Farming_Simulator_25/
-{ "name": "FarmingSimulator2025.exe", "type": "Game" }
-{ "name": "FarmingSimulator2025Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1248130/Farming_Simulator_22/
-{ "name": "FarmingSimulator2022.exe", "type": "Game" }
-{ "name": "FarmingSimulator2022Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/787860/Farming_Simulator_19/
-{ "name": "FarmingSimulator2019.exe", "type": "Game" }
-{ "name": "FarmingSimulator2019Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/447020/Farming_Simulator_17/
-{ "name": "FarmingSimulator2017.exe", "type": "Game" }
-{ "name": "FarmingSimulator2017Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/313160/Farming_Simulator_15/
-{ "name": "FarmingSimulator2015.exe", "type": "Game" }
-{ "name": "FarmingSimulator2015Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/220260/Farming_Simulator_2013_Titanium_Edition/
-{ "name": "FarmingSimulator2013.exe", "type": "Game" }
-{ "name": "FarmingSimulator2013Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/90200/Farming_Simulator_2011/
-{ "name": "FarmingSimulator2011.exe", "type": "Game" }
-{ "name": "FarmingSimulator2011Game.exe", "type": "Game" }
+# https://store.steampowered.com/app/690830/Foundation/
+{ "name": "foundation.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/505460/Foxhole/
 { "name": "War.exe", "type": "Game" }
 { "name": "War-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/303790/Faery__Legends_of_Avalon/
-{ "name": "FaerySteam.exe", "type": "Game" }
+# https://store.steampowered.com/app/2943650/FragPunk/
+{ "name": "FragPunk.exe", "type": "Game" }
+{ "name": "FragNeacClient.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/233190/Final_Exam/
-{ "name": "final_exam.exe", "type": "Game" }
+# https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
+{ "name": "Pizzeria Simulator.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3002850/FAIRY_TAIL_2/
-{ "name": "FAIRY_TAIL_2.exe", "type": "Game" }
+# https://store.steampowered.com/app/3004100/FREEDOM_WARS_Remastered/
+{ "name": "START.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1233260/FAIRY_TAIL/
-{ "name": "FAIRY_TAIL.exe", "type": "Game" }
+# Friday Night Funkin' https://github.com/FunkinCrew/Funkin
+{ "name": "Funkin.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1902690/FateSamurai_Remnant/
-{ "name": "FateSamuraiRemnant.exe", "type": "Game" }
+# FRIDAY NIGHT FUNKIN': ANTIPATHY https://gamebanana.com/mods/404314
+{ "name": "AntipathyPsych.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2130460/FATAL_FRAME__PROJECT_ZERO_Mask_of_the_Lunar_Eclipse/
-{ "name": "FATAL_FRAME_MOL.exe", "type": "Game" }
+# Friday Night Funkin': Mario's Madness; https://gamebanana.com/mods/359554
+{ "name": "Mario.exe", "type": "Game" }
+
+# FRIDAY NIGHT FUNKIN' VS Hypno's Lullaby https://gamejolt.com/games/hypnos-lullabyv2cancelled/758792
+{ "name": "Hypnos Lullaby.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1785150/Friends_vs_Friends/
+{ "name": "Friends vs Friends.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/323190/Frostpunk/
 { "name": "Frostpunk.exe", "type": "Game" }
@@ -245,46 +290,8 @@
 { "name": "Frostpunk2.exe", "type": "Game" }
 { "name": "Frostpunk2-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2336220/Feed_the_Cups/
-{ "name": "Feed the Cups.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2142790/Fields_of_Mistria/
-{ "name": "FieldsOfMistria.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1676840/For_The_King_II/
-{ "name": "For The King II.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/958530/Fury_of_Dracula_Digital_Edition/
-{ "name": "Fury of Dracula.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1645630/FEROCIOUS/
-{ "name": "Ferocious.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/410900/Forts/
-{ "name": "Forts.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1785150/Friends_vs_Friends/
-{ "name": "Friends vs Friends.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/
-{ "name": "NFL1.exe", "type": "Game" }
-{ "name": "NFL1-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1044720/Farthest_Frontier/
-{ "name": "Farthest Frontier.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3004100/FREEDOM_WARS_Remastered/
-{ "name": "START.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2506160/Fears_to_Fathom__Ironbark_Lookout/
-{ "name": "Fears to Fathom - Ironbark Lookout.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/1920430/FUMES/
 { "name": "FUMES.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/690830/Foundation/
-{ "name": "foundation.exe", "type": "Game" }
-
-# Fobia - St. Dinfna Hotel https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/
-{ "name": "Fobia.exe", "type": "Game" }
-{ "name": "Fobia-Win64-Shipping.exe", "type": "Game" }
+# https://store.steampowered.com/app/958530/Fury_of_Dracula_Digital_Edition/
+{ "name": "Fury of Dracula.exe", "type": "Game" }

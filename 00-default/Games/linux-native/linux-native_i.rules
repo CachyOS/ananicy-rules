@@ -1,0 +1,34 @@
+# Add games in alphabetical order.
+
+### I ###
+
+# https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/
+{ "name": "IcewindDale", "type": "Game" }
+
+# https://store.steampowered.com/app/421170/Indivisible/
+{ "name": "Indivisible.x86_64-pc-linux-gnu", "type": "Game" }
+
+# https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
+{ "name": "fcengine-bin32", "type": "Game" }
+
+# https://store.steampowered.com/app/222880/Insurgency/
+{ "name": "insurgency_linux", "type": "Game" }
+
+# Imperator: Rome https://www.paradoxinteractive.com/games/imperator-rome
+{ "name": "imperator", "type": "Game" }
+
+# https://store.steampowered.com/app/562860/Ion_Fury/
+{ "name": "fury.bin", "type": "Game" }
+
+# ioquake3: https://ioquake3.org/
+{ "name": "ioquake3", "type": "Game" }
+{ "name": "quake3", "type": "Game" }
+
+# Iortcw : Merge of ioquake3 features and fixes into RTCW code bases https://github.com/iortcw/iortcw
+{ "name": "iortcw-mp", "type": "Game" }
+{ "name": "iortcw-sp", "type": "Game" }
+{ "name": "iowolfmp.x86_64", "type": "Game" }
+{ "name": "iowolfsp.x86_64", "type": "Game" }
+
+# Ironwail: High-performance QuakeSpasm fork https://github.com/andrei-drexler/ironwail
+{ "name": "ironwail", "type": "Game" }
