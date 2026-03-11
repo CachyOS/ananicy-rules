@@ -5,22 +5,6 @@
 # https://zenless.hoyoverse.com/
 { "name": "ZenlessZoneZero.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1571460/Zorro_The_Chronicles/
-{ "name": "Zorro_The_Chronicles.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/613880/Zoo_Tycoon_Ultimate_Animal_Collection/
-{ "name": "ZooTycoon.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/694280/Zombie_Army_4_Dead_War/
-{ "name": "za4_vulkan.exe", "type": "Game" }
-{ "name": "za4_dx12.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2058030/Zombie_Army_VR/
-{ "name": "Zombie Army VR.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/301640/Zombie_Army_Trilogy/
-{ "name": "ZAT.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/2719740/Zero_Caliber_2_Remastered/
 { "name": "ZeroCaliber_2.exe", "type": "Game" }
 { "name": "ZeroCaliber_2-Win64-Shipping.exe", "type": "Game" }
@@ -28,3 +12,19 @@
 # https://store.steampowered.com/app/877200/Zero_Caliber_VR/
 { "name": "ZeroCaliber.exe", "type": "Game" }
 { "name": "ZeroCaliber-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/694280/Zombie_Army_4_Dead_War/
+{ "name": "za4_vulkan.exe", "type": "Game" }
+{ "name": "za4_dx12.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/301640/Zombie_Army_Trilogy/
+{ "name": "ZAT.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2058030/Zombie_Army_VR/
+{ "name": "Zombie Army VR.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/613880/Zoo_Tycoon_Ultimate_Animal_Collection/
+{ "name": "ZooTycoon.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1571460/Zorro_The_Chronicles/
+{ "name": "Zorro_The_Chronicles.exe", "type": "Game" }
