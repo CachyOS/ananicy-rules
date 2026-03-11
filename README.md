@@ -14,8 +14,7 @@ You can add your favorite games, apps, and more. Any help would be greatly appre
 2. Go to [Games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games)
 3. Navigate to the desired folder depending on:
 	- Game is meant to be ran under with Proton: `ẁine_proton` - *Open the corresponding file depending on the letter.*
-	- Provides a native version for Linux: `steam-native` - *Open the corresponding file depending on the letter.*
-	- External Game or Client not found on Steam: `linux-native-nonSteam`
+	- Provides a native version for Linux: `linux-native` - *Open the corresponding file depending on the letter.*
 4. Open the corresponding file depending on the letter.
 5. Follow the examples from below.
 

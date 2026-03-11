@@ -1,4 +1,19 @@
+# Add games in alphabetical order.
+
 ### C ###
+
+# https://store.steampowered.com/app/2401410/Cabernet/
+{ "name": "Cabernet.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/517790/Caesar_3/
+{ "name": "c3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/517810/Caesar_IV/
+{ "name": "C4Exec.exe", "type": "Game" }
+{ "name": "CaesarIV.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1588550/Cairn/
+{ "name": "Cairn.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/399810/Call_of_Cthulhu/
 { "name": "CallOfCthulhu.exe", "type": "Game" }
@@ -35,11 +50,14 @@
 # https://us.shop.battle.net/en-us/family/call-of-duty-black-ops-4
 { "name": "BlackOps4.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/
+{ "name": "BlackOpsColdWar.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/209160/Call_of_Duty_Ghosts/
 { "name": "iw6sp64_ship.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/
-{ "name": "BlackOpsColdWar.exe", "type": "Game" }
+# https://store.steampowered.com/app/292730/Call_of_Duty_Infinite_Warfare/
+{ "name": "iw7_ship.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
 { "name": "iw4sp.exe", "type": "Game" }
@@ -53,16 +71,52 @@
 { "name": "CoDWaW.exe", "type": "Game" }
 { "name": "CoDWaWmp.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/292730/Call_of_Duty_Infinite_Warfare/
-{ "name": "iw7_ship.exe", "type": "Game" }
-
 # https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/
 { "name": "CoJGunslinger.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1042490/Call_of_the_Sea/
+{ "name": "COTS.exe", "type": "Game"}
+{ "name": "BlueCode-Win64-Shipping.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
 { "name": "call_to_arms.exe", "type": "Game" }
 { "name": "call_to_arms_ed.exe", "type": "Game" }
 { "name": "call_to_arms_server.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3211850/Calyx/
+{ "name": "Calyx.exe", "type": "Game"}
+{ "name": "Calyx-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1594320/Captain_of_Industry/
+{ "name": "Captain of Industry.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1582650/Caravan_SandWitch/
+{ "name": "CaravanSandWitch.exe", "type": "Game"}
+{ "name": "CaravanSandWitch-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2404880/Car_Dealer_Simulator/
+{ "name": "CarDealerSimulator.exe", "type": "Game"}
+{ "name": "CarDealerSimulator-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3569500/Card_Shop_Simulator_Multiplayer/
+{ "name": "Peak.exe", "type": "Game"}
+{ "name": "Peak-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1190000/Car_Mechanic_Simulator_2021/
+{ "name": "Car Mechanic Simulator 2021.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3501070/Car_Service_Together/
+{ "name": "CarServiceTogether.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/635260/CarX_Drift_Racing_Online/
+{ "name": "Drift Racing Online.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2488370/Cash_Cleaner_Simulator/
+{ "name": "CashCleanerSim.exe", "type": "Game"}
+{ "name": "CashCleanerSim-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/204360/Castle_Crashers/
+{ "name": "castle.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/239250/Castlevania_Lords_of_Shadow_2/
 { "name": "CLOS2.exe", "type": "Game" }
@@ -73,14 +127,30 @@
 # https://store.steampowered.com/app/234080/Castlevania_Lords_of_Shadow__Ultimate_Edition/
 { "name": "CastlevaniaLoSUE.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3483740/Cast_n_Chill/
+{ "name": "castnchill.exe", "type": "Game"}
+
 # https://store.steampowered.com/app/2240390/Celebrity_Kombat/
 { "name": "CelebrityKombat.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/977400/Cell_to_Singularity__Evolution_Never_Ends/
+{ "name": "CellToSingularity.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/918570/Century_Age_of_Ashes/
 { "name": "Century-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2567870/Chained_Together/
+{ "name": "ChainedTogether.exe", "type": "Game"}
+{ "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1931770/Chants_of_Sennaar/
+{ "name": "Chants Of Sennaar.exe", "type": "Game"}
+
 # https://store.steampowered.com/app/39670/Chaser/
 { "name": "Chaser.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1796790/Chef_RPG/
+{ "name": "Chef RPG.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/2075100/Chernobylite_2_Exclusion_Zone/
 { "name": "Chernobylite2.exe", "type": "Game" }
@@ -88,18 +158,74 @@
 # https://store.steampowered.com/app/1016800/Chernobylite_Complete_Edition/
 { "name": "ChernobylGame.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3548580/Chill_with_You__LoFi_Story/
+{ "name": "Chill With You.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1824220/Chivalry_2/
+{ "name": "Chivalry2-Win64-Shipping.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/3948140/Chivalry_Quest_Sword_and_Flame_Collectors_Edition/
+{ "name": "Chivalry_Quest_Sword_and_Flame_CE.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1188930/Chrono_Ark/
+{ "name": "ChronoArk.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1097130/Circuit_Superstars/
+{ "name": "circuit-superstars.exe", "type": "Game"}
+
 # Cities: Skylines - https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/949230/Cities_Skylines_II/
 { "name": "Cities2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/231140/Cities_XL_Platinum/
+{ "name": "CitiesXL_2011.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/313010/Cities_XXL/
+{ "name": "CitiesXXL.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2442460/Citizen_Sleeper_2_Starward_Vector/
+{ "name": "Citizen Sleeper 2.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/4460/City_Life_2008/
+{ "name": "cld.exe", "type": "Game"}
+
 # https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/
 { "name": "Expedition33_Steam.exe", "type": "Game" }
 { "name": "SandFall-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1700870/Clanfolk/
+{ "name": "Clanfolk.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/324160/CLANNAD/
+{ "name": "SiglusEngine_Steam.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1430680/Clash_Artifacts_of_Chaos/
+{ "name": "Clash.exe", "type": "Game" }
+{ "name": "Clash-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1710820/Cleared_Hot/
+{ "name": "ClearedHot.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/363970/Clicker_Heroes/
+{ "name": "Clicker Heroes.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/629910/Clicker_Heroes_2/
+{ "name": "ClickerHeroes2.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2070270/Cloudheim/
+{ "name": "CloudheimSteam.exe", "type": "Game"}
+{ "name": "CloudheimSteam-Win64-Shipping.exe", "type": "Game"}
+
 # https://store.steampowered.com/app/3314790/CloverPit/
 { "name": "CloverPit.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3361510/Coal_LLC/
+{ "name": "Coal LLC.exe", "type": "Game"}
+
+# Codename Engine https://github.com/CodenameCrew/CodenameEngine
+{ "name": "CodenameEngine.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/678960/CODE_VEIN/
 { "name": "CodeVein.exe", "type": "Game" }
@@ -108,6 +234,12 @@
 # https://store.steampowered.com/app/2362060/CODE_VEIN_II/
 { "name": "CodeVein2.exe", "type": "Game" }
 { "name": "CodeVein2-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/914800/Coffee_Talk/
+{ "name": "CoffeeTalk.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1663220/Coffee_Talk_Episode_2_Hibiscus__Butterfly/
+{ "name": "CTHB.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/2297010/Combat_Mission_Battle_for_Normandy/
 { "name": "CM Normandy.exe", "type": "Game" }
@@ -118,8 +250,14 @@
 # https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/
 { "name": "ClientG.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/228200/Company_of_Heroes/
+{ "name": "RelicCOH.exe", "type": "Game"}
+
 # https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name": "RelicCoH2.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1677280/Company_of_Heroes_3/
+{ "name": "RelicCoH3.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/440900/Conan_Exiles/
 { "name": "FuncomLauncher.exe", "type": "Game" }
@@ -127,15 +265,61 @@
 # https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/
 { "name": "Condemned.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/835570/Conquerors_Blade/
+{ "name": "GameGuard.exe", "type": "Game"}
+
 # https://store.steampowered.com/app/1273400/Construction_Simulator/
 { "name": "ConSim.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2881650/Content_Warning/
+{ "name": "Content Warning.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/756800/Contraband_Police/
+{ "name": "ContrabandPolice.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/870780/Control_Ultimate_Edition/
 { "name": "Control.exe", "type": "Game" }
 { "name": "Control_DX11.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1622350/Copycat/
+{ "name": "Copycat.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1158160/Coral_Island/
+{ "name": "ProjectCoral-Win64-Shipping.exe", "type": "Game"}
+{ "name": "ProjectCoral.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/799600/Cosmoteer_Starship_Architect__Commander/
+{ "name": "Cosmoteer.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1976440/CounterSide/
+{ "name": "CounterSide.exe", "type": "Game"}
+
 # Crab Champions https://store.steampowered.com/app/774801/Crab_Champions/
 { "name": "CrabChampions.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2226430/CraftCraft_Fantasy_Merchant_Simulator/
+{ "name": "CraftCraft.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/
+{ "name": "CrashBandicoot4.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/731490/Crash_Bandicoot_N_Sane_Trilogy/
+{ "name": "CrashBandicootNSaneTrilogy.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2358260/Cricket_24/
+{ "name": "cricket24.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1701380/Cricket_22/
+{ "name": "cricket22.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3468650/Cricket_26__The_Official_Game_of_the_Ashes/
+{ "name": "cricket26.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1040200/Crime_Scene_Cleaner/
+{ "name": "CrimeCleaner.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/2737070/Crime_Simulator/
+{ "name": "Crime Simulator.exe", "type": "Game"}
 
 # https://store.steampowered.com/app/1790930/Crisol_Theater_of_Idols/
 { "name": "CrisolTheaterOfIdols.exe", "type": "Game" }
@@ -148,9 +332,24 @@
 { "name": "Crossout_BE.exe", "type": "Game" }
 { "name": "Crossout-D3D12.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1000010/Crown_Trick/
+{ "name": "CrownTrick.exe", "type": "Game"}
+
+# https://store.steampowered.com/app/1658920/Crown_Wars_The_Black_Prince/
+{ "name": "CrownWars.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1388770/Cruelty_Squad/
 { "name": "crueltysquad.exe", "type": "Game" }
 { "name": "crueltysquad32.exe", "type": "Game" }
+
+# Crusader Kings II https://www.paradoxinteractive.com/games/crusader-kings-ii
+{ "name": "ck2.exe", "type": "Game" }
+
+# Crusader Kings III https://www.paradoxinteractive.com/games/crusader-kings-iii
+{ "name": "ck3.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/204940/Crusader_Kings_Complete/
+{ "name": "Crusaders.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/
 { "name": "Cult Of The Lamb.exe", "type": "Game" }
@@ -158,200 +357,9 @@
 # https://store.steampowered.com/app/268910/Cuphead/
 { "name": "Cuphead.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1091500/Cyberpunk_2077/
-{ "name": "Cyberpunk2077.exe", "type": "Game" }
-{ "name": "Redprelauncher", "type": "BG_CPUIO" }
-
-# https://store.steampowered.com/app/1588550/Cairn/
-{ "name": "Cairn.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/
-{ "name": "CrashBandicoot4.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/731490/Crash_Bandicoot_N_Sane_Trilogy/
-{ "name": "CrashBandicootNSaneTrilogy.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/517790/Caesar_3/
-{ "name": "c3.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/517810/Caesar_IV/
-{ "name": "C4Exec.exe", "type": "Game" }
-{ "name": "CaesarIV.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/204940/Crusader_Kings_Complete/
-{ "name": "Crusaders.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/977400/Cell_to_Singularity__Evolution_Never_Ends/
-{ "name": "CellToSingularity.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/3468650/Cricket_26__The_Official_Game_of_the_Ashes/
-{ "name": "cricket26.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2358260/Cricket_24/
-{ "name": "cricket24.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1701380/Cricket_22/
-{ "name": "cricket22.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1658920/Crown_Wars_The_Black_Prince/
-{ "name": "CrownWars.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1430680/Clash_Artifacts_of_Chaos/
-{ "name": "Clash.exe", "type": "Game" }
-{ "name": "Clash-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1705180/Gunner_HEAT_PC/
-{ "name": "GHPC.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1931770/Chants_of_Sennaar/
-{ "name": "Chants Of Sennaar.exe", "type": "Game"}
-
 # https://store.steampowered.com/app/1123770/Curse_of_the_Dead_Gods/
 { "name": "Curse of the Dead Gods.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/313010/Cities_XXL/
-{ "name": "CitiesXXL.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/231140/Cities_XL_Platinum/
-{ "name": "CitiesXL_2011.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/4460/City_Life_2008/
-{ "name": "cld.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2567870/Chained_Together/
-{ "name": "ChainedTogether.exe", "type": "Game"}
-{ "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/363970/Clicker_Heroes/
-{ "name": "Clicker Heroes.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/629910/Clicker_Heroes_2/
-{ "name": "ClickerHeroes2.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1190000/Car_Mechanic_Simulator_2021/
-{ "name": "Car Mechanic Simulator 2021.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1594320/Captain_of_Industry/
-{ "name": "Captain of Industry.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/3548580/Chill_with_You__LoFi_Story/
-{ "name": "Chill With You.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/835570/Conquerors_Blade/
-{ "name": "GameGuard.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1000010/Crown_Trick/
-{ "name": "CrownTrick.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2881650/Content_Warning/
-{ "name": "Content Warning.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2070270/Cloudheim/
-{ "name": "CloudheimSteam.exe", "type": "Game"}
-{ "name": "CloudheimSteam-Win64-Shipping.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1158160/Coral_Island/
-{ "name": "ProjectCoral-Win64-Shipping.exe", "type": "Game"}
-{ "name": "ProjectCoral.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/3501070/Car_Service_Together/
-{ "name": "CarServiceTogether.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/3483740/Cast_n_Chill/
-{ "name": "castnchill.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/756800/Contraband_Police/
-{ "name": "ContrabandPolice.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1097130/Circuit_Superstars/
-{ "name": "circuit-superstars.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1677280/Company_of_Heroes_3/
-{ "name": "RelicCoH3.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/228200/Company_of_Heroes/
-{ "name": "RelicCOH.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/3361510/Coal_LLC/
-{ "name": "Coal LLC.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/635260/CarX_Drift_Racing_Online/
-{ "name": "Drift Racing Online.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2404880/Car_Dealer_Simulator/
-{ "name": "CarDealerSimulator.exe", "type": "Game"}
-{ "name": "CarDealerSimulator-Win64-Shipping.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2737070/Crime_Simulator/
-{ "name": "Crime Simulator.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/204360/Castle_Crashers/
-{ "name": "castle.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1040200/Crime_Scene_Cleaner/
-{ "name": "CrimeCleaner.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1622350/Copycat/
-{ "name": "Copycat.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1824220/Chivalry_2/
-{ "name": "Chivalry2-Win64-Shipping.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/3948140/Chivalry_Quest_Sword_and_Flame_Collectors_Edition/
-{ "name": "Chivalry_Quest_Sword_and_Flame_CE.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2488370/Cash_Cleaner_Simulator/
-{ "name": "CashCleanerSim.exe", "type": "Game"}
-{ "name": "CashCleanerSim-Win64-Shipping.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2442460/Citizen_Sleeper_2_Starward_Vector/
-{ "name": "Citizen Sleeper 2.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2401410/Cabernet/
-{ "name": "Cabernet.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/3211850/Calyx/
-{ "name": "Calyx.exe", "type": "Game"}
-{ "name": "Calyx-Win64-Shipping.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1582650/Caravan_SandWitch/
-{ "name": "CaravanSandWitch.exe", "type": "Game"}
-{ "name": "CaravanSandWitch-Win64-Shipping.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/324160/CLANNAD/
-{ "name": "SiglusEngine_Steam.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1700870/Clanfolk/
-{ "name": "Clanfolk.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1796790/Chef_RPG/
-{ "name": "Chef RPG.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1976440/CounterSide/
-{ "name": "CounterSide.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/2226430/CraftCraft_Fantasy_Merchant_Simulator/
-{ "name": "CraftCraft.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1663220/Coffee_Talk_Episode_2_Hibiscus__Butterfly/
-{ "name": "CTHB.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/914800/Coffee_Talk/
-{ "name": "CoffeeTalk.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1188930/Chrono_Ark/
-{ "name": "ChronoArk.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1710820/Cleared_Hot/
-{ "name": "ClearedHot.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/799600/Cosmoteer_Starship_Architect__Commander/
-{ "name": "Cosmoteer.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/3569500/Card_Shop_Simulator_Multiplayer/
-{ "name": "Peak.exe", "type": "Game"}
-{ "name": "Peak-Win64-Shipping.exe", "type": "Game"}
-
-# https://store.steampowered.com/app/1042490/Call_of_the_Sea/
-{ "name": "COTS.exe", "type": "Game"}
-{ "name": "BlueCode-Win64-Shipping.exe", "type": "Game"}
+# https://store.steampowered.com/app/1091500/Cyberpunk_2077/
+{ "name": "Cyberpunk2077.exe", "type": "Game" }
+{ "name": "Redprelauncher", "type": "BG_CPUIO" }
