@@ -13,22 +13,22 @@ You can add your favorite games, apps, and more. Any help would be greatly appre
 1. Go to [00-default](https://github.com/CachyOS/ananicy-rules/tree/master/00-default)
 2. Go to [Games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games)
 3. Navigate to the desired folder depending on:
-	- Game is meant to be ran under with Proton: `ẁine_proton` - *Open the corresponding file depending on the letter.*
-	- Provides a native version for Linux: `linux-native` - *Open the corresponding file depending on the letter.*
+	- Game is meant to be ran under with Proton: [`ẁine_proton`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/wine_proton) - *Open the corresponding file depending on the letter.*
+	- Provides a native version for Linux: [`linux-native`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/linux-native) - *Open the corresponding file depending on the letter.*
 4. Open the corresponding file depending on the letter.
 5. Follow the examples from below.
 
 ### Examples of rules
 The **first example** is simple. In the **second example**, it is different because some games generate multiple processes. In such cases, you need to add all the processes related to the game.
 
-#### 1. Example rule for Just Cause 2
+#### 1. [Example rule for Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/Games/wine_proton/wine_proton_j.rules)
 
 ```
 # https://store.steampowered.com/app/8190/Just_Cause_2/
 { "name": "JustCause2.exe", "type": "Game" }
 ```
 
-#### 2. Example rules for The Outer Worlds
+#### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/Games/wine_proton/wine_proton_the.rules)
 
 ```
 # https://store.steampowered.com/app/578650/The_Outer_Worlds/
@@ -36,7 +36,7 @@ The **first example** is simple. In the **second example**, it is different beca
 { "name": "TheOuterWorlds.exe", "type": "Game" }
 ```
 
-#### 3. Example rules for Portal 2 which is Linux native game
+#### 3. [Example rules for Portal 2 which is Linux native game](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/Games/linux-native/linux-native_p.rules)
 
 ```
 # https://store.steampowered.com/app/620/Portal_2/
