@@ -1,0 +1,4 @@
+# asusd : https://wiki.archlinux.org/title/Asusctl
+{ "name": "asusd", "type": "BG_CPUIO" }
+{ "name": "asusd-user", "type": "BG_CPUIO" }
+
