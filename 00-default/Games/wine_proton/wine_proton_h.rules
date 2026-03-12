@@ -186,6 +186,10 @@
 # Honkai: Star Rail https://hsr.hoyoverse.com/
 { "name": "StarRail.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2157710/Hordes_of_Hunger/
+{ "name": "HordesOfHunger.exe", "type": "Game" }
+{ "name": "HordesOfHunger-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
 { "name": "HorizonForbiddenWest.exe", "type": "Game" }
 
