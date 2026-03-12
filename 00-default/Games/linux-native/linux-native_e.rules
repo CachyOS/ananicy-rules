@@ -1,26 +1,28 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### E ###
 
 # ECWolf : an advanced source port for Wolfenstein 3D http://maniacsvault.net/ecwolf/
 { "name": "ecwolf", "type": "Game" }
 
-# https://store.steampowered.com/app/2085310/Emberbane/
+# Emberbane https://store.steampowered.com/app/2085310/Emberbane/
 { "name": "Emberbane.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
+# ENDER LILIES: Quietus of the Knights https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
 { "name": "EnderLiliesSteam-Linux-Shipping", "type": "Game" }
 { "name": "EnderLilies.sh", "type": "BG_CPUIO" }
 
-# https://store.steampowered.com/app/311690/Enter_the_Gungeon/
+# Enter the Gungeon https://store.steampowered.com/app/311690/Enter_the_Gungeon/
 { "name": "EtG.x86_64", "type": "Game" }
 
-# https://github.com/etlegacy/etlegacy
+# etlegacy https://github.com/etlegacy/etlegacy
 { "name": "et", "type": "Game" }
 { "name": "et.x86", "type": "Game" }
 { "name": "etl", "type": "Game" }
 
-# https://github.com/etternagame/etterna
+# etterna https://github.com/etternagame/etterna
 { "name": "Etterna", "type": "Game" }
 { "name": "etterna", "type": "Game" }
 

@@ -1,110 +1,112 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### S ###
 
-# http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
+# Saints Row IV: Re-Elected http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
 { "name": "SaintsRow4.i386", "type": "Game" }
 
-# https://store.steampowered.com/app/1592280/Selaco/
+# Selaco https://store.steampowered.com/app/1592280/Selaco/
 { "name": "Selaco.x86_64", "type": "Game" }
 
-# http://store.steampowered.com/app/41070/Serious_Sam_3_BFE/
+# Serious Sam 3: BFE http://store.steampowered.com/app/41070/Serious_Sam_3_BFE/
 { "name": "Sam3", "type": "Game" }
 
-# https://store.steampowered.com/app/564310/Serious_Sam_Fusion_2017_beta/
+# Serious Sam Fusion 2017 (beta) https://store.steampowered.com/app/564310/Serious_Sam_Fusion_2017_beta/
 { "name": "Sam2017", "type": "Game" }
 
-# https://store.steampowered.com/app/294440/Shadowgate/
+# Shadowgate https://store.steampowered.com/app/294440/Shadowgate/
 { "name": "Shadowgate.x86", "type": "Game" }
 
-# https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
+# Shadow of the Tomb Raider: Definitive Edition https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
 { "name": "ShadowOfTheTombRaider", "type": "Game" }
 
-# https://store.steampowered.com/app/300550/Shadowrun_Dragonfall__Directors_Cut/
+# Shadowrun: Dragonfall - Director's Cut https://store.steampowered.com/app/300550/Shadowrun_Dragonfall__Directors_Cut/
 { "name": "Dragonfall", "type": "Game" }
 
-# https://store.steampowered.com/app/346940/Shadowrun_Hong_Kong__Extended_Edition/
+# Shadowrun: Hong Kong - Extended Edition https://store.steampowered.com/app/346940/Shadowrun_Hong_Kong__Extended_Edition/
 { "name": "SRHK", "type": "Game" }
 
-# http://store.steampowered.com/app/233130/Shadow_Warrior/
+# Shadow Warrior http://store.steampowered.com/app/233130/Shadow_Warrior/
 { "name": "ShadowWarrior.bin.x86", "type": "Game" }
 
-# https://store.steampowered.com/app/326460/ShellShock_Live/
+# ShellShock Live https://store.steampowered.com/app/326460/ShellShock_Live/
 { "name": "ShellShockLive.x64", "type": "Game" }
 
-# https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/
+# Shovel Knight: Treasure Trove https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/
 { "name": "ShovelKnight", "type": "Game" }
 
-# https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/
+# Sid Meier's Civilization® V https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/
 { "name": "Civ5XP", "type": "Game" }
 
-# https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/
+# Sid Meier’s Civilization® VI https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/
 { "name": "Civ6", "type": "Game" }
 
-# https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/
+# Sid Meier's Civilization VII https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/
 { "name": "Civ7_linux_Vulkan_FinalRelease", "type": "Game" }
 
-# https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/
+# Sid Meier's Civilization®: Beyond Earth™ https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/
 { "name": "CivBE", "type": "Game" }
 
-# https://store.steampowered.com/app/278460/Skyborn/
+# Skyborn https://store.steampowered.com/app/278460/Skyborn/
 { "name": "Skyborn.amd64", "type": "Game" }
 
-# https://store.steampowered.com/app/646570/Slay_the_Spire/
+# Slay the Spire https://store.steampowered.com/app/646570/Slay_the_Spire/
 { "name": "SlayTheSpire", "type": "Game" }
 
-# https://store.steampowered.com/app/2868840/Slay_the_Spire_2/
+# Slay the Spire 2 https://store.steampowered.com/app/2868840/Slay_the_Spire_2/
 { "name": "SlayTheSpire2", "type": "Game" }
 
 # Sober : Roblox game launcher: https://sober.vinegarhq.org/
 { "name": "sober", "type": "Game" }
 { "name": "sober_services", "type": "Game" }
 
-# https://store.steampowered.com/app/282140/SOMA/
+# SOMA https://store.steampowered.com/app/282140/SOMA/
 { "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
 { "name": "Soma.bin.x86_64", "type": "Game" }
 
 # Sonic Unleashed Recompiled : https://github.com/hedge-dev/UnleashedRecomp
 { "name": "UnleashedRecomp", "type": "Game" }
 
-# https://store.steampowered.com/app/2066020/Soulstone_Survivors/
+# Soulstone Survivors https://store.steampowered.com/app/2066020/Soulstone_Survivors/
 { "name": "Soulstone-Survivors.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/275670/Space_Run/
+# Space Run https://store.steampowered.com/app/275670/Space_Run/
 { "name": "oSpaceGameMerged", "type": "Game" }
 
-# https://store.steampowered.com/app/207140/SpeedRunners/
+# SpeedRunners https://store.steampowered.com/app/207140/SpeedRunners/
 { "name": "SpeedRunners.bin.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/677620/Splitgate/
+# Splitgate https://store.steampowered.com/app/677620/Splitgate/
 { "name": "PortalWars-Linux-Shipping", "type": "Game" }
 
-# https://store.steampowered.com/app/211820/Starbound/
+# Starbound https://store.steampowered.com/app/211820/Starbound/
 { "name": "starbound", "type": "Game" }
 
-# http://store.steampowered.com/app/212070/Star_Conflict/
+# Star Conflict http://store.steampowered.com/app/212070/Star_Conflict/
 { "name": "StarConflict", "type": "Game" }
 
-# https://store.steampowered.com/app/413150/Stardew_Valley/
+# Stardew Valley https://store.steampowered.com/app/413150/Stardew_Valley/
 { "name": "Stardew Valley", "type": "Game" }
 
-# https://store.steampowered.com/app/96200/Steel_Storm_Burning_Retribution/
+# Steel Storm: Burning Retribution https://store.steampowered.com/app/96200/Steel_Storm_Burning_Retribution/
 { "name": "steelstorm64", "type": "Game" }
 
-# https://store.steampowered.com/app/404100/STEEL_STRIDER/
+# STEEL STRIDER https://store.steampowered.com/app/404100/STEEL_STRIDER/
 { "name": "SteelStrider.x86", "type": "Game" }
 
 # Stellaris https://www.paradoxinteractive.com/games/stellaris
-# https://store.steampowered.com/app/281990/Stellaris/
+# Stellaris https://store.steampowered.com/app/281990/Stellaris/
 { "name": "stellaris", "type": "Game" }
 
-# https://store.steampowered.com/app/3117820/Sultans_Game/
+# Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/322500/SUPERHOT/
+# SUPERHOT https://store.steampowered.com/app/322500/SUPERHOT/
 { "name": "SUPERHOT.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
+# SUPERHOT: MIND CONTROL DELETE https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
 { "name": "SUPERHOTMCD.x86_64", "type": "Game" }
 
 # Super Mario 64 Coop DX | https://github.com/coop-deluxe/sm64coopdx
@@ -113,8 +115,8 @@
 # SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play https://supertuxkart.net/
 { "name": "supertuxkart", "type": "Game" }
 
-# http://store.steampowered.com/app/233720/Surgeon_Simulator/
+# Surgeon Simulator http://store.steampowered.com/app/233720/Surgeon_Simulator/
 { "name": "ss2013.bin", "type": "Game" }
 
-# https://store.steampowered.com/app/225840/Sven_Coop/
+# Sven Co-op https://store.steampowered.com/app/225840/Sven_Coop/
 { "name": "svencoop_linux", "type": "Game" }

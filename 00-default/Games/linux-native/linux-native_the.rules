@@ -1,27 +1,29 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### The ###
 # There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
 
-# https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
+# The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
 
-# https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
+# The Binding of Isaac: Rebirth https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac.i386", "type": "Game" }
 { "name": "isaac.x64", "type": "Game" }
 
-# https://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/
+# The Eternal Castle [REMASTERED] qhttps://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/
 { "name": "TheEternalCastle", "type": "Game" }
 
 # The Legend of Zelda: Majora's Mask Recompiled https://github.com/Zelda64Recomp/Zelda64Recomp
 { "name": "Zelda64Recompiled", "type": "Game" }
 
-# https://store.steampowered.com/app/305620/The_Long_Dark/
+# The Long Dark https://store.steampowered.com/app/305620/The_Long_Dark/
 { "name": "tld.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/231160/The_Swapper/
+# The Swapper https://store.steampowered.com/app/231160/The_Swapper/
 { "name": "TheSwapper.bin.x86", "type": "Game" }
 { "name": "TheSwapper.bin.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
+# The Witcher 2: Assassins of Kings Enhanced Edition https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
 { "name": "witcher2", "type": "Game" }

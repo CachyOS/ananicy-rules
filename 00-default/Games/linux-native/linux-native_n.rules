@@ -1,12 +1,14 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### N ###
 
-# http://store.steampowered.com/app/4920/Natural_Selection_2/
+# Natural Selection 2 http://store.steampowered.com/app/4920/Natural_Selection_2/
 { "name": "ns2_linux", "type": "Game" }
 
-# https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/
+# Neverwinter Nights: Enhanced Edition https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/
 { "name": "nwmain-linux", "type": "Game" }
 
-# https://store.steampowered.com/app/2274120/NSFW_Solitaire/
+# NSFW Solitaire & Puzzles https://store.steampowered.com/app/2274120/NSFW_Solitaire/
 { "name": "NSFWSolitaire.x86_64", "type": "Game" }

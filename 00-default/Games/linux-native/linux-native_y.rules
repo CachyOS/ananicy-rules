@@ -1,4 +1,6 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### Y ###
 
@@ -7,5 +9,5 @@
 { "name": "yamagi-quake2", "type": "Game" }
 { "name": "yamagi-quake2-git", "type": "Game" }
 
-# https://store.steampowered.com/app/1546320/Your_Chronicle/
+# Your Chronicle https://store.steampowered.com/app/1546320/Your_Chronicle/
 { "name": "YourChronicle.x86_64", "type": "Game" }

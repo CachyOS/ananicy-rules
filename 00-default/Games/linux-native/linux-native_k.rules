@@ -1,15 +1,17 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### K ###
 
 # Kade Engine https://gamebanana.com/mods/44291
 { "name": "Kade Engine", "type": "Game" }
 
-# https://store.steampowered.com/app/220200/Kerbal_Space_Program/
+# Kerbal Space Program https://store.steampowered.com/app/220200/Kerbal_Space_Program/
 { "name": "KSP.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/
+# Kingdom Two Crowns https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/
 { "name": "KingdomTwoCrowns.x86", "type": "Game" }
 
-# https://store.steampowered.com/app/1699480/KLETKA/
+# KLETKA https://store.steampowered.com/app/1699480/KLETKA/
 { "name": "KLETKA.sh", "type": "Game" }

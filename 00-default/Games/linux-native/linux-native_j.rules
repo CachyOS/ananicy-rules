@@ -1,12 +1,14 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### J ###
 
-# https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
+# Jabroni Brawl: Episode 3 https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
 { "name": "jbep3", "type": "Game" }
 
-# https://store.steampowered.com/app/3124230/Jackal/
+# Jackal https://store.steampowered.com/app/3124230/Jackal/
 { "name": "jackal", "type": "Game" }
 
-# https://store.steampowered.com/app/262260/JetsnGuns_Gold/
+# Jets'n'Guns Gold https://store.steampowered.com/app/262260/JetsnGuns_Gold/
 { "name": "jng_gold", "type": "Game" }

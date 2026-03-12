@@ -1,14 +1,16 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### X ###
 
-# https://store.steampowered.com/app/392160/X4_Foundations/
+# X4: Foundations https://store.steampowered.com/app/392160/X4_Foundations/
 { "name": "X4", "type": "Game" }
 
-# https://store.steampowered.com/app/268500/XCOM_2/
+# XCOM® 2 https://store.steampowered.com/app/268500/XCOM_2/
 { "name": "XCOM2", "type": "Game" }
 
-# https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
+# XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 { "name": "game.x86", "type": "Game" }
 { "name": "game.x86_64", "type": "Game" }
 
