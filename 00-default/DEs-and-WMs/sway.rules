@@ -6,7 +6,6 @@
 { "name": "swaync", "type": "Service" }
 { "name": "swaync-client", "type": "Service" }
 
-
 # Sway idle daemon
 # https://github.com/swaywm/swayidle
 { "name": "swayidle", "type": "Service" }
