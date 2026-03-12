@@ -46,6 +46,9 @@
 { "name": "ReadyOrNot.exe", "type": "Game" }
 { "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/200210/Realm_of_the_Mad_God_Exalt/
+{ "name": "RotMG Exalt Launcher.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/2129530/REANIMAL/
 { "name": "REANIMAL.exe", "type": "Game" }
 
@@ -87,9 +90,6 @@
 # https://store.steampowered.com/app/1799930/Redout_2/
 { "name": "redout2.exe", "type": "Game" }
 { "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/200210/Realm_of_the_Mad_God_Exalt/
-{ "name": "RotMG Exalt Launcher.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1282100/REMNANT_II/
 { "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
