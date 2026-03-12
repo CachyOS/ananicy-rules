@@ -25,6 +25,10 @@
 { "name": "BATIM.x86", "type": "Game" }
 { "name": "BATIM.x86_64", "type": "Game" }
 
+# BioShock Infinite https://store.steampowered.com/app/8870/BioShock_Infinite/
+{ "name": "bioshock", "type": "Game" }
+{ "name": "bioshock.i386", "type": "Game" }
+
 # Black Mesa https://store.steampowered.com/app/362890/Black_Mesa/
 { "name": "bms_linux", "type": "Game" }
 
