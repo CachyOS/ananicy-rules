@@ -21,7 +21,9 @@ You can add your favorite games, apps, and more. Any help would be greatly appre
 ### Examples of rules
 The **first example** is simple. In the **second example**, it is different because some games generate multiple processes. In such cases, you need to add all the processes related to the game.
 
-Please also add the name of the game next to the url, which you get the name of this game from the Steam store.
+Please also add the name of the game next to the url, which you get the name of said game from the Steam store. 
+
+If not from any store add name you think it needs.
 
 #### 1. [Example rule for Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/Games/wine_proton/wine_proton_j.rules)
 
