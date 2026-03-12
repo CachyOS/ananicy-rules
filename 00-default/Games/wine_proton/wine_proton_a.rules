@@ -131,6 +131,18 @@
 # https://store.steampowered.com/app/673130/AMID_EVIL/
 { "name": "AmidEvil.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/999220/Amnesia_Rebirth/
+{ "name": "AmnesiaRebirth.exe", "type": "Game" }
+{ "name": "AmnesiaRebirth_NoSteam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1944430/Amnesia_The_Bunker/
+{ "name": "AmnesiaTheBunker.exe", "type": "Game" }
+{ "name": "AmnesiaTheBunker_NoSteam.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
+{ "name": "Amnesia.exe", "type": "Game" }
+{ "name": "Amnesia_NoSteam.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/945360/Among_Us/
 { "name": "Among Us.exe", "type": "Game" }
 
