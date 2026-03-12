@@ -130,6 +130,12 @@
 # Megabonk https://store.steampowered.com/app/3405340/Megabonk/
 { "name": "Megabonk.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2432860/MENACE/
+{ "name": "Menace.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3394770/Menherarium/
+{ "name": "Menherarium.exe", "type": "Game" }
+
 # METAL GEAR AND METAL GEAR 2: Solid Snake https://store.steampowered.com/app/2131680/METAL_GEAR__METAL_GEAR_2_Solid_Snake/
 { "name": "METAL GEAR.exe", "type": "Game" }
 
@@ -175,7 +181,10 @@
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 { "name": "metro.exe", "type": "Game" }
 
- # Microsoft Flight Simulator (2020) 40th Anniversary Edition https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_2020_40th_Anniversary_Edition/
+# Mewgenics https://store.steampowered.com/app/686060/Mewgenics/
+{ "name": "Mewgenics.exe", "type": "Game" }
+
+# Microsoft Flight Simulator (2020) 40th Anniversary Edition https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_2020_40th_Anniversary_Edition/
 { "name": "FlightSimulator.exe", "type": "Game" }
 
 # Microsoft Flight Simulator 2024 https://store.steampowered.com/app/2537590/Microsoft_Flight_Simulator_2024/
@@ -366,6 +375,10 @@
 { "name": "motogp25.exe", "type": "Game" }
 { "name": "motogp25-Win64-Shipping.exe", "type": "Game" }
 
+# MOTORSLICE Demo https://store.steampowered.com/app/2830030/MOTORSLICE/
+{ "name": "MotorSliceDemo.exe", "type": "Game" }
+{ "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
+
 # Mount & Blade II: Bannerlord - https://www.taleworlds.com/en/Games/Bannerlord
 # Note: All exe's are possible process names depending on how the game was launched.
 # Vanilla Launcher
@@ -439,6 +452,9 @@
 
 # My Friend Pedro https://store.steampowered.com/app/557340/My_Friend_Pedro/
 { "name": "My Friend Pedro - Blood Bullets Bananas.exe", "type": "Game" }
+
+# MY HERO ACADEMIA: All’s Justice https://store.steampowered.com/app/2362050/MY_HERO_ACADEMIA_Alls_Justice/
+{ "name": "AJGAME.exe", "type": "Game" }
 
 # MY HERO ULTRA RUMBLE https://store.steampowered.com/app/1607250/MY_HERO_ULTRA_RUMBLE/
 { "name": "MHUR.exe", "type": "Game" }

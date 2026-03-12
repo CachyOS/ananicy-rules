@@ -111,6 +111,10 @@
 { "name": "Peak.exe", "type": "Game"}
 { "name": "Peak-Win64-Shipping.exe", "type": "Game"}
 
+# Carmageddon: Rogue Shift https://store.steampowered.com/app/1712100/Carmageddon_Rogue_Shift/
+{ "name": "Carma-Win64-Shipping.exe", "type": "Game"}
+{ "name": "Carma.exe", "type": "Game"}
+
 # Car Mechanic Simulator 2021 https://store.steampowered.com/app/1190000/Car_Mechanic_Simulator_2021/
 { "name": "Car Mechanic Simulator 2021.exe", "type": "Game"}
 
@@ -176,8 +180,15 @@
 # Chivalry Quest: Sword and Flame Collector's Edition https://store.steampowered.com/app/3948140/Chivalry_Quest_Sword_and_Flame_Collectors_Edition/
 { "name": "Chivalry_Quest_Sword_and_Flame_CE.exe", "type": "Game"}
 
+# ChromaGun 2: Dye Hard https://store.steampowered.com/app/2982340/ChromaGun_2_Dye_Hard/
+{ "name": "ChromaGun2.exe", "type": "Game"}
+{ "name": "ChromaGun2-Win64-Shipping.exe", "type": "Game"}
+
 # Chrono Ark https://store.steampowered.com/app/1188930/Chrono_Ark/
 { "name": "ChronoArk.exe", "type": "Game"}
+
+# CiniCross https://store.steampowered.com/app/3933120/CiniCross/
+{ "name": "CiniCross.exe", "type": "Game"}
 
 # Circuit Superstars https://store.steampowered.com/app/1097130/Circuit_Superstars/
 { "name": "circuit-superstars.exe", "type": "Game"}
@@ -315,6 +326,9 @@
 # Crash Bandicoot™ N. Sane Trilogy https://store.steampowered.com/app/731490/Crash_Bandicoot_N_Sane_Trilogy/
 { "name": "CrashBandicootNSaneTrilogy.exe", "type": "Game" }
 
+# Creature Kitchen https://store.steampowered.com/app/3097300/Creature_Kitchen/
+{ "name": "Creature Kitchen.exe", "type": "Game" }
+
 # Cricket 24 https://store.steampowered.com/app/2358260/Cricket_24/
 { "name": "cricket24.exe", "type": "Game" }
 
@@ -329,6 +343,9 @@
 
 # Crime Simulator https://store.steampowered.com/app/2737070/Crime_Simulator/
 { "name": "Crime Simulator.exe", "type": "Game"}
+
+# Crimson Capes https://store.steampowered.com/app/2488540/Crimson_Capes/
+{ "name": "Crimson Capes.exe", "type": "Game"}
 
 # Crisol: Theater of Idols https://store.steampowered.com/app/1790930/Crisol_Theater_of_Idols/
 { "name": "CrisolTheaterOfIdols.exe", "type": "Game" }
