@@ -30,6 +30,9 @@
 # https://store.steampowered.com/app/2333480/RAID_Shadow_Legends/
 { "name": "Raid.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1677970/Railroad_Corporation_2/
+{ "name": "RailroadCorporation2.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/312520/Rain_World/
 { "name": "RainWorld.exe", "type": "Game" }
 
@@ -42,9 +45,15 @@
 # https://store.steampowered.com/app/209730/RAW_Realms_of_Ancient_War/
 { "name": "Realms Of Ancient War.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/4094670/Rayman_30th_Anniversary_Edition/
+{ "name": "	rayman30th.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1144200/Ready_or_Not/
 { "name": "ReadyOrNot.exe", "type": "Game" }
 { "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/200210/Realm_of_the_Mad_God_Exalt/
+{ "name": "RotMG Exalt Launcher.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2129530/REANIMAL/
 { "name": "REANIMAL.exe", "type": "Game" }
@@ -88,8 +97,11 @@
 { "name": "redout2.exe", "type": "Game" }
 { "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/200210/Realm_of_the_Mad_God_Exalt/
-{ "name": "RotMG Exalt Launcher.exe", "type": "Game" }
+# https://store.steampowered.com/app/1651600/Reigns_The_Witcher/
+{ "name": "ReignsWitcher.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3255890/Relooted/
+{ "name": "Relooted-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1282100/REMNANT_II/
 { "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
@@ -186,6 +198,9 @@
 # https://store.steampowered.com/app/287450/Rise_of_Nations_Extended_Edition/
 { "name": "riseofnations.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1400660/Rise_of_Piracy/
+{ "name": "Rise of Piracy.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/1340990/Rise_of_the_Ronin/
 { "name": "Ronin.exe", "type": "Game" }
 
@@ -280,8 +295,15 @@
 { "name": "SAN8R.exe", "type": "Game" }
 { "name": "San8rWER.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3050900/ROMEO_IS_A_DEAD_MAN/
+{ "name": "SevGame.exe", "type": "Game" }
+{ "name": "SevGame-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/204580/Rotastic/
 { "name": "Rotastic.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2015270/Rotwood/
+{ "name": "rotwood.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1557740/ROUNDS/
 { "name": "ROUNDS.exe", "type": "Game" }

@@ -49,6 +49,9 @@
 { "name": "PuzzleGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "PuzzleGame.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2701440/PARANORMASIGHT_The_Mermaids_Curse/
+{ "name": "PARANORMASIGHT_2.exe", "type": "Game" }
+
 # Party Animals https://store.steampowered.com/app/1260320/Party_Animals/
 { "name": "PartyAnimals.exe", "type": "Game" }
 
@@ -95,6 +98,10 @@
 # Only the Playtest is available at the moment
 { "name": "Perceptum.exe", "type": "Game" }
 { "name": "Perceptum-Win64-Shipping.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/3268150/Peregrino/
+{ "name": "Peregrino.exe", "type": "Game" }
+{ "name": "Peregrino-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1809700/Persona_3_Portable/
 { "name": "P3P.exe", "type": "Game" }
@@ -255,6 +262,10 @@
 
 # https://store.steampowered.com/app/794180/PRO_FISHING_SIMULATOR/
 { "name": "ProFishingSimulator.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2343900/Project_Werewulf/
+{ "name": "Project_Werewulf-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Project_Werewulf.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/895870/Project_Wingman/
 { "name": "ProjectWingman.exe", "type": "Game" }
