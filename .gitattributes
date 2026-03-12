@@ -1,0 +1,2 @@
+# Convert all .rules files to lf endings to avoid issues with ananicy
+*.rules text eol=lf
