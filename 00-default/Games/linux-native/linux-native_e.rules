@@ -1,0 +1,26 @@
+# Add games in alphabetical order.
+
+### E ###
+
+# ECWolf : an advanced source port for Wolfenstein 3D http://maniacsvault.net/ecwolf/
+{ "name": "ecwolf", "type": "Game" }
+
+# https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
+{ "name": "EnderLiliesSteam-Linux-Shipping", "type": "Game" }
+{ "name": "EnderLilies.sh", "type": "BG_CPUIO" }
+
+# https://store.steampowered.com/app/311690/Enter_the_Gungeon/
+{ "name": "EtG.x86_64", "type": "Game" }
+
+# https://github.com/etlegacy/etlegacy
+{ "name": "et", "type": "Game" }
+{ "name": "et.x86", "type": "Game" }
+{ "name": "etl", "type": "Game" }
+
+# https://github.com/etternagame/etterna
+{ "name": "Etterna", "type": "Game" }
+{ "name": "etterna", "type": "Game" }
+
+# Europa Universalis IV https://www.paradoxinteractive.com/games/europa-universalis-iv
+# https://store.steampowered.com/app/236850/Europa_Universalis_IV/
+{ "name": "eu4", "type": "Game" }
