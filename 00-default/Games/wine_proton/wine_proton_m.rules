@@ -366,6 +366,10 @@
 { "name": "motogp25.exe", "type": "Game" }
 { "name": "motogp25-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/2830030/MOTORSLICE/
+{ "name": "MotorSliceDemo.exe", "type": "Game" }
+{ "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
+
 # Mount & Blade II: Bannerlord - https://www.taleworlds.com/en/Games/Bannerlord
 # Note: All exe's are possible process names depending on how the game was launched.
 # Vanilla Launcher
