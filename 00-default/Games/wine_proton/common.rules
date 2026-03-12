@@ -1,30 +1,21 @@
+# Add name of game next to the url.
+# Get name of game from steam.
+
 # The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
 { "name": "player.exe", "type": "Game" }
 
-<<<<<<< HEAD
-# Orangebloodhttps://store.steampowered.com/app/1042670/Orangeblood/
-# Rune Factory: Guardians of Azuma https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
 # BLACK SOULS II https://store.steampowered.com/app/3855540/BLACK_SOULS_II/
 # BLACK SOULS https://store.steampowered.com/app/3755860/BLACK_SOULS/
+# Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
+# Docked https://store.steampowered.com/app/2487300/Docked/
+# Orangeblood https://store.steampowered.com/app/1042670/Orangeblood/
+# Rune Factory: Guardians of Azuma https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
 { "name": "Game.exe", "type": "Game" }
 
 # Castlevania Anniversary Collection https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
 # Bloodstained: Curse of the Moon 2 https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
 # Persona® 5 Strikers https://store.steampowered.com/app/1382330/Persona_5_Strikers/
 # DRAGON BALL GEKISHIN SQUADRA https://store.steampowered.com/app/2072560/DRAGON_BALL_GEKISHIN_SQUADRA/
-=======
-# https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
-# https://store.steampowered.com/app/2487300/Docked/
-# https://store.steampowered.com/app/1042670/Orangeblood/
-# https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
-{ "name": "Game.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2487300/Docked/
-# https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
-# https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
-# https://store.steampowered.com/app/1382330/Persona_5_Strikers/
-# https://store.steampowered.com/app/2072560/DRAGON_BALL_GEKISHIN_SQUADRA/
->>>>>>> f1ed55cc0e93eaf3819cea14f91daf9c2c2c5b81
 { "name": "game.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing

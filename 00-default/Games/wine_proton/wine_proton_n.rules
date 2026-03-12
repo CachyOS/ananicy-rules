@@ -1,8 +1,10 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
 
 ### N ###
 
-# https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
+# NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
 { "name": "NarakaBladepoint.exe", "type": "Game" }
 
 # NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 https://store.steampowered.com/app/349040/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_4/
@@ -14,151 +16,148 @@
 { "name": "NSUNSR_option1.exe", "type": "Game"}
 { "name": "NSUNSR_option2.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/1020790/NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS/
+# NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS https://store.steampowered.com/app/1020790/NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS/
 { "name": "NSUNSC.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/3873970/NASCAR_25/
+# NASCAR 25 https://store.steampowered.com/app/3873970/NASCAR_25/
 { "name": "NASCAR25_Steam.exe", "type": "Game"}
 { "name": "NASCAR25_Steam-Win64-Shipping.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/2878980/NBA_2K25/
+# NBA 2K25 https://store.steampowered.com/app/2878980/NBA_2K25/
 { "name": "NBA2K25.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3472040/NBA_2K26/
+# NBA 2K26 https://store.steampowered.com/app/3472040/NBA_2K26/
 { "name": "NBA2K26.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
-# https://store.steampowered.com/app/566440/Necromunda_Underhive_Wars/
+# Necromunda: Hired Gun https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
+# Necromunda: Underhive Wars https://store.steampowered.com/app/566440/Necromunda_Underhive_Wars/
 { "name": "Necromunda.exe", "type": "Game"}
 { "name": "Necromunda-Win64-Shipping.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
+# Need for Speed™ Heat https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
 { "name": "NeedForSpeedHeat.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
+# NEEDY STREAMER OVERLOAD https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
 { "name": "Windose.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/886820/Nelke__the_Legendary_Alchemists_Ateliers_of_the_New_World/
+# Nelke & the Legendary Alchemists ~Ateliers of the New World~ https://store.steampowered.com/app/886820/Nelke__the_Legendary_Alchemists_Ateliers_of_the_New_World/
 { "name": "Nelke_and_the_Legendary_Alchemists.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/788100/Neon_Abyss/
+# Neon Abyss https://store.steampowered.com/app/788100/Neon_Abyss/
 { "name": "NeonAbyss.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/2235200/Neon_Abyss_2/
+# Neon Abyss 2 https://store.steampowered.com/app/2235200/Neon_Abyss_2/
 { "name": "NeonAbyss2.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/2553040/Nested_Lands/
+# Nested Lands https://store.steampowered.com/app/2553040/Nested_Lands/
 { "name": "Nested Lands.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/2420660/Neva/
+# Neva https://store.steampowered.com/app/2420660/Neva/
 { "name": "Neva.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2395770/Never_Grave_The_Witch_and_The_Curse/
-{ "name": "NeverGrave.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/2929170/NEW_MONOPOLY/
+# NEW MONOPOLY® https://store.steampowered.com/app/2929170/NEW_MONOPOLY/
 { "name": "MONOPOLY.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/1063730/New_World_Aeternum/
+# New World: Aeternum https://store.steampowered.com/app/1063730/New_World_Aeternum/
 { "name": "NewWorld.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1147690/NGU_IDLE/
+# NGU IDLE https://store.steampowered.com/app/1147690/NGU_IDLE/
 { "name": "NGUIdle.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/2393160/Nice_Day_for_Fishing/
+# Nice Day for Fishing https://store.steampowered.com/app/2393160/Nice_Day_for_Fishing/
 { "name": "NiceDayForFishing.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/524220/NieRAutomata/
+# NieR:Automata™ https://store.steampowered.com/app/524220/NieRAutomata/
 { "name": "NierAutomata.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1051690/Nightmare_Reaper/
+# Nightmare Reaper https://store.steampowered.com/app/1051690/Nightmare_Reaper/
 { "name": "MyProject-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/527280/Nights_of_Azure/
+# Nights of Azure https://store.steampowered.com/app/527280/Nights_of_Azure/
 { "name": "CNN.exe", "type": "Game"}
 { "name": "CNN_JP.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/636570/Nights_of_Azure_2_Bride_of_the_New_Moon/
+# Nights of Azure 2: Bride of the New Moon https://store.steampowered.com/app/636570/Nights_of_Azure_2_Bride_of_the_New_Moon/
 { "name": "Nights of Azure 2_CHT.exe", "type": "Game"}
 { "name": "Nights of Azure 2_En.exe", "type": "Game"}
 { "name": "Nights of Azure 2_JP.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/1809540/Nine_Sols/
+# Nine Sols https://store.steampowered.com/app/1809540/Nine_Sols/
 { "name": "NineSols.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/589360/Ni_no_Kuni_II_Revenant_Kingdom/
+# Ni no Kuni™ II: Revenant Kingdom https://store.steampowered.com/app/589360/Ni_no_Kuni_II_Revenant_Kingdom/
 { "name": "Nino2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/798460/Ni_no_Kuni_Wrath_of_the_White_Witch_Remastered/
+# Ni no Kuni Wrath of the White Witch™ Remastered https://store.steampowered.com/app/798460/Ni_no_Kuni_Wrath_of_the_White_Witch_Remastered/
 { "name": "NinoKuni_WotWW_Remastered.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3287520/NINJA_GAIDEN_2_Black/
+# NINJA GAIDEN 2 Black https://store.steampowered.com/app/3287520/NINJA_GAIDEN_2_Black/
 { "name": "NINJAGAIDEN2BLACK.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1369760/NINJA_GAIDEN_3_Razors_Edge_NINJA_GAIDEN_Master_Collection/
+# NINJA GAIDEN 3: Razor's Edge [NINJA GAIDEN: Master Collection] https://store.steampowered.com/app/1369760/NINJA_GAIDEN_3_Razors_Edge_NINJA_GAIDEN_Master_Collection/
 { "name": "NINJA GAIDEN 3 Razor's Edge.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2627260/NINJA_GAIDEN_4/
+# NINJA GAIDEN 4 https://store.steampowered.com/app/2627260/NINJA_GAIDEN_4/
 { "name": "NINJAGAIDEN4-Steam.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1580790/NINJA_GAIDEN_S2_NINJA_GAIDEN_Master_Collection/
+# NINJA GAIDEN Σ2 [NINJA GAIDEN: Master Collection] https://store.steampowered.com/app/1580790/NINJA_GAIDEN_S2_NINJA_GAIDEN_Master_Collection/
 { "name": "NINJA GAIDEN SIGMA2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1580780/NINJA_GAIDEN_S_NINJA_GAIDEN_Master_Collection/
+# NINJA GAIDEN Σ [NINJA GAIDEN: Master Collection] https://store.steampowered.com/app/1580780/NINJA_GAIDEN_S_NINJA_GAIDEN_Master_Collection/
 { "name": "NINJA GAIDEN SIGMA.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/
+# Nioh 2 – The Complete Edition https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/
 { "name": "nioh2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3681010/Nioh_3/
+# Nioh 3 https://store.steampowered.com/app/3681010/Nioh_3/
 { "name": "Nioh3.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/485510/Nioh_Complete_Edition/
+# Nioh: Complete Edition https://store.steampowered.com/app/485510/Nioh_Complete_Edition/
 { "name": "nioh_launcher.exe", "type": "BG_CPUIO" }
 { "name": "nioh.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1939970/Nobody_Wants_to_Die/
+# Nobody Wants to Die https://store.steampowered.com/app/1939970/Nobody_Wants_to_Die/
 { "name": "detnoir.exe", "type": "Game" }
 { "name": "detnoir-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1336980/NOBUNAGAS_AMBITION_Awakening/
+# NOBUNAGA'S AMBITION: Awakening https://store.steampowered.com/app/1336980/NOBUNAGAS_AMBITION_Awakening/
 { "name": "NOBU16.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/375450/NOBUNAGAS_AMBITION_Sphere_of_Influence__Ascension/
+# NOBUNAGA'S AMBITION: Sphere of Influence - Ascension https://store.steampowered.com/app/375450/NOBUNAGAS_AMBITION_Sphere_of_Influence__Ascension/
 { "name": "NOBU14SR_EN.exe", "type": "Game"}
 { "name": "NOBU14SR_JP.exe", "type": "Game"}
 { "name": "NOBU14SR_TC.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/628890/NOBUNAGAS_AMBITION_Taishi/
+# NOBUNAGA'S AMBITION: Taishi https://store.steampowered.com/app/628890/NOBUNAGAS_AMBITION_Taishi/
 { "name": "NOBU15_EN.exe", "type": "Game"}
 { "name": "NOBU15_JP.exe", "type": "Game"}
 { "name": "NOBU15_TC.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/3180070/No_Im_not_a_Human/
+# No, I'm not a Human https://store.steampowered.com/app/3180070/No_Im_not_a_Human/
 { "name": "NoImNotAHuman.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/275850/No_Mans_Sky/
+# No Man's Sky https://store.steampowered.com/app/275850/No_Mans_Sky/
 { "name": "NMS.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1371980/No_Rest_for_the_Wicked/
+# No Rest for the Wicked https://store.steampowered.com/app/1371980/No_Rest_for_the_Wicked/
 { "name": "NoRestForTheWicked.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1857090/Norland/
+# Norland https://store.steampowered.com/app/1857090/Norland/
 { "name": "Norland.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/3054690/NORSE_Oath_of_Blood/
+# NORSE: Oath of Blood https://store.steampowered.com/app/3054690/NORSE_Oath_of_Blood/
 { "name": "NorseSteam-Win64-Shipping.exe", "type": "Game" }
 { "name": "Norse.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/283290/Nosferatu_The_Wrath_of_Malachi/
+# Nosferatu: The Wrath of Malachi https://store.steampowered.com/app/283290/Nosferatu_The_Wrath_of_Malachi/
 { "name": "Nosferatu.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2320280/Nova_Strike/
+# Nova Strike https://store.steampowered.com/app/2320280/Nova_Strike/
 { "name": "Nova Strike.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2909110/Nuclear_Nightmare/
+# Nuclear Nightmare https://store.steampowered.com/app/2909110/Nuclear_Nightmare/
 { "name": "NuclearNightmare.exe", "type": "Game"}
 { "name": "NuclearNightmare-Win64-Shipping.exe", "type": "Game"}
 
-# https://store.steampowered.com/app/2168680/Nuclear_Option/
+# Nuclear Option https://store.steampowered.com/app/2168680/Nuclear_Option/
 { "name": "NuclearOption.exe", "type": "Game"}
