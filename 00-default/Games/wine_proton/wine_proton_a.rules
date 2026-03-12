@@ -1,42 +1,45 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### A ###
 
 # Abiotic Factor https://store.steampowered.com/app/427410/Abiotic_Factor/
 { "name": "AbioticFactor.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1904480/Absolum/
+# Absolum https://store.steampowered.com/app/1904480/Absolum/
 { "name": "Absolum.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2401970/Ace_Attorney_Investigations_Collection/
+# Ace Attorney Investigations Collection https://store.steampowered.com/app/2401970/Ace_Attorney_Investigations_Collection/
 { "name": "GK12.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/
+# ACE COMBAT™ 7: SKIES UNKNOWN https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/
 { "name": "Ace7Game.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/10120/Aces_of_the_Galaxy/
+# Aces of the Galaxy™ https://store.steampowered.com/app/10120/Aces_of_the_Galaxy/
 { "name": "AcesOfTheGalaxy.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1234430/Ad_Infinitum/
+# Ad Infinitum https://store.steampowered.com/app/1234430/Ad_Infinitum/
 { "name": "AdInfinitum.exe", "type": "Game" }
 { "name": "AdInfinitum-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1089930/Aeon_Must_Die/
+# Aeon Must Die! https://store.steampowered.com/app/1089930/Aeon_Must_Die/
 { "name": "AeonMustDie-Win64-Shipping.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/2541530/AETHUS/
 { "name": "StrikeTheEarth.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2337630/AFL_23/
+# AFL 23 https://store.steampowered.com/app/2337630/AFL_23/
 { "name": "afl2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3468640/AFL_26/
+# AFL 26 https://store.steampowered.com/app/3468640/AFL_26/
 { "name": "afl25.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1336490/Against_the_Storm/
+# Against the Storm https://store.steampowered.com/app/1336490/Against_the_Storm/
 { "name": "Against the Storm.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1210150/Ageless/
+# Ageless https://store.steampowered.com/app/1210150/Ageless/
 { "name": "Ageless.exe", "type": "Game" }
 
 # Age of Empires https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/
@@ -45,280 +48,280 @@
 # Age of Empires II  https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/
 { "name": "AoE2DE_s.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/221380/Age_of_Empires_II_Retired/
+# Age of Empires II (Retired) https://store.steampowered.com/app/221380/Age_of_Empires_II_Retired/
 { "name": "AoK HD.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/933110/Age_of_Empires_III_Definitive_Edition/
+# Age of Empires III: Definitive Edition https://store.steampowered.com/app/933110/Age_of_Empires_III_Definitive_Edition/
 { "name": "AoE3DE_s.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition/
+# Age of Empires IV: Anniversary Edition https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition/
 { "name": "RelicCardinal.exe", "type": "Game" }
 
 # Age of Mythology https://store.steampowered.com/app/266840/Age_of_Mythology_Extended_Edition/
 { "name": "AoMX.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/
+# Age of Mythology: Retold https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/
 { "name": "AoMRT_s.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/253230/A_Hat_in_Time/
+# A Hat in Time https://store.steampowered.com/app/253230/A_Hat_in_Time/
 { "name": "HatinTimeGame.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2407270/AI_LIMIT/
+# AI LIMIT https://store.steampowered.com/app/2407270/AI_LIMIT/
 { "name": "AI-LIMIT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/714010/Aimlabs/
+# Aimlabs https://store.steampowered.com/app/714010/Aimlabs/
 { "name": "AimLab_tb.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1591450/Aka/
+# Aka https://store.steampowered.com/app/1591450/Aka/
 { "name": "Aka.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/108710/Alan_Wake/
+# Alan Wake https://store.steampowered.com/app/108710/Alan_Wake/
 { "name": "AlanWake.exe", "type": "Game" }
 
-# https://store.epicgames.com/en-US/p/alan-wake-2
+# Alan Wake 2 https://store.epicgames.com/en-US/p/alan-wake-2
 { "name": "AlanWake2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/
+# Alan Wake's American Nightmare https://store.steampowered.com/app/202750/Alan_Wakes_American_Nightmare/
 { "name": "alan_wakes_american_nightmare.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/761890/Albion_Online/
+# Albion Online https://store.steampowered.com/app/761890/Albion_Online/
 { "name": "Albion-Online.exe", "type": "Game" }
 { "name": "Albion-Online_BE.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3669570/Alchemy_Factory/
+# Alchemy Factory https://store.steampowered.com/app/3669570/Alchemy_Factory/
 { "name": "AlchemyFactory.exe", "type": "Game" }
 { "name": "AlchemyFactory-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/
+# Ale & Tale Tavern https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/
 { "name": "Ale and Tale Tavern.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/19680/Alice_Madness_Returns/
+# Alice: Madness Returns https://store.steampowered.com/app/19680/Alice_Madness_Returns/
 { "name": "AliceMadnessReturns.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/22650/Alien_Breed_2_Assault/
+# Alien Breed 2: Assault https://store.steampowered.com/app/22650/Alien_Breed_2_Assault/
 { "name": "AlienBreed2AssaultGame", "type": "Game" }
 { "name": "AlienBreed2Assault.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/22670/Alien_Breed_3_Descent/
+# Alien Breed 3: Descent https://store.steampowered.com/app/22670/Alien_Breed_3_Descent/
 { "name": "AlienBreed3Descent.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/22610/Alien_Breed_Impact/
+# Alien Breed: Impact https://store.steampowered.com/app/22610/Alien_Breed_Impact/
 { "name": "AlienBreed-Impact.exe", "type": "Game" }
 
 # Alien Isolation https://store.steampowered.com/app/214490/Alien_Isolation/
 { "name": "AI.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1150440/Aliens_Dark_Descent/
+# Aliens: Dark Descent https://store.steampowered.com/app/1150440/Aliens_Dark_Descent/
 { "name": "AliensDarkDescentGameSteam-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/
+# Aliens: Fireteam Elite https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/
  { "name": "Endeavor.exe", "type": "Game" }
  { "name": "Endeavor-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
+# Aliens versus Predator Classic 2000 https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
 { "name": "AvP_Classic.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/10680/Aliens_vs_Predator/
+# Aliens vs. Predator™ https://store.steampowered.com/app/10680/Aliens_vs_Predator/
 { "name": "AvP_DX11.exe", "type": "Game" }
 { "name": "AvP.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1629520/A_Little_to_the_Left/
+# A Little to the Left https://store.steampowered.com/app/1629520/A_Little_to_the_Left/
 { "name": "A Little To The Left.exe", "type": "Game" }
 
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/673130/AMID_EVIL/
+# AMID EVIL https://store.steampowered.com/app/673130/AMID_EVIL/
 { "name": "AmidEvil.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/999220/Amnesia_Rebirth/
+# Amnesia: Rebirth https://store.steampowered.com/app/999220/Amnesia_Rebirth/
 { "name": "AmnesiaRebirth.exe", "type": "Game" }
 { "name": "AmnesiaRebirth_NoSteam.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1944430/Amnesia_The_Bunker/
+# Amnesia: The Bunker https://store.steampowered.com/app/1944430/Amnesia_The_Bunker/
 { "name": "AmnesiaTheBunker.exe", "type": "Game" }
 { "name": "AmnesiaTheBunker_NoSteam.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
+# Amnesia: The Dark Descent https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
 { "name": "Amnesia.exe", "type": "Game" }
 { "name": "Amnesia_NoSteam.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/945360/Among_Us/
+# Among Us https://store.steampowered.com/app/945360/Among_Us/
 { "name": "Among Us.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/242940/Anachronox/
+# Anachronox https://store.steampowered.com/app/242940/Anachronox/
 { "name": "anox.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/
+# Ancestors: The Humankind Odyssey https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/
 { "name": "Ancestors-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/4173750/Angel_Engine/
+# Angel Engine https://store.steampowered.com/app/4173750/Angel_Engine/
 { "name": "AngelEngine.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1333350/Angel_Legion/
+# Angel Legion https://store.steampowered.com/app/1333350/Angel_Legion/
 { "name": "AngelLegion.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1978590/Anger_Foot/
+# Anger Foot https://store.steampowered.com/app/1978590/Anger_Foot/
 { "name": "AngerFoot.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/353980/Ankh__Anniversary_Edition/
+# Ankh - Anniversary Edition https://store.steampowered.com/app/353980/Ankh__Anniversary_Edition/
 { "name": "Ankh.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1239320/Animal_Shelter/
+# Animal Shelter https://store.steampowered.com/app/1239320/Animal_Shelter/
 { "name": "Animal Shelter.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2658510/Animal_Shelter_2/
+# Animal Shelter 2 https://store.steampowered.com/app/2658510/Animal_Shelter_2/
 { "name": "Animal Shelter 2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/813230/ANIMAL_WELL/
+# ANIMAL WELL https://store.steampowered.com/app/813230/ANIMAL_WELL/
 { "name": "Animal Well.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3274580/Anno_117_Pax_Romana/
+# Anno 117: Pax Romana https://store.steampowered.com/app/3274580/Anno_117_Pax_Romana/
 { "name": "Anno117.exe", "type": "Game" }
 { "name": "Anno117_plus.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1281630/Anno_1404__History_Edition/
+# Anno 1404 - History Edition https://store.steampowered.com/app/1281630/Anno_1404__History_Edition/
 { "name": "Anno1404.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2820110/Anno_1503_History_Edition/
+# Anno 1503 History Edition https://store.steampowered.com/app/2820110/Anno_1503_History_Edition/
 { "name": "Anno1503.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2820130/Anno_1602_History_Edition/
+# Anno 1602 History Edition https://store.steampowered.com/app/2820130/Anno_1602_History_Edition/
 { "name": "Anno1602.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2820140/Anno_1701_History_Edition/
+# Anno 1701 History Edition https://store.steampowered.com/app/2820140/Anno_1701_History_Edition/
 { "name": "Anno1701.exe", "type": "Game" }
 
 # Anno 1800 https://store.steampowered.com/app/916440/Anno_1800/
 { "name": "Anno1800.exe", "type": "Game" }
 { "name": "Anno1800_plus.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/48240/Anno_2070/
+# Anno 2070™ https://store.steampowered.com/app/48240/Anno_2070/
 { "name": "Anno5.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/375910/Anno_2205/
+# Anno 2205™ https://store.steampowered.com/app/375910/Anno_2205/
 { "name": "Anno2205.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3797340/Anomalous_Coffee_Machine_2/
+# Anomalous Coffee Machine 2 https://store.steampowered.com/app/3797340/Anomalous_Coffee_Machine_2/
 { "name": "acm2_windows.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1887840/Another_Crabs_Treasure/
+# Another Crab's Treasure https://store.steampowered.com/app/1887840/Another_Crabs_Treasure/
 { "name": "AnotherCrabsTreasure.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1072500/AO_Tennis_2/
+# AO Tennis 2 https://store.steampowered.com/app/1072500/AO_Tennis_2/
 { "name": "tennis2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
+# Aperture Desk Job https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
 { "name": "deskjob.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1172470/Apex_Legends/
+# Apex Legends™ https://store.steampowered.com/app/1172470/Apex_Legends/
 { "name": "r5apex_dx12.exe", "type": "Game" }
 { "name": "r5apex.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/
+# A Plague Tale: Innocence https://store.steampowered.com/app/752590/A_Plague_Tale_Innocence/
 { "name": "APlagueTaleInnocence_x64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/
+# A Plague Tale: Requiem https://store.steampowered.com/app/1182900/A_Plague_Tale_Requiem/
 { "name": "APlagueTaleRequiem_x64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2187220/Apollo_Justice_Ace_Attorney_Trilogy/
+# Apollo Justice: Ace Attorney Trilogy https://store.steampowered.com/app/2187220/Apollo_Justice_Ace_Attorney_Trilogy/
 { "name": "GS456.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2021880/Ara_History_Untold_Anniversary_Edition/
+# Ara History Untold: Anniversary Edition  https://store.steampowered.com/app/2021880/Ara_History_Untold_Anniversary_Edition/
 { "name": "AraHistoryUntold.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1296400/Architect_Life_A_House_Design_Simulator/
+# Architect Life: A House Design Simulator https://store.steampowered.com/app/1296400/Architect_Life_A_House_Design_Simulator/
 { "name": "ArchitectLife.exe", "type": "Game" }
 { "name": "Architect-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1808500/ARC_Raiders/
+# ARC Raiders https://store.steampowered.com/app/1808500/ARC_Raiders/
 { "name": "PioneerGame.exe", "type": "Game" }
 
 # Arknights: Endfield https://endfield.gryphline.com/
 { "name": "Endfield.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
+# ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 { "name": "ShooterGame_BE.exe", "type": "Game" }
 { "name": "ShooterGame.exe", "type": "Game" }
 
 # ARMA https://store.steampowered.com/app/65780/ARMA_Gold_Edition/
 { "name": "arma.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/107410/Arma_3/
+# Arma 3 https://store.steampowered.com/app/107410/Arma_3/
 { "name": "arma3_x64.exe", "type": "Game" }
 { "name": "arma3.exe", "type": "Game" }
 { "name": "arma3battleye.exe", "type": "Game" }
 { "name": "arma3launcher.exe", "type": "BG_CPUIO" }
 
-# https://store.steampowered.com/app/65790/ARMA_Cold_War_Assault/
+# ARMA: Cold War Assault https://store.steampowered.com/app/65790/ARMA_Cold_War_Assault/
 { "name": "ColdWarAssault.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1874880/Arma_Reforger/
+# Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
 { "name": "ArmaReforger_BE.exe", "type": "Game" }
 { "name": "ArmaReforgerSteam.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1888160/ARMORED_CORE_VI_FIRES_OF_RUBICON/
+# ARMORED CORE™ VI FIRES OF RUBICON™ https://store.steampowered.com/app/1888160/ARMORED_CORE_VI_FIRES_OF_RUBICON/
 { "name": "armoredcore6.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1341820/As_Dusk_Falls/
+# As Dusk Falls https://store.steampowered.com/app/1341820/As_Dusk_Falls/
 { "name": "Dusk.exe", "type": "Game" }
 
 # Ashes of creation https://store.steampowered.com/app/4124950/Ashes_of_Creation/
 { "name": "AOCClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntrepidStudiosLauncher.exe", "type": "BG_CPUIO" }
 
-# https://store.steampowered.com/app/1898300/ASKA/
+# ASKA https://store.steampowered.com/app/1898300/ASKA/
 { "name": "Aska.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/
+# A Space for the Unbound https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/
 { "name": "A Space for the Unbound.exe", "type": "Game" }
 
 # Assassin`s Creed  https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/
 { "name": "AssassinsCreed_Dx9.exe", "type": "Game" }
 { "name": "AssassinsCreed_Dx10.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/33230/Assassins_Creed_2/
+# Assassin's Creed 2 https://store.steampowered.com/app/33230/Assassins_Creed_2/
 { "name": "AssassinsCreedIIGame.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/911400/Assassins_Creed_III_Remastered/
+# Assassin's Creed® III Remastered https://store.steampowered.com/app/911400/Assassins_Creed_III_Remastered/
 { "name": "AC3SP.exe", "type": "Game" }
 { "name": "AC3MP.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/242050/Assassins_Creed_IV_Black_Flag/
+# Assassin’s Creed® IV Black Flag™ https://store.steampowered.com/app/242050/Assassins_Creed_IV_Black_Flag/
 { "name": "AC4BFMP.exe", "type": "Game" }
 { "name": "AC4BFSP.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/
+# Assassin’s Creed® Brotherhood https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/
 { "name": "ACBSP.exe", "type": "Game" }
 { "name": "ACBMP.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3035570/Assassins_Creed_Mirage/
+# Assassin's Creed Mirage https://store.steampowered.com/app/3035570/Assassins_Creed_Mirage/
 { "name": "ACMirage.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/
+# Assassin's Creed® Odyssey https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/
 { "name": "ACOdyssey.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/582160/Assassins_Creed_Origins/
+# Assassin's Creed® Origins https://store.steampowered.com/app/582160/Assassins_Creed_Origins/
 { "name": "ACOrigins.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/201870/Assassins_Creed_Revelations/
+# Assassin's Creed® Revelations https://store.steampowered.com/app/201870/Assassins_Creed_Revelations/
 { "name": "ACRMP.exe", "type": "Game" }
 { "name": "ACRPR.exe", "type": "Game" }
 { "name": "ACRSP.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/311560/Assassins_Creed_Rogue/
+# Assassin’s Creed® Rogue https://store.steampowered.com/app/311560/Assassins_Creed_Rogue/
 { "name": "ACC.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/
+# Assassin’s Creed Shadows https://store.steampowered.com/app/3159330/Assassins_Creed_Shadows/
 { "name": "ACShadows.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/
+# Assassin's Creed® Syndicate https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/
 { "name": "ACS.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/289650/Assassins_Creed_Unity/
+# Assassin's Creed® Unity https://store.steampowered.com/app/289650/Assassins_Creed_Unity/
 { "name": "ACU.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/
+# Assassin's Creed Valhalla https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/
 { "name": "ACValhalla_Plus.exe", "type": "Game" }
 { "name": "ACValhalla.exe", "type": "Game" }
 
@@ -333,7 +336,7 @@
 { "name": "acr.exe", "type": "Game" }
 { "name": "GameThread.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2622000/Astral_Party/
+# Astral Party https://store.steampowered.com/app/2622000/Astral_Party/
 { "name": "AstralParty_CN.exe", "type": "Game" }
 { "name": "AstralParty_INT.exe", "type": "Game" }
 
@@ -343,117 +346,117 @@
 # Astroneer, https://store.steampowered.com/app/361420/ASTRONEER/
 { "name": "Astro-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1769830/As_We_Descend/
+# As We Descend https://store.steampowered.com/app/1769830/As_We_Descend/
 { "name": "NextHumanity.exe", "type": "Game" }
 { "name": "NextHumanity-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1152300/Atelier_Ayesha_The_Alchemist_of_Dusk_DX/
+# Atelier Ayesha: The Alchemist of Dusk DX https://store.steampowered.com/app/1152300/Atelier_Ayesha_The_Alchemist_of_Dusk_DX/
 { "name": "Atelier_Ayesha.exe", "type": "Game" }
 { "name": "Atelier_Ayesha_EN.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1152310/Atelier_Escha__Logy_Alchemists_of_the_Dusk_Sky_DX/
+# Atelier Escha & Logy: Alchemists of the Dusk Sky DX https://store.steampowered.com/app/1152310/Atelier_Escha__Logy_Alchemists_of_the_Dusk_Sky_DX/
 { "name": "Atelier_Escha_and_Logy.exe", "type": "Game" }
 { "name": "Atelier_Escha_and_Logy_EN.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/527290/Atelier_Firis_The_Alchemist_and_the_Mysterious_Journey/
+# Atelier Firis: The Alchemist and the Mysterious Journey https://store.steampowered.com/app/527290/Atelier_Firis_The_Alchemist_and_the_Mysterious_Journey/
 { "name": "A18.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1502980/Atelier_Firis_The_Alchemist_and_the_Mysterious_Journey_DX/
+# Atelier Firis: The Alchemist and the Mysterious Journey DX https://store.steampowered.com/app/1502980/Atelier_Firis_The_Alchemist_and_the_Mysterious_Journey_DX/
 { "name": "Atelier_Firis_DX.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1045620/Atelier_Lulua_The_Scion_of_Arland/
+# Atelier Lulua ~The Scion of Arland~ https://store.steampowered.com/app/1045620/Atelier_Lulua_The_Scion_of_Arland/
 { "name": "Atelier_Lulua.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/756590/Atelier_Lydie__Suelle_The_Alchemists_and_the_Mysterious_Paintings/
+# Atelier Lydie & Suelle ~The Alchemists and the Mysterious Paintings~ https://store.steampowered.com/app/756590/Atelier_Lydie__Suelle_The_Alchemists_and_the_Mysterious_Paintings/
 { "name": "Atelier_Lydie_and_Suelle.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1502990/Atelier_Lydie__Suelle_The_Alchemists_and_the_Mysterious_Paintings_DX/
+# Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX https://store.steampowered.com/app/1502990/Atelier_Lydie__Suelle_The_Alchemists_and_the_Mysterious_Paintings_DX/
 { "name": "Atelier_Lydie_and_Suelle_DX.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2138090/Atelier_Marie_Remake_The_Alchemist_of_Salburg/
+# Atelier Marie Remake: The Alchemist of Salburg https://store.steampowered.com/app/2138090/Atelier_Marie_Remake_The_Alchemist_of_Salburg/
 { "name": "Atelier_Marie_Remake.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/936190/Atelier_Meruru_The_Apprentice_of_Arland_DX/
+# Atelier Meruru ~The Apprentice of Arland~ DX https://store.steampowered.com/app/936190/Atelier_Meruru_The_Apprentice_of_Arland_DX/
 { "name": "A13V_x64_Release.exe", "type": "Game" }
 { "name": "A13V_x64_Release_EN.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3259600/Atelier_Resleriana_The_Red_Alchemist__the_White_Guardian/
+# Atelier Resleriana: The Red Alchemist & the White Guardian https://store.steampowered.com/app/3259600/Atelier_Resleriana_The_Red_Alchemist__the_White_Guardian/
 { "name": "AtelierReslerianaRW.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/936160/Atelier_Rorona_The_Alchemist_of_Arland_DX/
+# Atelier Rorona ~The Alchemist of Arland~ DX https://store.steampowered.com/app/936160/Atelier_Rorona_The_Alchemist_of_Arland_DX/
 { "name": "A11R_x64_Release_en.exe", "type": "Game" }
 { "name": "A11R_x64_Release.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3365040/Atelier_Ryza_2_Lost_Legends__the_Secret_Fairy_DX/
+#Atelier Ryza 2: Lost Legends & the Secret Fairy DX https://store.steampowered.com/app/3365040/Atelier_Ryza_2_Lost_Legends__the_Secret_Fairy_DX/
 { "name": "Atelier_Ryza_2_DX.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3365030/Atelier_Ryza_Ever_Darkness__the_Secret_Hideout_DX/
+# Atelier Ryza: Ever Darkness & the Secret Hideout DX https://store.steampowered.com/app/3365030/Atelier_Ryza_Ever_Darkness__the_Secret_Hideout_DX/
 { "name": "Atelier_Ryza_DX.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1152320/Atelier_Shallie_Alchemists_of_the_Dusk_Sea_DX/
+# Atelier Shallie: Alchemists of the Dusk Sea DX  https://store.steampowered.com/app/1152320/Atelier_Shallie_Alchemists_of_the_Dusk_Sea_DX/
 { "name": "Atelier_Shallie.exe", "type": "Game" }
 { "name": "Atelier_Shallie_EN.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1621310/Atelier_Sophie_2_The_Alchemist_of_the_Mysterious_Dream/
+# Atelier Sophie 2: The Alchemist of the Mysterious Dream https://store.steampowered.com/app/1621310/Atelier_Sophie_2_The_Alchemist_of_the_Mysterious_Dream/
 { "name": "Atelier_Sophie_2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1502970/Atelier_Sophie_The_Alchemist_of_the_Mysterious_Book_DX/
+# Atelier Sophie: The Alchemist of the Mysterious Book DX https://store.steampowered.com/app/1502970/Atelier_Sophie_The_Alchemist_of_the_Mysterious_Book_DX/
 { "name": "Atelier_Sophie_DX.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3123410/Atelier_Yumia_The_Alchemist_of_Memories__the_Envisioned_Land/
+# Atelier Yumia: The Alchemist of Memories & the Envisioned Land https://store.steampowered.com/app/3123410/Atelier_Yumia_The_Alchemist_of_Memories__the_Envisioned_Land/
 { "name": "Atelier_Yumia.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1230530/Atlas_Fallen_Reign_Of_Sand/
+# Atlas Fallen: Reign Of Sand https://store.steampowered.com/app/1230530/Atlas_Fallen_Reign_Of_Sand/
 { "name": "AtlasFallen (DirectX 12).exe", "type": "Game" }
 { "name": "AtlasFallen (DX12).exe", "type": "Game" }
 { "name": "AtlasFallen (VK).exe", "type": "Game" }
 { "name": "AtlasFallen.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/801800/Atomfall/
+# Atomfall https://store.steampowered.com/app/801800/Atomfall/
 { "name": "Atomfall.exe", "type": "Game" }
 { "name": "Atomfall_dx12.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/668580/Atomic_Heart/
+# Atomic Heart https://store.steampowered.com/app/668580/Atomic_Heart/
 { "name": "AtomicHeart-Win64-Shipping.exe", "type": "Game" }
 { "name": "AtomicHeart.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1099410/A_Total_War_Saga_TROY/
+# A Total War Saga: TROY https://store.steampowered.com/app/1099410/A_Total_War_Saga_TROY/
 { "name": "Troy.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/601050/Attack_on_Titan_2__AOT2/
+# Attack on Titan 2 - A.O.T.2 https://store.steampowered.com/app/601050/Attack_on_Titan_2__AOT2/
 { "name": "AOT2_AS.exe", "type": "Game" }
 { "name": "AOT2_EU.exe", "type": "Game" }
 { "name": "AOT2_JP.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/449800/Attack_on_Titan__AOT_Wings_of_Freedom/
+# Attack on Titan / A.O.T. Wings of Freedom https://store.steampowered.com/app/449800/Attack_on_Titan__AOT_Wings_of_Freedom/
 { "name": "AoT.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1231560/Aurelia/
 { "name": "Aurelia.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/984800/Automachef/
+# Automachef https://store.steampowered.com/app/984800/Automachef/
 { "name": "Automachef.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/
+# Automation - The Car Company Tycoon Game https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/
 { "name": "AutomationGame-Win64-Shipping.exe", "type": "Game" }
 
 # Automobilista 2 https://store.steampowered.com/app/1066890/Automobilista_2/
 { "name": "AMS2.exe", "type": "Game" }
 { "name": "AMS2AVX.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2840770/Avatar_Frontiers_of_Pandora/
+# Avatar: Frontiers of Pandora™ https://store.steampowered.com/app/2840770/Avatar_Frontiers_of_Pandora/
 { "name": "afop.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/484900/Aven_Colony/
+# Aven Colony https://store.steampowered.com/app/484900/Aven_Colony/
 { "name": "AvenColony.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2660460/Aviassembly/
+# Aviassembly https://store.steampowered.com/app/2660460/Aviassembly/
 { "name": "Aviassembly.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2457220/Avowed/
+# Avowed https://store.steampowered.com/app/2457220/Avowed/
 { "name": "Avowed.exe", "type": "Game" }
 { "name": "Avowed-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1222700/A_Way_Out/
+# A Way Out https://store.steampowered.com/app/1222700/A_Way_Out/
 { "name": "AWayOut.exe", "type": "Game" }
 

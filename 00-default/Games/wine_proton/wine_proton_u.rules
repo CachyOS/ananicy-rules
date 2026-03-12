@@ -1,72 +1,75 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### U ###
 
-# https://store.steampowered.com/app/494840/UBOAT/
+# UBOAT https://store.steampowered.com/app/494840/UBOAT/
 { "name": "UBOAT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
+# Ultimate Custom Night https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
 { "name": "Ultimate Custom Night.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1229490/ULTRAKILL/
+# ULTRAKILL https://store.steampowered.com/app/1229490/ULTRAKILL/
 { "name": "ULTRAKILL.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/45760/Ultra_Street_Fighter_IV/
+# Ultra Street Fighter® IV https://store.steampowered.com/app/45760/Ultra_Street_Fighter_IV/
 { "name": "SSFIV.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/
+# Umamusume: Pretty Derby https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/
 { "name": "UmamusumePrettyDerby.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2313020/Umamusume_Pretty_Derby__Party_Dash/
+# Umamusume: Pretty Derby - Party Dash https://store.steampowered.com/app/2313020/Umamusume_Pretty_Derby__Party_Dash/
 { "name": "Uma Party Dash.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3772960/UMIGARI/
+# UMIGARI https://store.steampowered.com/app/3772960/UMIGARI/
 { "name": "ProjectBoat.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2240620/UNBEATABLE/
+# UNBEATABLE https://store.steampowered.com/app/2240620/UNBEATABLE/
 { "name": "UNBEATABLE.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/
+# UNCHARTED™: Legacy of Thieves Collection https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/
 { "name": "tll.exe", "type": "Game" }
 { "name": "tll-l.exe", "type": "Game" }
 { "name": "u4.exe", "type": "Game" }
 { "name": "u4-l.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1881700/Undawn/
+# Undawn https://store.steampowered.com/app/1881700/Undawn/
 { "name": "Undawn.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/250520/UnderRail/
+# UnderRail https://store.steampowered.com/app/250520/UnderRail/
 { "name": "underrail.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1111930/Underspace/
+# Underspace https://store.steampowered.com/app/1111930/Underspace/
 { "name": "Underspace.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1583520/Under_The_Island/
+# Under The Island https://store.steampowered.com/app/1583520/Under_The_Island/
 { "name": "UnderTheIsland.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1451190/Undisputed/
+# Undisputed https://store.steampowered.com/app/1451190/Undisputed/
 { "name": "Undisputed.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2891020/Undusted_Letters_from_the_Past/
+# Undusted: Letters from the Past https://store.steampowered.com/app/2891020/Undusted_Letters_from_the_Past/
 { "name": "Undusted.exe", "type": "Game" }
 
 # Universe Sandbox https://store.steampowered.com/app/230290/Universe_Sandbox/
 { "name": "Universe Sandbox x64.exe", "type": "Game" }
 { "name": "Universe Sandbox VR.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1477940/Unknown_9_Awakening/
+# Unknown 9: Awakening https://store.steampowered.com/app/1477940/Unknown_9_Awakening/
 { "name": "U9-Win64-Shipping.exe", "type": "Game" }
 { "name": "Unknown 9 Awakening.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/470220/UNO/
+# UNO https://store.steampowered.com/app/470220/UNO/
 { "name": "UNO.exe", "type": "Game" }
 { "name": "UbisoftGameLauncher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2211170/Unrailed_2_Back_on_Track/
+# Unrailed 2: Back on Track https://store.steampowered.com/app/2211170/Unrailed_2_Back_on_Track/
 { "name": "Unrailed2.exe", "type": "Game" }
 
 # Unreal Tournament 2004 https://store.steampowered.com/app/13230/Unreal_Tournament_2004_Editors_Choice_Edition/
 { "name": "UT2004.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1042920/Unsouled/
+# Unsouled https://store.steampowered.com/app/1042920/Unsouled/
 { "name": "Unsouled.exe", "type": "Game" }

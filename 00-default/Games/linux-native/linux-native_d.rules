@@ -1,11 +1,14 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### D ###
 
-# https://store.steampowered.com/app/274520/Darkwood/
+# Darkwood https://store.steampowered.com/app/274520/Darkwood/
 { "name": "Darkwood.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/588650/Dead_Cells/
+# Dead Cells https://store.steampowered.com/app/588650/Dead_Cells/
 { "name": "deadcells", "type": "Game" }
 { "name": "deadcells.sh", "type": "BG_CPUIO" }
 
@@ -19,29 +22,29 @@
 # dhewm3: https://dhewm3.org/
 { "name": "dhewm3", "type": "Game" }
 
-# https://store.steampowered.com/app/495280/Disgaea_2_PC/
+# Disgaea 2 PC https://store.steampowered.com/app/495280/Disgaea_2_PC/
 { "name": "Disgaea2SteamOS", "type": "Game" }
 
-# https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
+# Divinity: Original Sin - Enhanced Edition https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 { "name": "EoCApp", "type": "Game" }
 
-# https://store.steampowered.com/app/219740/Dont_Starve/
-# https://store.steampowered.com/app/322330/Dont_Starve_Together/
+# Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
+# Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam", "type": "Game" }
 { "name": "dontstarve_steam_x64", "type": "Game" }
 
-# https://store.steampowered.com/app/383930/Doorways_Holy_Mountains_of_Flesh/ (AND OTHER DOORWAYS GAMES)
+# Doorways: Holy Mountains of Flesh https://store.steampowered.com/app/383930/Doorways_Holy_Mountains_of_Flesh/ (AND OTHER DOORWAYS GAMES)
 { "name": "Doorways.x86", "type": "Game" }
 
-# http://store.steampowered.com/app/570/Dota_2/
+# Dota 2 http://store.steampowered.com/app/570/Dota_2/
 { "name": "dota2", "type": "Game" }
 
-# https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
+# Dust: An Elysian Tail https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
 { "name": "DustAET", "type": "Game" }
 
 # dxx rebirth: https://www.dxx-rebirth.com/
 { "name": "d1x-rebirth", "type": "Game" }
 { "name": "d2x-rebirth", "type": "Game" }
 
-# https://store.steampowered.com/app/239140/Dying_Light/
+# Dying Light https://store.steampowered.com/app/239140/Dying_Light/
 { "name": "DyingLightGame", "type": "Game" }

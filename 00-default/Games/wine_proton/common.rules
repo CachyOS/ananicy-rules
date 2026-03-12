@@ -1,46 +1,51 @@
-# https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
+
+# The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
 { "name": "player.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
-# https://store.steampowered.com/app/2487300/Docked/
-# https://store.steampowered.com/app/1042670/Orangeblood/
-# https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
+# BLACK SOULS II https://store.steampowered.com/app/3855540/BLACK_SOULS_II/
+# BLACK SOULS https://store.steampowered.com/app/3755860/BLACK_SOULS/
+# Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
+# Docked https://store.steampowered.com/app/2487300/Docked/
+# Orangeblood https://store.steampowered.com/app/1042670/Orangeblood/
+# Rune Factory: Guardians of Azuma https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
 { "name": "Game.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2487300/Docked/
-# https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
-# https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
-# https://store.steampowered.com/app/1382330/Persona_5_Strikers/
-# https://store.steampowered.com/app/2072560/DRAGON_BALL_GEKISHIN_SQUADRA/
+# Castlevania Anniversary Collection https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
+# Bloodstained: Curse of the Moon 2 https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
+# Persona® 5 Strikers https://store.steampowered.com/app/1382330/Persona_5_Strikers/
+# DRAGON BALL GEKISHIN SQUADRA https://store.steampowered.com/app/2072560/DRAGON_BALL_GEKISHIN_SQUADRA/
 { "name": "game.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
 { "name": "Launcher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
-# https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
+# Guild Wars® Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
+# GUNTOUCHABLES https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
 { "name": "Gw.exe", "type": "Game" }
 
 # Football Manager Series
-# https://store.steampowered.com/app/3551340/Football_Manager_26/
-# https://store.steampowered.com/app/2252570/Football_Manager_2024/
+# Football Manager 26 https://store.steampowered.com/app/3551340/Football_Manager_26/
+# Football Manager 2024 https://store.steampowered.com/app/2252570/Football_Manager_2024/
 { "name": "fm.exe", "type": "Game" }
 { "name": "FM.exe", "type": "Game" }
 { "name": "Berkelium.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
-# https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
+# DRAGON BALL Z: KAKAROT https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
+# Airline Tycoon Deluxe https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 { "name": "AT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
-# https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
+# Warhammer: Chaos And Conquest https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
+# Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 { "name": "Warhammer.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/9900/Star_Trek_Online/
+# Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3949040/RV_There_Yet/
-# https://store.steampowered.com/app/345660/RIDE/
+# RV There Yet? https://store.steampowered.com/app/3949040/RV_There_Yet/
+# RIDE https://store.steampowered.com/app/345660/RIDE/
 { "name": "Ride.exe", "type": "Game" }
 { "name": "Ride-Win64-Shipping.exe", "type": "Game" }
 { "name": "RideX64.exe", "type": "Game" }

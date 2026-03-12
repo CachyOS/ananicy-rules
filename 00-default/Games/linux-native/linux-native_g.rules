@@ -1,18 +1,21 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### G ###
 
-# https://store.steampowered.com/app/4000/Garrys_Mod/
+# Garry's Mod https://store.steampowered.com/app/4000/Garrys_Mod/
 { "name": "gmod", "type": "Game" }
 
-# https://store.steampowered.com/app/278930/GIGANTIC_ARMY/
+# GIGANTIC ARMY https://store.steampowered.com/app/278930/GIGANTIC_ARMY/
 { "name": "GiganticArmy.x86", "type": "Game" }
 
-# https://store.steampowered.com/app/265930/Goat_Simulator/
+# Goat Simulator https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame", "type": "Game" }
 
-# https://store.steampowered.com/app/431240/Golf_With_Your_Friends/
+# Golf With Your Friends https://store.steampowered.com/app/431240/Golf_With_Your_Friends/
 { "name": "Golf With Your Friends.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/
+# Grim Fandango Remastered https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/
 { "name": "GrimFandango", "type": "Game" }

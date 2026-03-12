@@ -1,14 +1,17 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### L ###
 
-# https://store.steampowered.com/app/230700/LaMulana/
+# La-Mulana https://store.steampowered.com/app/230700/LaMulana/
 { "name": "LaMulana.bin.x86", "type": "Game" }
 
-# https://store.steampowered.com/app/391720/Layers_of_Fear_2016/
+# Layers of Fear (2016) https://store.steampowered.com/app/391720/Layers_of_Fear_2016/
 { "name": "LOF", "type": "Game" }
 
-# https://store.steampowered.com/app/48000/LIMBO/
+# LIMBO https://store.steampowered.com/app/48000/LIMBO/
 { "name": "limbo", "type": "Game" }
 
 # http://www.luanti.org/

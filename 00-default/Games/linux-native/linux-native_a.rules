@@ -1,4 +1,7 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### A ###
 
@@ -11,23 +14,23 @@
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks", "type": "Game" }
 
-# https://store.steampowered.com/app/999220/Amnesia_Rebirth/
+# Amnesia: Rebirth https://store.steampowered.com/app/999220/Amnesia_Rebirth/
 { "name": "Amnesia2.bin.x86_64", "type": "Game" }
 { "name": "Amnesia2_NoSteam.bin.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
+# Amnesia: The Dark Descent https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/
 { "name": "Amnesia.bin.x86_64", "type": "Game" }
 { "name": "Amnesia.bin.x86_64", "type": "Game" }
 { "name": "Amnesia_NOSTEAM.bin.x86", "type": "Game" }
 { "name": "Amnesia_NOSTEAM.bin.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/233550/Another_World__20th_Anniversary_Edition/
+# Another World – 20th Anniversary Edition https://store.steampowered.com/app/233550/Another_World__20th_Anniversary_Edition/
 { "name": "AnotherWorld-amd64", "type": "Game" }
 
-# https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
+# Aperture Desk Job https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
 { "name": "deskjob", "type": "Game" }
 
-# https://store.steampowered.com/app/349690/ARMED_SEVEN/
+# ARMED SEVEN https://store.steampowered.com/app/349690/ARMED_SEVEN/
 { "name": "ArmedSeven.x86", "type": "Game" }
 
 # AssaultCube https://assault.cubers.net

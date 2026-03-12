@@ -1,18 +1,21 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### F ###
 
-# https://store.steampowered.com/app/427520/Factorio/
+# Factorio https://store.steampowered.com/app/427520/Factorio/
 { "name": "factorio", "type": "Game" }
 
-# https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
+# Fahrenheit: Indigo Prophecy Remastered https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
 { "name": "Fahrenheit", "type": "Game" }
 
-# https://store.steampowered.com/app/493540/Figment/
+# Figment https://store.steampowered.com/app/493540/Figment/
 { "name": "Figment.x86", "type": "Game" }
 { "name": "Figment.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/380600/Fishing_Planet/
+# Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
 { "name": "FishingPlanet.X86_64", "type": "Game" }
 
 # Football Manager Series
@@ -20,11 +23,11 @@
 { "name": "cefsimple", "type": "Game" }
 { "name": "berkelium", "type": "Game" }
 
-# https://store.steampowered.com/app/668980/Forsaken_Remastered/
+# Forsaken Remastered https://store.steampowered.com/app/668980/Forsaken_Remastered/
 { "name": "ForsakenEx", "type": "Game" }
 
 # freesynd: https://freesynd.sourceforge.io/
 { "name": "freesynd", "type": "Game" }
 
-# https://github.com/FunkinCrew/Funkin ; Friday Night Funkin' (base game)
+# Funkin https://github.com/FunkinCrew/Funkin ; Friday Night Funkin' (base game)
 { "name": "Funkin", "type": "Game" }

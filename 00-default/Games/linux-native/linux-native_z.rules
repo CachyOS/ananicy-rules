@@ -1,4 +1,7 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### Z ###
 
@@ -6,5 +9,5 @@
 { "name": "gzdoom", "type": "Game" }
 { "name": "zdoom", "type": "Game" }
 
-# https://store.steampowered.com/app/17500/Zombie_Panic_Source/
+# Zombie Panic! Source https://store.steampowered.com/app/17500/Zombie_Panic_Source/
 { "name": "zps_linux", "type": "Game" }

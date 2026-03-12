@@ -1,71 +1,78 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### R ###
 
-# https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
+# RaceRoom Racing Experience https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
 { "name": "RRREWebBrowser.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/9200/RAGE/
+# RAGE https://store.steampowered.com/app/9200/RAGE/
 { "name": "rage.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/548570/RAGE_2/
+# RAGE 2 https://store.steampowered.com/app/548570/RAGE_2/
 { "name": "RAGE2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/384200/Raging_Justice/
+# Raging Justice https://store.steampowered.com/app/384200/Raging_Justice/
 { "name": "RagingJustice.exe", "type": "Game" }
 
 # Rabbit and Steel https://store.steampowered.com/app/2132850/Rabbit_and_Steel/
 { "name": "RabbitSteel.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/400910/RabiRibi/
+# Rabi-Ribi https://store.steampowered.com/app/400910/RabiRibi/
 { "name": "rabiribi.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/648800/Raft/
+# Raft https://store.steampowered.com/app/648800/Raft/
 { "name": "Raft.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2288350/RAIDOU_Remastered_The_Mystery_of_the_Soulless_Army/
+# RAIDOU Remastered: The Mystery of the Soulless Army https://store.steampowered.com/app/2288350/RAIDOU_Remastered_The_Mystery_of_the_Soulless_Army/
 { "name": "Raidou TMOTSA.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2333480/RAID_Shadow_Legends/
+# RAID: Shadow Legends https://store.steampowered.com/app/2333480/RAID_Shadow_Legends/
 { "name": "Raid.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1677970/Railroad_Corporation_2/
+# Railroad Corporation 2 https://store.steampowered.com/app/1677970/Railroad_Corporation_2/
 { "name": "RailroadCorporation2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/312520/Rain_World/
+# Rain World https://store.steampowered.com/app/312520/Rain_World/
 { "name": "RainWorld.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
+# Ratchet & Clank: Rift Apart https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
 { "name": "RiftApart.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2071280/Ravenswatch/
+# Ravenswatch https://store.steampowered.com/app/2071280/Ravenswatch/
 { "name": "Ravenswatch.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/209730/RAW_Realms_of_Ancient_War/
+# R.A.W. Realms of Ancient War https://store.steampowered.com/app/209730/RAW_Realms_of_Ancient_War/
 { "name": "Realms Of Ancient War.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/4094670/Rayman_30th_Anniversary_Edition/
-{ "name": "rayman30th.exe", "type": "Game" }
-
-# https://store.steampowered.com/app/1144200/Ready_or_Not/
+# Ready or Not https://store.steampowered.com/app/1144200/Ready_or_Not/
 { "name": "ReadyOrNot.exe", "type": "Game" }
 { "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/200210/Realm_of_the_Mad_God_Exalt/
+# Rayman: 30th Anniversary Edition https://store.steampowered.com/app/4094670/Rayman_30th_Anniversary_Edition/
+{ "name": "rayman30th.exe", "type": "Game" }
+
+# Ready or Not https://store.steampowered.com/app/1144200/Ready_or_Not/
+{ "name": "ReadyOrNot.exe", "type": "Game" }
+{ "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" }
+
+# Realm of the Mad God Exalt https://store.steampowered.com/app/200210/Realm_of_the_Mad_God_Exalt/
 { "name": "RotMG Exalt Launcher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2129530/REANIMAL/
+# REANIMAL https://store.steampowered.com/app/2129530/REANIMAL/
 { "name": "REANIMAL.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/537450/ReCore_Definitive_Edition/
+# ReCore: Definitive Edition https://store.steampowered.com/app/537450/ReCore_Definitive_Edition/
 { "name": "ReCore.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2229940/REDACTED/
+# [REDACTED] https://store.steampowered.com/app/2229940/REDACTED/
 { "name": "Redacted.exe", "type": "Game" }
 { "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2668510/Red_Dead_Redemption/
+# Red Dead Redemption https://store.steampowered.com/app/2668510/Red_Dead_Redemption/
 { "name": "PlayRDR.exe", "type": "Game" }
 { "name": "RDR.exe", "type": "Game" }
 
@@ -77,275 +84,281 @@
 { "name": "RF.exe", "type": "Game" }
 { "name": "RF_120na.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/20550/Red_Faction_II/
+# Red Faction II https://store.steampowered.com/app/20550/Red_Faction_II/
 { "name": "rf2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/55110/Red_Faction_Armageddon/
+# Red Faction®: Armageddon™ https://store.steampowered.com/app/55110/Red_Faction_Armageddon/
 { "name": "RedFactionArmageddon.exe", "type": "Game" }
 { "name": "RedFactionArmageddon_DX11.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/667720/Red_Faction_Guerrilla_ReMarstered/
+# Red Faction Guerrilla Re-Mars-tered https://store.steampowered.com/app/667720/Red_Faction_Guerrilla_ReMarstered/
 { "name": "rfg.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/20500/Red_Faction_Guerrilla_Steam_Edition/
+# Red Faction Guerrilla Steam Edition https://store.steampowered.com/app/20500/Red_Faction_Guerrilla_Steam_Edition/
 { "name": "RFG.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1294810/Redfall/
+# Redfall https://store.steampowered.com/app/1294810/Redfall/
 { "name": "Redfall.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1799930/Redout_2/
+# Redout 2 https://store.steampowered.com/app/1799930/Redout_2/
 { "name": "redout2.exe", "type": "Game" }
 { "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1651600/Reigns_The_Witcher/
+# Realm of the Mad God Exalt https://store.steampowered.com/app/200210/Realm_of_the_Mad_God_Exalt/
+{ "name": "RotMG Exalt Launcher.exe", "type": "Game" }
+
+# Reigns: The Witcher https://store.steampowered.com/app/1651600/Reigns_The_Witcher/
 { "name": "ReignsWitcher.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3255890/Relooted/
+# Relooted https://store.steampowered.com/app/3255890/Relooted/
 { "name": "Relooted-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1282100/REMNANT_II/
+# REMNANT II® https://store.steampowered.com/app/1282100/REMNANT_II/
 { "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Remnant2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/
+# Remnant: From the Ashes https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/
 { "name": "Remnant-Win64-Shipping.exe", "type": "Game" }
 { "name": "Remnant.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3241660/REPO/
+# R.E.P.O. https://store.steampowered.com/app/3241660/REPO/
 { "name": "REPO.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/304240/Resident_Evil/
+# Resident Evil https://store.steampowered.com/app/304240/Resident_Evil/
 { "name": "bhd.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/339340/Resident_Evil_0/
+# Resident Evil 0 https://store.steampowered.com/app/339340/Resident_Evil_0/
 { "name": "re0hd.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/883710/Resident_Evil_2/
+# Resident Evil 2 https://store.steampowered.com/app/883710/Resident_Evil_2/
 { "name": "re2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/952060/Resident_Evil_3/
+# Resident Evil 3 https://store.steampowered.com/app/952060/Resident_Evil_3/
 { "name": "re3.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2050650/Resident_Evil_4/
+# Resident Evil 4 https://store.steampowered.com/app/2050650/Resident_Evil_4/
 { "name": "re4.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/254700/Resident_Evil_4_2005/
+# Resident Evil 4 (2005) https://store.steampowered.com/app/254700/Resident_Evil_4_2005/
 { "name": "bio4.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/21690/Resident_Evil_5/
+# Resident Evil 5 https://store.steampowered.com/app/21690/Resident_Evil_5/
 { "name": "re5dx9.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/221040/Resident_Evil_6/
+# Resident Evil 6 https://store.steampowered.com/app/221040/Resident_Evil_6/
 { "name": "BH6.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard
+# Resident Evil 7 Biohazard https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard
 { "name": "re7.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
+# Resident Evil: Operation Raccoon City https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
 { "name": "RaccoonCity.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/
+# Resident Evil Requiem https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/
 { "name": "re9.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/222480/Resident_Evil_Revelations
+# Resident Evil Revelations https://store.steampowered.com/app/222480/Resident_Evil_Revelations
 { "name": "rerev.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2
+# Resident Evil Revelations 2 https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2
 { "name": "rerev2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1196590/Resident_Evil_Village/
+# Resident Evil Village https://store.steampowered.com/app/1196590/Resident_Evil_Village/
 { "name": "re8.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2870920/Restaurats/
+# Restaurats https://store.steampowered.com/app/2870920/Restaurats/
 { "name": "Restaurats.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1649240/Returnal/
+# Returnal™ https://store.steampowered.com/app/1649240/Returnal/
 { "name": "Returnal.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3092660/Reverse_1999/
+# Reverse: 1999 https://store.steampowered.com/app/3092660/Reverse_1999/
 { "name": "reverse1999.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/477770/Ride_2/
+# Ride 2 https://store.steampowered.com/app/477770/Ride_2/
 { "name": "Ride2.exe", "type": "Game" }
 { "name": "Ride2X64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/759740/RIDE_3/
+# RIDE 3 https://store.steampowered.com/app/759740/RIDE_3/
 { "name": "ride3.exe", "type": "Game" }
 { "name": "ride3-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1259980/RIDE_4/
+# RIDE 4 https://store.steampowered.com/app/1259980/RIDE_4/
 { "name": "ride4.exe", "type": "Game" }
 { "name": "ride4-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1650010/RIDE_5/
+# RIDE 5 https://store.steampowered.com/app/1650010/RIDE_5/
 { "name": "ride5.exe", "type": "Game" }
 { "name": "ride5-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2815070/RIDE_6/
+# RIDE 6 https://store.steampowered.com/app/2815070/RIDE_6/
 { "name": "ride6.exe", "type": "Game" }
 { "name": "ride6-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2290180/Riders_Republic/
+# Riders Republic https://store.steampowered.com/app/2290180/Riders_Republic/
 { "name": "RidersRepublic.exe", "type": "Game" }
 { "name": "RidersRepublic_BE.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1346010/RiMS_Racing/
+# RiMS Racing https://store.steampowered.com/app/1346010/RiMS_Racing/
 { "name": "RiMS.exe", "type": "Game" }
 
 # RimWorld - https://rimworldgame.com/
 { "name": "RimWorldWin64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/287450/Rise_of_Nations_Extended_Edition/
+# Rise of Nations: Extended Edition https://store.steampowered.com/app/287450/Rise_of_Nations_Extended_Edition/
 { "name": "riseofnations.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1400660/Rise_of_Piracy/
+# Rise of Piracy https://store.steampowered.com/app/1400660/Rise_of_Piracy/
 { "name": "Rise of Piracy.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1340990/Rise_of_the_Ronin/
+# Rise of the Ronin https://store.steampowered.com/app/1340990/Rise_of_the_Ronin/
 { "name": "Ronin.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
+# Rise of the Tomb Raider™ https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
 { "name": "ROTTR.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/835650/Rising_Lords/
+# Rising Lords https://store.steampowered.com/app/835650/Rising_Lords/
 { "name": "RisingLords.exe", "type": "Game" }
 
 # Risk of Rain 2 https://store.steampowered.com/app/632360/Risk_of_Rain_2/
 { "name": "Risk of Rain 2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2066520/Ritual_of_Raven/
+# Ritual of Raven https://store.steampowered.com/app/2066520/Ritual_of_Raven/
 { "name": "RitualofRaven.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/383980/Rivals_of_Aether/
+# Rivals of Aether https://store.steampowered.com/app/383980/Rivals_of_Aether/
 { "name": "RivalsofAether.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2217000/Rivals_of_Aether_II/
+# Rivals of Aether II https://store.steampowered.com/app/2217000/Rivals_of_Aether_II/
 { "name": "Rivals2.exe", "type": "Game" }
 { "name": "Rivals2-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2104890/RoadCraft/
+# RoadCrafthttps://store.steampowered.com/app/2104890/RoadCraft/
 { "name": "Roadcraft.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3643170/Roadside_Research/
+# Roadside Research https://store.steampowered.com/app/3643170/Roadside_Research/
 { "name": "Roadside Research.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
+# RoboCop: Rogue City https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
 { "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
 { "name": "RoboCop.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3527760/RoboCop_Rogue_City__Unfinished_Business/
+# RoboCop: Rogue City - Unfinished Business https://store.steampowered.com/app/3527760/RoboCop_Rogue_City__Unfinished_Business/
 { "name": "RoboCopUnfinishedBusiness.exe", "type": "Game" }
 { "name": "RoboCopUnfinishedBusiness-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/692890/Roboquest/
+# Roboquest https://store.steampowered.com/app/692890/Roboquest/
 { "name": "RoboQuest.exe", "type": "Game" }
 { "name": "RoboQuest-Win64-Shipping.exe", "type": "Game" }
 
 # Rocket League https://www.rocketleague.com/en/
 { "name": "RocketLeague.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1076200/Roguebook/
+# Roguebook https://store.steampowered.com/app/1076200/Roguebook/
 { "name": "Roguebook.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/872200/Rogue_Company/
+# Rogue Company https://store.steampowered.com/app/872200/Rogue_Company/
 { "name": "RogueCompany.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1069690/Rogue_Lords/
+# Rogue Lords https://store.steampowered.com/app/1069690/Rogue_Lords/
 { "name": "Rogue Lords.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1843840/Rogue_Point/
+# Rogue Point https://store.steampowered.com/app/1843840/Rogue_Point/
 { "name": "Tango.exe", "type": "Game" }
 { "name": "Tango-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/7020/Rogue_Trooper/
+# Rogue Trooper https://store.steampowered.com/app/7020/Rogue_Trooper/
 { "name": "RogueTrooper.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/529490/Rogue_Trooper_Redux/
+# Rogue Trooper Redux https://store.steampowered.com/app/529490/Rogue_Trooper_Redux/
 { "name": "RTR_x64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/285330/RollerCoaster_Tycoon_2_Triple_Thrill_Pack/
+# RollerCoaster Tycoon® 2: Triple Thrill Pack https://store.steampowered.com/app/285330/RollerCoaster_Tycoon_2_Triple_Thrill_Pack/
 { "name": "RCT2.EXE", "type": "Game" }
 
-# https://store.steampowered.com/app/1368820/RollerCoaster_Tycoon_3_Complete_Edition/
+# RollerCoaster Tycoon® 3: Complete Edition https://store.steampowered.com/app/1368820/RollerCoaster_Tycoon_3_Complete_Edition/
 { "name": "RCT3.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/683900/RollerCoaster_Tycoon_Classic/
+# RollerCoaster Tycoon® Classic https://store.steampowered.com/app/683900/RollerCoaster_Tycoon_Classic/
 { "name": "RCTClassic.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/285310/RollerCoaster_Tycoon_Deluxe/
+# RollerCoaster Tycoon®: Deluxe https://store.steampowered.com/app/285310/RollerCoaster_Tycoon_Deluxe/
 { "name": "RCT.EXE", "type": "Game" }
 
-# https://store.steampowered.com/app/282560/RollerCoaster_Tycoon_World/
+# RollerCoaster Tycoon World™ https://store.steampowered.com/app/282560/RollerCoaster_Tycoon_World/
 { "name": "RollerCoaster Tycoon World.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/363150/Romance_of_the_Three_Kingdoms_XIII/
+# Romance of the Three Kingdoms XIII https://store.steampowered.com/app/363150/Romance_of_the_Three_Kingdoms_XIII/
 { "name": "San.exe", "type": "Game" }
 { "name": "San13_en.exe", "type": "Game" }
 { "name": "San13_jp.exe", "type": "Game" }
 { "name": "San13_kr.exe", "type": "Game" }
 { "name": "San13_tc.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/872410/ROMANCE_OF_THE_THREE_KINGDOMS_XIV/
+# ROMANCE OF THE THREE KINGDOMS XIV https://store.steampowered.com/app/872410/ROMANCE_OF_THE_THREE_KINGDOMS_XIV/
 { "name": "SAN14.exe", "type": "Game" }
 { "name": "SAN14_KO.exe", "type": "Game" }
 { "name": "SAN14_SC.exe", "type": "Game" }
 { "name": "SAN14_TC.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2288150/ROMANCE_OF_THE_THREE_KINGDOMS_8_REMAKE/
+# ROMANCE OF THE THREE KINGDOMS 8 REMAKE https://store.steampowered.com/app/2288150/ROMANCE_OF_THE_THREE_KINGDOMS_8_REMAKE/
 { "name": "SAN8R.exe", "type": "Game" }
 { "name": "San8rWER.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3050900/ROMEO_IS_A_DEAD_MAN/
+# Rotastic https://store.steampowered.com/app/204580/Rotastic/
+{ "name": "Rotastic.exe", "type": "Game" }
+
+# ROMEO IS A DEAD MAN https://store.steampowered.com/app/3050900/ROMEO_IS_A_DEAD_MAN/
 { "name": "SevGame.exe", "type": "Game" }
 { "name": "SevGame-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/204580/Rotastic/
+# Rotastic https://store.steampowered.com/app/204580/Rotastic/
 { "name": "Rotastic.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2015270/Rotwood/
+# Rotwood https://store.steampowered.com/app/2015270/Rotwood/
 { "name": "rotwood.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1557740/ROUNDS/
+# ROUNDS https://store.steampowered.com/app/1557740/ROUNDS/
 { "name": "ROUNDS.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/606160/ROUTINE/
+# ROUTINE https://store.steampowered.com/app/606160/ROUTINE/
 { "name": "Routine-Win64-Shipping.exe", "type": "Game" }
 { "name": "Routine.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1096900/RPG_Maker_MZ/
+# RPG Maker MZ https://store.steampowered.com/app/1096900/RPG_Maker_MZ/
 { "name": "RPGMZ.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/928390/RType_Dimensions_EX/
+# R-Type Dimensions EX https://store.steampowered.com/app/928390/RType_Dimensions_EX/
 { "name": "R-Type_Dimensions.exe", "type": "Game" }
 
 # Ruined King: A League of Legends Story https://store.steampowered.com/app/1276790/Ruined_King_A_League_of_Legends_Story/
 { "name": "RuinedKing.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/7210/Runaway_A_Road_Adventure/
+# Runaway, A Road Adventure https://store.steampowered.com/app/7210/Runaway_A_Road_Adventure/
 { "name": "Runaway.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/58560/Runaway_A_Twist_of_Fate/
+# Runaway: A Twist of Fate https://store.steampowered.com/app/58560/Runaway_A_Twist_of_Fate/
 { "name": "RATOF.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/7220/Runaway_The_Dream_of_The_Turtle/
+# Runaway, The Dream of The Turtle https://store.steampowered.com/app/7220/Runaway_The_Dream_of_The_Turtle/
 { "name": "RunawayTDOTT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/210950/Rune_Classic/
+# Rune Classic https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/
+# RuneScape: Dragonwilds https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/
 { "name": "RSDragonwilds.exe", "type": "Game" }
 { "name": "RSDragonwilds-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/579490/RUSH_A_Disney_o_PIXAR_Adventure/
+# RUSH: A Disney • PIXAR Adventure https://store.steampowered.com/app/579490/RUSH_A_Disney_o_PIXAR_Adventure/
 { "name": "Rushx64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/766570/Russian_Fishing_4/
+# Russian Fishing 4 https://store.steampowered.com/app/766570/Russian_Fishing_4/
 { "name": "rf4_x64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/252490/Rust/
+# Rust https://store.steampowered.com/app/252490/Rust/
 { "name": "Rust.exe", "type": "Game" }
 { "name": "RustClient.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/302510/Ryse_Son_of_Rome/
+# Ryse: Son of Rome https://store.steampowered.com/app/302510/Ryse_Son_of_Rome/
 { "name": "Ryse.exe", "type": "Game" }
