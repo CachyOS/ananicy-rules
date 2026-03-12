@@ -1,30 +1,33 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### Z ###
 
-# https://zenless.hoyoverse.com/
+# Zenless Zone Zero https://zenless.hoyoverse.com/
 { "name": "ZenlessZoneZero.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2719740/Zero_Caliber_2_Remastered/
+# Zero Caliber 2 Remastered https://store.steampowered.com/app/2719740/Zero_Caliber_2_Remastered/
 { "name": "ZeroCaliber_2.exe", "type": "Game" }
 { "name": "ZeroCaliber_2-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/877200/Zero_Caliber_VR/
+# Zero Caliber VR https://store.steampowered.com/app/877200/Zero_Caliber_VR/
 { "name": "ZeroCaliber.exe", "type": "Game" }
 { "name": "ZeroCaliber-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/694280/Zombie_Army_4_Dead_War/
+# Zombie Army 4: Dead War https://store.steampowered.com/app/694280/Zombie_Army_4_Dead_War/
 { "name": "za4_vulkan.exe", "type": "Game" }
 { "name": "za4_dx12.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/301640/Zombie_Army_Trilogy/
+# Zombie Army Trilogy https://store.steampowered.com/app/301640/Zombie_Army_Trilogy/
 { "name": "ZAT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2058030/Zombie_Army_VR/
+# Zombie Army VR https://store.steampowered.com/app/2058030/Zombie_Army_VR/
 { "name": "Zombie Army VR.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/613880/Zoo_Tycoon_Ultimate_Animal_Collection/
+# Zoo Tycoon: Ultimate Animal Collection https://store.steampowered.com/app/613880/Zoo_Tycoon_Ultimate_Animal_Collection/
 { "name": "ZooTycoon.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1571460/Zorro_The_Chronicles/
+# Zorro The Chronicles https://store.steampowered.com/app/1571460/Zorro_The_Chronicles/
 { "name": "Zorro_The_Chronicles.exe", "type": "Game" }

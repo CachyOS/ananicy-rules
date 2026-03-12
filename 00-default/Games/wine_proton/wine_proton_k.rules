@@ -1,83 +1,86 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### K ###
 
 # Kade Engine https://gamebanana.com/mods/44291
 { "name": "Kade Engine.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/324140/Kalimba/
+# Kalimba https://store.steampowered.com/app/324140/Kalimba/
 { "name": "Kalimba.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/
+# KARDS - The WW2 Card Game https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/
 { "name": "kards.exe", "type": "Game" }
 { "name": "kards-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/415600/Kart_Racing_Pro/
+# Kart Racing Pro https://store.steampowered.com/app/415600/Kart_Racing_Pro/
 { "name": "kart.exe", "type": "Game" }
 
 # Katana ZERO https://store.steampowered.com/app/460950/Katana_ZERO/
 { "name": "Katana ZERO.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3043580/Keeper/
+# Keeper https://store.steampowered.com/app/3043580/Keeper/
 { "name": "Keeper.exe", "type": "Game" }
 { "name": "Keeper-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3720460/KEEP_GAMBLING/
+# KEEP GAMBLING https://store.steampowered.com/app/3720460/KEEP_GAMBLING/
 { "name": "Kaching.exe", "type": "Game" }
 { "name": "Kaching-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/233860/Kenshi/
+# Kenshi https://store.steampowered.com/app/233860/Kenshi/
 { "name": "kenshi_x64.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/868520/killer7/
+# killer7 https://store.steampowered.com/app/868520/killer7/
 { "name": "Killer7Win.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1598230/KILLER_INN/
+# KILLER INN https://store.steampowered.com/app/1598230/KILLER_INN/
 { "name": "Killer Inn.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/261110/Killer_is_Dead__Nightmare_Edition/
+# Killer is Dead - Nightmare Edition https://store.steampowered.com/app/261110/Killer_is_Dead__Nightmare_Edition/
 { "name": "KidGame.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/232090/Killing_Floor_2/
+# Killing Floor 2 https://store.steampowered.com/app/232090/Killing_Floor_2/
 # https://store.epicgames.com/en-US/p/killing-floor-2
 { "name": "KFGame.exe", "type": "Game" }
 
 # King Arthur: Knight's Tale https://store.steampowered.com/app/1157390/King_Arthur_Knights_Tale/
 { "name": "KA_KT.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/
-# https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/
+# Kingdom Come: Deliverance https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/
+# Kingdom Come: Deliverance II https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/
 { "name": "KingdomCome.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
+# Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
 { "name": "Kingdom Rush Alliance.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1367550/Kingdom_Rush_Vengeance__Tower_Defense/
+# Kingdom Rush Vengeance - Tower Defense https://store.steampowered.com/app/1367550/Kingdom_Rush_Vengeance__Tower_Defense/
 { "name": "Kingdom Rush Vengeance.exe", "type": "Game" }
 
 # Kingdoms of Amalur: Re-Reckoning https://store.steampowered.com/app/1041720/Kingdoms_of_Amalur_ReReckoning/
 { "name": "koa.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/38430/Kingpin__Life_of_Crime
+# Kingpin — Life of Crime https://store.steampowered.com/app/38430/Kingpin__Life_of_Crime
 { "name": "kingpin.exe", "type": "Game" }
 
 # KinitoPET https://store.steampowered.com/app/2075070/KinitoPET/
 { "name": "KinitoPET.exe", "type": "Game" }
 { "name": "lense.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1699480/KLETKA/
+# KLETKA https://store.steampowered.com/app/1699480/KLETKA/
 { "name": "KLETKA.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1730680/Klonoa_Phantasy_Reverie_Series/
+# Klonoa Phantasy Reverie Series https://store.steampowered.com/app/1730680/Klonoa_Phantasy_Reverie_Series/
 { "name": "Klonoa.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1911390/Knightfall_A_Daring_Journey/
+# Knightfall: A Daring Journey https://store.steampowered.com/app/1911390/Knightfall_A_Daring_Journey/
 { "name": "Knightfall.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/389430/Knight_Online/
+# Knight Online https://store.steampowered.com/app/389430/Knight_Online/
 { "name": "KnightOnLine.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/824270/KovaaKs/
+# KovaaK's https://store.steampowered.com/app/824270/KovaaKs/
 { "name": "FPSAimTrainer-Win64-Shipping.exe", "type": "Game" }
 { "name": "FPSAimTrainer.exe", "type": "Game" }
 

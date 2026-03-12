@@ -1,31 +1,34 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### I ###
 
-# https://store.steampowered.com/app/1149460/ICARUS/
+# ICARUS https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
 { "name": "Icarus.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/627690/Idle_Champions_of_the_Forgotten_Realms/
+# Idle Champions of the Forgotten Realms https://store.steampowered.com/app/627690/Idle_Champions_of_the_Forgotten_Realms/
 { "name": "IdleDragons.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/15320/IL2_Sturmovik_1946/
+# IL-2 Sturmovik: 1946 https://store.steampowered.com/app/15320/IL2_Sturmovik_1946/
 { "name": "il2fb.exe", "type": "Game" }
 
 # Imperator: Rome https://www.paradoxinteractive.com/games/imperator-rome
 { "name": "imperator.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2116120/Incursion_Red_River/
+# Incursion Red River https://store.steampowered.com/app/2116120/Incursion_Red_River/
 { "name": "Test_C-Win64-Shipping.exe", "type": "Game" }
 { "name": "Test_C.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1465460/Infection_Free_Zone/
 { "name": "Infection Free Zone.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3164330/Infinity_Nikki/
+# Infection Free Zone https://store.steampowered.com/app/3164330/Infinity_Nikki/
 { "name": "InfinityNikki.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/
+# Indiana Jones and the Great Circle https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/
 { "name": "TheGreatCircle.exe", "type": "Game" }
 
 # Indie Cross https://gamejolt.com/games/indiecross/643540
@@ -35,40 +38,40 @@
 { "name": "RaccoonCh1.exe", "type": "Game" }
 { "name": "RaccoonCh1-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1373960/INDIKA/
+# INDIKA https://store.steampowered.com/app/1373960/INDIKA/
 { "name": "Indika.exe", "type": "Game" }
 { "name": "Indika-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/627270/Injustice_2
+# Injustice™ 2 https://store.steampowered.com/app/627270/Injustice_2
 { "name": "Injustice2.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/
+# Injustice: Gods Among Us Ultimate Edition https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/
 { "name": "Injustice.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3166810/Insider_Trading/
+# Insider Trading https://store.steampowered.com/app/3166810/Insider_Trading/
 { "name": "Insider_Trading.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/581320/Insurgency_Sandstorm/
+# Insurgency: Sandstorm https://store.steampowered.com/app/581320/Insurgency_Sandstorm/
 { "name": "Insurgency.exe", "type": "Game" }
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "InsurgencyEAC.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1012790/Into_the_Radius_VR/
+# Into the Radius VR https://store.steampowered.com/app/1012790/Into_the_Radius_VR/
 { "name": "IntoTheRadius-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntoTheRadius.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2456740/inZOI/
+# inZOI https://store.steampowered.com/app/2456740/inZOI/
 { "name": "inZOI-Win64-Shipping.exe", "type": "Game" }
 { "name": "inZOI.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3226450/iRacing_Arcade/
+# iRacing Arcade https://store.steampowered.com/app/3226450/iRacing_Arcade/
 { "name": "iracing-arcade.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1192900/IRON_REBELLION/
+# IRON REBELLION https://store.steampowered.com/app/1192900/IRON_REBELLION/
 { "name": "Iron Rebellion.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1426210/It_Takes_Two/
+# It Takes Two https://store.steampowered.com/app/1426210/It_Takes_Two/
 { "name": "ItTakesTwo.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1113120/IXION/
+# IXION https://store.steampowered.com/app/1113120/IXION/
 { "name": "Ixion.exe", "type": "Game" }

@@ -1,25 +1,28 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
-# https://store.steampowered.com/app/435100/2Dark/
+# 2Dark https://store.steampowered.com/app/435100/2Dark/
 { "name": "2Dark.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/
+# 7 Days to End with You https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/
 { "name": "Seven Days to End with You.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/668550/8Doors_Arums_Afterlife_Adventure/
+# 8Doors: Arum's Afterlife Adventure https://store.steampowered.com/app/668550/8Doors_Arums_Afterlife_Adventure/
 { "name": "8Doors.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/477010/10_Minute_Tower/
+# 10 Minute Tower https://store.steampowered.com/app/477010/10_Minute_Tower/
 { "name": "10MinuteTower.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/282800/100_Orange_Juice/
+# 100% Orange Juice https://store.steampowered.com/app/282800/100_Orange_Juice/
 { "name": "100orange.exe", "type": "Game" }
 { "name": "100orange_x86.exe", "type": "Game" }
 
 # 140 https://store.steampowered.com/app/242820/140/
 { "name": "140.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1675830/1000xRESIST/
+# 1000xRESIST https://store.steampowered.com/app/1675830/1000xRESIST/
 { "name": "1000xRESIST.exe", "type": "Game" }
 
 # 1348 Ex Voto DEMO https://store.steampowered.com/app/1895900/1348_Ex_Voto/

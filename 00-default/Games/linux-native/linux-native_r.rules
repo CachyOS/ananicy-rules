@@ -1,17 +1,20 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### R ###
 
-# https://store.steampowered.com/app/559210/Rakuen/
+# Rakuen https://store.steampowered.com/app/559210/Rakuen/
 { "name": "Rakuen.amd64", "type": "Game" }
 
-# https://store.steampowered.com/app/636480/Ravenfield/
+# Ravenfield https://store.steampowered.com/app/636480/Ravenfield/
 { "name": "ravenfield.x86_64", "type": "Game" }
 
 # rbdoom3bfg: https://github.com/RobertBeckebans/RBDOOM-3-BFG
 { "name": "rbdoom3bfg", "type": "Game" }
 
-# https://store.steampowered.com/app/975150/Resolutiion/
+# Resolutiion https://store.steampowered.com/app/975150/Resolutiion/
 { "name": "Resolutiion.x86_64", "type": "Game" }
 
 # RimWorld - https://rimworldgame.com/
@@ -20,10 +23,10 @@
 # Riot: https://about.riot.im/
 { "name": "riot-web", "type": "LowLatency_RT" }
 
-# http://store.steampowered.com/app/301520/Robocraft/
+# Robocraft http://store.steampowered.com/app/301520/Robocraft/
 { "name": "Robocraft.x86_64", "type": "Game" }
 
-# http://store.steampowered.com/app/252950/Rocket_League/
+# Rocket League® http://store.steampowered.com/app/252950/Rocket_League/
 { "name": "RocketLeague", "type": "Game" }
 
 # rott: http://icculus.org/rott/

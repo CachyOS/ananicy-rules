@@ -1,82 +1,85 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### V ###
 
-# https://store.steampowered.com/app/801550/VAIL_Extraction/
+# VAIL https://store.steampowered.com/app/801550/VAIL_Extraction/
 { "name": "VAIL.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/438430/Valentino_Rossi_The_Game/
+# Valentino Rossi The Game https://store.steampowered.com/app/438430/Valentino_Rossi_The_Game/
 { "name": "MotoGPVR46.exe", "type": "Game" }
 { "name": "MotoGPVR46X64.exe", "type": "Game" }
 
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "Valheim.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
+# Vampires: Bloodlord Rising https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
 { "name": "VBR.exe", "type": "Game" }
 { "name": "VBR-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1794680/Vampire_Survivors/
+# Vampire Survivors https://store.steampowered.com/app/1794680/Vampire_Survivors/
 { "name": "VampireSurvivors.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
+# Vampire: The Masquerade - Bloodlines https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
 { "name": "vampire.exe", "type": "Game" }
 
 # Vampire: The Masquerade Bloodlines : Unofficial Patch https://www.moddb.com/mods/vtmb-unofficial-patch
 { "name": "Vampire.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1299510/Vampire_The_Masquerade__Swansong/
+# Vampire: The Masquerade – Swansong https://store.steampowered.com/app/1299510/Vampire_The_Masquerade__Swansong/
 { "name": "Swansong.exe", "type": "Game" }
 { "name": "Swansong-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/427290/Vampyr/
+# Vampyr https://store.steampowered.com/app/427290/Vampyr/
 { "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "Vampyr-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/338140/Venetica__Gold_Edition/
+# Venetica - Gold Edition https://store.steampowered.com/app/338140/Venetica__Gold_Edition/
 { "name": "Venetica.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/42960/Victoria_II/
+# Victoria II https://store.steampowered.com/app/42960/Victoria_II/
 { "name": "victoria2.exe", "type": "Game" }
 
 # Victoria 3 https://www.paradoxinteractive.com/games/victoria-3
 # https://store.steampowered.com/app/529340/Victoria_3/
 { "name": "victoria3.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1382070/Viewfinder/
+# Viewfinder https://store.steampowered.com/app/1382070/Viewfinder/
 { "name": "Viewfinder.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2909580/Viractal_Will_You_Trust_Your_Party/
+# Viractal: Will You Trust Your Party? https://store.steampowered.com/app/2909580/Viractal_Will_You_Trust_Your_Party/
 { "name": "VIractal.exe", "type": "Game" }
 
 # Virtual Fighter Maneuvers https://store.steampowered.com/app/3952640/Virtual_Fighter_Maneuvers/
 { "name": "VFM.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2615540/VOIDBREAKER/
+# VOID/BREAKER https://store.steampowered.com/app/2615540/VOIDBREAKER/
 { "name": "VOIDBREAKER.exe", "type": "Game" }
 { "name": "VOIDBREAKER-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1063420/Void_Crew/
+# Void Crew https://store.steampowered.com/app/1063420/Void_Crew/
 { "name": "Void Crew.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1159690/Voidtrain/
+# Voidtrain https://store.steampowered.com/app/1159690/Voidtrain/
 { "name": "VoidTrain.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2464530/VOIN/
+# VOIN https://store.steampowered.com/app/2464530/VOIN/
 { "name": "VOIN.exe", "type": "Game" }
 { "name": "VOIN-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1702390/Voor_De_Kroon/
+# Voor De Kroon https://store.steampowered.com/app/1702390/Voor_De_Kroon/
 { "name": "FormationSystem.exe", "type": "Game" }
 { "name": "FormationSystem-Win64-Shipping.exe", "type": "Game" }
 
-# https://votv.dev/
+# Voices of the Void https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/658700/VRally_4/
+# V-Rally 4 https://store.steampowered.com/app/658700/VRally_4/
 { "name": "VRally4.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/438100/VRChat/
+# VRChat https://store.steampowered.com/app/438100/VRChat/
 { "name": "VRChat.exe", "type": "Game" }
 
 # V Rising https://store.steampowered.com/app/1604030/V_Rising/

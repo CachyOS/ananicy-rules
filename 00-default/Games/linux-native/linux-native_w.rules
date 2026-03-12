@@ -1,13 +1,16 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### W ###
 
-# https://store.steampowered.com/app/236390/War_Thunder/
+# War Thunder https://store.steampowered.com/app/236390/War_Thunder/
 { "name": "aces", "type": "Game" }
 { "name": "launcher", "type": "BG_CPUIO" }
 
-# https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
+# Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland", "type": "Game" }
 
-# https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2", "type": "Game" }

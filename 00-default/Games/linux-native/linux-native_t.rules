@@ -1,14 +1,17 @@
 # Add games in alphabetical order.
+# Add name of game next to the url.
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### T ###
 
-# https://store.steampowered.com/app/286160/Tabletop_Simulator/
+# Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
+# Tap Ninja - Idle game https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
 { "name": "Tap Ninja.x86_64", "type": "Game" }
 
-# http://store.steampowered.com/app/440/Team_Fortress_2/
+# Team Fortress 2 http://store.steampowered.com/app/440/Team_Fortress_2/
 { "name": "tf_linux64", "type": "Game" }
 { "name": "tf.sh", "type": "Game" }
 
@@ -16,72 +19,72 @@
 { "name": "teeworlds", "type": "Game" }
 { "name": "teeworlds_srv", "type": "LowLatency_RT" }
 
-# https://store.steampowered.com/app/105600/Terraria/
+# Terraria https://store.steampowered.com/app/105600/Terraria/
 { "name": "Terraria.bin.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/368620/Timespinner/
+# Timespinner https://store.steampowered.com/app/368620/Timespinner/
 { "name": "Timespinner", "type": "Game" }
 
 # Tomb Raider 2013 reboot version http://store.steampowered.com/app/203160/Tomb_Raider/
 { "name": "TombRaider", "type": "Game" }
 
-# https://store.steampowered.com/app/200710/Torchlight_II/
+# Torchlight II https://store.steampowered.com/app/200710/Torchlight_II/
 { "name": "Torchlight2.bin.x86", "type": "Game" }
 { "name": "Torchlight2.bin.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/272270/Torment_Tides_of_Numenera/
+# Torment: Tides of Numenera https://store.steampowered.com/app/272270/Torment_Tides_of_Numenera/
 { "name": "TidesOfNumenera", "type": "Game" }
 
-# https://store.steampowered.com/app/325610/Total_War_ATTILA/
+# Total War: ATTILA https://store.steampowered.com/app/325610/Total_War_ATTILA/
 { "name": "Attila", "type": "Game" }
 
-# https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
+# Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
 { "name": "Empire.sh", "type": "Game" }
 
-# https://store.steampowered.com/app/4700/Total_War_MEDIEVAL_II__Definitive_Edition/
+# Total War: MEDIEVAL II – Definitive Edition https://store.steampowered.com/app/4700/Total_War_MEDIEVAL_II__Definitive_Edition/
 { "name": "Medieval2", "type": "Game" }
 { "name": "Medieval2.sh", "type": "Game" }
 
-# https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
+# Total War: ROME REMASTERED https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
 { "name": "Total War ROME REMASTERED.sh", "type": "Game" }
 { "name": "Rome", "type": "Game" }
 
-# https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/
+# Total War: THREE KINGDOMS https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/
 { "name": "ThreeKingdoms", "type": "Game" }
 { "name": "ThreeKingdoms.sh", "type": "Game" }
 
-# https://store.steampowered.com/app/364360/Total_War_WARHAMMER/
+# Total War: WARHAMMER https://store.steampowered.com/app/364360/Total_War_WARHAMMER/
 { "name": "TotalWarhammer", "type": "Game" }
 
-# https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/
+# Total War: WARHAMMER II https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/
 { "name": "TotalWarhammer2", "type": "Game" }
 
-# https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/
+# Total War: WARHAMMER III https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/
 { "name": "TotalWarhammer3", "type": "Game" }
 
-# https://store.steampowered.com/app/617480/Tower_of_Time/
+# Tower of Time https://store.steampowered.com/app/617480/Tower_of_Time/
 { "name": "TowerOfTime.x86", "type": "Game" }
 { "name": "TowerOfTime.x86_64", "type": "Game" }
 
-# https://store.steampowered.com/app/1066780/Transport_Fever_2/
+# Transport Fever 2 https://store.steampowered.com/app/1066780/Transport_Fever_2/
 { "name": "TransportFever2", "type": "Game" }
 
-# https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/
+# Trine Enchanted Edition https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/
 { "name": "trine1_linux_32bit", "type": "Game" }
 
-# https://store.steampowered.com/app/35720/Trine_2_Complete_Story/
+# Trine 2: Complete Story https://store.steampowered.com/app/35720/Trine_2_Complete_Story/
 { "name": "trine2_linux_32bit", "type": "Game" }
 
-# https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/
+# Trine 3: The Artifacts of Power https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/
 { "name": "trine3_linux_64bit", "type": "Game" }
 
-# https://store.steampowered.com/app/405820/Turok/
+# Turok https://store.steampowered.com/app/405820/Turok/
 { "name": "TurokEx", "type": "Game" }
 
-# https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/
+# Turok 2: Seeds of Evil https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/
 { "name": "Turok2Ex", "type": "Game" }
 
-# https://store.steampowered.com/app/362960/Tyranny/
+# Tyranny https://store.steampowered.com/app/362960/Tyranny/
 { "name": "Tyranny.x86", "type": "Game" }
 { "name": "Tyranny.x86_64", "type": "Game" }
 
