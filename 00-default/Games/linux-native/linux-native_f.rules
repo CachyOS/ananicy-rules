@@ -15,8 +15,15 @@
 { "name": "Figment.x86", "type": "Game" }
 { "name": "Figment.x86_64", "type": "Game" }
 
+# Firewatch https://store.steampowered.com/app/383870/Firewatch/
+{ "name": "fw.x86_64", "type": "Game" }
+
 # Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
 { "name": "FishingPlanet.X86_64", "type": "Game" }
+
+# Fibbage XL https://store.steampowered.com/app/448080/Fibbage_XL/
+{ "name": "FibbageXL_Vulkan", "type": "Game" }
+{ "name": "FibbageXL_OpenGL", "type": "Game" }
 
 # Football Manager Series
 { "name": "fm", "type": "Game" }

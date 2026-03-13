@@ -8,6 +8,9 @@
 # Cave Story+ https://store.steampowered.com/app/200900/Cave_Story/
 { "name": "CaveStory+", "type": "Game" }
 
+# CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
+{ "name": "CarX_Street.x86_64", "type": "Game" }
+
 # Celeste https://store.steampowered.com/app/504230/Celeste/
 { "name": "Celeste.bin.x86_64", "type": "Game" }
 
@@ -26,9 +29,12 @@
 # Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.x64", "type": "Game" }
 
-# https://classicube.net
+# ClassiCube https://classicube.net
 { "name": "ClassiCube", "type": "Game" }
 { "name": "classicube", "type": "Game" }
+
+# Clustertruck https://store.steampowered.com/app/397950/Clustertruck/
+{ "name": "Clustertruck.x86_64", "type": "Game" }
 
 # Codename Engine https://github.com/CodenameCrew/CodenameEngine
 { "name": "CodenameEngine", "type": "Game" }
@@ -58,6 +64,9 @@
 
 # Crusader Kings III https://www.paradoxinteractive.com/games/crusader-kings-iii
 { "name": "ck3", "type": "Game" }
+
+# Crush Crush https://store.steampowered.com/app/459820/Crush_Crush/
+{ "name": "CrushCrush", "type": "Game" }
 
 # Crypt of the NecroDancer https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/
 { "name": "NecroDancer", "type": "Game" }

@@ -20,6 +20,9 @@
 # Aces of the Galaxy™ https://store.steampowered.com/app/10120/Aces_of_the_Galaxy/
 { "name": "AcesOfTheGalaxy.exe", "type": "Game" }
 
+# Accel World VS. Sword Art Online Deluxe Edition https://store.steampowered.com/app/607880/Accel_World_VS_Sword_Art_Online_Deluxe_Edition/
+{ "name": "AWVSSAO.exe", "type": "Game" }
+
 # Ad Infinitum https://store.steampowered.com/app/1234430/Ad_Infinitum/
 { "name": "AdInfinitum.exe", "type": "Game" }
 { "name": "AdInfinitum-Win64-Shipping.exe", "type": "Game" }
@@ -233,6 +236,18 @@
 # Architect Life: A House Design Simulator https://store.steampowered.com/app/1296400/Architect_Life_A_House_Design_Simulator/
 { "name": "ArchitectLife.exe", "type": "Game" }
 { "name": "Architect-Win64-Shipping.exe", "type": "Game" }
+
+# ARCADE GAME SERIES: GALAGA https://store.steampowered.com/app/403430/ARCADE_GAME_SERIES_GALAGA/
+{ "name": "GALAGA.exe", "type": "Game" }
+
+# ARCADE GAME SERIES: Ms. PAC-MAN https://store.steampowered.com/app/403410/ARCADE_GAME_SERIES_Ms_PACMAN/
+{ "name": "Ms. PAC-MAN.exe", "type": "Game" }
+
+# ARCADE GAME SERIES: DIG DUG https://store.steampowered.com/app/403400/ARCADE_GAME_SERIES_DIG_DUG/
+{ "name": "DIG DUG.exe", "type": "Game" }
+
+# ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
+{ "name": "PAC-MAN.exe", "type": "Game" }
 
 # ARC Raiders https://store.steampowered.com/app/1808500/ARC_Raiders/
 { "name": "PioneerGame.exe", "type": "Game" }

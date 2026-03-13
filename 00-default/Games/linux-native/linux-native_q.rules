@@ -8,3 +8,11 @@
 # quakespasm: http://quakespasm.sourceforge.net/
 { "name": "quakespasm", "type": "Game" }
 { "name": "quakespasm-svn", "type": "Game" }
+
+# Quiplash https://store.steampowered.com/app/351510/Quiplash/
+{ "name": "Quiplash_Vulkan", "type": "Game" }
+{ "name": "Quiplash_OpenGL", "type": "Game" }
+
+# Quiplash 2 InterLASHional https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/
+{ "name": "Quiplash2_Vulkan", "type": "Game" }
+{ "name": "Quiplash2_OpenGL", "type": "Game" }
