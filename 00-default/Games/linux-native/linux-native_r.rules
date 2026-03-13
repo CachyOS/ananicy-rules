@@ -23,6 +23,9 @@
 # Riot: https://about.riot.im/
 { "name": "riot-web", "type": "LowLatency_RT" }
 
+# Risk of Rain (2013) https://store.steampowered.com/app/248820/Risk_of_Rain_2013/
+{ "name": "Risk_of_Rain", "type": "Game" }
+
 # Robocraft http://store.steampowered.com/app/301520/Robocraft/
 { "name": "Robocraft.x86_64", "type": "Game" }
 
@@ -36,3 +39,6 @@
 # rottexptr: https://github.com/LTCHIPS/rottexpr
 { "name": "rott", "type": "Game" }
 { "name": "rottexpr", "type": "Game" }
+
+# RUINER https://store.steampowered.com/app/464060/RUINER/
+{ "name": "Ruiner-Linux-Shipping", "type": "Game" }

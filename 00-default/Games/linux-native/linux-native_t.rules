@@ -19,11 +19,20 @@
 { "name": "teeworlds", "type": "Game" }
 { "name": "teeworlds_srv", "type": "LowLatency_RT" }
 
+# Teenage Mutant Ninja Turtles: Shredder's Revenge https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/
+{ "name": "TMNT", "type": "LowLatency_RT" }
+
 # Terraria https://store.steampowered.com/app/105600/Terraria/
 { "name": "Terraria.bin.x86_64", "type": "Game" }
 
 # Timespinner https://store.steampowered.com/app/368620/Timespinner/
 { "name": "Timespinner", "type": "Game" }
+
+# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
+{ "name": "tiny-glade", "type": "Game" }
+
+# Tiny Bookshop https://store.steampowered.com/app/2133760/Tiny_Bookshop/
+{ "name": "Tiny Bookshop.x86_64", "type": "Game" }
 
 # Tomb Raider 2013 reboot version http://store.steampowered.com/app/203160/Tomb_Raider/
 { "name": "TombRaider", "type": "Game" }
@@ -77,6 +86,12 @@
 
 # Trine 3: The Artifacts of Power https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/
 { "name": "trine3_linux_64bit", "type": "Game" }
+
+# Tropico 6 https://store.steampowered.com/app/492720/Tropico_6/
+{ "name": "Tropico6-Linux-Shipping", "type": "Game" }
+
+# Tropico 5 https://store.steampowered.com/app/245620/Tropico_5/
+{ "name": "Tropico5", "type": "Game" }
 
 # Turok https://store.steampowered.com/app/405820/Turok/
 { "name": "TurokEx", "type": "Game" }

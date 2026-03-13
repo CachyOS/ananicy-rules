@@ -89,11 +89,18 @@
 # Scrap Mechanic https://store.steampowered.com/app/387990/Scrap_Mechanic/
 { "name": "ScrapMechanic.exe", "type": "Game" }
 
+# SCARLET NEXUS https://store.steampowered.com/app/775500/SCARLET_NEXUS/
+{ "name": "ScarletNexus.exe", "type": "Game" }
+{ "name": "ScarletNexus-Win64-Shipping.exe", "type": "Game" }
+
 # Scribblenauts Unmasked: A DC Comics Adventure https://store.steampowered.com/app/249870/Scribblenauts_Unmasked_A_DC_Comics_Adventure/
 { "name": "Scribble.exe", "type": "Game" }
 
 # SCUM https://store.steampowered.com/app/513710/SCUM/
 { "name": "SCUM.exe", "type": "Game" }
+
+# SD GUNDAM BATTLE ALLIANCE https://store.steampowered.com/app/824550/SD_GUNDAM_BATTLE_ALLIANCE/
+{ "name": "SDGundamBA.exe", "type": "Game" }
 
 # SealChain: Call of Blood https://store.steampowered.com/app/2652600/SealChain_Call_of_Blood/
 { "name": "Sealchain.exe", "type": "Game" }
@@ -534,6 +541,9 @@
 # Stormworks: Build and Rescue https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/
 { "name": "stormworks64.exe", "type": "Game" }
 
+# SOULCALIBUR VI https://store.steampowered.com/app/544750/SOULCALIBUR_VI/
+{ "name": "SoulcaliburVI.exe", "type": "Game" }
+
 # Strange Antiquities https://store.steampowered.com/app/2885870/Strange_Antiquities/
 { "name": "Strange Antiquities.exe", "type": "Game" }
 
@@ -599,6 +609,9 @@
 # Suicide Squad: Kill the Justice League https://store.steampowered.com/app/315210/Suicide_Squad_Kill_the_Justice_League/
 { "name": "SuicideSquad_KTJL.exe", "type": "Game" }
 
+# SUPER DRAGON BALL HEROES WORLD MISSION https://store.steampowered.com/app/798510/SUPER_DRAGON_BALL_HEROES_WORLD_MISSION/
+{ "name": "SDBHeroes_WorldMission.exe", "type": "Game" }
+
 # Summoners War https://store.steampowered.com/app/2426960/Summoners_War/
 { "name": "SummonersWar.exe", "type": "Game" }
 
@@ -635,6 +648,9 @@
 # SUPER ROBOT WARS Y https://store.steampowered.com/app/1909950/SUPER_ROBOT_WARS_Y/
 { "name": "SUPER ROBOT WARS Y.exe", "type": "Game" }
 
+# Super Robot Wars 30 https://store.steampowered.com/app/898750/Super_Robot_Wars_30/
+{ "name": "srw30.exe", "type": "Game" }
+
 # Supremacy: 1914 https://store.steampowered.com/app/979920/Supremacy_1914/
 { "name": "Squirrel.exe", "type": "Game" }
 { "name": "Supremacy 1914.exe", "type": "Game" }
@@ -661,6 +677,22 @@
 # SWORD ART ONLINE Last Recollection https://store.steampowered.com/app/1566880/SWORD_ART_ONLINE_Last_Recollection/
 { "name": "sao_lr.exe", "type": "Game" }
 { "name": "sao_lr-Win64-Shipping.exe", "type": "Game" }
+
+# SWORD ART ONLINE Alicization Lycoris https://store.steampowered.com/app/1009290/SWORD_ART_ONLINE_Alicization_Lycoris/
+{ "name": "sao_al.exe", "type": "Game" }
+
+# Sword Art Online Re: Hollow Fragment https://store.steampowered.com/app/638650/Sword_Art_Online_Re_Hollow_Fragment/\
+{ "name": "SAOHF.exe", "type": "Game" }
+
+# Sword Art Online: Lost Song https://store.steampowered.com/app/840720/Sword_Art_Online_Lost_Song/
+{ "name": "SAOLS.exe", "type": "Game" }
+
+# Sword Art Online: Fatal Bullet https://store.steampowered.com/app/626690/Sword_Art_Online_Fatal_Bullet/
+{ "name": "SAOFB.exe", "type": "Game" }
+{ "name": "SAOFB-Win64-Shipping.exe", "type": "Game" }
+
+# Sword Art Online: Hollow Realization Deluxe Edition https://store.steampowered.com/app/607890/Sword_Art_Online_Hollow_Realization_Deluxe_Edition/
+{ "name": "sao_hr.exe", "type": "Game" }
 
 # Sword of the Sea https://store.steampowered.com/app/2453160/Sword_of_the_Sea/
 { "name": "SwordOfTheSea.exe", "type": "Game" }

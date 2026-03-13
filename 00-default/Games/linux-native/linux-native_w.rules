@@ -9,8 +9,14 @@
 { "name": "aces", "type": "Game" }
 { "name": "launcher", "type": "BG_CPUIO" }
 
+# Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
+{ "name": "Gladius", "type": "BG_CPUIO" }
+
 # Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland", "type": "Game" }
 
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2", "type": "Game" }
+
+# WorldBox - God Simulator https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/
+{ "name": "worldbox", "type": "Game" }

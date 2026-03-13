@@ -32,6 +32,9 @@
 # Shadow Warrior http://store.steampowered.com/app/233130/Shadow_Warrior/
 { "name": "ShadowWarrior.bin.x86", "type": "Game" }
 
+# shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
+{ "name": "shapez 2.x86_64", "type": "Game" }
+
 # ShellShock Live https://store.steampowered.com/app/326460/ShellShock_Live/
 { "name": "ShellShockLive.x64", "type": "Game" }
 
@@ -59,6 +62,9 @@
 # Slay the Spire 2 https://store.steampowered.com/app/2868840/Slay_the_Spire_2/
 { "name": "SlayTheSpire2", "type": "Game" }
 
+# Slime Rancher https://store.steampowered.com/app/433340/Slime_Rancher/
+{ "name": "SlimeRancher.x86_64", "type": "Game" }
+
 # Sober : Roblox game launcher: https://sober.vinegarhq.org/
 { "name": "sober", "type": "Game" }
 { "name": "sober_services", "type": "Game" }
@@ -76,11 +82,17 @@
 # Space Run https://store.steampowered.com/app/275670/Space_Run/
 { "name": "oSpaceGameMerged", "type": "Game" }
 
+# Space Haven https://store.steampowered.com/app/979110/Space_Haven/
+{ "name": "spacehaven", "type": "Game" }
+
 # SpeedRunners https://store.steampowered.com/app/207140/SpeedRunners/
 { "name": "SpeedRunners.bin.x86_64", "type": "Game" }
 
 # Splitgate https://store.steampowered.com/app/677620/Splitgate/
 { "name": "PortalWars-Linux-Shipping", "type": "Game" }
+
+# Square Brawl https://store.steampowered.com/app/394850/Square_Brawl/
+{ "name": "Square Brawl.x86", "type": "Game" }
 
 # Starbound https://store.steampowered.com/app/211820/Starbound/
 { "name": "starbound", "type": "Game" }
@@ -100,6 +112,15 @@
 # Stellaris https://www.paradoxinteractive.com/games/stellaris
 # Stellaris https://store.steampowered.com/app/281990/Stellaris/
 { "name": "stellaris", "type": "Game" }
+
+# Stranded Deep  https://store.steampowered.com/app/246620/Plague_Inc_Evolved/
+{ "name": "Stranded_Deep", "type": "Game" }
+
+# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
+{ "name": "songsofsyx", "type": "Game" }
+
+# Streets of Rage 4 https://store.steampowered.com/app/985890/Streets_of_Rage_4/
+{ "name": "SOR4", "type": "Game" }
 
 # Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.x86_64", "type": "Game" }

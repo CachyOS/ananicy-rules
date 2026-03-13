@@ -14,6 +14,9 @@
 # LIMBO https://store.steampowered.com/app/48000/LIMBO/
 { "name": "limbo", "type": "Game" }
 
-# http://www.luanti.org/
+# Liftoff®: FPV Drone Racing https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/
+{ "name": "Liftoff.x86_64", "type": "Game" }
+
+# Launti http://www.luanti.org/
 { "name": "luanti", "type": "Game" }
 { "name": "luanti.bin", "type": "Game" }

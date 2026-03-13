@@ -15,6 +15,10 @@
 # RAGE 2 https://store.steampowered.com/app/548570/RAGE_2/
 { "name": "RAGE2.exe", "type": "Game" }
 
+# RAD https://store.steampowered.com/app/722560/RAD/
+{ "name": "Mutant.exe", "type": "Game" }
+{ "name": "RAD.exe", "type": "Game" }
+
 # Raging Justice https://store.steampowered.com/app/384200/Raging_Justice/
 { "name": "RagingJustice.exe", "type": "Game" }
 
@@ -220,8 +224,14 @@
 # Rising Lords https://store.steampowered.com/app/835650/Rising_Lords/
 { "name": "RisingLords.exe", "type": "Game" }
 
+# Risk of Rain (2013) https://store.steampowered.com/app/248820/Risk_of_Rain_2013/
+{ "name": "Risk of Rain.exe", "type": "Game" }
+
 # Risk of Rain 2 https://store.steampowered.com/app/632360/Risk_of_Rain_2/
 { "name": "Risk of Rain 2.exe", "type": "Game" }
+
+# Risk of Rain Returns https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/
+{ "name": "Risk of Rain Returns.exe", "type": "Game" }
 
 # Ritual of Raven https://store.steampowered.com/app/2066520/Ritual_of_Raven/
 { "name": "RitualofRaven.exe", "type": "Game" }
@@ -362,3 +372,6 @@
 
 # Ryse: Son of Rome https://store.steampowered.com/app/302510/Ryse_Son_of_Rome/
 { "name": "Ryse.exe", "type": "Game" }
+
+# Ridge Racer™ Unbounded https://store.steampowered.com/app/202310/Ridge_Racer_Unbounded/
+{ "name": "RRU.exe", "type": "Game" }

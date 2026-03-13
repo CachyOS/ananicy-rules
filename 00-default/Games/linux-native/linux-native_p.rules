@@ -5,14 +5,24 @@
 
 ### P ###
 
+# PAC-MAN 256 https://store.steampowered.com/app/455400/PACMAN_256/
+{ "name": "PAC-MAN256.x86_64", "type": "Game" }
+{ "name": "PAC-MAN256.x86", "type": "Game" }
+
 # Papers, Please https://store.steampowered.com/app/239030/Papers_Please/
 { "name": "PapersPlease", "type": "Game" }
 
 # Party Hard https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.x86_64", "type": "Game" }
 
+# Parkitect https://store.steampowered.com/app/453090/Parkitect/
+{ "name": "Parkitect.x86_64", "type": "Game" }
+
 # PA UI : User interface Planetary Annihilation https://github.com/planetary-annihilation/pa-ui
 { "name": "CoherentUI_Host", "type": "Game" }
+
+# Packing Life https://store.steampowered.com/app/3482510/Packing_Life/
+{ "name": "Packing Life.x86_64", "type": "Game" }
 
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_release", "type": "Game" }
