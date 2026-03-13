@@ -42,9 +42,6 @@
 { "name": "iw3sp.exe", "type": "Game" }
 { "name": "iw3mp.exe", "type": "Game" }
 
-# Call of Duty®: Modern Warfare® Remastered (2017) https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/
-{ "name": "h1_sp64_ship.exe", "type": "Game" }
-
 # Call of Duty®: Black Ops https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
 { "name": "BlackOps.exe", "type": "Game" }
 
@@ -77,6 +74,9 @@
 
 # Call of Duty®: Modern Warfare® III https://store.steampowered.com/app/3595270/Call_of_Duty_Modern_Warfare_III/
 { "name": "cod23-cod.exe", "type": "Game" }
+
+# Call of Duty®: Modern Warfare® Remastered (2017) https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/
+{ "name": "h1_sp64_ship.exe", "type": "Game" }
 
 # Call of Duty: United Offensive https://store.steampowered.com/app/2640/Call_of_Duty_United_Offensive/
 { "name": "CoDUOMP.exe", "type": "Game" }

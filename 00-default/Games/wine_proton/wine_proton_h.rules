@@ -86,9 +86,6 @@
 # HELLDIVERS™ Dive Harder Edition https://store.steampowered.com/app/394510/HELLDIVERS_Dive_Harder_Edition/
 { "name": "helldivers.exe", "type": "Game" }
 
-# Helltaker https://store.steampowered.com/app/1289310/Helltaker/
-{ "name": "Helltaker.exe", "type": "Game" }
-
 # Hell is Us https://store.steampowered.com/app/1620730/Hell_is_Us/
 { "name": "HellIsUs.exe", "type": "Game" }
 { "name": "HellIsUs-Win64-Shipping.exe", "type": "Game" }
@@ -112,11 +109,14 @@
 # Hell Pie https://store.steampowered.com/app/889910/Hell_Pie/
 { "name": "HellPie.exe", "type": "Game" }
 
-# Here Comes The Swarm https://store.steampowered.com/app/3052730/Here_Comes_The_Swarm/
-{ "name": "Here Comes The Swarm.exe", "type": "Game" }
-
 # Hellscreen https://store.steampowered.com/app/1410090/Hellscreen/
 { "name": "Hellscreen.exe", "type": "Game" }
+
+# Helltaker https://store.steampowered.com/app/1289310/Helltaker/
+{ "name": "Helltaker.exe", "type": "Game" }
+
+# Here Comes The Swarm https://store.steampowered.com/app/3052730/Here_Comes_The_Swarm/
+{ "name": "Here Comes The Swarm.exe", "type": "Game" }
 
 # Heretic's Fork https://store.steampowered.com/app/2181610/Heretics_Fork/
 { "name": "Heretics Fork.exe", "type": "Game" }
