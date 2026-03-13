@@ -84,6 +84,9 @@
 { "name": "DeadzoneSteam.exe", "type": "Game" }
 { "name": "DeadzoneSteam-Win64-Shipping.exe", "type": "Game" }
 
+# DEATHLOOP https://store.steampowered.com/app/1252330/DEATHLOOP/
+{ "name": "Deathloop.exe", "type": "Game" }
+
 # Death Must Die https://store.steampowered.com/app/2334730/Death_Must_Die/
 { "name": "Death Must Die.exe", "type": "Game" }
 
@@ -92,9 +95,6 @@
 
 # DEATH STRANDING DIRECTOR'S CUT https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT/
 { "name": "DeathStranding.exe", "type": "Game" }
-
-# DEATHLOOP https://store.steampowered.com/app/1252330/DEATHLOOP/
-{ "name": "Deathloop.exe", "type": "Game" }
 
 # Deceit https://store.steampowered.com/app/466240/Deceit/
 { "name": "Deceit.exe", "type": "Game" }
