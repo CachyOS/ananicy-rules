@@ -201,13 +201,6 @@
 { "name": "RICO.exe", "type": "Game" }
 { "name": "RICO-Win64-Shipping.exe", "type": "Game" }
 
-# The Witcher: Enhanced Edition Director's Cut https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/
-# The Witcher 2: Assassins of Kings Enhanced Edition https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
-# The Witcher 3: Wild Hunt https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/
-{ "name": "witcher.exe", "type": "Game" }
-{ "name": "witcher2.exe", "type": "Game" }
-{ "name": "witcher3.exe", "type": "Game" }
-
 # Witchfire https://store.steampowered.com/app/3156770/Witchfire/
 { "name": "Witchfire.exe", "type": "Game" }
 
