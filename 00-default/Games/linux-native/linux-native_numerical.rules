@@ -6,5 +6,9 @@
 # '0 A.D.' RTS: https://play0ad.com/
 { "name": "0ad", "type": "Game" }
 
+# 7 Days to Die https://store.steampowered.com/app/251570/7_Days_to_Die/
+{ "name": "7DaysToDie.x86_64", "type": "Game" }
+{ "name": "7DaysToDie_EAC", "type": "Game" }
+
 # 140 https://store.steampowered.com/app/242820/140/
 { "name": "140Linux.x86", "type": "Game" }
