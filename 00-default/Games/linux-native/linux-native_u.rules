@@ -15,6 +15,9 @@
 { "name": "ut2004-bin", "type": "Game" }
 { "name": "ut2004-bin-linux-amd64", "type": "Game" }
 
+# Untrusted https://store.steampowered.com/app/1502660/Untrusted/
+{ "name": "untrusted.x86_64", "type": "Game" }
+
 # Unturned https://store.steampowered.com/app/304930/Unturned/
 { "name": "Unturned.x86_64", "type": "Game" }
 
