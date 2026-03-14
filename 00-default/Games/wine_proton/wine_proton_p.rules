@@ -53,6 +53,9 @@
 { "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
 { "name": "Palworld.exe", "type": "Game" }
 
+# Papers, Please https://store.steampowered.com/app/239030/Papers_Please/
+{ "name": "PapersPlease.exe", "type": "Game" }
+
 # Paradiddle https://store.steampowered.com/app/685240/Paradiddle/
 { "name": "Paradiddle-Win64-Shipping.exe", "type": "Game" }
 
@@ -125,6 +128,9 @@
 # Only the Playtest is available at the moment
 { "name": "Perceptum.exe", "type": "Game" }
 { "name": "Perceptum-Win64-Shipping.exe", "type": "Game" }
+
+# Plague Inc: Evolved https://store.steampowered.com/app/246620/Plague_Inc_Evolved/
+{ "name": "PlagueIncEvolved.exe", "type": "Game" }
 
 # Peregrino https://store.steampowered.com/app/3268150/Peregrino/
 { "name": "Peregrino.exe", "type": "Game" }
