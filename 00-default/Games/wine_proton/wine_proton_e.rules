@@ -8,6 +8,18 @@
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
+# EA SPORTS™ Madden NFL 26 https://store.steampowered.com/app/3230400/EA_SPORTS_Madden_NFL_26/#
+{ "name": "Madden26.exe", "type": "Game" }
+{ "name": "Madden26_Trial.exe", "type": "Game" }
+
+# EA SPORTS™ Madden NFL 25 https://store.steampowered.com/app/2582560/EA_SPORTS_Madden_NFL_25/
+{ "name": "Madden25.exe", "type": "Game" }
+{ "name": "Madden25_Trial.exe", "type": "Game" }
+
+# EA SPORTS™ PGA TOUR™ https://store.steampowered.com/app/1677350/EA_SPORTS_PGA_TOUR/
+{ "name": "PGATour.exe", "type": "Game" }
+{ "name": "PGATour_Trial.exe", "type": "Game" }
+
 # Echoes of Elysium https://store.steampowered.com/app/2644050/Echoes_of_Elysium/
 { "name": "Elysium.exe", "type": "Game" }
 
@@ -45,7 +57,7 @@
 { "name": "EotU.exe", "type": "Game" }
 { "name": "EotU-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/1396870/ENCHAIN/
+# ENCHAIN https://store.steampowered.com/app/1396870/ENCHAIN/
 { "name": "ENCHAIN.exe", "type": "Game" }
 
 # ENDER LILIES: Quietus of the Knights https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
@@ -63,6 +75,9 @@
 
 # Environmental Station Alpha https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 { "name": "Environmental Station Alpha.exe", "type": "Game" }
+
+# Emberward https://store.steampowered.com/app/2459550/Emberward/
+{ "name": "Emberward.exe", "type": "Game" }
 
 # Equinox: Homecoming https://store.steampowered.com/app/3258290/Equinox_Homecoming/
 { "name": "ThunderHorseClient-Win64-Shipping.exe", "type": "Game" }
