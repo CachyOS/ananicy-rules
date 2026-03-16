@@ -56,6 +56,9 @@
 # The Dark Pictures Anthology: The Devil in Me https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
 { "name": "TheDevilInMe.exe", "type": "Game" }
 
+# The Drifter https://store.steampowered.com/app/1170570/The_Drifter/
+{ "name": "TheDrifter.exe", "type": "Game" }
+
 # The Elder Scrolls III: Morrowind® Game of the Year Edition https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
 
@@ -104,9 +107,16 @@
 # The Great War: Western Front™ https://store.steampowered.com/app/2109370/The_Great_War_Western_Front/
 { "name": "ClientG64.exe", "type": "Game" }
 
+# The Gold River Project https://store.steampowered.com/app/1253220/The_Gold_River_Project/
+{ "name": "GoldRiver_V4.exe", "type": "Game" }
+{ "name": "GoldRiver_V4-Win64-Shipping.exe", "type": "Game" }
+
 # The Headliners https://store.steampowered.com/app/3059070/The_Headliners/
 { "name": "Headliners.exe", "type": "Game" }
 { "name": "Headliners-Win64-Shipping.exe", "type": "Game" }
+
+# The Hundred Line -Last Defense Academy- https://store.steampowered.com/app/3014080/The_Hundred_Line_Last_Defense_Academy/
+{ "name": "HUNDRED_LINE.exe", "type": "Game" }
 
 # The Isle https://store.steampowered.com/app/376210/The_Isle/
 { "name": "TheIsle.exe", "type": "Game" }
@@ -160,6 +170,10 @@
 # The Last of Us™ Part II Remastered https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/
 { "name": "tlou-ii.exe", "type": "Game" }
 { "name": "tlou-ii-l.exe", "type": "Game" }
+
+# The Legend of Heroes: Trails of Cold Steel https://store.steampowered.com/app/538680/The_Legend_of_Heroes_Trails_of_Cold_Steel/
+{ "name": "ed8.exe", "type": "Game" }
+{ "name": "ed8jp.exe", "type": "Game" }
 
 # The Last Spell https://store.steampowered.com/app/1105670/The_Last_Spell/
 { "name": "The Last Spell.exe", "type": "Game" }
@@ -222,6 +236,10 @@
 
 # The Precinct https://store.steampowered.com/app/490110/The_Precinct/
 { "name": "Precinct.exe", "type": "Game" }
+
+# The Plucky Squire https://store.steampowered.com/app/1627570/The_Plucky_Squire/
+{ "name": "Storybook.exe", "type": "Game" }
+{ "name": "Storybook-Win64-Shipping.exe", "type": "Game" }
 
 # The Quinfall https://store.steampowered.com/app/2294660/The_Quinfall/
 { "name": "TheQuinfall.exe", "type": "Game" }

@@ -8,8 +8,24 @@
 #  Machine Mind https://store.steampowered.com/app/2861590/Machine_Mind/
 { "name": "Machines.exe", "type": "Game" }
 
-#  Mad Maxhttps://store.steampowered.com/app/234140/Mad_Max/
+#  Mad Max https://store.steampowered.com/app/234140/Mad_Max/
 { "name": "MadMax.exe", "type": "Game" }
+
+# Madden NFL 24 https://store.steampowered.com/app/2140330/Madden_NFL_24/
+{ "name": "Madden24.exe", "type": "Game" }
+{ "name": "Madden24_Trial.exe", "type": "Game" }
+
+# Madden NFL 23 https://store.steampowered.com/app/1760250/Madden_NFL_23/
+{ "name": "Madden23.exe", "type": "Game" }
+{ "name": "Madden23_Trial.exe", "type": "Game" }
+
+# Madden NFL 22 https://store.steampowered.com/app/1519350/Madden_NFL_22/
+{ "name": "Madden22.exe", "type": "Game" }
+{ "name": "Madden22_Trial.exe", "type": "Game" }
+
+# Madden NFL 21 https://store.steampowered.com/app/1239520/Madden_NFL_21/
+{ "name": "Madden21.exe", "type": "Game" }
+{ "name": "Madden21_Trial.exe", "type": "Game" }
 
 # Mafia II (Classic) https://store.steampowered.com/app/50130/Mafia_II_Classic/
 { "name": "mafia2.exe", "type": "Game" }
@@ -45,6 +61,10 @@
 # MakeRoom https://store.steampowered.com/app/2212670/MakeRoom/
 { "name": "MakeRoom.exe", "type": "Game" }
 
+# Mama's Sleeping Angels https://store.steampowered.com/app/2918310/Mamas_Sleeping_Angels/
+{ "name": "Blaster.exe", "type": "Game" }
+{ "name": "Blaster-Win64-Shipping.exe", "type": "Game" }
+
 # Man Hunt https://store.steampowered.com/app/12130/Manhunt/
 { "name": "manhunt.exe", "type": "Game" }
 
@@ -64,6 +84,9 @@
 
 # Mars: War Logs https://store.steampowered.com/app/232750/Mars_War_Logs/
 { "name": "MarsWarLogs.exe", "type": "Game" }
+
+# Mars Attracts https://store.steampowered.com/app/2760580/Mars_Attracts/
+{ "name": "Mars Attracts.exe", "type": "Game" }
 
 # Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
 { "name": "Marvel.exe", "type": "Game" }
@@ -98,6 +121,13 @@
 # Mass Effect (2007) https://store.steampowered.com/app/17460/Mass_Effect_2007/
 { "name": "MassEffect.exe", "type": "Game" }
 
+# Mass Effect™ Legendary Edition https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/
+{ "name": "MassEffect1.exe", "type": "Game" }
+
+# Mass Effect™: Andromeda Deluxe Edition https://store.steampowered.com/app/1238000/Mass_Effect_Andromeda_Deluxe_Edition/
+{ "name": "MassEffectAndromeda.exe", "type": "Game" }
+{ "name": "MassEffectAndromedaTrial.exe", "type": "Game" }
+
 # Master of Command https://store.steampowered.com/app/2878450/Master_of_Command/
 { "name": "Master Of Command.exe", "type": "Game" }
 
@@ -112,6 +142,10 @@
 
 # Max Payne 3 https://store.steampowered.com/app/204100/Max_Payne_3/
 { "name": "MaxPayne3.exe", "type": "Game" }
+
+# MAVRIX by Matt Jones https://store.steampowered.com/app/2926900/MAVRIX_by_Matt_Jones/
+{ "name": "MtbClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "MtbClient.exe", "type": "Game" }
 
 # Mecha BREAK https://store.steampowered.com/app/2452280/Mecha_BREAK/
 { "name": "MechaBREAK.exe", "type": "Game" }
@@ -133,10 +167,13 @@
 # Megabonk https://store.steampowered.com/app/3405340/Megabonk/
 { "name": "Megabonk.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/2432860/MENACE/
+# Megaquarium https://store.steampowered.com/app/600480/Megaquarium/
+{ "name": "Megaquarium.exe", "type": "Game" }
+
+# MENACE https://store.steampowered.com/app/2432860/MENACE/
 { "name": "Menace.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3394770/Menherarium/
+# Menherarium https://store.steampowered.com/app/3394770/Menherarium/
 { "name": "Menherarium.exe", "type": "Game" }
 
 # METAL GEAR AND METAL GEAR 2: Solid Snake https://store.steampowered.com/app/2131680/METAL_GEAR__METAL_GEAR_2_Solid_Snake/
@@ -227,6 +264,9 @@
 # Minoria https://store.steampowered.com/app/940910/Minoria/
 { "name": "Minoria.exe", "type": "Game" }
 
+# Mindustry https://store.steampowered.com/app/1127400/Mindustry/
+{ "name": "Mindustry.exe", "type": "Game" }
+
 # MIO: Memories in Orbit https://store.steampowered.com/app/1672810/MIO_Memories_in_Orbit/
 { "name": "mio.exe", "type": "Game" }
 
@@ -288,6 +328,9 @@
 
 # Monster Hunter Stories https://store.steampowered.com/app/2356560/Monster_Hunter_Stories/
 { "name": "MHST.exe", "type": "Game" }
+
+# Monster Hunter Stories 3: Twisted Reflection https://store.steampowered.com/app/2852190/Monster_Hunter_Stories_3_Twisted_Reflection/
+{ "name": "MONSTER_HUNTER_STORIES_3_TWISTED_REFLECTION.exe", "type": "Game" }
 
 # Monster Hunter Wilds https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/
 { "name": "MonsterHunterWilds.exe", "type": "Game" }
@@ -382,6 +425,12 @@
 { "name": "MotorSliceDemo.exe", "type": "Game" }
 { "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
 
+# Moonlighter 2: The Endless Vault https://store.steampowered.com/app/2350790/Moonlighter_2_The_Endless_Vault/
+{ "name": "Moonlighter 2 The Endless Vault.exe", "type": "Game" }
+
+# Moonlighter https://store.steampowered.com/app/606150/Moonlighter/
+{ "name": "Moonlighter.exe", "type": "Game" }
+
 # Mount & Blade II: Bannerlord - https://www.taleworlds.com/en/Games/Bannerlord
 # Note: All exe's are possible process names depending on how the game was launched.
 # Vanilla Launcher
@@ -425,7 +474,14 @@
 # Muse Dash https://store.steampowered.com/app/774171/Muse_Dash/
 { "name": "MuseDash.exe", "type": "Game" }
 
+# Munchkin Digital https://store.steampowered.com/app/1722860/Munchkin_Digital/
+{ "name": "Munchkin.exe", "type": "Game" }
+
 # MX Bikes https://store.steampowered.com/app/655500/MX_Bikes/
+{ "name": "MxGame2021.exe", "type": "Game" }
+{ "name": "MxGame2021-Win64-Shipping.exe", "type": "Game" }
+
+# MX vs ATV Legends https://store.steampowered.com/app/1205970/MX_vs_ATV_Legends/
 { "name": "mxbikes.exe", "type": "Game" }
 
 # MXGP2 - The Official Motocross Videogame https://store.steampowered.com/app/400800/MXGP2__The_Official_Motocross_Videogame/

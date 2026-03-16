@@ -96,6 +96,10 @@
 # Scribblenauts Unmasked: A DC Comics Adventure https://store.steampowered.com/app/249870/Scribblenauts_Unmasked_A_DC_Comics_Adventure/
 { "name": "Scribble.exe", "type": "Game" }
 
+# Screamer https://store.steampowered.com/app/2814990/Screamer/
+{ "name": "screamer.exe", "type": "Game" }
+{ "name": "screamer-Win64-Shipping.exe", "type": "Game" }
+
 # SCUM https://store.steampowered.com/app/513710/SCUM/
 { "name": "SCUM.exe", "type": "Game" }
 
@@ -108,6 +112,9 @@
 # Sea of Thieves: 2025 Edition https://store.steampowered.com/app/1172620/Sea_of_Thieves_2025_Edition/
 { "name": "SeaOfThieves.exe", "type": "Game" }
 { "name": "SoTGame.exe", "type": "Game" }
+
+# Sea Power : Naval Combat in the Missile Age https://store.steampowered.com/app/1286220/Sea_Power__Naval_Combat_in_the_Missile_Age/
+{ "name": "Sea Power.exe", "type": "Game" }
 
 # Seasons after Fall https://store.steampowered.com/app/366320/Seasons_after_Fall/
 { "name": "Seasons after Fall.exe", "type": "Game" }
@@ -134,6 +141,10 @@
 # Senua’s Saga: Hellblade II https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
 { "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Hellblade2.exe", "type": "Game" }
+
+# Sengoku Dynasty https://store.steampowered.com/app/1702010/Sengoku_Dynasty/
+{ "name": "SengokuDynasty.exe", "type": "Game" }
+{ "name": "SengokuDynasty-Win64-Shipping.exe", "type": "Game" }
 
 # Session: Skate Sim https://store.steampowered.com/app/861650/Session_Skate_Sim/
 { "name": "SessionGame-Win64-Shipping.exe", "type": "Game" }
@@ -201,6 +212,9 @@
 # Shop Titans https://store.steampowered.com/app/1258080/Shop_Titans/
 { "name": "ShopTitan.exe", "type": "Game" }
 
+# Shift 2 Unleashed https://store.steampowered.com/app/47920/Shift_2_Unleashed/
+{ "name": "SHIFT2U.exe", "type": "Game" }
+
 # Sifu https://store.steampowered.com/app/2138710/Sifu/
 { "name": "Sifu.exe", "type": "Game" }
 
@@ -234,11 +248,18 @@
 # Skul: The Hero Slayer https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/
 { "name": "Skul.exe", "type": "Game" }
 
+# Skate Story https://store.steampowered.com/app/1263240/Skate_Story/
+{ "name": "SkateStory.exe", "type": "Game" }
+
 # Sky: Children of the Light https://store.steampowered.com/app/2325290/Sky_Children_of_the_Light/
 { "name": "Sky.exe", "type": "Game" }
 
 # Slime Rancher 2 https://store.steampowered.com/app/1657630/Slime_Rancher_2/
 { "name": "SlimeRancher2.exe", "type": "Game" }
+
+# Slitterhead https://store.steampowered.com/app/2631250/Slitterhead/
+{ "name": "YKS.exe", "type": "Game" }
+{ "name": "YKS-Win64-Shipping.exe", "type": "Game" }
 
 # Small Spaces https://store.steampowered.com/app/3151380/Small_Spaces/
 { "name": "SmallSpaces.exe", "type": "Game" }
@@ -337,6 +358,49 @@
 { "name": "SONIC_GENERATIONS.exe", "type": "Game" }
 { "name": "SONIC_X_SHADOW_GENERATIONS.exe", "type": "Game" }
 
+# Sonic Rumble Party https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/
+{ "name": "SonicRumble.exe", "type": "Game" }
+
+# Sonic Racing: CrossWorlds https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/
+{ "name": "SonicRacingCrossWorlds.exe", "type": "Game" }
+
+# SONIC SUPERSTARS https://store.steampowered.com/app/2022670/SONIC_SUPERSTARS/
+{ "name": "SonicSuperstars.exe", "type": "Game" }
+
+# Sonic Colors: Ultimate https://store.steampowered.com/app/2055290/Sonic_Colors_Ultimate/
+{ "name": "SonicColorsUltimate.exe", "type": "Game" }
+
+# Sonic Frontiers https://store.steampowered.com/app/1237320/Sonic_Frontiers/
+{ "name": "SonicFrontiers.exe", "type": "Game" }
+
+# Sonic Origins https://store.steampowered.com/app/1794960/Sonic_Origins/
+{ "name": "SonicOrigins.exe", "type": "Game" }
+
+# Sonic Forces https://store.steampowered.com/app/637100/Sonic_Forces/
+{ "name": "Sonic Forces.exe", "type": "Game" }
+
+# Sonic Mania https://store.steampowered.com/app/584400/Sonic_Mania/
+{ "name": "SonicMania.exe", "type": "Game" }
+
+# Sonic Lost World https://store.steampowered.com/app/329440/Sonic_Lost_World/
+{ "name": "slw.exe", "type": "Game" }
+
+# Sonic & All-Stars Racing Transformed Collection https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/
+{ "name": "ASN_App_PcDx9_Final.exe", "type": "Game" }
+
+# Sonic Adventure 2 https://store.steampowered.com/app/213610/Sonic_Adventure_2/
+{ "name": "sonic2app.exe", "type": "Game" }
+
+# Sonic the Hedgehog 4 - Episode II https://store.steampowered.com/app/203650/Sonic_the_Hedgehog_4__Episode_II/
+{ "name": "Sonic.exe", "type": "Game" }
+
+# Sonic the Hedgehog 4 - Episode I https://store.steampowered.com/app/202530/Sonic_the_Hedgehog_4__Episode_I/
+{ "name": "Sonic_vis.exe", "type": "Game" }
+{ "name": "Sonic_xp.exe", "type": "Game" }
+
+# Sonic Generations Collection https://store.steampowered.com/app/71340/Sonic_Generations_Collection/
+{ "name": "SonicGenerations.exe", "type": "Game" }
+
 # Sons Of The Forest https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/
 { "name": "SonsOfTheForest.exe", "type": "Game" }
 
@@ -421,6 +485,9 @@
 # Spooky's Jump Scare Mansion: HD Renovation https://store.steampowered.com/app/577690/Spookys_Jump_Scare_Mansion_HD_Renovation/
 { "name": "SpookyUnity.exe", "type": "Game" }
 
+# SPORE™ https://store.steampowered.com/app/17390/SPORE/
+{ "name": "SporeApp.exe", "type": "Game" }
+
 # Spyro™ Reignited Trilogy https://store.steampowered.com/app/996580/Spyro_Reignited_Trilogy/
 { "name": "Spyro-Win64-Shipping.exe", "type": "Game" }
 { "name": "Spyro.exe", "type": "Game" }
@@ -491,6 +558,15 @@
 { "name": "STVoyager.exe", "type": "Game" }
 { "name": "STVoyager-Win64-Shipping.exe", "type": "Game" }
 
+# STAR OCEAN THE SECOND STORY R https://store.steampowered.com/app/2238900/STAR_OCEAN_THE_SECOND_STORY_R/
+{ "name": "SO2R.exe", "type": "Game" }
+
+# STAR OCEAN THE DIVINE FORCE https://store.steampowered.com/app/1776380/STAR_OCEAN_THE_DIVINE_FORCE/
+{ "name": "SO6.exe", "type": "Game" }
+
+# STAR OCEAN™ - THE LAST HOPE -™ 4K & Full HD Remaster https://store.steampowered.com/app/609150/STAR_OCEAN__THE_LAST_HOPE__4K__Full_HD_Remaster/
+{ "name": "StarOceanTheLastHope.exe", "type": "Game" }
+
 # STAR WARS™ Battlefront™ II https://store.steampowered.com/app/1237950/STAR_WARS_Battlefront_II/
 { "name": "starwarsbattlefrontii.exe", "type": "Game" }
 { "name": "starwarsbattlefrontii_trial.exe", "type": "Game" }
@@ -556,6 +632,9 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/
 { "name": "SOPFFO.exe", "type": "Game" }
 
+# Stronghold Crusader: Definitive Edition https://store.steampowered.com/app/3024040/Stronghold_Crusader_Definitive_Edition/
+{ "name": "Stronghold Crusader Definitive Edition.exe", "type": "Game" }
+
 # Stray https://store.steampowered.com/app/1332010/Stray/
 { "name": "Stray.exe", "type": "Game" }
 
@@ -615,6 +694,9 @@
 # SUPER DRAGON BALL HEROES WORLD MISSION https://store.steampowered.com/app/798510/SUPER_DRAGON_BALL_HEROES_WORLD_MISSION/
 { "name": "SDBHeroes_WorldMission.exe", "type": "Game" }
 
+# Sunderfolk https://store.steampowered.com/app/2414270/Sunderfolk/
+{ "name": "Sunderfolk.exe", "type": "Game" }
+
 # Summoners War https://store.steampowered.com/app/2426960/Summoners_War/
 { "name": "SummonersWar.exe", "type": "Game" }
 
@@ -627,7 +709,7 @@
 # Super Battle Golf https://store.steampowered.com/app/4069520/Super_Battle_Golf/
 { "name": "Super Battle Golf.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/3756010/SUPER_BOMBERMAN_COLLECTION/
+# SUPER BOMBERMAN COLLECTION https://store.steampowered.com/app/3756010/SUPER_BOMBERMAN_COLLECTION/
 { "name": "SUPER BOMBERMAN COLLECTION.exe", "type": "Game" }
 
 # Super Chicken Jumper https://store.steampowered.com/app/584640/SUPER_CHICKEN_JUMPER/
@@ -703,3 +785,11 @@
 # SWORN https://store.steampowered.com/app/1763250/SWORN/
 { "name": "SWORN.exe", "type": "Game" }
 
+# SYNTHETIK 2 https://store.steampowered.com/app/1471410/SYNTHETIK_2/
+{ "name": "Synthetik2.exe", "type": "Game" }
+
+# SYNTHETIK: Legion Rising https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/
+{ "name": "SYNTHETIK.exe", "type": "Game" }
+
+# SYNTHETIK Arena https://store.steampowered.com/app/984110/SYNTHETIK_Arena/
+{ "name": "SYNTHETIK Arena.exe", "type": "Game" }

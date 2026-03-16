@@ -38,11 +38,46 @@
 { "name": "NASCAR25_Steam.exe", "type": "Game"}
 { "name": "NASCAR25_Steam-Win64-Shipping.exe", "type": "Game"}
 
+# NBA 2K26 https://store.steampowered.com/app/3472040/NBA_2K26/
+{ "name": "NBA2K26.exe", "type": "Game" }
+
 # NBA 2K25 https://store.steampowered.com/app/2878980/NBA_2K25/
 { "name": "NBA2K25.exe", "type": "Game" }
 
-# NBA 2K26 https://store.steampowered.com/app/3472040/NBA_2K26/
-{ "name": "NBA2K26.exe", "type": "Game" }
+# NBA 2K24 https://store.steampowered.com/app/2338770/NBA_2K24/
+{ "name": "NBA2K24.exe", "type": "Game" }
+
+# NBA 2K23 https://store.steampowered.com/app/1919590/NBA_2K23/
+{ "name": "NBA2K23.exe", "type": "Game" }
+
+# NBA 2K22 https://store.steampowered.com/app/1644960/NBA_2K22/
+{ "name": "NBA2K22.exe", "type": "Game" }
+
+# NBA 2K21 https://store.steampowered.com/app/1225330/NBA_2K21/
+{ "name": "NBA2K21.exe", "type": "Game" }
+
+# NBA 2K20 https://store.steampowered.com/app/1089350/NBA_2K20/
+{ "name": "NBA2K20.exe", "type": "Game" }
+
+# NBA 2K19 https://store.steampowered.com/app/841370/NBA_2K19/
+{ "name": "NBA2K19.exe", "type": "Game" }
+
+# NBA 2K18 https://store.steampowered.com/app/577800/NBA_2K18/
+{ "name": "NBA2K18.exe", "type": "Game" }
+
+# NBA 2K17 https://store.steampowered.com/app/385760/NBA_2K17/
+{ "name": "NBA2K17.exe", "type": "Game" }
+
+# NBA 2K16 https://store.steampowered.com/app/370240/NBA_2K16/
+{ "name": "NBA2K16.exe", "type": "Game" }
+
+# NBA 2KVR Experience https://store.steampowered.com/app/519490/NBA_2KVR_Experience/
+{ "name": "NBA2KVRX.exe", "type": "Game" }
+{ "name": "NBA2KVRX-Win64-Shipping.exe", "type": "Game" }
+
+# NBA 2K Playgrounds 2 https://store.steampowered.com/app/726590/NBA_2K_Playgrounds_2/
+{ "name": "NBAPlaygrounds2.exe", "type": "Game" }
+{ "name": "NBAPlaygrounds2-Win64-Shipping.exe", "type": "Game" }
 
 # Necromunda: Hired Gun https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
 # Necromunda: Underhive Wars https://store.steampowered.com/app/566440/Necromunda_Underhive_Wars/
@@ -51,6 +86,27 @@
 
 # Need for Speed™ Heat https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
 { "name": "NeedForSpeedHeat.exe", "type": "Game" }
+
+# Need for Speed™ Unbound https://store.steampowered.com/app/1846380/Need_for_Speed_Unbound/
+{ "name": "NeedForSpeedUnbound.exe", "type": "Game" }
+
+# Need for Speed™ Hot Pursuit Remastered https://store.steampowered.com/app/1328660/Need_for_Speed_Hot_Pursuit_Remastered/
+{ "name": "NFS11Remastered.exe", "type": "Game" }
+
+# Need for Speed™ Most Wanted https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/
+{ "name": "NFS13.exe", "type": "Game" }
+
+# Need for Speed™ Payback https://store.steampowered.com/app/1262580/Need_for_Speed_Payback/
+{ "name": "NeedForSpeedPayback.exe", "type": "Game" }
+{ "name": "NeedForSpeedPaybackTrial.exe", "type": "Game" }
+
+# Need for Speed™ Rivals https://store.steampowered.com/app/1262600/Need_for_Speed_Rivals/
+{ "name": "NFS14.exe", "type": "Game" }
+{ "name": "NFS14_x86.exe", "type": "Game" }
+
+# Need for Speed™ https://store.steampowered.com/app/1262540/Need_for_Speed/
+{ "name": "NFS16.exe", "type": "Game" }
+{ "name": "NFS16_trial.exe", "type": "Game" }
 
 # NEEDY STREAMER OVERLOAD https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/
 { "name": "Windose.exe", "type": "Game" }
@@ -87,6 +143,9 @@
 
 # NieR:Automata™ https://store.steampowered.com/app/524220/NieRAutomata/
 { "name": "NierAutomata.exe", "type": "Game" }
+
+# NieR Replicant™ ver.1.22474487139... https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139/
+{ "name": "NieR Replicant ver.1.22474487139.exe", "type": "Game" }
 
 # Nightmare Reaper https://store.steampowered.com/app/1051690/Nightmare_Reaper/
 { "name": "MyProject-Win64-Shipping.exe", "type": "Game" }

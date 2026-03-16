@@ -21,6 +21,10 @@
 # Last Epoch https://store.steampowered.com/app/899770/Last_Epoch/
 { "name": "Last Epoch.exe", "type": "Game" }
 
+# Last Train Home https://store.steampowered.com/app/1469610/Last_Train_Home/
+{ "name": "Train.exe", "type": "Game" }
+{ "name": "Train-Win64-Shipping.exe", "type": "Game" }
+
 # Laysara: Summit Kingdom https://store.steampowered.com/app/1823950/Laysara_Summit_Kingdom/
 { "name": "Laysara.exe", "type": "Game" }
 
@@ -131,11 +135,25 @@
 { "name": "LOP-Win64-Shipping.exe", "type": "Game" }
 { "name": "LOP.exe", "type": "Game" }
 
+# Lightyear Frontier  https://store.steampowered.com/app/1677110/Lightyear_Frontier/
+{ "name": "LightyearFrontier.exe", "type": "Game" }
+{ "name": "FarMech-Win64-Shipping.exe", "type": "Game" }
+
+# LIGHTNING RETURNS™: FINAL FANTASY® XIII https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/
+{ "name": "LRFF13.exe", "type": "Game" }
+
 # Life is Strange - Episode 1 https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/
 { "name": "LifeIsStrange.exe", "type": "Game" }
 
+# Life is Strange Remastered https://store.steampowered.com/app/1265920/Life_is_Strange_Remastered/
+{ "name": "LiS.exe", "type": "Game" }
+{ "name": "LiS-Win64-Shipping.exe", "type": "Game" }
+
 # Little Witch Academia: Chamber of Time https://store.steampowered.com/app/710470/Little_Witch_Academia_Chamber_of_Time/
 { "name": "LWA.exe", "type": "Game" }
+
+# Little Goody Two Shoes https://store.steampowered.com/app/1812370/Little_Goody_Two_Shoes/
+{ "name": "LGTS.exe", "type": "Game" }
 
 # Like a Dragon Gaiden: The Man Who Erased His Name https://store.steampowered.com/app/2375550/Like_a_Dragon_Gaiden_The_Man_Who_Erased_His_Name/
 { "name": "likeadragongaiden.exe", "type": "Game" }
@@ -212,3 +230,6 @@
 
 # Lust Goddess https://store.steampowered.com/app/2808930/Lust_Goddess/
 { "name": "Adult_wars.exe", "type": "Game" }
+
+# Lucid Blocks https://store.steampowered.com/app/3495730/Lucid_Blocks/
+{ "name": "lucid-blocks.exe", "type": "Game" }

@@ -38,6 +38,18 @@
 { "name": "DayZ_x64.exe", "type": "Game" }
 { "name": "DayZLauncher.exe", "type": "BG_CPUIO" }
 
+# Danganronpa: Trigger Happy Havoc https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
+{ "name": "DR1_us.exe", "type": "Game" }
+
+# Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
+{ "name": "DR2_us.exe", "type": "Game" }
+
+# Danganronpa V3: Killing Harmony https://store.steampowered.com/app/567640/Danganronpa_V3_Killing_Harmony/
+{ "name": "Dangan3Win.exe", "type": "Game" }
+
+# Danganronpa S: Ultimate Summer Camp https://store.steampowered.com/app/1691970/Danganronpa_S_Ultimate_Summer_Camp/
+{ "name": "danganronpa s ultimate summer camp.exe", "type": "Game" }
+
 # DCS World Steam Edition https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/
 { "name": "DCS.exe", "type": "Game" }
 
@@ -191,6 +203,9 @@
 # Digimon Story Cyber Sleuth: Complete Edition https://store.steampowered.com/app/1042550/Digimon_Story_Cyber_Sleuth_Complete_Edition/
 { "name": "Digimon Story CS.exe", "type": "Game" }
 
+# Dinkum https://store.steampowered.com/app/1062520/Dinkum/
+{ "name": "Dinkum.exe", "type": "Game" }
+
 # DiRT 3 (not on steam store anymore)
 { "name": "dirt3_game.exe", "type": "Game" }
 
@@ -245,6 +260,12 @@
 # Dispatch https://store.steampowered.com/app/2592160/Dispatch/
 { "name": "Dispatch.exe", "type": "Game" }
 
+# DISSIDIA FINAL FANTASY NT Free Edition https://store.steampowered.com/app/921590/DISSIDIA_FINAL_FANTASY_NT_Free_Edition/
+{ "name": "dffnt.exe", "type": "Game" }
+
+# Diplomacy is Not an Option https://store.steampowered.com/app/1272320/Diplomacy_is_Not_an_Option/
+{ "name": "Diplomacy is Not an Option.exe", "type": "Game" }
+
 # Divinity: Original Sin https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 # Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
 { "name": "EoCApp.exe", "type": "Game" }
@@ -297,6 +318,9 @@
 # Dragon Age: Origins - Ultimate Edition https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
 { "name": "DAOrigins.exe", "type": "Game" }
 
+# Dragon Age™: The Veilguard https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/
+{ "name": "Dragon Age The Veilguard.exe", "type": "Game" }
+
 # DRAGON BALL FighterZ https://store.steampowered.com/app/678950/DRAGON_BALL_FighterZ/
 { "name": "DBFighterZ.exe", "type": "Game" }
 
@@ -320,10 +344,6 @@
 { "name": "DragonkinTheBanished.exe", "type": "Game" }
 { "name": "DragonkinTheBanished-Win64-Shipping.exe", "type": "Game" }
 
-# DRAGON QUEST VII Reimagined https://store.steampowered.com/app/2499860/DRAGON_QUEST_VII_Reimagined/
-{ "name": "DQ7R.exe", "type": "Game" }
-{ "name": "DQ7R-Win64-Shipping.exe", "type": "Game" }
-
 # DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/
 { "name": "DRAGON QUEST XI S.exe", "type": "Game" }
 
@@ -331,6 +351,28 @@
 { "name": "DQB2.exe", "type": "Game" }
 { "name": "DQB2_AS.exe", "type": "Game" }
 { "name": "DQB2_EU.exe", "type": "Game" }
+
+# DRAGON QUEST I & II HD-2D Remake https://store.steampowered.com/app/2893570/DRAGON_QUEST_I__II_HD2D_Remake/
+{ "name": "DQIandIIHD2DRemake.exe", "type": "Game" }
+
+# DRAGON QUEST III HD-2D Remake https://store.steampowered.com/app/2701660/DRAGON_QUEST_III_HD2D_Remake/
+{ "name": "DQIIIHD2DRemake.exe", "type": "Game" }
+
+# DRAGON QUEST VII Reimagined https://store.steampowered.com/app/2499860/DRAGON_QUEST_VII_Reimagined/
+{ "name": "DQ7R.exe", "type": "Game" }
+{ "name": "DQ7R-Win64-Shipping.exe", "type": "Game" }
+
+# DRAGON QUEST MONSTERS: The Dark Prince https://store.steampowered.com/app/2175540/DRAGON_QUEST_MONSTERS_The_Dark_Prince/
+{ "name": "DQMonsters3.exe", "type": "Game" }
+
+# DRAGON QUEST TREASURES https://store.steampowered.com/app/2021210/DRAGON_QUEST_TREASURES/
+{ "name": "DragonQuestTreasures.exe", "type": "Game" }
+
+# DRAGON QUEST HEROES™ II https://store.steampowered.com/app/574050/DRAGON_QUEST_HEROES_II/
+{ "name": "DQH2.exe", "type": "Game" }
+
+# DRAGON QUEST HEROES™ Slime Edition https://store.steampowered.com/app/410850/DRAGON_QUEST_HEROES_Slime_Edition/
+{ "name": "DQH.exe", "type": "Game" }
 
 # Dragon's Dogma 2 https://store.steampowered.com/app/2054970/Dragons_Dogma_2/
 { "name": "DD2.exe", "type": "Game" }
@@ -353,6 +395,9 @@
 
 # Drive Beyond Horizons https://store.steampowered.com/app/2625420/Drive_Beyond_Horizons/
 { "name": "DriveBeyondHorizons.exe", "type": "Game" }
+
+# Drill Core https://store.steampowered.com/app/2821800/Drill_Core/
+{ "name": "Drill Core.exe", "type": "Game" }
 
 # Drop Duchy https://store.steampowered.com/app/2525310/Drop_Duchy/
 { "name": "DropDuchy.exe", "type": "Game" }
@@ -384,6 +429,10 @@
 
 # Dungeon Siege III https://store.steampowered.com/app/39160/Dungeon_Siege_III/
 { "name": "Dungeon Siege III.exe", "type": "Game" }
+
+# Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
+{ "name": "DunDefGame.exe", "type": "Game" }
+{ "name": "DungeonDefenders.exe", "type": "Game" }
 
 # Dust: An Elysian Tail https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
 { "name": "DustAET.exe", "type": "Game" }
