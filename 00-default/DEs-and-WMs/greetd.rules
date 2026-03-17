@@ -1,11 +1,11 @@
 # greetd itself
-{ "name": "greetd", "type": "Service" }
+{ "name": "greetd", "type": "BG_CPUIO" }
 
 # various greetd-based greeters
-{ "name": "tuigreet", "type": "Service" }
-{ "name": "regreet", "type": "Service" }
-{ "name": "nwg-hello", "type": "Service" }
-{ "name": "wlgreet", "type": "Service" }
-{ "name": "gtkgreet", "type": "Service" }
-{ "name": "qtgreet", "type": "Service" }
-{ "name": "cosmic-greeter", "type": "Service" }
+{ "name": "tuigreet", "type": "BG_CPUIO" }
+{ "name": "regreet", "type": "BG_CPUIO" }
+{ "name": "nwg-hello", "type": "BG_CPUIO" }
+{ "name": "wlgreet", "type": "BG_CPUIO" }
+{ "name": "gtkgreet", "type": "BG_CPUIO" }
+{ "name": "qtgreet", "type": "BG_CPUIO" }
+{ "name": "cosmic-greeter", "type": "BG_CPUIO" }

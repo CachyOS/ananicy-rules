@@ -1,0 +1,5 @@
+# Sound editor: http://www.audacityteam.org/
+{ "name": "audacity", "type": "Player-Audio" }
+
+# https://codeberg.org/tenacityteam/tenacity
+{ "name": "tenacity", "type": "Player-Audio" }
