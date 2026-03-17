@@ -1,2 +1,2 @@
 # ly, a TUI lightweight display manager: https://github.com/fairyglade/ly
-{ "name": "ly-dm", "type": "Service" }
+{ "name": "ly-dm", "type": "BG_CPUIO" }
