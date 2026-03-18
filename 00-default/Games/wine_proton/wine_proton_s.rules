@@ -142,10 +142,6 @@
 { "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Hellblade2.exe", "type": "Game" }
 
-# Sengoku Dynasty https://store.steampowered.com/app/1702010/Sengoku_Dynasty/
-{ "name": "SengokuDynasty.exe", "type": "Game" }
-{ "name": "SengokuDynasty-Win64-Shipping.exe", "type": "Game" }
-
 # Session: Skate Sim https://store.steampowered.com/app/861650/Session_Skate_Sim/
 { "name": "SessionGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "SessionGame.exe", "type": "Game" }
@@ -168,6 +164,9 @@
 
 # Shadows: Awakening https://store.steampowered.com/app/585450/Shadows_Awakening/
 { "name": "shadows.exe", "type": "Game" }
+
+# Shadows of Doubt https://store.steampowered.com/app/986130/Shadows_of_Doubt/
+{ "name": "Shadows of Doubt.exe", "type": "Game" }
 
 # Shadowverse: Worlds Beyond https://store.steampowered.com/app/2584990/Shadowverse_Worlds_Beyond/
 { "name": "ShadowverseWB.exe", "type": "Game" }
@@ -319,10 +318,10 @@
 # Sonic Adventure DX https://store.steampowered.com/app/71250/Sonic_Adventure_DX/
 { "name": "Sonic Adventure DX.exe", "type": "Game" }
 
-# Sonic And All-Stars Racing Transformed Collection https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/
+# Sonic & All-Stars Racing Transformed Collection https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/
 { "name": "ASN_App_PcDx9_Final.exe", "type": "Game" }
 
-# Sonic Colors Ultimate https://store.steampowered.com/app/2055290/Sonic_Colors_Ultimate/
+# Sonic Colors: Ultimate https://store.steampowered.com/app/2055290/Sonic_Colors_Ultimate/
 { "name": "SonicColorsUltimate.exe", "type": "Game" }
 
 # Sonic Forces https://store.steampowered.com/app/637100/Sonic_Forces/
@@ -331,7 +330,7 @@
 # Sonic Frontiers https://store.steampowered.com/app/1237320/Sonic_Frontiers/
 { "name": "SonicFrontiers.exe", "type": "Game" }
 
-# Sonic Generations (Legacy) https://store.steampowered.com/app/71340/Sonic_Generations_Collection/
+# Sonic Generations Collection https://store.steampowered.com/app/71340/Sonic_Generations_Collection/
 { "name": "SonicGenerations.exe", "type": "Game" }
 
 # Sonic Lost World https://store.steampowered.com/app/329440/Sonic_Lost_World/
@@ -346,7 +345,7 @@
 # Sonic Racing: Crossworlds https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/
 { "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
 
-# Sonic Rumble https://store.steampowered.com/app/2951690/Sonic_Rumble/
+# Sonic Rumble https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/
 { "name": "SonicRumble.exe", "type": "Game" }
 { "name": "ucldr_SonicRumble_ST_loader_x64.exe", "type": "Game" }
 
@@ -358,38 +357,8 @@
 { "name": "SONIC_GENERATIONS.exe", "type": "Game" }
 { "name": "SONIC_X_SHADOW_GENERATIONS.exe", "type": "Game" }
 
-# Sonic Rumble Party https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/
-{ "name": "SonicRumble.exe", "type": "Game" }
-
 # Sonic Racing: CrossWorlds https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/
 { "name": "SonicRacingCrossWorlds.exe", "type": "Game" }
-
-# SONIC SUPERSTARS https://store.steampowered.com/app/2022670/SONIC_SUPERSTARS/
-{ "name": "SonicSuperstars.exe", "type": "Game" }
-
-# Sonic Colors: Ultimate https://store.steampowered.com/app/2055290/Sonic_Colors_Ultimate/
-{ "name": "SonicColorsUltimate.exe", "type": "Game" }
-
-# Sonic Frontiers https://store.steampowered.com/app/1237320/Sonic_Frontiers/
-{ "name": "SonicFrontiers.exe", "type": "Game" }
-
-# Sonic Origins https://store.steampowered.com/app/1794960/Sonic_Origins/
-{ "name": "SonicOrigins.exe", "type": "Game" }
-
-# Sonic Forces https://store.steampowered.com/app/637100/Sonic_Forces/
-{ "name": "Sonic Forces.exe", "type": "Game" }
-
-# Sonic Mania https://store.steampowered.com/app/584400/Sonic_Mania/
-{ "name": "SonicMania.exe", "type": "Game" }
-
-# Sonic Lost World https://store.steampowered.com/app/329440/Sonic_Lost_World/
-{ "name": "slw.exe", "type": "Game" }
-
-# Sonic & All-Stars Racing Transformed Collection https://store.steampowered.com/app/212480/Sonic__AllStars_Racing_Transformed_Collection/
-{ "name": "ASN_App_PcDx9_Final.exe", "type": "Game" }
-
-# Sonic Adventure 2 https://store.steampowered.com/app/213610/Sonic_Adventure_2/
-{ "name": "sonic2app.exe", "type": "Game" }
 
 # Sonic the Hedgehog 4 - Episode II https://store.steampowered.com/app/203650/Sonic_the_Hedgehog_4__Episode_II/
 { "name": "Sonic.exe", "type": "Game" }
@@ -397,9 +366,6 @@
 # Sonic the Hedgehog 4 - Episode I https://store.steampowered.com/app/202530/Sonic_the_Hedgehog_4__Episode_I/
 { "name": "Sonic_vis.exe", "type": "Game" }
 { "name": "Sonic_xp.exe", "type": "Game" }
-
-# Sonic Generations Collection https://store.steampowered.com/app/71340/Sonic_Generations_Collection/
-{ "name": "SonicGenerations.exe", "type": "Game" }
 
 # Sons Of The Forest https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/
 { "name": "SonsOfTheForest.exe", "type": "Game" }
