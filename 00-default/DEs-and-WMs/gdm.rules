@@ -1,10 +1,10 @@
 # display manager
-{ "name": "gdm3", "type": "Service" }
-{ "name": "gdm", "type": "Service" }
-{ "name": "gdm-wayland-session", "type": "Service" }
-{ "name": "gdm-session-worker", "type": "Service" }
+{ "name": "gdm3", "type": "BG_CPUIO" }
+{ "name": "gdm", "type": "BG_CPUIO" }
+{ "name": "gdm-wayland-session", "type": "BG_CPUIO" }
+{ "name": "gdm-session-worker", "type": "BG_CPUIO" }
 
 # gnome shell
-{ "name": "gnome-shell","type": "Service"}
-{ "name": "gnome-session-binary","type": "Service"}
-{ "name": "gnome-session-ctl","type": "Service"}
+{ "name": "gnome-shell","type": "LowLatency_RT"}
+{ "name": "gnome-session-binary","type": "BG_CPUIO"}
+{ "name": "gnome-session-ctl","type": "BG_CPUIO"}
