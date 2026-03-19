@@ -58,6 +58,10 @@
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "LowLatency_RT" }
 
+# Call of Duty Launcher
+{ "name": "bootstrapper.exe", "type": "BG_CPUIO" }
+
+
 # Some KOEI TECMO Franchise's Game's
 { "name": "Launch.exe", "type": "Game" }
 { "name": "Launch_EA.exe", "type": "Game" }
@@ -67,6 +71,9 @@
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 { "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
 { "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
+{ "name": "CrashLogsGenerator.exe", "type": "BG_CPUIO" }
+{ "name": "codCrashHandler.exe", "type": "BG_CPUIO" }
+{ "name": "bootstrapperCrashHandler.exe", "type": "BG_CPUIO" }
 
 # Anti-cheat clients
 { "name": "start_protected_game.exe", "type": "Game" }
