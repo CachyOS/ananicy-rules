@@ -164,8 +164,8 @@
 { "name": "AliensDarkDescentGameSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Aliens: Fireteam Elite https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/
- { "name": "Endeavor.exe", "type": "Game" }
- { "name": "Endeavor-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Endeavor.exe", "type": "Game" }
+{ "name": "Endeavor-Win64-Shipping.exe", "type": "Game" }
 
 # Aliens versus Predator Classic 2000 https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
 { "name": "AvP_Classic.exe", "type": "Game" }
@@ -187,6 +187,9 @@
 # A Quiet Place: The Road Ahead https://store.steampowered.com/app/2233120/A_Quiet_Place_The_Road_Ahead/
 { "name": "AQuietPlace.exe", "type": "Game" }
 { "name": "AQuietPlace-Win64-Shipping.exe", "type": "Game" }
+
+# Amazing Cultivation Simulator https://store.steampowered.com/app/955900/Amazing_Cultivation_Simulator/
+{ "name": "Amazing Cultivation Simulator.exe", "type": "Game" }
 
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks.exe", "type": "Game" }
