@@ -80,6 +80,11 @@
 # Voices of the Void https://votv.dev/
 { "name": "VotV.exe", "type": "Game" }
 
+# VPet / VPet-Simulator https://store.steampowered.com/app/1920960/VPetSimulator/
+{ "name": "VPet-Simulator.Windows.exe", "type": "Game" }
+{ "name": "VPet-Simulator.Windows_x86.exe", "type": "Game" }
+{ "name": "VPet.Solution.exe", "type": "Game" }
+
 # V-Rally 4 https://store.steampowered.com/app/658700/VRally_4/
 { "name": "VRally4.exe", "type": "Game" }
 
