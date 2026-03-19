@@ -2,5 +2,10 @@
 # Don't try to sort different scripts (for example chinese and russian). it makes no sense.
 # however games with same script can be sorted.
 
-# 龙胤立志传 https://store.steampowered.com/app/3202030/_/
+### Chinese / Pinyin ###
+
+# lóng yìn lì zhì chuán 龙胤立志传 https://store.steampowered.com/app/3202030/_/
 { "name": "LongYinLiZhiZhuan.exe", "type": "Game" }
+
+# què hún má jiāng 雀魂麻将(MahjongSoul) https://store.steampowered.com/app/1329410/
+{ "name": "Jantama_MahjongSoul.exe", "type": "Game" }
