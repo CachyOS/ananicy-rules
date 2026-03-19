@@ -256,6 +256,11 @@
 # Arknights: Endfield https://endfield.gryphline.com/
 { "name": "Endfield.exe", "type": "Game" }
 
+# ARK: Survival Ascended https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/
+{ "name": "ArkAscended_BE.exe", "type": "Game" }
+{ "name": "ArkAscended.exe", "type": "Game" }
+{ "name": "ShooterGame-Win64-Shipping.exe", "type": "Game" }
+
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 { "name": "ShooterGame_BE.exe", "type": "Game" }
 { "name": "ShooterGame.exe", "type": "Game" }
