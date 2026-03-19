@@ -26,6 +26,11 @@
 # Age of History II https://store.steampowered.com/app/603850/Age_of_History_II/
 { "name": "AoC2.jar", "type": "Game" }
 
+# Age of Wonders III https://store.steampowered.com/app/226840/Age_of_Wonders_III/
+{ "name": "AoW3Launcher.run", "type": "BG_CPUIO" }
+{ "name": "AoW3Launcher", "type": "BG_CPUIO" }
+{ "name": "AoW3", "type": "Game" }
+
 # aleph one: https://alephone.lhowon.org/
 { "name": "alephone", "type": "Game" }
 

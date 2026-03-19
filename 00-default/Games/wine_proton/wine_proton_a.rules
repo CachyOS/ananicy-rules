@@ -102,6 +102,10 @@
 # Age of Mythology: Retold https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/
 { "name": "AoMRT_s.exe", "type": "Game" }
 
+# Age of Wonders III https://store.steampowered.com/app/226840/Age_of_Wonders_III/
+{ "name": "AoW3Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "AoW3.exe", "type": "Game" }
+
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
 { "name": "Paradox Launcher.exe", "type": "Game" }
 { "name": "dowser.exe", "type": "Game" }
