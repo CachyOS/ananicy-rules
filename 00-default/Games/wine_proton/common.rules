@@ -82,6 +82,7 @@
 { "name": "start_protected_game.exe", "type": "Game" }
 { "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
 { "name": "EAAntiCheat.GameServiceLauncher.exe", "type": "Game" }
+{ "name": "BEService_x64.exe", "type": "Game" }
 
 # Web helper processes
 { "name": "UnrealCEFSubProcess.exe", "type": "Game" }
