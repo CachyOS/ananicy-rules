@@ -446,7 +446,7 @@
 # https://store.steampowered.com/app/2720920/ASTROBOTANICA/
 { "name": "Astrobotanica.exe", "type": "Game" }
 
-# Astroneer, https://store.steampowered.com/app/361420/ASTRONEER/
+# ASTRONEER https://store.steampowered.com/app/361420/ASTRONEER/
 { "name": "Astro-Win64-Shipping.exe", "type": "Game" }
 
 # As We Descend https://store.steampowered.com/app/1769830/As_We_Descend/
@@ -514,6 +514,9 @@
 { "name": "AtlasFallen (DX12).exe", "type": "Game" }
 { "name": "AtlasFallen (VK).exe", "type": "Game" }
 { "name": "AtlasFallen.exe", "type": "Game" }
+
+# ATLYSS https://store.steampowered.com/app/2768430/ATLYSS/
+{ "name": "ATLYSS.exe", "type": "Game" }
 
 # Atomfall https://store.steampowered.com/app/801800/Atomfall/
 { "name": "Atomfall.exe", "type": "Game" }
