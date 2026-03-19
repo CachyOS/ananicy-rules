@@ -1,8 +1,13 @@
 # Add games in alphabetical order.
 # Don't try to sort different scripts (for example chinese and russian). it makes no sense.
 # however games with same script can be sorted.
+# this is for chinese -> https://www.chineseconverter.com/en/convert/chinese-to-pinyin
+# No idea how to sort japanese... (help needed)
 
 ### Chinese / Pinyin ###
+
+# guǐ gǔ bā huāng 鬼谷八荒 Tale of Immortal https://store.steampowered.com/app/1468810/_Tale_of_Immortal/
+{ "name": "guigubahuang.exe", "type": "Game" }
 
 # lóng yìn lì zhì chuán 龙胤立志传 https://store.steampowered.com/app/3202030/_/
 { "name": "LongYinLiZhiZhuan.exe", "type": "Game" }
