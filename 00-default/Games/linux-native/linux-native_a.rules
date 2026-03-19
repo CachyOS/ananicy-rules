@@ -84,6 +84,10 @@
 # ARMED SEVEN https://store.steampowered.com/app/349690/ARMED_SEVEN/
 { "name": "ArmedSeven.x86", "type": "Game" }
 
+# Armello https://store.steampowered.com/app/290340/Armello/
+{ "name": "armello.x86", "type": "Game" }
+{ "name": "armello.x86_64", "type": "Game" }
+
 # AssaultCube https://assault.cubers.net
 { "name": "linux_64_client", "type": "Game" }
 
