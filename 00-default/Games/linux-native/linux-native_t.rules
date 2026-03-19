@@ -34,6 +34,10 @@
 # Tiny Bookshop https://store.steampowered.com/app/2133760/Tiny_Bookshop/
 { "name": "Tiny Bookshop.x86_64", "type": "Game" }
 
+# tModLoader https://store.steampowered.com/app/1281930/tModLoader/
+{ "name": "tModLoader", "type": "Game" }
+{ "name": "start-tModLoader.sh", "type": "Game" }
+
 # Tomb Raider 2013 reboot version http://store.steampowered.com/app/203160/Tomb_Raider/
 { "name": "TombRaider", "type": "Game" }
 

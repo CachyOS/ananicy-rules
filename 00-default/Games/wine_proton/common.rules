@@ -13,6 +13,7 @@
 # Rune Factory: Guardians of Azuma https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
 { "name": "Game.exe", "type": "Game" }
 
+# Fish Idle 2: Underwater Mystery https://store.steampowered.com/app/3037410/Fish_Idle_2_Underwater_Mystery/
 # Castlevania Anniversary Collection https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
 # Bloodstained: Curse of the Moon 2 https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
 # Persona® 5 Strikers https://store.steampowered.com/app/1382330/Persona_5_Strikers/
@@ -51,6 +52,20 @@
 { "name": "Ride-Win64-Shipping.exe", "type": "Game" }
 { "name": "RideX64.exe", "type": "Game" }
 
+# Grand Theft Auto IV: The Complete Edition https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
+# Grand Theft Auto V Enhanced https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
+{ "name": "PlayGTAV.exe", "type": "Game" }
+
+# ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
+# PAC-MAN™ Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
+{ "name": "PAC-MAN.exe", "type": "Game" }
+
+# Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
+{ "name": "SteamWorksExample.exe", "type": "Service" }
+
+# Call of Duty Launcher
+{ "name": "bootstrapper.exe", "type": "BG_CPUIO" }
+
 # Some KOEI TECMO Franchise's Game's
 { "name": "Launch.exe", "type": "Game" }
 { "name": "Launch_EA.exe", "type": "Game" }
@@ -60,30 +75,37 @@
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 { "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
 { "name": "UniCrashReporter.exe", "type": "BG_CPUIO" }
+{ "name": "CrashLogsGenerator.exe", "type": "BG_CPUIO" }
+{ "name": "codCrashHandler.exe", "type": "BG_CPUIO" }
+{ "name": "bootstrapperCrashHandler.exe", "type": "BG_CPUIO" }
 
 # Anti-cheat clients
-{ "name": "start_protected_game.exe", "type": "Game" }
-{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
+{ "name": "start_protected_game.exe", "type": "BG_CPUIO" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "BG_CPUIO" }
+{ "name": "EAAntiCheat.GameServiceLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "BEService_x64.exe", "type": "BG_CPUIO" }
+{ "name": "SGuard64.exe", "type": "BG_CPUIO" }
 
 # Web helper processes
-{ "name": "UnrealCEFSubProcess.exe", "type": "Game" }
+{ "name": "UnrealCEFSubProcess.exe", "type": "BG_CPUIO" }
 { "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
 { "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
-{ "name": "ZFGameBrowser.exe", "type": "Game" }
-{ "name": "CoherentUI_Host.exe", "type": "Game" }
-{ "name": "awesomium_process.exe", "type": "Game" }
+{ "name": "ZFGameBrowser.exe", "type": "BG_CPUIO" }
+{ "name": "CoherentUI_Host.exe", "type": "BG_CPUIO" }
+{ "name": "awesomium_process.exe", "type": "BG_CPUIO" }
+{ "name": "EOSBootstrapper.exe", "type": "BG_CPUIO" }
 
 # Background video player helper processes
-{ "name": "CCVideoPlayer.exe", "type": "Game" }
-{ "name": "MLiveCCPlayerApp.exe", "type": "Game" }
-{ "name": "CCMini.exe", "type": "Game" }
+{ "name": "CCVideoPlayer.exe", "type": "BG_CPUIO" }
+{ "name": "MLiveCCPlayerApp.exe", "type": "BG_CPUIO" }
+{ "name": "CCMini.exe", "type": "BG_CPUIO" }
 
 # Redistributables
-{ "name": "UEPrereqSetup_x64.exe", "type": "Game" }
-{ "name": "DXSETUP.exe", "type": "Game" }
-{ "name": "D3D11Install.exe", "type": "Game" }
-{ "name": "vcredist_x64.exe", "type": "Game" }
-{ "name": "vcredist_x86.exe", "type": "Game" }
-{ "name": "VC_redist.x64.exe", "type": "Game" }
-{ "name": "VC_redist.x86.exe", "type": "Game" }
-{ "name": "Touchup.exe", "type": "Game" }
+{ "name": "UEPrereqSetup_x64.exe", "type": "BG_CPUIO" }
+{ "name": "DXSETUP.exe", "type": "BG_CPUIO" }
+{ "name": "D3D11Install.exe", "type": "BG_CPUIO" }
+{ "name": "vcredist_x64.exe", "type": "BG_CPUIO" }
+{ "name": "vcredist_x86.exe", "type": "BG_CPUIO" }
+{ "name": "VC_redist.x64.exe", "type": "BG_CPUIO" }
+{ "name": "VC_redist.x86.exe", "type": "BG_CPUIO" }
+{ "name": "Touchup.exe", "type": "BG_CPUIO" }

@@ -30,6 +30,9 @@
 # Call of Cthulhu: The Wasted Land https://store.steampowered.com/app/251390/Call_of_Cthulhu_The_Wasted_Land/
 { "name": "Cthulhu.exe", "type": "Game" }
 
+# Call of Duty® https://store.steampowered.com/app/1938090/Call_of_Duty/
+{ "name": "cod.exe", "type": "Game" }
+
 # Call of Duty® (2003) https://store.steampowered.com/app/2620/Call_of_Duty/
 { "name": "CoDMP.exe", "type": "Game" }
 { "name": "CoDSP.exe", "type": "Game" }
@@ -285,8 +288,11 @@
 # Coffee Talk https://store.steampowered.com/app/914800/Coffee_Talk/
 { "name": "CoffeeTalk.exe", "type": "Game"}
 
-#Coffee Talk Episode 2: Hibiscus & Butterfly  https://store.steampowered.com/app/1663220/Coffee_Talk_Episode_2_Hibiscus__Butterfly/
+# Coffee Talk Episode 2: Hibiscus & Butterfly  https://store.steampowered.com/app/1663220/Coffee_Talk_Episode_2_Hibiscus__Butterfly/
 { "name": "CTHB.exe", "type": "Game"}
+
+# Cookie Clicker https://store.steampowered.com/app/1454400/Cookie_Clicker/
+{ "name": "Cookie Clicker.exe", "type": "Game"}
 
 # Combat Mission Battle for Normandy https://store.steampowered.com/app/2297010/Combat_Mission_Battle_for_Normandy/
 { "name": "CM Normandy.exe", "type": "Game" }
@@ -345,6 +351,10 @@
 # CounterSide https://store.steampowered.com/app/1976440/CounterSide/
 { "name": "CounterSide.exe", "type": "Game"}
 
+# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
+{ "name": "cstrike.exe", "type": "Game" }
+{ "name": "cstrike_win64.exe", "type": "Game" }
+
 # Crab Champions https://store.steampowered.com/app/774801/Crab_Champions/
 { "name": "CrabChampions.exe", "type": "Game" }
 
@@ -377,6 +387,9 @@
 
 # Crimson Capes https://store.steampowered.com/app/2488540/Crimson_Capes/
 { "name": "Crimson Capes.exe", "type": "Game"}
+
+# Crimson Desert https://store.steampowered.com/app/3321460/Crimson_Desert/
+{ "name": "CrimsonDesert.exe", "type": "Game"}
 
 # Crisol: Theater of Idols https://store.steampowered.com/app/1790930/Crisol_Theater_of_Idols/
 { "name": "CrisolTheaterOfIdols.exe", "type": "Game" }

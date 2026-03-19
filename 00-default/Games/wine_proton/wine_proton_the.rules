@@ -73,6 +73,10 @@
 { "name": "SkyrimSE.exe", "type": "Game" }
 { "name": "TESV.exe", "type": "Game" }
 
+# The Elder Scrolls Online https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
+{ "name": "zosSteamStarter.exe", "type": "Game" }
+{ "name": "eso64.exe", "type": "Game" }
+
 # TESO https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/
 { "name": "eso64.exe", "type": "Game" }
 
@@ -253,6 +257,10 @@
 
 # The Saboteur™ https://store.steampowered.com/app/24880/The_Saboteur/
 { "name": "Saboteur.exe", "type": "Game" }
+
+# The Seven Deadly Sins: Origin https://store.steampowered.com/app/3679080/The_Seven_Deadly_Sins_Origin/
+{ "name": "SevenDeadlySins_Origin-Win64-Shipping.exe", "type": "Game" }
+{ "name": "SevenDeadlySins_Origin.exe", "type": "Game" }
 
 # The Shattering https://store.steampowered.com/app/596000/The_Shattering/
 { "name": "Shattering.exe", "type": "Game" }

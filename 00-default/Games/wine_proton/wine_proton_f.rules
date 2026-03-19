@@ -26,6 +26,9 @@
 # FAIRY TAIL 2 https://store.steampowered.com/app/3002850/FAIRY_TAIL_2/
 { "name": "FAIRY_TAIL_2.exe", "type": "Game" }
 
+# Fallen Tear: The Ascension https://store.steampowered.com/app/1446900/Fallen_Tear_The_Ascension/
+{ "name": "FallenTear.exe", "type": "Game" }
+
 # Fall Guys https://store.steampowered.com/app/1097150/Fall_Guys/
 { "name": "FallGuys_client_game.exe", "type": "Game" }
 { "name": "FallGuys_client.exe", "type": "Game" }
@@ -199,9 +202,10 @@
 
 # FINAL FANTASY VII REMAKE INTERGRADE https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/
 { "name": "ff7remake.exe", "type": "Game" }
+{ "name": "ff7remake_.exe", "type": "Game" }
 
 # FINAL FANTASY VII https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/
-{ "name": "ff7remake.exe", "type": "Game" }
+{ "name": "FF7_Launcher.exe", "type": "Game" }
 
 # FINAL FANTASY VIII - REMASTERED https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/
 { "name": "ff7_en.exe", "type": "Game" }

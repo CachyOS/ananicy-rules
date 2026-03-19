@@ -250,14 +250,21 @@
 # ARCADE GAME SERIES: DIG DUG https://store.steampowered.com/app/403400/ARCADE_GAME_SERIES_DIG_DUG/
 { "name": "DIG DUG.exe", "type": "Game" }
 
-# ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
-{ "name": "PAC-MAN.exe", "type": "Game" }
-
 # ARC Raiders https://store.steampowered.com/app/1808500/ARC_Raiders/
 { "name": "PioneerGame.exe", "type": "Game" }
 
+# Arena Breakout: Infinite https://store.steampowered.com/app/2073620/Arena_Breakout_Infinite/
+{ "name": "UAGame.exe", "type": "Game" }
+{ "name": "arena_breakout_infinite_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "GameLoader.exe", "type": "BG_CPUIO" }
+
 # Arknights: Endfield https://endfield.gryphline.com/
 { "name": "Endfield.exe", "type": "Game" }
+
+# ARK: Survival Ascended https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/
+{ "name": "ArkAscended_BE.exe", "type": "Game" }
+{ "name": "ArkAscended.exe", "type": "Game" }
+{ "name": "ShooterGame-Win64-Shipping.exe", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 { "name": "ShooterGame_BE.exe", "type": "Game" }

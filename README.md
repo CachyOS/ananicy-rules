@@ -47,6 +47,8 @@ If not from any store add name you think it needs.
 { "name": "portal2_linux", "type": "Game" }
 ```
 
+Duplicate processes can be detected with this command: ```grep -rhoP --include='*.rules' '"name"\s*:\s*"\K[^"]+' . | sort | uniq -d```
+
 ### <u>You can also contribute by opening an [issue](https://github.com/CachyOS/ananicy-rules/issues) and providing information about the application </u>
 **Make sure the app is not already in the repository before opening an issue.**
 ## How to find out proper process name?
