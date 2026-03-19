@@ -6,6 +6,9 @@
 # 2Dark https://store.steampowered.com/app/435100/2Dark/
 { "name": "2Dark.exe", "type": "Game" }
 
+# 5D Chess With Multiverse Time Travel https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/
+{ "name": "5dchesswithmultiversetimetravel.exe", "type": "Game" }
+
 # 7 Days to Die https://store.steampowered.com/app/251570/7_Days_to_Die/
 { "name": "7DaysToDie.exe", "type": "Game" }
 { "name": "7DaysToDie_EAC.exe", "type": "Game" }
@@ -18,6 +21,13 @@
 
 # 10 Minute Tower https://store.steampowered.com/app/477010/10_Minute_Tower/
 { "name": "10MinuteTower.exe", "type": "Game" }
+
+# 30XX https://store.steampowered.com/app/1029210/30XX/
+{ "name": "30XX.exe", "type": "Game" }
+{ "name": "Editor30XX.exe", "type": "Game" }
+
+# 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
+{ "name": "60Seconds.exe", "type": "Game" }
 
 # 100% Orange Juice https://store.steampowered.com/app/282800/100_Orange_Juice/
 { "name": "100orange.exe", "type": "Game" }
@@ -35,3 +45,6 @@
 # 1348 Ex Voto DEMO https://store.steampowered.com/app/1895900/1348_Ex_Voto/
 { "name": "1348.exe", "type": "Game" }
 { "name": "P1348-Win64-Shipping.exe", "type": "Game" }
+
+# 1954 Alcatraz https://store.steampowered.com/app/255280/1954_Alcatraz/
+{ "name": "Alcatraz.exe", "type": "Game" }

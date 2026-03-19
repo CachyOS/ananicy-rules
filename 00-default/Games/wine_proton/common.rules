@@ -22,7 +22,11 @@
 { "name": "game.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
+# Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
 { "name": "Launcher.exe", "type": "Game" }
+
+# A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
+{ "name": "launcher.exe", "type": "Game" }
 
 # Guild Wars® Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
 # GUNTOUCHABLES https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
@@ -59,6 +63,10 @@
 # ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
 # PAC-MAN™ Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
+
+# Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
+# Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
+{ "name": "dowser.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
