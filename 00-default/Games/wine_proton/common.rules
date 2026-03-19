@@ -55,6 +55,9 @@
 # Grand Theft Auto V Enhanced https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
 { "name": "PlayGTAV.exe", "type": "Game" }
 
+# Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
+{ "name": "SteamWorksExample.exe", "type": "LowLatency_RT" }
+
 # Some KOEI TECMO Franchise's Game's
 { "name": "Launch.exe", "type": "Game" }
 { "name": "Launch_EA.exe", "type": "Game" }
