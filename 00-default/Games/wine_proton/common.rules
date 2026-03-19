@@ -55,12 +55,15 @@
 # Grand Theft Auto V Enhanced https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
 { "name": "PlayGTAV.exe", "type": "Game" }
 
+# ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
+# PAC-MAN™ Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
+{ "name": "PAC-MAN.exe", "type": "Game" }
+
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "LowLatency_RT" }
 
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
-
 
 # Some KOEI TECMO Franchise's Game's
 { "name": "Launch.exe", "type": "Game" }
