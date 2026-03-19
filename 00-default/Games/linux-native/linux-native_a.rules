@@ -65,6 +65,10 @@
 { "name": "Amnesia_NOSTEAM.bin.x86", "type": "Game" }
 { "name": "Amnesia_NOSTEAM.bin.x86_64", "type": "Game" }
 
+# Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
+{ "name": "anna", "type": "Game" }
+{ "name": "start", "type": "Game" }
+
 # Another World – 20th Anniversary Edition https://store.steampowered.com/app/233550/Another_World__20th_Anniversary_Edition/
 { "name": "AnotherWorld-amd64", "type": "Game" }
 
