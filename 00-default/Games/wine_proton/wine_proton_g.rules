@@ -200,9 +200,11 @@
 { "name": "GTAIV.exe", "type": "Game" }
 
 # Grand Theft Auto V Enhanced https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
-{ "name": "PlayGTAV.exe", "type": "Game" }
 { "name": "GTA5_Enhanced.exe", "type": "Game" }
 { "name": "GTA5_Enhanced_BE.exe", "type": "Game" }
+
+# Grand Theft Auto V Legacy https://store.steampowered.com/app/271590/Grand_Theft_Auto_V_Legacy/
+{ "name": "GTA5.exe", "type": "Game" }
 
 # Grand Theft Auto: San Andreas https://store.steampowered.com/app/12120/Grand_Theft_Auto_San_Andreas/
 { "name": "gta-sa.exe", "type": "Game" }
