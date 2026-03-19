@@ -253,6 +253,11 @@
 # ARC Raiders https://store.steampowered.com/app/1808500/ARC_Raiders/
 { "name": "PioneerGame.exe", "type": "Game" }
 
+# Arena Breakout: Infinite https://store.steampowered.com/app/2073620/Arena_Breakout_Infinite/
+{ "name": "UAGame.exe", "type": "Game" }
+{ "name": "arena_breakout_infinite_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "GameLoader.exe", "type": "BG_CPUIO" }
+
 # Arknights: Endfield https://endfield.gryphline.com/
 { "name": "Endfield.exe", "type": "Game" }
 
