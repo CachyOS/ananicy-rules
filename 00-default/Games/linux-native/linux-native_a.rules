@@ -49,6 +49,12 @@
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks", "type": "Game" }
 
+# Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
+{ "name": "AmnesiaAMFP.bin.x86", "type": "Game" }
+{ "name": "AmnesiaAMFP.bin.x86_64", "type": "Game" }
+{ "name": "Launcher.bin.x86", "type": "Game" }
+{ "name": "Launcher.bin.x86_64", "type": "Game" }
+
 # Amnesia: Rebirth https://store.steampowered.com/app/999220/Amnesia_Rebirth/
 { "name": "Amnesia2.bin.x86_64", "type": "Game" }
 { "name": "Amnesia2_NoSteam.bin.x86_64", "type": "Game" }
