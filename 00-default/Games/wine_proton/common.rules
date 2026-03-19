@@ -61,7 +61,7 @@
 { "name": "PAC-MAN.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
-{ "name": "SteamWorksExample.exe", "type": "LowLatency_RT" }
+{ "name": "SteamWorksExample.exe", "type": "Service" }
 
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
