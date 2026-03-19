@@ -348,6 +348,10 @@
 # CounterSide https://store.steampowered.com/app/1976440/CounterSide/
 { "name": "CounterSide.exe", "type": "Game"}
 
+# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
+{ "name": "cstrike.exe", "type": "Game" }
+{ "name": "cstrike_win64.exe", "type": "Game" }
+
 # Crab Champions https://store.steampowered.com/app/774801/Crab_Champions/
 { "name": "CrabChampions.exe", "type": "Game" }
 
