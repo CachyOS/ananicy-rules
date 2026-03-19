@@ -91,6 +91,7 @@
 { "name": "ZFGameBrowser.exe", "type": "Game" }
 { "name": "CoherentUI_Host.exe", "type": "Game" }
 { "name": "awesomium_process.exe", "type": "Game" }
+{ "name": "EOSBootstrapper.exe", "type": "Game" }
 
 # Background video player helper processes
 { "name": "CCVideoPlayer.exe", "type": "Game" }
