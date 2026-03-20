@@ -73,6 +73,12 @@
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "Baldur.exe", "type": "Game" }
 
+# Call to Arms https://store.steampowered.com/app/302670/Call_to_Arms/
+# Call to Arms - Gates of Hell: Ostfront https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
+{ "name": "call_to_arms.exe", "type": "Game" }
+{ "name": "call_to_arms_ed.exe", "type": "Game" }
+{ "name": "call_to_arms_server.exe", "type": "Game" }
+
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
 
