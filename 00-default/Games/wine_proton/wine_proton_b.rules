@@ -38,6 +38,7 @@
 # Baldur's Gate 3 https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 { "name": "bg3_dx11.exe", "type": "Game" }
 { "name": "bg3.exe", "type": "Game" }
+{ "name": "LariLauncher.exe", "type": "BG_CPUIO" }
 
 # BALL x PIT https://store.steampowered.com/app/2062430/BALL_x_PIT/
 { "name": "Balls.exe", "type": "Game" }
