@@ -7,7 +7,6 @@
 
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 { "name": "AcrossTheObelisk.x86_64", "type": "Game" }
-{ "name": "dowser", "type": "Game" }
 
 # A Dance of Fire and Ice https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 { "name": "ADanceOfFireAndIce", "type": "Game" }
@@ -40,6 +39,9 @@
 # Air Brawl https://store.steampowered.com/app/375600/Air_Brawl/
 { "name": "Air Brawl.x86", "type": "Game" }
 
+# Airline Tycoon Deluxe https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
+{ "name": "ATDeluxe", "type": "Game" }
+
 # Alien Isolation https://store.steampowered.com/app/214490/Alien_Isolation/
 { "name": "AlienIsolation", "type": "Game" }
 
@@ -67,7 +69,6 @@
 
 # Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
 { "name": "anna", "type": "Game" }
-{ "name": "start", "type": "Game" }
 
 # Another World – 20th Anniversary Edition https://store.steampowered.com/app/233550/Another_World__20th_Anniversary_Edition/
 { "name": "AnotherWorld-amd64", "type": "Game" }
@@ -104,3 +105,6 @@
 # Axiom Verge https://store.steampowered.com/app/332200/Axiom_Verge/
 { "name": "AxiomVerge.bin.x86", "type": "Game" }
 { "name": "AxiomVerge.bin.x86_64", "type": "Game" }
+
+# Axis & Allies 1942 Online https://store.steampowered.com/app/898920/Axis__Allies_1942_Online/
+{ "name": "AxisAndAllies1942Online", "type": "Game" }

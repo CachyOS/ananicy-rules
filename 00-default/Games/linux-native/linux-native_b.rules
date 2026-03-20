@@ -8,21 +8,35 @@
 # Backpack Battles https://store.steampowered.com/app/2427700/Backpack_Battles/
 { "name": "BackpackBattles.x86_64", "type": "Game" }
 
+# Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
+{ "name": "linux.x86_64", "type": "Game" }
+{ "name": "Lunar.x86_64", "type": "Game" }
+
+# Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
+{ "name": "BC", "type": "Game" }
+
 # Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
 { "name": "BattleNations", "type": "Game" }
 
+# BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
+{ "name": "BattleTech", "type": "Game" }
+
 # Baldur's Gate Store page is down https://store.steampowered.com/app/22828
-# https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
+# Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
 { "name": "BaldursGate", "type": "Game" }
 
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "BaldursGateII", "type": "Game" }
+
+# Baldur's Gate 3 https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
+{ "name": "bg3", "type": "Game" }
 
 # Banana https://store.steampowered.com/app/2923300/Banana/
 { "name": "Banana.x86_64", "type": "Game" }
 
 # Barony https://store.steampowered.com/app/371970/Barony/
 { "name": "barony.x86_64", "type": "Game" }
+{ "name": "editor.x86_64", "type": "Game" }
 
 # Barotrauma https://store.steampowered.com/app/602960/Barotrauma/
 { "name": "Barotrauma", "type": "Game" }
@@ -50,6 +64,9 @@
 # Blasphemous https://store.steampowered.com/app/774361/Blasphemous/
 { "name": "Blasphemous.x86_64", "type": "Game" }
 
+# BOOK OF HOURS https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/
+{ "name": "bh.x86_64", "type": "Game" }
+
 # Borderlands 2 https://store.steampowered.com/app/49520/Borderlands_2/
 { "name": "Borderlands2", "type": "Game" }
 
@@ -58,6 +75,12 @@
 
 # Bound By Flame https://store.steampowered.com/app/243930/Bound_By_Flame/
 { "name": "BoundByFlame", "type": "Game" }
+
+# Brutal Legend https://store.steampowered.com/app/225260/Brutal_Legend/
+{ "name": "Buddha.bin.x86", "type": "Game" }
+
+# Brutal Orchestra https://store.steampowered.com/app/1734320/Brutal_Orchestra/
+{ "name": "BrutalOrchestra.x86_64", "type": "Game" }
 
 # Buckshot Roulette https://store.steampowered.com/app/2835570/Buckshot_Roulette/
 { "name": "Buckshot Roulette.x86_64", "type": "Game" }

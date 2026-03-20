@@ -10,6 +10,7 @@
 
 # CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
 { "name": "CarX_Street.x86_64", "type": "Game" }
+{ "name": "eac_launcher", "type": "Game" }
 
 # Celeste https://store.steampowered.com/app/504230/Celeste/
 { "name": "Celeste.bin.x86_64", "type": "Game" }
@@ -23,8 +24,17 @@
 # Chocolate doom: https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom
 { "name": "chocolate-doom", "type": "Game" }
 
+# Chronicon https://store.steampowered.com/app/375480/Chronicon/
+{ "name": "Chronicon", "type": "Game" }
+
 # CiniCross https://store.steampowered.com/app/3933120/CiniCross/
 { "name": "CiniCross.x86_64", "type": "Game"}
+
+# Cities in Motion 2 https://store.steampowered.com/app/225420/Cities_in_Motion_2/
+{ "name": "Cities in Motion 2", "type": "Game" }
+
+# Cities in Motion https://store.steampowered.com/app/73010/Cities_in_Motion/
+{ "name": "Cities In Motion.bin", "type": "Game" }
 
 # Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.x64", "type": "Game" }
@@ -42,12 +52,21 @@
 # Codename CURE http://store.steampowered.com/app/355180/Codename_CURE/
 { "name": "cure_linux", "type": "Game" }
 
+# Coloring Pixels https://store.steampowered.com/app/897330/Coloring_Pixels/
+{ "name": "ColoringPixels", "type": "Game" }
+
 # Combat Master https://store.steampowered.com/app/2281730/Combat_Master
 { "name" : "CombatMaster.x86_64","type": "Game"}
 
-#Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
+# Comedy Night https://store.steampowered.com/app/665360/Comedy_Night/
+{ "name": "Comedy Night.x86_64", "type": "Game" }
+
+# Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name" : "CompanyOfHeroes2","type": "Game"}
 { "name" : "CompanyOfHeroes2.sh","type": "Game"}
+
+# Conquest of Elysium 5 https://store.steampowered.com/app/1606340/Conquest_of_Elysium_5/
+{ "name": "coe5.sh", "type": "Game" }
 
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper
 { "name": "CoreKeeper", "type": "Game" }
@@ -55,6 +74,9 @@
 # Counter-Strike 2 https://store.steampowered.com/app/730/CounterStrike_2/
 { "name": "csgo_linux64", "type": "Game" }
 { "name": "cs2", "type": "Game" }
+
+# Counter-Strike: Global Offensive https://store.steampowered.com/app/4465480/CounterStrikeGlobal_Offensive/
+{ "name": "cs2.sh", "type": "Game" }
 
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
 { "name": "cstrike.sh", "type": "Game" }
@@ -73,3 +95,6 @@
 
 # Crypt of the NecroDancer https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/
 { "name": "NecroDancer", "type": "Game" }
+
+# Cube Racer https://store.steampowered.com/app/705210/Cube_Racer/
+{ "name": "CubeRacer.x86", "type": "Game" }

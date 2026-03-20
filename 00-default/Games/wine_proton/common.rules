@@ -5,6 +5,7 @@
 # The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
 { "name": "player.exe", "type": "Game" }
 
+# CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
 # BLACK SOULS II https://store.steampowered.com/app/3855540/BLACK_SOULS_II/
 # BLACK SOULS https://store.steampowered.com/app/3755860/BLACK_SOULS/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
@@ -13,6 +14,7 @@
 # Rune Factory: Guardians of Azuma https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
 { "name": "Game.exe", "type": "Game" }
 
+# Dragon Cliff https://store.steampowered.com/app/758190/Dragon_Cliff/
 # Fish Idle 2: Underwater Mystery https://store.steampowered.com/app/3037410/Fish_Idle_2_Underwater_Mystery/
 # Castlevania Anniversary Collection https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
 # Bloodstained: Curse of the Moon 2 https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
@@ -23,8 +25,10 @@
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
 # Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
+# Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 { "name": "Launcher.exe", "type": "Game" }
 
+# CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
 # A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
 { "name": "launcher.exe", "type": "Game" }
 
@@ -64,9 +68,25 @@
 # PAC-MAN™ Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
 
+# Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
-{ "name": "dowser.exe", "type": "Game" }
+{ "name": "dowser.exe", "type": "BG_CPUIO" }
+
+# Baldur's Gate Store page is down https://store.steampowered.com/app/22828
+# Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
+# Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
+{ "name": "Baldur.exe", "type": "Game" }
+
+# Call to Arms https://store.steampowered.com/app/302670/Call_to_Arms/
+# Call to Arms - Gates of Hell: Ostfront https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
+{ "name": "call_to_arms.exe", "type": "Game" }
+{ "name": "call_to_arms_ed.exe", "type": "Game" }
+{ "name": "call_to_arms_server.exe", "type": "Game" }
+
+# DRAGON BALL XENOVERSE 2 https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
+# FREEDOM WARS Remastered https://store.steampowered.com/app/3004100/FREEDOM_WARS_Remastered/
+{ "name": "START.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }

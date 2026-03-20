@@ -218,8 +218,11 @@
 # RiMS Racing https://store.steampowered.com/app/1346010/RiMS_Racing/
 { "name": "RiMS.exe", "type": "Game" }
 
-# RimWorld - https://rimworldgame.com/
+# RimWorld https://rimworldgame.com/
 { "name": "RimWorldWin64.exe", "type": "Game" }
+
+# Risen https://store.steampowered.com/app/40300/Risen/
+{ "name": "Risen.exe", "type": "Game" }
 
 # Rise of Nations: Extended Edition https://store.steampowered.com/app/287450/Rise_of_Nations_Extended_Edition/
 { "name": "riseofnations.exe", "type": "Game" }
