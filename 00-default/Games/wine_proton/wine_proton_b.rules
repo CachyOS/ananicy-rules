@@ -205,8 +205,9 @@
 # Beyond The Wire https://store.steampowered.com/app/1058650/Beyond_The_Wire/
 { "name": "WireGame.exe", "type": "Game" }
 
-# Beyond Two Souls via Proton, https://store.steampowered.com/app/960990/Beyond_Two_Souls/
+# Beyond Two Souls https://store.steampowered.com/app/960990/Beyond_Two_Souls/
 { "name": "BeyondTwoSouls_", "type": "Game" }
+{ "name": "BeyondTwoSouls_Steam.exe", "type": "Game" }
 
 # Beyond Good & Evil - 20th Anniversary Edition https://store.steampowered.com/app/2556990/Beyond_Good__Evil__20th_Anniversary_Edition/
 { "name": "bge.exe", "type": "Game" }
