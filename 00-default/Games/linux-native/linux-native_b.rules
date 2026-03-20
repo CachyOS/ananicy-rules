@@ -30,6 +30,7 @@
 
 # Barony https://store.steampowered.com/app/371970/Barony/
 { "name": "barony.x86_64", "type": "Game" }
+{ "name": "editor.x86_64", "type": "Game" }
 
 # Barotrauma https://store.steampowered.com/app/602960/Barotrauma/
 { "name": "Barotrauma", "type": "Game" }
