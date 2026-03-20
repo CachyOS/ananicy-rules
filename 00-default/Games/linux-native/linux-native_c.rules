@@ -52,10 +52,13 @@
 # Codename CURE http://store.steampowered.com/app/355180/Codename_CURE/
 { "name": "cure_linux", "type": "Game" }
 
+# Coloring Pixels https://store.steampowered.com/app/897330/Coloring_Pixels/
+{ "name": "ColoringPixels", "type": "Game" }
+
 # Combat Master https://store.steampowered.com/app/2281730/Combat_Master
 { "name" : "CombatMaster.x86_64","type": "Game"}
 
-#Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
+# Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name" : "CompanyOfHeroes2","type": "Game"}
 { "name" : "CompanyOfHeroes2.sh","type": "Game"}
 
