@@ -30,6 +30,9 @@
 # Death Road to Canada https://store.steampowered.com/app/252610/Death_Road_to_Canada/
 { "name": "prog-linux", "type": "Game" }
 
+# Decay: The Mare https://store.steampowered.com/app/323720/Decay_The_Mare/
+{ "name": "Decay - The Mare.x86", "type": "Game" }
+
 # DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
 { "name": "DDNet", "type": "Game" }
 { "name": "DDNet-Server", "type": "LowLatency_RT" }
