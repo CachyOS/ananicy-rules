@@ -266,6 +266,12 @@
 # Devil May Cry 5 https://store.steampowered.com/app/601150/Devil_May_Cry_5/
 { "name": "DevilMayCry5.exe", "type": "Game" }
 
+# Devil May Cry HD Collection https://store.steampowered.com/app/631510/Devil_May_Cry_HD_Collection/
+{ "name": "dmcLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "dmc1.exe", "type": "Game" }
+{ "name": "dmc2.exe", "type": "Game" }
+{ "name": "dmc3.exe", "type": "Game" }
+
 # DEVOUR https://store.steampowered.com/app/1274570/DEVOUR/
 { "name": "DEVOUR.exe", "type": "Game" }
 
