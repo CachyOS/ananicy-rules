@@ -68,6 +68,10 @@
 # Divinity: Original Sin - Enhanced Edition https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 { "name": "EoCApp", "type": "Game" }
 
+# Do Not Feed the Monkeys https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/
+{ "name": "dnftm.x86", "type": "Game" }
+{ "name": "dnftm.x86_64", "type": "Game" }
+
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam", "type": "Game" }
