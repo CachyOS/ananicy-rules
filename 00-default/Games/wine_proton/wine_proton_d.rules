@@ -389,6 +389,11 @@
 # Do Not Feed the Monkeys https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/
 { "name": "dnftm.exe", "type": "Game" }
 
+# Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
+# Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
+{ "name": "dontstarve_steam.exe", "type": "Game" }
+{ "name": "dontstarve_steam_x64.exe", "type": "Game" }
+
 # Don't Stop, Girlypop! https://store.steampowered.com/app/2610650/Dont_Stop_Girlypop/
 { "name": "INCOLATUS.exe", "type": "Game" }
 { "name": "INCOLATUS-Win64-Shipping.exe", "type": "Game" }
