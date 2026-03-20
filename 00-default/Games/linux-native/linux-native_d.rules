@@ -24,6 +24,9 @@
 { "name": "Dead In Vinland.x86", "type": "Game" }
 { "name": "Dead In Vinland.x86_64", "type": "Game" }
 
+# Dead Island: Riptide Definitive Edition https://store.steampowered.com/app/383180/Dead_Island_Riptide_Definitive_Edition/
+{ "name": "DeadIslandRiptideGame", "type": "Game" }
+
 # DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
 { "name": "DDNet", "type": "Game" }
 { "name": "DDNet-Server", "type": "LowLatency_RT" }
