@@ -89,6 +89,10 @@
 # Dead Bits https://store.steampowered.com/app/303390/Dead_Bits/
 { "name": "Dead Bits.exe", "type": "Game" }
 
+# Dead Cells https://store.steampowered.com/app/588650/Dead_Cells/
+{ "name": "deadcells.exe", "type": "Game" }
+{ "name": "deadcells_gl.exe", "type": "Game" }
+
 # Dead by Daylight https://store.steampowered.com/app/381210/Dead_by_Daylight/
 { "name": "DeadByDaylight.exe", "type": "Game" }
 { "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
