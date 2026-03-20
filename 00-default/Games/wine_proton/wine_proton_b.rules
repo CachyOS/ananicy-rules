@@ -249,6 +249,11 @@
 # Black Sails - The Ghost Ship https://store.steampowered.com/app/373240/Black_Sails__The_Ghost_Ship/
 { "name": "BlackSails.exe", "type": "Game" }
 
+# Black Squad https://store.steampowered.com/app/550650/Black_Squad/
+{ "name": "BSLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "BlackSquadGame_BELauncher.exe", "type": "BG_CPUIO" }
+{ "name": "BlackSquadGame.exe", "type": "Game" }
+
 # BLACKTAIL https://store.steampowered.com/app/1532690/BLACKTAIL/
 { "name": "BLACKTAIL.exe", "type": "Game" }
 { "name": "BLACKTAIL-Win64-Shipping.exe", "type": "Game" }
