@@ -495,6 +495,10 @@
 { "name": "CryoFall_Client.exe", "type": "Game" }
 { "name": "CryoFall Client.exe", "type": "Game" }
 
+# Cube Racer https://store.steampowered.com/app/705210/Cube_Racer/
+{ "name": "CubeRacer.exe", "type": "Game" }
+{ "name": "CubeRacerServer.exe", "type": "Service" }
+
 # Cult of the Lamb https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/
 { "name": "Cult Of The Lamb.exe", "type": "Game" }
 
