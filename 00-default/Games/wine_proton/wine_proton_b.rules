@@ -135,6 +135,10 @@
 # Battlerite https://www.battlerite.com
 { "name": "Battlerite.exe", "type": "Game" }
 
+# Battle Royale Trainer https://store.steampowered.com/app/772540/Battle_Royale_Trainer/
+{ "name": "BattleRoyaleTrainer.exe", "type": "Game" }
+{ "name": "BattleRoyaleTrainer-Win64-Shipping.exe", "type": "Game" }
+
 # BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
 { "name": "BattleTech.exe", "type": "Game" }
 
