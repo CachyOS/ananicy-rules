@@ -27,6 +27,9 @@
 # Dead Island: Riptide Definitive Edition https://store.steampowered.com/app/383180/Dead_Island_Riptide_Definitive_Edition/
 { "name": "DeadIslandRiptideGame", "type": "Game" }
 
+# Death Road to Canada https://store.steampowered.com/app/252610/Death_Road_to_Canada/
+{ "name": "prog-linux", "type": "Game" }
+
 # DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
 { "name": "DDNet", "type": "Game" }
 { "name": "DDNet-Server", "type": "LowLatency_RT" }
