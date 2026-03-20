@@ -141,6 +141,7 @@
 
 # BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
 { "name": "BattleTech.exe", "type": "Game" }
+{ "name": "BattleTechLauncher.exe", "type": "BG_CPUIO" }
 
 # Battletoads https://store.steampowered.com/app/1244950/Battletoads/
 { "name": "Battletoads.exe", "type": "Game" }
