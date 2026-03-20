@@ -40,6 +40,10 @@
 { "name": "bg3.exe", "type": "Game" }
 { "name": "LariLauncher.exe", "type": "BG_CPUIO" }
 
+# Baldur's Gate Store page is down https://store.steampowered.com/app/22828
+# Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
+{ "name": "Baldur.exe", "type": "Game" }
+
 # BALL x PIT https://store.steampowered.com/app/2062430/BALL_x_PIT/
 { "name": "Balls.exe", "type": "Game" }
 
