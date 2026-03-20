@@ -499,6 +499,9 @@
 { "name": "CubeRacer.exe", "type": "Game" }
 { "name": "CubeRacerServer.exe", "type": "Service" }
 
+# Cubic Odyssey https://store.steampowered.com/app/3400000/Cubic_Odyssey/
+{ "name": "CubicOdysseySteam.exe", "type": "Game" }
+
 # Cult of the Lamb https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/
 { "name": "Cult Of The Lamb.exe", "type": "Game" }
 
