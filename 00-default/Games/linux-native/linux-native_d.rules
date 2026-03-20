@@ -9,6 +9,10 @@
 { "name": "Danganronpa2", "type": "Game" }
 { "name": "Danganronpa2_32", "type": "Game" }
 
+# Darkest Dungeon® https://store.steampowered.com/app/262060/Darkest_Dungeon/
+{ "name": "darkest.bin.x86", "type": "Game" }
+{ "name": "darkest.bin.x86_64", "type": "Game" }
+
 # Darkwood https://store.steampowered.com/app/274520/Darkwood/
 { "name": "Darkwood.x86_64", "type": "Game" }
 
