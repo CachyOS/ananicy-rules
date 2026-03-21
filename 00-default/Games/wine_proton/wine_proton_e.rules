@@ -59,7 +59,10 @@
 
 # eFootball https://store.steampowered.com/app/1665460/eFootball/
 { "name" : "eFootball.exe", "type": "Game" }
-{ "name" : "Settings.exe", "type": "Game" }
+{ "name" : "Settings.exe", "type": "BG_CPUIO" }
+
+# eFootball  PES 2020 https://store.steampowered.com/app/996470/eFootball__PES_2020/
+{ "name": "PES2020.exe", "type": "Game" }
 
 # Eden Crafters https://store.steampowered.com/app/2570210/Eden_Crafters/
 { "name": "EdenCrafters.exe", "type": "Game" }
