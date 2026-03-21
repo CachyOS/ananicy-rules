@@ -37,6 +37,9 @@
 # Enter the Gungeon https://store.steampowered.com/app/311690/Enter_the_Gungeon/
 { "name": "EtG.x86_64", "type": "Game" }
 
+# Escape Simulator https://store.steampowered.com/app/1435790/Escape_Simulator/
+{ "name": "EscapeSimulator", "type": "Game" }
+
 # etlegacy https://github.com/etlegacy/etlegacy
 { "name": "et", "type": "Game" }
 { "name": "et.x86", "type": "Game" }
