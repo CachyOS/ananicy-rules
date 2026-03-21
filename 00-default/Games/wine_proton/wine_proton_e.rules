@@ -104,6 +104,10 @@
 { "name": "EotU.exe", "type": "Game" }
 { "name": "EotU-Win64-Shipping.exe", "type": "Game" }
 
+# Empyrion - Galactic Survival https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
+{ "name": "EmpyrionLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Empyrion.exe", "type": "Game" }
+
 # ENCHAIN https://store.steampowered.com/app/1396870/ENCHAIN/
 { "name": "ENCHAIN.exe", "type": "Game" }
 
