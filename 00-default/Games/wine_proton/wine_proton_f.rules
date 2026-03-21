@@ -5,7 +5,11 @@
 
 ### F ###
 
-#  F1® Manager 2024 https://store.steampowered.com/app/2591280/F1_Manager_2024/
+# F1 2020 https://store.steampowered.com/app/1080110/F1_2020/
+{ "name": "F1_2020.exe", "type": "Game" }
+{ "name": "F1_2020_dx12.exe", "type": "Game" }
+
+# F1® Manager 2024 https://store.steampowered.com/app/2591280/F1_Manager_2024/
 { "name": "F1Manager24.exe", "type": "Game" }
 
 # F1® Manager 2023 https://store.steampowered.com/app/2287220/F1_Manager_2023/
