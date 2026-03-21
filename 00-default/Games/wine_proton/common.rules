@@ -89,6 +89,11 @@
 # FREEDOM WARS Remastered https://store.steampowered.com/app/3004100/FREEDOM_WARS_Remastered/
 { "name": "START.exe", "type": "Game" }
 
+# EverQuest https://store.steampowered.com/app/205710/EverQuest/
+# EverQuest II https://store.steampowered.com/app/201230/EverQuest_II/
+# DC Universe Online https://store.steampowered.com/app/24200/DC_Universe_Online/
+{ "name": "LaunchPad.exe", "type": "BG_CPUIO" }
+
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
 
