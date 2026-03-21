@@ -284,6 +284,10 @@
 # Guilty as Sock! https://store.steampowered.com/app/3400930/Guilty_as_Sock/
 { "name": "StandaloneWindows64.exe", "type": "Game" }
 
+# GUILTY GEAR -STRIVE- https://store.steampowered.com/app/1384160/GUILTY_GEAR_STRIVE/
+{ "name": "GGST.exe", "type": "Game" }
+{ "name": "GGST-Win64-Shipping.exe", "type": "Game" }
+
 # GUN™ https://store.steampowered.com/app/2610/GUN/
 { "name": "Gun.exe", "type": "Game" }
 
