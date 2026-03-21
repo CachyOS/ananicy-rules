@@ -5,11 +5,26 @@
 
 ### E ###
 
+# Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
+{ "name": "Earth2160Editor_START.exe", "type": "Game" }
+{ "name": "Earth2160_START.exe", "type": "Game" }
+{ "name": "Puzzle.exe", "type": "Game" }
+
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
 # Easy Delivery Co. https://store.steampowered.com/app/3293010/Easy_Delivery_Co/
 { "name": "EasyDeliveryCo.exe", "type": "Game" }
+
+# Easy Red 2 https://store.steampowered.com/app/1324780/Easy_Red_2/
+{ "name": "Easy Red 2.exe", "type": "Game" }
+
+# Easy Red https://store.steampowered.com/app/741670/Easy_Red/
+{ "name": "EasyRed.exe", "type": "Game" }
+
+# EA SPORTS FC 24 https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/
+{ "name": "FC24_Trial.exe", "type": "Game" }
+{ "name": "FC24.exe", "type": "Game" }
 
 # EA SPORTS FC™ 25 https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
 { "name": "FC25_Trial.exe", "type": "Game" }
@@ -19,6 +34,10 @@
 { "name": "FC26_Trial.exe", "type": "Game" }
 { "name": "FC26_Showcase.exe", "type": "Game" }
 { "name": "FC26.exe", "type": "Game" }
+
+# EA SPORTS FIFA 23 https://store.steampowered.com/app/1811260/EA_SPORTS_FIFA_23/
+{ "name": "FIFA23_Trial.exe", "type": "Game" }
+{ "name": "FIFA23.exe", "type": "Game" }
 
 # EA SPORTS™ Madden NFL 26 https://store.steampowered.com/app/3230400/EA_SPORTS_Madden_NFL_26/#
 { "name": "Madden26.exe", "type": "Game" }
@@ -40,7 +59,10 @@
 
 # eFootball https://store.steampowered.com/app/1665460/eFootball/
 { "name" : "eFootball.exe", "type": "Game" }
-{ "name" : "Settings.exe", "type": "Game" }
+{ "name" : "Settings.exe", "type": "BG_CPUIO" }
+
+# eFootball  PES 2020 https://store.steampowered.com/app/996470/eFootball__PES_2020/
+{ "name": "PES2020.exe", "type": "Game" }
 
 # Eden Crafters https://store.steampowered.com/app/2570210/Eden_Crafters/
 { "name": "EdenCrafters.exe", "type": "Game" }
@@ -49,11 +71,20 @@
 # Edge Of Eternity https://store.steampowered.com/app/269190/Edge_Of_Eternity/
 { "name": "EdgeOfEternity.exe", "type": "Game" }
 
+# Eldegarde https://store.steampowered.com/app/2344320/Eldegarde/
+{ "name": "ProjectHonorClient.exe", "type": "Game" }
+
 # ELDEN RING https://store.steampowered.com/app/1245620/ELDEN_RING/
 { "name": "eldenring.exe", "type": "Game" }
 
 # ELDEN RING NIGHTREIGN https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/
 { "name": "nightreign.exe", "type": "Game" }
+
+# ELEX https://store.steampowered.com/app/411300/ELEX/
+{ "name": "ELEX.exe", "type": "Game" }
+
+# ELEX 2 https://store.steampowered.com/app/900040/ELEX_II/
+{ "name": "ELEX2.exe", "type": "Game" }
 
 # Elin https://store.steampowered.com/app/2135150/Elin/
 { "name": "Elin.exe", "type": "Game" }
@@ -65,19 +96,56 @@
 # Emberbane https://store.steampowered.com/app/2085310/Emberbane/
 { "name": "Emberbane.exe", "type": "Game" }
 
+# EMERGENCY 4 Deluxe https://store.steampowered.com/app/757210/EMERGENCY_4_Deluxe/
+{ "name": "Em4.exe", "type": "Game" }
+{ "name": "ModInstaller.exe", "type": "Game" }
+
 # Empires of the Undergrowth https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/
 { "name": "EotU.exe", "type": "Game" }
 { "name": "EotU-Win64-Shipping.exe", "type": "Game" }
 
+# Empyrion - Galactic Survival https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
+{ "name": "EmpyrionLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Empyrion.exe", "type": "Game" }
+
 # ENCHAIN https://store.steampowered.com/app/1396870/ENCHAIN/
 { "name": "ENCHAIN.exe", "type": "Game" }
+
+# Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
+{ "name": "harvey.exe", "type": "Game" }
+{ "name": "harvey64.exe", "type": "Game" }
+
+# Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
+{ "name": "Edna.exe", "type": "Game" }
+{ "name": "edna.exe", "type": "Game" }
 
 # ENDER LILIES: Quietus of the Knights https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
 { "name": "EnderLiliesSteam-Win64-Shipping.exe", "type": "Game" }
 { "name": "EnderLilies.exe", "type": "Game" }
 
+# ENDER MAGNOLIA: Bloom in the Mist https://store.steampowered.com/app/2725260/ENDER_MAGNOLIA_Bloom_in_the_Mist/
+{ "name": "EnderMagnolia.exe", "type": "Game" }
+{ "name": "EnderMagnoliaSteam-Win64-Shipping.exe", "type": "Game" }
+
+# ENDLESS Space 2 https://store.steampowered.com/app/392110/ENDLESS_Space_2/
+{ "name": "EndlessSpace2.exe", "type": "Game" }
+
+# ENDLESS Space - Definitive Edition https://store.steampowered.com/app/208140/ENDLESS_Space__Definitive_Edition/
+{ "name": "EndlessSpace.exe", "type": "Game" }
+
+# Endorphin Vice https://store.steampowered.com/app/1861610/Endorphin_Vice/
+{ "name": "EndorphinVice.exe", "type": "Game" }
+{ "name": "EndorphinVice-Win64-Shipping.exe", "type": "Game" }
+
+# Endzone - A World Apart https://store.steampowered.com/app/933820/Endzone__A_World_Apart/
+{ "name": "Endzone.exe", "type": "Game" }
+
 # Enigma do Medo (Enigma of Fear) https://store.steampowered.com/app/1507580/Enigma_do_Medo/
 { "name": "Enigma.exe", "type": "Game" }
+
+# Enlisted https://store.steampowered.com/app/2051620/Enlisted/
+{ "name": "enlisted_BE.exe", "type": "Game" }
+{ "name": "enlisted.exe", "type": "Game" }
 
 # ENSLAVED™: Odyssey to the West™ Premium Edition https://store.steampowered.com/app/245280/ENSLAVED_Odyssey_to_the_West_Premium_Edition/
 { "name": "Enslaved.exe", "type": "Game" }
@@ -141,6 +209,20 @@
 # EVE Online https://store.steampowered.com/app/8500/EVE_Online/
 { "name": "eve-online.exe", "type": "Game" }
 
+# Everlasting Summer https://store.steampowered.com/app/331470/Everlasting_Summer/
+{ "name": "Everlasting Summer-32.exe", "type": "Game" }
+{ "name": "Everlasting Summer.exe", "type": "Game" }
+
+# EverQuest https://store.steampowered.com/app/205710/EverQuest/
+{ "name": "eqgame.exe", "type": "Game" }
+
+# EverQuest II https://store.steampowered.com/app/201230/EverQuest_II/
+{ "name": "EverQuest2.exe", "type": "Game" }
+
+# EVERSPACE 2 https://store.steampowered.com/app/1128920/EVERSPACE_2/
+{ "name": "Everspace2.exe", "type": "Game" }
+{ "name": "ES2-Win64-Shipping.exe", "type": "Game" }
+
 # Everwind https://store.steampowered.com/app/2253100/Everwind/
 { "name": "Everwind.exe", "type": "Game" }
 
@@ -154,6 +236,15 @@
 # Evil West https://store.steampowered.com/app/1065310/Evil_West/
 { "name": "EvilWest.exe", "type": "Game" }
 { "name": "HighMoon-Win64-Shipping.exe", "type": "Game" }
+
+# Exanima https://store.steampowered.com/app/362490/Exanima/
+{ "name": "Exanima.exe", "type": "Game" }
+
+# Expeditions: Rome https://store.steampowered.com/app/987840/Expeditions_Rome/
+{ "name": "ExpeditionsRome-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ExpeditionsRome.exe", "type": "Game" }
+{ "name": "Rome-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Rome.exe", "type": "Game" }
 
 # Expeditions: A MudRunner Game https://store.steampowered.com/app/2477340/Expeditions_A_MudRunner_Game/
 { "name": "Expeditions.exe", "type": "Game" }

@@ -5,7 +5,14 @@
 
 ### F ###
 
-#  F1® Manager 2024 https://store.steampowered.com/app/2591280/F1_Manager_2024/
+# F1 24 https://store.steampowered.com/app/2488620/F1_24/
+{ "name": "F1_24.exe", "type": "Game" }
+
+# F1 2020 https://store.steampowered.com/app/1080110/F1_2020/
+{ "name": "F1_2020.exe", "type": "Game" }
+{ "name": "F1_2020_dx12.exe", "type": "Game" }
+
+# F1® Manager 2024 https://store.steampowered.com/app/2591280/F1_Manager_2024/
 { "name": "F1Manager24.exe", "type": "Game" }
 
 # F1® Manager 2023 https://store.steampowered.com/app/2287220/F1_Manager_2023/
@@ -17,6 +24,9 @@
 # Fable - The Lost Chapters https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters
 { "name": "Fable.exe", "type": "Game" }
 
+# Factorio https://store.steampowered.com/app/427520/Factorio/
+{ "name": "Factorio.exe", "type": "Game" }
+
 # Faery - Legends of Avalon https://store.steampowered.com/app/303790/Faery__Legends_of_Avalon/
 { "name": "FaerySteam.exe", "type": "Game" }
 
@@ -25,6 +35,10 @@
 
 # FAIRY TAIL 2 https://store.steampowered.com/app/3002850/FAIRY_TAIL_2/
 { "name": "FAIRY_TAIL_2.exe", "type": "Game" }
+
+# FAITH: The Unholy Trinity https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/
+{ "name": "FAITH.exe", "type": "Game" }
+{ "name": "FAITH Demon Siege.exe", "type": "Game" }
 
 # Fallen Tear: The Ascension https://store.steampowered.com/app/1446900/Fallen_Tear_The_Ascension/
 { "name": "FallenTear.exe", "type": "Game" }
@@ -103,6 +117,9 @@
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "SolarlandClient.exe", "type": "Game" }
 
+# Farmer's Life https://store.steampowered.com/app/1137750/Farmers_Life/
+{ "name": "FarmersLife.exe", "type": "Game" }
+
 # Farming Simulator 15 https://store.steampowered.com/app/313160/Farming_Simulator_15/
 { "name": "FarmingSimulator2015.exe", "type": "Game" }
 { "name": "FarmingSimulator2015Game.exe", "type": "Game" }
@@ -143,6 +160,10 @@
 # FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse https://store.steampowered.com/app/2130460/FATAL_FRAME__PROJECT_ZERO_Mask_of_the_Lunar_Eclipse/
 { "name": "FATAL_FRAME_MOL.exe", "type": "Game" }
 
+# FATAL FURY: City of the Wolves https://store.steampowered.com/app/2492040/FATAL_FURY_City_of_the_Wolves/
+{ "name": "FATAL FURY City of the Wolves.exe", "type": "Game" }
+{ "name": "CotW-Win64-Shipping.exe", "type": "Game" }
+
 # Fate/Samurai Remnant https://store.steampowered.com/app/1902690/FateSamurai_Remnant/
 { "name": "FateSamuraiRemnant.exe", "type": "Game" }
 
@@ -161,8 +182,15 @@
 # Fears to Fathom - Ironbark Lookout https://store.steampowered.com/app/2506160/Fears_to_Fathom__Ironbark_Lookout/
 { "name": "Fears to Fathom - Ironbark Lookout.exe", "type": "Game" }
 
+# Feed and Grow: Fish https://store.steampowered.com/app/429050/Feed_and_Grow_Fish/
+{ "name": "Feed and Grow.exe", "type": "Game" }
+{ "name": "FeedAndGrowFishLauncher.exe", "type": "BG_CPUIO" }
+
 # Feed the Cups https://store.steampowered.com/app/2336220/Feed_the_Cups/
 { "name": "Feed the Cups.exe", "type": "Game" }
+
+# Feign https://store.steampowered.com/app/1436990/Feign/
+{ "name": "Feign.exe", "type": "Game" }
 
 # Fellowship (By Chief Rebel Games. Not to be confused with Fellowship by Elraim Studio.) https://store.steampowered.com/app/2352620/Fellowship/
 { "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
@@ -172,6 +200,10 @@
 
 # Fields of Mistria https://store.steampowered.com/app/2142790/Fields_of_Mistria/
 { "name": "FieldsOfMistria.exe", "type": "Game" }
+
+# FIFA 22 https://store.steampowered.com/app/1506830/FIFA_22/
+{ "name": "FIFA22_Trial.exe", "type": "Game" }
+{ "name": "FIFA22.exe", "type": "Game" }
 
 # Final Exam https://store.steampowered.com/app/233190/Final_Exam/
 { "name": "final_exam.exe", "type": "Game" }
@@ -306,6 +338,9 @@
 # Forspoken https://store.steampowered.com/app/1680880/Forspoken/
 { "name": "FORSPOKEN.exe", "type": "Game" }
 
+# For The King https://store.steampowered.com/app/527230/For_The_King/
+{ "name": "FTK.exe", "type": "Game" }
+
 # For The King II https://store.steampowered.com/app/1676840/For_The_King_II/
 { "name": "For The King II.exe", "type": "Game" }
 
@@ -334,6 +369,9 @@
 # FragPunk https://store.steampowered.com/app/2943650/FragPunk/
 { "name": "FragPunk.exe", "type": "Game" }
 { "name": "FragNeacClient.exe", "type": "Game" }
+
+# Fran Bow https://store.steampowered.com/app/362680/Fran_Bow/
+{ "name": "Fran Bow.exe", "type": "Game" }
 
 # Freddy Fazbear's Pizzeria Simulator https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
 { "name": "Pizzeria Simulator.exe", "type": "Game" }

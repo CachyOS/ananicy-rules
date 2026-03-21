@@ -83,7 +83,6 @@
 { "name": "DCS.exe", "type": "Game" }
 
 # DC Universe Online https://store.steampowered.com/app/24200/DC_Universe_Online/
-{ "name": "LaunchPad.exe", "type": "Game" }
 { "name": "DCGAME.EXE", "type": "Game" }
 
 # Dead Bits https://store.steampowered.com/app/303390/Dead_Bits/
@@ -556,8 +555,25 @@
 { "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
 { "name": "DuneSandbox_BE.exe", "type": "Game" }
 
+# Dungeon Clawler https://store.steampowered.com/app/2356780/Dungeon_Clawler/
+{ "name": "DungeonClawler.exe", "type": "Game" }
+
+# Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
+{ "name": "DunDefGame.exe", "type": "Game" }
+{ "name": "DungeonDefenders.exe", "type": "Game" }
+
+# Dungeon Fighter Online https://store.steampowered.com/app/495910/Dungeon_Fighter_Online/
+{ "name": "DFO.exe", "type": "Game" }
+{ "name": "NeopleLauncher.exe", "type": "BG_CPUIO" }
+
 # Dungeon-Party https://store.steampowered.com/app/215870/DungeonParty/
 { "name": "berkelium.exe", "type": "Game" }
+
+# Dungeons 2 https://store.steampowered.com/app/262280/Dungeons_2/
+{ "name": "Dungeons2.exe", "type": "Game" }
+
+# Dungeons & Dragons Online https://store.steampowered.com/app/206480/Dungeons__Dragons_Online/
+{ "name": "DNDLauncher.exe", "type": "Game" }
 
 # Dungeon Siege https://store.steampowered.com/app/39190/Dungeon_Siege/
 { "name": "DungeonSiege.exe", "type": "Game" }
@@ -568,9 +584,11 @@
 # Dungeon Siege III https://store.steampowered.com/app/39160/Dungeon_Siege_III/
 { "name": "Dungeon Siege III.exe", "type": "Game" }
 
-# Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
-{ "name": "DunDefGame.exe", "type": "Game" }
-{ "name": "DungeonDefenders.exe", "type": "Game" }
+# Dungeon Tycoon https://store.steampowered.com/app/2400770/Dungeon_Tycoon/
+{ "name": "DungeonTycoon.exe", "type": "Game" }
+
+# Dungreed https://store.steampowered.com/app/753420/Dungreed/
+{ "name": "Dungreed.exe", "type": "Game" }
 
 # Dust: An Elysian Tail https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
 { "name": "DustAET.exe", "type": "Game" }
@@ -599,6 +617,10 @@
 
 # DYNASTY WARRIORS: ORIGINS https://store.steampowered.com/app/2384580/DYNASTY_WARRIORS_ORIGINS/
 { "name": "DWORIGINS.exe", "type": "Game" }
+
+# DYSMANTLE https://store.steampowered.com/app/846770/DYSMANTLE/
+{ "name": "DYSMANTLE-OpenGL.exe", "type": "Game" }
+{ "name": "DYSMANTLE.exe", "type": "Game" }
 
 # Dyson Sphere Program https://store.steampowered.com/app/1366540/Dyson_Sphere_Program/
 { "name": "DSPGAME.exe", "type": "Game" }
