@@ -313,3 +313,6 @@
 # GWENT: The Witcher Card Game https://store.steampowered.com/app/1284410/GWENT_The_Witcher_Card_Game/
 { "name": "REDprelauncher.exe", "type": "BG_CPUIO" }
 { "name": "Gwent.exe", "type": "Game" }
+
+# Gym Simulator 24 https://store.steampowered.com/app/2559270/Gym_Simulator_24/
+{ "name": "GymSimulator24.exe", "type": "Game" }
