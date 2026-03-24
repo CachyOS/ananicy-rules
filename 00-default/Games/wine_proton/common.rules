@@ -29,6 +29,7 @@
 # Eador. Masters of the Broken World https://store.steampowered.com/app/232050/Eador_Masters_of_the_Broken_World/
 # Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
+# AI: The Somnium Files https://store.steampowered.com/app/948740/AI_The_Somnium_Files/
 { "name": "Launcher.exe", "type": "Game" }
 
 # CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
@@ -104,6 +105,19 @@
 # Haydee 2 https://store.steampowered.com/app/1444650/Haydee_2/
 # Haydee 3 https://store.steampowered.com/app/3508770/Haydee_3/
 { "name": "SteamGame.exe", "type": "Game" }
+
+# Age of Darkness: Final Stand https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/
+# Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
+{ "name": "Achilles.exe", "type": "Game" }
+{ "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
+
+# Airships: Conquer the Skies https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/
+# Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
+{ "name": "Airships.exe", "type": "Game" }
+
+# Alien Shooter https://store.steampowered.com/app/33100/Alien_Shooter/
+# Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
+{ "name": "AlienShooter.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }

@@ -57,10 +57,6 @@
 # Accel World VS. Sword Art Online Deluxe Edition https://store.steampowered.com/app/607880/Accel_World_VS_Sword_Art_Online_Deluxe_Edition/
 { "name": "AWVSSAO.exe", "type": "Game" }
 
-# Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
-{ "name": "Achilles.exe", "type": "Game" }
-{ "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
-
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 { "name": "AcrossTheObelisk.exe", "type": "Game" }
 
@@ -131,9 +127,7 @@
 # Ages of Conflict: World War Simulator https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/
 { "name": "Ages of Conflict.exe", "type": "Game" }
 
-# Age of Darkness: Final Stand https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/
-{ "name": "Achilles.exe", "type": "Game" }
-{ "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
+
 
 # Age of Empires https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/
 { "name": "AoEDE_s.exe", "type": "Game" }
@@ -195,11 +189,7 @@
 # AirMech https://store.steampowered.com/app/206500/AirMech/
 { "name": "AirMech.exe", "type": "Game" }
 
-# Airships: Conquer the Skies https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/
-{ "name": "Airships.exe", "type": "Game" }
-
 # AI: The Somnium Files https://store.steampowered.com/app/948740/AI_The_Somnium_Files/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "AI_TheSomniumFiles.exe", "type": "Game" }
 
 # AI War 2 https://store.steampowered.com/app/573410/AI_War_2/
@@ -260,12 +250,6 @@
 # Aliens: Fireteam Elite https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/
 { "name": "Endeavor.exe", "type": "Game" }
 { "name": "Endeavor-Win64-Shipping.exe", "type": "Game" }
-
-# Alien Shooter https://store.steampowered.com/app/33100/Alien_Shooter/
-{ "name": "AlienShooter.exe", "type": "Game" }
-
-# Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
-{ "name": "AlienShooter.exe", "type": "Game" }
 
 # Aliens versus Predator Classic 2000 https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
 { "name": "AvP_Classic.exe", "type": "Game" }
