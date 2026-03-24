@@ -13,13 +13,21 @@
 
 # Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
 { "name": "Airships 2.exe", "type": "Game" }
-{ "name": "Airships.exe", "type": "Game" }
+
+# Land of the Vikings https://store.steampowered.com/app/1981570/Land_of_the_Vikings/
+{ "name": "VikingOyunu.exe", "type": "Game" }
+{ "name": "VikingOyunu-Win64-Shipping.exe", "type": "Game" }
 
 # L.A. Noire https://store.steampowered.com/app/110800/LA_Noire/
 { "name": "LANoire.exe", "type": "Game" }
 
 # Last Epoch https://store.steampowered.com/app/899770/Last_Epoch/
 { "name": "Last Epoch.exe", "type": "Game" }
+
+# Last Oasis https://store.steampowered.com/app/903950/Last_Oasis/
+{ "name": "MistClient.exe", "type": "Game" }
+{ "name": "MistClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "OasisLauncher.exe", "type": "BG_CPUIO" }
 
 # Last Train Home https://store.steampowered.com/app/1469610/Last_Train_Home/
 { "name": "Train.exe", "type": "Game" }
@@ -39,6 +47,12 @@
 
 # Legacy of Kain™ Soul Reaver 1&2 Remastered https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/
 { "name": "SRX.exe", "type": "Game" }
+
+# Legend of Grimrock https://store.steampowered.com/app/207170/Legend_of_Grimrock/
+{ "name": "grimrock.exe", "type": "Game" }
+
+# Legend of Grimrock 2 https://store.steampowered.com/app/251730/Legend_of_Grimrock_2/
+{ "name": "grimrock2.exe", "type": "Game" }
 
 # LEGO® City Undercover https://store.steampowered.com/app/578330/LEGO_City_Undercover/
 { "name": "LEGOLCUR_DX11.exe", "type": "Game" }
@@ -212,6 +226,9 @@
 
 # Lost Ark https://store.steampowered.com/app/1599340/Lost_Ark/
 { "name": "LOSTARK.exe", "type": "Game" }
+
+# Lost in Random™ https://store.steampowered.com/app/1462570/?snr=1_5_9__205
+{ "name": "Lost In Random.exe", "type": "Game" }
 
 # Lost Judgment https://store.steampowered.com/app/2058190/Lost_Judgment/
 { "name": "LostJudgment.exe", "type": "Game" }

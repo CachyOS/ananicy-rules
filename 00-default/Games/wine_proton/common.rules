@@ -5,6 +5,7 @@
 # The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
 { "name": "player.exe", "type": "Game" }
 
+# STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
 # CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
 # BLACK SOULS II https://store.steampowered.com/app/3855540/BLACK_SOULS_II/
 # BLACK SOULS https://store.steampowered.com/app/3755860/BLACK_SOULS/
@@ -21,16 +22,19 @@
 # Persona® 5 Strikers https://store.steampowered.com/app/1382330/Persona_5_Strikers/
 # DRAGON BALL GEKISHIN SQUADRA https://store.steampowered.com/app/2072560/DRAGON_BALL_GEKISHIN_SQUADRA/
 # Danganronpa Another Episode: Ultra Despair Girls https://store.steampowered.com/app/555950/Danganronpa_Another_Episode_Ultra_Despair_Girls/
+# Leaf Blower Revolution - Idle Game https://store.steampowered.com/app/1468260/Leaf_Blower_Revolution__Idle_Game/
 { "name": "game.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
 # Eador. Masters of the Broken World https://store.steampowered.com/app/232050/Eador_Masters_of_the_Broken_World/
 # Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
+# AI: The Somnium Files https://store.steampowered.com/app/948740/AI_The_Somnium_Files/
 { "name": "Launcher.exe", "type": "Game" }
 
 # CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
 # A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
+# Haydee https://store.steampowered.com/app/530890/Haydee/
 { "name": "launcher.exe", "type": "Game" }
 
 # Guild Wars® Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
@@ -93,6 +97,27 @@
 # EverQuest II https://store.steampowered.com/app/201230/EverQuest_II/
 # DC Universe Online https://store.steampowered.com/app/24200/DC_Universe_Online/
 { "name": "LaunchPad.exe", "type": "BG_CPUIO" }
+
+# How to Survive https://store.steampowered.com/app/250400/How_to_Survive/
+# How to Survive 2 https://store.steampowered.com/app/360170/How_to_Survive_2/
+{ "name": "Detect.exe", "type": "Game" }
+
+# Haydee 2 https://store.steampowered.com/app/1444650/Haydee_2/
+# Haydee 3 https://store.steampowered.com/app/3508770/Haydee_3/
+{ "name": "SteamGame.exe", "type": "Game" }
+
+# Age of Darkness: Final Stand https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/
+# Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
+{ "name": "Achilles.exe", "type": "Game" }
+{ "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
+
+# Airships: Conquer the Skies https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/
+# Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
+{ "name": "Airships.exe", "type": "Game" }
+
+# Alien Shooter https://store.steampowered.com/app/33100/Alien_Shooter/
+# Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
+{ "name": "AlienShooter.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }

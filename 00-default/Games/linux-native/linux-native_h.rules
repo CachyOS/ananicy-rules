@@ -5,17 +5,27 @@
 
 ### H ###
 
+# Hades' Star https://store.steampowered.com/app/755800/Hades_Star/
+{ "name": "hades_linux.x64", "type": "Game" }
+
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
 # Halls of Torment https://store.steampowered.com/app/2218750/Halls_of_Torment/
 { "name": "HallsOfTorment.x86_64", "type": "Game" }
 
+# Hard West https://store.steampowered.com/app/307670/Hard_West/
+{ "name": "HardWest.x86", "type": "Game" }
+{ "name": "HardWest.x86_64", "type": "Game" }
+
 # Haste https://store.steampowered.com/app/1796470/Haste/
 { "name": "Haste.x86_64", "type": "Game" }
 
 # Hatred https://store.steampowered.com/app/341940/Hatred/
 { "name": "Hatred-Linux-Shipping", "type": "Game" }
+
+# Hammerwatch https://store.steampowered.com/app/239070/Hammerwatch/
+{ "name": "RunHammerwatch", "type": "Game" }
 
 # Hamster Hunter https://store.steampowered.com/app/2726490/Hamster_Hunter/
 { "name": "hh.x86_64", "type": "Game" }
@@ -30,11 +40,21 @@
 # Heroes of Hammerwatch https://store.steampowered.com/app/677120/Heroes_of_Hammerwatch/
 { "name": "HWR", "type": "Game" }
 
+# Hero Siege https://store.steampowered.com/app/269210/Hero_Siege/
+{ "name": "Hero_Siege", "type": "Game" }
+
+# hexceed https://store.steampowered.com/app/1463920/hexceed/
+{ "name": "hexceed", "type": "Game" }
+
 # Hexen II: Hammer of Thyrion http://uhexen2.sourceforge.net/
 { "name": "glhexen2", "type": "Game" }
 { "name": "glhwcl", "type": "Game" }
 { "name": "hexen2", "type": "Game" }
 { "name": "hwcl", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.1 Onikakushi https://store.steampowered.com/app/310360/Higurashi_When_They_Cry_Hou__Ch1_Onikakushi/
+{ "name": "HigurashiEp01.x86", "type": "Game" }
+{ "name": "HigurashiEp01.x86_64", "type": "Game" }
 
 # HITMAN™ https://store.steampowered.com/app/236870/HITMAN/
 { "name": "HitmanPro", "type": "Game" }
@@ -47,6 +67,14 @@
 
 # Hollow Knight: Silksong https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
 { "name": "Hollow Knight Silksong", "type": "Game" }
+
+# Home Behind https://store.steampowered.com/app/467960/Home_Behind/
+{ "name": "HomeBehind.x86", "type": "Game" }
+{ "name": "HomeBehind.x86_64", "type": "Game" }
+
+# Home Behind 2 https://store.steampowered.com/app/1220010/Home_Behind_2/
+{ "name": "HomeBehind2.x86", "type": "Game" }
+{ "name": "HomeBehind2.x86_64", "type": "Game" }
 
 # Horripilant https://store.steampowered.com/app/3525970/Horripilant/
 { "name": "Horripilant.x86_64", "type": "Game" }
