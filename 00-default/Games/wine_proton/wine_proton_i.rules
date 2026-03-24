@@ -97,6 +97,11 @@
 # Infinity Strash: DRAGON QUEST The Adventure of Dai https://store.steampowered.com/app/1895810/Infinity_Strash_DRAGON_QUEST_The_Adventure_of_Dai/
 { "name": "IS-DQDai.exe", "type": "Game" }
 
+# iRacing https://store.steampowered.com/app/266410/iRacing/
+{ "name": "iRacingSim64DX11.exe", "type": "Game" }
+{ "name": "iRacingUI.exe", "type": "Game" }
+{ "name": "iRacingLocalServer64.exe", "type": "BG_CPUIO" }
+
 # iRacing Arcade https://store.steampowered.com/app/3226450/iRacing_Arcade/
 { "name": "iracing-arcade.exe", "type": "Game" }
 
