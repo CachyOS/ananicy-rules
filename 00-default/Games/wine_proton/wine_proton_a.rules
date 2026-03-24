@@ -123,6 +123,11 @@
 # Ageless https://store.steampowered.com/app/1210150/Ageless/
 { "name": "Ageless.exe", "type": "Game" }
 
+# Age of Conan: Unchained https://store.steampowered.com/app/217750/Age_of_Conan_Unchained/
+{ "name": "ConanPatcher.exe", "type": "Game" }
+{ "name": "AgeOfConan.exe", "type": "Game" }
+{ "name": "AgeOfConanDX10.exe", "type": "Game" }
+
 # Age of Darkness: Final Stand https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/
 { "name": "Achilles.exe", "type": "Game" }
 { "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
