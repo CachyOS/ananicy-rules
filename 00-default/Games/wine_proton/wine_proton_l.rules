@@ -25,6 +25,11 @@
 # Last Epoch https://store.steampowered.com/app/899770/Last_Epoch/
 { "name": "Last Epoch.exe", "type": "Game" }
 
+# Last Oasis https://store.steampowered.com/app/903950/Last_Oasis/
+{ "name": "MistClient.exe", "type": "Game" }
+{ "name": "MistClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "OasisLauncher.exe", "type": "BG_CPUIO" }
+
 # Last Train Home https://store.steampowered.com/app/1469610/Last_Train_Home/
 { "name": "Train.exe", "type": "Game" }
 { "name": "Train-Win64-Shipping.exe", "type": "Game" }
