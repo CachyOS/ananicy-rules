@@ -101,6 +101,10 @@
 # AFL 26 https://store.steampowered.com/app/3468640/AFL_26/
 { "name": "afl25.exe", "type": "Game" }
 
+# Afterimage https://store.steampowered.com/app/1701520/Afterimage/
+{ "name": "Afterimage.exe", "type": "Game" }
+{ "name": "Afterimage-Win64-Shipping.exe", "type": "Game" }
+
 # After the Fall https://store.steampowered.com/app/751630/After_the_Fall/
 { "name": "AfterTheFall.exe", "type": "Game" }
 
