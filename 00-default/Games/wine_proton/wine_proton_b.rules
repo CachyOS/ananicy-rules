@@ -184,6 +184,10 @@
 # Battlestar Galactica Deadlock https://store.steampowered.com/app/544610/Battlestar_Galactica_Deadlock/
 { "name": "autorun.exe", "type": "Game" }
 
+# Battlestations Pacific https://store.steampowered.com/app/8170/Battlestations_Pacific/
+{ "name": "battlestationspacific.exe", "type": "Game" }
+{ "name": "bsp.exe", "type": "Game" }
+
 # BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
 { "name": "BattleTech.exe", "type": "Game" }
 { "name": "BattleTechLauncher.exe", "type": "BG_CPUIO" }
