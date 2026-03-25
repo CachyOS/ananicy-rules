@@ -556,6 +556,9 @@
 # ARMA https://store.steampowered.com/app/65780/ARMA_Gold_Edition/
 { "name": "arma.exe", "type": "Game" }
 
+# Arma 2 https://store.steampowered.com/app/33900/Arma_2/
+{ "name": "arma2.exe", "type": "Game" }
+
 # Arma 3 https://store.steampowered.com/app/107410/Arma_3/
 { "name": "arma3_x64.exe", "type": "Game" }
 { "name": "arma3.exe", "type": "Game" }
