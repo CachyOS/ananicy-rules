@@ -857,5 +857,9 @@
 { "name": "AWayOut.exe", "type": "Game" }
 { "name": "AWayOut_friend.exe", "type": "Game" }
 
+# Awesomenauts https://store.steampowered.com/app/204300/Awesomenauts/
+{ "name": "AwesomenautsLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Awesomenauts.exe", "type": "Game" }
+
 # Axis & Allies 1942 Online https://store.steampowered.com/app/898920/Axis__Allies_1942_Online/
 { "name": "AxisAndAllies1942Online.exe", "type": "Game" }
