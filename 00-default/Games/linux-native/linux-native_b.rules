@@ -54,6 +54,9 @@
 { "name": "Basement.x86", "type": "Game" }
 { "name": "Basement.x86_64", "type": "Game" }
 
+# Bastion https://store.steampowered.com/app/107100/Bastion/
+{ "name": "Bastion", "type": "Game" }
+
 # BeamNG.drive https://store.steampowered.com/app/284160/BeamNGdrive/
 { "name": "BeamNG.drive.x64", "type": "Game" }
 
