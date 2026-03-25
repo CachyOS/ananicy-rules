@@ -559,6 +559,10 @@
 # Arma 2 https://store.steampowered.com/app/33900/Arma_2/
 { "name": "arma2.exe", "type": "Game" }
 
+# Arma 2: Operation Arrowhead https://store.steampowered.com/app/33930/Arma_2_Operation_Arrowhead/
+{ "name": "ArmA2OA.exe", "type": "Game" }
+{ "name": "ArmA2OA_BE.exe", "type": "Game" }
+
 # Arma 3 https://store.steampowered.com/app/107410/Arma_3/
 { "name": "arma3_x64.exe", "type": "Game" }
 { "name": "arma3.exe", "type": "Game" }
