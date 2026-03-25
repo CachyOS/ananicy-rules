@@ -181,6 +181,9 @@
 { "name": "BattleRoyaleTrainer.exe", "type": "Game" }
 { "name": "BattleRoyaleTrainer-Win64-Shipping.exe", "type": "Game" }
 
+# Battlestar Galactica Deadlock https://store.steampowered.com/app/544610/Battlestar_Galactica_Deadlock/
+{ "name": "autorun.exe", "type": "Game" }
+
 # BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
 { "name": "BattleTech.exe", "type": "Game" }
 { "name": "BattleTechLauncher.exe", "type": "BG_CPUIO" }
