@@ -490,6 +490,10 @@
 # Blood Knights https://store.steampowered.com/app/258220/Blood_Knights/
 { "name": "BloodKnights.exe", "type": "Game" }
 
+# Bloodline Champions https://store.steampowered.com/app/6370/Bloodline_Champions/
+{ "name": "BloodlineChampionsLoader.exe", "type": "BG_CPUIO" }
+{ "name": "BloodlineChampionsLoader.exe", "type": "BloodlineChampions.exe" }
+
 # Blood Omen 2: Legacy of Kain https://store.steampowered.com/app/242960/Blood_Omen_2_Legacy_of_Kain/
 { "name": "bo2.exe", "type": "Game" }
 
