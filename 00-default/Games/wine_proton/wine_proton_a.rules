@@ -503,10 +503,6 @@
 # Ara History Untold: Anniversary Edition  https://store.steampowered.com/app/2021880/Ara_History_Untold_Anniversary_Edition/
 { "name": "AraHistoryUntold.exe", "type": "Game" }
 
-# Architect Life: A House Design Simulator https://store.steampowered.com/app/1296400/Architect_Life_A_House_Design_Simulator/
-{ "name": "ArchitectLife.exe", "type": "Game" }
-{ "name": "Architect-Win64-Shipping.exe", "type": "Game" }
-
 # ARCADE GAME SERIES: GALAGA https://store.steampowered.com/app/403430/ARCADE_GAME_SERIES_GALAGA/
 { "name": "GALAGA.exe", "type": "Game" }
 
@@ -516,8 +512,15 @@
 # ARCADE GAME SERIES: DIG DUG https://store.steampowered.com/app/403400/ARCADE_GAME_SERIES_DIG_DUG/
 { "name": "DIG DUG.exe", "type": "Game" }
 
+# ArcaniA https://store.steampowered.com/app/39690/ArcaniA/
+{ "name": "Arcania.exe", "type": "Game" }
+
 # ARC Raiders https://store.steampowered.com/app/1808500/ARC_Raiders/
 { "name": "PioneerGame.exe", "type": "Game" }
+
+# Architect Life: A House Design Simulator https://store.steampowered.com/app/1296400/Architect_Life_A_House_Design_Simulator/
+{ "name": "ArchitectLife.exe", "type": "Game" }
+{ "name": "Architect-Win64-Shipping.exe", "type": "Game" }
 
 # Arena Breakout: Infinite https://store.steampowered.com/app/2073620/Arena_Breakout_Infinite/
 { "name": "UAGame.exe", "type": "Game" }
