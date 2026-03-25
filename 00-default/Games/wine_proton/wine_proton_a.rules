@@ -288,7 +288,6 @@
 { "name": "Altitude.exe", "type": "Game" }
 
 # Always Sometimes Monsters https://store.steampowered.com/app/274310/Always_Sometimes_Monsters/
-{ "name": "Game.exe", "type": "Game" }
 { "name": "alternatereality.exe", "type": "Game" }
 
 # Aquaria https://store.steampowered.com/app/24420/Aquaria/
@@ -385,9 +384,6 @@
 
 # Angry Video Game Nerd Adventures https://store.steampowered.com/app/237740/Angry_Video_Game_Nerd_Adventures/
 { "name": "avgn.exe", "type": "Game" }
-
-# Angvik https://store.steampowered.com/app/278890/Angvik/
-{ "name": "nw.exe", "type": "Game" }
 
 # Ankh - Anniversary Edition https://store.steampowered.com/app/353980/Ankh__Anniversary_Edition/
 { "name": "Ankh.exe", "type": "Game" }
@@ -525,9 +521,6 @@
 { "name": "ArchitectLife.exe", "type": "Game" }
 { "name": "Architect-Win64-Shipping.exe", "type": "Game" }
 
-# Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
-{ "name": "game.exe", "type": "Game" }
-
 # Arena Breakout: Infinite https://store.steampowered.com/app/2073620/Arena_Breakout_Infinite/
 { "name": "UAGame.exe", "type": "Game" }
 { "name": "arena_breakout_infinite_launcher.exe", "type": "BG_CPUIO" }
@@ -544,14 +537,6 @@
 { "name": "ArkAscended_BE.exe", "type": "Game" }
 { "name": "ArkAscended.exe", "type": "Game" }
 { "name": "ShooterGame-Win64-Shipping.exe", "type": "Game" }
-
-# ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
-{ "name": "ShooterGame_BE.exe", "type": "Game" }
-{ "name": "ShooterGame.exe", "type": "Game" }
-
-# ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
-{ "name": "ShooterGame_BE.exe", "type": "Game" }
-{ "name": "ShooterGame.exe", "type": "Game" }
 
 # ARMA https://store.steampowered.com/app/65780/ARMA_Gold_Edition/
 { "name": "arma.exe", "type": "Game" }
@@ -812,7 +797,6 @@
 { "name": "Audiosurf.exe", "type": "Game" }
 
 # Aura Kingdom https://store.steampowered.com/app/268420/Aura_Kingdom/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "_Launcher.exe", "type": "Game" }
 
 # Aurelia https://store.steampowered.com/app/1231560/Aurelia/
@@ -839,9 +823,6 @@
 
 # Avernum: Escape From the Pit https://store.steampowered.com/app/208400/Avernum_Escape_From_the_Pit/
 { "name": "Avernum.exe", "type": "Game" }
-
-# Aviary Attorney https://store.steampowered.com/app/384630/Aviary_Attorney/
-{ "name": "nw.exe", "type": "Game" }
 
 # Aviassembly https://store.steampowered.com/app/2660460/Aviassembly/
 { "name": "Aviassembly.exe", "type": "Game" }

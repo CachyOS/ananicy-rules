@@ -13,6 +13,7 @@
 # Docked https://store.steampowered.com/app/2487300/Docked/
 # Orangeblood https://store.steampowered.com/app/1042670/Orangeblood/
 # Rune Factory: Guardians of Azuma https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
+# Always Sometimes Monsters https://store.steampowered.com/app/274310/Always_Sometimes_Monsters/
 { "name": "Game.exe", "type": "Game" }
 
 # Dragon Cliff https://store.steampowered.com/app/758190/Dragon_Cliff/
@@ -23,6 +24,8 @@
 # DRAGON BALL GEKISHIN SQUADRA https://store.steampowered.com/app/2072560/DRAGON_BALL_GEKISHIN_SQUADRA/
 # Danganronpa Another Episode: Ultra Despair Girls https://store.steampowered.com/app/555950/Danganronpa_Another_Episode_Ultra_Despair_Girls/
 # Leaf Blower Revolution - Idle Game https://store.steampowered.com/app/1468260/Leaf_Blower_Revolution__Idle_Game/
+# Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
+# BlazeRush https://store.steampowered.com/app/302710/BlazeRush/
 { "name": "game.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
@@ -30,6 +33,7 @@
 # Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 # AI: The Somnium Files https://store.steampowered.com/app/948740/AI_The_Somnium_Files/
+# Aura Kingdom https://store.steampowered.com/app/268420/Aura_Kingdom/
 { "name": "Launcher.exe", "type": "Game" }
 
 # CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
@@ -118,6 +122,16 @@
 # Alien Shooter https://store.steampowered.com/app/33100/Alien_Shooter/
 # Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
 { "name": "AlienShooter.exe", "type": "Game" }
+
+# Aviary Attorney https://store.steampowered.com/app/384630/Aviary_Attorney/
+# Angvik https://store.steampowered.com/app/278890/Angvik/
+# Ghostly Matter https://store.steampowered.com/app/800240/Ghostly_Matter/
+{ "name": "nw.exe", "type": "Game" }
+
+# ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
+# ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
+{ "name": "ShooterGame_BE.exe", "type": "Game" }
+{ "name": "ShooterGame.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }

@@ -430,9 +430,6 @@
 # BlazBlue Entropy Effect https://store.steampowered.com/app/2273430/BlazBlue_Entropy_Effect/
 { "name": "BlazblueEntropyEffect.exe", "type": "Game" }
 
-# BlazeRush https://store.steampowered.com/app/302710/BlazeRush/
-{ "name": "game.exe", "type": "Game" }
-
 # Blazing Sails https://store.steampowered.com/app/1158940/Blazing_Sails/
 { "name": "BlazingSails-Win64-Shipping.exe", "type": "Game" }
 { "name": "BlazingSails.exe", "type": "Game" }
@@ -496,7 +493,7 @@
 
 # Bloodline Champions https://store.steampowered.com/app/6370/Bloodline_Champions/
 { "name": "BloodlineChampionsLoader.exe", "type": "BG_CPUIO" }
-{ "name": "BloodlineChampionsLoader.exe", "type": "BloodlineChampions.exe" }
+{ "name": "BloodlineChampions.exe", "type": "Game" }
 
 # Blood Omen 2: Legacy of Kain https://store.steampowered.com/app/242960/Blood_Omen_2_Legacy_of_Kain/
 { "name": "bo2.exe", "type": "Game" }

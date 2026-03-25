@@ -25,3 +25,11 @@
 # 60 Seconds! Reatomized https://store.steampowered.com/app/1012880/60_Seconds_Reatomized/
 # 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
 { "name": "60Seconds.x86_64", "type": "Game" }
+
+# XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
+# Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
+{ "name": "game.x86_64", "type": "Game" }
+
+# ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
+# ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
+{ "name": "ShooterGame", "type": "Game" }
