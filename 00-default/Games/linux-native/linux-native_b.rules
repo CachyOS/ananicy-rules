@@ -5,6 +5,9 @@
 
 ### B ###
 
+# Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
+{ "name": "Chowdren", "type": "Game" }
+
 # Backpack Battles https://store.steampowered.com/app/2427700/Backpack_Battles/
 { "name": "BackpackBattles.x86_64", "type": "Game" }
 
@@ -47,8 +50,9 @@
 # Barotrauma https://store.steampowered.com/app/602960/Barotrauma/
 { "name": "Barotrauma", "type": "Game" }
 
-# Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
-{ "name": "Chowdren", "type": "Game" }
+# Basement https://store.steampowered.com/app/340150/Basement/
+{ "name": "Basement.x86", "type": "Game" }
+{ "name": "Basement.x86_64", "type": "Game" }
 
 # BeamNG.drive https://store.steampowered.com/app/284160/BeamNGdrive/
 { "name": "BeamNG.drive.x64", "type": "Game" }
