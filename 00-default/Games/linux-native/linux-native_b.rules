@@ -12,6 +12,9 @@
 { "name": "linux.x86_64", "type": "Game" }
 { "name": "Lunar.x86_64", "type": "Game" }
 
+# BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
+{ "name": "badland", "type": "Game" }
+
 # Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
 { "name": "BC", "type": "Game" }
 
