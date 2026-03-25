@@ -86,6 +86,10 @@
 { "name": "BATIM.x86", "type": "Game" }
 { "name": "BATIM.x86_64", "type": "Game" }
 
+# Besiege https://store.steampowered.com/app/346010/Besiege/
+{ "name": "Besiege.x86", "type": "Game" }
+{ "name": "Besiege.x86_64", "type": "Game" }
+
 # BioShock Infinite https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "bioshock", "type": "Game" }
 { "name": "bioshock.i386", "type": "Game" }
