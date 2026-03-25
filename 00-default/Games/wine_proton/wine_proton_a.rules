@@ -308,6 +308,10 @@
 { "name": "AA3Loader.exe", "type": "Game" }
 { "name": "AA3Game.exe", "type": "Game" }
 
+# America's Army: Proving Grounds https://store.steampowered.com/app/203290/Americas_Army_Proving_Grounds/
+{ "name": "AAGame.exe", "type": "Game" }
+{ "name": "AALauncher32.exe", "type": "BG_CPUIO" }
+
 # AMID EVIL https://store.steampowered.com/app/673130/AMID_EVIL/
 { "name": "AmidEvil.exe", "type": "Game" }
 
