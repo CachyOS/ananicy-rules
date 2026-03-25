@@ -210,6 +210,10 @@
 # Beasts of Bermuda https://store.steampowered.com/app/719890/Beasts_of_Bermuda/
 { "name": "BeastsOfBermuda.exe", "type": "Game" }
 
+# Beat Hazard https://store.steampowered.com/app/49600/Beat_Hazard/
+{ "name": "BeatHazard.exe", "type": "Game" }
+{ "name": "runme.exe", "type": "BG_CPUIO" }
+
 # Beat Saber https://store.steampowered.com/app/620980/Beat_Saber/
 { "name": "Beat Saber.exe", "type": "Game" }
 
