@@ -400,6 +400,11 @@
 # Blade Assault https://store.steampowered.com/app/1367300/Blade_Assault/
 { "name": "BladeAssault.exe", "type": "Game" }
 
+# Blade Kitten https://store.steampowered.com/app/9940/Blade_Kitten/
+{ "name": "bladekitten.exe", "type": "Game" }
+{ "name": "BladeKitten.exe", "type": "Game" }
+{ "name": "BladeKitten_Demo.exe", "type": "Game" }
+
 # Bladesong https://store.steampowered.com/app/2305640/Bladesong/
 { "name": "Bladesong.exe", "type": "Game" }
 { "name": "Bladesong-Win64-Shipping.exe", "type": "Game" }
