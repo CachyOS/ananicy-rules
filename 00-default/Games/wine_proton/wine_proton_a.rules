@@ -525,6 +525,9 @@
 { "name": "ArchitectLife.exe", "type": "Game" }
 { "name": "Architect-Win64-Shipping.exe", "type": "Game" }
 
+# Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
+{ "name": "game.exe", "type": "Game" }
+
 # Arena Breakout: Infinite https://store.steampowered.com/app/2073620/Arena_Breakout_Infinite/
 { "name": "UAGame.exe", "type": "Game" }
 { "name": "arena_breakout_infinite_launcher.exe", "type": "BG_CPUIO" }

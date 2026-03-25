@@ -142,6 +142,9 @@
 { "name": "Aragami.x86", "type": "Game" }
 { "name": "Aragami.x86_64", "type": "Game" }
 
+# Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
+{ "name": "game.x86_64", "type": "Game" }
+
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 { "name": "ShooterGame", "type": "Game" }
 
