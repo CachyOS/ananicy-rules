@@ -21,6 +21,10 @@
 # Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
 { "name": "BC", "type": "Game" }
 
+# Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
+{ "name": "wesnoth", "type": "Game" }
+{ "name": "wesnothd", "type": "Game" }
+
 # Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
 { "name": "BattleNations", "type": "Game" }
 

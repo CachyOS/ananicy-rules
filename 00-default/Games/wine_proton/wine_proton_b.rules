@@ -167,6 +167,10 @@
 # Battlefleet Gothic: Armada 2 https://store.steampowered.com/app/573100/Battlefleet_Gothic_Armada_2/
 { "name": "BattlefleetGothic2.exe", "type": "Game" }
 
+# Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
+{ "name": "wesnoth.exe", "type": "Game" }
+{ "name": "wesnothd.exe", "type": "Game" }
+
 # Battlerite https://www.battlerite.com
 { "name": "Battlerite.exe", "type": "Game" }
 
