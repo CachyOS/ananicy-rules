@@ -533,6 +533,10 @@
 { "name": "arena_breakout_infinite_launcher.exe", "type": "BG_CPUIO" }
 { "name": "GameLoader.exe", "type": "BG_CPUIO" }
 
+# ARIA CHRONICLE https://store.steampowered.com/app/1229900/ARIA_CHRONICLE/
+{ "name": "Aria.exe", "type": "Game" }
+{ "name": "ARIA.exe", "type": "Game" }
+
 # Arknights: Endfield https://endfield.gryphline.com/
 { "name": "Endfield.exe", "type": "Game" }
 
