@@ -78,6 +78,10 @@
 { "name": "BeforeTheEcho", "type": "Game" }
 { "name": "Sequence", "type": "Game" }
 
+# Beholder https://store.steampowered.com/app/475550/Beholder/
+{ "name": "Beholder.x86", "type": "Game" }
+{ "name": "Beholder.x86_64", "type": "Game" }
+
 # Bendy and the Ink Machine https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/
 { "name": "BATIM.x86", "type": "Game" }
 { "name": "BATIM.x86_64", "type": "Game" }
