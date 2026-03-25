@@ -164,6 +164,10 @@
 # art of rally https://store.steampowered.com/app/550320/art_of_rally/
 { "name": "artofrally.x64", "type": "Game" }
 
+# Assault Android Cactus+ https://store.steampowered.com/app/250110/Assault_Android_Cactus/
+{ "name": "cactus.x86", "type": "Game" }
+{ "name": "cactus.x86_64", "type": "Game" }
+
 # AssaultCube https://assault.cubers.net
 { "name": "linux_64_client", "type": "Game" }
 
