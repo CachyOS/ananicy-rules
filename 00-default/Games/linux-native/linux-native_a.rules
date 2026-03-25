@@ -138,6 +138,10 @@
 # Aquaria https://store.steampowered.com/app/24420/Aquaria/
 { "name": "aquaria", "type": "Game" }
 
+# Aragami https://store.steampowered.com/app/280160/Aragami/
+{ "name": "Aragami.x86", "type": "Game" }
+{ "name": "Aragami.x86_64", "type": "Game" }
+
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 { "name": "ShooterGame", "type": "Game" }
 
