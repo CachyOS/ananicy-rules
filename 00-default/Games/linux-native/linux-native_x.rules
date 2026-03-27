@@ -13,7 +13,6 @@
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 { "name": "game.x86", "type": "Game" }
-{ "name": "game.x86_64", "type": "Game" }
 
 # Xonotic https://www.xonotic.org/
 { "name": "xonotic-glx", "type": "Game" }

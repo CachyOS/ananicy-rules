@@ -5,6 +5,9 @@
 
 ### B ###
 
+# Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
+{ "name": "Chowdren", "type": "Game" }
+
 # Backpack Battles https://store.steampowered.com/app/2427700/Backpack_Battles/
 { "name": "BackpackBattles.x86_64", "type": "Game" }
 
@@ -12,14 +15,27 @@
 { "name": "linux.x86_64", "type": "Game" }
 { "name": "Lunar.x86_64", "type": "Game" }
 
+# BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
+{ "name": "badland", "type": "Game" }
+
+# BattleBlock Theater https://store.steampowered.com/app/238460/BattleBlock_Theater/
+{ "name": "BattleBlockTheater", "type": "Game" }
+
 # Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
 { "name": "BC", "type": "Game" }
+
+# Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
+{ "name": "wesnoth", "type": "Game" }
+{ "name": "wesnothd", "type": "Game" }
 
 # Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
 { "name": "BattleNations", "type": "Game" }
 
 # BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
 { "name": "BattleTech", "type": "Game" }
+
+# Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
+{ "name": "BALDI.x86_64", "type": "Game" }
 
 # Baldur's Gate Store page is down https://store.steampowered.com/app/22828
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
@@ -41,19 +57,45 @@
 # Barotrauma https://store.steampowered.com/app/602960/Barotrauma/
 { "name": "Barotrauma", "type": "Game" }
 
-# Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
-{ "name": "Chowdren", "type": "Game" }
+# Basement https://store.steampowered.com/app/340150/Basement/
+{ "name": "Basement.x86", "type": "Game" }
+{ "name": "Basement.x86_64", "type": "Game" }
+
+# Bastion https://store.steampowered.com/app/107100/Bastion/
+{ "name": "Bastion", "type": "Game" }
 
 # BeamNG.drive https://store.steampowered.com/app/284160/BeamNGdrive/
 { "name": "BeamNG.drive.x64", "type": "Game" }
+
+# Beatbuddy: Tale of the Guardians https://store.steampowered.com/app/231040/Beatbuddy_Tale_of_the_Guardians/
+{ "name": "Beatbuddy", "type": "Game" }
+
+# Beat Hazard https://store.steampowered.com/app/49600/Beat_Hazard/
+{ "name": "BeatHazard", "type": "Game" }
+{ "name": "BeatHazard_Linux2", "type": "Game" }
+
+# Before the Echo https://store.steampowered.com/app/200910/Before_the_Echo/
+{ "name": "BeforeTheEcho", "type": "Game" }
+{ "name": "Sequence", "type": "Game" }
+
+# Beholder https://store.steampowered.com/app/475550/Beholder/
+{ "name": "Beholder.x86", "type": "Game" }
+{ "name": "Beholder.x86_64", "type": "Game" }
 
 # Bendy and the Ink Machine https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/
 { "name": "BATIM.x86", "type": "Game" }
 { "name": "BATIM.x86_64", "type": "Game" }
 
+# Besiege https://store.steampowered.com/app/346010/Besiege/
+{ "name": "Besiege.x86", "type": "Game" }
+{ "name": "Besiege.x86_64", "type": "Game" }
+
 # BioShock Infinite https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "bioshock", "type": "Game" }
 { "name": "bioshock.i386", "type": "Game" }
+
+# BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien https://store.steampowered.com/app/218060/BITTRIP_Presents_Runner2_Future_Legend_of_Rhythm_Alien/
+{ "name": "runner2", "type": "Game" }
 
 # Black Mesa https://store.steampowered.com/app/362890/Black_Mesa/
 { "name": "bms_linux", "type": "Game" }
@@ -61,8 +103,27 @@
 # Blacksmith Master https://store.steampowered.com/app/2292800/Blacksmith_Master/
 { "name": "BlacksmithMaster.x86_64", "type": "Game" }
 
+# Blade Symphony https://store.steampowered.com/app/225600/Blade_Symphony/
+{ "name": "berimbau", "type": "Game" }
+
 # Blasphemous https://store.steampowered.com/app/774361/Blasphemous/
 { "name": "Blasphemous.x86_64", "type": "Game" }
+
+# BlazeRush https://store.steampowered.com/app/302710/BlazeRush/
+{ "name": "blazerush", "type": "Game" }
+
+# Bleed https://store.steampowered.com/app/239800/Bleed/
+{ "name": "Bleed", "type": "Game" }
+
+# Blockstorm https://store.steampowered.com/app/263060/Blockstorm/
+{ "name": "Blockstorm", "type": "Game" }
+
+# Blush Blush https://store.steampowered.com/app/777130/Blush_Blush/
+{ "name": "BlushBlush.x86_64", "type": "Game" }
+
+# Bomber Crew https://store.steampowered.com/app/537800/Bomber_Crew/
+{ "name": "BomberCrew.x86", "type": "Game" }
+{ "name": "BomberCrew.x86_64", "type": "Game" }
 
 # BOOK OF HOURS https://store.steampowered.com/app/1028310/BOOK_OF_HOURS/
 { "name": "bh.x86_64", "type": "Game" }
