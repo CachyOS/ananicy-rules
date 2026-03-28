@@ -14,6 +14,9 @@
 # Orangeblood https://store.steampowered.com/app/1042670/Orangeblood/
 # Rune Factory: Guardians of Azuma https://store.steampowered.com/app/2864560/Rune_Factory_Guardians_of_Azuma/
 # Always Sometimes Monsters https://store.steampowered.com/app/274310/Always_Sometimes_Monsters/
+# Commando Collection https://store.steampowered.com/app/3059010/Commando_Collection/
+# Destiny Warriors RPG https://store.steampowered.com/app/399790/Destiny_Warriors_RPG/
+# Elise the Devil https://store.steampowered.com/app/711990/Elise_the_Devil/
 { "name": "Game.exe", "type": "Game" }
 
 # Dragon Cliff https://store.steampowered.com/app/758190/Dragon_Cliff/
@@ -26,6 +29,9 @@
 # Leaf Blower Revolution - Idle Game https://store.steampowered.com/app/1468260/Leaf_Blower_Revolution__Idle_Game/
 # Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
 # BlazeRush https://store.steampowered.com/app/302710/BlazeRush/
+# Castlevania Advance Collection https://store.steampowered.com/app/1552550/Castlevania_Advance_Collection/
+# Castlevania Advance Collection https://store.steampowered.com/app/1552550/Castlevania_Advance_Collection/
+# Coloring Game 2 https://store.steampowered.com/app/1216200/Coloring_Game_2/
 { "name": "game.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
@@ -34,7 +40,12 @@
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 # AI: The Somnium Files https://store.steampowered.com/app/948740/AI_The_Somnium_Files/
 # Aura Kingdom https://store.steampowered.com/app/268420/Aura_Kingdom/
+# Command: Modern Operations https://store.steampowered.com/app/1076160/Command_Modern_Operations/
+# Crayon Physics Deluxe https://store.steampowered.com/app/26900/Crayon_Physics_Deluxe/
 { "name": "Launcher.exe", "type": "Game" }
+
+# Closers https://store.steampowered.com/app/215830/Closers/
+{ "name": "LAUNCHER.exe", "type": "Game" }
 
 # CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
 # A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
@@ -55,6 +66,15 @@
 # DRAGON BALL Z: KAKAROT https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
 # Airline Tycoon Deluxe https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 { "name": "AT.exe", "type": "Game" }
+
+# Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
+# Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
+# Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
+# Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
+{ "name": "hl.exe", "type": "Game" }
+
+# Fistful of Frags https://store.steampowered.com/app/265630/Fistful_of_Frags/
+{ "name": "hl2.exe", "type": "Game" }
 
 # Warhammer: Chaos And Conquest https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
 # Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
@@ -93,9 +113,15 @@
 { "name": "call_to_arms_ed.exe", "type": "Game" }
 { "name": "call_to_arms_server.exe", "type": "Game" }
 
+# Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
+{ "name": "engine.exe", "type": "Game" }
+
 # DRAGON BALL XENOVERSE 2 https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
 # FREEDOM WARS Remastered https://store.steampowered.com/app/3004100/FREEDOM_WARS_Remastered/
 { "name": "START.exe", "type": "Game" }
+
+# City Car Driving https://store.steampowered.com/app/493490/City_Car_Driving/
+{ "name": "Starter.exe", "type": "Game" }
 
 # EverQuest https://store.steampowered.com/app/205710/EverQuest/
 # EverQuest II https://store.steampowered.com/app/201230/EverQuest_II/
@@ -114,6 +140,9 @@
 # Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
 { "name": "Achilles.exe", "type": "Game" }
 { "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
+
+# Crazy Taxi https://store.steampowered.com/app/71230/Crazy_Taxi/
+{ "name": "AppLauncher.exe", "type": "Game" }
 
 # Airships: Conquer the Skies https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/
 # Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
@@ -140,6 +169,7 @@
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
 
 # Some KOEI TECMO Franchise's Game's
+# DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
 { "name": "Launch.exe", "type": "Game" }
 { "name": "Launch_EA.exe", "type": "Game" }
 { "name": "Launch_JP.exe", "type": "Game" }

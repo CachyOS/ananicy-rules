@@ -20,9 +20,16 @@
 { "name": "deadcells", "type": "Game" }
 { "name": "deadcells.sh", "type": "BG_CPUIO" }
 
+# Dead Pixels https://store.steampowered.com/app/222980/Dead_Pixels/
+{ "name": "Dead Pixels", "type": "Game" }
+
 # Dead In Vinland https://store.steampowered.com/app/573120/Dead_In_Vinland/
 { "name": "Dead In Vinland.x86", "type": "Game" }
 { "name": "Dead In Vinland.x86_64", "type": "Game" }
+
+# Dead Synchronicity: Tomorrow Comes Today https://store.steampowered.com/app/339190/Dead_Synchronicity_Tomorrow_Comes_Today/
+{ "name": "Dead Synchronicity.x86", "type": "Game" }
+{ "name": "Dead Synchronicity.x86_64", "type": "Game" }
 
 # Dead Island: Riptide Definitive Edition https://store.steampowered.com/app/383180/Dead_Island_Riptide_Definitive_Edition/
 { "name": "DeadIslandRiptideGame", "type": "Game" }
@@ -30,8 +37,18 @@
 # Death Road to Canada https://store.steampowered.com/app/252610/Death_Road_to_Canada/
 { "name": "prog-linux", "type": "Game" }
 
+# DeadCore https://store.steampowered.com/app/284460/DeadCore/
+{ "name": "DeadCore.x86", "type": "Game" }
+
+# Deadly 30 https://store.steampowered.com/app/264730/Deadly_30/
+{ "name": "Deadly30", "type": "Game" }
+
 # Decay: The Mare https://store.steampowered.com/app/323720/Decay_The_Mare/
 { "name": "Decay - The Mare.x86", "type": "Game" }
+
+# Democracy 3 https://store.steampowered.com/app/245470/Democracy_3/
+{ "name": "Democracy3.bin.x86", "type": "Game" }
+{ "name": "Democracy3.bin.x86_64", "type": "Game" }
 
 # DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
 { "name": "DDNet", "type": "Game" }
@@ -39,6 +56,9 @@
 
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 { "name": "deponia_tcj", "type": "Game" }
+
+# Deponia https://store.steampowered.com/app/214340/Deponia/
+{ "name": "Deponia", "type": "Game" }
 
 # devilutionx: https://github.com/diasurgical/devilutionX
 { "name": "devilutionx", "type": "Game" }
@@ -49,14 +69,26 @@
 # Despotism 3k https://store.steampowered.com/app/699920/Despotism_3k/
 { "name": "Despotism3k.x86_64", "type": "Game" }
 
+# Despot's Game: Dystopian Battle Simulator https://store.steampowered.com/app/1227280/Despots_Game_Dystopian_Battle_Simulator/
+{ "name": "DespotsGame.x86_64", "type": "Game" }
+
+# Dex https://store.steampowered.com/app/269650/Dex/
+{ "name": "Dex.x86", "type": "Game" }
+
 # dhewm3: https://dhewm3.org/
 { "name": "dhewm3", "type": "Game" }
 
 # Dictators:No Peace Countryballs https://store.steampowered.com/app/1139890/DictatorsNo_Peace_Countryballs/
 { "name": "DictatorsNoPeaceCountryballs.x86_64", "type": "Game" }
 
+# Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
+{ "name": "app.x86_64", "type": "Game" }
+
 # Disgaea 2 PC https://store.steampowered.com/app/495280/Disgaea_2_PC/
 { "name": "Disgaea2SteamOS", "type": "Game" }
+
+# Distance https://store.steampowered.com/app/233610/Distance/
+{ "name": "Distance", "type": "Game" }
 
 # DiRT 4 (delisted from steam)
 { "name": "Dirt4", "type": "Game" }
@@ -79,6 +111,9 @@
 # Doorways: Holy Mountains of Flesh https://store.steampowered.com/app/383930/Doorways_Holy_Mountains_of_Flesh/ (AND OTHER DOORWAYS GAMES)
 { "name": "Doorways.x86", "type": "Game" }
 
+# Door Kickers https://store.steampowered.com/app/248610/Door_Kickers/
+{ "name": "DoorKickers", "type": "Game" }
+
 # Dota 2 http://store.steampowered.com/app/570/Dota_2/
 { "name": "dota2", "type": "Game" }
 
@@ -98,15 +133,42 @@
 # Dungeons 2 https://store.steampowered.com/app/262280/Dungeons_2/
 { "name": "Dungeons2", "type": "Game" }
 
+# Dungeons 3 https://store.steampowered.com/app/493900/Dungeons_3/
+{ "name": "Dungeons3", "type": "Game" }
+
+# Dungeons & Degenerate Gamblers https://store.steampowered.com/app/2400510/Dungeons__Degenerate_Gamblers/
+{ "name": "DnDG_linux.x86_64", "type": "Game" }
+
+# Dungeons of Dredmor https://store.steampowered.com/app/98800/Dungeons_of_Dredmor/
+{ "name": "Dredmor", "type": "Game" }
+
 # Dungreed https://store.steampowered.com/app/753420/Dungreed/
 { "name": "Dungreed.x86_64", "type": "Game" }
+
+# Dummynation https://store.steampowered.com/app/1892030/Dummynation/
+{ "name": "Dummynation", "type": "Game" }
 
 # Dust: An Elysian Tail https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
 { "name": "DustAET", "type": "Game" }
 
+# DUSK https://store.steampowered.com/app/519860/DUSK/
+{ "name": "dusk.x86_64", "type": "Game" }
+{ "name": "duskworld.x86_64", "type": "Game" }
+
+# Duskers https://store.steampowered.com/app/254320/Duskers/
+{ "name": "Duskers_linux.x86", "type": "Game" }
+{ "name": "Duskers_linux.x86_64", "type": "Game" }
+
+# Dustforce DX https://store.steampowered.com/app/65300/Dustforce_DX/
+{ "name": "Dustforce.bin.x86", "type": "Game" }
+{ "name": "Dustforce.bin.x86_64", "type": "Game" }
+
 # dxx rebirth: https://www.dxx-rebirth.com/
 { "name": "d1x-rebirth", "type": "Game" }
 { "name": "d2x-rebirth", "type": "Game" }
+
+# Dragons and Titans https://store.steampowered.com/app/263500/Dragons_and_Titans/
+{ "name": "dnt.x86", "type": "Game" }
 
 # Draw & Guess https://store.steampowered.com/app/1483870/Draw__Guess/
 { "name": "Draw&Guess", "type": "Game" }
@@ -115,8 +177,21 @@
 { "name": "Drawful2_Vulkan", "type": "Game" }
 { "name": "Drawful2_OpenGL", "type": "Game" }
 
+# Dropsy https://store.steampowered.com/app/274350/Dropsy/
+{ "name": "Dropsy.x86", "type": "Game" }
+{ "name": "Dropsy.x86_64", "type": "Game" }
+
+# Drova - Forsaken Kin https://store.steampowered.com/app/1585180/Drova__Forsaken_Kin/
+{ "name": "Drova.x86_64", "type": "Game" }
+
 # Dreamfall Chapters https://store.steampowered.com/app/237850/Dreamfall_Chapters/
 { "name": "Dreamfall Chapters", "type": "Game" }
+
+# Dwarf Fortress https://store.steampowered.com/app/975370/Dwarf_Fortress/
+{ "name": "dwarfort", "type": "Game" }
+
+# Dwarfs!? https://store.steampowered.com/app/35480/Dwarfs/
+{ "name": "Dwarfs", "type": "Game" }
 
 # Dying Light https://store.steampowered.com/app/239140/Dying_Light/
 { "name": "DyingLightGame", "type": "Game" }
