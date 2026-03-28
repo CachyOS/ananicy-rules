@@ -276,8 +276,9 @@
 # Mirror's Edge https://store.steampowered.com/app/17410/Mirrors_Edge/
 { "name": "MirrorsEdge.exe", "type": "Game" }
 
-# Mirror's Edge https://store.steampowered.com/app/1233570/Mirrors_Edge_Catalyst/
+# Mirror's Edge Catalyst https://store.steampowered.com/app/1233570/Mirrors_Edge_Catalyst/
 { "name": "MirrorsEdgeCatalyst.exe", "type": "Game" }
+{ "name": "MirrorsEdgeCatalystTrial.exe", "type": "Game" }
 
 # Mistful Crimson Morning https://gamebanana.com/mods/387663
 { "name": "Mistful Crimson Morning.exe", "type": "Game" }
