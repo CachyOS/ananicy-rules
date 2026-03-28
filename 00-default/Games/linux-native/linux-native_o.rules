@@ -8,6 +8,13 @@
 # OneShot https://store.steampowered.com/app/420530/OneShot/
 { "name": "oneshot", "type": "Game" }
 
+# OpenMoHAA: An open-source game engine compatible with Medal of Honor Allied Assault and its expansions https://github.com/openmoh/openmohaa
+{ "name": "openmohaa", "type": "Game" }
+{ "name": "omohaaded", "type": "Game" }
+{ "name": "launch_openmohaa_base", "type": "Game" }
+{ "name": "launch_openmohaa_breakthrough", "type": "Game" }
+{ "name": "launch_openmohaa_spearhead", "type": "Game" }
+
 # OpenMW - an open source replacement engine for morrowind https://openmw.org/en/
 { "name": "openmw.x86_64", "type": "Game" }
 
