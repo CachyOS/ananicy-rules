@@ -8,6 +8,12 @@
 # Cave Story+ https://store.steampowered.com/app/200900/Cave_Story/
 { "name": "CaveStory+", "type": "Game" }
 
+# Capsized https://store.steampowered.com/app/95300/Capsized/
+{ "name": "Capsized", "type": "Game" }
+
+# Cat Bait https://store.steampowered.com/app/2929730/Cat_Bait/
+{ "name": "CatBait.x86_64", "type": "Game" }
+
 # CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
 { "name": "CarX_Street.x86_64", "type": "Game" }
 { "name": "eac_launcher", "type": "Game" }
@@ -15,17 +21,36 @@
 # Celeste https://store.steampowered.com/app/504230/Celeste/
 { "name": "Celeste.bin.x86_64", "type": "Game" }
 
+# Chaos on Deponia https://store.steampowered.com/app/220740/Chaos_on_Deponia/
+{ "name": "Deponia2", "type": "Game" }
+
+# Champions of Regnum https://store.steampowered.com/app/222520/Champions_of_Regnum/
+{ "name": "rolauncher_steam", "type": "Game" }
+
 # Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
 { "name": "Chained_Echoes.x86_64", "type": "Game" }
 
 # Children of Morta https://store.steampowered.com/app/330020/Children_of_Morta/
 { "name": "ChildrenOfMorta", "type": "Game" }
 
+# Children of Silentown https://store.steampowered.com/app/1108000/Children_of_Silentown/
+{ "name": "Cos.x86_64", "type": "Game" }
+
+# Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/
+{ "name": "CDWGame-Linux", "type": "Game" }
+{ "name": "UDKGame-Linux", "type": "Game" }
+
+# Chasm https://store.steampowered.com/app/312200/Chasm/
+{ "name": "Chasm", "type": "Game" }
+
 # Chocolate doom: https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom
 { "name": "chocolate-doom", "type": "Game" }
 
 # Chronicon https://store.steampowered.com/app/375480/Chronicon/
 { "name": "Chronicon", "type": "Game" }
+
+# Chroma Squad https://store.steampowered.com/app/251130/Chroma_Squad/
+{ "name": "chromasquad.x86", "type": "Game" }
 
 # CiniCross https://store.steampowered.com/app/3933120/CiniCross/
 { "name": "CiniCross.x86_64", "type": "Game"}
@@ -39,9 +64,16 @@
 # Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.x64", "type": "Game" }
 
+# Circuits https://store.steampowered.com/app/282760/Circuits/
+{ "name": "Circuits.x86", "type": "Game" }
+
 # ClassiCube https://classicube.net
 { "name": "ClassiCube", "type": "Game" }
 { "name": "classicube", "type": "Game" }
+
+# Clockwork Tales: Of Glass and Ink https://store.steampowered.com/app/284830/Clockwork_Tales_Of_Glass_and_Ink/
+{ "name": "ClockworkTales_OfGlassAndInk_amd64", "type": "Game" }
+{ "name": "ClockworkTales_OfGlassAndInk_i386", "type": "Game" }
 
 # Clustertruck https://store.steampowered.com/app/397950/Clustertruck/
 { "name": "Clustertruck.x86_64", "type": "Game" }
@@ -68,8 +100,17 @@
 # Conquest of Elysium 5 https://store.steampowered.com/app/1606340/Conquest_of_Elysium_5/
 { "name": "coe5.sh", "type": "Game" }
 
+# Contraption Maker https://store.steampowered.com/app/241240/Contraption_Maker/
+{ "name": "ContraptionMaker", "type": "Game" }
+
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper
 { "name": "CoreKeeper", "type": "Game" }
+
+# Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
+{ "name": "CortexCommandHaxLoader", "type": "Game" }
+
+# Costume Quest https://store.steampowered.com/app/115100/Costume_Quest/
+{ "name": "Cq.bin.x86", "type": "Game" }
 
 # Counter-Strike 2 https://store.steampowered.com/app/730/CounterStrike_2/
 { "name": "csgo_linux64", "type": "Game" }
@@ -81,8 +122,20 @@
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
 { "name": "cstrike.sh", "type": "Game" }
 
+# Crab Game https://store.steampowered.com/app/1782210/Crab_Game/
+{ "name": "Crab Game.x86_64", "type": "Game" }
+
 # CrossCode https://store.steampowered.com/app/368340/CrossCode/
 { "name": "CrossCode", "type": "Game" }
+
+# Crashlands https://store.steampowered.com/app/391730/Crashlands/
+{ "name": "Crashlands", "type": "Game" }
+
+# Crea https://store.steampowered.com/app/280520/Crea/
+{ "name": "Crea", "type": "Game" }
+
+# Crimsonland https://store.steampowered.com/app/262830/Crimsonland/
+{ "name": "crimsonland", "type": "Game" }
 
 # Crusader Kings II https://www.paradoxinteractive.com/games/crusader-kings-ii
 { "name": "ck2", "type": "Game" }

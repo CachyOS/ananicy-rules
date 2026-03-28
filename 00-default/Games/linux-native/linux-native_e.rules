@@ -23,6 +23,9 @@
 # Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
 { "name": "harvey", "type": "Game" }
 
+# EDGE https://store.steampowered.com/app/38740/EDGE/
+{ "name": "EDGE.bin.x86", "type": "Game" }
+
 # ENDER LILIES: Quietus of the Knights https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
 { "name": "EnderLiliesSteam-Linux-Shipping", "type": "Game" }
 { "name": "EnderLilies.sh", "type": "BG_CPUIO" }
@@ -30,11 +33,28 @@
 # Eador. Masters of the Broken World https://store.steampowered.com/app/232050/Eador_Masters_of_the_Broken_World/
 { "name": "runme.sh", "type": "Game" }
 
+# Eldritch https://store.steampowered.com/app/252630/Eldritch/
+{ "name": "Eldritch", "type": "Game" }
+
+# Electronic Super Joy https://store.steampowered.com/app/244870/Electronic_Super_Joy/
+{ "name": "ElectronicSuperJoy", "type": "Game" }
+
 # Enlisted https://store.steampowered.com/app/2051620/Enlisted/
+{ "name": "enlisted", "type": "Game" }
+
+# Enlisted: Reinforced https://store.steampowered.com/app/2051620/Enlisted/
 { "name": "enlisted", "type": "Game" }
 
 # Enter the Gungeon https://store.steampowered.com/app/311690/Enter_the_Gungeon/
 { "name": "EtG.x86_64", "type": "Game" }
+
+# Enigmatis 2: The Mists of Ravenwood https://store.steampowered.com/app/284770/Enigmatis_2_The_Mists_of_Ravenwood/
+{ "name": "Enigmatis_TheMistsOfRavenwood_amd64", "type": "Game" }
+{ "name": "Enigmatis_TheMistsOfRavenwood_i386", "type": "Game" }
+
+# Enigmatis: The Ghosts of Maple Creek https://store.steampowered.com/app/284750/Enigmatis_The_Ghosts_of_Maple_Creek/
+{ "name": "Enigmatis_TheGhostsOfMapleCreek_amd64", "type": "Game" }
+{ "name": "Enigmatis_TheGhostsOfMapleCreek_i386", "type": "Game" }
 
 # Escape Simulator https://store.steampowered.com/app/1435790/Escape_Simulator/
 { "name": "EscapeSimulator", "type": "Game" }
@@ -54,3 +74,13 @@
 
 # Everlasting Summer https://store.steampowered.com/app/331470/Everlasting_Summer/
 { "name": "Everlasting Summer.sh", "type": "Game" }
+
+# eversion https://store.steampowered.com/app/33680/eversion/
+{ "name": "Eversion", "type": "Game" }
+
+# Evoland https://store.steampowered.com/app/233470/Evoland/
+{ "name": "Evo32", "type": "Game" }
+
+# Expeditions: Conquistador https://store.steampowered.com/app/237430/Expeditions_Conquistador/
+{ "name": "ExpeditionsConquistador.x86", "type": "Game" }
+{ "name": "ExpeditionsConquistador.x86_64", "type": "Game" }
