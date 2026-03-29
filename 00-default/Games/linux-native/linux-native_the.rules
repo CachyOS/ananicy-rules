@@ -16,9 +16,6 @@
 { "name": "isaac.i386", "type": "Game" }
 { "name": "isaac.x64", "type": "Game" }
 
-# The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
-{ "name": "game.x86_64", "type": "Game" }
-
 # The Escapists 2 https://store.steampowered.com/app/641990/The_Escapists_2/
 { "name": "TheEscapists2.x86", "type": "Game" }
 { "name": "TheEscapists2.x86_64", "type": "Game" }

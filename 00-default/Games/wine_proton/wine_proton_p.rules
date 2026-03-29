@@ -107,9 +107,6 @@
 # Pathologic 3 https://store.steampowered.com/app/3199650/Pathologic_3/
 { "name": "Pathologic3.exe", "type": "Game" }
 
-# Pathologic Classic HD https://store.steampowered.com/app/384110/Pathologic_Classic_HD/
-{ "name": "Game.exe", "type": "Game" }
-
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_win32_release.exe", "type": "Game" }
 { "name": "payday2_win32_release_vr.exe", "type": "Game" }
@@ -352,9 +349,6 @@
 
 # Project: Gorgon https://store.steampowered.com/app/342940/Project_Gorgon/
 { "name": "WindowsPlayer.exe", "type": "Game" }
-
-# Project Highrise https://store.steampowered.com/app/423580/Project_Highrise/
-{ "name": "Game.exe", "type": "Game" }
 
 # PROJECT: PLAYTIME https://store.steampowered.com/app/1961460/PROJECT_PLAYTIME
 { "name": "Playtime_Multiplayer.exe", "type": "Game" }

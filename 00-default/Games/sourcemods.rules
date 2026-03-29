@@ -1,5 +1,4 @@
 # General rule for some Source-based mods, like Fortress Forever, Entropy: Zero, etc.
-{ "name": "hl2.exe", "type": "Game" }
 { "name": "hl2_linux", "type": "Game" }
 { "name": "hl2_linux64", "type": "Game" }
 
@@ -10,15 +9,12 @@
 { "name": "srcds_i486", "type": "Game" }
 { "name": "srcds_run", "type": "Game" }
 
-# Source SDK Base tools
-# Hammer map editor
-{ "name": "hammer.exe", "type": "Doc-View" }
+
 
 # Model viewer
 { "name": "hlmv.exe", "type": "Doc-View" }
 
 # GoldSrc mods
-{ "name": "hl.exe", "type": "Game" }
 { "name": "hl_linux", "type": "Game" }
 
 # GoldSrc dedicated server
@@ -28,5 +24,3 @@
 { "name": "hltv.exe", "type": "Game" }
 { "name": "hltv", "type": "Game" }
 
-# CS 1.6
-{ "name": "cstrike-online.exe", "type": "Game" }

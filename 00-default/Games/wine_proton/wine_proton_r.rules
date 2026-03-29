@@ -109,14 +109,10 @@
 
 # Red Dead Online https://store.steampowered.com/app/1404210/Red_Dead_Online/
 { "name": "PlayRDR2.exe", "type": "Game" }
-{ "name": "RDR2.exe", "type": "Game" }
 
 # Red Dead Redemption https://store.steampowered.com/app/2668510/Red_Dead_Redemption/
 { "name": "PlayRDR.exe", "type": "Game" }
 { "name": "RDR.exe", "type": "Game" }
-
-# Red Dead Redemption 2 https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
-{ "name": "RDR2.exe", "type": "Game" }
 
 # Red Faction https://store.steampowered.com/app/20530/Red_Faction/
 # https://github.com/rafalh/dashfaction
