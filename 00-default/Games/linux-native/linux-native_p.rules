@@ -58,6 +58,9 @@
 # https://steamdb.info/app/233250/
 { "name": "PA", "type": "Game" }
 
+# Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
+{ "name": "PA", "type": "Game" }
+
 # Portal 2 https://store.steampowered.com/app/620/Portal_2/
 { "name": "portal2_linux", "type": "Game" }
 
@@ -72,6 +75,15 @@
 
 # POSTAL Redux https://store.steampowered.com/app/401680/POSTAL_Redux/
 { "name": "PostalREDUX-Linux-Shipping", "type": "Game" }
+
+# Prison Architect https://store.steampowered.com/app/233450/Prison_Architect/
+{ "name": "PrisonArchitect", "type": "Game" }
+
+# Project: Gorgon https://store.steampowered.com/app/342940/Project_Gorgon/
+{ "name": "ProjectGorgon", "type": "Game" }
+
+# Project Highrise https://store.steampowered.com/app/423580/Project_Highrise/
+{ "name": "Game.x86_64", "type": "Game" }
 
 # Project Zomboid https://store.steampowered.com/app/108600/Project_Zomboid/
 { "name": "ProjectZomboid64", "type": "Game" }

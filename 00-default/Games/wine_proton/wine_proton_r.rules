@@ -22,6 +22,9 @@
 # Raging Justice https://store.steampowered.com/app/384200/Raging_Justice/
 { "name": "RagingJustice.exe", "type": "Game" }
 
+# Raging Loop https://store.steampowered.com/app/648100/Raging_Loop/
+{ "name": "ragingloop.exe", "type": "Game" }
+
 # Rabbit and Steel https://store.steampowered.com/app/2132850/Rabbit_and_Steel/
 { "name": "RabbitSteel.exe", "type": "Game" }
 
@@ -40,17 +43,43 @@
 # Railroad Corporation 2 https://store.steampowered.com/app/1677970/Railroad_Corporation_2/
 { "name": "RailroadCorporation2.exe", "type": "Game" }
 
+# Railroader https://store.steampowered.com/app/1683150/Railroader/
+{ "name": "Railroader.exe", "type": "Game" }
+
+# Railway Empire 2 https://store.steampowered.com/app/1644320/Railway_Empire_2/
+{ "name": "RailwayEmpire2.exe", "type": "Game" }
+
 # Rain World https://store.steampowered.com/app/312520/Rain_World/
 { "name": "RainWorld.exe", "type": "Game" }
 
-# Road 96 https://store.steampowered.com/app/1466640/Road_96/
-{ "name": "Road 96.exe", "type": "Game" }
+# Rampage Knights https://store.steampowered.com/app/314410/Rampage_Knights/
+{ "name": "rampage_knights.exe", "type": "Game" }
+
+# Ranch Simulator: Build, Hunt, Farm https://store.steampowered.com/app/1119730/Ranch_Simulator_Build_Hunt_Farm/
+{ "name": "Ranch_Simulator.exe", "type": "Game" }
+{ "name": "Ranch_Simulator-Win64-Shipping.exe", "type": "Game" }
 
 # Ratchet & Clank: Rift Apart https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
 { "name": "RiftApart.exe", "type": "Game" }
 
+# Ratropolis https://store.steampowered.com/app/1108370/Ratropolis/
+{ "name": "Ratropolis.exe", "type": "Game" }
+
 # Ravenswatch https://store.steampowered.com/app/2071280/Ravenswatch/
 { "name": "Ravenswatch.exe", "type": "Game" }
+
+# Rayman: 30th Anniversary Edition https://store.steampowered.com/app/4094670/Rayman_30th_Anniversary_Edition/
+{ "name": "rayman30th.exe", "type": "Game" }
+
+# Rayman Legends https://store.steampowered.com/app/242550/Rayman_Legends/
+{ "name": "Rayman Legends.exe", "type": "Game" }
+
+# Razortron 2000 https://store.steampowered.com/app/539720/Razortron_2000/
+{ "name": "Razortron 2000 - Original.exe", "type": "Game" }
+{ "name": "Razortron 2000.exe", "type": "Game" }
+
+# Road 96 https://store.steampowered.com/app/1466640/Road_96/
+{ "name": "Road 96.exe", "type": "Game" }
 
 # R.A.W. Realms of Ancient War https://store.steampowered.com/app/209730/RAW_Realms_of_Ancient_War/
 { "name": "Realms Of Ancient War.exe", "type": "Game" }
@@ -59,8 +88,8 @@
 { "name": "ReadyOrNot.exe", "type": "Game" }
 { "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" }
 
-# Rayman: 30th Anniversary Edition https://store.steampowered.com/app/4094670/Rayman_30th_Anniversary_Edition/
-{ "name": "rayman30th.exe", "type": "Game" }
+# Realm Grinder https://store.steampowered.com/app/610080/Realm_Grinder/
+{ "name": "RealmGrinderDesktop.exe", "type": "Game" }
 
 # Realm of the Mad God Exalt https://store.steampowered.com/app/200210/Realm_of_the_Mad_God_Exalt/
 { "name": "RotMG Exalt Launcher.exe", "type": "Game" }
@@ -71,9 +100,16 @@
 # ReCore: Definitive Edition https://store.steampowered.com/app/537450/ReCore_Definitive_Edition/
 { "name": "ReCore.exe", "type": "Game" }
 
+# Recycling Center Simulator https://store.steampowered.com/app/2928520/Recycling_Center_Simulator/
+{ "name": "rcsim.exe", "type": "Game" }
+
 # [REDACTED] https://store.steampowered.com/app/2229940/REDACTED/
 { "name": "Redacted.exe", "type": "Game" }
 { "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
+
+# Red Dead Online https://store.steampowered.com/app/1404210/Red_Dead_Online/
+{ "name": "PlayRDR2.exe", "type": "Game" }
+{ "name": "RDR2.exe", "type": "Game" }
 
 # Red Dead Redemption https://store.steampowered.com/app/2668510/Red_Dead_Redemption/
 { "name": "PlayRDR.exe", "type": "Game" }
@@ -106,6 +142,9 @@
 # Redout 2 https://store.steampowered.com/app/1799930/Redout_2/
 { "name": "redout2.exe", "type": "Game" }
 { "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
+
+# Regions Of Ruin https://store.steampowered.com/app/680360/Regions_Of_Ruin/
+{ "name": "Regions of Ruin.exe", "type": "Game" }
 
 # Reigns: The Witcher https://store.steampowered.com/app/1651600/Reigns_The_Witcher/
 { "name": "ReignsWitcher.exe", "type": "Game" }
@@ -191,6 +230,18 @@
 { "name": "BusterBlock.exe", "type": "Game" }
 { "name": "BusterBlock-Win64-Shipping.exe", "type": "Game" }
 
+# rFactor 2 https://store.steampowered.com/app/365960/rFactor_2/
+{ "name": "Launch rFactor.exe", "type": "BG_CPUIO" }
+{ "name": "rFactor2 Mod Mode.exe", "type": "Game" }
+{ "name": "rFactor2.exe", "type": "Game" }
+{ "name": "rFactor2 Dedicated.exe", "type": "Game" }
+
+# Richman10 https://store.steampowered.com/app/1162520/Richman10/
+{ "name": "richman10.exe", "type": "Game" }
+
+# Riichi City https://store.steampowered.com/app/1954420/Riichi_City_x_Date_A_LiveV/
+{ "name": "Mahjong-JP.exe", "type": "Game" }
+
 # Ride 2 https://store.steampowered.com/app/477770/Ride_2/
 { "name": "Ride2.exe", "type": "Game" }
 { "name": "Ride2X64.exe", "type": "Game" }
@@ -239,6 +290,10 @@
 # Rising Lords https://store.steampowered.com/app/835650/Rising_Lords/
 { "name": "RisingLords.exe", "type": "Game" }
 
+# Rising Storm 2: Vietnam https://store.steampowered.com/app/418460/Rising_Storm_2_Vietnam/
+{ "name": "RisingStorm2.exe", "type": "Game" }
+{ "name": "VNGame.exe", "type": "Game" }
+
 # Risk of Rain (2013) https://store.steampowered.com/app/248820/Risk_of_Rain_2013/
 { "name": "Risk of Rain.exe", "type": "Game" }
 
@@ -278,6 +333,9 @@
 
 # Rocket League https://www.rocketleague.com/en/
 { "name": "RocketLeague.exe", "type": "Game" }
+
+# Rock 'N' Roll Defense https://store.steampowered.com/app/438480/Rock_N_Roll_Defense/
+{ "name": "Rock 'N' Roll Defense.exe", "type": "Game" }
 
 # Roguebook https://store.steampowered.com/app/1076200/Roguebook/
 { "name": "Roguebook.exe", "type": "Game" }
@@ -342,6 +400,9 @@
 # Romancing SaGa 2 https://store.steampowered.com/app/606370/Romancing_SaGa_2/
 { "name": "rs2.exe", "type": "Game" }
 
+# Ropuka's Idle Island https://store.steampowered.com/app/3416070/Ropukas_Idle_Island/
+{ "name": "RopukaIdleIsland.exe", "type": "Game" }
+
 # Rotastic https://store.steampowered.com/app/204580/Rotastic/
 { "name": "Rotastic.exe", "type": "Game" }
 
@@ -386,9 +447,16 @@
 # Rune Classic https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
 
+# RuneScape https://store.steampowered.com/app/1343400/RuneScape/
+{ "name": "RuneScape.exe", "type": "Game" }
+
 # RuneScape: Dragonwilds https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/
 { "name": "RSDragonwilds.exe", "type": "Game" }
 { "name": "RSDragonwilds-Win64-Shipping.exe", "type": "Game" }
+
+# RUNNING WITH RIFLES https://store.steampowered.com/app/270150/RUNNING_WITH_RIFLES/
+{ "name": "rwr_config.exe", "type": "Game" }
+{ "name": "rwr_game.exe", "type": "Game" }
 
 # RUSH: A Disney • PIXAR Adventure https://store.steampowered.com/app/579490/RUSH_A_Disney_o_PIXAR_Adventure/
 { "name": "Rushx64.exe", "type": "Game" }
@@ -399,6 +467,9 @@
 # Rust https://store.steampowered.com/app/252490/Rust/
 { "name": "Rust.exe", "type": "Game" }
 { "name": "RustClient.exe", "type": "Game" }
+
+# Rusty Lake Paradise https://store.steampowered.com/app/744190/Rusty_Lake_Paradise/
+{ "name": "RustyLakeParadise.exe", "type": "Game" }
 
 # Ryse: Son of Rome https://store.steampowered.com/app/302510/Ryse_Son_of_Rome/
 { "name": "Ryse.exe", "type": "Game" }

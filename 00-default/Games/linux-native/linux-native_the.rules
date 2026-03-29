@@ -9,12 +9,25 @@
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
 
+# The Battle of Polytopia https://store.steampowered.com/app/874390/The_Battle_of_Polytopia/
+{ "name": "Polytopia.x86_64", "type": "Game" }
+
 # The Binding of Isaac: Rebirth https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac.i386", "type": "Game" }
 { "name": "isaac.x64", "type": "Game" }
 
+# The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
+{ "name": "game.x86_64", "type": "Game" }
+
+# The Escapists 2 https://store.steampowered.com/app/641990/The_Escapists_2/
+{ "name": "TheEscapists2.x86", "type": "Game" }
+{ "name": "TheEscapists2.x86_64", "type": "Game" }
+
 # The Eternal Castle [REMASTERED] qhttps://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/
 { "name": "TheEternalCastle", "type": "Game" }
+
+# The Farmer Was Replaced https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
+{ "name": "TheFarmerWasReplaced.x86_64", "type": "Game" }
 
 # The Legend of Zelda: Majora's Mask Recompiled https://github.com/Zelda64Recomp/Zelda64Recomp
 { "name": "Zelda64Recompiled", "type": "Game" }
@@ -34,6 +47,9 @@
 
 # The Séance of Blake Manor https://store.steampowered.com/app/1395520/The_Sance_of_Blake_Manor/
 { "name": "The Seance of Blake Manor.x86_64", "type": "Game" }
+
+# The Whispered World Special Edition https://store.steampowered.com/app/268540/The_Whispered_World_Special_Edition/
+{ "name": "TWWSE", "type": "Game" }
 
 # The Witcher 2: Assassins of Kings Enhanced Edition https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
 { "name": "witcher2", "type": "Game" }

@@ -5,6 +5,9 @@
 
 ### O ###
 
+# Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
+{ "name": "Offworld.x86_64", "type": "Game" }
+
 # OneShot https://store.steampowered.com/app/420530/OneShot/
 { "name": "oneshot", "type": "Game" }
 
@@ -34,6 +37,9 @@
 # Overcooked! 2 https://store.steampowered.com/app/728880/Overcooked_2/
 { "name": "Overcooked2.x86", "type": "Game" }
 { "name": "Overcooked2.x86_64 ", "type": "Game" }
+
+# Overlord https://store.steampowered.com/app/11450/Overlord/
+{ "name": "overlord", "type": "Game" }
 
 # Oxygen Not Included https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded", "type": "Game" }

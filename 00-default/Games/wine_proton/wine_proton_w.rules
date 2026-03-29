@@ -44,9 +44,16 @@
 # Warhammer 40,000: Darktide https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/
 { "name": "Darktide.exe", "type": "Game" }
 
+# Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
+{ "name": "dow2.exe", "type": "Game" }
+{ "name": "DOW2.exe", "type": "Game" }
+
 # Warhammer 40,000: Dawn of War - Definitive Edition https://store.steampowered.com/app/3556750/Warhammer_40000_Dawn_of_War__Definitive_Edition/
 { "name": "W40k.exe", "type": "Game" }
 { "name": "W40kME.exe", "type": "Game" }
+
+# Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
+{ "name": "Gladius.exe", "type": "Game" }
 
 # Warhammer 40,000: Inquisitor - Prophecy https://store.steampowered.com/app/1042800/Warhammer_40000_Inquisitor__Prophecy/
 { "name": "WarHammer_Inquisitor_Prophecy.exe", "type": "Game" }
@@ -104,8 +111,15 @@
 # War Hospital https://store.steampowered.com/app/1553000/War_Hospital/
 { "name": "War Hospital.exe", "type": "Game" }
 
+# War on the Sea https://store.steampowered.com/app/1280780/War_on_the_Sea/
+{ "name": "WarOnTheSea.exe", "type": "Game" }
+
 # War Robots https://store.steampowered.com/app/767560/War_Robots/
 { "name": "War Robots Steam.exe", "type": "Game" }
+
+# War Robots: Frontiers https://store.steampowered.com/app/1491000/War_Robots_Frontiers/
+{ "name": "WarRobotsSteamLoader.exe", "type": "Game" }
+{ "name": "WRFrontiers-Win64-Shipping.exe", "type": "Game" }
 
 # WARNO https://store.steampowered.com/app/1611600/WARNO/
 { "name": "WARNO.exe", "type": "Game" }
@@ -124,6 +138,10 @@
 
 # WARRIORS OROCHI 4 https://store.steampowered.com/app/831560/WARRIORS_OROCHI_4/
 { "name": "WO4.exe", "type": "Game" }
+
+# War Selection https://store.steampowered.com/app/1022450/War_Selection/
+{ "name": "SteamLauncher.exe", "type": "Game" }
+{ "name": "GlyphEngine.exe", "type": "Game" }
 
 # Warstride Challenges https://store.steampowered.com/app/1608470/Warstride_Challenges/
 { "name": "Warstride.exe", "type": "Game" }
@@ -149,17 +167,26 @@
 # Watch_Dogs 2 https://store.steampowered.com/app/447040/Watch_Dogs_2/
 { "name": "WatchDogs2.exe", "type": "Game" }
 
+# Watch Dogs: Legion https://store.steampowered.com/app/2239550/Watch_Dogs_Legion/
+{ "name": "WatchDogsLegion.exe", "type": "Game" }
+
 # Watchmen: The End is Nigh Part 2 https://store.steampowered.com/app/21030/Watchmen_The_End_is_Nigh_Part_2/
 { "name": "KapowMulti.exe", "type": "Game" }
 
 # Waterpark Simulator https://store.steampowered.com/app/3293260/Waterpark_Simulator/
 { "name": "WaterparkSimulator.exe", "type": "Game" }
 
+# Wavetale https://store.steampowered.com/app/1823930/Wavetale/
+{ "name": "Wavetale.exe", "type": "Game" }
+
 # We Happy Few https://store.steampowered.com/app/320240/We_Happy_Few/
 { "name": "GlimpseGame.exe", "type": "Game" }
 
 # Welcome to Doll Town https://store.steampowered.com/app/3204320/Welcome_to_Doll_Town/
 { "name": "Welcome to Doll Town.exe", "type": "Game" }
+
+# Welcome to ParadiZe https://store.steampowered.com/app/1519090/Welcome_to_ParadiZe/
+{ "name": "Zombie3.exe", "type": "Game" }
 
 # We Love Katamari REROLL+ Royal Reverie https://store.steampowered.com/app/1730700/We_Love_Katamari_REROLL_Royal_Reverie/
 { "name": "WLKRR.exe", "type": "Game" }
@@ -177,6 +204,9 @@
 
 # Wet Passion https://store.steampowered.com/app/3495810/Wet_Passion/
 { "name": "Wet passion.exe", "type": "Game" }
+
+# We Were Here Forever https://store.steampowered.com/app/1341290/We_Were_Here_Forever/
+{ "name": "We Were Here Forever.exe", "type": "Game" }
 
 # We Were Here Together https://store.steampowered.com/app/865360/We_Were_Here_Together/
 { "name": "We Were Here Together.exe", "type": "Game" }
@@ -219,6 +249,7 @@
 
 # Witchfire https://store.steampowered.com/app/3156770/Witchfire/
 { "name": "Witchfire.exe", "type": "Game" }
+{ "name": "Witchfire-Win64-Shipping.exe", "type": "Game" }
 
 # Wizard101 https://store.steampowered.com/app/799960/Wizard101/
 { "name": "Wizard101.exe", "type": "Game" }
@@ -246,6 +277,9 @@
 
 # Wo Long: Fallen Dynasty https://store.steampowered.com/app/1448440/Wo_Long_Fallen_Dynasty/
 { "name": "WoLong.exe", "type": "Game"}
+
+# Wonderful Everyday Down the Rabbit-Hole https://store.steampowered.com/app/658620/Wonderful_Everyday_Down_the_RabbitHole/
+{ "name": "BGI.exe", "type": "Game" }
 
 # WonderKing https://store.steampowered.com/app/3825780/WonderKing/
 { "name": "WonderKing.exe", "type": "Game" }
@@ -348,6 +382,9 @@
 { "name": "Project_Plague.exe", "type": "Game" }
 { "name": "Project_Plague-Deck-Shipping.exe", "type": "Game" }
 { "name": "Project_Plague-Win64-Shipping.exe", "type": "Game" }
+
+# Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/
+{ "name": "WurmLauncher.exe", "type": "Game" }
 
 # Wuthering Waves https://store.steampowered.com/app/3513350/Wuthering_Waves/
 { "name": "KRSDKExternal.exe", "type": "Game" }

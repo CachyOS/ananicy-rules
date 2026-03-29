@@ -9,5 +9,11 @@
 { "name": "gzdoom", "type": "Game" }
 { "name": "zdoom", "type": "Game" }
 
+# Zero-K https://store.steampowered.com/app/334920/ZeroK/
+{ "name": "Zero-K_linux64.sh", "type": "Game" }
+{ "name": "Zero-K_linux32.sh", "type": "Game" }
+{ "name": "Zero-K_linux64", "type": "Game" }
+{ "name": "Zero-K_linux32", "type": "Game" }
+
 # Zombie Panic! Source https://store.steampowered.com/app/17500/Zombie_Panic_Source/
 { "name": "zps_linux", "type": "Game" }

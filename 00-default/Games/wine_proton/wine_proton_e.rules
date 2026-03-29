@@ -303,6 +303,10 @@
 # EverQuest II https://store.steampowered.com/app/201230/EverQuest_II/
 { "name": "EverQuest2.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/3363680/EverSiege_Untold_Ages/
+{ "name": "EversiegeSteam.exe", "type": "Game" }
+{ "name": "EversiegeSteam-Win64-Shipping.exe", "type": "Game" }
+
 # EVERSPACE https://store.steampowered.com/app/396750/EVERSPACE/
 { "name": "Everspace.exe", "type": "Game" }
 { "name": "Everspace_32bit.exe", "type": "Game" }

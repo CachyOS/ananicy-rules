@@ -5,6 +5,9 @@
 
 ### U ###
 
+# UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
+{ "name": "runner", "type": "Game" }
+
 # Ultimate Chicken Horse https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/
 { "name": "UltimateChickenHorse.x86_64", "type": "Game" }
 
@@ -31,6 +34,10 @@
 
 # Unturned https://store.steampowered.com/app/304930/Unturned/
 { "name": "Unturned.x86_64", "type": "Game" }
+
+# Uplink https://store.steampowered.com/app/1510/Uplink/
+{ "name": "uplink.bin.x86_64", "type": "Game" }
+{ "name": "uplink.bin.x86", "type": "Game" }
 
 # Upload Labs https://store.steampowered.com/app/3606890/Upload_Labs/
 { "name": "Upload Labs.x86_64", "type": "Game" }

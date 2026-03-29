@@ -5,6 +5,9 @@
 
 ### O ###
 
+# Obenseuer https://store.steampowered.com/app/951240/Obenseuer/
+{ "name": "Obenseuer.exe", "type": "Game" }
+
 # Obliteracers https://store.steampowered.com/app/368740/Obliteracers/
 { "name": "Obliteracers.exe", "type": "Game" }
 
@@ -19,15 +22,23 @@
 # OCTOPATH TRAVELER II https://store.steampowered.com/app/1971650/OCTOPATH_TRAVELER_II/
 { "name": "Octopath_Traveler2-Win64-Shipping.exe", "type": "Game" }
 
+# Oddsparks: An Automation Adventure https://store.steampowered.com/app/1817800/Oddsparks_An_Automation_Adventure/
+{ "name": "Oddsparks.exe", "type": "Game" }
+{ "name": "Loc-Win64-Shipping.exe", "type": "Game" }
+
 # Of Ash and Steel https://store.steampowered.com/app/2893820/Of_Ash_and_Steel/
 { "name": "ofAshAndSteelGame.exe", "type": "Game" }
 { "name": "ofAshAndSteelGame-Win64-Shipping.exe", "type": "Game" }
 
+# Of Orcs And Men https://store.steampowered.com/app/216910/Of_Orcs_And_Men/
+{ "name": "OfOrcsAndMen_Steam.exe", "type": "Game" }
+
 # Off The Grid https://store.steampowered.com/app/3659280/Off_The_Grid/
 { "name": "G01Client-Win64-Shipping.exe", "type": "Game" }
 
-# Of Orcs And Men https://store.steampowered.com/app/216910/Of_Orcs_And_Men/
-{ "name": "OfOrcsAndMen_Steam.exe", "type": "Game" }
+# Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
+{ "name": "StardockLauncher.exe", "type": "Game" }
+{ "name": "Offworld.exe", "type": "Game" }
 
 # Oh Deer https://store.steampowered.com/app/2708450/Oh_Deer
 { "name" : "OhDeer.exe" ,"type" : "Game"}
@@ -44,8 +55,14 @@
 # Omelet You Cook https://store.steampowered.com/app/3205380/Omelet_You_Cook/
 { "name": "Omelet You Cook.exe", "type": "Game" }
 
+# OMSI 2: Steam Edition https://store.steampowered.com/app/252530/OMSI_2_Steam_Edition/
+{ "name": "Omsi.exe", "type": "Game" }
+
 # Once Human https://store.steampowered.com/app/2139460/Once_Human/
 { "name": "ONCE_HUMAN.exe", "type": "Game" }
+
+# Once in Yaissor https://store.steampowered.com/app/553790/Once_in_Yaissor/
+{ "name": "OIY.exe", "type": "Game" }
 
 # Once Upon A KATAMARI https://store.steampowered.com/app/1880620/Once_Upon_A_KATAMARI/
 { "name": "OnceUponaKATAMARI.exe", "type": "Game" }
@@ -84,11 +101,18 @@
 # Onimusha 2: Samurai's Destiny https://store.steampowered.com/app/3046600/Onimusha_2_Samurais_Destiny/
 { "name": "Onimusha2.exe", "type": "Game" }
 
+# Onmyoji https://store.steampowered.com/app/551170/Onmyoji/
+{ "name": "client.exe", "type": "Game" }
+{ "name": "onmyoji.exe", "type": "Game" }
+
 # Operation: Tango https://store.steampowered.com/app/1335790/Operation_Tango/
 { "name": "Operation Tango.exe", "type": "Game" }
 
 # OPERATOR https://store.steampowered.com/app/1913370/OPERATOR/
 { "name": "OPERATOR.exe", "type": "Game" }
+
+# Opus Magnum https://store.steampowered.com/app/558990/Opus_Magnum/
+{ "name": "Lightning.exe", "type": "Game" }
 
 # Ori and the Blind Forest: Definitive Edition https://store.steampowered.com/app/387290/Ori_and_the_Blind_Forest_Definitive_Edition/
 { "name": "oriDE.exe", "type": "Game" }
@@ -114,6 +138,10 @@
 
 # Outer Wilds https://store.steampowered.com/app/753640/Outer_Wilds/
 { "name": "OuterWilds.exe", "type": "Game" }
+
+# Outpost: Infinity Siege https://store.steampowered.com/app/1566690/Outpost_Infinity_Siege/
+{ "name": "U01.exe", "type": "Game" }
+{ "name": "U01-Win64-Shipping.exe", "type": "Game" }
 
 # Outward Definitive Edition https://store.steampowered.com/app/794260/Outward_Definitive_Edition/
 { "name": "Outward.exe", "type": "Game" }
@@ -160,6 +188,9 @@
 
 # Overcooked! All You Can Eat https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/
 { "name": "Overcooked All You Can Eat.exe", "type": "Game" }
+
+# Overlord https://store.steampowered.com/app/11450/Overlord/
+{ "name": "Overlord.exe", "type": "Game" }
 
 # OVERPASS https://store.steampowered.com/app/970840/OVERPASS/
 { "name": "overpass.exe", "type": "Game" }

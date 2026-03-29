@@ -14,14 +14,24 @@
 # rbdoom3bfg: https://github.com/RobertBeckebans/RBDOOM-3-BFG
 { "name": "rbdoom3bfg", "type": "Game" }
 
+# Regions Of Ruin https://store.steampowered.com/app/680360/Regions_Of_Ruin/
+{ "name": "Regions of Ruin.x86_64", "type": "Game" }
+
 # Resolutiion https://store.steampowered.com/app/975150/Resolutiion/
 { "name": "Resolutiion.x86_64", "type": "Game" }
+
+# Riichi City https://store.steampowered.com/app/1954420/Riichi_City_x_Date_A_LiveV/
+{ "name": "Mahjong-JP.x86_64", "type": "Game" }
 
 # RimWorld - https://rimworldgame.com/
 { "name": "RimWorldLinux", "type": "Game" }
 
 # Riot: https://about.riot.im/
 { "name": "riot-web", "type": "LowLatency_RT" }
+
+# Rise of the Tomb Raider https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
+{ "name": "RiseOfTheTombRaider.sh", "type": "Game" }
+{ "name": "RiseOfTheTombRaider", "type": "Game" }
 
 # Risk of Rain (2013) https://store.steampowered.com/app/248820/Risk_of_Rain_2013/
 { "name": "Risk_of_Rain", "type": "Game" }
@@ -42,3 +52,10 @@
 
 # RUINER https://store.steampowered.com/app/464060/RUINER/
 { "name": "Ruiner-Linux-Shipping", "type": "Game" }
+
+# RUNNING WITH RIFLES https://store.steampowered.com/app/270150/RUNNING_WITH_RIFLES/
+{ "name": "launch_config", "type": "Game" }
+{ "name": "launch_game", "type": "Game" }
+
+# Rust https://store.steampowered.com/app/252490/Rust/
+{ "name": "rust", "type": "Game" }

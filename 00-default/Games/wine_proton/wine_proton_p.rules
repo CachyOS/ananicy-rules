@@ -76,6 +76,9 @@
 # PARANORMASIGHT: The Seven Mysteries of Honjo https://store.steampowered.com/app/2106840/PARANORMASIGHT_The_Seven_Mysteries_of_Honjo/
 { "name": "PPARANORMASIGHT.exe", "type": "Game" }
 
+# Parkitect https://store.steampowered.com/app/453090/Parkitect/
+{ "name": "Parkitect.exe", "type": "Game" }
+
 # Party Animals https://store.steampowered.com/app/1260320/Party_Animals/
 { "name": "PartyAnimals.exe", "type": "Game" }
 
@@ -98,8 +101,14 @@
 { "name": "PathOfExile_x64.exe", "type": "Game" }
 { "name": "PathOfExile.exe", "type": "Game" }
 
+# Path of Kung Fu https://store.steampowered.com/app/2361680/Path_of_Kung_Fu/
+{ "name": "daojianjianghulu.exe", "type": "Game" }
+
 # Pathologic 3 https://store.steampowered.com/app/3199650/Pathologic_3/
 { "name": "Pathologic3.exe", "type": "Game" }
+
+# Pathologic Classic HD https://store.steampowered.com/app/384110/Pathologic_Classic_HD/
+{ "name": "Game.exe", "type": "Game" }
 
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_win32_release.exe", "type": "Game" }
@@ -112,14 +121,11 @@
 # PEAK https://store.steampowered.com/app/3527290/PEAK/
 { "name": "PEAK.exe", "type": "Game" }
 
-# Professional Fishing 2 https://store.steampowered.com/app/1232220/Professional_Fishing_2/
-{ "name": "Professional Fishing 2.exe", "type": "Game" }
+# Peaks of Yore https://store.steampowered.com/app/2236070/Peaks_of_Yore/
+{ "name": "Peaks of Yore.exe", "type": "Game" }
 
-# Professional Fishing https://store.steampowered.com/app/798420/Professional_Fishing/
-{ "name": "ProFishing.exe", "type": "Game" }
-
-# Professional Lumberjack 2015 https://store.steampowered.com/app/316240/Professional_Lumberjack_2015/
-{ "name": "WoodCutter2015.exe", "type": "Game" }
+# Peggle Nights https://store.steampowered.com/app/3540/Peggle_Nights/
+{ "name": "PeggleNights.exe", "type": "Game" }
 
 # Pentiment https://store.steampowered.com/app/1205520/Pentiment/
 { "name": "Pentiment.exe", "type": "Game" }
@@ -181,6 +187,9 @@
 # Phoenix Wright: Ace Attorney Trilogy https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/
 { "name": "PWAAT.exe", "type": "Game" }
 
+# Pillars of Eternity https://store.steampowered.com/app/291650/Pillars_of_Eternity/
+{ "name": "PillarsOfEternity.exe", "type": "Game" }
+
 # Pink Noise https://store.steampowered.com/app/2885810/Pink_Noise/
 { "name": "Pink Noise.exe", "type": "Game" }
 
@@ -193,8 +202,14 @@
 # Plan B: Terraform https://store.steampowered.com/app/1894430/Plan_B_Terraform/
 { "name": "Plan B Terraform.exe", "type": "Game" }
 
+# Planes, Bullets and Vodka https://store.steampowered.com/app/562360/Planes_Bullets_and_Vodka/
+{ "name": "Planes, Bullets and Vodka.exe", "type": "Game" }
+
 # PLANET ALPHA https://store.steampowered.com/app/485030/PLANET_ALPHA/
 { "name": "PlanetAlpha.exe", "type": "Game" }
+
+# Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
+{ "name": "pa.exe", "type": "Game" }
 
 # Planet Coaster https://store.steampowered.com/app/493340/Planet_Coaster/
 { "name": "PlanetCoaster.exe", "type": "Game" }
@@ -207,6 +222,9 @@
 
 # Planet of Lana II https://store.steampowered.com/app/2997230/Planet_of_Lana_II/
 { "name": "Planet of Lana 2.exe", "type": "Game" }
+
+# PlanetSide 2 https://store.steampowered.com/app/218230/PlanetSide_2/
+{ "name": "PlanetSide2_x64.exe", "type": "Game" }
 
 # Planet Zoo https://store.steampowered.com/app/703080/Planet_Zoo/
 { "name": "PlanetZoo.exe", "type": "Game" }
@@ -273,6 +291,9 @@
 # Potion Craft: Alchemist Simulator https://store.steampowered.com/app/1210320/Potion_Craft_Alchemist_Simulator/
 { "name": "Potion Craft.exe", "type": "Game" }
 
+# Potion Permit https://store.steampowered.com/app/1337760/Potion_Permit/
+{ "name": "Potion Permit.exe", "type": "Game" }
+
 # PowerWash Simulator https://store.steampowered.com/app/1290000/PowerWash_Simulator/
 { "name": "PowerWashSimulator.exe", "type": "Game" }
 
@@ -297,6 +318,10 @@
 # Prince of Persia The Lost Crown https://store.steampowered.com/app/2751000/Prince_of_Persia_The_Lost_Crown/
 { "name": "TheLostCrown.exe", "type": "Game" }
 
+# Prison Architect https://store.steampowered.com/app/233450/Prison_Architect/
+{ "name": "Prison Architect.exe", "type": "Game" }
+{ "name": "prison architect64.exe", "type": "Game" }
+
 # Pro Cycling Manager 25 https://store.steampowered.com/app/2511310/Pro_Cycling_Manager_25/
 { "name": "PCM-Win64-Shipping.exe", "type": "Game" }
 { "name": "PCM.exe", "type": "Game" }
@@ -310,8 +335,26 @@
 # Pro Evolution Soccer 2013 https://www.pcgamingwiki.com/wiki/Pro_Evolution_Soccer_2013
 { "name": "pes2013.exe", "type": "Game" }
 
+# Professional Fishing https://store.steampowered.com/app/798420/Professional_Fishing/
+{ "name": "ProFishing.exe", "type": "Game" }
+
+# Professional Fishing 2 https://store.steampowered.com/app/1232220/Professional_Fishing_2/
+{ "name": "Professional Fishing 2.exe", "type": "Game" }
+
+# Professional Lumberjack 2015 https://store.steampowered.com/app/316240/Professional_Lumberjack_2015/
+{ "name": "WoodCutter2015.exe", "type": "Game" }
+
 # PRO FISHING SIMULATOR https://store.steampowered.com/app/794180/PRO_FISHING_SIMULATOR/
 { "name": "ProFishingSimulator.exe", "type": "Game" }
+
+# Project Castaway https://store.steampowered.com/app/1713350/Project_Castaway/
+{ "name": "Project Castaway.exe", "type": "Game" }
+
+# Project: Gorgon https://store.steampowered.com/app/342940/Project_Gorgon/
+{ "name": "WindowsPlayer.exe", "type": "Game" }
+
+# Project Highrise https://store.steampowered.com/app/423580/Project_Highrise/
+{ "name": "Game.exe", "type": "Game" }
 
 # PROJECT: PLAYTIME https://store.steampowered.com/app/1961460/PROJECT_PLAYTIME
 { "name": "Playtime_Multiplayer.exe", "type": "Game" }
@@ -325,8 +368,12 @@
 { "name": "ProjectWingman.exe", "type": "Game" }
 { "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
 
-# Project Castaway https://store.steampowered.com/app/1713350/Project_Castaway/
-{ "name": "Project Castaway.exe", "type": "Game" }
+# Project Zomboid https://store.steampowered.com/app/108600/Project_Zomboid/
+{ "name": "ProjectZomboid32.exe", "type": "Game" }
+{ "name": "ProjectZomboid64.exe", "type": "Game" }
+
+# Pro Soccer Online https://store.steampowered.com/app/1583320/Pro_Soccer_Online/
+{ "name": "ProSoccerOnline.exe", "type": "Game" }
 
 # Prototype https://store.steampowered.com/app/10150/Prototype
 { "name": "prototypef.exe", "type": "Game" }
@@ -341,6 +388,12 @@
 
 # Pummel Party https://store.steampowered.com/app/880940/Pummel_Party/
 { "name": "PummelParty.exe", "type": "Game" }
+
+# Puyo PuyoTetris https://store.steampowered.com/app/546050/Puyo_PuyoTetris/
+{ "name": "puyopuyotetris.exe", "type": "Game" }
+
+# Puzzle Together https://store.steampowered.com/app/1478220/Puzzle_Together_Multiplayer_Jigsaw_Puzzles/
+{ "name": "Puzzle Together.exe", "type": "Game" }
 
 # Psych Engine https://github.com/ShadowMario/FNF-PsychEngine
 { "name": "PsychEngine.exe", "type": "Game" }

@@ -5,11 +5,18 @@
 
 ### N ###
 
+# N++ (NPLUSPLUS) https://store.steampowered.com/app/230270/N_NPLUSPLUS/
+{ "name": "N++.bin.x86", "type": "Game" }
+{ "name": "N++.bin.x86_64", "type": "Game" }
+
 # Natural Selection 2 http://store.steampowered.com/app/4920/Natural_Selection_2/
 { "name": "ns2_linux", "type": "Game" }
 
 # Neverwinter Nights: Enhanced Edition https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/
 { "name": "nwmain-linux", "type": "Game" }
+
+# Nordhold https://store.steampowered.com/app/3028310/Nordhold/
+{ "name": "NordHold.x86_64", "type": "Game" }
 
 # NSFW Solitaire & Puzzles https://store.steampowered.com/app/2274120/NSFW_Solitaire/
 { "name": "NSFWSolitaire.x86_64", "type": "Game" }

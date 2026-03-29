@@ -8,6 +8,13 @@
 # Saints Row IV: Re-Elected http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
 { "name": "SaintsRow4.i386", "type": "Game" }
 
+# Salt https://store.steampowered.com/app/327860/Salt/
+{ "name": "Salt.x86", "type": "Game" }
+
+# Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
+{ "name": "FactoryGame.sh", "type": "Game" }
+{ "name": "FactoryGameSteam.sh", "type": "Game" }
+
 # Selaco https://store.steampowered.com/app/1592280/Selaco/
 { "name": "Selaco.x86_64", "type": "Game" }
 
@@ -16,6 +23,9 @@
 
 # Serious Sam Fusion 2017 (beta) https://store.steampowered.com/app/564310/Serious_Sam_Fusion_2017_beta/
 { "name": "Sam2017", "type": "Game" }
+{ "name": "Sam2017_Unrestricted", "type": "Game" }
+{ "name": "Sam2017_Unrestricted_VR", "type": "Game" }
+{ "name": "Sam2017_VR", "type": "Game" }
 
 # Shadowgate https://store.steampowered.com/app/294440/Shadowgate/
 { "name": "Shadowgate.x86", "type": "Game" }
@@ -38,6 +48,12 @@
 # ShellShock Live https://store.steampowered.com/app/326460/ShellShock_Live/
 { "name": "ShellShockLive.x64", "type": "Game" }
 
+# Ship of Fools https://store.steampowered.com/app/1286580/Ship_of_Fools/
+{ "name": "ShipOfFools.x86_64", "type": "Game" }
+
+# Shotgun King: The Final Checkmate https://store.steampowered.com/app/1972440/Shotgun_King_The_Final_Checkmate/
+{ "name": "shotgun_king", "type": "Game" }
+
 # Shovel Knight: Treasure Trove https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/
 { "name": "ShovelKnight", "type": "Game" }
 
@@ -55,6 +71,10 @@
 
 # Skyborn https://store.steampowered.com/app/278460/Skyborn/
 { "name": "Skyborn.amd64", "type": "Game" }
+
+# SKYHILL https://store.steampowered.com/app/382140/SKYHILL/
+{ "name": "Skyhill.x86", "type": "Game" }
+{ "name": "Skyhill.x86_64", "type": "Game" }
 
 # Slay the Spire https://store.steampowered.com/app/646570/Slay_the_Spire/
 { "name": "SlayTheSpire", "type": "Game" }
@@ -88,6 +108,12 @@
 # SpeedRunners https://store.steampowered.com/app/207140/SpeedRunners/
 { "name": "SpeedRunners.bin.x86_64", "type": "Game" }
 
+# Spin Rhythm XD https://store.steampowered.com/app/1058830/Spin_Rhythm_XD/
+{ "name": "spinrhythm.x86_64", "type": "Game" }
+
+# Spirit Island https://store.steampowered.com/app/1236720/Spirit_Island/
+{ "name": "SpiritIsland.x86_64", "type": "Game" }
+
 # Splitgate https://store.steampowered.com/app/677620/Splitgate/
 { "name": "PortalWars-Linux-Shipping", "type": "Game" }
 
@@ -113,14 +139,20 @@
 # Stellaris https://store.steampowered.com/app/281990/Stellaris/
 { "name": "stellaris", "type": "Game" }
 
+# STONKS-9800: Stock Market Simulator https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/
+{ "name": "STONKS_9800", "type": "Game" }
+
 # Stranded Deep  https://store.steampowered.com/app/246620/Plague_Inc_Evolved/
 { "name": "Stranded_Deep", "type": "Game" }
+
+# Streets of Rage 4 https://store.steampowered.com/app/985890/Streets_of_Rage_4/
+{ "name": "SOR4", "type": "Game" }
 
 # Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
 { "name": "songsofsyx", "type": "Game" }
 
-# Streets of Rage 4 https://store.steampowered.com/app/985890/Streets_of_Rage_4/
-{ "name": "SOR4", "type": "Game" }
+# Sudden Strike 4 https://store.steampowered.com/app/373930/Sudden_Strike_4/
+{ "name": "SuddenStrike4.x86_64", "type": "Game" }
 
 # Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.x86_64", "type": "Game" }

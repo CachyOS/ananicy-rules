@@ -5,27 +5,78 @@
 
 ### M ###
 
+# Mad Max https://store.steampowered.com/app/234140/Mad_Max/
+{ "name": "MadMax.sh", "type": "Game" }
+{ "name": "MadMax", "type": "Game" }
+
+# Magicraft https://store.steampowered.com/app/2103140/Magicraft/
+{ "name": "Magicraft.x86_64", "type": "Game" }
+
+# Marvel's Midnight Suns https://store.steampowered.com/app/368260/Marvels_Midnight_Suns/
+{ "name": "MidnightSuns.sh", "type": "Game" }
+
+# Master of Orion https://store.steampowered.com/app/298050/Master_of_Orion/
+{ "name": "MasterOfOrion.x86_64", "type": "Game" }
+
+# Matchmaking Inc. https://store.steampowered.com/app/2103130/Matchmaking_Inc/
+{ "name": "ChineseDating.x86_64", "type": "Game" }
+
 # McOsu https://store.steampowered.com/app/607260/McOsu/
 { "name": "McEngine", "type": "Game" }
 
 # Megabonk https://store.steampowered.com/app/3405340/Megabonk/
 { "name": "Megabonk.x86_64", "type": "Game" }
 
+# Megaquarium https://store.steampowered.com/app/600480/Megaquarium/
+{ "name": "Megaquarium.x86_64", "type": "Game" }
+
 # Melvor Idle https://store.steampowered.com/app/1267910/Melvor_Idle/
 { "name": "Melvor Idle", "type": "Game" }
+
+# Men of War II https://store.steampowered.com/app/1128860/Men_of_War_II/
+{ "name": "mow2.sh", "type": "Game" }
+{ "name": "mow2_editor.sh", "type": "Game" }
+{ "name": "mow2_editor", "type": "Game" }
 
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro", "type": "Game" }
+{ "name": "benchmark.sh", "type": "Game" }
+
+# Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
+{ "name": "MetroExodus", "type": "Game" }
 
 # Military Conflict: Vietnam https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
 { "name": "mcv_linux64", "type": "Game" }
+
+# Middle-earth: Shadow of Mordor https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
+{ "name": "ShadowOfMordor.sh", "type": "Game" }
+{ "name": "ShadowOfMordor", "type": "Game" }
+
+# Mindustry https://store.steampowered.com/app/1127400/Mindustry/
+{ "name": "Mindustry", "type": "Game" }
+
+# Mini Metro https://store.steampowered.com/app/287980/Mini_Metro/
+{ "name": "launchscript", "type": "Game" }
+{ "name": "Mini Metro", "type": "Game" }
 
 # Mini Royale https://store.steampowered.com/app/1657090/Mini_Royale/
 { "name": "RoomRoyalA-Linux-Shipping", "type": "Game" }
 
 # Mobmod https://gamebanana.com/mods/464620
 { "name": "Mobbos", "type": "Game" }
+
+# Momodora: Reverie Under The Moonlight https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/
+{ "name": "MomodoraRUtM.out", "type": "Game" }
+{ "name": "MomodoraRUtM", "type": "Game" }
+
+# Moonlighter https://store.steampowered.com/app/606150/Moonlighter/
+{ "name": "Moonlighter.x86", "type": "Game" }
+{ "name": "Moonlighter.x86_64", "type": "Game" }
+
+# Monster Sanctuary https://store.steampowered.com/app/814370/Monster_Sanctuary/
+{ "name": "Monster Sanctuary.x86", "type": "Game" }
+{ "name": "Monster Sanctuary.x86_64", "type": "Game" }
 
 # Mother Russia Bleeds https://store.steampowered.com/app/361300/Mother_Russia_Bleeds/
 { "name": "Mother Russia Bleeds.x86_64", "type": "Game" }
