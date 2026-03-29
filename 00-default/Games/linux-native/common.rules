@@ -4,6 +4,7 @@
 # Bot Vice https://store.steampowered.com/app/491040/Bot_Vice/
 # Nuclear Throne https://store.steampowered.com/app/242680/Nuclear_Throne/
 # Strikey Sisters https://store.steampowered.com/app/643880/Strikey_Sisters/
+# UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
 { "name": "runner", "type": "Game" }
 
 # Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
@@ -28,8 +29,18 @@
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 # Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
+# The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
 { "name": "ShooterGame", "type": "Game" }
+
+# Antichamber https://store.steampowered.com/app/219890/Antichamber/
+# Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/
+{ "name": "UDKGame-Linux", "type": "Game" }
+
+# Planetary Annihilation store page is down http://store.steampowered.com/app/233250
+# https://steamdb.info/app/233250/
+# Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
+{ "name": "PA", "type": "Game" }

@@ -11,6 +11,9 @@
 # Tap Ninja - Idle game https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
 { "name": "Tap Ninja.x86_64", "type": "Game" }
 
+# Tavern Master https://store.steampowered.com/app/1525700/Tavern_Master/
+{ "name": "TavernMaster.x86_64", "type": "Game" }
+
 # Team Fortress 2 http://store.steampowered.com/app/440/Team_Fortress_2/
 { "name": "tf_linux64", "type": "Game" }
 { "name": "tf.sh", "type": "Game" }
@@ -64,6 +67,9 @@
 { "name": "Medieval2", "type": "Game" }
 { "name": "Medieval2.sh", "type": "Game" }
 
+# Total War: ROME II - Emperor Edition https://store.steampowered.com/app/214950/Total_War_ROME_II__Emperor_Edition/
+{ "name": "Rome2", "type": "Game" }
+
 # Total War: ROME REMASTERED https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
 { "name": "Total War ROME REMASTERED.sh", "type": "Game" }
 { "name": "Rome", "type": "Game" }
@@ -103,11 +109,21 @@
 # Tropico 5 https://store.steampowered.com/app/245620/Tropico_5/
 { "name": "Tropico5", "type": "Game" }
 
+# Turmoil https://store.steampowered.com/app/361280/Turmoil/
+{ "name": "Turmoil.x86_64", "type": "Game" }
+
 # Turok https://store.steampowered.com/app/405820/Turok/
 { "name": "TurokEx", "type": "Game" }
 
 # Turok 2: Seeds of Evil https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/
 { "name": "Turok2Ex", "type": "Game" }
+
+# Two Point Hospital https://store.steampowered.com/app/535930/Two_Point_Hospital/
+{ "name": "TPH.x86_64", "type": "Game" }
+
+# Two Point Museum https://store.steampowered.com/app/2185060/Two_Point_Museum/
+{ "name": "Borelli.x86_64", "type": "Game" }
+{ "name": "TPM.x86_64", "type": "Game" }
 
 # Tyranny https://store.steampowered.com/app/362960/Tyranny/
 { "name": "Tyranny.x86", "type": "Game" }

@@ -3,6 +3,7 @@
 # If not from any store add name you think it needs.
 
 # The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
+# STAR WARS Galactic Battlegrounds Saga https://store.steampowered.com/app/356500/STAR_WARS_Galactic_Battlegrounds_Saga/
 { "name": "player.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -17,13 +18,15 @@
 # Commando Collection https://store.steampowered.com/app/3059010/Commando_Collection/
 # Destiny Warriors RPG https://store.steampowered.com/app/399790/Destiny_Warriors_RPG/
 # Elise the Devil https://store.steampowered.com/app/711990/Elise_the_Devil/
+# Project Highrise https://store.steampowered.com/app/423580/Project_Highrise/
+# Pathologic Classic HD https://store.steampowered.com/app/384110/Pathologic_Classic_HD/
 { "name": "Game.exe", "type": "Game" }
 
 # Dragon Cliff https://store.steampowered.com/app/758190/Dragon_Cliff/
 # Fish Idle 2: Underwater Mystery https://store.steampowered.com/app/3037410/Fish_Idle_2_Underwater_Mystery/
 # Castlevania Anniversary Collection https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
 # Bloodstained: Curse of the Moon 2 https://store.steampowered.com/app/1257360/Bloodstained_Curse_of_the_Moon_2/
-# Persona® 5 Strikers https://store.steampowered.com/app/1382330/Persona_5_Strikers/
+# Persona 5 Strikers https://store.steampowered.com/app/1382330/Persona_5_Strikers/
 # DRAGON BALL GEKISHIN SQUADRA https://store.steampowered.com/app/2072560/DRAGON_BALL_GEKISHIN_SQUADRA/
 # Danganronpa Another Episode: Ultra Despair Girls https://store.steampowered.com/app/555950/Danganronpa_Another_Episode_Ultra_Despair_Girls/
 # Leaf Blower Revolution - Idle Game https://store.steampowered.com/app/1468260/Leaf_Blower_Revolution__Idle_Game/
@@ -32,6 +35,7 @@
 # Castlevania Advance Collection https://store.steampowered.com/app/1552550/Castlevania_Advance_Collection/
 # Castlevania Advance Collection https://store.steampowered.com/app/1552550/Castlevania_Advance_Collection/
 # Coloring Game 2 https://store.steampowered.com/app/1216200/Coloring_Game_2/
+# Monster Hunter Stories 2: Wings of Ruin https://store.steampowered.com/app/1277400/Monster_Hunter_Stories_2_Wings_of_Ruin/
 { "name": "game.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
@@ -52,7 +56,7 @@
 # Haydee https://store.steampowered.com/app/530890/Haydee/
 { "name": "launcher.exe", "type": "Game" }
 
-# Guild Wars® Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
+# Guild Wars Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
 # GUNTOUCHABLES https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
 { "name": "Gw.exe", "type": "Game" }
 
@@ -71,9 +75,11 @@
 # Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
 # Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
 # Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
+# GoldSrc mods
 { "name": "hl.exe", "type": "Game" }
 
 # Fistful of Frags https://store.steampowered.com/app/265630/Fistful_of_Frags/
+# General rule for some Source-based mods, like Fortress Forever, Entropy: Zero, etc.
 { "name": "hl2.exe", "type": "Game" }
 
 # Warhammer: Chaos And Conquest https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
@@ -94,12 +100,13 @@
 { "name": "PlayGTAV.exe", "type": "Game" }
 
 # ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
-# PAC-MAN™ Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
+# PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
 
 # Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
+# FOUNDRY https://store.steampowered.com/app/983870/FOUNDRY/
 { "name": "dowser.exe", "type": "BG_CPUIO" }
 
 # Baldur's Gate Store page is down https://store.steampowered.com/app/22828
@@ -155,12 +162,74 @@
 # Aviary Attorney https://store.steampowered.com/app/384630/Aviary_Attorney/
 # Angvik https://store.steampowered.com/app/278890/Angvik/
 # Ghostly Matter https://store.steampowered.com/app/800240/Ghostly_Matter/
+# Fallen ~Makina and the City of Ruins~ https://store.steampowered.com/app/791330/Fallen_Makina_and_the_City_of_Ruins/
 { "name": "nw.exe", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
 { "name": "ShooterGame_BE.exe", "type": "Game" }
 { "name": "ShooterGame.exe", "type": "Game" }
+
+# XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
+# XCOM: Chimera Squad https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/
+{ "name": "XCom2.exe", "type": "Game" }
+
+# Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
+# Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
+{ "name": "StardockLauncher.exe", "type": "Game" }
+
+# Red Dead Redemption 2 https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
+# Red Dead Online https://store.steampowered.com/app/1404210/Red_Dead_Online/
+{ "name": "RDR2.exe", "type": "Game" }
+
+# Myth of Empires https://store.steampowered.com/app/1371580/
+# March of Empires https://store.steampowered.com/app/702320/March_of_Empires/
+{ "name": "MOE.exe", "type": "Game" }
+
+# King's Bounty: Warriors of the North https://store.steampowered.com/app/203350/Kings_Bounty_Warriors_of_the_North/
+# Faces of War https://store.steampowered.com/app/289300/Faces_of_War/
+{ "name": "launcher-x64.exe", "type": "Game" }
+
+# Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
+# Source SDK Base tools
+# Hammer map editor
+{ "name": "hammer.exe", "type": "Game" }
+
+# Craft The World https://store.steampowered.com/app/248390/Craft_The_World/
+# Barony https://store.steampowered.com/app/371970/Barony/
+{ "name": "editor.exe", "type": "Game" }
+
+# As Dusk Falls https://store.steampowered.com/app/1341820/As_Dusk_Falls/
+# DUSK https://store.steampowered.com/app/519860/DUSK/
+{ "name": "Dusk.exe", "type": "Game" }
+
+# Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
+# Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
+{ "name": "DunDefGame.exe", "type": "Game" }
+
+# DOOM + DOOM II https://store.steampowered.com/app/2280/DOOM__DOOM_II/
+# Final DOOM https://store.steampowered.com/app/2290/Final_DOOM/
+{ "name": "DOOM2.EXE", "type": "Game" }
+
+# Disciples II: Gallean's Return https://store.steampowered.com/app/1640/Disciples_II_Galleans_Return/
+# Disciples II: Rise of the Elves https://store.steampowered.com/app/1630/Disciples_II_Rise_of_the_Elves/
+{ "name": "discipl2.exe", "type": "Game" }
+
+# Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
+# Deponia https://store.steampowered.com/app/214340/Deponia/
+{ "name": "deponia.exe", "type": "Game" }
+
+# Counter-Strike Nexon: Studio https://store.steampowered.com/app/273110/CounterStrike_Nexon/
+# CS 1.6
+{ "name": "cstrike-online.exe", "type": "Game" }
+
+# Crysis https://store.steampowered.com/app/17300/Crysis/
+# Crysis Warhead https://store.steampowered.com/app/17330/Crysis_Warhead/
+{ "name": "crysis.exe", "type": "Game" }
+
+# Cataclismo https://store.steampowered.com/app/1422440/Cataclismo/
+# A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
+{ "name": "Castle.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }

@@ -16,9 +16,6 @@
 # EARTH DEFENSE FORCE 4.1 The Shadow of New Despair https://store.steampowered.com/app/410320/EARTH_DEFENSE_FORCE_41_The_Shadow_of_New_Despair/
 { "name": "EDF41.exe", "type": "Game" }
 
-# EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
-{ "name": "EDF5.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 6 https://store.steampowered.com/app/2291060/EARTH_DEFENSE_FORCE_6/
 { "name": "EDF6.exe", "type": "Game" }
 
@@ -38,16 +35,16 @@
 { "name": "FC24_Trial.exe", "type": "Game" }
 { "name": "FC24.exe", "type": "Game" }
 
-# EA SPORTS FC™ 25 https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
+# EA SPORTS FC 25 https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/
 { "name": "FC25_Trial.exe", "type": "Game" }
 { "name": "FC25.exe", "type": "Game" }
 
-# EA SPORTS FC™ 26 https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/
+# EA SPORTS FC 26 https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/
 { "name": "FC26_Trial.exe", "type": "Game" }
 { "name": "FC26_Showcase.exe", "type": "Game" }
 { "name": "FC26.exe", "type": "Game" }
 
-# EA SPORTS™ FIFA 21 https://store.steampowered.com/app/1313860/EA_SPORTS_FIFA_21/
+# EA SPORTS FIFA 21 https://store.steampowered.com/app/1313860/EA_SPORTS_FIFA_21/
 { "name": "FIFA21.exe", "type": "Game" }
 { "name": "FIFA21_Trial.exe", "type": "Game" }
 
@@ -55,15 +52,15 @@
 { "name": "FIFA23_Trial.exe", "type": "Game" }
 { "name": "FIFA23.exe", "type": "Game" }
 
-# EA SPORTS™ Madden NFL 26 https://store.steampowered.com/app/3230400/EA_SPORTS_Madden_NFL_26/#
+# EA SPORTS Madden NFL 26 https://store.steampowered.com/app/3230400/EA_SPORTS_Madden_NFL_26/#
 { "name": "Madden26.exe", "type": "Game" }
 { "name": "Madden26_Trial.exe", "type": "Game" }
 
-# EA SPORTS™ Madden NFL 25 https://store.steampowered.com/app/2582560/EA_SPORTS_Madden_NFL_25/
+# EA SPORTS Madden NFL 25 https://store.steampowered.com/app/2582560/EA_SPORTS_Madden_NFL_25/
 { "name": "Madden25.exe", "type": "Game" }
 { "name": "Madden25_Trial.exe", "type": "Game" }
 
-# EA SPORTS™ PGA TOUR™ https://store.steampowered.com/app/1677350/EA_SPORTS_PGA_TOUR/
+# EA SPORTS PGA TOUR https://store.steampowered.com/app/1677350/EA_SPORTS_PGA_TOUR/
 { "name": "PGATour.exe", "type": "Game" }
 { "name": "PGATour_Trial.exe", "type": "Game" }
 
@@ -209,7 +206,7 @@
 { "name": "enlisted_BE.exe", "type": "Game" }
 { "name": "enlisted.exe", "type": "Game" }
 
-# ENSLAVED: Odyssey to the West™ Premium Edition https://store.steampowered.com/app/245280/ENSLAVED_Odyssey_to_the_West_Premium_Edition/
+# ENSLAVED: Odyssey to the West Premium Edition https://store.steampowered.com/app/245280/ENSLAVED_Odyssey_to_the_West_Premium_Edition/
 { "name": "Enslaved.exe", "type": "Game" }
 
 # Enshrouded https://store.steampowered.com/app/1203620/Enshrouded/
@@ -297,11 +294,9 @@
 { "name": "Everlasting Summer-32.exe", "type": "Game" }
 { "name": "Everlasting Summer.exe", "type": "Game" }
 
-# EverQuest https://store.steampowered.com/app/205710/EverQuest/
-{ "name": "eqgame.exe", "type": "Game" }
-
-# EverQuest II https://store.steampowered.com/app/201230/EverQuest_II/
-{ "name": "EverQuest2.exe", "type": "Game" }
+# https://store.steampowered.com/app/3363680/EverSiege_Untold_Ages/
+{ "name": "EversiegeSteam.exe", "type": "Game" }
+{ "name": "EversiegeSteam-Win64-Shipping.exe", "type": "Game" }
 
 # EVERSPACE https://store.steampowered.com/app/396750/EVERSPACE/
 { "name": "Everspace.exe", "type": "Game" }

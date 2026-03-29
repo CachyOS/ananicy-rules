@@ -9,6 +9,10 @@
 { "name": "quakespasm", "type": "Game" }
 { "name": "quakespasm-svn", "type": "Game" }
 
+# Quern - Undying Thoughts https://store.steampowered.com/app/512790/Quern__Undying_Thoughts/
+{ "name": "Quern.x86", "type": "Game" }
+{ "name": "Quern.x86_64", "type": "Game" }
+
 # Quiplash https://store.steampowered.com/app/351510/Quiplash/
 { "name": "Quiplash_Vulkan", "type": "Game" }
 { "name": "Quiplash_OpenGL", "type": "Game" }

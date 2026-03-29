@@ -81,7 +81,6 @@
 
 # Barony https://store.steampowered.com/app/371970/Barony/
 { "name": "barony.exe", "type": "Game" }
-{ "name": "editor.exe", "type": "Game" }
 
 # Barotrauma https://store.steampowered.com/app/602960/Barotrauma/
 { "name": "Barotrauma.exe", "type": "Game" }
@@ -112,16 +111,16 @@
 # Batman: Arkham Asylum Game of the Year Edition https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition/
 { "name": "ShippingPC-BmGame.exe", "type": "Game" }
 
-# Batman™: Arkham Knight https://store.steampowered.com/app/208650/Batman_Arkham_Knight/
+# Batman: Arkham Knight https://store.steampowered.com/app/208650/Batman_Arkham_Knight/
 { "name": "BatmanAK.exe", "type": "Game" }
 
 # Batman: Arkham City - Game of the Year Edition https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/
 { "name": "BatmanAC.exe", "type": "Game" }
 
-# Batman™: Arkham Origins https://store.steampowered.com/app/209000/Batman_Arkham_Origins/
+# Batman: Arkham Origins https://store.steampowered.com/app/209000/Batman_Arkham_Origins/
 { "name": "BatmanOriginsOnline.exe", "type": "Game" }
 
-# Batman™: Arkham VR https://store.steampowered.com/app/502820/Batman_Arkham_VR/
+# Batman: Arkham VR https://store.steampowered.com/app/502820/Batman_Arkham_VR/
 { "name": "ArkhamVR.exe", "type": "Game" }
 
 # Batman: The Enemy Within - The Telltale Series https://store.steampowered.com/app/675260/Batman_The_Enemy_Within__The_Telltale_Series/
@@ -141,29 +140,29 @@
 # Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
 { "name": "BC.exe", "type": "Game" }
 
-# Battlefield™ 1 https://store.steampowered.com/app/1238840/Battlefield_1/
+# Battlefield 1 https://store.steampowered.com/app/1238840/Battlefield_1/
 { "name": "bf1.exe", "type": "Game" }
 { "name": "bf1Trial.exe", "type": "Game" }
 
-# Battlefield 3™ https://store.steampowered.com/app/1238820/Battlefield_3/
+# Battlefield 3 https://store.steampowered.com/app/1238820/Battlefield_3/
 { "name": "bf3.exe", "type": "Game" }
 
-# Battlefield 4™ https://store.steampowered.com/app/1238860/Battlefield_4/
+# Battlefield 4 https://store.steampowered.com/app/1238860/Battlefield_4/
 { "name": "bf4.exe", "type": "Game" }
 
-# Battlefield™ V https://store.steampowered.com/app/1238810/Battlefield_V/
+# Battlefield V https://store.steampowered.com/app/1238810/Battlefield_V/
 { "name": "bfv.exe", "type": "Game" }
 
-# Battlefield™ 6 https://store.steampowered.com/app/2807960/Battlefield_6/
+# Battlefield 6 https://store.steampowered.com/app/2807960/Battlefield_6/
 { "name": "bf6.exe", "type": "Game" }
 
-# Battlefield™ 2042 https://store.steampowered.com/app/1517290/Battlefield_2042/
+# Battlefield 2042 https://store.steampowered.com/app/1517290/Battlefield_2042/
 { "name": "bf2042.exe", "type": "Game" }
 
-# Battlefield: Bad Company™ 2 https://store.steampowered.com/app/24960/Battlefield_Bad_Company_2/
+# Battlefield: Bad Company 2 https://store.steampowered.com/app/24960/Battlefield_Bad_Company_2/
 { "name": "BFBC2Game.exe", "type": "Game" }
 
-# Battlefield™ Hardline https://store.steampowered.com/app/1238880/Battlefield_Hardline/
+# Battlefield Hardline https://store.steampowered.com/app/1238880/Battlefield_Hardline/
 { "name": "bfh.exe", "type": "Game" }
 
 # Battlefleet Gothic: Armada https://store.steampowered.com/app/363680/Battlefleet_Gothic_Armada/
@@ -317,19 +316,19 @@
 # Bionic Commando: Rearmed https://store.steampowered.com/app/21680/Bionic_Commando_Rearmed/
 { "name": "bcr.exe", "type": "Game" }
 
-# BioShock™ https://store.steampowered.com/app/7670/BioShock/
+# BioShock https://store.steampowered.com/app/7670/BioShock/
 { "name": "Bioshock.exe", "type": "Game" }
 
-# BioShock® 2 https://store.steampowered.com/app/8850/BioShock_2/
+# BioShock 2 https://store.steampowered.com/app/8850/BioShock_2/
 { "name": "Bioshock2.exe", "type": "Game" }
 
-# BioShock™ 2 Remastered https://store.steampowered.com/app/409720/BioShock_2_Remastered/
+# BioShock 2 Remastered https://store.steampowered.com/app/409720/BioShock_2_Remastered/
 { "name": "Bioshock2HD.exe", "type": "Game" }
 
 # BioShock Infinite https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "BioShockInfinite.exe", "type": "Game" }
 
-# BioShock™ Remastered https://store.steampowered.com/app/409710/BioShock_Remastered/
+# BioShock Remastered https://store.steampowered.com/app/409710/BioShock_Remastered/
 { "name": "BioshockHD.exe", "type": "Game" }
 
 # Birth https://store.steampowered.com/app/1889040/Birth/
@@ -753,7 +752,7 @@
 # Burnout Paradise: The Ultimate Box https://store.steampowered.com/app/24740/Burnout_Paradise_The_Ultimate_Box/
 { "name": "burnoutparadise.exe", "type": "Game" }
 
-# Burnout™ Paradise Remastered https://store.steampowered.com/app/1238080/Burnout_Paradise_Remastered/
+# Burnout Paradise Remastered https://store.steampowered.com/app/1238080/Burnout_Paradise_Remastered/
 { "name": "BurnoutPR.exe", "type": "Game" }
 { "name": "BurnoutPR_trial.exe", "type": "Game" }
 

@@ -45,7 +45,7 @@
 # Legacy of Kain: Defiance Remastered https://store.steampowered.com/app/3747730/Legacy_of_Kain_Defiance_Remastered/
 { "name": "defiance.exe", "type": "Game" }
 
-# Legacy of Kain™ Soul Reaver 1&2 Remastered https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/
+# Legacy of Kain Soul Reaver 1&2 Remastered https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/
 { "name": "SRX.exe", "type": "Game" }
 
 # Legend of Grimrock https://store.steampowered.com/app/207170/Legend_of_Grimrock/
@@ -54,81 +54,88 @@
 # Legend of Grimrock 2 https://store.steampowered.com/app/251730/Legend_of_Grimrock_2/
 { "name": "grimrock2.exe", "type": "Game" }
 
-# LEGO® City Undercover https://store.steampowered.com/app/578330/LEGO_City_Undercover/
+# Legend of Heroes: Three Kingdoms https://store.steampowered.com/app/3020510/Legend_of_Heroes_Three_Kingdoms/
+{ "name": "ThreeKingdom.exe", "type": "Game" }
+{ "name": "TKEditor.exe", "type": "Game" }
+
+# Legion TD 2 - Multiplayer Tower Defense https://store.steampowered.com/app/469600/Legion_TD_2__Multiplayer_Tower_Defense/
+{ "name": "Legion TD 2.exe", "type": "Game" }
+
+# LEGO City Undercover https://store.steampowered.com/app/578330/LEGO_City_Undercover/
 { "name": "LEGOLCUR_DX11.exe", "type": "Game" }
 
-# LEGO® Batman™ 2: DC Super Heroes https://store.steampowered.com/app/213330/LEGO_Batman_2_DC_Super_Heroes/
+# LEGO Batman 2: DC Super Heroes https://store.steampowered.com/app/213330/LEGO_Batman_2_DC_Super_Heroes/
 { "name": "LEGOBatman2.exe", "type": "Game" }
 
-# LEGO® Batman™ 3: Beyond Gotham https://store.steampowered.com/app/313690/LEGO_Batman_3_Beyond_Gotham/
+# LEGO Batman 3: Beyond Gotham https://store.steampowered.com/app/313690/LEGO_Batman_3_Beyond_Gotham/
 { "name": "LEGOBatman3.exe", "type": "Game" }
 { "name": "LEGOBatman3_DX11.exe", "type": "Game" }
 
-# LEGO® Batman™: The Videogame https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/
+# LEGO Batman: The Videogame https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/
 { "name": "LEGOBatman.exe", "type": "Game" }
 
-# LEGO® DC Super-Villains https://store.steampowered.com/app/829110/LEGO_DC_SuperVillains/
+# LEGO DC Super-Villains https://store.steampowered.com/app/829110/LEGO_DC_SuperVillains/
 { "name": "LEGO DC Super-villains_DX11.exe", "type": "Game" }
 
-# LEGO® Harry Potter™ Collection https://store.steampowered.com/app/2950340/LEGO_Harry_Potter_Collection/
+# LEGO Harry Potter Collection https://store.steampowered.com/app/2950340/LEGO_Harry_Potter_Collection/
 { "name": "LHPC.exe", "type": "Game" }
 { "name": "harry1.exe", "type": "Game" }
 
-# LEGO® Harry Potter: Years 1-4 https://store.steampowered.com/app/21130/LEGO_Harry_Potter_Years_14/
+# LEGO Harry Potter: Years 1-4 https://store.steampowered.com/app/21130/LEGO_Harry_Potter_Years_14/
 { "name": "LEGOHarryPotter.exe", "type": "Game" }
 
-# LEGO® Harry Potter: Years 5-7 https://store.steampowered.com/app/204120/LEGO_Harry_Potter_Years_57/
+# LEGO Harry Potter: Years 5-7 https://store.steampowered.com/app/204120/LEGO_Harry_Potter_Years_57/
 { "name": "harry2.exe", "type": "Game" }
 
-# LEGO® Indiana Jones™ 2: The Adventure Continues https://store.steampowered.com/app/32450/LEGO_Indiana_Jones_2_The_Adventure_Continues/
+# LEGO Indiana Jones 2: The Adventure Continues https://store.steampowered.com/app/32450/LEGO_Indiana_Jones_2_The_Adventure_Continues/
 { "name": "LEGOIndy2.exe", "type": "Game" }
 
-# LEGO® Indiana Jones™: The Original Adventures https://store.steampowered.com/app/32330/LEGO_Indiana_Jones_The_Original_Adventures/
+# LEGO Indiana Jones: The Original Adventures https://store.steampowered.com/app/32330/LEGO_Indiana_Jones_The_Original_Adventures/
 { "name": "LEGOIndy.exe", "type": "Game" }
 
-# LEGO® Jurassic World https://store.steampowered.com/app/352400/LEGO_Jurassic_World/
+# LEGO Jurassic World https://store.steampowered.com/app/352400/LEGO_Jurassic_World/
 { "name": "LEGOJurassicWorld.exe", "type": "Game" }
 { "name": "LEGOJurassicWorld_DX11.exe", "type": "Game" }
 
-# LEGO® MARVEL's Avengers https://store.steampowered.com/app/405310/LEGO_MARVELs_Avengers/
+# LEGO MARVEL's Avengers https://store.steampowered.com/app/405310/LEGO_MARVELs_Avengers/
 { "name": "LEGOMARVELAvengers.exe", "type": "Game" }
 { "name": "LEGOMARVELAvengers_DX11.exe", "type": "Game" }
 
-# LEGO® Marvel™ Super Heroes https://store.steampowered.com/app/249130/LEGO_Marvel_Super_Heroes/
+# LEGO Marvel Super Heroes https://store.steampowered.com/app/249130/LEGO_Marvel_Super_Heroes/
 { "name": "LEGOMARVEL.exe", "type": "Game" }
 
-# LEGO® Marvel Super Heroes 2 https://store.steampowered.com/app/647830/LEGO_Marvel_Super_Heroes_2/
+# LEGO Marvel Super Heroes 2 https://store.steampowered.com/app/647830/LEGO_Marvel_Super_Heroes_2/
 { "name": "LEGOMARVEL2.exe", "type": "Game" }
 { "name": "LEGOMARVEL2_DX11.exe", "type": "Game" }
 
-# LEGO® Pirates of the Caribbean: The Video Game https://store.steampowered.com/app/311770/LEGO_Pirates_of_the_Caribbean_The_Video_Game/
+# LEGO Pirates of the Caribbean: The Video Game https://store.steampowered.com/app/311770/LEGO_Pirates_of_the_Caribbean_The_Video_Game/
 { "name": "LEGOPirates.exe", "type": "Game" }
 
-# LEGO® Star Wars™ III - The Clone Wars™ https://store.steampowered.com/app/32510/LEGO_Star_Wars_III__The_Clone_Wars/
+# LEGO Star Wars III - The Clone Wars https://store.steampowered.com/app/32510/LEGO_Star_Wars_III__The_Clone_Wars/
 { "name": "LEGOCloneWars.exe", "type": "Game" }
 
-# LEGO® Star Wars™ - The Complete Saga https://store.steampowered.com/app/32440/LEGO_Star_Wars__The_Complete_Saga/
+# LEGO Star Wars - The Complete Saga https://store.steampowered.com/app/32440/LEGO_Star_Wars__The_Complete_Saga/
 { "name": "LEGOStarWarsSaga.exe", "type": "Game" }
 
-# LEGO® STAR WARS™: The Force Awakens https://store.steampowered.com/app/438640/LEGO_STAR_WARS_The_Force_Awakens/
+# LEGO STAR WARS: The Force Awakens https://store.steampowered.com/app/438640/LEGO_STAR_WARS_The_Force_Awakens/
 { "name": "LEGOSWTFA.exe", "type": "Game" }
 { "name": "LEGOSWTFA_DX11.exe", "type": "Game" }
 
-# LEGO® Star Wars™: The Skywalker Saga https://store.steampowered.com/app/920210/LEGO_Star_Wars_The_Skywalker_Saga/
+# LEGO Star Wars: The Skywalker Saga https://store.steampowered.com/app/920210/LEGO_Star_Wars_The_Skywalker_Saga/
 { "name": "LEGOSTARWARSSKYWALKERSAGA_DX11.exe", "type": "Game" }
 
-# LEGO® The Hobbit™ https://store.steampowered.com/app/285160/LEGO_The_Hobbit/
+# LEGO The Hobbit https://store.steampowered.com/app/285160/LEGO_The_Hobbit/
 { "name": "LEGOHobbit.exe", "type": "Game" }
 { "name": "LEGOHobbit_DX11.exe", "type": "Game" }
 
-# LEGO® The Incredibles https://store.steampowered.com/app/818320/LEGO_The_Incredibles/
+# LEGO The Incredibles https://store.steampowered.com/app/818320/LEGO_The_Incredibles/
 { "name": "LEGO The Incredibles.exe", "type": "Game" }
 { "name": "LEGO The Incredibles_DX11.exe", "type": "Game" }
 
-# LEGO® The Lord of the Rings™ https://store.steampowered.com/app/214510/LEGO_The_Lord_of_the_Rings/
+# LEGO The Lord of the Rings https://store.steampowered.com/app/214510/LEGO_The_Lord_of_the_Rings/
 { "name": "LEGOLOTR.exe", "type": "Game" }
 
-# LEGO® Worlds https://store.steampowered.com/app/332310/LEGO_Worlds/
+# LEGO Worlds https://store.steampowered.com/app/332310/LEGO_Worlds/
 { "name": "LEGO_Worlds.exe", "type": "Game" }
 { "name": "LEGO_Worlds_DX11.exe", "type": "Game" }
 
@@ -142,6 +149,9 @@
 { "name": "LethalVR.exe", "type": "Game" }
 { "name": "LethalVR-Win64-Shipping.exe", "type": "Game" }
 
+# LET IT DIE https://store.steampowered.com/app/794600/LET_IT_DIE/
+{ "name": "BrgGame-Steam.exe", "type": "Game" }
+
 # Liar's Bar https://store.steampowered.com/app/3097560/Liars_Bar/
 { "name": "Liar's Bar.exe", "type": "Game" }
 
@@ -153,8 +163,13 @@
 { "name": "LightyearFrontier.exe", "type": "Game" }
 { "name": "FarMech-Win64-Shipping.exe", "type": "Game" }
 
-# LIGHTNING RETURNS™: FINAL FANTASY® XIII https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/
+# LIGHTNING RETURNS: FINAL FANTASY XIII https://store.steampowered.com/app/345350/LIGHTNING_RETURNS_FINAL_FANTASY_XIII/
 { "name": "LRFF13.exe", "type": "Game" }
+
+# Life is Strange: Double Exposure https://store.steampowered.com/app/1874000/Life_is_Strange_Double_Exposure/
+{ "name": "Chronos.exe", "type": "Game" }
+{ "name": "LifeIsStrangeDoubleExposure.exe", "type": "Game" }
+{ "name": "Chronos-Win64-Shipping.exe", "type": "Game" }
 
 # Life is Strange - Episode 1 https://store.steampowered.com/app/319630/Life_is_Strange__Episode_1/
 { "name": "LifeIsStrange.exe", "type": "Game" }
@@ -162,6 +177,13 @@
 # Life is Strange Remastered https://store.steampowered.com/app/1265920/Life_is_Strange_Remastered/
 { "name": "LiS.exe", "type": "Game" }
 { "name": "LiS-Win64-Shipping.exe", "type": "Game" }
+
+# Life is Strange: Reunion https://store.steampowered.com/app/2624870/Life_is_Strange_Reunion/
+{ "name": "LifeIsStrangeReunion.exe", "type": "Game" }
+{ "name": "Iris-Win64-Shipping.exe", "type": "Game" }
+
+# Line War https://store.steampowered.com/app/1309610/Line_War/
+{ "name": "LineWarClient.exe", "type": "Game" }
 
 # Little Witch Academia: Chamber of Time https://store.steampowered.com/app/710470/Little_Witch_Academia_Chamber_of_Time/
 { "name": "LWA.exe", "type": "Game" }
@@ -175,10 +197,10 @@
 # Like a Dragon: Infinite Wealth https://store.steampowered.com/app/2072450/Like_a_Dragon_Infinite_Wealth/
 { "name": "likeadragon8.exe", "type": "Game" }
 
-# hLike a Dragon: Ishin! ttps://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/
+# Like a Dragon: Ishin! ttps://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/
 { "name": "LikeaDragonIshin-Win64-Shipping.exe", "type": "Game" }
 
-#Like a Dragon: Pirate Yakuza in Hawaii https://store.steampowered.com/app/3061810/Like_a_Dragon_Pirate_Yakuza_in_Hawaii/
+# Like a Dragon: Pirate Yakuza in Hawaii https://store.steampowered.com/app/3061810/Like_a_Dragon_Pirate_Yakuza_in_Hawaii/
 { "name": "likeadragonpirates.exe", "type": "Game" }
 
 # Lil Gator Game https://store.steampowered.com/app/1586800/Lil_Gator_Game/
@@ -202,6 +224,9 @@
 # Little Witch Nobeta https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/
 { "name": "LittleWitchNobeta.exe", "type": "Game" }
 
+# Lobotomy Corporation | Monster Management Simulation https://store.steampowered.com/app/568220/Lobotomy_Corporation__Monster_Management_Simulation/
+{ "name": "LobotomyCorp.exe", "type": "Game" }
+
 # LOCKDOWN Protocol https://store.steampowered.com/app/2780980/LOCKDOWN_Protocol/
 { "name": "LockdownProtocol.exe", "type": "Game" }
 { "name": "LockdownProtocol-Win64-Shipping.exe", "type": "Game" }
@@ -210,12 +235,18 @@
 { "name": "Lococycle32.exe", "type": "Game" }
 { "name": "Lococycle64.exe", "type": "Game" }
 
+# Loop Hero https://store.steampowered.com/app/1282730/Loop_Hero/
+{ "name": "Loop Hero.exe", "type": "Game" }
+
 # Lords Mobile: Kingdom Wars https://store.steampowered.com/app/1041320/Lords_Mobile_Kingdom_Wars/
 { "name": "Lords Mobile.exe", "type": "Game" }
 
 # Lords of the Fallen https://store.steampowered.com/app/1501750/Lords_of_the_Fallen/
 { "name": "LOTF2-Win64-Shipping.exe", "type": "Game" }
 { "name": "LOTF2.exe", "type": "Game" }
+
+# Lords Of The Fallen 2014 https://store.steampowered.com/app/265300/Lords_Of_The_Fallen_2014/
+{ "name": "LordsOfTheFallen.exe", "type": "Game" }
 
 # LORT https://store.steampowered.com/app/2956680/LORT/
 { "name": "LortGame-Win64-Shipping.exe", "type": "Game" }
@@ -227,7 +258,10 @@
 # Lost Ark https://store.steampowered.com/app/1599340/Lost_Ark/
 { "name": "LOSTARK.exe", "type": "Game" }
 
-# Lost in Random™ https://store.steampowered.com/app/1462570/?snr=1_5_9__205
+# Lost Castle 2 https://store.steampowered.com/app/2445690/Lost_Castle_2/
+{ "name": "LostCastle2.exe", "type": "Game" }
+
+# Lost in Random https://store.steampowered.com/app/1462570/?snr=1_5_9__205
 { "name": "Lost In Random.exe", "type": "Game" }
 
 # Lost Judgment https://store.steampowered.com/app/2058190/Lost_Judgment/
@@ -245,8 +279,14 @@
 # Lovish https://store.steampowered.com/app/2959010/Lovish/
 { "name": "Lovish.exe", "type": "Game" }
 
-# Lust Goddess https://store.steampowered.com/app/2808930/Lust_Goddess/
-{ "name": "Adult_wars.exe", "type": "Game" }
-
 # Lucid Blocks https://store.steampowered.com/app/3495730/Lucid_Blocks/
 { "name": "lucid-blocks.exe", "type": "Game" }
+
+# Luck be a Landlord https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/
+{ "name": "Luck be a Landlord.exe", "type": "Game" }
+
+# Luma Island https://store.steampowered.com/app/2408820/Luma_Island/
+{ "name": "Luma Island.exe", "type": "Game" }
+
+# Lust Goddess https://store.steampowered.com/app/2808930/Lust_Goddess/
+{ "name": "Adult_wars.exe", "type": "Game" }

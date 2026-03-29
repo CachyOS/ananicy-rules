@@ -5,51 +5,48 @@
 
 ### F ###
 
-# F1 25 https://store.steampowered.com/app/3059520/F1_25/
-{ "name": "F1_25.exe", "type": "Game" }
-
-# F1 24 https://store.steampowered.com/app/2488620/F1_24/
-{ "name": "F1_24.exe", "type": "Game" }
-
-# F1 24 https://store.steampowered.com/app/2488620/F1_24/
-{ "name": "F1_24.exe", "type": "Game" }
+# F1 22 https://store.steampowered.com/app/1692250/F1_22/
+{ "name": "F1_22.exe", "type": "Game" }
 
 # F1 23 https://store.steampowered.com/app/2108330/F1_23/
 { "name": "F1_23.exe", "type": "Game" }
 
-# F1 22 https://store.steampowered.com/app/1692250/F1_22/
-{ "name": "F1_22.exe", "type": "Game" }
+# F1 24 https://store.steampowered.com/app/2488620/F1_24/
+{ "name": "F1_24.exe", "type": "Game" }
 
-# F1 2021 https://store.steampowered.com/app/1134570/F1_2021/
-{ "name": "F1_2021_dx12.exe", "type": "Game" }
+# F1 25 https://store.steampowered.com/app/3059520/F1_25/
+{ "name": "F1_25.exe", "type": "Game" }
 
-# F1 2020 https://store.steampowered.com/app/1080110/F1_2020/
-{ "name": "F1_2020.exe", "type": "Game" }
-{ "name": "F1_2020_dx12.exe", "type": "Game" }
+# F1 2012 https://store.steampowered.com/app/208500/F1_2012/
+{ "name": "F1_2012.exe", "type": "Game" }
 
-# F1 2019 https://store.steampowered.com/app/928600/F1_2019/
-{ "name": "F1_2019.exe", "type": "Game" }
-{ "name": "F1_2019_dx12.exe", "type": "Game" }
-
-# F1 2018 https://store.steampowered.com/app/737800/F1_2018/
-{ "name": "F1_2018.exe", "type": "Game" }
-{ "name": "F1_2018_dx12.exe", "type": "Game" }
+# F1 2014 https://store.steampowered.com/app/226580/F1_2014/
+{ "name": "f1_2014.exe", "type": "Game" }
 
 # F1 2015 https://store.steampowered.com/app/286570/F1_2015/
 { "name": "F1_2015.exe", "type": "Game" }
 { "name": "f1_2015_dx12.exe", "type": "Game" }
 
-# F1 2014 https://store.steampowered.com/app/226580/F1_2014/
-{ "name": "f1_2014.exe", "type": "Game" }
+# F1 2018 https://store.steampowered.com/app/737800/F1_2018/
+{ "name": "F1_2018.exe", "type": "Game" }
+{ "name": "F1_2018_dx12.exe", "type": "Game" }
 
-# F1 2012 https://store.steampowered.com/app/208500/F1_2012/
-{ "name": "F1_2012.exe", "type": "Game" }
+# F1 2019 https://store.steampowered.com/app/928600/F1_2019/
+{ "name": "F1_2019.exe", "type": "Game" }
+{ "name": "F1_2019_dx12.exe", "type": "Game" }
 
-# F1 Manager 2024 https://store.steampowered.com/app/2591280/F1_Manager_2024/
-{ "name": "F1Manager24.exe", "type": "Game" }
+# F1 2020 https://store.steampowered.com/app/1080110/F1_2020/
+{ "name": "F1_2020.exe", "type": "Game" }
+{ "name": "F1_2020_dx12.exe", "type": "Game" }
+
+# F1 2021 https://store.steampowered.com/app/1134570/F1_2021/
+{ "name": "F1_2021_dx12.exe", "type": "Game" }
 
 # F1 Manager 2023 https://store.steampowered.com/app/2287220/F1_Manager_2023/
 { "name": "F1Manager23.exe", "type": "Game" }
+
+# F1 Manager 2024 https://store.steampowered.com/app/2591280/F1_Manager_2024/
+{ "name": "F1Manager24.exe", "type": "Game" }
 
 # Fable Anniversary https://store.steampowered.com/app/288470/Fable_Anniversary
 { "name": "Fable Anniversary.exe", "type": "Game" }
@@ -63,7 +60,6 @@
 # Faces of War https://store.steampowered.com/app/289300/Faces_of_War/
 { "name": "fowed.exe", "type": "Game" }
 { "name": "launcher-ia32.exe", "type": "Game" }
-{ "name": "launcher-x64.exe", "type": "Game" }
 
 # Faery - Legends of Avalon https://store.steampowered.com/app/303790/Faery__Legends_of_Avalon/
 { "name": "FaerySteam.exe", "type": "Game" }
@@ -83,9 +79,6 @@
 
 # Fallen Tear: The Ascension https://store.steampowered.com/app/1446900/Fallen_Tear_The_Ascension/
 { "name": "FallenTear.exe", "type": "Game" }
-
-# Fallen ~Makina and the City of Ruins~ https://store.steampowered.com/app/791330/Fallen_Makina_and_the_City_of_Ruins/
-{ "name": "nw.exe", "type": "Game" }
 
 # Fallen Earth Free2Play https://store.steampowered.com/app/113420/Fallen_Earth_Classic/
 { "name": "Frontend.exe", "type": "Game" }
@@ -360,10 +353,10 @@
 # FINAL FANTASY XII THE ZODIAC AGE https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/
 { "name": "ffxiiiimg.exe", "type": "Game" }
 
-# FINAL FANTASY® XIII https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/
+# FINAL FANTASY XIII https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/
 { "name": "FFXII_TZA.exe", "type": "Game" }
 
-# FINAL FANTASY® XIII-2 https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/
+# FINAL FANTASY XIII-2 https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/
 { "name": "ffxiii2img.exe", "type": "Game" }
 
 # FINAL FANTASY XIV Online https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/
@@ -375,15 +368,12 @@
 # FINAL FANTASY XVI https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/
 { "name": "ffxvi.exe", "type": "Game" }
 
-# FINAL FANTASY TYPE-0™ HD https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/
+# FINAL FANTASY TYPE-0 HD https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/
 { "name": "fftype0hd.exe", "type": "Game" }
 
 # FINAL FANTASY TACTICS - The Ivalice Chronicles https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/
 { "name": "FFT_enhanced.exe", "type": "Game" }
 { "name": "FFT_classic.exe", "type": "Game" }
-
-# Final DOOM https://store.steampowered.com/app/2290/Final_DOOM/
-{ "name": "DOOM2.EXE", "type": "Game" }
 
 # First Cut: Samurai Duel https://store.steampowered.com/app/2193490/First_Cut_Samurai_Duel/
 { "name": "FirstCutv2.exe", "type": "Game" }
@@ -537,7 +527,6 @@
 
 # FOUNDRY https://store.steampowered.com/app/983870/FOUNDRY/
 { "name": "Foundry.exe", "type": "Game" }
-{ "name": "dowser.exe", "type": "Game" }
 
 # Foxhole https://store.steampowered.com/app/505460/Foxhole/
 { "name": "War.exe", "type": "Game" }

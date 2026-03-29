@@ -5,12 +5,19 @@
 
 ### W ###
 
-# War Thunder https://store.steampowered.com/app/236390/War_Thunder/
-{ "name": "aces", "type": "Game" }
-{ "name": "launcher", "type": "BG_CPUIO" }
+# Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
+{ "name": "DawnOfWar2.sh", "type": "Game" }
 
 # Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
 { "name": "Gladius", "type": "BG_CPUIO" }
+
+# War Selection https://store.steampowered.com/app/1022450/War_Selection/
+{ "name": "SteamLauncher", "type": "Game" }
+{ "name": "GlyphEngine", "type": "Game" }
+
+# War Thunder https://store.steampowered.com/app/236390/War_Thunder/
+{ "name": "aces", "type": "Game" }
+{ "name": "launcher", "type": "BG_CPUIO" }
 
 # Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland", "type": "Game" }
@@ -20,3 +27,6 @@
 
 # WorldBox - God Simulator https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/
 { "name": "worldbox", "type": "Game" }
+
+# Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/
+{ "name": "WurmLauncher", "type": "Game" }
