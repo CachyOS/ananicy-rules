@@ -5,8 +5,14 @@
 
 ### K ###
 
+# Kabuto Park https://store.steampowered.com/app/3376990/Kabuto_Park/
+{ "name": "KabutoPark.exe", "type": "Game" }
+
 # Kade Engine https://gamebanana.com/mods/44291
 { "name": "Kade Engine.exe", "type": "Game" }
+
+# Kairo https://store.steampowered.com/app/233230/Kairo/
+{ "name": "kairo.exe", "type": "Game" }
 
 # Kalimba https://store.steampowered.com/app/324140/Kalimba/
 { "name": "Kalimba.exe", "type": "Game" }
@@ -39,8 +45,15 @@
 # Keep Talking and Nobody Explodes https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/
 { "name": "ktane.exe", "type": "Game" }
 
+# Ken Follett's The Pillars of the Earth https://store.steampowered.com/app/234270/Ken_Folletts_The_Pillars_of_the_Earth/
+{ "name": "pillars.exe", "type": "Game" }
+{ "name": "pillars64.exe", "type": "Game" }
+
 # Kenshi https://store.steampowered.com/app/233860/Kenshi/
 { "name": "kenshi_x64.exe", "type": "Game" }
+
+# Kentucky Route Zero: PC Edition https://store.steampowered.com/app/231200/Kentucky_Route_Zero_PC_Edition/
+{ "name": "KentuckyRouteZero.exe", "type": "Game" }
 
 # Kerbal Space Program https://store.steampowered.com/app/220200/Kerbal_Space_Program/
 { "name": "KSP_x64.exe", "type": "Game" }
@@ -61,9 +74,21 @@
 # Killer is Dead - Nightmare Edition https://store.steampowered.com/app/261110/Killer_is_Dead__Nightmare_Edition/
 { "name": "KidGame.exe", "type": "Game" }
 
+# Killing Floor https://store.steampowered.com/app/1250/Killing_Floor/
+{ "name": "KillingFloor.exe", "type": "Game" }
+
 # Killing Floor 2 https://store.steampowered.com/app/232090/Killing_Floor_2/
 # https://store.epicgames.com/en-US/p/killing-floor-2
 { "name": "KFGame.exe", "type": "Game" }
+
+# Kill The Crows https://store.steampowered.com/app/2441270/Kill_The_Crows/
+{ "name": "revolver.exe", "type": "Game" }
+
+# Kindergarten https://store.steampowered.com/app/589590/Kindergarten/
+{ "name": "Kindergarten.exe", "type": "Game" }
+
+# Kinetic Void https://store.steampowered.com/app/227160/Kinetic_Void/
+{ "name": "Kinetic Void.exe", "type": "Game" }
 
 # King Arthur: Knight's Tale https://store.steampowered.com/app/1157390/King_Arthur_Knights_Tale/
 { "name": "KA_KT.exe", "type": "Game" }
@@ -75,11 +100,17 @@
 # Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
 { "name": "Kingdom Rush Alliance.exe", "type": "Game" }
 
+# Kingdom Rush Frontiers - Tower Defense https://store.steampowered.com/app/458710/Kingdom_Rush_Frontiers__Tower_Defense/
+{ "name": "Kingdom Rush Frontiers.exe", "type": "Game" }
+
 # Kingdom Rush  - Tower Defense https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/
 { "name": "Kingdom Rush.exe", "type": "Game" }
 
 # Kingdom Rush Vengeance - Tower Defense https://store.steampowered.com/app/1367550/Kingdom_Rush_Vengeance__Tower_Defense/
 { "name": "Kingdom Rush Vengeance.exe", "type": "Game" }
+
+# Kingdoms and Castles https://store.steampowered.com/app/569480/Kingdoms_and_Castles/
+{ "name": "KingdomsAndCastles.exe", "type": "Game" }
 
 # Kingdoms of Amalur: Re-Reckoning https://store.steampowered.com/app/1041720/Kingdoms_of_Amalur_ReReckoning/
 { "name": "koa.exe", "type": "Game" }
@@ -127,6 +158,16 @@
 { "name": "KM_TPR.exe", "type": "Game" }
 { "name": "Knights_and_Merchants_steam.exe", "type": "Game" }
 { "name": "Puzzle_KaM.exe", "type": "Game" }
+
+# KnightShift https://store.steampowered.com/app/254060/KnightShift/
+{ "name": "KnightShift.exe", "type": "Game" }
+
+# Knights of Pen and Paper +1 Edition https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/
+{ "name": "knightspp.exe", "type": "Game" }
+
+# Knock-knock https://store.steampowered.com/app/250380/Knockknock/
+{ "name": "knock.cfg.exe", "type": "Game" }
+{ "name": "knock.exe", "type": "Game" }
 
 # Knock on the Coffin Lid https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/
 { "name": "Knock.exe", "type": "Game" }

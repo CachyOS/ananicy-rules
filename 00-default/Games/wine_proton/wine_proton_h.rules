@@ -5,6 +5,12 @@
 
 ### H ###
 
+# Hacker Evolution https://store.steampowered.com/app/70100/Hacker_Evolution/
+{ "name": "HackerEvolution.exe", "type": "Game" }
+
+# .hack//G.U. Last Recode https://store.steampowered.com/app/525480/hackGU_Last_Recode/
+{ "name": "hackGU.exe", "type": "Game" }
+
 # Hades https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
 
@@ -13,9 +19,6 @@
 
 # Hades' Star https://store.steampowered.com/app/755800/Hades_Star/
 { "name": "hadesstar.exe", "type": "Game" }
-
-# Heavy Rain https://store.steampowered.com/app/960910/Heavy_Rain/
-{ "name": "HeavyRain.exe", "type": "Game" }
 
 # Half-Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
@@ -37,6 +40,9 @@
 # Halo Wars: Definitive Edition https://store.steampowered.com/app/459220/Halo_Wars_Definitive_Edition/
 { "name": "xgameFinal.exe", "type": "Game" }
 
+# Hammerfight https://store.steampowered.com/app/41100/Hammerfight/
+{ "name": "Hammerfight.exe", "type": "Game" }
+
 # Hammerwatch https://store.steampowered.com/app/239070/Hammerwatch/
 { "name": "Hammerwatch.exe", "type": "Game" }
 
@@ -49,6 +55,9 @@
 
 # Handball 17 https://store.steampowered.com/app/526980/Handball_17/
 { "name": "Handball17.exe", "type": "Game" }
+
+# Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
+{ "name": "Hand of Fate.exe", "type": "Game" }
 
 # Hardspace: Shipbreaker https://store.steampowered.com/app/1161580/Hardspace_Shipbreaker/
 { "name": "Shipbreaker.exe", "type": "Game" }
@@ -72,6 +81,9 @@
 # Have a Nice Death https://store.steampowered.com/app/1740720/Have_a_Nice_Death/
 { "name": "HaveaNiceDeath.exe", "type": "Game" }
 
+# Havendock https://store.steampowered.com/app/2020710/Havendock/
+{ "name": "Havendock.exe", "type": "Game" }
+
 # Haydee https://store.steampowered.com/app/530890/Haydee/
 { "name": "edith.exe", "type": "Game" }
 
@@ -88,14 +100,23 @@
 # Hearts of Iron IV https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 { "name": "hoi4.exe", "type": "Game" }
 
-# .hack//G.U. Last Recode https://store.steampowered.com/app/525480/hackGU_Last_Recode/
-{ "name": "hackGU.exe", "type": "Game" }
+# Heavy Rain https://store.steampowered.com/app/960910/Heavy_Rain/
+{ "name": "HeavyRain.exe", "type": "Game" }
 
 # He is Coming https://store.steampowered.com/app/2824490/He_is_Coming/
 { "name": "He is coming.exe", "type": "Game" }
 
 # hexceed https://store.steampowered.com/app/1463920/hexceed/
 { "name": "hexceed.exe", "type": "Game" }
+
+# Hexcells https://store.steampowered.com/app/265890/Hexcells/
+{ "name": "Hexcells.exe", "type": "Game" }
+
+# Hexcells Infinite https://store.steampowered.com/app/304410/Hexcells_Infinite/
+{ "name": "Hexcells Infinite.exe", "type": "Game" }
+
+# Hexcells Plus https://store.steampowered.com/app/271900/Hexcells_Plus/
+{ "name": "Hexcells Plus.exe", "type": "Game" }
 
 # Hexodius https://store.steampowered.com/app/236490/Hexodius/
 { "name": "Hexodius.exe", "type": "Game" }
@@ -151,6 +172,19 @@
 # Heroes of Hammerwatch II https://store.steampowered.com/app/619820/Heroes_of_Hammerwatch_II/
 { "name": "HWR2.exe", "type": "Game" }
 
+# Heroine's Quest: The Herald of Ragnarok https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
+{ "name": "Heroine's Quest.exe", "type": "Game" }
+
+# Hero of the Kingdom https://store.steampowered.com/app/259550/Hero_of_the_Kingdom/
+{ "name": "Hero of the Kingdom 32bit.exe", "type": "Game" }
+{ "name": "Hero of the Kingdom.exe", "type": "Game" }
+{ "name": "Hero_of_the_Kingdom.exe", "type": "Game" }
+
+# Hero of the Kingdom III https://store.steampowered.com/app/772430/Hero_of_the_Kingdom_III/
+{ "name": "Hero of the Kingdom III 32bit.exe", "type": "Game" }
+{ "name": "Hero of the Kingdom III.exe", "type": "Game" }
+{ "name": "Hero_of_the_Kingdom_III.exe", "type": "Game" }
+
 # Hero Siege https://store.steampowered.com/app/269210/Hero_Siege/
 { "name": "Hero_Siege.exe", "type": "Game" }
 
@@ -205,6 +239,9 @@
 # HITMAN World of Assassination https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
 { "name": "HITMAN3.exe", "type": "Game" }
 
+# HOARD https://store.steampowered.com/app/63000/HOARD/
+{ "name": "Reuben.exe", "type": "Game" }
+
 # Hobo: Tough Life https://store.steampowered.com/app/632300/Hobo_Tough_Life/
 { "name": "HoboRPG.exe", "type": "Game" }
 
@@ -240,6 +277,9 @@
 # Home Behind 2 https://store.steampowered.com/app/1220010/Home_Behind_2/
 { "name": "HomeBehind2.exe", "type": "Game" }
 
+# Homefront: The Revolution https://store.steampowered.com/app/223100/Homefront_The_Revolution/
+{ "name": "Homefront2_Release.exe", "type": "Game" }
+
 # Homeworld 3 https://store.steampowered.com/app/1840080/Homeworld_3/
 { "name": "Homeworld3.exe", "type": "Game" }
 
@@ -255,6 +295,9 @@
 
 # Honkai: Star Rail https://hsr.hoyoverse.com/
 { "name": "StarRail.exe", "type": "Game" }
+
+# Hook https://store.steampowered.com/app/367580/Hook/
+{ "name": "Hook.exe", "type": "Game" }
 
 # Hordes of Hunger https://store.steampowered.com/app/2157710/Hordes_of_Hunger/
 { "name": "HordesOfHunger.exe", "type": "Game" }
@@ -311,6 +354,9 @@
 # HROT https://store.steampowered.com/app/824600/HROT/
 { "name": "HROT.exe", "type": "Game" }
 
+# Hue https://store.steampowered.com/app/383270/Hue/
+{ "name": "Hue.exe", "type": "Game" }
+
 # Human Fall Flat https://store.steampowered.com/app/477160/Human_Fall_Flat/
 { "name": "Human.exe", "type": "Game" }
 
@@ -320,6 +366,9 @@
 # HUMANKIND https://store.steampowered.com/app/1124300/HUMANKIND/
 { "name": "Humankind.exe", "type": "Game" }
 
+# HuniePop https://store.steampowered.com/app/339800/HuniePop/
+{ "name": "HuniePop.exe", "type": "Game" }
+
 # Hunting Simulator 2 https://store.steampowered.com/app/1135910/Hunting_Simulator_2/
 { "name": "Hunter.exe", "type": "Game" }
 { "name": "Hunter-Win64-Shipping.exe", "type": "Game" }
@@ -327,6 +376,11 @@
 # Hunt: Showdown 1896 https://store.steampowered.com/app/594650/Hunt_Showdown_1896/
 { "name": "hunt.exe", "type": "Game" }
 { "name": "HuntGame.exe", "type": "Game" }
+
+# Hurtworld https://store.steampowered.com/app/393420/Hurtworld/
+{ "name": "Hurtworld.exe", "type": "Game" }
+{ "name": "hurtworld.exe", "type": "Game" }
+{ "name": "HurtworldClient.exe", "type": "Game" }
 
 # Hydroneer https://store.steampowered.com/app/1106840/Hydroneer/
 { "name": "Mining.exe", "type": "Game" }
