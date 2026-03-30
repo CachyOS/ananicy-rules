@@ -1,3 +1,17 @@
+# Ordered based on executable name
+
+# Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
+# Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
+{ "name": "dowser", "type": "BG_CPUIO" }
+
+# XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
+# Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
+# The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
+{ "name": "game.x86_64", "type": "Game" }
+
+# Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
+{ "name": "Launcher", "type": "Game" }
+
 # Cook, Serve, Delicious! https://store.steampowered.com/app/247020/Cook_Serve_Delicious/
 # Undertale https://store.steampowered.com/app/391540/Undertale/
 # VA-11 Hall-A: Cyberpunk Bartender Action https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
@@ -5,20 +19,8 @@
 # Nuclear Throne https://store.steampowered.com/app/242680/Nuclear_Throne/
 # Strikey Sisters https://store.steampowered.com/app/643880/Strikey_Sisters/
 # UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
+# Gods Will Be Watching https://store.steampowered.com/app/274290/Gods_Will_Be_Watching/
 { "name": "runner", "type": "Game" }
-
-# Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
-# Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
-{ "name": "dowser", "type": "BG_CPUIO" }
-
-# Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
-{ "name": "Launcher", "type": "Game" }
-
-# Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
-# Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
-# Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
-# Goodbye Deponia https://store.steampowered.com/app/241910/Goodbye_Deponia/
-{ "name": "start", "type": "Game" }
 
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 # Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
@@ -28,24 +30,25 @@
 # KnightShift https://store.steampowered.com/app/254060/KnightShift/
 { "name": "RunGame", "type": "Game" }
 
-# 60 Seconds! Reatomized https://store.steampowered.com/app/1012880/60_Seconds_Reatomized/
-# 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
-{ "name": "60Seconds.x86_64", "type": "Game" }
-
-# XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
-# Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
-# The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
-{ "name": "game.x86_64", "type": "Game" }
-
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
 { "name": "ShooterGame", "type": "Game" }
 
-# Antichamber https://store.steampowered.com/app/219890/Antichamber/
-# Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/
-{ "name": "UDKGame-Linux", "type": "Game" }
+# Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
+# Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
+# Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
+# Goodbye Deponia https://store.steampowered.com/app/241910/Goodbye_Deponia/
+{ "name": "start", "type": "Game" }
 
 # Planetary Annihilation store page is down http://store.steampowered.com/app/233250
 # https://steamdb.info/app/233250/
 # Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
 { "name": "PA", "type": "Game" }
+
+# Antichamber https://store.steampowered.com/app/219890/Antichamber/
+# Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/
+{ "name": "UDKGame-Linux", "type": "Game" }
+
+# 60 Seconds! Reatomized https://store.steampowered.com/app/1012880/60_Seconds_Reatomized/
+# 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
+{ "name": "60Seconds.x86_64", "type": "Game" }
