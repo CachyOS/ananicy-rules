@@ -5,6 +5,9 @@
 
 ### H ###
 
+# Hacker Evolution https://store.steampowered.com/app/70100/Hacker_Evolution/
+{ "name": "HackerEvolution", "type": "Game" }
+
 # Hades' Star https://store.steampowered.com/app/755800/Hades_Star/
 { "name": "hades_linux.x64", "type": "Game" }
 
@@ -24,11 +27,21 @@
 # Hatred https://store.steampowered.com/app/341940/Hatred/
 { "name": "Hatred-Linux-Shipping", "type": "Game" }
 
+# Hammerfight https://store.steampowered.com/app/41100/Hammerfight/
+{ "name": "Hammerfight", "type": "Game" }
+
 # Hammerwatch https://store.steampowered.com/app/239070/Hammerwatch/
 { "name": "RunHammerwatch", "type": "Game" }
 
 # Hamster Hunter https://store.steampowered.com/app/2726490/Hamster_Hunter/
 { "name": "hh.x86_64", "type": "Game" }
+
+# Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
+{ "name": "Hand of Fate.x86", "type": "Game" }
+{ "name": "Hand of Fate.x86_64", "type": "Game" }
+
+# Havendock https://store.steampowered.com/app/2020710/Havendock/
+{ "name": "Havendock", "type": "Game" }
 
 # Hearts of Iron IV https://www.paradoxinteractive.com/games/hearts-of-iron-iv
 # Hearts of Iron IV https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
@@ -40,11 +53,34 @@
 # Heroes of Hammerwatch https://store.steampowered.com/app/677120/Heroes_of_Hammerwatch/
 { "name": "HWR", "type": "Game" }
 
+# Heroine's Quest: The Herald of Ragnarok https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
+{ "name": "Heroine'sQuest", "type": "Game" }
+
+# Hero of the Kingdom https://store.steampowered.com/app/259550/Hero_of_the_Kingdom/
+{ "name": "Hero of the Kingdom", "type": "Game" }
+{ "name": "Hero_of_the_Kingdom", "type": "Game" }
+
+# Hero of the Kingdom III https://store.steampowered.com/app/772430/Hero_of_the_Kingdom_III/
+{ "name": "Hero of the Kingdom III", "type": "Game" }
+{ "name": "Hero_of_the_Kingdom_III", "type": "Game" }
+
 # Hero Siege https://store.steampowered.com/app/269210/Hero_Siege/
 { "name": "Hero_Siege", "type": "Game" }
 
 # hexceed https://store.steampowered.com/app/1463920/hexceed/
 { "name": "hexceed", "type": "Game" }
+
+# Hexcells https://store.steampowered.com/app/265890/Hexcells/
+{ "name": "Hexcells.x86", "type": "Game" }
+{ "name": "Hexcells.x86_64", "type": "Game" }
+
+# Hexcells Infinite https://store.steampowered.com/app/304410/Hexcells_Infinite/
+{ "name": "Hexcells Infinite.x86", "type": "Game" }
+{ "name": "Hexcells Infinite.x86_64", "type": "Game" }
+
+# Hexcells Plus https://store.steampowered.com/app/271900/Hexcells_Plus/
+{ "name": "Hexcells Plus.x86", "type": "Game" }
+{ "name": "Hexcells Plus.x86_64", "type": "Game" }
 
 # Hexen II: Hammer of Thyrion http://uhexen2.sourceforge.net/
 { "name": "glhexen2", "type": "Game" }
@@ -58,6 +94,9 @@
 
 # HITMAN https://store.steampowered.com/app/236870/HITMAN/
 { "name": "HitmanPro", "type": "Game" }
+
+# HOARD https://store.steampowered.com/app/63000/HOARD/
+{ "name": "Reuben.bin.x86", "type": "Game" }
 
 # Hobo: Tough Life https://store.steampowered.com/app/632300/Hobo_Tough_Life/
 { "name": "HoboRPG.x86_64", "type": "Game" }
@@ -76,6 +115,12 @@
 { "name": "HomeBehind2.x86", "type": "Game" }
 { "name": "HomeBehind2.x86_64", "type": "Game" }
 
+# Homefront: The Revolution https://store.steampowered.com/app/223100/Homefront_The_Revolution/
+{ "name": "run_hf2", "type": "Game" }
+
+# Hook https://store.steampowered.com/app/367580/Hook/
+{ "name": "hook.x86_64", "type": "Game" }
+
 # Horripilant https://store.steampowered.com/app/3525970/Horripilant/
 { "name": "Horripilant.x86_64", "type": "Game" }
 
@@ -88,8 +133,19 @@
 # Hover https://store.steampowered.com/app/280180/Hover/
 { "name": "Hover.x86", "type": "Game" }
 
+# Hue https://store.steampowered.com/app/383270/Hue/
+{ "name": "Hue.x86", "type": "Game" }
+{ "name": "Hue.x86_64", "type": "Game" }
+
+# HuniePop https://store.steampowered.com/app/339800/HuniePop/
+{ "name": "HuniePop.x86", "type": "Game" }
+{ "name": "HuniePop.x86_64", "type": "Game" }
+
 # HUNTDOWN https://store.steampowered.com/app/598550/HUNTDOWN/
 { "name": "Huntdown.x86_64", "type": "Game" }
+
+# Hurtworld https://store.steampowered.com/app/393420/Hurtworld/
+{ "name": "Hurtworld.x86_64", "type": "Game" }
 
 # Hyper Light Drifter https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
 { "name": "HyperLightDrifter", "type": "Game" }

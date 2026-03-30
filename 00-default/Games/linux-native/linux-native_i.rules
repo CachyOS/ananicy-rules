@@ -5,17 +5,40 @@
 
 ### I ###
 
+# ibb & obb https://store.steampowered.com/app/95400/ibb__obb/
+{ "name": "ibbobb.elf", "type": "Game" }
+{ "name": "ibbobb-i386.elf", "type": "Game" }
+
 # Icewind Dale: Enhanced Edition  https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/
 { "name": "IcewindDale", "type": "Game" }
+
+# Idle Wizard https://store.steampowered.com/app/992070/Idle_Wizard/
+{ "name": "IdleWizard.x86_64", "type": "Game" }
 
 # Idling to Rule the Gods https://store.steampowered.com/app/466170/Idling_to_Rule_the_Gods/
 { "name": "itrtg.x86_64", "type": "Game" }
 
+# Idol Manager https://store.steampowered.com/app/821880/Idol_Manager/
+{ "name": "IdolManager.x86_64", "type": "Game" }
+
+# I Have No Mouth, and I Must Scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
+{ "name": "IHNMAIMS.x86_64", "type": "Game" }
+
 # Indivisible https://store.steampowered.com/app/421170/Indivisible/
 { "name": "Indivisible.x86_64-pc-linux-gnu", "type": "Game" }
 
+# Infectonator: Survivors https://store.steampowered.com/app/269310/Infectonator_Survivors/
+{ "name": "Survivors", "type": "Game" }
+
+# Infinifactory https://store.steampowered.com/app/300570/Infinifactory/
+{ "name": "infinifactory.x86", "type": "Game" }
+{ "name": "infinifactory.x86_64", "type": "Game" }
+
 # Infinitode 2 - Infinite Tower Defense https://store.steampowered.com/app/937310/Infinitode_2__Infinite_Tower_Defense/
 { "name": "infinitode-2", "type": "Game" }
+
+# Influent Language Learning Game https://store.steampowered.com/app/274980/Influent_Language_Learning_Game/
+{ "name": "Influent.x86_64", "type": "Game" }
 
 # Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
 { "name": "fcengine-bin32", "type": "Game" }
@@ -25,6 +48,16 @@
 
 # Insurgency https://store.steampowered.com/app/222880/Insurgency/
 { "name": "insurgency_linux", "type": "Game" }
+
+# Interstellar Marines https://store.steampowered.com/app/236370/Interstellar_Marines/
+{ "name": "InterstellarMarines.x64", "type": "Game" }
+{ "name": "InterstellarMarines.x86", "type": "Game" }
+
+# Into the Breach https://store.steampowered.com/app/590380/Into_the_Breach/
+{ "name": "Breach", "type": "Game" }
+
+# Intrusion 2 https://store.steampowered.com/app/214970/Intrusion_2/
+{ "name": "intrusion2", "type": "Game" }
 
 # Imperator: Rome https://www.paradoxinteractive.com/games/imperator-rome
 { "name": "imperator", "type": "Game" }
@@ -44,3 +77,10 @@
 
 # Ironwail: High-performance QuakeSpasm fork https://github.com/andrei-drexler/ironwail
 { "name": "ironwail", "type": "Game" }
+
+# ISLANDERS https://store.steampowered.com/app/1046030/ISLANDERS/
+{ "name": "ISLANDERS.x86", "type": "Game" }
+{ "name": "ISLANDERS.x86_64", "type": "Game" }
+
+# Ittle Dew https://store.steampowered.com/app/241320/Ittle_Dew/
+{ "name": "IttleDew.x86", "type": "Game" }
