@@ -75,12 +75,6 @@
 { "name": "iowolfmp.x86_64", "type": "Game" }
 { "name": "iowolfsp.x86_64", "type": "Game" }
 
-# Iratus: Lord of the Dead https://store.steampowered.com/app/807120/Iratus_Lord_of_the_Dead/
-{ "name": "Iratus.exe", "type": "Game" }
-
-# Iron Sky: Invasion https://store.steampowered.com/app/224900/Iron_Sky_Invasion/
-{ "name": "RunGame", "type": "Game" }
-
 # Ironwail: High-performance QuakeSpasm fork https://github.com/andrei-drexler/ironwail
 { "name": "ironwail", "type": "Game" }
 
