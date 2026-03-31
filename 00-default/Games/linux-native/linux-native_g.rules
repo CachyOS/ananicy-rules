@@ -5,6 +5,10 @@
 
 ### G ###
 
+# Game Dev Tycoon https://store.steampowered.com/app/239820/Game_Dev_Tycoon/
+{ "name": "gamedevtycoon-bin", "type": "Game" }
+{ "name": "gamedevtycoon64-bin", "type": "Game" }
+
 # Gang Beasts https://store.steampowered.com/app/285900/Gang_Beasts/
 { "name": "Gang Beasts.x86_64", "type": "Game" }
 
@@ -45,6 +49,10 @@
 # Goat Simulator https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame", "type": "Game" }
 
+# Gone Home https://store.steampowered.com/app/232430/Gone_Home/
+{ "name": "GoneHome.x86", "type": "Game" }
+{ "name": "GoneHome.x86_64", "type": "Game" }
+
 # Golf Gang https://store.steampowered.com/app/1151050/Golf_Gang/
 { "name": "Golf Gang.x86_64", "type": "Game" }
 
@@ -65,6 +73,9 @@
 # Grey Hack https://store.steampowered.com/app/605230/Grey_Hack/
 { "name": "Grey Hack.x86", "type": "Game" }
 { "name": "Grey Hack.x86_64", "type": "Game" }
+
+# GRID Autosport https://store.steampowered.com/app/255220/GRID_Autosport/
+{ "name": "GridAutosport.sh", "type": "Game" }
 
 # Grim Fandango Remastered https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/
 { "name": "GrimFandango", "type": "Game" }
@@ -90,6 +101,9 @@
 # Gunscape https://store.steampowered.com/app/342480/Gunscape/
 { "name": "Gunscape.x86", "type": "Game" }
 { "name": "Gunscape.x86_64", "type": "Game" }
+
+# Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
+{ "name": "GunsOfIcarusOnline", "type": "Game" }
 
 # Guts and Glory https://store.steampowered.com/app/537340/Guts_and_Glory/
 { "name": "Guts and Glory.x86", "type": "Game" }
