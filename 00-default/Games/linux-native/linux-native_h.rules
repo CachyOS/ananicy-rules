@@ -14,17 +14,6 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
-# Half-Life https://store.steampowered.com/app/70/HalfLife/
-# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
-# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
-{ "name": "hl.sh", "type": "Game" }
-{ "name": "hl_linux", "type": "Game" }
-
-# Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
-# Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
-{ "name": "hl2_linux", "type": "Game" }
-{ "name": "hl2.sh", "type": "Game" }
-
 # Half-Life Deathmatch: Source https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/
 { "name": "hl1mp_linux64", "type": "Game" }
 { "name": "hl1mp.sh", "type": "Game" }

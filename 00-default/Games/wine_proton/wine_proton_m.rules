@@ -7,7 +7,6 @@
 
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
 { "name": "nxsteam.exe", "type": "Game" }
-{ "name": "Client.exe", "type": "Game" }
 
 # Machinarium https://store.steampowered.com/app/40700/Machinarium/
 { "name": "Machinarium.exe", "type": "Game" }
@@ -150,14 +149,10 @@
 # Mars: War Logs https://store.steampowered.com/app/232750/Mars_War_Logs/
 { "name": "MarsWarLogs.exe", "type": "Game" }
 
-# MARVEL MaXimum Collection https://store.steampowered.com/app/3931060/MARVEL_MaXimum_Collection/
-{ "name": "Marvel.exe", "type": "Game" }
-
 # MARVEL Puzzle Quest https://store.steampowered.com/app/234330/MARVEL_Puzzle_Quest/
 { "name": "Marvel Puzzle Quest.exe", "type": "Game" }
 
 # Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
-{ "name": "Marvel.exe", "type": "Game" }
 { "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
 { "name": "MarvelRivals_Launcher.exe", "type": "BG_CPUIO" }
 { "name": "CapturePro.exe", "type": "BG_CPUIO" }

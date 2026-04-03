@@ -28,6 +28,10 @@
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "Baldur.exe", "type": "Game" }
 
+# Wonderful Everyday Down the Rabbit-Hole https://store.steampowered.com/app/658620/Wonderful_Everyday_Down_the_RabbitHole/
+# Go! Go! Nippon! ~My First Trip to Japan~ https://store.steampowered.com/app/251870/Go_Go_Nippon_My_First_Trip_to_Japan/
+{ "name": "BGI.exe", "type": "Game" }
+
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
 
@@ -37,6 +41,8 @@
 { "name": "Berkelium.exe", "type": "Game" }
 
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
+# Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
+# Onmyoji https://store.steampowered.com/app/551170/Onmyoji/
 { "name": "Client.exe", "type": "Game" }
 
 # Counter-Strike Nexon: Studio https://store.steampowered.com/app/273110/CounterStrike_Nexon/
@@ -94,6 +100,10 @@
 # Barony https://store.steampowered.com/app/371970/Barony/
 { "name": "editor.exe", "type": "Game" }
 
+# Greyfox RPG https://store.steampowered.com/app/341310/Greyfox_RPG/
+# Destiny Warriors RPG https://store.steampowered.com/app/399790/Destiny_Warriors_RPG/
+{ "name": "EQLauncher.exe", "type": "Game" }
+
 # Football Manager Series
 # Football Manager 26 https://store.steampowered.com/app/3551340/Football_Manager_26/
 # Football Manager 2024 https://store.steampowered.com/app/2252570/Football_Manager_2024/
@@ -150,6 +160,10 @@
 # Mega Man 11 https://store.steampowered.com/app/742300/Mega_Man_11/
 { "name": "game.exe", "type": "Game" }
 
+# Green Hell https://store.steampowered.com/app/815370/Green_Hell/
+# Gloomhaven https://store.steampowered.com/app/780290/Gloomhaven/
+{ "name": "GH.exe", "type": "Game" }
+
 # Guild Wars Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
 # GUNTOUCHABLES https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
 { "name": "Gw.exe", "type": "Game" }
@@ -171,16 +185,6 @@
 # Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
 { "name": "hl2.exe", "type": "Game" }
-
-# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
-# Half-Life https://store.steampowered.com/app/70/HalfLife/
-# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
-{ "name": "hltv.exe", "type": "Game" }
-
-# Half-Life https://store.steampowered.com/app/70/HalfLife/
-# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
-# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
-{ "name": "hlds.exe", "type": "Game" }
 
 # Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
 # Source SDK Base tools
@@ -224,14 +228,24 @@
 { "name": "Launch_EA.exe", "type": "Game" }
 { "name": "Launch_JP.exe", "type": "Game" }
 
+# MARVEL MaXimum Collection https://store.steampowered.com/app/3931060/MARVEL_MaXimum_Collection/
+# Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
+{ "name": "Marvel.exe", "type": "Game" }
+
 # Myth of Empires https://store.steampowered.com/app/1371580/
 # March of Empires https://store.steampowered.com/app/702320/March_of_Empires/
 { "name": "MOE.exe", "type": "Game" }
+
+# Notes of Soul https://store.steampowered.com/app/991780/Notes_of_Soul/
+# fēng líng dàng àn 封灵档案 https://store.steampowered.com/app/1520470/Soul_Dossier/
+{ "name": "NotesOfSoul.exe", "type": "Game" }
+{ "name": "NotesOfSoul-Win64-Shipping.exe", "type": "Game" }
 
 # Aviary Attorney https://store.steampowered.com/app/384630/Aviary_Attorney/
 # Angvik https://store.steampowered.com/app/278890/Angvik/
 # Ghostly Matter https://store.steampowered.com/app/800240/Ghostly_Matter/
 # Fallen ~Makina and the City of Ruins~ https://store.steampowered.com/app/791330/Fallen_Makina_and_the_City_of_Ruins/
+# Game Dev Tycoon https://store.steampowered.com/app/239820/Game_Dev_Tycoon/
 { "name": "nw.exe", "type": "Game" }
 
 # ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
@@ -274,6 +288,11 @@
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
+
+# NaissanceE https://store.steampowered.com/app/265690/NaissanceE/
+# Homesick https://store.steampowered.com/app/244910/Homesick/
+# Antichamber https://store.steampowered.com/app/219890/Antichamber/
+{ "name": "UDK.exe", "type": "Game" }
 
 # Warhammer: Chaos And Conquest https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
 # Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/

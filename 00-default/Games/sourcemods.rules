@@ -1,4 +1,7 @@
 # General rule for some Source-based mods, like Fortress Forever, Entropy: Zero, etc.
+
+# Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
+# Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
 { "name": "hl2_linux", "type": "Game" }
 { "name": "hl2_linux64", "type": "Game" }
 
@@ -15,9 +18,18 @@
 { "name": "hlmv.exe", "type": "Doc-View" }
 
 # GoldSrc mods
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 { "name": "hl_linux", "type": "Game" }
 
 # GoldSrc dedicated server
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 { "name": "hlds.exe", "type": "Game" }
 { "name": "hlds_linux", "type": "Game" }
 { "name": "hlds_run", "type": "Game" }
