@@ -177,14 +177,14 @@
 { "name": "THIEF.EXE", "type": "Game" }
 { "name": "THIEF_no_ddfix.EXE", "type": "Game" }
 
-# this is from open beta test, beware https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
-{ "name": "TL.exe", "type": "Game" }
-
 # This Land Is My Land https://store.steampowered.com/app/1069640/This_Land_Is_My_Land/
 { "name": "This Land Is My Land.exe", "type": "Game" }
 
 # This War of Mine https://store.steampowered.com/app/282070/This_War_of_Mine/
 { "name": "This War of Mine.exe", "type": "Game" }
+
+# THRONE AND LIBERTY https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
+{ "name": "TL.exe", "type": "Game" }
 
 # Thronefall https://store.steampowered.com/app/2239150/Thronefall/
 { "name": "Thronefall.exe", "type": "Game" }
