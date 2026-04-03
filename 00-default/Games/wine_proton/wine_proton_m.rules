@@ -7,7 +7,6 @@
 
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
 { "name": "nxsteam.exe", "type": "Game" }
-{ "name": "Client.exe", "type": "Game" }
 
 # Machinarium https://store.steampowered.com/app/40700/Machinarium/
 { "name": "Machinarium.exe", "type": "Game" }
@@ -108,11 +107,15 @@
 { "name": "Blaster.exe", "type": "Game" }
 { "name": "Blaster-Win64-Shipping.exe", "type": "Game" }
 
-# ManHunt https://store.steampowered.com/app/12130/Manhunt/
-{ "name": "manhunt.exe", "type": "Game" }
+# Mandragora: Whispers of the Witch Tree https://store.steampowered.com/app/1721060/Mandragora_Whispers_of_the_Witch_Tree/
+{ "name": "man-Win64-Shipping.exe", "type": "Game" }
+{ "name": "man.exe", "type": "Game" }
 
 # Maneater https://store.steampowered.com/app/629820/Maneater/
 { "name": "Maneater.exe", "type": "Game" }
+
+# ManHunt https://store.steampowered.com/app/12130/Manhunt/
+{ "name": "manhunt.exe", "type": "Game" }
 
 # Manor Lords https://store.steampowered.com/app/1363080/Manor_Lords/
 { "name": "ManorLords.exe", "type": "Game" }
@@ -146,8 +149,10 @@
 # Mars: War Logs https://store.steampowered.com/app/232750/Mars_War_Logs/
 { "name": "MarsWarLogs.exe", "type": "Game" }
 
+# MARVEL Puzzle Quest https://store.steampowered.com/app/234330/MARVEL_Puzzle_Quest/
+{ "name": "Marvel Puzzle Quest.exe", "type": "Game" }
+
 # Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
-{ "name": "Marvel.exe", "type": "Game" }
 { "name": "Marvel-Win64-Shipping.exe", "type": "Game" }
 { "name": "MarvelRivals_Launcher.exe", "type": "BG_CPUIO" }
 { "name": "CapturePro.exe", "type": "BG_CPUIO" }
@@ -172,9 +177,6 @@
 
 # Marvel’s Spider-Man Remastered https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/
 { "name": "Spider-Man.exe", "type": "Game" }
-
-# MARVEL Puzzle Quest https://store.steampowered.com/app/234330/MARVEL_Puzzle_Quest/
-{ "name": "Marvel Puzzle Quest.exe", "type": "Game" }
 
 # MARVEL vs. CAPCOM Fighting Collection: Arcade Classics https://store.steampowered.com/app/2634890/MARVEL_vs_CAPCOM_Fighting_Collection_Arcade_Classics/
 { "name": "MarvelVsCapcomFightingCollection.exe", "type": "Game" }
@@ -519,6 +521,9 @@
 
 # Mobmod https://gamebanana.com/mods/464620
 { "name": "Mobbos.exe", "type": "Game" }
+
+# Modulus: Factory Automation https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/
+{ "name": "Modulus.exe", "type": "Game" }
 
 # Momodora: Reverie Under The Moonlight https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/
 { "name": "MomodoraRUtM.exe", "type": "Game" }

@@ -5,6 +5,10 @@
 
 ### H ###
 
+# Hachishaku https://store.steampowered.com/app/3572580/Hachishaku/
+{ "name": "Hachishaku.exe", "type": "Game" }
+{ "name": "Hachishaku-Win64-Shipping.exe", "type": "Game" }
+
 # Hacker Evolution https://store.steampowered.com/app/70100/Hacker_Evolution/
 { "name": "HackerEvolution.exe", "type": "Game" }
 
@@ -386,9 +390,6 @@
 # Homefront: The Revolution https://store.steampowered.com/app/223100/Homefront_The_Revolution/
 { "name": "Homefront2_Release.exe", "type": "Game" }
 
-# Homesick https://store.steampowered.com/app/244910/Homesick/
-{ "name": "UDK.exe", "type": "Game" }
-
 # Homeworld 3 https://store.steampowered.com/app/1840080/Homeworld_3/
 { "name": "Homeworld3.exe", "type": "Game" }
 
@@ -475,6 +476,10 @@
 
 # How to Train Your Cock https://store.steampowered.com/app/3673060/How_to_Train_Your_Cock/
 { "name": "HowToTrainYourCock.exe", "type": "Game" }
+
+# Hozy https://store.steampowered.com/app/3326230/Hozy/
+{ "name": "CozyGame.exe", "type": "Game" }
+{ "name": "CozyGame-Win64-Shipping.exe", "type": "Game" }
 
 # HROT https://store.steampowered.com/app/824600/HROT/
 { "name": "HROT.exe", "type": "Game" }

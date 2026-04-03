@@ -11,9 +11,6 @@
 # nail'd https://store.steampowered.com/app/40380/naild/
 { "name": "Naild_x86.exe", "type": "Game" }
 
-# NaissanceE https://store.steampowered.com/app/265690/NaissanceE/
-{ "name": "UDK.exe", "type": "Game" }
-
 # NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
 { "name": "NarakaBladepoint.exe", "type": "Game" }
 
@@ -115,7 +112,6 @@
 # Neighbors: Suburban Warfare https://store.steampowered.com/app/1732430/Neighbors_Suburban_Warfare/
 { "name": "JP.exe", "type": "Game" }
 { "name": "JP-Win64-Shipping.exe", "type": "Game" }
-{ "name": "start_protected_game.exe", "type": "Game" }
 
 # Need for Speed Heat https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
 { "name": "NeedForSpeedHeat.exe", "type": "Game" }
@@ -354,9 +350,6 @@
 
 # Not For Broadcast https://store.steampowered.com/app/1147550/Not_For_Broadcast/
 { "name": "NotForBroadcast.exe", "type": "Game" }
-
-# Notes of Soul https://store.steampowered.com/app/991780/Notes_of_Soul/
-{ "name": "NotesOfSoul.exe", "type": "Game" }
 
 # No Time to Relax https://store.steampowered.com/app/829660/No_Time_to_Relax/
 { "name": "No Time to Relax.exe", "type": "Game" }

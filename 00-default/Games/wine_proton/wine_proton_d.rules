@@ -82,6 +82,13 @@
 # DARK SOULS: REMASTERED https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/
 { "name": "DarkSoulsRemastered.exe", "type": "Game" }
 
+# Darkwater https://store.steampowered.com/app/619540/Darkwater/
+{ "name": "Darkwater.exe", "type": "Game" }
+
+# Darwin's Paradox! https://store.steampowered.com/app/2989180/Darwins_Paradox/
+{ "name": "Darwin's Paradox.exe", "type": "Game" }
+{ "name": "DarwinParadox-Win64-Shipping.exe", "type": "Game" }
+
 # Date Everything! https://store.steampowered.com/app/2201320/Date_Everything/
 { "name": "Date Everything.exe", "type": "Game" }
 
@@ -377,9 +384,6 @@
 # Destiny 2 https://store.steampowered.com/app/1085660/Destiny_2/
 { "name": "destiny2.exe", "type": "Game" }
 
-# Destiny Warriors RPG https://store.steampowered.com/app/399790/Destiny_Warriors_RPG/
-{ "name": "EQLauncher.exe", "type": "Game" }
-
 # Destroy All Humans! https://store.steampowered.com/app/803330/Destroy_All_Humans/
 # Destroy All Humans! 2 - Reprobed https://store.steampowered.com/app/1266700/Destroy_All_Humans_2__Reprobed/
 { "name": "DH.exe", "type": "Game" }
@@ -484,6 +488,10 @@
 
 # Dinkum https://store.steampowered.com/app/1062520/Dinkum/
 { "name": "Dinkum.exe", "type": "Game" }
+
+# Dinoblade Demo https://store.steampowered.com/app/4106740/Dinoblade_Demo/
+{ "name": "DinoBlade-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DinoBlade.exe", "type": "Game" }
 
 # Dino D-Day https://store.steampowered.com/app/70000/Dino_DDay/
 { "name": "dinodday.exe", "type": "Game" }

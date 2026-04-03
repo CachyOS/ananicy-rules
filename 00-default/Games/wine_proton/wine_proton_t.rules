@@ -177,14 +177,14 @@
 { "name": "THIEF.EXE", "type": "Game" }
 { "name": "THIEF_no_ddfix.EXE", "type": "Game" }
 
-# this is from open beta test, beware https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
-{ "name": "TL.exe", "type": "Game" }
-
 # This Land Is My Land https://store.steampowered.com/app/1069640/This_Land_Is_My_Land/
 { "name": "This Land Is My Land.exe", "type": "Game" }
 
 # This War of Mine https://store.steampowered.com/app/282070/This_War_of_Mine/
 { "name": "This War of Mine.exe", "type": "Game" }
+
+# THRONE AND LIBERTY https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
+{ "name": "TL.exe", "type": "Game" }
 
 # Thronefall https://store.steampowered.com/app/2239150/Thronefall/
 { "name": "Thronefall.exe", "type": "Game" }
@@ -245,6 +245,9 @@
 # Tomb Raider Game of the Year https://store.steampowered.com/app/203160/Tomb_Raider_Game_of_the_Year/
 { "name": "TombRaider.exe", "type": "Game" }
 
+# Tombwater https://store.steampowered.com/app/3308200/Tombwater/
+{ "name": "tombwater.exe", "type": "Game" }
+
 # TOKYO GHOUL:re [CALL to EXIST]  https://store.steampowered.com/app/756530/TOKYO_GHOULre_CALL_to_EXIST/
 { "name": "CALL to EXIST.exe", "type": "Game" }
 
@@ -300,6 +303,9 @@
 
 # TopSpin 2K25 https://store.steampowered.com/app/1785650/TopSpin_2K25/
 { "name": "topspin2k25.exe", "type": "Game" }
+
+# Toram Online https://store.steampowered.com/app/1827180/Toram_Online/
+{ "name": "ToramOnline.exe", "type": "Game" }
 
 # Torchlight https://store.steampowered.com/app/41500/Torchlight/
 { "name": "Torchlight.exe", "type": "Game" }
@@ -474,6 +480,10 @@
 
 # Truck & Logistics Simulator https://store.steampowered.com/app/873840/Truck__Logistics_Simulator/
 { "name": "Truck & Logistics Simulator.exe", "type": "Game" }
+
+# Truck Mechanic: Dangerous Paths https://store.steampowered.com/app/995680/Truck_Mechanic_Dangerous_Paths/
+{ "name": "TMDP-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TMDP.exe", "type": "Game" }
 
 # Truck Racer https://store.steampowered.com/app/256070/Truck_Racer/
 { "name": "TruckRacer.exe", "type": "Game" }

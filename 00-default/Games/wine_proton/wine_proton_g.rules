@@ -32,7 +32,6 @@
 { "name": "ShippingPC-AGOTGame.exe", "type": "Game" }
 
 # Game Dev Tycoon https://store.steampowered.com/app/239820/Game_Dev_Tycoon/
-{ "name": "nw.exe", "type": "Game" }
 { "name": "GameDevTycoon.exe", "type": "Game" }
 
 # Gang Beasts https://store.steampowered.com/app/285900/Gang_Beasts/
@@ -188,9 +187,6 @@
 # Gloomwood https://store.steampowered.com/app/1150760/Gloomwood/
 { "name": "Gloomwood.exe", "type": "Game" }
 
-# Gloomhaven https://store.steampowered.com/app/780290/Gloomhaven/
-{ "name": "GH.exe", "type": "Game" }
-
 # Gloria Victis: Medieval MMORPG https://store.steampowered.com/app/327070/Gloria_Victis_Medieval_MMORPG/
 { "name": "gv.exe", "type": "Game" }
 
@@ -315,7 +311,6 @@
 { "name": "godus.exe", "type": "Game" }
 
 # Go! Go! Nippon! ~My First Trip to Japan~ https://store.steampowered.com/app/251870/Go_Go_Nippon_My_First_Trip_to_Japan/
-{ "name": "BGI.exe", "type": "Game" }
 { "name": "ggn2015.exe", "type": "Game" }
 { "name": "ggn2016.exe", "type": "Game" }
 
@@ -393,17 +388,11 @@
 # GreedFall: The Dying World https://store.steampowered.com/app/1997660/GreedFall_The_Dying_World/
 { "name": "GreedFall2.exe", "type": "Game" }
 
-# Green Hell https://store.steampowered.com/app/815370/Green_Hell/
-{ "name": "GH.exe", "type": "Game" }
-
 # Gremlins, Inc. https://store.steampowered.com/app/369990/Gremlins_Inc/
 { "name": "Gremlins_Inc.exe", "type": "Game" }
 
 # Grey Hack https://store.steampowered.com/app/605230/Grey_Hack/
 { "name": "Grey Hack.exe", "type": "Game" }
-
-# Greyfox RPG https://store.steampowered.com/app/341310/Greyfox_RPG/
-{ "name": "EQLauncher.exe", "type": "Game" }
 
 # Grey Goo https://store.steampowered.com/app/290790/Grey_Goo/
 { "name": "ClientLauncherG.exe", "type": "Game" }
@@ -415,6 +404,9 @@
 
 # Grim Dawn https://store.steampowered.com/app/219990/Grim_Dawn/
 { "name": "Grim Dawn.exe", "type": "Game" }
+
+# GRIME II https://store.steampowered.com/app/2529790/GRIME_II/
+{ "name": "GRIME II.exe", "type": "Game" }
 
 # Grimm https://store.steampowered.com/app/252150/Grimm/
 { "name": "GrimmLauncher.exe", "type": "Game" }
@@ -528,9 +520,6 @@
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 { "name": "GunsOfIcarusOnline.exe", "type": "Game" }
 { "name": "Workshop.exe", "type": "Game" }
-
-# GunZ 2: The Second Duel https://store.steampowered.com/app/242720/GunZ_2_The_Second_Duel/
-{ "name": "Gunz2_Steam.exe", "type": "Game" }
 
 # GunZ 2: The Second Duel https://store.steampowered.com/app/242720/GunZ_2_The_Second_Duel/
 { "name": "Gunz2_Steam.exe", "type": "Game" }
