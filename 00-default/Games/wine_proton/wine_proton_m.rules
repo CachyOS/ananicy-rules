@@ -108,11 +108,15 @@
 { "name": "Blaster.exe", "type": "Game" }
 { "name": "Blaster-Win64-Shipping.exe", "type": "Game" }
 
-# ManHunt https://store.steampowered.com/app/12130/Manhunt/
-{ "name": "manhunt.exe", "type": "Game" }
+# Mandragora: Whispers of the Witch Tree https://store.steampowered.com/app/1721060/Mandragora_Whispers_of_the_Witch_Tree/
+{ "name": "man-Win64-Shipping.exe", "type": "Game" }
+{ "name": "man.exe", "type": "Game" }
 
 # Maneater https://store.steampowered.com/app/629820/Maneater/
 { "name": "Maneater.exe", "type": "Game" }
+
+# ManHunt https://store.steampowered.com/app/12130/Manhunt/
+{ "name": "manhunt.exe", "type": "Game" }
 
 # Manor Lords https://store.steampowered.com/app/1363080/Manor_Lords/
 { "name": "ManorLords.exe", "type": "Game" }
