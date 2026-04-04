@@ -5,15 +5,37 @@
 
 ### Q ###
 
+# Quake https://store.steampowered.com/app/2310/Quake/
+{ "name": "Quake_x64_steam.exe", "type": "Game" }
+{ "name": "glquake.exe", "type": "Game" }
+{ "name": "quake.exe", "type": "Game" }
+{ "name": "glqwcl.exe", "type": "Game" }
+{ "name": "qwcl.exe", "type": "Game" }
+{ "name": "Winquake.exe", "type": "Game" }
+
 # Quake II RTX https://store.steampowered.com/app/1089130/Quake_II_RTX/
 { "name": "q2rtx.exe", "type": "Game" }
+
+# Quake III Arena https://store.steampowered.com/app/2200/Quake_III_Arena/
+{ "name": "quake3.exe", "type": "Game" }
 
 # Quake 4 https://store.steampowered.com/app/2210/Quake_4/
 { "name": "Quake4.exe", "type": "Game" }
 { "name": "Quake4Ded.exe", "type": "Game" }
 
+# Quake Champions https://store.steampowered.com/app/611500/Quake_Champions/
+{ "name": "QuakeChampions.exe", "type": "Game" }
+
+# Quake Live https://store.steampowered.com/app/282440/Quake_Live/
+{ "name": "quakelive_steam.exe", "type": "Game" }
+{ "name": "awesomium_process.exe", "type": "Game" }
+
 # Quantum Break https://store.steampowered.com/app/474960/Quantum_Break/
 { "name": "QuantumBreak.exe", "type": "Game" }
+
+# Quantum Conundrum https://store.steampowered.com/app/200010/Quantum_Conundrum/
+{ "name": "TryGame-Win32-Shipping.exe", "type": "Game" }
+{ "name": "CookerSync.exe", "type": "Game" }
 
 # Quasimorph https://store.steampowered.com/app/2059170/Quasimorph/
 { "name": "Quasimorph.exe", "type": "Game" }
