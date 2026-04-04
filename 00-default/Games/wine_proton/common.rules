@@ -93,6 +93,12 @@
 # How to Survive 2 https://store.steampowered.com/app/360170/How_to_Survive_2/
 { "name": "Detect.exe", "type": "Game" }
 
+
+# Soldier Front 2 https://store.steampowered.com/app/239660/Soldier_Front_2/
+# S.K.I.L.L. - Special Force 2 (Shooter) https://store.steampowered.com/app/286940/SKILL__Special_Force_2_Shooter/
+{ "name": "DFUBG.exe", "type": "Game" }
+{ "name": "DFUFG.exe", "type": "Game" }
+
 # Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
 { "name": "engine.exe", "type": "Game" }
 
@@ -136,7 +142,15 @@
 # Look Outside https://store.steampowered.com/app/3373660/Look_Outside/
 # Magical Girl Celesphonia https://store.steampowered.com/app/1786790/Magical_Girl_Celesphonia/
 # Material Girl https://store.steampowered.com/app/644570/Material_Girl/
+# STEINS;GATE https://store.steampowered.com/app/412830/STEINSGATE/
+# Summer Memories https://store.steampowered.com/app/1227890/Summer_Memories/
+# The Void https://store.steampowered.com/app/37000/The_Void/
+# Toy Soldiers https://store.steampowered.com/app/98300/Toy_Soldiers/
+# Toy Soldiers: Complete https://store.steampowered.com/app/262120/Toy_Soldiers_Complete/
 { "name": "Game.exe", "type": "Game" }
+
+# SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
+{ "name": "GameLauncher.exe", "type": "Game" }
 
 # Dragon Cliff https://store.steampowered.com/app/758190/Dragon_Cliff/
 # Fish Idle 2: Underwater Mystery https://store.steampowered.com/app/3037410/Fish_Idle_2_Underwater_Mystery/
@@ -158,6 +172,12 @@
 # https://store.steampowered.com/app/1468260/Leaf_Blower_Revolution__Idle_Game/
 # Mafia https://store.steampowered.com/app/40990/Mafia/
 # Mega Man 11 https://store.steampowered.com/app/742300/Mega_Man_11/
+# Sherlock Holmes versus Jack the Ripper https://store.steampowered.com/app/11190/Sherlock_Holmes_versus_Jack_the_Ripper/
+# Silent Storm Gold Edition https://store.steampowered.com/app/254960/Silent_Storm_Gold_Edition/
+# The Longest Journey https://store.steampowered.com/app/6310/The_Longest_Journey/
+# The Red Solstice https://store.steampowered.com/app/265590/The_Red_Solstice/
+# The Testament of Sherlock Holmes https://store.steampowered.com/app/205650/The_Testament_of_Sherlock_Holmes/
+# The Witch's House MV https://store.steampowered.com/app/885810/The_Witchs_House_MV/
 { "name": "game.exe", "type": "Game" }
 
 # Green Hell https://store.steampowered.com/app/815370/Green_Hell/
@@ -171,19 +191,21 @@
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
-
 # Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
 # Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
 # Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
 # Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
 # GoldSrc mods
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Ricochet https://store.steampowered.com/app/60/Ricochet/
+# Team Fortress Classic https://store.steampowered.com/app/20/Team_Fortress_Classic/
 { "name": "hl.exe", "type": "Game" }
 
 # Fistful of Frags https://store.steampowered.com/app/265630/Fistful_of_Frags/
 # General rule for some Source-based mods, like Fortress Forever, Entropy: Zero, etc.
 # Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
+# Portal https://store.steampowered.com/app/400/Portal/
 { "name": "hl2.exe", "type": "Game" }
 
 # Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
