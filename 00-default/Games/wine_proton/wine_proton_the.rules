@@ -221,9 +221,6 @@
 { "name": "GoldRiver_V4.exe", "type": "Game" }
 { "name": "GoldRiver_V4-Win64-Shipping.exe", "type": "Game" }
 
-# The Golf Club https://store.steampowered.com/app/269730/The_Golf_Club/
-{ "name": "golf.exe", "type": "Game" }
-
 # The Gunk https://store.steampowered.com/app/1087760/The_Gunk/
 { "name": "Dust.exe", "type": "Game" }
 { "name": "Dust-Win64-Shipping.exe", "type": "Game" }
@@ -463,12 +460,6 @@
 # The Ranch of Rivershine https://store.steampowered.com/app/1559600/The_Ranch_of_Rivershine/
 { "name": "TheRanchOfRivershine.exe", "type": "Game" }
 { "name": "TheRanchOfRivershine-Win64-Shipping.exe", "type": "Game" }
-
-# The Riftbreaker https://store.steampowered.com/app/780310/The_Riftbreaker/
-{ "name": "riftbreaker_win_release.exe", "type": "Game" }
-
-# The Riftbreaker: Prologue https://store.steampowered.com/app/1293860/The_Riftbreaker_Prologue/
-{ "name": "riftbreaker_win_release.exe", "type": "Game" }
 
 # The Room https://store.steampowered.com/app/288160/The_Room/
 { "name": "TheRoom.exe", "type": "Game" }

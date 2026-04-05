@@ -24,9 +24,6 @@
 # PAC-MAN CHAMPIONSHIP EDITION 2 https://store.steampowered.com/app/441380/PACMAN_CHAMPIONSHIP_EDITION_2/
 { "name": "PCE2.exe", "type": "Game" }
 
-# PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
-{ "name": "PAC-MAN.exe", "type": "Game" }
-
 # PAC-MAN 256 https://store.steampowered.com/app/455400/PACMAN_256/
 { "name": "PAC-MAN256.exe", "type": "Game" }
 
@@ -47,9 +44,6 @@
 
 # Painkiller: Resurrection https://store.steampowered.com/app/39560/Painkiller_Resurrection/
 { "name": "Resurrection.exe", "type": "Game" }
-
-# Pajama Sam: No Need to Hide When It's Dark Outside https://store.steampowered.com/app/283960/Pajama_Sam_No_Need_to_Hide_When_Its_Dark_Outside/
-{ "name": "scummvm.exe", "type": "Game" }
 
 # PC Building Simulator https://store.steampowered.com/app/621060/PC_Building_Simulator/
 { "name": "PCBS.exe", "type": "Game" }
@@ -252,17 +246,11 @@
 # PGA TOUR 2K23 https://store.steampowered.com/app/1588010/PGA_TOUR_2K23/
 { "name": "PGATOUR2K23.exe", "type": "Game" }
 
-# PGA TOUR 2K21 https://store.steampowered.com/app/1016120/PGA_TOUR_2K21/
-{ "name": "golf.exe", "type": "Game" }
-
 # Phantasy Star Online 2 New Genesis https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
 { "name": "pso2.exe", "type": "Game" }
 
 # Phantom Squad https://store.steampowered.com/app/2841770/Phantom_Squad/
 { "name": "PhantomSquad.exe", "type": "Game" }
-
-# Pharaoh + Cleopatra https://store.steampowered.com/app/564530/Pharaoh__Cleopatra/
-{ "name": "Pharaoh.exe", "type": "Game" }
 
 # Phasmophobia https://store.steampowered.com/app/739630/Phasmophobia/
 { "name": "Phasmophobia.exe", "type": "Game" }
@@ -550,7 +538,6 @@
 
 # Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
 { "name": "ProjectNimbusCompleteEdition.exe", "type": "Game" }
-{ "name": "UDK.exe", "type": "Game" }
 
 # PROJECT: PLAYTIME https://store.steampowered.com/app/1961460/PROJECT_PLAYTIME
 { "name": "Playtime_Multiplayer.exe", "type": "Game" }

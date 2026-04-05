@@ -274,10 +274,6 @@
 # Serious Sam Classic: The First Encounter https://store.steampowered.com/app/41050/Serious_Sam_Classic_The_First_Encounter/
 { "name": "SeriousEditor.exe", "type": "Game" }
 { "name": "SeriousModeler.exe", "type": "Game" }
-{ "name": "SeriousSam.exe", "type": "Game" }
-
-# Serious Sam Classics: Revolution https://store.steampowered.com/app/227780/Serious_Sam_Classics_Revolution/
-{ "name": "SeriousSam.exe", "type": "Game" }
 
 # Serious Sam Fusion 2017 (beta) https://store.steampowered.com/app/564310/Serious_Sam_Fusion_2017_beta/
 { "name": "Sam2017.exe", "type": "Game" }
@@ -337,9 +333,6 @@
 
 # Shadows: Awakening https://store.steampowered.com/app/585450/Shadows_Awakening/
 { "name": "shadows.exe", "type": "Game" }
-
-# Shadows of Doubt https://store.steampowered.com/app/986130/Shadows_of_Doubt/
-{ "name": "Shadows of Doubt.exe", "type": "Game" }
 
 # Shadows Over Loathing https://store.steampowered.com/app/1939160/Shadows_Over_Loathing/
 { "name": "Shadows Over Loathing.exe", "type": "Game" }
@@ -428,7 +421,7 @@
 
 # Shipwrecked 64 https://store.steampowered.com/app/2160220/Shipwrecked_64/
 { "name": "SW64.exe", "type": "Game" }
-{ "name": "SW64.exe", "type": "Game" }
+{ "name": "SW64-Win64-Shipping.exe", "type": "Game" }
 
 # Shogo: Mobile Armor Division https://store.steampowered.com/app/610860/Shogo_Mobile_Armor_Division/
 { "name": "Shogo.exe", "type": "Game" }
@@ -448,12 +441,6 @@
 
 # Shredders https://store.steampowered.com/app/1874170/Shredders/
 { "name": "Shredders.exe", "type": "Game" }
-
-# S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition https://store.steampowered.com/app/2427430/STALKER_Call_of_Prypiat__Enhanced_Edition/
-# S.T.A.L.K.E.R.: Clear Sky https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
-# S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition https://store.steampowered.com/app/2427420/STALKER_Clear_Sky__Enhanced_Edition/
-# S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition https://store.steampowered.com/app/2427410/STALKER_Shadow_of_Chornobyl__Enhanced_Edition/
-{ "name": "xrEngine.exe", "type": "Game" }
 
 # S.T.A.L.K.E.R.: Shadow of Chernobyl https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/
 { "name": "XR_3DA.exe", "type": "Game" }
@@ -975,13 +962,6 @@
 { "name": "Stalker2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Stalker2.exe", "type": "Game" }
 
-# S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition https://store.steampowered.com/app/2427410/STALKER_Shadow_of_Chornobyl__Enhanced_Edition/
-# S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition https://store.steampowered.com/app/2427430/STALKER_Call_of_Prypiat__Enhanced_Edition/
-# S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition https://store.steampowered.com/app/2427420/STALKER_Clear_Sky__Enhanced_Edition/
-# S.T.A.L.K.E.R.: Clear Sky https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
-# S.T.A.L.K.E.R.: Call of Pripyat https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
-{ "name": "xrEngine.exe", "type": "Game" }
-
 # S.T.A.L.K.E.R. Anomaly https://www.moddb.com/mods/stalker-anomaly
 { "name": "AnomalyDX11AVX.exe", "type": "Game" }
 { "name": "AnomalyDX11.exe", "type": "Game" }
@@ -996,9 +976,6 @@
 
 # S.T.A.L.K.E.R.: Improved Weapon Pack https://www.moddb.com/mods/stalker-improved-weapon-pack/
 { "name": "CryRayEngineX64.exe", "type": "Game" }
-
-# Stalker:SoC https://store.steampowered.com/app/4500/STALKER_Shadow_of_Chernobyl/
-{ "name": "XR_3DA.exe", "type": "Game" }
 
 # Star Birds https://store.steampowered.com/app/2719750/Star_Birds/
 { "name": "StarBirds.exe", "type": "Game" }
@@ -1176,9 +1153,6 @@
 # Stick Fight: The Game https://store.steampowered.com/app/674940/Stick_Fight_The_Game/
 { "name": "StickFight.exe", "type": "Game" }
 
-# Still Life https://store.steampowered.com/app/46480/Still_Life/
-{ "name": "Game.exe", "type": "Game" }
-
 # Stonehearth https://store.steampowered.com/app/253250/Stonehearth/
 { "name": "Stonehearth.exe", "type": "Game" }
 
@@ -1268,9 +1242,6 @@
 
 # Strife https://store.steampowered.com/app/339280/Strife/
 { "name": "strife.exe", "type": "Game" }
-
-# Strike Vector https://store.steampowered.com/app/246700/Strike_Vector/
-{ "name": "UDK.exe", "type": "Game" }
 
 # Strinova https://store.steampowered.com/app/1282270/Strinova/
 { "name": "Strinova.exe", "type": "Game" }
@@ -1424,14 +1395,8 @@
 { "name": "Squirrel.exe", "type": "Game" }
 { "name": "Supremacy 1914.exe", "type": "Game" }
 
-# Supreme Commander https://store.steampowered.com/app/9350/Supreme_Commander/
-{ "name": "SupremeCommander.exe", "type": "Game" }
-
 # Supreme Commander 2 https://store.steampowered.com/app/40100/Supreme_Commander_2/
 { "name": "SupremeCommander2.exe", "type": "Game" }
-
-# Supreme Commander: Forged Alliance https://store.steampowered.com/app/9420/Supreme_Commander_Forged_Alliance/
-{ "name": "SupremeCommander.exe", "type": "Game" }
 
 # SurrounDead https://store.steampowered.com/app/1645820/SurrounDead/
 { "name": "SurrounDead.exe", "type": "Game" }
@@ -1445,9 +1410,6 @@
 
 # Surviving Mars: Relaunched https://store.steampowered.com/app/3215050/Surviving_Mars_Relaunched/
 { "name": "Mars.exe", "type": "Game" }
-
-# Surviving the Aftermath https://store.steampowered.com/app/684450/Surviving_the_Aftermath/
-{ "name": "dowser.exe", "type": "Game" }
 
 # Suspects: Mystery Mansion https://store.steampowered.com/app/1576060/Suspects_Mystery_Mansion/
 { "name": "Suspects.exe", "type": "Game" }

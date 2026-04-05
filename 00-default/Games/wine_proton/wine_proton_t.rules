@@ -495,9 +495,6 @@
 # Total War: NAPOLEON – Definitive Edition https://store.steampowered.com/app/34030/Total_War_NAPOLEON__Definitive_Edition/
 { "name": "Napoleon.exe", "type": "Game" }
 
-# Total War: PHARAOH DYNASTIES https://store.steampowered.com/app/2951630/Total_War_PHARAOH_DYNASTIES/
-{ "name": "Pharaoh.exe", "type": "Game" }
-
 # Total War: ROME II - Emperor Edition https://store.steampowered.com/app/214950/Total_War_ROME_II__Emperor_Edition/
 { "name": "Rome2.exe", "type": "Game" }
 
@@ -517,7 +514,6 @@
 { "name": "Touge Shakai.exe", "type": "Game" }
 
 # Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
-{ "name": "custom.exe", "type": "Game" }
 { "name": "th10.exe", "type": "Game" }
 
 # Touhou Hero of Ice Fairy https://store.steampowered.com/app/1955830/Touhou_Hero_of_Ice_Fairy/
@@ -597,24 +593,8 @@
 # Trackmania https://store.steampowered.com/app/2225070/Trackmania/
 { "name": "Trackmania.exe", "type": "Game" }
 
-# TrackMania² Canyon https://store.steampowered.com/app/228760/TrackMania_Canyon/
-{ "name": "ManiaPlanet.exe", "type": "Game" }
-{ "name": "ManiaPlanet32.exe ", "type": "Game" }
-
-# TrackMania² Stadium https://store.steampowered.com/app/232910/TrackMania_Stadium/
-{ "name": "ManiaPlanet.exe", "type": "Game" }
-{ "name": "ManiaPlanet32.exe", "type": "Game" }
-
-# TrackMania Nations Forever https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
-{ "name": "TmForever.exe", "type": "Game" }
-{ "name": "TmForeverLauncher.exe", "type": "Game" }
-
 # Trackmania Turbo https://store.steampowered.com/app/375900/Trackmania_Turbo/
 { "name": "TrackmaniaTurbo.exe", "type": "Game" }
-
-# Trackmania United Forever https://store.steampowered.com/app/7200/Trackmania_United_Forever/
-{ "name": "TmForever.exe", "type": "Game" }
-{ "name": "TmForeverLauncher.exe", "type": "Game" }
 
 # Trailmakers https://store.steampowered.com/app/585420/Trailmakers/
 { "name": "Trailmakers.exe", "type": "Game" }

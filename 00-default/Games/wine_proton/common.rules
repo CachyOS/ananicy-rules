@@ -63,10 +63,15 @@
 { "name": "call_to_arms_ed.exe", "type": "Game" }
 { "name": "call_to_arms_server.exe", "type": "Game" }
 
+# Recettear: An Item Shop's Tale https://store.steampowered.com/app/70400/Recettear_An_Item_Shops_Tale/
+# Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
+{ "name": "custom.exe", "type": "Game" }
+
 # Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
 # FOUNDRY https://store.steampowered.com/app/983870/FOUNDRY/
+# Surviving the Aftermath https://store.steampowered.com/app/684450/Surviving_the_Aftermath/
 { "name": "dowser.exe", "type": "BG_CPUIO" }
 
 # As Dusk Falls https://store.steampowered.com/app/1341820/As_Dusk_Falls/
@@ -147,6 +152,7 @@
 # The Void https://store.steampowered.com/app/37000/The_Void/
 # Toy Soldiers https://store.steampowered.com/app/98300/Toy_Soldiers/
 # Toy Soldiers: Complete https://store.steampowered.com/app/262120/Toy_Soldiers_Complete/
+# Still Life https://store.steampowered.com/app/46480/Still_Life/
 { "name": "Game.exe", "type": "Game" }
 
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
@@ -183,6 +189,10 @@
 # Green Hell https://store.steampowered.com/app/815370/Green_Hell/
 # Gloomhaven https://store.steampowered.com/app/780290/Gloomhaven/
 { "name": "GH.exe", "type": "Game" }
+
+# PGA TOUR 2K21 https://store.steampowered.com/app/1016120/PGA_TOUR_2K21/
+# The Golf Club https://store.steampowered.com/app/269730/The_Golf_Club/
+{ "name": "golf.exe", "type": "Game" }
 
 # Guild Wars Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
 # GUNTOUCHABLES https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
@@ -250,6 +260,11 @@
 { "name": "Launch_EA.exe", "type": "Game" }
 { "name": "Launch_JP.exe", "type": "Game" }
 
+# TrackMania² Canyon https://store.steampowered.com/app/228760/TrackMania_Canyon/
+# TrackMania² Stadium https://store.steampowered.com/app/232910/TrackMania_Stadium/
+{ "name": "ManiaPlanet.exe", "type": "Game" }
+{ "name": "ManiaPlanet32.exe", "type": "Game" }
+
 # MARVEL MaXimum Collection https://store.steampowered.com/app/3931060/MARVEL_MaXimum_Collection/
 # Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
 { "name": "Marvel.exe", "type": "Game" }
@@ -274,6 +289,10 @@
 # PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
 
+# Total War: PHARAOH DYNASTIES https://store.steampowered.com/app/2951630/Total_War_PHARAOH_DYNASTIES/
+# Pharaoh + Cleopatra https://store.steampowered.com/app/564530/Pharaoh__Cleopatra/
+{ "name": "Pharaoh.exe", "type": "Game" }
+
 # Grand Theft Auto IV: The Complete Edition https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
 # Grand Theft Auto V Enhanced https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
 { "name": "PlayGTAV.exe", "type": "Game" }
@@ -288,6 +307,27 @@
 # Red Dead Online https://store.steampowered.com/app/1404210/Red_Dead_Online/
 { "name": "RDR2.exe", "type": "Game" }
 
+# The Riftbreaker https://store.steampowered.com/app/780310/The_Riftbreaker/
+# The Riftbreaker: Prologue https://store.steampowered.com/app/1293860/The_Riftbreaker_Prologue/
+{ "name": "riftbreaker_win_release.exe", "type": "Game" }
+
+# RONIN https://store.steampowered.com/app/274230/RONIN/
+# Rise of the Ronin https://store.steampowered.com/app/1340990/Rise_of_the_Ronin/
+{ "name": "Ronin.exe", "type": "Game" }
+
+# Pajama Sam: No Need to Hide When It's Dark Outside https://store.steampowered.com/app/283960/Pajama_Sam_No_Need_to_Hide_When_Its_Dark_Outside/
+# I Have No Mouth, and I Must Scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
+{ "name": "scummvm.exe", "type": "Game" }
+
+# Serious Sam Classic: The First Encounter https://store.steampowered.com/app/41050/Serious_Sam_Classic_The_First_Encounter/
+# Serious Sam Classics: Revolution https://store.steampowered.com/app/227780/Serious_Sam_Classics_Revolution/
+{ "name": "SeriousSam.exe", "type": "Game" }
+
+# ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
+# ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
+{ "name": "ShooterGame_BE.exe", "type": "Game" }
+{ "name": "ShooterGame.exe", "type": "Game" }
+
 # DRAGON BALL XENOVERSE 2 https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
 # FREEDOM WARS Remastered https://store.steampowered.com/app/3004100/FREEDOM_WARS_Remastered/
 { "name": "START.exe", "type": "Game" }
@@ -299,10 +339,9 @@
 # Haydee 3 https://store.steampowered.com/app/3508770/Haydee_3/
 { "name": "SteamGame.exe", "type": "Game" }
 
-# ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
-# ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
-{ "name": "ShooterGame_BE.exe", "type": "Game" }
-{ "name": "ShooterGame.exe", "type": "Game" }
+# Supreme Commander: Forged Alliance https://store.steampowered.com/app/9420/Supreme_Commander_Forged_Alliance/
+# Supreme Commander https://store.steampowered.com/app/9350/Supreme_Commander/
+{ "name": "SupremeCommander.exe", "type": "Game" }
 
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 # Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
@@ -311,9 +350,16 @@
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
 
+# TrackMania Nations Forever https://store.steampowered.com/app/11020/TrackMania_Nations_Forever/
+# Trackmania United Forever https://store.steampowered.com/app/7200/Trackmania_United_Forever/
+{ "name": "TmForever.exe", "type": "Game" }
+{ "name": "TmForeverLauncher.exe", "type": "Game" }
+
 # NaissanceE https://store.steampowered.com/app/265690/NaissanceE/
 # Homesick https://store.steampowered.com/app/244910/Homesick/
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
+# Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
+# Strike Vector https://store.steampowered.com/app/246700/Strike_Vector/
 { "name": "UDK.exe", "type": "Game" }
 
 # Warhammer: Chaos And Conquest https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
@@ -323,6 +369,13 @@
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
 # XCOM: Chimera Squad https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/
 { "name": "XCom2.exe", "type": "Game" }
+
+# S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition https://store.steampowered.com/app/2427410/STALKER_Shadow_of_Chornobyl__Enhanced_Edition/
+# S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition https://store.steampowered.com/app/2427430/STALKER_Call_of_Prypiat__Enhanced_Edition/
+# S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition https://store.steampowered.com/app/2427420/STALKER_Clear_Sky__Enhanced_Edition/
+# S.T.A.L.K.E.R.: Clear Sky https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
+# S.T.A.L.K.E.R.: Call of Pripyat https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
+{ "name": "xrEngine.exe", "type": "Game" }
 
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
