@@ -34,9 +34,6 @@
 # Selaco https://store.steampowered.com/app/1592280/Selaco/
 { "name": "Selaco.x86_64", "type": "Game" }
 
-# Septerra Core https://store.steampowered.com/app/253940/Septerra_Core/
-{ "name": "RunGame", "type": "Game" }
-
 # Serena https://store.steampowered.com/app/272060/Serena/
 { "name": "dagon", "type": "Game" }
 { "name": "dagon.64", "type": "Game" }
@@ -188,9 +185,6 @@
 # Space Haven https://store.steampowered.com/app/979110/Space_Haven/
 { "name": "spacehaven", "type": "Game" }
 
-# Space Hulk https://store.steampowered.com/app/242570/Space_Hulk/
-{ "name": "game.x86", "type": "Game" }
-
 # Space Pirates and Zombies https://store.steampowered.com/app/107200/Space_Pirates_and_Zombies/
 { "name": "SPAZ", "type": "Game" }
 
@@ -213,7 +207,6 @@
 { "name": "spinrhythm.x86_64", "type": "Game" }
 
 # Spiritfarer: Farewell Edition https://store.steampowered.com/app/972660/Spiritfarer_Farewell_Edition/
-{ "name": "Spiritfarer.exe", "type": "Game" }
 { "name": "Spiritfarer.x86_64", "type": "Game" }
 
 # Spirit Island https://store.steampowered.com/app/1236720/Spirit_Island/
@@ -224,9 +217,6 @@
 
 # Splitgate https://store.steampowered.com/app/677620/Splitgate/
 { "name": "PortalWars-Linux-Shipping", "type": "Game" }
-
-# Spoiler Alert https://store.steampowered.com/app/283230/Spoiler_Alert/
-{ "name": "runner", "type": "Game" }
 
 # Square Brawl https://store.steampowered.com/app/394850/Square_Brawl/
 { "name": "Square Brawl.x86", "type": "Game" }
@@ -248,7 +238,6 @@
 
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "StarMade-Launcher", "type": "Game" }
-{ "name": "start", "type": "Game" }
 
 # STAR WARS Knights of the Old Republic II - The Sith Lords https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/
 { "name": "KOTOR2", "type": "Game" }
@@ -308,9 +297,6 @@
 
 # Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.x86_64", "type": "Game" }
-
-# Super Crate Box https://store.steampowered.com/app/212800/Super_Crate_Box/
-{ "name": "runner", "type": "Game" }
 
 # Super Hexagon https://store.steampowered.com/app/221640/Super_Hexagon/
 { "name": "SuperHexagon", "type": "Game" }

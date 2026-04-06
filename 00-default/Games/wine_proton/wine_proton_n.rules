@@ -103,7 +103,6 @@
 
 # Nebuchadnezzar https://store.steampowered.com/app/1157220/Nebuchadnezzar/
 { "name": "nebuchadnezzar.exe", "type": "Game" }
-{ "name": "editor.exe", "type": "Game" }
 
 # NEBULOUS: Fleet Command https://store.steampowered.com/app/887570/NEBULOUS_Fleet_Command/
 { "name": "Nebulous.exe", "type": "Game" }
@@ -122,9 +121,6 @@
 # Neighbors: Suburban Warfare https://store.steampowered.com/app/1732430/Neighbors_Suburban_Warfare/
 { "name": "JP.exe", "type": "Game" }
 { "name": "JP-Win64-Shipping.exe", "type": "Game" }
-
-# Neighbours from Hell Compilation https://store.steampowered.com/app/260750/Neighbours_from_Hell_Compilation/
-{ "name": "game.exe", "type": "Game" }
 
 # Need for Speed Heat https://store.steampowered.com/app/1222680/Need_for_Speed_Heat/
 { "name": "NeedForSpeedHeat.exe", "type": "Game" }

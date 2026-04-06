@@ -5,12 +5,20 @@
 { "name": "dowser", "type": "BG_CPUIO" }
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
+# Space Hulk https://store.steampowered.com/app/242570/Space_Hulk/
+{ "name": "game.x86", "type": "Game" }
+
+# XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 # Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
 
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 { "name": "Launcher", "type": "Game" }
+
+# Overlord https://store.steampowered.com/app/11450/Overlord/
+# Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
+{ "name": "overlord", "type": "Game" }
 
 # Cook, Serve, Delicious! https://store.steampowered.com/app/247020/Cook_Serve_Delicious/
 # Undertale https://store.steampowered.com/app/391540/Undertale/
@@ -21,6 +29,8 @@
 # UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
 # Gods Will Be Watching https://store.steampowered.com/app/274290/Gods_Will_Be_Watching/
 # UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
+# Super Crate Box https://store.steampowered.com/app/212800/Super_Crate_Box/
+# Spoiler Alert https://store.steampowered.com/app/283230/Spoiler_Alert/
 { "name": "runner", "type": "Game" }
 
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
@@ -29,7 +39,12 @@
 # Iron Sky: Invasion https://store.steampowered.com/app/224900/Iron_Sky_Invasion/
 # Jagged Alliance 2 - Wildfire https://store.steampowered.com/app/215930/Jagged_Alliance_2__Wildfire/
 # KnightShift https://store.steampowered.com/app/254060/KnightShift/
+# Septerra Core https://store.steampowered.com/app/253940/Septerra_Core/
 { "name": "RunGame", "type": "Game" }
+
+# Sanctum https://store.steampowered.com/app/91600/Sanctum/
+# Sanctum 2 https://store.steampowered.com/app/210770/Sanctum_2/
+{ "name": "SanctumGame-Win32-Shipping.exe", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
@@ -39,6 +54,7 @@
 # Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
 # Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
 # Goodbye Deponia https://store.steampowered.com/app/241910/Goodbye_Deponia/
+# StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "start", "type": "Game" }
 
 # Planetary Annihilation store page is down http://store.steampowered.com/app/233250

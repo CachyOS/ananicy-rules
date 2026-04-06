@@ -89,12 +89,6 @@
 # SANABI https://store.steampowered.com/app/1562700/SANABI/
 { "name": "SNB.exe", "type": "Game" }
 
-# Sanctum https://store.steampowered.com/app/91600/Sanctum/
-{ "name": "SanctumGame-Win32-Shipping.exe", "type": "Game" }
-
-# Sanctum 2 https://store.steampowered.com/app/210770/Sanctum_2/
-{ "name": "SanctumGame-Win32-Shipping.exe", "type": "Game" }
-
 # SAND LAND https://store.steampowered.com/app/1979440/SAND_LAND/
 { "name": "SANDLAND.exe", "type": "Game" }
 { "name": "SANDLAND-Win64-Shipping.exe", "type": "Game" }
@@ -920,9 +914,6 @@
 { "name": "SF_Remastered.exe", "type": "Game" }
 { "name": "SpaceFarmers.exe", "type": "Game" }
 
-# Space Hulk https://store.steampowered.com/app/242570/Space_Hulk/
-{ "name": "game.exe", "type": "Game" }
-
 # Space Hulk: Deathwing Enhanced Edition https://store.steampowered.com/app/816090/Space_Hulk_Deathwing_Enhanced_Edition/
 { "name": "SpaceHulkGame.exe", "type": "Game" }
 { "name": "SpaceHulkGame-Win64-Shipping.exe", "type": "Game" }
@@ -989,9 +980,6 @@
 
 # Spin Rhythm XD https://store.steampowered.com/app/1058830/Spin_Rhythm_XD/
 { "name": "SpinRhythm.exe", "type": "Game" }
-
-# Spiral Knights https://store.steampowered.com/app/99900/Spiral_Knights/
-{ "name": "javaw.exe", "type": "Game" }
 
 # Spirit City: Lofi Sessions https://store.steampowered.com/app/2113850/Spirit_City_Lofi_Sessions/
 { "name": "SpiritCity.exe", "type": "Game" }
@@ -1109,7 +1097,6 @@
 # Star Control: Origins https://store.steampowered.com/app/271260/Star_Control_Origins/
 { "name": "StarControl_DX12.exe", "type": "Game" }
 { "name": "StarControl_Vulkan.exe", "type": "Game" }
-{ "name": "StardockLauncher.exe", "type": "BG_CPUIO" }
 
 # StarDrive https://store.steampowered.com/app/220660/StarDrive/
 { "name": "StarDrive.exe", "type": "Game" }
