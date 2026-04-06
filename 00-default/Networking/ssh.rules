@@ -2,3 +2,6 @@
 { "name": "ssh-agent", "type": "BG_CPUIO" }
 { "name": "sshd", "type": "BG_CPUIO" }
 { "name": "sshd-session", "type": "BG_CPUIO" }
+
+# ssh-tpm-agent: https://github.com/Foxboron/ssh-tpm-agent
+{ "name": "ssh-tpm-agent", "type": "BG_CPUIO" }
