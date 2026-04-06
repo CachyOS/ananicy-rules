@@ -5,11 +5,17 @@
 
 ### O ###
 
+# Octodad: Dadliest Catch https://store.steampowered.com/app/224480/Octodad_Dadliest_Catch/
+{ "name": "OctodadDadliestCatch", "type": "Game" }
+
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 { "name": "Offworld.x86_64", "type": "Game" }
 
 # OneShot https://store.steampowered.com/app/420530/OneShot/
 { "name": "oneshot", "type": "Game" }
+
+# One Step From Eden https://store.steampowered.com/app/960690/One_Step_From_Eden/
+{ "name": "OSFE.x86_64", "type": "Game" }
 
 # OpenMoHAA: An open-source game engine compatible with Medal of Honor Allied Assault and its expansions https://github.com/openmoh/openmohaa
 { "name": "openmohaa", "type": "Game" }
@@ -28,6 +34,15 @@
 { "name": "Lightning.bin.x86_64", "type": "Game" }
 { "name": "Lightning.bin.x86", "type": "Game" }
 
+# Organ Trail: Director's Cut https://store.steampowered.com/app/233740/Organ_Trail_Directors_Cut/
+{ "name": "OrganTrailLinux", "type": "Game" }
+
+# Orwell: Ignorance is Strength https://store.steampowered.com/app/633060/Orwell_Ignorance_is_Strength/
+{ "name": "Ignorance.x86_64", "type": "Game" }
+
+# Osmos https://store.steampowered.com/app/29180/Osmos/
+{ "name": "Osmos", "type": "Game" }
+
 # osu! lazer is a Rhythm game https://github.com/ppy/osu
 { "name": "osu!", "type": "Game" }
 
@@ -38,8 +53,21 @@
 { "name": "Overcooked2.x86", "type": "Game" }
 { "name": "Overcooked2.x86_64", "type": "Game" }
 
+# Overgrowth https://store.steampowered.com/app/25000/Overgrowth/
+{ "name": "Overgrowth.bin.x86", "type": "Game" }
+{ "name": "Overgrowth.bin.x86_64", "type": "Game" }
+
 # Overlord https://store.steampowered.com/app/11450/Overlord/
 { "name": "overlord", "type": "Game" }
+
+# Overlord II https://store.steampowered.com/app/12810/Overlord_II/
+{ "name": "overlord2", "type": "Game" }
+
+# Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
+{ "name": "overlord", "type": "Game" }
+
+# Owlboy https://store.steampowered.com/app/115800/Owlboy/
+{ "name": "Owlboy", "type": "Game" }
 
 # Oxygen Not Included https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded", "type": "Game" }

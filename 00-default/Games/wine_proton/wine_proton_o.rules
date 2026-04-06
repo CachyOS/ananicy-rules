@@ -17,6 +17,10 @@
 # Obscure II (Obscure: The Aftermath) https://store.steampowered.com/app/254480/Obscure_II_Obscure_The_Aftermath/
 { "name": "Obscure2.exe", "type": "Game" }
 
+# Octodad: Dadliest Catch https://store.steampowered.com/app/224480/Octodad_Dadliest_Catch/
+{ "name": "OctodadDadliestCatch.exe", "type": "Game" }
+{ "name": "OctodadEditor.exe", "type": "Game" }
+
 # OCTOPATH TRAVELER https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
 { "name": "Octopath_Traveler-Win64-Shipping.exe", "type": "Game" }
 { "name": "Octopath_Traveler.exe", "type": "Game" }
@@ -133,6 +137,9 @@
 # OneShot: World Machine Edition https://store.steampowered.com/app/2915460/OneShot_World_Machine_Edition/
 { "name": "OneShotMG.exe", "type": "Game" }
 
+# One Step From Eden https://store.steampowered.com/app/960690/One_Step_From_Eden/
+{ "name": "OSFE.exe", "type": "Game" }
+
 # One Way Heroics https://store.steampowered.com/app/266210/One_Way_Heroics/
 { "name": "Game_Normal.exe", "type": "Game" }
 
@@ -169,6 +176,9 @@
 # Orb of Creation https://store.steampowered.com/app/1910680/Orb_of_Creation/
 { "name": "Orb Of Creation.exe", "type": "Game" }
 
+# Organ Trail: Director's Cut https://store.steampowered.com/app/233740/Organ_Trail_Directors_Cut/
+{ "name": "OrganTrail.exe", "type": "Game" }
+
 # Original War https://store.steampowered.com/app/235320/Original_War/
 { "name": "owar.exe", "type": "Game" }
 { "name": "Owar.exe", "type": "Game" }
@@ -198,8 +208,14 @@
 { "name": "Orcs Must Die! Deathtrap.exe", "type": "Game" }
 { "name": "OMDDSteam-Win64-Shipping.exe", "type": "Game" }
 
+# Orwell: Ignorance is Strength https://store.steampowered.com/app/633060/Orwell_Ignorance_is_Strength/
+{ "name": "Ignorance.exe", "type": "Game" }
+
 # Orwell: Keeping an Eye On You https://store.steampowered.com/app/491950/Orwell_Keeping_an_Eye_On_You/
 { "name": "Orwell.exe", "type": "Game" }
+
+# Osmos https://store.steampowered.com/app/29180/Osmos/
+{ "name": "Osmos.exe", "type": "Game" }
 
 # Ostriv https://store.steampowered.com/app/773790/Ostriv/
 { "name": "ostriv.exe", "type": "Game" }
@@ -291,7 +307,16 @@
 # Overcooked! All You Can Eat https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/
 { "name": "Overcooked All You Can Eat.exe", "type": "Game" }
 
+# Overgrowth https://store.steampowered.com/app/25000/Overgrowth/
+{ "name": "Overgrowth.exe", "type": "Game" }
+
 # Overlord https://store.steampowered.com/app/11450/Overlord/
+{ "name": "Overlord.exe", "type": "Game" }
+
+# Overlord II https://store.steampowered.com/app/12810/Overlord_II/
+{ "name": "Overlord2.exe", "type": "Game" }
+
+# Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
 { "name": "Overlord.exe", "type": "Game" }
 
 # OVERPASS https://store.steampowered.com/app/970840/OVERPASS/
@@ -307,10 +332,13 @@
 # Over The Top: WWI https://store.steampowered.com/app/2778610/Over_The_Top_WWI/
 { "name": "Over_The_Top_WWI.exe", "type": "Game" }
 
+# Overwatch https://store.steampowered.com/app/2357570/Overwatch/
 # https://overwatch.blizzard.com/
 # https://us.shop.battle.net/en-us/product/overwatch
-# Overwatch https://store.steampowered.com/app/2357570/Overwatch/
 { "name": "Overwatch.exe", "type": "Game" }
+
+# Owlboy https://store.steampowered.com/app/115800/Owlboy/
+{ "name": "Owlboy.exe", "type": "Game" }
 
 # Oxygen Not Included https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded.exe", "type": "Game" }

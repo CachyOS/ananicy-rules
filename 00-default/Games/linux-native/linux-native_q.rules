@@ -9,6 +9,9 @@
 { "name": "quakespasm", "type": "Game" }
 { "name": "quakespasm-svn", "type": "Game" }
 
+# Q.U.B.E: Director's Cut https://store.steampowered.com/app/239430/QUBE_Directors_Cut/
+{ "name": "QUBEGame-Linux", "type": "Game" }
+
 # Quern - Undying Thoughts https://store.steampowered.com/app/512790/Quern__Undying_Thoughts/
 { "name": "Quern.x86", "type": "Game" }
 { "name": "Quern.x86_64", "type": "Game" }
