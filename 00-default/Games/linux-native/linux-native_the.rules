@@ -6,8 +6,14 @@
 ### The ###
 # There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
 
+# The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
+{ "name": "39stepslinux.x86", "type": "Game" }
+
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
+
+# The Bard's Tale ARPG: Remastered and Resnarkled https://store.steampowered.com/app/41900/The_Bards_Tale_ARPG_Remastered_and_Resnarkled/
+{ "name": "BardTale", "type": "Game" }
 
 # The Battle of Polytopia https://store.steampowered.com/app/874390/The_Battle_of_Polytopia/
 { "name": "Polytopia.x86_64", "type": "Game" }
@@ -16,12 +22,30 @@
 { "name": "isaac.i386", "type": "Game" }
 { "name": "isaac.x64", "type": "Game" }
 
+# The Blackwell Legacy https://store.steampowered.com/app/80330/The_Blackwell_Legacy/
+{ "name": "startgame", "type": "Game" }
+
+# The Cave https://store.steampowered.com/app/221810/The_Cave/
+{ "name": "Cave.bin.x86", "type": "Game" }
+
+# The Culling https://store.steampowered.com/app/437220/The_Culling/
+{ "name": "Victory", "type": "Game" }
+
+# The Dark Eye: Chains of Satinav https://store.steampowered.com/app/203830/The_Dark_Eye_Chains_of_Satinav/
+{ "name": "satinav", "type": "Game" }
+
+# The Dishwasher: Vampire Smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
+{ "name": "VampireSmile", "type": "Game" }
+
 # The Escapists 2 https://store.steampowered.com/app/641990/The_Escapists_2/
 { "name": "TheEscapists2.x86", "type": "Game" }
 { "name": "TheEscapists2.x86_64", "type": "Game" }
 
 # The Eternal Castle [REMASTERED] qhttps://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/
 { "name": "TheEternalCastle", "type": "Game" }
+
+# The Fall https://store.steampowered.com/app/290770/The_Fall/
+{ "name": "TheFall.x86", "type": "Game" }
 
 # The Farmer Was Replaced https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
 { "name": "TheFarmerWasReplaced.x86_64", "type": "Game" }

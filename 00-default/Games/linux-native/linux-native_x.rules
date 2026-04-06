@@ -11,9 +11,6 @@
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
 { "name": "XCOM2", "type": "Game" }
 
-# XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
-{ "name": "game.x86", "type": "Game" }
-
 # Xonotic https://www.xonotic.org/
 { "name": "xonotic-glx", "type": "Game" }
 { "name": "xonotic-local-sdl", "type": "Game" }

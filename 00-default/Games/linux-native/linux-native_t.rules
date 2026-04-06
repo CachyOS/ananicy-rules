@@ -8,6 +8,16 @@
 # Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.x86_64", "type": "Game" }
 
+# Tales of Maj'Eyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
+{ "name": "t-engine", "type": "Game" }
+{ "name": "t-engine64", "type": "Game" }
+
+# Tanki Online https://store.steampowered.com/app/562010/Tanki_Online/
+{ "name": "tankionline", "type": "Game" }
+
+# Tannenberg https://store.steampowered.com/app/633460/Tannenberg/
+{ "name": "Tannenberg", "type": "Game" }
+
 # Tap Ninja - Idle game https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
 { "name": "Tap Ninja.x86_64", "type": "Game" }
 
@@ -25,11 +35,23 @@
 # Teenage Mutant Ninja Turtles: Shredder's Revenge https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/
 { "name": "TMNT", "type": "LowLatency_RT" }
 
+# Teleglitch: Die More Edition https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/
+{ "name": "runme", "type": "Game" }
+
+# Terraformers https://store.steampowered.com/app/1244800/Terraformers/
+{ "name": "terraformers.x86_64", "type": "Game" }
+
 # Terraria https://store.steampowered.com/app/105600/Terraria/
 { "name": "Terraria.bin.x86_64", "type": "Game" }
 
 # TerraTech https://store.steampowered.com/app/285920/TerraTech/
 { "name" : "TerraTechLinux64.x86_64", "type": "Game" }
+
+# Teslagrad https://store.steampowered.com/app/249590/Teslagrad/
+{ "name": "Teslagrad", "type": "Game" }
+
+# That's not my Neighbor https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/
+{ "name": "That's not my neighbor (Steam).x86_64", "type": "Game" }
 
 # This War of Mine https://store.steampowered.com/app/282070/This_War_of_Mine/
 { "name": "This War of Mine", "type": "Game" }

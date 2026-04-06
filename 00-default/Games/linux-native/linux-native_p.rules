@@ -9,20 +9,32 @@
 { "name": "PAC-MAN256.x86_64", "type": "Game" }
 { "name": "PAC-MAN256.x86", "type": "Game" }
 
+# Packing Life https://store.steampowered.com/app/3482510/Packing_Life/
+{ "name": "Packing Life.x86_64", "type": "Game" }
+
+# Paint the Town Red https://store.steampowered.com/app/337320/Paint_the_Town_Red/
+{ "name": "PaintTheTownRed.x86_64", "type": "Game" }
+
+# Paleo Pines https://store.steampowered.com/app/1202200/Paleo_Pines/
+{ "name": "Paleo Pines.x86_64", "type": "Game" }
+
+# Pankapu https://store.steampowered.com/app/418670/Pankapu/
+{ "name": "pankapu.x86", "type": "Game" }
+
 # Papers, Please https://store.steampowered.com/app/239030/Papers_Please/
 { "name": "PapersPlease", "type": "Game" }
 
-# Party Hard https://store.steampowered.com/app/356570/Party_Hard/
-{ "name": "PartyHardGame.x86_64", "type": "Game" }
+# Paranautical Activity: Deluxe Atonement Edition https://store.steampowered.com/app/250580/Paranautical_Activity_Deluxe_Atonement_Edition/
+{ "name": "Paranautical Activity.x86", "type": "Game" }
 
 # Parkitect https://store.steampowered.com/app/453090/Parkitect/
 { "name": "Parkitect.x86_64", "type": "Game" }
 
+# Party Hard https://store.steampowered.com/app/356570/Party_Hard/
+{ "name": "PartyHardGame.x86_64", "type": "Game" }
+
 # PA UI : User interface Planetary Annihilation https://github.com/planetary-annihilation/pa-ui
 { "name": "CoherentUI_Host", "type": "Game" }
-
-# Packing Life https://store.steampowered.com/app/3482510/Packing_Life/
-{ "name": "Packing Life.x86_64", "type": "Game" }
 
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_release", "type": "Game" }
@@ -36,14 +48,24 @@
 # Penumbra: Requiem https://store.steampowered.com/app/22140/Penumbra_Requiem/
 { "name": "requiem", "type": "Game" }
 
+# Picross Touch https://store.steampowered.com/app/476460/Picross_Touch/
+{ "name": "picross.x86", "type": "Game" }
+
 # Pier Solar and the Great Architects https://store.steampowered.com/app/286220/Pier_Solar_and_the_Great_Architects/
 { "name": "pshd", "type": "Game" }
+
+# Pikuniku https://store.steampowered.com/app/572890/Pikuniku/
+{ "name": "Pikuniku.x86", "type": "Game" }
+{ "name": "Pikuniku.x86_64", "type": "Game" }
 
 # Pillars of Eternity https://store.steampowered.com/app/291650/Pillars_of_Eternity/
 { "name": "PillarsOfEternity", "type": "Game" }
 
 # Pillars of Eternity II: Deadfire https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/
 { "name": "PillarsOfEternityII", "type": "Game" }
+
+# Pixel Piracy https://store.steampowered.com/app/264140/Pixel_Piracy/
+{ "name": "PixelPiracy.x86_64", "type": "Game" }
 
 # Pix the Cat https://store.steampowered.com/app/330180/Pix_the_Cat/
 { "name": "PixtheCat", "type": "Game" }
@@ -53,6 +75,19 @@
 
 # Planescape: Torment: Enhanced Edition https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/
 { "name": "Torment", "type": "Game" }
+
+# Planet Explorers https://store.steampowered.com/app/237870/Planet_Explorers/
+{ "name": "PE_Launcher", "type": "Game" }
+
+# Police Stories https://store.steampowered.com/app/539470/Police_Stories/
+{ "name": "PoliceStoriesRelease", "type": "Game" }
+
+# Poly Bridge https://store.steampowered.com/app/367450/Poly_Bridge/
+{ "name": "polybridge.x86", "type": "Game" }
+{ "name": "polybridge.x86_64", "type": "Game" }
+
+# Poly Bridge 3 https://store.steampowered.com/app/1850160/Poly_Bridge_3/
+{ "name": "Poly Bridge 3.x86_64", "type": "Game" }
 
 # Portal 2 https://store.steampowered.com/app/620/Portal_2/
 { "name": "portal2_linux", "type": "Game" }
@@ -69,6 +104,9 @@
 # POSTAL Redux https://store.steampowered.com/app/401680/POSTAL_Redux/
 { "name": "PostalREDUX-Linux-Shipping", "type": "Game" }
 
+# Primordia https://store.steampowered.com/app/227000/Primordia/
+{ "name": "Primordia", "type": "Game" }
+
 # Prison Architect https://store.steampowered.com/app/233450/Prison_Architect/
 { "name": "PrisonArchitect", "type": "Game" }
 
@@ -78,8 +116,23 @@
 # Project Highrise https://store.steampowered.com/app/423580/Project_Highrise/
 { "name": "Game.x86_64", "type": "Game" }
 
+# Project Hospital https://store.steampowered.com/app/868360/Project_Hospital/
+{ "name": "ProjectHospital.x86_64", "type": "Game" }
+
 # Project Zomboid https://store.steampowered.com/app/108600/Project_Zomboid/
 { "name": "ProjectZomboid64", "type": "Game" }
 
+# Proteus https://store.steampowered.com/app/219680/Proteus/
+{ "name": "Proteus", "type": "Game" }
+
 # Psych Engine https://github.com/ShadowMario/FNF-PsychEngine
 { "name": "PsychEngine", "type": "Game" }
+
+# Psychonauts https://store.steampowered.com/app/3830/Psychonauts/
+{ "name": "Psychonauts", "type": "Game" }
+
+# PULSAR: Lost Colony https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/
+{ "name": "PULSAR_LostColony.x86_64", "type": "Game" }
+
+# Punch Club https://store.steampowered.com/app/394310/Punch_Club/
+{ "name": "Punch Club.x86", "type": "Game" }

@@ -6,6 +6,9 @@
 ### The ###
 # There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
 
+# The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
+{ "name": "39steps.exe", "type": "Game" }
+
 # The Age of Decadence https://store.steampowered.com/app/230070/The_Age_of_Decadence/
 { "name": "AoD.exe", "type": "Game" }
 { "name": "AoD64.exe", "type": "Game" }
@@ -26,11 +29,17 @@
 # The Banner Saga 2 https://store.steampowered.com/app/281640/The_Banner_Saga_2/
 { "name": "The Banner Saga 2.exe", "type": "Game" }
 
+# The Bard's Tale ARPG: Remastered and Resnarkled https://store.steampowered.com/app/41900/The_Bards_Tale_ARPG_Remastered_and_Resnarkled/
+{ "name": "The Bard's Tale.exe", "type": "Game" }
+
 # The Basement Collection https://store.steampowered.com/app/214790/The_Basement_Collection/
 { "name": "The Basement Collection.exe", "type": "Game" }
 
 # The Bazaar https://store.steampowered.com/app/1617400/The_Bazaar/
 { "name": "TheBazaar.exe", "type": "Game" }
+
+# The Blackwell Legacy https://store.steampowered.com/app/80330/The_Blackwell_Legacy/
+{ "name": "Blackwell Legacy.exe", "type": "Game" }
 
 # The Bloodline https://store.steampowered.com/app/1159290/The_Bloodline/
 { "name": "TheBloodline.exe", "type": "Game" }
@@ -71,6 +80,9 @@
 # The Cat Lady https://store.steampowered.com/app/253110/The_Cat_Lady/
 { "name": "TheCatLady.exe", "type": "Game" }
 
+# The Cave https://store.steampowered.com/app/221810/The_Cave/
+{ "name": "Cave.exe", "type": "Game" }
+
 # The Chronicles of Riddick: Assault on Dark Athena
 { "name": "DarkAthena.exe", "type": "Game" }
 
@@ -100,8 +112,18 @@
 { "name": "TheCrewMotorfest.exe", "type": "Game" }
 { "name": "TheCrewMotorfest_BE.exe", "type": "Game" }
 
+# The Culling https://store.steampowered.com/app/437220/The_Culling/
+{ "name": "Launch_TheCulling.exe", "type": "Game" }
+
 # The Culling Of The Cows https://store.steampowered.com/app/297020/The_Culling_Of_The_Cows/
 { "name": "Culling Of The Cows.exe", "type": "Game" }
+
+# The Dark Eye: Chains of Satinav https://store.steampowered.com/app/203830/The_Dark_Eye_Chains_of_Satinav/
+{ "name": "satinav.exe", "type": "Game" }
+{ "name": "satinav_64.exe", "type": "Game" }
+
+# The Dark Eye: Memoria https://store.steampowered.com/app/243200/The_Dark_Eye_Memoria/
+{ "name": "memoria.exe", "type": "Game" }
 
 # The Dark Pictures Anthology: House of Ashes https://store.steampowered.com/app/1281590/The_Dark_Pictures_Anthology_House_of_Ashes/
 { "name": "HouseOfAshes.exe", "type": "Game" }
@@ -123,6 +145,9 @@
 
 # The Dig https://store.steampowered.com/app/6040/The_Dig/
 { "name": "The Dig.exe", "type": "Game" }
+
+# The Dishwasher: Vampire Smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
+{ "name": "VampireSmile.exe", "type": "Game" }
 
 # The Dream Machine: Chapter 1 & 2 https://store.steampowered.com/app/94300/The_Dream_Machine_Chapter_1__2/
 { "name": "_the_dream_machine.exe", "type": "Game" }
@@ -163,6 +188,9 @@
 
 # The Evil Within 2 https://store.steampowered.com/app/601430/The_Evil_Within_2/
 { "name": "TEW2.exe", "type": "Game" }
+
+# The Fall https://store.steampowered.com/app/290770/The_Fall/
+{ "name": "TheFall.exe", "type": "Game" }
 
 # The Farmer Was Replaced https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
 { "name": "TheFarmerWasReplaced.exe", "type": "Game" }

@@ -8,6 +8,9 @@
 # Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
 { "name": "DawnOfWar2.sh", "type": "Game" }
 
+# Warhammer 40,000: Dawn of War III https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
+{ "name": "DawnOfWar3", "type": "Game" }
+
 # Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
 { "name": "Gladius", "type": "BG_CPUIO" }
 
@@ -24,6 +27,9 @@
 
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2", "type": "Game" }
+
+# Without Within https://store.steampowered.com/app/345650/Without_Within/
+{ "name": "without_within", "type": "Game" }
 
 # WorldBox - God Simulator https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/
 { "name": "worldbox", "type": "Game" }

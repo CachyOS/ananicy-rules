@@ -5,17 +5,26 @@
 
 ### U ###
 
-# UBOAT https://store.steampowered.com/app/494840/UBOAT/
-{ "name": "UBOAT.exe", "type": "Game" }
-
 # UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
 { "name": "UBERMOSH.exe", "type": "Game" }
+
+# UBOAT https://store.steampowered.com/app/494840/UBOAT/
+{ "name": "UBOAT.exe", "type": "Game" }
 
 # UFO 50 https://store.steampowered.com/app/1147860/UFO_50
 { "name": "ufo50.exe", "type": "Game" }
 
+# Ultimate Chicken Horse https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/
+{ "name": "UltimateChickenHorse.exe", "type": "Game" }
+
 # Ultimate Custom Night https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
 { "name": "Ultimate Custom Night.exe", "type": "Game" }
+
+# Ultimate Epic Battle Simulator 2 https://store.steampowered.com/app/1468720/Ultimate_Epic_Battle_Simulator_2/
+{ "name": "UEBS2.exe", "type": "Game" }
+
+# ULTIMATE MARVEL VS. CAPCOM 3 https://store.steampowered.com/app/357190/ULTIMATE_MARVEL_VS_CAPCOM_3/
+{ "name": "umvc3.exe", "type": "Game" }
 
 # ULTRAKILL https://store.steampowered.com/app/1229490/ULTRAKILL/
 { "name": "ULTRAKILL.exe", "type": "Game" }
@@ -34,6 +43,9 @@
 
 # UNBEATABLE https://store.steampowered.com/app/2240620/UNBEATABLE/
 { "name": "UNBEATABLE.exe", "type": "Game" }
+
+# Unboxing the Cryptic Killer https://store.steampowered.com/app/2069040/Unboxing_the_Cryptic_Killer/
+{ "name": "UnboxingTheCrypticKiller.exe", "type": "Game" }
 
 # UNCHARTED: Legacy of Thieves Collection https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/
 { "name": "tll.exe", "type": "Game" }
@@ -60,6 +72,9 @@
 # Under The Island https://store.steampowered.com/app/1583520/Under_The_Island/
 { "name": "UnderTheIsland.exe", "type": "Game" }
 
+# Underworld Idle https://store.steampowered.com/app/1540960/Underworld_Idle/
+{ "name": "imp_inf.exe", "type": "Game" }
+
 # Undisputed https://store.steampowered.com/app/1451190/Undisputed/
 { "name": "Undisputed.exe", "type": "Game" }
 
@@ -72,9 +87,15 @@
 # Unheard - Voices of Crime https://store.steampowered.com/app/942970/Unheard__Voices_of_Crime/
 { "name": "Unheard.exe", "type": "Game" }
 
+# Unholy Heights https://store.steampowered.com/app/249330/Unholy_Heights/
+{ "name": "UnholyHeights.exe", "type": "Game" }
+
 # Universe Sandbox https://store.steampowered.com/app/230290/Universe_Sandbox/
 { "name": "Universe Sandbox x64.exe", "type": "Game" }
 { "name": "Universe Sandbox VR.exe", "type": "Game" }
+
+# Universe Sandbox Legacy https://store.steampowered.com/app/72200/Universe_Sandbox_Legacy/
+{ "name": "Universe Sandbox.exe", "type": "Game" }
 
 # Unknown 9: Awakening https://store.steampowered.com/app/1477940/Unknown_9_Awakening/
 { "name": "U9-Win64-Shipping.exe", "type": "Game" }
@@ -87,8 +108,19 @@
 # Unrailed 2: Back on Track https://store.steampowered.com/app/2211170/Unrailed_2_Back_on_Track/
 { "name": "Unrailed2.exe", "type": "Game" }
 
+# Unreal Gold https://store.steampowered.com/app/13250/Unreal_Gold/
+{ "name": "Unreal.exe", "type": "Game" }
+{ "name": "UnrealEd.exe", "type": "Game" }
+
+# Unreal Tournament 3 Black https://store.steampowered.com/app/13210/Unreal_Tournament_3/
+{ "name": "UT3.exe", "type": "Game" }
+{ "name": "ut3.exe", "type": "Game" }
+
 # Unreal Tournament 2004 https://store.steampowered.com/app/13230/Unreal_Tournament_2004_Editors_Choice_Edition/
 { "name": "UT2004.exe", "type": "Game" }
+
+# Unreal Tournament: Game of the Year Edition https://store.steampowered.com/app/13240/Unreal_Tournament_Game_of_the_Year_Edition/
+{ "name": "UnrealTournament.exe", "type": "Game" }
 
 # Unravel Two https://store.steampowered.com/app/1225570/Unravel_Two/
 { "name": "UnravelTwo.exe", "type": "Game" }
@@ -101,6 +133,12 @@
 { "name": "Bates.exe", "type": "Game" }
 { "name": "Bates-Win64-Shipping.exe", "type": "Game" }
 
+# Until Then https://store.steampowered.com/app/1574820/Until_Then/
+{ "name": "UntilThen.exe", "type": "Game" }
+
+# Untitled Goose Game https://store.steampowered.com/app/837470/Untitled_Goose_Game/
+{ "name": "Untitled.exe", "type": "Game" }
+
 # Untrusted https://store.steampowered.com/app/1502660/Untrusted/
 { "name": "Untrusted.exe", "type": "Game" }
 
@@ -110,3 +148,13 @@
 
 # Uplink https://store.steampowered.com/app/1510/Uplink/
 { "name": "Uplink.exe", "type": "Game" }
+
+# Urban Trial Freestyle https://store.steampowered.com/app/243450/Urban_Trial_Freestyle/
+{ "name": "UrbanTrialFreestyle.exe", "type": "Game" }
+
+# Urbek City Builder https://store.steampowered.com/app/1411740/Urbek_City_Builder/
+{ "name": "Urbek.exe", "type": "Game" }
+
+# Uriel's Chasm https://store.steampowered.com/app/292630/Uriels_Chasm/
+{ "name": "dxwebsetup.exe", "type": "Game" }
+{ "name": "urielschasm.exe", "type": "Game" }

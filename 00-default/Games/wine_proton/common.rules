@@ -98,17 +98,25 @@
 # How to Survive 2 https://store.steampowered.com/app/360170/How_to_Survive_2/
 { "name": "Detect.exe", "type": "Game" }
 
-
 # Soldier Front 2 https://store.steampowered.com/app/239660/Soldier_Front_2/
 # S.K.I.L.L. - Special Force 2 (Shooter) https://store.steampowered.com/app/286940/SKILL__Special_Force_2_Shooter/
 { "name": "DFUBG.exe", "type": "Game" }
 { "name": "DFUFG.exe", "type": "Game" }
+
+# DOSBox, an x86 emulator with DOS https://www.dosbox.com/
+{ "name": "dosbox.exe", "type": "Game" }
+{ "name": "DOSBox.exe", "type": "Game" }
+
+# Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
+# Warhammer 40,000: Dawn of War II Chaos Rising https://store.steampowered.com/app/20570/Warhammer_40000_Dawn_of_War_II_Chaos_Rising/
+{ "name": "dow2.exe", "type": "Game" }
 
 # Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
 { "name": "engine.exe", "type": "Game" }
 
 # Craft The World https://store.steampowered.com/app/248390/Craft_The_World/
 # Barony https://store.steampowered.com/app/371970/Barony/
+# Nebuchadnezzar https://store.steampowered.com/app/1157220/Nebuchadnezzar/
 { "name": "editor.exe", "type": "Game" }
 
 # Greyfox RPG https://store.steampowered.com/app/341310/Greyfox_RPG/
@@ -153,6 +161,10 @@
 # Toy Soldiers https://store.steampowered.com/app/98300/Toy_Soldiers/
 # Toy Soldiers: Complete https://store.steampowered.com/app/262120/Toy_Soldiers_Complete/
 # Still Life https://store.steampowered.com/app/46480/Still_Life/
+# Your Turn To Die -Death Game By Majority- https://store.steampowered.com/app/2067780/Your_Turn_To_Die_Death_Game_By_Majority/
+# Winter Memories https://store.steampowered.com/app/2495450/Winter_Memories/
+# Rocketbirds: Hardboiled Chicken https://store.steampowered.com/app/215510/Rocketbirds_Hardboiled_Chicken/
+# Zài shuā yī bǎ 2: Jīnsè chuánshuō 再刷一把2：金色传说 https://store.steampowered.com/app/3358510/再刷一把2金色传说/
 { "name": "Game.exe", "type": "Game" }
 
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
@@ -184,6 +196,12 @@
 # The Red Solstice https://store.steampowered.com/app/265590/The_Red_Solstice/
 # The Testament of Sherlock Holmes https://store.steampowered.com/app/205650/The_Testament_of_Sherlock_Holmes/
 # The Witch's House MV https://store.steampowered.com/app/885810/The_Witchs_House_MV/
+# Warlock - Master of the Arcane https://store.steampowered.com/app/203630/Warlock__Master_of_the_Arcane/
+# Space Hulk https://store.steampowered.com/app/242570/Space_Hulk/
+# Planets Under Attack https://store.steampowered.com/app/218510/Planets_Under_Attack/
+# Suzume jī / Hime Mājan 雀姬/姫麻雀 https://store.steampowered.com/app/1084520/雀姬姫麻雀/
+# Neighbours from Hell Compilation https://store.steampowered.com/app/260750/Neighbours_from_Hell_Compilation/
+# Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
 { "name": "game.exe", "type": "Game" }
 
 # Green Hell https://store.steampowered.com/app/815370/Green_Hell/
@@ -192,6 +210,7 @@
 
 # PGA TOUR 2K21 https://store.steampowered.com/app/1016120/PGA_TOUR_2K21/
 # The Golf Club https://store.steampowered.com/app/269730/The_Golf_Club/
+# WGT Golf https://store.steampowered.com/app/1182020/WGT_Golf/
 { "name": "golf.exe", "type": "Game" }
 
 # Guild Wars Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
@@ -222,6 +241,14 @@
 # Source SDK Base tools
 # Hammer map editor
 { "name": "hammer.exe", "type": "Game" }
+
+# Spiral Knights https://store.steampowered.com/app/99900/Spiral_Knights/
+# Puzzle Pirates https://store.steampowered.com/app/99910/Puzzle_Pirates/
+{ "name": "javaw.exe", "type": "Game" }
+
+# Wolfenstein 3D https://store.steampowered.com/app/2270/Wolfenstein_3D/
+# Another Brick in The Mall https://store.steampowered.com/app/521150/Another_Brick_in_The_Mall/
+{ "name": "launch.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
 # Eador. Masters of the Broken World https://store.steampowered.com/app/232050/Eador_Masters_of_the_Broken_World/
@@ -285,6 +312,18 @@
 # Game Dev Tycoon https://store.steampowered.com/app/239820/Game_Dev_Tycoon/
 { "name": "nw.exe", "type": "Game" }
 
+# Vindictus https://store.steampowered.com/app/212160/Vindictus/
+# Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
+{ "name": "nxsteam.exe", "type": "Game" }
+
+# Yesterday https://store.steampowered.com/app/205840/Yesterday/
+# Gǔ jiàn qí tán 古剑奇谭(GuJian) https://store.steampowered.com/app/570780/GuJian/
+{ "name": "oalinst.exe", "type": "Game" }
+
+# Overlord https://store.steampowered.com/app/11450/Overlord/
+# Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
+{ "name": "Overlord.exe", "type": "Game" }
+
 # ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
 # PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
@@ -296,6 +335,10 @@
 # Grand Theft Auto IV: The Complete Edition https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
 # Grand Theft Auto V Enhanced https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
 { "name": "PlayGTAV.exe", "type": "Game" }
+
+# Mega Man Legacy Collection https://store.steampowered.com/app/363440/Mega_Man_Legacy_Collection/
+# Proteus https://store.steampowered.com/app/219680/Proteus/
+{ "name": "Proteus.exe", "type": "Game" }
 
 # RV There Yet? https://store.steampowered.com/app/3949040/RV_There_Yet/
 # RIDE https://store.steampowered.com/app/345660/RIDE/
@@ -345,6 +388,7 @@
 
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 # Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
+# Star Control: Origins https://store.steampowered.com/app/271260/Star_Control_Origins/
 { "name": "StardockLauncher.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
@@ -360,9 +404,21 @@
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
 # Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
 # Strike Vector https://store.steampowered.com/app/246700/Strike_Vector/
+# Viscera Cleanup Detail https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/
+# Viscera Cleanup Detail: Santa's Rampage https://store.steampowered.com/app/265210/Viscera_Cleanup_Detail_Santas_Rampage/
+# Viscera Cleanup Detail: Shadow Warrior https://store.steampowered.com/app/255520/Viscera_Cleanup_Detail_Shadow_Warrior/
 { "name": "UDK.exe", "type": "Game" }
 
+# Victory: The Age of Racing https://store.steampowered.com/app/264120/Victory_The_Age_of_Racing/
+# The Culling https://store.steampowered.com/app/437220/The_Culling/
+{ "name": "Victory.exe", "type": "Game" }
+
+# Warhammer 40,000: Dawn of War - Anniversary Edition https://store.steampowered.com/app/4570/Warhammer_40000_Dawn_of_War__Anniversary_Edition/
+# Warhammer 40,000: Dawn of War - Definitive Edition https://store.steampowered.com/app/3556750/Warhammer_40000_Dawn_of_War__Definitive_Edition/
+{ "name": "W40k.exe", "type": "Game" }
+
 # Warhammer: Chaos And Conquest https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
+# Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 # Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 { "name": "Warhammer.exe", "type": "Game" }
 
