@@ -5,6 +5,9 @@
 
 ### X ###
 
+# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+{ "name": "X3TC.exe", "type": "Game" }
+
 # X4: Foundations https://store.steampowered.com/app/392160/X4_Foundations/
 { "name": "X4.exe", "type": "Game" }
 
@@ -14,6 +17,9 @@
 # X-COM: UFO Defense https://store.steampowered.com/app/7760/XCOM_UFO_Defense/
 { "name": "UFO Defense_Patched.exe", "type": "Game" }
 
+# Xenonauts https://store.steampowered.com/app/223830/Xenonauts/
+{ "name": "xenonauts.exe", "type": "Game" }
+
 # XERA: Survival https://store.steampowered.com/app/625340/XERA_Survival/
 { "name": "XERA_Launcher.exe", "type": "Game" }
 { "name": "XERA-Win64-Shipping.exe", "type": "Game" }
@@ -21,6 +27,14 @@
 # X-Morph: Defense https://store.steampowered.com/app/408410/XMorph_Defense/
 { "name": "X-Morph_Launcher.exe", "type": "Game" }
 { "name": "shooter_win64_release.exe", "type": "Game" }
+
+# X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
+{ "name": "Airfoil-Maker.exe", "type": "Game" }
+{ "name": "Plane-Maker.exe", "type": "Game" }
+{ "name": "X-Plane-32bit.exe", "type": "Game" }
+
+# X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
+{ "name": "XRebirth.exe", "type": "Game" }
 
 # Xuan-Yuan Sword: The Scar of Sky https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/
 { "name": "swd3e.exe", "type": "Game" }

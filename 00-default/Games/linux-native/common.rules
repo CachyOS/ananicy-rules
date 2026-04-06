@@ -40,6 +40,8 @@
 # Jagged Alliance 2 - Wildfire https://store.steampowered.com/app/215930/Jagged_Alliance_2__Wildfire/
 # KnightShift https://store.steampowered.com/app/254060/KnightShift/
 # Septerra Core https://store.steampowered.com/app/253940/Septerra_Core/
+# Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
+# X-Blades https://store.steampowered.com/app/7510/XBlades/
 { "name": "RunGame", "type": "Game" }
 
 # Sanctum https://store.steampowered.com/app/91600/Sanctum/
@@ -64,8 +66,20 @@
 
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
 # Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/
+# Tower of Guns https://store.steampowered.com/app/266110/Tower_of_Guns/
 { "name": "UDKGame-Linux", "type": "Game" }
 
 # 60 Seconds! Reatomized https://store.steampowered.com/app/1012880/60_Seconds_Reatomized/
 # 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
 { "name": "60Seconds.x86_64", "type": "Game" }
+
+# X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
+# X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
+# X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
+{ "name": "Airfoil Maker-x86_64", "type": "Game" }
+{ "name": "Plane Maker-x86_64", "type": "Game" }
+{ "name": "X-Plane-x86_64", "type": "Game" }
+
+# X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
+# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+{ "name": "testandlaunch", "type": "Game" }

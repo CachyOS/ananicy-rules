@@ -5,13 +5,31 @@
 
 ### X ###
 
+# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+{ "name": "X3TC_main", "type": "Game" }
+
 # X4: Foundations https://store.steampowered.com/app/392160/X4_Foundations/
 { "name": "X4", "type": "Game" }
 
+# Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
+# X-Blades https://store.steampowered.com/app/7510/XBlades/
+{ "name": "RunGameWithoutLauncher", "type": "Game" }
+
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
 { "name": "XCOM2", "type": "Game" }
+
+# Xenonauts https://store.steampowered.com/app/223830/Xenonauts/
+{ "name": "Xenonauts.bin.x86", "type": "Game" }
 
 # Xonotic https://www.xonotic.org/
 { "name": "xonotic-glx", "type": "Game" }
 { "name": "xonotic-local-sdl", "type": "Game" }
 { "name": "xonotic-sdl", "type": "Game" }
+
+# X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
+{ "name": "Airfoil-Maker-i386", "type": "Game" }
+{ "name": "Plane-Maker-i386", "type": "Game" }
+{ "name": "X-Plane-i386", "type": "Game" }
+
+# X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
+{ "name": "XRebirth", "type": "Game" }

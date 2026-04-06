@@ -3,7 +3,7 @@
 # Get name of game from steam.
 # If not from any store add name you think it needs.
 
-### Chinese / Pinyin ###
+### Chinese ###
 
 # fēng líng dàng àn 封灵档案 https://store.steampowered.com/app/1520470/Soul_Dossier/
 { "name": "NotesOfSoulServer-Win64-Shipping.exe", "type": "Game" }
@@ -59,4 +59,11 @@
 
 # ЕСТЬ ДВА СТУЛА https://store.steampowered.com/app/873190/EST_DVA_STULA/
 { "name": "Есть Два Стула.exe", "type": "Game" }
+
+
+### Greek ###
+
+# ΔV: Rings of Saturn https://store.steampowered.com/app/846030/DV_Rings_of_Saturn/
+{ "name": "Delta-V.exe", "type": "Game" }
+
 

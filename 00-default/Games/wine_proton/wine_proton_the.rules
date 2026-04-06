@@ -271,6 +271,9 @@
 # The Henry Stickmin Collection https://store.steampowered.com/app/1089980/The_Henry_Stickmin_Collection/
 { "name": "HenryStickmin.exe", "type": "Game" }
 
+# The Hex https://store.steampowered.com/app/510420/The_Hex/
+{ "name": "TheHex.exe", "type": "Game" }
+
 # The House of Da Vinci https://store.steampowered.com/app/522470/The_House_of_Da_Vinci/
 { "name": "The House of da Vinci.exe", "type": "Game" }
 
@@ -282,6 +285,9 @@
 
 # The Hungry Lamb: Traveling in the Late Ming Dynasty https://store.steampowered.com/app/2593370/The_Hungry_Lamb_Traveling_in_the_Late_Ming_Dynasty/
 { "name": "The Hungry Lamb.exe", "type": "Game" }
+
+# The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
+{ "name": "ImpossibleGame.exe", "type": "Game" }
 
 # The Inner World https://store.steampowered.com/app/251430/The_Inner_World/
 { "name": "TheInnerWorld.exe", "type": "Game" }
@@ -313,6 +319,9 @@
 { "name": "TJoC_SM-Win64-Shipping.exe", "type": "Game" }
 { "name": "TJoC_R.exe", "type": "Game" }
 { "name": "UE4Game-Win64-Shipping.exe", "type": "Game" }
+
+# The Journey Down: Chapter One https://store.steampowered.com/app/220090/The_Journey_Down_Chapter_One/
+{ "name": "JourneyDown1.exe", "type": "Game" }
 
 # The Killing Antidote https://store.steampowered.com/app/2254890/The_Killing_Antidote/
 { "name": "TheKillingAntidote.exe", "type": "Game" }
@@ -442,11 +451,21 @@
 # The Mortuary Assistant https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/
 { "name": "The Mortuary Assistant.exe", "type": "Game" }
 
+# The Mooseman https://store.steampowered.com/app/574310/The_Mooseman/
+{ "name": "Mooseman.exe", "type": "Game" }
+
 # The Next BIG Thing https://store.steampowered.com/app/58570/The_Next_BIG_Thing/
 { "name": "The Next Big Thing.exe", "type": "Game" }
 
+# The Night of the Rabbit https://store.steampowered.com/app/230820/The_Night_of_the_Rabbit/
+{ "name": "rabbit.exe", "type": "Game" }
+{ "name": "rabbit_64.exe", "type": "Game" }
+
 # The NOexistenceN of you AND me https://store.steampowered.com/app/2873080/The_NOexistenceN_of_you_AND_me/
 { "name": "TheNOexistenceNofyouANDme.exe", "type": "Game" }
+
+# The Novelist https://store.steampowered.com/app/245150/The_Novelist/
+{ "name": "The Novelist.exe", "type": "Game" }
 
 # The Outer Worlds https://store.steampowered.com/app/578650/The_Outer_Worlds/
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
@@ -465,6 +484,9 @@
 
 # The Past Within https://store.steampowered.com/app/1515210/The_Past_Within/
 { "name": "The Past Within.exe", "type": "Game" }
+
+# The Plan https://store.steampowered.com/app/250600/The_Plan/
+{ "name": "The Plan.exe", "type": "Game" }
 
 # The Planet Crafter https://store.steampowered.com/app/1284190/The_Planet_Crafter/
 { "name": "Planet Crafter.exe", "type": "Game" }
@@ -557,6 +579,10 @@
 # The TakeOver https://store.steampowered.com/app/418620/The_TakeOver/
 { "name": "The TakeOver.exe", "type": "Game" }
 
+# The Talos Principle https://store.steampowered.com/app/257510/The_Talos_Principle/
+{ "name": "Talos.exe", "type": "Game" }
+{ "name": "Talos_Unrestricted.exe", "type": "Game" }
+
 # The Talos Principle 2 https://store.steampowered.com/app/835960/The_Talos_Principle_2/
 { "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Talos2.exe", "type": "Game" }
@@ -574,8 +600,15 @@
 # The Thrill of the Fight - VR Boxing https://store.steampowered.com/app/494150/The_Thrill_of_the_Fight__VR_Boxing/
 { "name": "The Thrill of the Fight.exe", "type": "Game" }
 
+# The Tiny Bang Story https://store.steampowered.com/app/96000/The_Tiny_Bang_Story/
+{ "name": "ttbs.exe", "type": "Game" }
+
 # The Typing of The Dead: Overkill https://store.steampowered.com/app/246580/The_Typing_of_The_Dead_Overkill/
 { "name": "HOTD_NG.exe", "type": "Game" }
+
+# The Uncertain: Last Quiet Day https://store.steampowered.com/app/406970/The_Uncertain_Last_Quiet_Day/
+{ "name": "splash.exe", "type": "BG_CPUIO" }
+{ "name": "TUE1.exe", "type": "Game" }
 
 # The Vanishing of Ethan Carter https://store.steampowered.com/app/258520/The_Vanishing_of_Ethan_Carter/
 { "name": "AstronautsGame-Win32-Shipping.exe", "type": "Game" }

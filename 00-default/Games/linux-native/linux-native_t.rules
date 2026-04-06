@@ -53,28 +53,62 @@
 # That's not my Neighbor https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/
 { "name": "That's not my neighbor (Steam).x86_64", "type": "Game" }
 
+# Them's Fightin' Herds https://store.steampowered.com/app/574980/Thems_Fightin_Herds/
+{ "name": "ThemsFightinHerds.Linux.x64", "type": "Game" }
+
+# They Bleed Pixels https://store.steampowered.com/app/211260/They_Bleed_Pixels/
+{ "name": "TheyBleedPixels", "type": "Game" }
+
+# Thirty Flights of Loving https://store.steampowered.com/app/214700/Thirty_Flights_of_Loving/
+{ "name": "tfol", "type": "Game" }
+
 # This War of Mine https://store.steampowered.com/app/282070/This_War_of_Mine/
 { "name": "This War of Mine", "type": "Game" }
+
+# Thomas Was Alone https://store.steampowered.com/app/220780/Thomas_Was_Alone/
+{ "name": "thomasWasAlone", "type": "Game" }
+
+# Ticket to Ride: Classic Edition https://store.steampowered.com/app/108200/Ticket_to_Ride_Classic_Edition/
+{ "name": "Ticket to Ride", "type": "Game" }
 
 # Timespinner https://store.steampowered.com/app/368620/Timespinner/
 { "name": "Timespinner", "type": "Game" }
 
-# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
-{ "name": "tiny-glade", "type": "Game" }
+# Tiny and Big: Grandpa's Leftovers https://store.steampowered.com/app/205910/Tiny_and_Big_Grandpas_Leftovers/
+{ "name": "tinyandbig", "type": "Game" }
 
 # Tiny Bookshop https://store.steampowered.com/app/2133760/Tiny_Bookshop/
 { "name": "Tiny Bookshop.x86_64", "type": "Game" }
+
+# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
+{ "name": "tiny-glade", "type": "Game" }
 
 # tModLoader https://store.steampowered.com/app/1281930/tModLoader/
 { "name": "tModLoader", "type": "Game" }
 { "name": "start-tModLoader.sh", "type": "Game" }
 
+# TOEM: A Photo Adventure https://store.steampowered.com/app/1307580/TOEM_A_Photo_Adventure/
+{ "name": "TOEM.x86_64", "type": "Game" }
+
+# Toki Tori https://store.steampowered.com/app/38700/Toki_Tori/
+{ "name": "TokiTori.bin.x86", "type": "Game" }
+
+# Toki Tori 2+ https://store.steampowered.com/app/201420/Toki_Tori_2/
+{ "name": "TokiTori2.bin.x86", "type": "Game" }
+{ "name": "TokiTori2.bin.x86_64", "type": "Game" }
+
 # Tomb Raider 2013 reboot version http://store.steampowered.com/app/203160/Tomb_Raider/
 { "name": "TombRaider", "type": "Game" }
+
+# Tooth and Tail https://store.steampowered.com/app/286000/Tooth_and_Tail/
+{ "name": "ToothAndTail", "type": "Game" }
 
 # Torchlight II https://store.steampowered.com/app/200710/Torchlight_II/
 { "name": "Torchlight2.bin.x86", "type": "Game" }
 { "name": "Torchlight2.bin.x86_64", "type": "Game" }
+
+# Toribash https://store.steampowered.com/app/248570/Toribash/
+{ "name": "toribash_steam", "type": "Game" }
 
 # Torment: Tides of Numenera https://store.steampowered.com/app/272270/Torment_Tides_of_Numenera/
 { "name": "TidesOfNumenera", "type": "Game" }
@@ -109,12 +143,25 @@
 # Total War: WARHAMMER III https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/
 { "name": "TotalWarhammer3", "type": "Game" }
 
+# To the Moon https://store.steampowered.com/app/206440/To_the_Moon/
+{ "name": "parent.amd64", "type": "Game" }
+{ "name": "parent.x86", "type": "Game" }
+
+# TowerFall Ascension https://store.steampowered.com/app/251470/TowerFall_Ascension/
+{ "name": "TowerFall", "type": "Game" }
+
 # Tower of Time https://store.steampowered.com/app/617480/Tower_of_Time/
 { "name": "TowerOfTime.x86", "type": "Game" }
 { "name": "TowerOfTime.x86_64", "type": "Game" }
 
+# Transistor https://store.steampowered.com/app/237930/Transistor/
+{ "name": "Transistor", "type": "Game" }
+
 # Transport Fever 2 https://store.steampowered.com/app/1066780/Transport_Fever_2/
 { "name": "TransportFever2", "type": "Game" }
+
+# Tricky Towers https://store.steampowered.com/app/437920/Tricky_Towers/
+{ "name": "TrickyTowers.x86", "type": "Game" }
 
 # Trine Enchanted Edition https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/
 { "name": "trine1_linux_32bit", "type": "Game" }
@@ -134,6 +181,9 @@
 # Turmoil https://store.steampowered.com/app/361280/Turmoil/
 { "name": "Turmoil.x86_64", "type": "Game" }
 
+# Turing Complete https://store.steampowered.com/app/1444480/Turing_Complete/
+{ "name": "Turing Complete.x86_64", "type": "Game" }
+
 # Turok https://store.steampowered.com/app/405820/Turok/
 { "name": "TurokEx", "type": "Game" }
 
@@ -146,6 +196,9 @@
 # Two Point Museum https://store.steampowered.com/app/2185060/Two_Point_Museum/
 { "name": "Borelli.x86_64", "type": "Game" }
 { "name": "TPM.x86_64", "type": "Game" }
+
+# Type:Rider https://store.steampowered.com/app/258890/TypeRider/
+{ "name": "TypeRider.x86", "type": "Game" }
 
 # Tyranny https://store.steampowered.com/app/362960/Tyranny/
 { "name": "Tyranny.x86", "type": "Game" }
