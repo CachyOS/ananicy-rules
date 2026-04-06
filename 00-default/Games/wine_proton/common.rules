@@ -202,6 +202,7 @@
 # Suzume jī / Hime Mājan 雀姬/姫麻雀 https://store.steampowered.com/app/1084520/雀姬姫麻雀/
 # Neighbours from Hell Compilation https://store.steampowered.com/app/260750/Neighbours_from_Hell_Compilation/
 # Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
+# Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 { "name": "game.exe", "type": "Game" }
 
 # Green Hell https://store.steampowered.com/app/815370/Green_Hell/
@@ -270,6 +271,7 @@
 # A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
 # Haydee https://store.steampowered.com/app/530890/Haydee/
 # METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version https://store.steampowered.com/app/2131640/METAL_GEAR_SOLID_2_Sons_of_Liberty__Master_Collection_Version/
+# X-Blades https://store.steampowered.com/app/7510/XBlades/
 { "name": "launcher.exe", "type": "Game" }
 
 # EverQuest https://store.steampowered.com/app/205710/EverQuest/
@@ -407,6 +409,7 @@
 # Viscera Cleanup Detail https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/
 # Viscera Cleanup Detail: Santa's Rampage https://store.steampowered.com/app/265210/Viscera_Cleanup_Detail_Santas_Rampage/
 # Viscera Cleanup Detail: Shadow Warrior https://store.steampowered.com/app/255520/Viscera_Cleanup_Detail_Shadow_Warrior/
+# Tower of Guns https://store.steampowered.com/app/266110/Tower_of_Guns/
 { "name": "UDK.exe", "type": "Game" }
 
 # Victory: The Age of Racing https://store.steampowered.com/app/264120/Victory_The_Age_of_Racing/
@@ -422,6 +425,10 @@
 # Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 { "name": "Warhammer.exe", "type": "Game" }
 
+# Wurm Online https://store.steampowered.com/app/1179680/Wurm_Online/
+# Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/
+{ "name": "WurmLauncher", "type": "Game" }
+
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
 # XCOM: Chimera Squad https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/
 { "name": "XCom2.exe", "type": "Game" }
@@ -432,6 +439,14 @@
 # S.T.A.L.K.E.R.: Clear Sky https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
 # S.T.A.L.K.E.R.: Call of Pripyat https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
 { "name": "xrEngine.exe", "type": "Game" }
+
+
+# X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
+# X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
+# X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
+{ "name": "Airfoil Maker.exe", "type": "Game" }
+{ "name": "Plane Maker.exe", "type": "Game" }
+{ "name": "X-Plane.exe", "type": "Game" }
 
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }

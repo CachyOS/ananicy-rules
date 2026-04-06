@@ -6,14 +6,13 @@
 ### X ###
 
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
-{ "name": "testandlaunch", "type": "Game" }
 { "name": "X3TC_main", "type": "Game" }
 
 # X4: Foundations https://store.steampowered.com/app/392160/X4_Foundations/
 { "name": "X4", "type": "Game" }
 
+# Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
 # X-Blades https://store.steampowered.com/app/7510/XBlades/
-{ "name": "RunGame", "type": "Game" }
 { "name": "RunGameWithoutLauncher", "type": "Game" }
 
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
@@ -31,18 +30,6 @@
 { "name": "Airfoil-Maker-i386", "type": "Game" }
 { "name": "Plane-Maker-i386", "type": "Game" }
 { "name": "X-Plane-i386", "type": "Game" }
-{ "name": "X-Plane-x86_64", "type": "Game" }
-
-# X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
-{ "name": "Airfoil Maker-x86_64", "type": "Game" }
-{ "name": "Plane Maker-x86_64", "type": "Game" }
-{ "name": "X-Plane-x86_64", "type": "Game" }
-
-# X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
-{ "name": "Airfoil Maker-x86_64", "type": "Game" }
-{ "name": "Plane Maker-x86_64", "type": "Game" }
-{ "name": "X-Plane-x86_64", "type": "Game" }
 
 # X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
-{ "name": "testandlaunch", "type": "Game" }
 { "name": "XRebirth", "type": "Game" }
