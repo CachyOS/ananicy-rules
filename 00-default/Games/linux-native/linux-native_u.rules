@@ -8,11 +8,21 @@
 # Ultimate Chicken Horse https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/
 { "name": "UltimateChickenHorse.x86_64", "type": "Game" }
 
+# UnEpic https://store.steampowered.com/app/233980/UnEpic/
+{ "name": "unepic32s", "type": "Game" }
+{ "name": "unepic64s", "type": "Game" }
+
 # Universe Sandbox https://store.steampowered.com/app/230290/Universe_Sandbox/
 { "name": "Universe", "type": "Game" }
 
 # Unnamed Space Idle https://store.steampowered.com/app/2471100/Unnamed_Space_Idle/
 { "name": "SpaceIdle.x86_64", "type": "Game" }
+
+# Unpacking https://store.steampowered.com/app/1135690/Unpacking/
+{ "name": "unpacking.x86_64", "type": "Game" }
+
+# Unrailed! https://store.steampowered.com/app/1016920/Unrailed/
+{ "name": "UnrailedGame", "type": "Game" }
 
 # unreal 98 https://oldunreal.com/
 { "name": "UnrealLinux.bin", "type": "Game" }

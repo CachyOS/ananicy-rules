@@ -11,8 +11,19 @@
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "valheim.x86_64", "type": "Game" }
 
+# Vangers https://store.steampowered.com/app/264080/Vangers/
+{ "name": "vangers32", "type": "Game" }
+{ "name": "vangers64", "type": "Game" }
+
+# Vanguard Princess https://store.steampowered.com/app/262150/Vanguard_Princess/
+{ "name": "cxsteamwrapper", "type": "Game" }
+{ "name": "cxntlm_auth", "type": "Game" }
+
 # VEIN https://store.steampowered.com/app/1857950/VEIN/
 { "name": "Vein", "type": "Game" }
+
+# Verdun https://store.steampowered.com/app/242860/Verdun/
+{ "name": "Verdun", "type": "Game" }
 
 # Victoria 3 https://www.paradoxinteractive.com/games/victoria-3
 # https://store.steampowered.com/app/529340/Victoria_3/
@@ -30,6 +41,12 @@
 
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_LINUX.x86_64", "type": "Game" }
+
+# Volcanoids https://store.steampowered.com/app/951440/Volcanoids/
+{ "name": "Volcanoids.x86_64", "type": "Game" }
+
+# Volgarr the Viking https://store.steampowered.com/app/247240/Volgarr_the_Viking/
+{ "name": "Volgarr", "type": "Game" }
 
 # VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
 { "name": "VVVVVV", "type": "Game" }

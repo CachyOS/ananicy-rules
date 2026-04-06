@@ -215,12 +215,18 @@
 # theHunter Classic https://store.steampowered.com/app/253710/theHunter_Classic/
 { "name": "theHunter.exe", "type": "Game" }
 
+# Them's Fightin' Herds https://store.steampowered.com/app/574980/Thems_Fightin_Herds/
+{ "name": "Them's Fightin' Herds.exe", "type": "Game" }
+
 # There Is No Game: Wrong Dimension https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/
 { "name": "Ting.exe", "type": "Game" }
 
 # They Are Billions https://store.steampowered.com/app/644930/They_Are_Billions/
 { "name": "TheyAreBillions.exe", "type": "Game" }
 { "name": "TheyAreBillions_x86.exe", "type": "Game" }
+
+# They Bleed Pixels https://store.steampowered.com/app/211260/They_Bleed_Pixels/
+{ "name": "They Bleed Pixels PC.exe", "type": "Game" }
 
 # Thief https://store.steampowered.com/app/239160/Thief/
 { "name": "Shipping-ThiefGame.exe", "type": "Game" }
@@ -246,11 +252,17 @@
 # Thief Simulator 2 https://store.steampowered.com/app/1332720/Thief_Simulator_2/
 { "name": "Thief Simulator 2.exe", "type": "Game" }
 
+# Thirty Flights of Loving https://store.steampowered.com/app/214700/Thirty_Flights_of_Loving/
+{ "name": "tfol.exe", "type": "Game" }
+
 # This Land Is My Land https://store.steampowered.com/app/1069640/This_Land_Is_My_Land/
 { "name": "This Land Is My Land.exe", "type": "Game" }
 
 # This War of Mine https://store.steampowered.com/app/282070/This_War_of_Mine/
 { "name": "This War of Mine.exe", "type": "Game" }
+
+# Thomas Was Alone https://store.steampowered.com/app/220780/Thomas_Was_Alone/
+{ "name": "thomaswasalone.exe", "type": "Game" }
 
 # Thrive https://store.steampowered.com/app/1779200/Thrive/
 { "name": "ThriveLauncher.exe", "type": "Game" }
@@ -272,6 +284,9 @@
 # Thymesia https://store.steampowered.com/app/1343240/Thymesia/
 { "name": "PlagueProject.exe", "type": "Game" }
 
+# Ticket to Ride: Classic Edition https://store.steampowered.com/app/108200/Ticket_to_Ride_Classic_Edition/
+{ "name": "Ticket to Ride.exe", "type": "Game" }
+
 # Timberborn https://store.steampowered.com/app/1062090/Timberborn/
 { "name": "Timberborn.exe", "type": "Game" }
 
@@ -287,6 +302,9 @@
 
 # Tinkerlands https://store.steampowered.com/app/2617700/Tinkerlands/
 { "name": "tinkerlands.exe", "type": "Game" }
+
+# Tiny and Big: Grandpa's Leftovers https://store.steampowered.com/app/205910/Tiny_and_Big_Grandpas_Leftovers/
+{ "name": "tinyandbig.exe", "type": "Game" }
 
 # Tiny Bookshop https://store.steampowered.com/app/2133760/Tiny_Bookshop/
 { "name": "Tiny Bookshop.exe", "type": "Game" }
@@ -339,11 +357,20 @@
 { "name": "tModLoader.exe", "type": "Game" }
 { "name": "busybox64.exe", "type": "Game" }
 
+# TOEM: A Photo Adventure https://store.steampowered.com/app/1307580/TOEM_A_Photo_Adventure/
+{ "name": "TOEM.exe", "type": "Game" }
+
 # TOGETHER BnB https://store.steampowered.com/app/1239020/TOGETHER_BnB/
 { "name": "TogetherBNB.exe", "type": "Game" }
 
 # To Hell with Hell https://store.steampowered.com/app/860660/To_Hell_with_Hell/
 { "name": "ToHellWithHell.exe", "type": "Game" }
+
+# Toki Tori https://store.steampowered.com/app/38700/Toki_Tori/
+{ "name": "tokitori.exe", "type": "Game" }
+
+# Toki Tori 2+ https://store.steampowered.com/app/201420/Toki_Tori_2/
+{ "name": "tokitori2.exe", "type": "Game" }
 
 # Tokyo Xtreme Racer https://store.steampowered.com/app/2634950/Tokyo_Xtreme_Racer/
 { "name": "TokyoXtremeRacer-Win64-Shipping.exe", "type": "Game" }
@@ -466,6 +493,9 @@
 # Tools Up! https://store.steampowered.com/app/1004490/Tools_Up/
 { "name": "Tools Up.exe", "type": "Game" }
 
+# Tooth and Tail https://store.steampowered.com/app/286000/Tooth_and_Tail/
+{ "name": "ToothAndTail.exe", "type": "Game" }
+
 # TopSpin 2K25 https://store.steampowered.com/app/1785650/TopSpin_2K25/
 { "name": "topspin2k25.exe", "type": "Game" }
 
@@ -481,6 +511,10 @@
 # Torchlight III https://store.steampowered.com/app/1030210/Torchlight_III/
 { "name": "Frontiers-Win64-Shipping.exe", "type": "Game" }
 { "name": "Frontiers.exe", "type": "Game" }
+
+# Toribash https://store.steampowered.com/app/248570/Toribash/
+{ "name": "Toribash.exe", "type": "Game" }
+{ "name": "toribashSP.exe", "type": "Game" }
 
 # Tormented Souls https://store.steampowered.com/app/1367590/Tormented_Souls/
 { "name": "TormentedSouls.exe", "type": "Game" }
@@ -530,6 +564,13 @@
 
 # Total War: WARHAMMER III https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/
 { "name": "Warhammer3.exe", "type": "Game" }
+
+# To the Moon https://store.steampowered.com/app/206440/To_the_Moon/
+{ "name": "SigCorp Minisode 2.exe", "type": "Game" }
+{ "name": "Siggy - Holiday Special.exe", "type": "Game" }
+{ "name": "To the Moon - Sigmund Minisode 1.exe", "type": "Game" }
+{ "name": "To the Moon - Sigmund Minisode 2.exe", "type": "Game" }
+{ "name": "To the Moon.exe", "type": "Game" }
 
 # Touge Shakai https://store.steampowered.com/app/2113900/Touge_Shakai/
 { "name": "Touge Shakai.exe", "type": "Game" }
@@ -581,6 +622,9 @@
 # Tower Factory https://store.steampowered.com/app/2707490/Tower_Factory/
 { "name": "TowerFactory.exe", "type": "Game" }
 
+# TowerFall Ascension https://store.steampowered.com/app/251470/TowerFall_Ascension/
+{ "name": "TowerFall.exe", "type": "Game" }
+
 # Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
 { "name": "Tower-Win64-Shipping.exe", "type": "Game" }
 { "name": "Tower.exe", "type": "Game" }
@@ -594,6 +638,9 @@
 # Tower of Fantasy https://store.steampowered.com/app/2064650/Tower_of_Fantasy/
 { "name": "HottaLauncher.exe", "type": "Game" }
 { "name": "HottaGame.exe", "type": "Game" }
+
+# Tower of Guns https://store.steampowered.com/app/266110/Tower_of_Guns/
+{ "name": "UDK.exe", "type": "Game" }
 
 # Town of Salem https://store.steampowered.com/app/334230/Town_of_Salem/
 { "name": "TownOfSalem.exe", "type": "Game" }
@@ -644,6 +691,9 @@
 # Transformice https://store.steampowered.com/app/335240/Transformice/
 { "name": "Transformice.exe", "type": "Game" }
 
+# Transistor https://store.steampowered.com/app/237930/Transistor/
+{ "name": "Transistor.exe", "type": "Game" }
+
 # Transport Fever https://store.steampowered.com/app/446800/Transport_Fever/
 { "name": "TransportFever.exe", "type": "Game" }
 
@@ -685,6 +735,9 @@
 # Tribes of Midgard https://store.steampowered.com/app/858820/Tribes_of_Midgard/
 { "name": "TOM.exe", "type": "Game" }
 { "name": "TOM-Win64-Shipping.exe", "type": "Game" }
+
+# Tricky Towers https://store.steampowered.com/app/437920/Tricky_Towers/
+{ "name": "TrickyTowers.exe", "type": "Game" }
 
 # Tricolour Lovestory https://store.steampowered.com/app/668630/Tricolour_Lovestory/
 { "name": "TricolourLovestoryCE.exe", "type": "Game" }
@@ -760,6 +813,9 @@
 { "name": "Turmoil.exe", "type": "Game" }
 { "name": "Turmoil_PC_Full.exe", "type": "Game" }
 
+# Turing Complete https://store.steampowered.com/app/1444480/Turing_Complete/
+{ "name": "Turing Complete.exe", "type": "Game" }
+
 # Twilight Struggle https://store.steampowered.com/app/406290/Twilight_Struggle/
 { "name": "TwilightStruggle.exe", "type": "Game" }
 
@@ -779,3 +835,11 @@
 { "name": "TwoWorlds2Editor.exe", "type": "Game" }
 { "name": "TwoWorlds2_DX10.exe", "type": "Game" }
 
+# Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
+{ "name": "2WSG.exe", "type": "Game" }
+{ "name": "TwoWorlds.exe", "type": "Game" }
+{ "name": "TwoWorlds_RADEON.exe", "type": "Game" }
+
+# Type:Rider https://store.steampowered.com/app/258890/TypeRider/
+{ "name": "typerider.exe", "type": "Game" }
+{ "name": "Typerider.exe", "type": "Game" }

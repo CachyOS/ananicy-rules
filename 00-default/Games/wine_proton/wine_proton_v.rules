@@ -45,6 +45,13 @@
 { "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "Vampyr-Win64-Shipping.exe", "type": "Game" }
 
+# Vangers https://store.steampowered.com/app/264080/Vangers/
+{ "name": "vangers.exe", "type": "Game" }
+
+# Vanguard Princess https://store.steampowered.com/app/262150/Vanguard_Princess/
+{ "name": "VanguardOnline.exe", "type": "Game" }
+{ "name": "vanpri.exe", "type": "Game" }
+
 # Vector https://store.steampowered.com/app/248970/Vector/
 { "name": "Vector.exe", "type": "Game" }
 
@@ -53,6 +60,9 @@
 
 # Venetica - Gold Edition https://store.steampowered.com/app/338140/Venetica__Gold_Edition/
 { "name": "Venetica.exe", "type": "Game" }
+
+# Verdun https://store.steampowered.com/app/242860/Verdun/
+{ "name": "Verdun.exe", "type": "Game" }
 
 # VERGE:Lost chapter https://store.steampowered.com/app/400740/VERGELost_chapter/
 { "name": "VERGE.exe", "type": "Game" }
@@ -119,8 +129,14 @@
 { "name": "VOIN.exe", "type": "Game" }
 { "name": "VOIN-Win64-Shipping.exe", "type": "Game" }
 
+# Volcanoids https://store.steampowered.com/app/951440/Volcanoids/
+{ "name": "Volcanoids.exe", "type": "Game" }
+
 # Volcano Princess https://store.steampowered.com/app/1669980/Volcano_Princess/
 { "name": "VolcanoPrincess.exe", "type": "Game" }
+
+# Volgarr the Viking https://store.steampowered.com/app/247240/Volgarr_the_Viking/
+{ "name": "Volgarr.exe", "type": "Game" }
 
 # Voor De Kroon https://store.steampowered.com/app/1702390/Voor_De_Kroon/
 { "name": "FormationSystem.exe", "type": "Game" }

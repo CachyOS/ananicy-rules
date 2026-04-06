@@ -50,6 +50,12 @@
 # The Farmer Was Replaced https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
 { "name": "TheFarmerWasReplaced.x86_64", "type": "Game" }
 
+# The Hex https://store.steampowered.com/app/510420/The_Hex/
+{ "name": "TheHex.x86", "type": "Game" }
+
+# The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
+{ "name": "ImpossibleGame", "type": "Game" }
+
 # The Legend of Zelda: Majora's Mask Recompiled https://github.com/Zelda64Recomp/Zelda64Recomp
 { "name": "Zelda64Recompiled", "type": "Game" }
 
@@ -133,3 +139,32 @@
 # The Jackbox Party Starter https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/
 { "name": "TJPS_Vulkan", "type": "Game" }
 { "name": "TJPS_OpenGL", "type": "Game" }
+
+# The Journey Down: Chapter One https://store.steampowered.com/app/220090/The_Journey_Down_Chapter_One/
+{ "name": "JourneyDown1", "type": "Game" }
+
+# The Mooseman https://store.steampowered.com/app/574310/The_Mooseman/
+{ "name": "Mooseman.x86", "type": "Game" }
+
+# The Night of the Rabbit https://store.steampowered.com/app/230820/The_Night_of_the_Rabbit/
+{ "name": "rabbit", "type": "Game" }
+
+# The Novelist https://store.steampowered.com/app/245150/The_Novelist/
+{ "name": "The Novelist.x86", "type": "Game" }
+{ "name": "The Novelist.x86_64", "type": "Game" }
+
+# The Plan https://store.steampowered.com/app/250600/The_Plan/
+{ "name": "The Plan.x86", "type": "Game" }
+
+# The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
+{ "name": "stanley", "type": "Game" }
+
+# The Talos Principle https://store.steampowered.com/app/257510/The_Talos_Principle/
+{ "name": "Talos", "type": "Game" }
+{ "name": "Talos_Unrestricted", "type": "Game" }
+
+# The Tiny Bang Story https://store.steampowered.com/app/96000/The_Tiny_Bang_Story/
+{ "name": "TTBS", "type": "Game" }
+
+# The Uncertain: Last Quiet Day https://store.steampowered.com/app/406970/The_Uncertain_Last_Quiet_Day/
+{ "name": "TUE1.x86_64", "type": "Game" }
