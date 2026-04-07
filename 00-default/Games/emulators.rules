@@ -65,6 +65,9 @@
 # Adventure Game Engine ScummVM
 { "name": "scummvm", "type": "Game" }
 
+# DOSBox, an x86 emulator with DOS https://www.dosbox.com/
+{ "name": "dosbox", "type": "Game" }
+
 ### Sega ###
 
 # BlastEm is an open source, higly accurate emulator for the Sega Genesis/Megadrive. https://www.retrodev.com/blastem/
@@ -86,3 +89,4 @@
 # SHADPS4, a PlayStation 4 emulator: https://shadps4.net
 { "name": "shadps4", "type": "Game" }
 { "name": "shadPS4:Main", "type": "Game" }
+
