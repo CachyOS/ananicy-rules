@@ -165,10 +165,7 @@
 { "name": "OblivionRemastered.exe", "type": "Game" }
 { "name": "OblivionRemastered-Win64-Shipping.exe", "type": "Game" }
 
-# The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
-# The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
-{ "name": "SkyrimSE.exe", "type": "Game" }
-{ "name": "TESV.exe", "type": "Game" }
+
 
 # The Elder Scrolls V: Skyrim VR https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/
 { "name": "SkyrimVR.exe", "type": "Game" }
@@ -233,7 +230,6 @@
 { "name": "GameOfLife2.exe", "type": "Game" }
 
 # The Glitched Attraction https://gamejolt.com/games/the_glitched_attraction/528354
-# This is a FNAF (Five Nights at Freddy's) fangame
 { "name": "The Glitched Attraction.exe", "type": "Game" }
 
 # (the) Gnorp Apologue https://store.steampowered.com/app/1473350/the_Gnorp_Apologue/
@@ -292,20 +288,6 @@
 # The Inner World https://store.steampowered.com/app/251430/The_Inner_World/
 { "name": "TheInnerWorld.exe", "type": "Game" }
 
-# The Incredible Adventures of Van Helsing: Final Cut https://store.steampowered.com/app/400170/The_Incredible_Adventures_of_Van_Helsing_Final_Cut/
-# The Incredible Adventures of Van Helsing https://store.steampowered.com/app/215530/The_Incredible_Adventures_of_Van_Helsing/
-# The Incredible Adventures of Van Helsing II https://store.steampowered.com/app/272470/The_Incredible_Adventures_of_Van_Helsing_II/
-{ "name": "VanHelsing.exe", "type": "Game" }
-{ "name": "VanHelsing_x64_11.exe", "type": "Game" }
-{ "name": "VanHelsing_x64_11_win10.exe", "type": "Game" }
-{ "name": "VanHelsing_x64_win10.exe", "type": "Game" }
-{ "name": "VanHelsing_x64.exe", "type": "Game" }
-{ "name": "VanHelsing_x86_11.exe", "type": "Game" }
-{ "name": "VanHelsing_x86_11_win10.exe", "type": "Game" }
-{ "name": "VanHelsing_x86_win10.exe", "type": "Game" }
-{ "name": "VanHelsing_x86.exe", "type": "Game" }
-{ "name": "GLVanHelsing_x86.exe", "type": "Game" }
-
 # The Isle https://store.steampowered.com/app/376210/The_Isle/
 { "name": "TheIsle.exe", "type": "Game" }
 { "name": "TheIsleClient-Win64-Shipping.exe", "type": "Game" }
@@ -314,7 +296,6 @@
 { "name": "The Jackbox Party Pack 4.exe", "type": "Game" }
 
 # The Joy of Creation https://gamejolt.com/games/tjocsm/139218
-# This is a FNAF (Five Nights at Freddy's) fangame
 { "name": "TJoC_SM.exe", "type": "Game" }
 { "name": "TJoC_SM-Win64-Shipping.exe", "type": "Game" }
 { "name": "TJoC_R.exe", "type": "Game" }

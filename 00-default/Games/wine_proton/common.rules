@@ -23,10 +23,149 @@
 # Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
 { "name": "AlienShooter.exe", "type": "Game" }
 
+# Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
+# Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
+{ "name": "dontstarve_steam.exe", "type": "Game" }
+{ "name": "dontstarve_steam_x64.exe", "type": "Game" }
+
+# Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
+# Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
+{ "name": "metro.exe", "type": "Game" }
+{ "name": "metro_benchmark.exe", "type": "Game" }
+
 # Baldur's Gate Store page is down https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "Baldur.exe", "type": "Game" }
+
+# Train Sim World 4 https://store.steampowered.com/app/2362300/Train_Sim_World_4/
+# Train Sim World 5 https://store.steampowered.com/app/2967990/Train_Sim_World_5/
+# Train Sim World 6 https://store.steampowered.com/app/3656800/Train_Sim_World_6/
+{ "name": "TrainSimWorld.exe", "type": "Game" }
+
+# SPORE https://store.steampowered.com/app/17390/SPORE/
+# SPORE Creepy & Cute Parts Pack https://store.steampowered.com/app/17440/SPORE_Creepy__Cute_Parts_Pack/
+# SPORE Galactic Adventures https://store.steampowered.com/app/24720/SPORE_Galactic_Adventures/
+{ "name": "SporeApp.exe", "type": "Game" }
+
+# DARK SOULS II https://store.steampowered.com/app/236430/DARK_SOULS_II/
+# DARK SOULS II: Scholar of the First Sin https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/
+{ "name": "DarkSoulsII.exe", "type": "Game" }
+
+# Dwarfs - F2P https://store.steampowered.com/app/213650/Dwarfs__F2P/
+# Dwarfs!? https://store.steampowered.com/app/35480/Dwarfs/
+{ "name": "Dwarfs.exe", "type": "Game" }
+
+# Dead Space https://store.steampowered.com/app/1693980/Dead_Space/
+# Dead Space (2008) https://store.steampowered.com/app/17470/Dead_Space_2008/
+{ "name": "Dead Space.exe", "type": "Game" }
+
+# Destroy All Humans! https://store.steampowered.com/app/803330/Destroy_All_Humans/
+# Destroy All Humans! 2 - Reprobed https://store.steampowered.com/app/1266700/Destroy_All_Humans_2__Reprobed/
+{ "name": "DH.exe", "type": "Game" }
+{ "name": "DH-Win64-Shipping.exe", "type": "Game" }
+
+# Divinity: Original Sin https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
+# Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
+# Divinity: Original Sin (Classic) https://store.steampowered.com/app/230230/Divinity_Original_Sin_Classic/
+{ "name": "EoCApp.exe", "type": "Game" }
+
+# Path of Exile https://store.steampowered.com/app/238960/Path_of_Exile/
+# Path of Exile 2 https://store.steampowered.com/app/2694490/Path_of_Exile_2/
+{ "name": "PathOfExile_x64Steam.exe", "type": "Game" }
+{ "name": "PathOfExileSteam.exe", "type": "Game" }
+{ "name": "PathOfExile_x64.exe", "type": "Game" }
+{ "name": "PathOfExile.exe", "type": "Game" }
+
+# Kingdom Come: Deliverance https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/
+# Kingdom Come: Deliverance II https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/
+{ "name": "KingdomCome.exe", "type": "Game" }
+
+# Contraband Police https://store.steampowered.com/app/756800/Contraband_Police/
+# Contraband Police: Prologue https://store.steampowered.com/app/1396240/Contraband_Police_Prologue/
+{ "name": "ContrabandPolice.exe", "type": "Game"}
+
+# Heroes of Might & Magic V https://store.steampowered.com/app/15170/Heroes_of_Might__Magic_V/
+# Heroes of Might & Magic V: Tribes of the East https://store.steampowered.com/app/15370/Heroes_of_Might__Magic_V_Tribes_of_the_East/
+{ "name": "H5_Game.exe", "type": "Game" }
+{ "name": "H5_MapEditor.exe", "type": "Game" }
+
+# Company of Heroes https://store.steampowered.com/app/228200/Company_of_Heroes/
+# Company of Heroes - Legacy Edition https://store.steampowered.com/app/4560/Company_of_Heroes__Legacy_Edition/
+# Company of Heroes: Opposing Fronts https://store.steampowered.com/app/9340/Company_of_Heroes_Opposing_Fronts/
+# Company of Heroes: Tales of Valor https://store.steampowered.com/app/20540/Company_of_Heroes_Tales_of_Valor/
+{ "name": "RelicCOH.exe", "type": "Game"}
+
+# Infestation: The New Beginning https://store.steampowered.com/app/226700/Infestation_The_New_Beginning/
+# Infestation: The New Z https://store.steampowered.com/app/555570/Infestation_The_New_Z/
+{ "name": "InfestationLauncher.exe", "type": "Game" }
+{ "name": "Infestation.exe", "type": "Game" }
+
+# Primal Carnage: Extinction https://store.steampowered.com/app/321360/Primal_Carnage_Extinction/
+# Primal Carnage https://store.steampowered.com/app/215470/Primal_Carnage/
+{ "name": "PrimalCarnageGame.exe", "type": "Game" }
+
+# King's Bounty: The Legend https://store.steampowered.com/app/25900/Kings_Bounty_The_Legend/
+# King's Bounty: Armored Princess https://store.steampowered.com/app/3170/Kings_Bounty_Armored_Princess/
+{ "name": "KB.exe", "type": "Game" }
+
+# Legacy of Kain: Defiance Remastered https://store.steampowered.com/app/3747730/Legacy_of_Kain_Defiance_Remastered/
+# Legacy of Kain: Defiance (2003) https://store.steampowered.com/app/224300/Legacy_of_Kain_Defiance_2003/
+{ "name": "defiance.exe", "type": "Game" }
+
+# MechWarrior Online Legends https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
+# MechWarrior Online Solaris 7 https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
+{ "name": "MWOClient.exe", "type": "Game" }
+
+# Majesty 2 https://store.steampowered.com/app/25980/Majesty_2/
+# Majesty 2 Collection https://store.steampowered.com/app/73020/Majesty_2_Collection/
+{ "name": "M2Editor.exe", "type": "Game" }
+{ "name": "Majesty2.exe", "type": "Game" }
+
+# Life is Strange: Before the Storm https://store.steampowered.com/app/554620/Life_is_Strange_Before_the_Storm/
+# Life is Strange: Before the Storm Remastered https://store.steampowered.com/app/1265930/Life_is_Strange_Before_the_Storm_Remastered/
+{ "name": "Life is Strange - Before the Storm.exe", "type": "Game" }
+
+# Scribblenauts Unmasked: A DC Comics Adventure https://store.steampowered.com/app/249870/Scribblenauts_Unmasked_A_DC_Comics_Adventure/
+# Scribblenauts Unlimited https://store.steampowered.com/app/218680/Scribblenauts_Unlimited/
+{ "name": "Scribble.exe", "type": "Game" }
+
+# MXGP - The Official Motocross Videogame https://store.steampowered.com/app/256370/MXGP__The_Official_Motocross_Videogame/
+# MXGP 24: The Official Game https://store.steampowered.com/app/2603040/MXGP_24_The_Official_Game/
+{ "name": "MXGP.exe", "type": "Game" }
+
+# Necromunda: Hired Gun https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
+# Necromunda: Underhive Wars https://store.steampowered.com/app/566440/Necromunda_Underhive_Wars/
+{ "name": "Necromunda.exe", "type": "Game"}
+{ "name": "Necromunda-Win64-Shipping.exe", "type": "Game"}
+
+# Train Sim World 2 https://store.steampowered.com/app/1282590/Train_Sim_World_2/
+# Train Sim World 2020 https://store.steampowered.com/app/530070/Train_Sim_World_2020/
+{ "name": "TS2Prototype.exe", "type": "Game" }
+{ "name": "TS2Prototype-Win64-Shipping.exe", "type": "Game" }
+
+# The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
+# The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
+{ "name": "SkyrimSE.exe", "type": "Game" }
+{ "name": "TESV.exe", "type": "Game" }
+
+# State of Decay https://store.steampowered.com/app/241540/State_of_Decay/
+# State of Decay: YOSE https://store.steampowered.com/app/329430/State_of_Decay_YOSE/
+{ "name": "StateOfDecay.exe", "type": "Game" }
+
+# The Incredible Adventures of Van Helsing: Final Cut https://store.steampowered.com/app/400170/The_Incredible_Adventures_of_Van_Helsing_Final_Cut/
+# The Incredible Adventures of Van Helsing https://store.steampowered.com/app/215530/The_Incredible_Adventures_of_Van_Helsing/
+# The Incredible Adventures of Van Helsing II https://store.steampowered.com/app/272470/The_Incredible_Adventures_of_Van_Helsing_II/
+{ "name": "VanHelsing.exe", "type": "Game" }
+{ "name": "VanHelsing_x64_11.exe", "type": "Game" }
+{ "name": "VanHelsing_x64_11_win10.exe", "type": "Game" }
+{ "name": "VanHelsing_x64_win10.exe", "type": "Game" }
+{ "name": "VanHelsing_x64.exe", "type": "Game" }
+{ "name": "VanHelsing_x86_11.exe", "type": "Game" }
+{ "name": "VanHelsing_x86_11_win10.exe", "type": "Game" }
+{ "name": "VanHelsing_x86_win10.exe", "type": "Game" }
+{ "name": "VanHelsing_x86.exe", "type": "Game" }
+{ "name": "GLVanHelsing_x86.exe", "type": "Game" }
 
 # Wonderful Everyday Down the Rabbit-Hole https://store.steampowered.com/app/658620/Wonderful_Everyday_Down_the_RabbitHole/
 # Go! Go! Nippon! ~My First Trip to Japan~ https://store.steampowered.com/app/251870/Go_Go_Nippon_My_First_Trip_to_Japan/

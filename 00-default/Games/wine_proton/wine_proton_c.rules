@@ -591,12 +591,6 @@
 # Commander Quest https://store.steampowered.com/app/2697930/Commander_Quest/
 { "name": "CommanderGame.exe", "type": "Game" }
 
-# Company of Heroes https://store.steampowered.com/app/228200/Company_of_Heroes/
-# Company of Heroes - Legacy Edition https://store.steampowered.com/app/4560/Company_of_Heroes__Legacy_Edition/
-# Company of Heroes: Opposing Fronts https://store.steampowered.com/app/9340/Company_of_Heroes_Opposing_Fronts/
-# Company of Heroes: Tales of Valor https://store.steampowered.com/app/20540/Company_of_Heroes_Tales_of_Valor/
-{ "name": "RelicCOH.exe", "type": "Game"}
-
 # Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name": "RelicCoH2.exe", "type": "Game" }
 
@@ -638,10 +632,6 @@
 
 # Contagion https://store.steampowered.com/app/238430/Contagion/
 { "name": "contagion.exe", "type": "Game" }
-
-# Contraband Police https://store.steampowered.com/app/756800/Contraband_Police/
-# Contraband Police: Prologue https://store.steampowered.com/app/1396240/Contraband_Police_Prologue/
-{ "name": "ContrabandPolice.exe", "type": "Game"}
 
 # Contractors https://store.steampowered.com/app/963930/Contractors/
 { "name": "Contractors.exe", "type": "Game" }

@@ -232,7 +232,6 @@
 { "name": "Shipping-ThiefGame.exe", "type": "Game" }
 
 # Thief II: The Metal Age https://store.steampowered.com/app/211740/Thief_II_The_Metal_Age/
-# https://www.ttlg.com/forums/showthread.php?t=146448/
 { "name": "thief2_no_ddfix.exe", "type": "Game" }
 { "name": "thief2.exe", "type": "Game" }
 { "name": "Thief2.exe", "type": "Game" }
@@ -242,7 +241,6 @@
 { "name": "T3Main.exe", "type": "Game" }
 
 # Thief Gold https://store.steampowered.com/app/211600/Thief_Gold/
-# https://www.ttlg.com/forums/showthread.php?t=134733
 { "name": "THIEF.EXE", "type": "Game" }
 { "name": "THIEF_no_ddfix.EXE", "type": "Game" }
 
@@ -671,16 +669,6 @@
 { "name": "RailWorks64.exe", "type": "Game" }
 { "name": "RailWorksDX12_64.exe", "type": "Game" }
 { "name": "Railworks.exe", "type": "Game" }
-
-# Train Sim World 2 https://store.steampowered.com/app/1282590/Train_Sim_World_2/
-# Train Sim World 2020 https://store.steampowered.com/app/530070/Train_Sim_World_2020/
-{ "name": "TS2Prototype.exe", "type": "Game" }
-{ "name": "TS2Prototype-Win64-Shipping.exe", "type": "Game" }
-
-# Train Sim World 4 https://store.steampowered.com/app/2362300/Train_Sim_World_4/
-# Train Sim World 5 https://store.steampowered.com/app/2967990/Train_Sim_World_5/
-# Train Sim World 6 https://store.steampowered.com/app/3656800/Train_Sim_World_6/
-{ "name": "TrainSimWorld.exe", "type": "Game" }
 
 # Trainz Simulator 12 https://store.steampowered.com/app/24670/Trainz_Simulator_12/
 { "name": "trainz.exe", "type": "Game" }

@@ -69,10 +69,6 @@
 # Darksiders Warmastered Edition https://store.steampowered.com/app/462780/Darksiders_Warmastered_Edition/
 { "name": "darksiders1.exe", "type": "Game" }
 
-# DARK SOULS II https://store.steampowered.com/app/236430/DARK_SOULS_II/
-# DARK SOULS II: Scholar of the First Sin https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/
-{ "name": "DarkSoulsII.exe", "type": "Game" }
-
 # DARK SOULS III https://store.steampowered.com/app/374320/DARK_SOULS_III/
 { "name": "DarkSoulsIII.exe", "type": "Game" }
 
@@ -228,10 +224,6 @@
 { "name": "DeadSignal.exe", "type": "Game" }
 { "name": "DeadSignal-Win64-Shipping.exe", "type": "Game" }
 
-# Dead Space https://store.steampowered.com/app/1693980/Dead_Space/
-# Dead Space (2008) https://store.steampowered.com/app/17470/Dead_Space_2008/
-{ "name": "Dead Space.exe", "type": "Game" }
-
 # Dead Space 2 https://store.steampowered.com/app/47780/Dead_Space_2/
 { "name": "deadspace2.exe", "type": "Game" }
 
@@ -383,11 +375,6 @@
 
 # Destiny 2 https://store.steampowered.com/app/1085660/Destiny_2/
 { "name": "destiny2.exe", "type": "Game" }
-
-# Destroy All Humans! https://store.steampowered.com/app/803330/Destroy_All_Humans/
-# Destroy All Humans! 2 - Reprobed https://store.steampowered.com/app/1266700/Destroy_All_Humans_2__Reprobed/
-{ "name": "DH.exe", "type": "Game" }
-{ "name": "DH-Win64-Shipping.exe", "type": "Game" }
 
 # Desynced https://store.steampowered.com/app/1450900/Desynced/
 { "name": "Desynced.exe", "type": "Game" }
@@ -582,11 +569,6 @@
 # Diplomacy is Not an Option https://store.steampowered.com/app/1272320/Diplomacy_is_Not_an_Option/
 { "name": "Diplomacy is Not an Option.exe", "type": "Game" }
 
-# Divinity: Original Sin https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
-# Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
-# Divinity: Original Sin (Classic) https://store.steampowered.com/app/230230/Divinity_Original_Sin_Classic/
-{ "name": "EoCApp.exe", "type": "Game" }
-
 # Divinity II: Developer's Cut https://store.steampowered.com/app/219780/Divinity_II_Developers_Cut/
 { "name": "Divinity2.exe", "type": "Game" }
 
@@ -627,11 +609,6 @@
 
 # Do Not Feed the Monkeys https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/
 { "name": "dnftm.exe", "type": "Game" }
-
-# Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
-# Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
-{ "name": "dontstarve_steam.exe", "type": "Game" }
-{ "name": "dontstarve_steam_x64.exe", "type": "Game" }
 
 # Don't Stop, Girlypop! https://store.steampowered.com/app/2610650/Dont_Stop_Girlypop/
 { "name": "INCOLATUS.exe", "type": "Game" }
@@ -959,10 +936,6 @@
 
 # Dwarf Fortress https://store.steampowered.com/app/975370/Dwarf_Fortress/
 { "name": "Dwarf Fortress.exe", "type": "Game" }
-
-# Dwarfs - F2P https://store.steampowered.com/app/213650/Dwarfs__F2P/
-# Dwarfs!? https://store.steampowered.com/app/35480/Dwarfs/
-{ "name": "Dwarfs.exe", "type": "Game" }
 
 # DX-Ball 2: 20th Anniversary Edition https://store.steampowered.com/app/922400/DXBall_2_20th_Anniversary_Edition/
 { "name": "DXBall2.exe", "type": "Game" }

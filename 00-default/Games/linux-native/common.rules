@@ -44,6 +44,24 @@
 # X-Blades https://store.steampowered.com/app/7510/XBlades/
 { "name": "RunGame", "type": "Game" }
 
+# Baldur's Gate Store page is down https://store.steampowered.com/app/22828/
+# Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
+{ "name": "BaldursGate", "type": "Game" }
+
+# Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
+# Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
+{ "name": "dontstarve_steam", "type": "Game" }
+{ "name": "dontstarve_steam_x64", "type": "Game" }
+
+# Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
+# Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
+{ "name": "metro", "type": "Game" }
+{ "name": "benchmark.sh", "type": "Game" }
+
+# Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
+# X-Blades https://store.steampowered.com/app/7510/XBlades/
+{ "name": "RunGameWithoutLauncher", "type": "Game" }
+
 # Sanctum https://store.steampowered.com/app/91600/Sanctum/
 # Sanctum 2 https://store.steampowered.com/app/210770/Sanctum_2/
 { "name": "SanctumGame-Win32-Shipping.exe", "type": "Game" }

@@ -142,7 +142,6 @@
 # Heartopia https://store.steampowered.com/app/4025700/Heartopia/
 { "name": "xdt.exe", "type": "Game" }
 
-# Hearts of Iron IV https://www.paradoxinteractive.com/games/hearts-of-iron-iv
 # Hearts of Iron IV https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 { "name": "hoi4.exe", "type": "Game" }
 
@@ -249,11 +248,6 @@
 { "name": "HOMM3Launcher.exe", "type": "Game" }
 { "name": "HOMM3 2.0.exe", "type": "Game" }
 { "name": "mapEditor.exe", "type": "Game" }
-
-# Heroes of Might & Magic V https://store.steampowered.com/app/15170/Heroes_of_Might__Magic_V/
-# Heroes of Might & Magic V: Tribes of the East https://store.steampowered.com/app/15370/Heroes_of_Might__Magic_V_Tribes_of_the_East/
-{ "name": "H5_Game.exe", "type": "Game" }
-{ "name": "H5_MapEditor.exe", "type": "Game" }
 
 # Heroes of the Three Kingdoms 7 https://store.steampowered.com/app/1437880/Heroes_of_the_Three_Kingdoms_7/
 { "name": "LaunchSango.exe", "type": "Game" }
