@@ -20,6 +20,9 @@
 # Xenonauts https://store.steampowered.com/app/223830/Xenonauts/
 { "name": "xenonauts.exe", "type": "Game" }
 
+# Xenonauts 2 https://store.steampowered.com/app/538030/Xenonauts_2/
+{ "name": "Xenonauts2.exe", "type": "Game" }
+
 # XERA: Survival https://store.steampowered.com/app/625340/XERA_Survival/
 { "name": "XERA_Launcher.exe", "type": "Game" }
 { "name": "XERA-Win64-Shipping.exe", "type": "Game" }
@@ -40,5 +43,3 @@
 { "name": "swd3e.exe", "type": "Game" }
 { "name": "Ghost.exe", "type": "Game" }
 
-# Xenonauts 2 https://store.steampowered.com/app/538030/Xenonauts_2/
-{ "name": "Xenonauts2.exe", "type": "Game" }

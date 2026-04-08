@@ -52,14 +52,14 @@
 { "name": "ofAshAndSteelGame.exe", "type": "Game" }
 { "name": "ofAshAndSteelGame-Win64-Shipping.exe", "type": "Game" }
 
-# Of Orcs And Men https://store.steampowered.com/app/216910/Of_Orcs_And_Men/
-{ "name": "OfOrcsAndMen_Steam.exe", "type": "Game" }
-
 # Off The Grid https://store.steampowered.com/app/3659280/Off_The_Grid/
 { "name": "G01Client-Win64-Shipping.exe", "type": "Game" }
 
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 { "name": "Offworld.exe", "type": "Game" }
+
+# Of Orcs And Men https://store.steampowered.com/app/216910/Of_Orcs_And_Men/
+{ "name": "OfOrcsAndMen_Steam.exe", "type": "Game" }
 
 # Ogu and the Secret Forest https://store.steampowered.com/app/1985960/Ogu_and_the_Secret_Forest/
 { "name": "OguForest.exe", "type": "Game" }
@@ -85,25 +85,14 @@
 # Omerta - City of Gangsters https://store.steampowered.com/app/208520/Omerta__City_of_Gangsters/
 { "name": "OmertaSteam.exe", "type": "Game" }
 
-# OMSI 2: Steam Edition https://store.steampowered.com/app/252530/OMSI_2_Steam_Edition/
-{ "name": "Omsi.exe", "type": "Game" }
-
 # OMORI https://store.steampowered.com/app/1150690/OMORI/
 { "name": "OMORI.exe", "type": "Game" }
 
+# OMSI 2: Steam Edition https://store.steampowered.com/app/252530/OMSI_2_Steam_Edition/
+{ "name": "Omsi.exe", "type": "Game" }
+
 # Once Human https://store.steampowered.com/app/2139460/Once_Human/
 { "name": "ONCE_HUMAN.exe", "type": "Game" }
-
-# OneShot https://store.steampowered.com/app/420530/OneShot/
-{ "name": "oneshot.exe", "type": "Game" }
-
-# Outlast https://store.steampowered.com/app/238320/Outlast/
-{ "name": "OutlastLauncher.exe", "type": "BG_CPUIO" }
-{ "name": "OLGame.exe", "type": "Game" }
-{ "name": "OLGame_R.exe", "type": "Game" }
-
-# Overcooked! 2 https://store.steampowered.com/app/728880/Overcooked_2/
-{ "name": "Overcooked2.exe", "type": "Game" }
 
 # Once in Yaissor https://store.steampowered.com/app/553790/Once_in_Yaissor/
 { "name": "OIY.exe", "type": "Game" }
@@ -123,27 +112,30 @@
 # ONE PIECE Bounty Rush https://store.steampowered.com/app/2918150/ONE_PIECE_Bounty_Rush/
 { "name": "BountyRush.exe", "type": "Game" }
 
-# ONE PIECE: PIRATE WARRIORS 4 https://store.steampowered.com/app/1089090/ONE_PIECE_PIRATE_WARRIORS_4/
-{ "name": "OPPW4.exe", "type": "Game" }
+# One Piece Burning Blood https://store.steampowered.com/app/425220/One_Piece_Burning_Blood/
+{ "name": "OPBB.exe", "type": "Game" }
 
 # ONE PIECE ODYSSEY https://store.steampowered.com/app/814000/ONE_PIECE_ODYSSEY/
 { "name": "odyssey.exe", "type": "Game" }
 
-# ONE PIECE World Seeker https://store.steampowered.com/app/755500/ONE_PIECE_World_Seeker/
-{ "name": "OPWS.exe", "type": "Game" }
-
 # One Piece Pirate Warriors 3 https://store.steampowered.com/app/331600/One_Piece_Pirate_Warriors_3/
 { "name": "oppw3.exe", "type": "Game" }
 
+# ONE PIECE: PIRATE WARRIORS 4 https://store.steampowered.com/app/1089090/ONE_PIECE_PIRATE_WARRIORS_4/
+{ "name": "OPPW4.exe", "type": "Game" }
+
 # One Piece: Unlimited World Red - Deluxe Edition https://store.steampowered.com/app/571720/One_Piece_Unlimited_World_Red__Deluxe_Edition/
 { "name": "OPU3.exe", "type": "Game" }
+
+# ONE PIECE World Seeker https://store.steampowered.com/app/755500/ONE_PIECE_World_Seeker/
+{ "name": "OPWS.exe", "type": "Game" }
 
 # ONE PUNCH MAN: A HERO NOBODY KNOWS https://store.steampowered.com/app/991560/ONE_PUNCH_MAN_A_HERO_NOBODY_KNOWS/
 { "name": "ONE PUNCH MAN A HERO NOBODY KNOWS.exe", "type": "Game" }
 { "name": "OPM.exe", "type": "Game" }
 
-# One Piece Burning Blood https://store.steampowered.com/app/425220/One_Piece_Burning_Blood/
-{ "name": "OPBB.exe", "type": "Game" }
+# OneShot https://store.steampowered.com/app/420530/OneShot/
+{ "name": "oneshot.exe", "type": "Game" }
 
 # OneShot: World Machine Edition https://store.steampowered.com/app/2915460/OneShot_World_Machine_Edition/
 { "name": "OneShotMG.exe", "type": "Game" }
@@ -154,20 +146,17 @@
 # One Way Heroics https://store.steampowered.com/app/266210/One_Way_Heroics/
 { "name": "Game_Normal.exe", "type": "Game" }
 
-# On The Road - The Truck Simulator https://store.steampowered.com/app/285380/On_The_Road__The_Truck_Simulator/
-{ "name": "OnTheRoad.exe", "type": "Game" }
-
 # Onimusha 2: Samurai's Destiny https://store.steampowered.com/app/3046600/Onimusha_2_Samurais_Destiny/
 { "name": "Onimusha2.exe", "type": "Game" }
 
 # Onmyoji https://store.steampowered.com/app/551170/Onmyoji/
 { "name": "onmyoji.exe", "type": "Game" }
 
+# On The Road - The Truck Simulator https://store.steampowered.com/app/285380/On_The_Road__The_Truck_Simulator/
+{ "name": "OnTheRoad.exe", "type": "Game" }
+
 # Oozi: Earth Adventure https://store.steampowered.com/app/257990/Oozi_Earth_Adventure/
 { "name": "Oozi.exe", "type": "Game" }
-
-# Operation: Tango https://store.steampowered.com/app/1335790/Operation_Tango/
-{ "name": "Operation Tango.exe", "type": "Game" }
 
 # Operation Flashpoint: Dragon Rising https://store.steampowered.com/app/12830/Operation_Flashpoint_Dragon_Rising/
 { "name": "OFDR.exe", "type": "Game" }
@@ -178,6 +167,9 @@
 # Operation: Harsh Doorstop https://store.steampowered.com/app/736590/Operation_Harsh_Doorstop/
 { "name": "HarshDoorstop-Win64-Shipping.exe", "type": "Game" }
 
+# Operation: Tango https://store.steampowered.com/app/1335790/Operation_Tango/
+{ "name": "Operation Tango.exe", "type": "Game" }
+
 # OPERATOR https://store.steampowered.com/app/1913370/OPERATOR/
 { "name": "OPERATOR.exe", "type": "Game" }
 
@@ -186,25 +178,6 @@
 
 # Orb of Creation https://store.steampowered.com/app/1910680/Orb_of_Creation/
 { "name": "Orb Of Creation.exe", "type": "Game" }
-
-# Organ Trail: Director's Cut https://store.steampowered.com/app/233740/Organ_Trail_Directors_Cut/
-{ "name": "OrganTrail.exe", "type": "Game" }
-
-# Original War https://store.steampowered.com/app/235320/Original_War/
-{ "name": "owar.exe", "type": "Game" }
-{ "name": "Owar.exe", "type": "Game" }
-
-# ORION: Prelude https://store.steampowered.com/app/104900/ORION_Prelude/
-{ "name": "DinoHordeGame.exe", "type": "Game" }
-
-# Ori and the Blind Forest: Definitive Edition https://store.steampowered.com/app/387290/Ori_and_the_Blind_Forest_Definitive_Edition/
-{ "name": "oriDE.exe", "type": "Game" }
-
-# Ori and the Blind Forest https://store.steampowered.com/app/261570/Ori_and_the_Blind_Forest/
-{ "name": "Ori.exe", "type": "Game" }
-
-# Ori and the Will of the Wisps https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/
-{ "name": "oriwotw.exe", "type": "Game" }
 
 # Orcs Must Die! https://store.steampowered.com/app/102600/Orcs_Must_Die/
 { "name": "orcsmustdie.exe", "type": "Game" }
@@ -218,6 +191,25 @@
 # Orcs Must Die! Deathtrap https://store.steampowered.com/app/2273980/Orcs_Must_Die_Deathtrap/
 { "name": "Orcs Must Die! Deathtrap.exe", "type": "Game" }
 { "name": "OMDDSteam-Win64-Shipping.exe", "type": "Game" }
+
+# Organ Trail: Director's Cut https://store.steampowered.com/app/233740/Organ_Trail_Directors_Cut/
+{ "name": "OrganTrail.exe", "type": "Game" }
+
+# Ori and the Blind Forest https://store.steampowered.com/app/261570/Ori_and_the_Blind_Forest/
+{ "name": "Ori.exe", "type": "Game" }
+
+# Ori and the Blind Forest: Definitive Edition https://store.steampowered.com/app/387290/Ori_and_the_Blind_Forest_Definitive_Edition/
+{ "name": "oriDE.exe", "type": "Game" }
+
+# Ori and the Will of the Wisps https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/
+{ "name": "oriwotw.exe", "type": "Game" }
+
+# Original War https://store.steampowered.com/app/235320/Original_War/
+{ "name": "owar.exe", "type": "Game" }
+{ "name": "Owar.exe", "type": "Game" }
+
+# ORION: Prelude https://store.steampowered.com/app/104900/ORION_Prelude/
+{ "name": "DinoHordeGame.exe", "type": "Game" }
 
 # Orwell: Ignorance is Strength https://store.steampowered.com/app/633060/Orwell_Ignorance_is_Strength/
 { "name": "Ignorance.exe", "type": "Game" }
@@ -244,36 +236,25 @@
 # OTXO https://store.steampowered.com/app/1608640/OTXO/
 { "name": "OTXO_Release.exe", "type": "Game" }
 
+# OUTBRK https://store.steampowered.com/app/1107320/OUTBRK/
+{ "name": "Outbrk.exe", "type": "Game" }
+
 # Outcast - Second Contact https://store.steampowered.com/app/618970/Outcast__Second_Contact/
 { "name": "outcast.exe", "type": "Game" }
 
 # Outer Wilds https://store.steampowered.com/app/753640/Outer_Wilds/
 { "name": "OuterWilds.exe", "type": "Game" }
 
-# Outpath https://store.steampowered.com/app/2237970/Outpath/
-{ "name": "Outpath.exe", "type": "Game" }
+# Outhold https://store.steampowered.com/app/3767740/Outhold/
+{ "name": "outhold_windows.exe", "type": "Game" }
 
-# Outpost: Infinity Siege https://store.steampowered.com/app/1566690/Outpost_Infinity_Siege/
-{ "name": "U01.exe", "type": "Game" }
-{ "name": "U01-Win64-Shipping.exe", "type": "Game" }
-
-# OUTRIDERS https://store.steampowered.com/app/680420/OUTRIDERS/
-{ "name": "OUTRIDERS-Win64-Shipping.exe", "type": "Game" }
-
-# Outward Definitive Edition https://store.steampowered.com/app/794260/Outward_Definitive_Edition/
-{ "name": "Outward.exe", "type": "Game" }
-
-# OUTBRK https://store.steampowered.com/app/1107320/OUTBRK/
-{ "name": "Outbrk.exe", "type": "Game" }
+# Outlast https://store.steampowered.com/app/238320/Outlast/
+{ "name": "OutlastLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "OLGame.exe", "type": "Game" }
+{ "name": "OLGame_R.exe", "type": "Game" }
 
 # Outlast 2 https://store.steampowered.com/app/414700/Outlast_2/
 { "name": "Outlast2.exe", "type": "Game" }
-
-# Out There Somewhere https://store.steampowered.com/app/263980/Out_There_Somewhere/
-{ "name": "ots.exe", "type": "Game" }
-
-# Outhold https://store.steampowered.com/app/3767740/Outhold/
-{ "name": "outhold_windows.exe", "type": "Game" }
 
 # Out of Ore https://store.steampowered.com/app/2009350/Out_of_Ore/
 { "name": "OutOfOre.exe", "type": "Game" }
@@ -309,11 +290,33 @@
 # Out of the Park Baseball 26 https://store.steampowered.com/app/3116890/Out_of_the_Park_Baseball_26/
 { "name": "ootp26.exe", "type": "Game" }
 
+# Outpath https://store.steampowered.com/app/2237970/Outpath/
+{ "name": "Outpath.exe", "type": "Game" }
+
+# Outpost: Infinity Siege https://store.steampowered.com/app/1566690/Outpost_Infinity_Siege/
+{ "name": "U01.exe", "type": "Game" }
+{ "name": "U01-Win64-Shipping.exe", "type": "Game" }
+
+# OUTRIDERS https://store.steampowered.com/app/680420/OUTRIDERS/
+{ "name": "OUTRIDERS-Win64-Shipping.exe", "type": "Game" }
+
+# Out There Somewhere https://store.steampowered.com/app/263980/Out_There_Somewhere/
+{ "name": "ots.exe", "type": "Game" }
+
+# Outward Definitive Edition https://store.steampowered.com/app/794260/Outward_Definitive_Edition/
+{ "name": "Outward.exe", "type": "Game" }
+
+# Over 9000 Zombies! https://store.steampowered.com/app/273500/Over_9000_Zombies/
+{ "name": "Over9000Zombies.exe", "type": "Game" }
+
 # Overcast - Walden and the Werewolf https://store.steampowered.com/app/293180/Overcast__Walden_and_the_Werewolf/
 { "name": "Overcast - Walden and the Werewolf.exe", "type": "Game" }
 
 # Overcooked https://store.steampowered.com/app/448510/Overcooked/
 { "name": "Overcooked.exe", "type": "Game" }
+
+# Overcooked! 2 https://store.steampowered.com/app/728880/Overcooked_2/
+{ "name": "Overcooked2.exe", "type": "Game" }
 
 # Overcooked! All You Can Eat https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/
 { "name": "Overcooked All You Can Eat.exe", "type": "Game" }
@@ -331,9 +334,6 @@
 { "name": "Buggy2.exe", "type": "Game" }
 { "name": "Buggy2-Win64-Shipping.exe", "type": "Game" }
 
-# Over 9000 Zombies! https://store.steampowered.com/app/273500/Over_9000_Zombies/
-{ "name": "Over9000Zombies.exe", "type": "Game" }
-
 # Over The Top: WWI https://store.steampowered.com/app/2778610/Over_The_Top_WWI/
 { "name": "Over_The_Top_WWI.exe", "type": "Game" }
 
@@ -345,3 +345,4 @@
 
 # Oxygen Not Included https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded.exe", "type": "Game" }
+

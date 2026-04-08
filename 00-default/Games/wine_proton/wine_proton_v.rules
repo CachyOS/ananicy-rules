@@ -8,6 +8,9 @@
 # VA-11 Hall-A: Cyberpunk Bartender Action https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
 { "name": "VA-11 Hall A.exe", "type": "Game" }
 
+# Vagrus - The Riven Realms https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/
+{ "name": "Vagrus.exe", "type": "Game" }
+
 # VAIL https://store.steampowered.com/app/801550/VAIL_Extraction/
 { "name": "VAIL.exe", "type": "Game" }
 
@@ -55,6 +58,10 @@
 # Vector https://store.steampowered.com/app/248970/Vector/
 { "name": "Vector.exe", "type": "Game" }
 
+# VEIN https://store.steampowered.com/app/1857950/VEIN/
+{ "name": "Vein.exe", "type": "Game" }
+{ "name": "Vein-Win64-Test.exe", "type": "Game" }
+
 # Velvet Assassin https://store.steampowered.com/app/16720/Velvet_Assassin/
 { "name": "replay.exe", "type": "Game" }
 
@@ -67,12 +74,11 @@
 # VERGE:Lost chapter https://store.steampowered.com/app/400740/VERGELost_chapter/
 { "name": "VERGE.exe", "type": "Game" }
 
+# Victoria 3 https://store.steampowered.com/app/529340/Victoria_3/
+{ "name": "victoria3.exe", "type": "Game" }
+
 # Victoria II https://store.steampowered.com/app/42960/Victoria_II/
 { "name": "victoria2.exe", "type": "Game" }
-
-# Victoria 3 https://www.paradoxinteractive.com/games/victoria-3
-# https://store.steampowered.com/app/529340/Victoria_3/
-{ "name": "victoria3.exe", "type": "Game" }
 
 # Viewfinder https://store.steampowered.com/app/1382070/Viewfinder/
 { "name": "Viewfinder.exe", "type": "Game" }
@@ -92,16 +98,6 @@
 
 # Viractal: Will You Trust Your Party? https://store.steampowered.com/app/2909580/Viractal_Will_You_Trust_Your_Party/
 { "name": "VIractal.exe", "type": "Game" }
-
-# Vagrus - The Riven Realms https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/
-{ "name": "Vagrus.exe", "type": "Game" }
-
-# VEIN https://store.steampowered.com/app/1857950/VEIN/
-{ "name": "Vein.exe", "type": "Game" }
-{ "name": "Vein-Win64-Test.exe", "type": "Game" }
-
-# VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
-{ "name": "VVVVVV.exe", "type": "Game" }
 
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_WINDOWS.exe", "type": "Game" }
@@ -178,3 +174,7 @@
 
 # VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
 { "name": "VTOLVR.exe", "type": "Game" }
+
+# VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
+{ "name": "VVVVVV.exe", "type": "Game" }
+

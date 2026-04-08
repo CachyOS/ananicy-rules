@@ -5,6 +5,11 @@
 
 ### J ###
 
+# Jabroni Brawl: Episode 3 https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
+{ "name": "dmxconvert.exe", "type": "Game" }
+{ "name": "jbep3.exe", "type": "Game" }
+{ "name": "vpk.exe", "type": "Game" }
+
 # Jackal https://store.steampowered.com/app/3124230/Jackal/
 { "name": "jackal.exe", "type": "Game" }
 
@@ -34,14 +39,6 @@
 { "name": "Jazzpunk.exe", "type": "Game" }
 { "name": "jazzpunk.exe", "type": "Game" }
 
-# Jabroni Brawl: Episode 3 https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
-{ "name": "dmxconvert.exe", "type": "Game" }
-{ "name": "jbep3.exe", "type": "Game" }
-{ "name": "vpk.exe", "type": "Game" }
-
-# Jets'n'Guns Gold https://store.steampowered.com/app/262260/JetsnGuns_Gold/
-{ "name": "jng_gold.exe", "type": "Game" }
-
 # JDM: Japanese Drift Master https://store.steampowered.com/app/1153410/JDM_Japanese_Drift_Master/
 { "name": "JDM.exe", "type": "Game" }
 
@@ -51,6 +48,9 @@
 # Jet Set Radio https://store.steampowered.com/app/205950/Jet_Set_Radio/
 { "name": "jetsetradio.exe", "type": "Game" }
 { "name": "jsrsetup.exe", "type": "Game" }
+
+# Jets'n'Guns Gold https://store.steampowered.com/app/262260/JetsnGuns_Gold/
+{ "name": "jng_gold.exe", "type": "Game" }
 
 # JIANGHU CHRONICLES https://store.steampowered.com/app/1909840/JIANGHU_CHRONICLES/
 { "name": "JHL.exe", "type": "Game" }
@@ -86,15 +86,18 @@
 # Jujutsu Kaisen Cursed Clash https://store.steampowered.com/app/1877020/Jujutsu_Kaisen_Cursed_Clash/
 { "name": "Jujutsu Kaisen CC.exe", "type": "Game" }
 
-# Jump Space https://store.steampowered.com/app/1757300/Jump_Space/
-{ "name": "Jump Space.exe", "type": "Game" }
-
 # JUMP FORCE https://store.steampowered.com/app/816020/JUMP_FORCE/
 { "name": "JUMP_FORCE.exe", "type": "Game" }
 { "name": "JUMP_FORCE-Win64-Shipping.exe", "type": "Game" }
 
 # Jump King https://store.steampowered.com/app/1061090/Jump_King/
 { "name": "JumpKing.exe", "type": "Game" }
+
+# Jump Space https://store.steampowered.com/app/1757300/Jump_Space/
+{ "name": "Jump Space.exe", "type": "Game" }
+
+# Jupiter Hell https://store.steampowered.com/app/811320/Jupiter_Hell/
+{ "name": "jh.exe", "type": "Game" }
 
 # Jurassic Park: The Game https://store.steampowered.com/app/201830/Jurassic_Park_The_Game/
 { "name": "JurassicPark100.exe", "type": "Game" }
@@ -124,5 +127,3 @@
 # Just Cause 4 Reloaded https://store.steampowered.com/app/517630/Just_Cause_4_Reloaded/
 { "name": "JustCause4.exe", "type": "Game" }
 
-# Jupiter Hell https://store.steampowered.com/app/811320/Jupiter_Hell/
-{ "name": "jh.exe", "type": "Game" }

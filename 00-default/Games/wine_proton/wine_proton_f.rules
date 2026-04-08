@@ -5,18 +5,6 @@
 
 ### F ###
 
-# F1 22 https://store.steampowered.com/app/1692250/F1_22/
-{ "name": "F1_22.exe", "type": "Game" }
-
-# F1 23 https://store.steampowered.com/app/2108330/F1_23/
-{ "name": "F1_23.exe", "type": "Game" }
-
-# F1 24 https://store.steampowered.com/app/2488620/F1_24/
-{ "name": "F1_24.exe", "type": "Game" }
-
-# F1 25 https://store.steampowered.com/app/3059520/F1_25/
-{ "name": "F1_25.exe", "type": "Game" }
-
 # F1 2012 https://store.steampowered.com/app/208500/F1_2012/
 { "name": "F1_2012.exe", "type": "Game" }
 
@@ -42,6 +30,18 @@
 # F1 2021 https://store.steampowered.com/app/1134570/F1_2021/
 { "name": "F1_2021_dx12.exe", "type": "Game" }
 
+# F1 22 https://store.steampowered.com/app/1692250/F1_22/
+{ "name": "F1_22.exe", "type": "Game" }
+
+# F1 23 https://store.steampowered.com/app/2108330/F1_23/
+{ "name": "F1_23.exe", "type": "Game" }
+
+# F1 24 https://store.steampowered.com/app/2488620/F1_24/
+{ "name": "F1_24.exe", "type": "Game" }
+
+# F1 25 https://store.steampowered.com/app/3059520/F1_25/
+{ "name": "F1_25.exe", "type": "Game" }
+
 # F1 Manager 2023 https://store.steampowered.com/app/2287220/F1_Manager_2023/
 { "name": "F1Manager23.exe", "type": "Game" }
 
@@ -54,15 +54,21 @@
 # Fable - The Lost Chapters https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters/
 { "name": "Fable.exe", "type": "Game" }
 
-# Factorio https://store.steampowered.com/app/427520/Factorio/
-{ "name": "Factorio.exe", "type": "Game" }
-
 # Faces of War https://store.steampowered.com/app/289300/Faces_of_War/
 { "name": "fowed.exe", "type": "Game" }
 { "name": "launcher-ia32.exe", "type": "Game" }
 
+# Factorio https://store.steampowered.com/app/427520/Factorio/
+{ "name": "Factorio.exe", "type": "Game" }
+
 # Faery - Legends of Avalon https://store.steampowered.com/app/303790/Faery__Legends_of_Avalon/
 { "name": "FaerySteam.exe", "type": "Game" }
+
+# Fahrenheit: Indigo Prophecy Remastered https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
+{ "name": "Fahrenheit.exe", "type": "Game" }
+
+# Fairy Bloom Freesia https://store.steampowered.com/app/214590/Fairy_Bloom_Freesia/
+{ "name": "FairyBloomFreesia.exe", "type": "Game" }
 
 # FAIRY TAIL https://store.steampowered.com/app/1233260/FAIRY_TAIL/
 { "name": "FAIRY_TAIL.exe", "type": "Game" }
@@ -70,21 +76,18 @@
 # FAIRY TAIL 2 https://store.steampowered.com/app/3002850/FAIRY_TAIL_2/
 { "name": "FAIRY_TAIL_2.exe", "type": "Game" }
 
-# Fairy Bloom Freesia https://store.steampowered.com/app/214590/Fairy_Bloom_Freesia/
-{ "name": "FairyBloomFreesia.exe", "type": "Game" }
-
 # FAITH: The Unholy Trinity https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/
 { "name": "FAITH.exe", "type": "Game" }
 { "name": "FAITH Demon Siege.exe", "type": "Game" }
-
-# Fallen Tear: The Ascension https://store.steampowered.com/app/1446900/Fallen_Tear_The_Ascension/
-{ "name": "FallenTear.exe", "type": "Game" }
 
 # Fallen Earth Free2Play https://store.steampowered.com/app/113420/Fallen_Earth_Classic/
 { "name": "Frontend.exe", "type": "Game" }
 
 # Fallen Enchantress: Legendary Heroes https://store.steampowered.com/app/228260/Fallen_Enchantress_Legendary_Heroes/
 { "name": "LegendaryHeroes.exe", "type": "Game" }
+
+# Fallen Tear: The Ascension https://store.steampowered.com/app/1446900/Fallen_Tear_The_Ascension/
+{ "name": "FallenTear.exe", "type": "Game" }
 
 # Fall Guys https://store.steampowered.com/app/1097150/Fall_Guys/
 { "name": "FallGuys_client_game.exe", "type": "Game" }
@@ -118,6 +121,9 @@
 # Fallout Tactics: Brotherhood of Steel https://store.steampowered.com/app/38420/Fallout_Tactics_Brotherhood_of_Steel/
 { "name": "FalloutTacticsLauncher.exe", "type": "Game" }
 
+# Fantasy Grounds Classic https://store.steampowered.com/app/252690/Fantasy_Grounds_Classic/
+{ "name": "FGSteamLauncher.exe", "type": "Game" }
+
 # FANTASY LIFE i: The Girl Who Steals Time https://store.steampowered.com/app/2993780/FANTASY_LIFE_i_The_Girl_Who_Steals_Time/
 { "name": "NFL1.exe", "type": "Game" }
 { "name": "NFL1-Win64-Shipping.exe", "type": "Game" }
@@ -125,17 +131,8 @@
 # Fantasy Map Simulator https://store.steampowered.com/app/3035500/Fantasy_Map_Simulator/
 { "name": "FantasyMapSimulator.exe", "type": "Game" }
 
-# Fantasy Grounds Classic https://store.steampowered.com/app/252690/Fantasy_Grounds_Classic/
-{ "name": "FGSteamLauncher.exe", "type": "Game" }
-
 # FAR: Changing Tides https://store.steampowered.com/app/1570010/FAR_Changing_Tides/
 { "name": "FarChangingTides.exe", "type": "Game" }
-
-# FAR: Lone Sails https://store.steampowered.com/app/609320/FAR_Lone_Sails/
-{ "name": "FarLoneSails.exe", "type": "Game" }
-
-# FarSky https://store.steampowered.com/app/286340/FarSky/
-{ "name": "farskyExec.exe", "type": "Game" }
 
 # Far Cry https://store.steampowered.com/app/13520/Far_Cry/
 { "name": "FarCry.exe", "type": "Game" }
@@ -175,14 +172,11 @@
 { "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "SolarlandClient.exe", "type": "Game" }
 
+# FAR: Lone Sails https://store.steampowered.com/app/609320/FAR_Lone_Sails/
+{ "name": "FarLoneSails.exe", "type": "Game" }
+
 # Farmer's Life https://store.steampowered.com/app/1137750/Farmers_Life/
 { "name": "FarmersLife.exe", "type": "Game" }
-
-# Farm Manager 2018 https://store.steampowered.com/app/495560/Farm_Manager_2018/
-{ "name": "Farm Manager 2018.exe", "type": "Game" }
-
-# Farm Together https://store.steampowered.com/app/673950/Farm_Together/
-{ "name": "FarmTogether.exe", "type": "Game" }
 
 # Farming Simulator 15 https://store.steampowered.com/app/313160/Farming_Simulator_15/
 { "name": "FarmingSimulator2015.exe", "type": "Game" }
@@ -196,14 +190,6 @@
 { "name": "FarmingSimulator2019.exe", "type": "Game" }
 { "name": "FarmingSimulator2019Game.exe", "type": "Game" }
 
-# Farming Simulator 22 https://store.steampowered.com/app/1248130/Farming_Simulator_22/
-{ "name": "FarmingSimulator2022.exe", "type": "Game" }
-{ "name": "FarmingSimulator2022Game.exe", "type": "Game" }
-
-# Farming Simulator 25 https://store.steampowered.com/app/2300320/Farming_Simulator_25/
-{ "name": "FarmingSimulator2025.exe", "type": "Game" }
-{ "name": "FarmingSimulator2025Game.exe", "type": "Game" }
-
 # Farming Simulator 2011 https://store.steampowered.com/app/90200/Farming_Simulator_2011/
 { "name": "FarmingSimulator2011.exe", "type": "Game" }
 { "name": "FarmingSimulator2011Game.exe", "type": "Game" }
@@ -212,17 +198,34 @@
 { "name": "FarmingSimulator2013.exe", "type": "Game" }
 { "name": "FarmingSimulator2013Game.exe", "type": "Game" }
 
+# Farming Simulator 22 https://store.steampowered.com/app/1248130/Farming_Simulator_22/
+{ "name": "FarmingSimulator2022.exe", "type": "Game" }
+{ "name": "FarmingSimulator2022Game.exe", "type": "Game" }
+
+# Farming Simulator 25 https://store.steampowered.com/app/2300320/Farming_Simulator_25/
+{ "name": "FarmingSimulator2025.exe", "type": "Game" }
+{ "name": "FarmingSimulator2025Game.exe", "type": "Game" }
+
+# Farm Manager 2018 https://store.steampowered.com/app/495560/Farm_Manager_2018/
+{ "name": "Farm Manager 2018.exe", "type": "Game" }
+
+# Farm Together https://store.steampowered.com/app/673950/Farm_Together/
+{ "name": "FarmTogether.exe", "type": "Game" }
+
+# FarSky https://store.steampowered.com/app/286340/FarSky/
+{ "name": "farskyExec.exe", "type": "Game" }
+
 # Farthest Frontier https://store.steampowered.com/app/1044720/Farthest_Frontier/
 { "name": "Farthest Frontier.exe", "type": "Game" }
 
 # Fast Food Simulator https://store.steampowered.com/app/2916430/Fast_Food_Simulator/
 { "name": "Fast Food Simulator.exe", "type": "Game" }
 
-# FATAL FRAME / PROJECT ZERO: Maiden of Black Water https://store.steampowered.com/app/1732190/FATAL_FRAME__PROJECT_ZERO_Maiden_of_Black_Water/
-{ "name": "FATAL_FRAME_MOBW.exe", "type": "Game" }
-
 # FATAL FRAME II: Crimson Butterfly REMAKE https://store.steampowered.com/app/3920610/FATAL_FRAME_II_Crimson_Butterfly_REMAKE/
 { "name": "FatalFrameII.exe", "type": "Game" }
+
+# FATAL FRAME / PROJECT ZERO: Maiden of Black Water https://store.steampowered.com/app/1732190/FATAL_FRAME__PROJECT_ZERO_Maiden_of_Black_Water/
+{ "name": "FATAL_FRAME_MOBW.exe", "type": "Game" }
 
 # FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse https://store.steampowered.com/app/2130460/FATAL_FRAME__PROJECT_ZERO_Mask_of_the_Lunar_Eclipse/
 { "name": "FATAL_FRAME_MOL.exe", "type": "Game" }
@@ -231,14 +234,14 @@
 { "name": "FATAL FURY City of the Wolves.exe", "type": "Game" }
 { "name": "CotW-Win64-Shipping.exe", "type": "Game" }
 
+# FATE https://store.steampowered.com/app/246840/FATE/
+{ "name": "fate.exe", "type": "Game" }
+
 # Fate/Samurai Remnant https://store.steampowered.com/app/1902690/FateSamurai_Remnant/
 { "name": "FateSamuraiRemnant.exe", "type": "Game" }
 
 # Fate/stay night REMASTERED https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/
 { "name": "fsn2-win64vc14-release.exe", "type": "Game" }
-
-# FATE https://store.steampowered.com/app/246840/FATE/
-{ "name": "fate.exe", "type": "Game" }
 
 # fault - milestone one https://store.steampowered.com/app/286260/fault__milestone_one/
 { "name": "faultms1.exe", "type": "Game" }
@@ -271,14 +274,11 @@
 { "name": "Feed and Grow.exe", "type": "Game" }
 { "name": "FeedAndGrowFishLauncher.exe", "type": "BG_CPUIO" }
 
-# Feed the Cups https://store.steampowered.com/app/2336220/Feed_the_Cups/
-{ "name": "Feed the Cups.exe", "type": "Game" }
-
 # Feeding Frenzy 2 Deluxe https://store.steampowered.com/app/3390/Feeding_Frenzy_2_Deluxe/
 { "name": "FeedingFrenzyTwo.exe", "type": "Game" }
 
-# FEZ https://store.steampowered.com/app/224760/FEZ/
-{ "name": "FEZ.exe", "type": "Game" }
+# Feed the Cups https://store.steampowered.com/app/2336220/Feed_the_Cups/
+{ "name": "Feed the Cups.exe", "type": "Game" }
 
 # Feign https://store.steampowered.com/app/1436990/Feign/
 { "name": "Feign.exe", "type": "Game" }
@@ -286,11 +286,17 @@
 # Fellowship (By Chief Rebel Games. Not to be confused with Fellowship by Elraim Studio.) https://store.steampowered.com/app/2352620/Fellowship/
 { "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
 
+# Fernbus Simulator https://store.steampowered.com/app/427100/Fernbus_Simulator/
+{ "name": "Fernbus-Win64-Shipping.exe", "type": "Game" }
+
 # FEROCIOUS https://store.steampowered.com/app/1645630/FEROCIOUS/
 { "name": "Ferocious.exe", "type": "Game" }
 
-# Fernbus Simulator https://store.steampowered.com/app/427100/Fernbus_Simulator/
-{ "name": "Fernbus-Win64-Shipping.exe", "type": "Game" }
+# FEZ https://store.steampowered.com/app/224760/FEZ/
+{ "name": "FEZ.exe", "type": "Game" }
+
+# Fibbage XL https://store.steampowered.com/app/448080/Fibbage_XL/
+{ "name": "Fibbage XL.exe", "type": "Game" }
 
 # Fields of Mistria https://store.steampowered.com/app/2142790/Fields_of_Mistria/
 { "name": "FieldsOfMistria.exe", "type": "Game" }
@@ -298,6 +304,18 @@
 # FIFA 22 https://store.steampowered.com/app/1506830/FIFA_22/
 { "name": "FIFA22_Trial.exe", "type": "Game" }
 { "name": "FIFA22.exe", "type": "Game" }
+
+# Fight'N Rage https://store.steampowered.com/app/674520/FightN_Rage/
+{ "name": "FIGHT_N_RAGE.exe", "type": "Game" }
+
+# Fights in Tight Spaces https://store.steampowered.com/app/1265820/Fights_in_Tight_Spaces/
+{ "name": "FightsInTightSpaces.exe", "type": "Game" }
+
+# Fight The Dragon https://store.steampowered.com/app/250560/Fight_The_Dragon/
+{ "name": "FightTheDragon.exe", "type": "Game" }
+
+# Figment https://store.steampowered.com/app/493540/Figment/
+{ "name": "Figment.exe", "type": "Game" }
 
 # Final Exam https://store.steampowered.com/app/233190/Final_Exam/
 { "name": "final_exam.exe", "type": "Game" }
@@ -323,8 +341,27 @@
 # FINAL FANTASY IV: THE AFTER YEARS https://store.steampowered.com/app/346830/FINAL_FANTASY_IV_THE_AFTER_YEARS/
 { "name": "FF4A.exe", "type": "Game" }
 
+# FINAL FANTASY IX https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/
+{ "name": "FF9.exe", "type": "Game" }
+
+# FINAL FANTASY TACTICS - The Ivalice Chronicles https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/
+{ "name": "FFT_enhanced.exe", "type": "Game" }
+{ "name": "FFT_classic.exe", "type": "Game" }
+
+# FINAL FANTASY TYPE-0 HD https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/
+{ "name": "fftype0hd.exe", "type": "Game" }
+
 # FINAL FANTASY V https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/
 { "name": "FINAL FANTASY V.exe", "type": "Game" }
+
+# FINAL FANTASY VII https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/
+{ "name": "FF7_Launcher.exe", "type": "Game" }
+
+# FINAL FANTASY VIII https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/
+{ "name": "FF8_EN.exe", "type": "Game" }
+
+# FINAL FANTASY VIII - REMASTERED https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/
+{ "name": "ff7_en.exe", "type": "Game" }
 
 # FINAL FANTASY VII REBIRTH https://store.steampowered.com/app/2909400/FINAL_FANTASY_VII_REBIRTH/
 { "name": "ff7rebirth.exe", "type": "Game" }
@@ -333,53 +370,40 @@
 { "name": "ff7remake.exe", "type": "Game" }
 { "name": "ff7remake_.exe", "type": "Game" }
 
-# FINAL FANTASY VII https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/
-{ "name": "FF7_Launcher.exe", "type": "Game" }
-
-# FINAL FANTASY VIII - REMASTERED https://store.steampowered.com/app/1026680/FINAL_FANTASY_VIII__REMASTERED/
-{ "name": "ff7_en.exe", "type": "Game" }
-
-# FINAL FANTASY VIII https://store.steampowered.com/app/39150/FINAL_FANTASY_VIII/
-{ "name": "FF8_EN.exe", "type": "Game" }
-
-# FINAL FANTASY IX https://store.steampowered.com/app/377840/FINAL_FANTASY_IX/
-{ "name": "FF9.exe", "type": "Game" }
-
-# FINAL FANTASY X/X-2 HD Remaster https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/
-{ "name": "FFX&X-2_Will.exe", "type": "Game" }
-{ "name": "FFX-2.exe", "type": "Game" }
-{ "name": "FFX.exe", "type": "Game" }
-
-# FINAL FANTASY XII THE ZODIAC AGE https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/
-{ "name": "ffxiiiimg.exe", "type": "Game" }
-
 # FINAL FANTASY XIII https://store.steampowered.com/app/292120/FINAL_FANTASY_XIII/
 { "name": "FFXII_TZA.exe", "type": "Game" }
 
 # FINAL FANTASY XIII-2 https://store.steampowered.com/app/292140/FINAL_FANTASY_XIII2/
 { "name": "ffxiii2img.exe", "type": "Game" }
 
+# FINAL FANTASY XII THE ZODIAC AGE https://store.steampowered.com/app/595520/FINAL_FANTASY_XII_THE_ZODIAC_AGE/
+{ "name": "ffxiiiimg.exe", "type": "Game" }
+
 # FINAL FANTASY XIV Online https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/
 { "name": "ffxiv_dx11.exe", "type": "Game" }
-
-# FINAL FANTASY XV WINDOWS EDITION https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
-{ "name": "ffxv_s.exe", "type": "Game" }
 
 # FINAL FANTASY XVI https://store.steampowered.com/app/2515020/FINAL_FANTASY_XVI/
 { "name": "ffxvi.exe", "type": "Game" }
 
-# FINAL FANTASY TYPE-0 HD https://store.steampowered.com/app/340170/FINAL_FANTASY_TYPE0_HD/
-{ "name": "fftype0hd.exe", "type": "Game" }
+# FINAL FANTASY XV WINDOWS EDITION https://store.steampowered.com/app/637650/FINAL_FANTASY_XV_WINDOWS_EDITION/
+{ "name": "ffxv_s.exe", "type": "Game" }
 
-# FINAL FANTASY TACTICS - The Ivalice Chronicles https://store.steampowered.com/app/1004640/FINAL_FANTASY_TACTICS__The_Ivalice_Chronicles/
-{ "name": "FFT_enhanced.exe", "type": "Game" }
-{ "name": "FFT_classic.exe", "type": "Game" }
+# FINAL FANTASY X/X-2 HD Remaster https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/
+{ "name": "FFX&X-2_Will.exe", "type": "Game" }
+{ "name": "FFX-2.exe", "type": "Game" }
+{ "name": "FFX.exe", "type": "Game" }
+
+# Firewatch https://store.steampowered.com/app/383870/Firewatch/
+{ "name": "Firewatch.exe", "type": "Game" }
 
 # First Cut: Samurai Duel https://store.steampowered.com/app/2193490/First_Cut_Samurai_Duel/
 { "name": "FirstCutv2.exe", "type": "Game" }
 
 # Fishbowl https://store.steampowered.com/app/1638070/Fishbowl/
 { "name": "fishbowl.exe", "type": "Game" }
+
+# Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
+{ "name": "FishingPlanet.exe", "type": "Game" }
 
 # Five Hearts Under One Roof https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/
 { "name": "MilkGame.exe", "type": "Game" }
@@ -428,21 +452,6 @@
 # Five Nights at Freddy's World (steam page is down rip) https://store.steampowered.com/app/427920/
 { "name": "FNaF_World.exe", "type": "Game" }
 
-# Fight The Dragon https://store.steampowered.com/app/250560/Fight_The_Dragon/
-{ "name": "FightTheDragon.exe", "type": "Game" }
-
-# Fight'N Rage https://store.steampowered.com/app/674520/FightN_Rage/
-{ "name": "FIGHT_N_RAGE.exe", "type": "Game" }
-
-# Fights in Tight Spaces https://store.steampowered.com/app/1265820/Fights_in_Tight_Spaces/
-{ "name": "FightsInTightSpaces.exe", "type": "Game" }
-
-# Flyout https://store.steampowered.com/app/777390/Flyout/
-{ "name": "Flyout.exe", "type": "Game" }
-
-# FlyKnight https://store.steampowered.com/app/3108510/FlyKnight/
-{ "name": "FlyKnightPrelude.exe", "type": "Game" }
-
 # Flashing Lights - Police, Firefighting, Emergency Services (EMS) Simulator https://store.steampowered.com/app/605740/Flashing_Lights__Police_Firefighting_Emergency_Services_EMS_Simulator/
 { "name": "flashinglights.exe", "type": "Game" }
 
@@ -468,12 +477,28 @@
 { "name": "flowersblooming-32.exe", "type": "Game" }
 { "name": "flowersblooming.exe", "type": "Game" }
 
+# FlyKnight https://store.steampowered.com/app/3108510/FlyKnight/
+{ "name": "FlyKnightPrelude.exe", "type": "Game" }
+
+# Flyout https://store.steampowered.com/app/777390/Flyout/
+{ "name": "Flyout.exe", "type": "Game" }
+
 # Fobia - St. Dinfna Hotel https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/
 { "name": "Fobia.exe", "type": "Game" }
 { "name": "Fobia-Win64-Shipping.exe", "type": "Game" }
 
 # Folk Tale https://store.steampowered.com/app/224440/Folk_Tale/
 { "name": "Folk Tale.exe", "type": "Game" }
+
+# FootLOL: Epic Soccer League https://store.steampowered.com/app/263740/FootLOL_Epic_Soccer_League/
+{ "name": "FootLOL Mayhem Edition.exe", "type": "Game" }
+{ "name": "FootLOLSteam.exe", "type": "Game" }
+
+# Forager https://store.steampowered.com/app/751780/Forager/
+{ "name": "Forager.exe", "type": "Game" }
+
+# FORCED: Slightly Better Edition https://store.steampowered.com/app/249990/FORCED_Slightly_Better_Edition/
+{ "name": "FORCED.exe", "type": "Game" }
 
 # Forefront https://store.steampowered.com/app/2981220/Forefront/
 { "name": "Forefront_Internal.exe", "type": "Game" }
@@ -490,45 +515,24 @@
 # FOR HONOR https://store.steampowered.com/app/304390/FOR_HONOR/
 { "name": "forhonor.exe", "type": "Game" }
 
+# Forsaken Remastered https://store.steampowered.com/app/668980/Forsaken_Remastered/
+{ "name": "selkis_x64.exe", "type": "Game" }
+
 # Forspoken https://store.steampowered.com/app/1680880/Forspoken/
 { "name": "FORSPOKEN.exe", "type": "Game" }
 
 # For The King https://store.steampowered.com/app/527230/For_The_King/
 { "name": "FTK.exe", "type": "Game" }
 
-# Fahrenheit: Indigo Prophecy Remastered https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
-{ "name": "Fahrenheit.exe", "type": "Game" }
-
-# Fibbage XL https://store.steampowered.com/app/448080/Fibbage_XL/
-{ "name": "Fibbage XL.exe", "type": "Game" }
-
-# Figment https://store.steampowered.com/app/493540/Figment/
-{ "name": "Figment.exe", "type": "Game" }
-
-# Firewatch https://store.steampowered.com/app/383870/Firewatch/
-{ "name": "Firewatch.exe", "type": "Game" }
-
-# Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
-{ "name": "FishingPlanet.exe", "type": "Game" }
-
-# Forsaken Remastered https://store.steampowered.com/app/668980/Forsaken_Remastered/
-{ "name": "selkis_x64.exe", "type": "Game" }
-
 # For The King II https://store.steampowered.com/app/1676840/For_The_King_II/
 { "name": "For The King II.exe", "type": "Game" }
-
-# Forager https://store.steampowered.com/app/751780/Forager/
-{ "name": "Forager.exe", "type": "Game" }
-
-# FORCED: Slightly Better Edition https://store.steampowered.com/app/249990/FORCED_Slightly_Better_Edition/
-{ "name": "FORCED.exe", "type": "Game" }
-
-# Forts https://store.steampowered.com/app/410900/Forts/
-{ "name": "Forts.exe", "type": "Game" }
 
 # FortressCraft Evolved! https://store.steampowered.com/app/254200/FortressCraft_Evolved/
 { "name": "FC_64.exe", "type": "Game" }
 { "name": "fortresscraft.exe", "type": "Game" }
+
+# Forts https://store.steampowered.com/app/410900/Forts/
+{ "name": "Forts.exe", "type": "Game" }
 
 # Forza Horizon 4 https://store.steampowered.com/app/1293830/Forza_Horizon_4/
 { "name": "ForzaHorizon4.exe", "type": "Game" }
@@ -538,10 +542,6 @@
 
 # Forza Motorsport https://store.steampowered.com/app/2440510/Forza_Motorsport/
 { "name": "forza_steamworks_release_final.exe", "type": "Game" }
-
-# FootLOL: Epic Soccer League https://store.steampowered.com/app/263740/FootLOL_Epic_Soccer_League/
-{ "name": "FootLOL Mayhem Edition.exe", "type": "Game" }
-{ "name": "FootLOLSteam.exe", "type": "Game" }
 
 # Foundation https://store.steampowered.com/app/690830/Foundation/
 { "name": "foundation.exe", "type": "Game" }
@@ -593,14 +593,29 @@
 # Friday Night Funkin': Mario's Madness; https://gamebanana.com/mods/359554
 { "name": "Mario.exe", "type": "Game" }
 
-# Friday the 13th: The Game https://store.steampowered.com/app/438740/Friday_the_13th_The_Game/
-{ "name": "SummerCamp.exe", "type": "Game" }
-
 # FRIDAY NIGHT FUNKIN' VS Hypno's Lullaby https://gamejolt.com/games/hypnos-lullabyv2cancelled/758792
 { "name": "Hypnos Lullaby.exe", "type": "Game" }
 
+# Friday the 13th: The Game https://store.steampowered.com/app/438740/Friday_the_13th_The_Game/
+{ "name": "SummerCamp.exe", "type": "Game" }
+
 # Friends vs Friends https://store.steampowered.com/app/1785150/Friends_vs_Friends/
 { "name": "Friends vs Friends.exe", "type": "Game" }
+
+# From Dust https://store.steampowered.com/app/33460/From_Dust/
+{ "name": "From_Dust.exe", "type": "Game" }
+
+# From Glory To Goo https://store.steampowered.com/app/2607060/From_Glory_To_Goo/
+{ "name": "From Glory To Goo.exe", "type": "Game" }
+
+# From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
+{ "name": "From_The_Depths.exe", "type": "Game" }
+
+# Frontlines: Fuel of War https://store.steampowered.com/app/9460/Frontlines_Fuel_of_War/
+{ "name": "ffow.exe", "type": "Game" }
+
+# Front Mission Evolved https://store.steampowered.com/app/43000/Front_Mission_Evolved/
+{ "name": "FrontMissionEvolved.exe", "type": "Game" }
 
 # Frostpunk https://store.steampowered.com/app/323190/Frostpunk/
 { "name": "Frostpunk.exe", "type": "Game" }
@@ -612,29 +627,20 @@
 # Frozen Synapse https://store.steampowered.com/app/98200/Frozen_Synapse/
 { "name": "FrozenSynapse.exe", "type": "Game" }
 
-# From Glory To Goo https://store.steampowered.com/app/2607060/From_Glory_To_Goo/
-{ "name": "From Glory To Goo.exe", "type": "Game" }
-
-# From Dust https://store.steampowered.com/app/33460/From_Dust/
-{ "name": "From_Dust.exe", "type": "Game" }
-
-# From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
-{ "name": "From_The_Depths.exe", "type": "Game" }
-
-# Front Mission Evolved https://store.steampowered.com/app/43000/Front_Mission_Evolved/
-{ "name": "FrontMissionEvolved.exe", "type": "Game" }
-
-# Frontlines: Fuel of War https://store.steampowered.com/app/9460/Frontlines_Fuel_of_War/
-{ "name": "ffow.exe", "type": "Game" }
-
-# Full Throttle Remastered https://store.steampowered.com/app/228360/Full_Throttle_Remastered/
-{ "name": "Throttle.exe", "type": "Game" }
+# FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
+{ "name": "FTLGame.exe", "type": "Game" }
 
 # Full Mojo Rampage https://store.steampowered.com/app/225280/Full_Mojo_Rampage/
 { "name": "FullMojo.exe", "type": "Game" }
 
+# Full Throttle Remastered https://store.steampowered.com/app/228360/Full_Throttle_Remastered/
+{ "name": "Throttle.exe", "type": "Game" }
+
 # FUMES https://store.steampowered.com/app/1920430/FUMES/
 { "name": "FUMES.exe", "type": "Game" }
+
+# Funi Raccoon Game https://store.steampowered.com/app/3599690/Funi_Raccoon_Game/
+{ "name": "Funi_Raccoon_Game.exe", "type": "Game" }
 
 # Fury of Dracula: Digital Edition https://store.steampowered.com/app/958530/Fury_of_Dracula_Digital_Edition/
 { "name": "Fury of Dracula.exe", "type": "Game" }
@@ -642,8 +648,3 @@
 # Fury Unleashed https://store.steampowered.com/app/465200/Fury_Unleashed/
 { "name": "FuryUnleashed.exe", "type": "Game" }
 
-# Funi Raccoon Game https://store.steampowered.com/app/3599690/Funi_Raccoon_Game/
-{ "name": "Funi_Raccoon_Game.exe", "type": "Game" }
-
-# FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
-{ "name": "FTLGame.exe", "type": "Game" }
