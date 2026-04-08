@@ -37,8 +37,6 @@
 # Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
 { "name": "BALDI.x86_64", "type": "Game" }
 
-
-
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "BaldursGateII", "type": "Game" }
 
@@ -152,6 +150,9 @@
 
 # Bridge Constructor Portal https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/
 { "name": "Bridge_Constructor_Portal.x86_64", "type": "Game" }
+
+# Brigador: Up-Armored Edition https://store.steampowered.com/app/274500/Brigador_UpArmored_Edition/
+{ "name": "brigador", "type": "Game" }
 
 # Broforce https://store.steampowered.com/app/274190/Broforce/
 { "name": "Broforce.x86", "type": "Game" }
