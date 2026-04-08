@@ -94,6 +94,17 @@
 # Once Human https://store.steampowered.com/app/2139460/Once_Human/
 { "name": "ONCE_HUMAN.exe", "type": "Game" }
 
+# OneShot https://store.steampowered.com/app/420530/OneShot/
+{ "name": "oneshot.exe", "type": "Game" }
+
+# Outlast https://store.steampowered.com/app/238320/Outlast/
+{ "name": "OutlastLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "OLGame.exe", "type": "Game" }
+{ "name": "OLGame_R.exe", "type": "Game" }
+
+# Overcooked! 2 https://store.steampowered.com/app/728880/Overcooked_2/
+{ "name": "Overcooked2.exe", "type": "Game" }
+
 # Once in Yaissor https://store.steampowered.com/app/553790/Once_in_Yaissor/
 { "name": "OIY.exe", "type": "Game" }
 

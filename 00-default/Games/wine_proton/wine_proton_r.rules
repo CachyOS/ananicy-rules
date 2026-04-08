@@ -431,7 +431,7 @@
 # RiMS Racing https://store.steampowered.com/app/1346010/RiMS_Racing/
 { "name": "RiMS.exe", "type": "Game" }
 
-# RimWorld https://rimworldgame.com/
+# RimWorld https://store.steampowered.com/app/294100/RimWorld/
 { "name": "RimWorldWin64.exe", "type": "Game" }
 { "name": "RimWorldWin.exe", "type": "Game" }
 
@@ -464,6 +464,26 @@
 { "name": "ROTT.exe", "type": "Game" }
 { "name": "LDKDedicatedServer.exe", "type": "Game" }
 { "name": "ROTTLauncher.exe", "type": "Game" }
+
+# Rakuen https://store.steampowered.com/app/559210/Rakuen/
+{ "name": "rakuen.exe", "type": "Game" }
+
+# Ravenfield https://store.steampowered.com/app/636480/Ravenfield/
+{ "name": "ravenfield.exe", "type": "Game" }
+
+# Resolutiion https://store.steampowered.com/app/975150/Resolutiion/
+{ "name": "Resolutiion.exe", "type": "Game" }
+
+# Road to Vostok https://store.steampowered.com/app/1963610/Road_to_Vostok/
+{ "name": "RTV.exe", "type": "Game" }
+
+# Robocraft http://store.steampowered.com/app/301520/Robocraft/
+{ "name": "Robocraft.exe", "type": "Game" }
+{ "name": "RobocraftClient.exe", "type": "BG_CPUIO" }
+
+# RUINER https://store.steampowered.com/app/464060/RUINER/
+{ "name": "Ruiner.exe", "type": "Game" }
+{ "name": "Ruiner-Win64-Shipping.exe", "type": "Game" }
 
 # Rise of the Tomb Raider https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
 { "name": "ROTTR.exe", "type": "Game" }
@@ -533,7 +553,7 @@
 # Rochard https://store.steampowered.com/app/107800/Rochard/
 { "name": "Rochard.exe", "type": "Game" }
 
-# Rocket League https://www.rocketleague.com/en/
+# Rocket League http://store.steampowered.com/app/252950/Rocket_League/
 { "name": "RocketLeague.exe", "type": "Game" }
 
 # Rock 'N' Roll Defense https://store.steampowered.com/app/438480/Rock_N_Roll_Defense/
