@@ -133,6 +133,11 @@
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "Crea", "type": "Game" }
 
+# Creeper World 3: Arc Eternal https://store.steampowered.com/app/280220/Creeper_World_3_Arc_Eternal/
+{ "name": "CW3Launch", "type": "BG_CPUIO" }
+{ "name": "CW3.x86", "type": "Game" }
+{ "name": "CW3.x86_64", "type": "Game" }
+
 # Crimsonland https://store.steampowered.com/app/262830/Crimsonland/
 { "name": "crimsonland", "type": "Game" }
 
