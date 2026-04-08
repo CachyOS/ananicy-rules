@@ -174,7 +174,7 @@
 # Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
 { "name": "engine.exe", "type": "Game" }
 
-# Divinity: Original Sin https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
+# Divinity: Original Sin - Enhanced Edition https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 # Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
 # Divinity: Original Sin (Classic) https://store.steampowered.com/app/230230/Divinity_Original_Sin_Classic/
 { "name": "EoCApp.exe", "type": "Game" }
@@ -459,9 +459,8 @@
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
 { "name": "nxsteam.exe", "type": "Game" }
 
-# Yesterday https://store.steampowered.com/app/205840/Yesterday/
-# Gǔ jiàn qí tán 古剑奇谭(GuJian) https://store.steampowered.com/app/570780/GuJian/
-{ "name": "oalinst.exe", "type": "Game" }
+# 3D audio rendering library
+{ "name": "oalinst.exe", "type": "BG_CPUIO" }
 
 # Overlord https://store.steampowered.com/app/11450/Overlord/
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
@@ -678,6 +677,9 @@
 # Victory: The Age of Racing https://store.steampowered.com/app/264120/Victory_The_Age_of_Racing/
 # The Culling https://store.steampowered.com/app/437220/The_Culling/
 { "name": "Victory.exe", "type": "Game" }
+
+# source2 background process https://www.source2.wiki/EngineTools/VConsole
+{ "name": "vconsole2.exe", "type": "BG_CPUIO" }
 
 # Warhammer 40,000: Dawn of War - Anniversary Edition https://store.steampowered.com/app/4570/Warhammer_40000_Dawn_of_War__Anniversary_Edition/
 # Warhammer 40,000: Dawn of War - Definitive Edition https://store.steampowered.com/app/3556750/Warhammer_40000_Dawn_of_War__Definitive_Edition/
