@@ -329,7 +329,7 @@
 { "name": "Titanfall2_trial.exe", "type": "Game" }
 { "name": "NorthstarLauncher.exe", "type": "Game" }
 
-# Titanfall Online
+# Titanfall Online https://titanfall.fandom.com/wiki/Titanfall_Online
 { "name": "TFO.exe", "type": "Game" }
 { "name": "tfods.exe", "type": "Game" }
 { "name": "TitanFallOnline.exe", "type": "Game" }
@@ -419,11 +419,11 @@
 # the other older ghost recon games use the same exe name https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
 { "name": "GhostRecon.exe", "type": "Game" }
 
-# Tom Clancy's Ghost Recon Advanced Warfighter
+# Tom Clancy's Ghost Recon Advanced Warfighter https://steamdb.info/app/13640/
 { "name": "GRAW.exe", "type": "Game" }
 { "name": "GRAW-standalone.exe", "type": "Game" }
 
-# Tom Clancy's Ghost Recon Advanced Warfighter 2
+# Tom Clancy's Ghost Recon Advanced Warfighter 2 https://steamdb.info/app/13510/
 { "name": "graw2.exe", "type": "Game" }
 { "name": "graw2_dedicated.exe", "type": "Game" }
 
