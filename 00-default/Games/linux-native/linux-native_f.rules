@@ -65,6 +65,9 @@
 { "name": "From_The_Depths.x86", "type": "Game" }
 { "name": "From_The_Depths.x86_64", "type": "Game" }
 
+# FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
+{ "name": "FTL", "type": "Game" }
+
 # Funkin https://github.com/FunkinCrew/Funkin ; Friday Night Funkin' (base game)
 { "name": "Funkin", "type": "Game" }
 
