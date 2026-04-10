@@ -14,37 +14,37 @@
 # Kairo https://store.steampowered.com/app/233230/Kairo/
 { "name": "kairo.exe", "type": "Game" }
 
+# Kalimba https://store.steampowered.com/app/324140/Kalimba/
+{ "name": "Kalimba.exe", "type": "Game" }
+
 # KAMI https://store.steampowered.com/app/272040/KAMI/
 { "name": "KAMI.exe", "type": "Game" }
 
 # KAMITSUBAKI CITY ENSEMBLE https://store.steampowered.com/app/2581050/KAMITSUBAKI_CITY_ENSEMBLE/
 { "name": "KAMITSUBAKI CITY ENSEMBLE.exe", "type": "Game" }
 
-# Kane & Lynch 2: Dog Days https://store.steampowered.com/app/28000/Kane__Lynch_2_Dog_Days/
-{ "name": "KL2.exe", "type": "Game" }
-
 # Kane and Lynch: Dead Men https://store.steampowered.com/app/8080/Kane_and_Lynch_Dead_Men/
 { "name": "knlterm.exe", "type": "Game" }
 { "name": "kaneandlynch.exe", "type": "Game" }
 
-# Kalimba https://store.steampowered.com/app/324140/Kalimba/
-{ "name": "Kalimba.exe", "type": "Game" }
+# Kane & Lynch 2: Dog Days https://store.steampowered.com/app/28000/Kane__Lynch_2_Dog_Days/
+{ "name": "KL2.exe", "type": "Game" }
+
+# Karate Survivor https://store.steampowered.com/app/3027930/Karate_Survivor/
+{ "name": "KarateSurvivor.exe", "type": "Game" }
 
 # KARDS - The WW2 Card Game https://store.steampowered.com/app/544810/KARDS__The_WW2_Card_Game/
 { "name": "kards.exe", "type": "Game" }
 { "name": "kards-Win64-Shipping.exe", "type": "Game" }
+
+# KarmaZoo https://store.steampowered.com/app/1661630/KarmaZoo/
+{ "name": "KarmaZoo.exe", "type": "Game" }
 
 # KartKraft https://store.steampowered.com/app/406350/KartKraft/
 { "name": "project_k.exe", "type": "Game" }
 
 # Kart Racing Pro https://store.steampowered.com/app/415600/Kart_Racing_Pro/
 { "name": "kart.exe", "type": "Game" }
-
-# Karate Survivor https://store.steampowered.com/app/3027930/Karate_Survivor/
-{ "name": "KarateSurvivor.exe", "type": "Game" }
-
-# KarmaZoo https://store.steampowered.com/app/1661630/KarmaZoo/
-{ "name": "KarmaZoo.exe", "type": "Game" }
 
 # Katamari Damacy REROLL https://store.steampowered.com/app/848350/Katamari_Damacy_REROLL/
 { "name": "katamari.exe", "type": "Game" }
@@ -59,9 +59,6 @@
 # Kebab Chefs! - Restaurant Simulator https://store.steampowered.com/app/1001270/Kebab_Chefs__Restaurant_Simulator/
 { "name": "Kebab Chefs! - Restaurant Simulator.exe", "type": "Game" }
 
-# Kena: Bridge of Spirits https://store.steampowered.com/app/1954200/Kena_Bridge_of_Spirits/
-{ "name": "Kena.exe", "type": "Game" }
-
 # Keeper https://store.steampowered.com/app/3043580/Keeper/
 { "name": "Keeper.exe", "type": "Game" }
 { "name": "Keeper-Win64-Shipping.exe", "type": "Game" }
@@ -72,6 +69,9 @@
 
 # Keep Talking and Nobody Explodes https://store.steampowered.com/app/341800/Keep_Talking_and_Nobody_Explodes/
 { "name": "ktane.exe", "type": "Game" }
+
+# Kena: Bridge of Spirits https://store.steampowered.com/app/1954200/Kena_Bridge_of_Spirits/
+{ "name": "Kena.exe", "type": "Game" }
 
 # Ken Follett's The Pillars of the Earth https://store.steampowered.com/app/234270/Ken_Folletts_The_Pillars_of_the_Earth/
 { "name": "pillars.exe", "type": "Game" }
@@ -129,44 +129,11 @@
 # Kinetic Void https://store.steampowered.com/app/227160/Kinetic_Void/
 { "name": "Kinetic Void.exe", "type": "Game" }
 
-# King Arthur's Gold https://store.steampowered.com/app/219830/King_Arthurs_Gold/
-{ "name": "KAG.exe", "type": "Game" }
-
 # King Arthur: Knight's Tale https://store.steampowered.com/app/1157390/King_Arthur_Knights_Tale/
 { "name": "KA_KT.exe", "type": "Game" }
 
-# King of Retail https://store.steampowered.com/app/968250/King_of_Retail/
-{ "name": "KingOfRetail.exe", "type": "Game" }
-
-# Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
-{ "name": "Kingdom Rush Alliance.exe", "type": "Game" }
-
-# Kingdom Rush Frontiers - Tower Defense https://store.steampowered.com/app/458710/Kingdom_Rush_Frontiers__Tower_Defense/
-{ "name": "Kingdom Rush Frontiers.exe", "type": "Game" }
-
-# Kingdom Rush  - Tower Defense https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/
-{ "name": "Kingdom Rush.exe", "type": "Game" }
-
-# Kingdom Rush Origins - Tower Defense https://store.steampowered.com/app/816340/Kingdom_Rush_Origins__Tower_Defense/
-{ "name": "Kingdom Rush Origins.exe", "type": "Game" }
-
-# Kingdom Rush Vengeance - Tower Defense https://store.steampowered.com/app/1367550/Kingdom_Rush_Vengeance__Tower_Defense/
-{ "name": "Kingdom Rush Vengeance.exe", "type": "Game" }
-
-# Kingdoms Reborn https://store.steampowered.com/app/1307890/Kingdoms_Reborn/
-{ "name": "KingdomsReborn.exe", "type": "Game" }
-
-# Kingdoms and Castles https://store.steampowered.com/app/569480/Kingdoms_and_Castles/
-{ "name": "KingdomsAndCastles.exe", "type": "Game" }
-
-# Kingdoms of Amalur: Re-Reckoning https://store.steampowered.com/app/1041720/Kingdoms_of_Amalur_ReReckoning/
-{ "name": "koa.exe", "type": "Game" }
-
-# Kingdoms of Amalur: Reckoning https://store.steampowered.com/app/102500/Kingdoms_of_Amalur_Reckoning/
-{ "name": "Reckoning.exe", "type": "Game" }
-
-# KINGDOM HEARTS III + Re Mind (DLC) https://store.steampowered.com/app/2552450/KINGDOM_HEARTS_III__Re_Mind_DLC/
-{ "name": "KINGDOM HEARTS III.exe", "type": "Game" }
+# King Arthur's Gold https://store.steampowered.com/app/219830/King_Arthurs_Gold/
+{ "name": "KAG.exe", "type": "Game" }
 
 # KINGDOM HEARTS -HD 1.5+2.5 ReMIX- https://store.steampowered.com/app/2552430/KINGDOM_HEARTS_HD_1525_ReMIX/
 { "name": "KINGDOM HEARTS Birth by Sleep FINAL MIX.exe", "type": "Game" }
@@ -182,9 +149,45 @@
 { "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue.exe", "type": "Game" }
 { "name": "WaitTitleProject.exe", "type": "Game" }
 
+# KINGDOM HEARTS III + Re Mind (DLC) https://store.steampowered.com/app/2552450/KINGDOM_HEARTS_III__Re_Mind_DLC/
+{ "name": "KINGDOM HEARTS III.exe", "type": "Game" }
+
+# Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
+{ "name": "Kingdom Rush Alliance.exe", "type": "Game" }
+
+# Kingdom Rush Frontiers - Tower Defense https://store.steampowered.com/app/458710/Kingdom_Rush_Frontiers__Tower_Defense/
+{ "name": "Kingdom Rush Frontiers.exe", "type": "Game" }
+
+# Kingdom Rush Origins - Tower Defense https://store.steampowered.com/app/816340/Kingdom_Rush_Origins__Tower_Defense/
+{ "name": "Kingdom Rush Origins.exe", "type": "Game" }
+
+# Kingdom Rush  - Tower Defense https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/
+{ "name": "Kingdom Rush.exe", "type": "Game" }
+
+# Kingdom Rush Vengeance - Tower Defense https://store.steampowered.com/app/1367550/Kingdom_Rush_Vengeance__Tower_Defense/
+{ "name": "Kingdom Rush Vengeance.exe", "type": "Game" }
+
+# Kingdoms and Castles https://store.steampowered.com/app/569480/Kingdoms_and_Castles/
+{ "name": "KingdomsAndCastles.exe", "type": "Game" }
+
+# Kingdoms of Amalur: Reckoning https://store.steampowered.com/app/102500/Kingdoms_of_Amalur_Reckoning/
+{ "name": "Reckoning.exe", "type": "Game" }
+
+# Kingdoms of Amalur: Re-Reckoning https://store.steampowered.com/app/1041720/Kingdoms_of_Amalur_ReReckoning/
+{ "name": "koa.exe", "type": "Game" }
+
+# Kingdoms Reborn https://store.steampowered.com/app/1307890/Kingdoms_Reborn/
+{ "name": "KingdomsReborn.exe", "type": "Game" }
+
+# Kingdom Two Crowns https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/
+{ "name": "KingdomTwoCrowns.exe", "type": "Game" }
+
 # Kingdom Wars https://store.steampowered.com/app/227180/Kingdom_Wars/
 { "name": "Dawn.exe", "type": "Game" }
 { "name": "Dof.exe", "type": "Game" }
+
+# King of Retail https://store.steampowered.com/app/968250/King_of_Retail/
+{ "name": "KingOfRetail.exe", "type": "Game" }
 
 # Kingpin — Life of Crime https://store.steampowered.com/app/38430/Kingpin__Life_of_Crime/
 { "name": "kingpin.exe", "type": "Game" }
@@ -248,6 +251,9 @@
 # Krunker https://store.steampowered.com/app/1408720/Krunker/
 { "name": "Official Krunker.io Client.exe", "type": "Game" }
 
+# KuloNiku: Bowl Up! https://store.steampowered.com/app/3357960/KuloNiku_Bowl_Up/
+{ "name": "KuloNiku.exe", "type": "Game" }
+
 # Kung Fu Strike - The Warrior's Rise https://store.steampowered.com/app/212030/Kung_Fu_Strike__The_Warriors_Rise/
 { "name": "KungFuStrike.exe", "type": "Game" }
 
@@ -257,3 +263,4 @@
 
 # Kynseed https://store.steampowered.com/app/758870/Kynseed/
 { "name": "Kynseed.exe", "type": "Game" }
+

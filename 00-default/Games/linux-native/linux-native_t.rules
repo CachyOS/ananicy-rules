@@ -28,12 +28,12 @@
 { "name": "tf_linux64", "type": "Game" }
 { "name": "tf.sh", "type": "Game" }
 
-# Teeworlds https://teeworlds.com/
+# Teeworlds https://store.steampowered.com/app/380840/Teeworlds/
 { "name": "teeworlds", "type": "Game" }
-{ "name": "teeworlds_srv", "type": "LowLatency_RT" }
+{ "name": "teeworlds_srv", "type": "Game" }
 
 # Teenage Mutant Ninja Turtles: Shredder's Revenge https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/
-{ "name": "TMNT", "type": "LowLatency_RT" }
+{ "name": "TMNT", "type": "Game" }
 
 # Teleglitch: Die More Edition https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/
 { "name": "runme", "type": "Game" }
@@ -204,7 +204,7 @@
 { "name": "Tyranny.x86", "type": "Game" }
 { "name": "Tyranny.x86_64", "type": "Game" }
 
-# tyrquake: https://disenchant.net/tyrquake/
+# tyrquake https://disenchant.net/tyrquake/
 { "name": "tyr-glquake", "type": "Game" }
 { "name": "tyr-glqwcl", "type": "Game" }
 { "name": "tyr-quake", "type": "Game" }

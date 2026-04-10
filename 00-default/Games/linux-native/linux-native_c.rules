@@ -42,7 +42,7 @@
 # Chasm https://store.steampowered.com/app/312200/Chasm/
 { "name": "Chasm", "type": "Game" }
 
-# Chocolate doom: https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom
+# Chocolate doom https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom
 { "name": "chocolate-doom", "type": "Game" }
 
 # Chronicon https://store.steampowered.com/app/375480/Chronicon/
@@ -66,7 +66,7 @@
 # Circuits https://store.steampowered.com/app/282760/Circuits/
 { "name": "Circuits.x86", "type": "Game" }
 
-# ClassiCube https://classicube.net
+# ClassiCube https://steamdb.info/app/1065710/
 { "name": "ClassiCube", "type": "Game" }
 { "name": "classicube", "type": "Game" }
 
@@ -86,7 +86,7 @@
 # Coloring Pixels https://store.steampowered.com/app/897330/Coloring_Pixels/
 { "name": "ColoringPixels", "type": "Game" }
 
-# Combat Master https://store.steampowered.com/app/2281730/Combat_Master/
+# Combat Master: Season 5 https://store.steampowered.com/app/2281730/Combat_Master_Season_5/
 { "name" : "CombatMaster.x86_64","type": "Game"}
 
 # Comedy Night https://store.steampowered.com/app/665360/Comedy_Night/
@@ -133,13 +133,18 @@
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "Crea", "type": "Game" }
 
+# Creeper World 3: Arc Eternal https://store.steampowered.com/app/280220/Creeper_World_3_Arc_Eternal/
+{ "name": "CW3Launch", "type": "BG_CPUIO" }
+{ "name": "CW3.x86", "type": "Game" }
+{ "name": "CW3.x86_64", "type": "Game" }
+
 # Crimsonland https://store.steampowered.com/app/262830/Crimsonland/
 { "name": "crimsonland", "type": "Game" }
 
-# Crusader Kings II https://www.paradoxinteractive.com/games/crusader-kings-ii
+# Crusader Kings II https://store.steampowered.com/app/203770/Crusader_Kings_II/
 { "name": "ck2", "type": "Game" }
 
-# Crusader Kings III https://www.paradoxinteractive.com/games/crusader-kings-iii
+# Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
 { "name": "ck3", "type": "Game" }
 
 # Crush Crush https://store.steampowered.com/app/459820/Crush_Crush/

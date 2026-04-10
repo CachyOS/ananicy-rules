@@ -29,6 +29,12 @@
 # Abyss: The Wraiths of Eden https://store.steampowered.com/app/284710/Abyss_The_Wraiths_of_Eden/
 { "name": "Abyss_TheWraithsOfEden.exe", "type": "Game" }
 
+# Acceleration of SUGURI 2 https://store.steampowered.com/app/390710/Acceleration_of_SUGURI_2/
+{ "name": "aos2.exe", "type": "Game" }
+
+# Accel World VS. Sword Art Online Deluxe Edition https://store.steampowered.com/app/607880/Accel_World_VS_Sword_Art_Online_Deluxe_Edition/
+{ "name": "AWVSSAO.exe", "type": "Game" }
+
 # ACE - Arena: Cyber Evolution https://store.steampowered.com/app/285580/ACE__Arena_Cyber_Evolution/
 { "name": "cyphgame.exe", "type": "Game" }
 
@@ -47,12 +53,6 @@
 
 # Aces of the Galaxy https://store.steampowered.com/app/10120/Aces_of_the_Galaxy/
 { "name": "AcesOfTheGalaxy.exe", "type": "Game" }
-
-# Acceleration of SUGURI 2 https://store.steampowered.com/app/390710/Acceleration_of_SUGURI_2/
-{ "name": "aos2.exe", "type": "Game" }
-
-# Accel World VS. Sword Art Online Deluxe Edition https://store.steampowered.com/app/607880/Accel_World_VS_Sword_Art_Online_Deluxe_Edition/
-{ "name": "AWVSSAO.exe", "type": "Game" }
 
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 { "name": "AcrossTheObelisk.exe", "type": "Game" }
@@ -76,14 +76,11 @@
 # AdVenture Communist https://store.steampowered.com/app/462930/AdVenture_Communist/
 { "name": "adventure-communist.exe", "type": "Game" }
 
-# Adventures of Shuggy https://store.steampowered.com/app/211440/Adventures_of_Shuggy/
-{ "name": "Shuggy.exe", "type": "Game" }
-
 # AdventureQuest 3D https://store.steampowered.com/app/429790/AdventureQuest_3D/
 { "name": "aq3d.exe", "type": "Game" }
 
-# A Short Hike https://store.steampowered.com/app/1055540/A_Short_Hike/
-{ "name": "AShortHike.exe", "type": "Game" }
+# Adventures of Shuggy https://store.steampowered.com/app/211440/Adventures_of_Shuggy/
+{ "name": "Shuggy.exe", "type": "Game" }
 
 # Aeon Must Die! https://store.steampowered.com/app/1089930/Aeon_Must_Die/
 { "name": "AeonMustDie-Win64-Shipping.exe", "type": "Game" }
@@ -110,14 +107,17 @@
 # Against the Storm https://store.steampowered.com/app/1336490/Against_the_Storm/
 { "name": "Against the Storm.exe", "type": "Game" }
 
-# Agarest: Generations of War https://store.steampowered.com/app/237890/Agarest_Generations_of_War/
-{ "name": "Agarest.exe", "type": "Game" }
-
 # A Game About Digging A Hole https://store.steampowered.com/app/3244220/A_Game_About_Digging_A_Hole/
 { "name": "A_Tale_About_Digging_A_Hole_CN.exe", "type": "Game" }
 { "name": "A_Tale_About_Digging_A_Hole_DE.exe", "type": "Game" }
 { "name": "A_Tale_About_Digging_A_Hole_EN.exe", "type": "Game" }
 { "name": "DiggingGame.exe", "type": "Game" }
+
+# A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
+{ "name": "A Game About Feeding A Black Hole.exe", "type": "Game" }
+
+# Agarest: Generations of War https://store.steampowered.com/app/237890/Agarest_Generations_of_War/
+{ "name": "Agarest.exe", "type": "Game" }
 
 # Ageless https://store.steampowered.com/app/1210150/Ageless/
 { "name": "Ageless.exe", "type": "Game" }
@@ -127,17 +127,11 @@
 { "name": "AgeOfConan.exe", "type": "Game" }
 { "name": "AgeOfConanDX10.exe", "type": "Game" }
 
-# Ages of Conflict: World War Simulator https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/
-{ "name": "Ages of Conflict.exe", "type": "Game" }
-
 # Age of Empires https://store.steampowered.com/app/1017900/Age_of_Empires_Definitive_Edition/
 { "name": "AoEDE_s.exe", "type": "Game" }
 
 # Age of Empires II: Definitive Edition https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/
 { "name": "AoE2DE_s.exe", "type": "Game" }
-
-# Age of Empires II (Retired) https://store.steampowered.com/app/221380/Age_of_Empires_II_Retired/
-{ "name": "AoK HD.exe", "type": "Game" }
 
 # Age of Empires III (2007) https://store.steampowered.com/app/105450/Age_of_Empires_III_2007/
 { "name": "age3.exe", "type": "Game" }
@@ -146,6 +140,9 @@
 
 # Age of Empires III: Definitive Edition https://store.steampowered.com/app/933110/Age_of_Empires_III_Definitive_Edition/
 { "name": "AoE3DE_s.exe", "type": "Game" }
+
+# Age of Empires II (Retired) https://store.steampowered.com/app/221380/Age_of_Empires_II_Retired/
+{ "name": "AoK HD.exe", "type": "Game" }
 
 # Age of Empires IV: Anniversary Edition https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition/
 { "name": "RelicCardinal.exe", "type": "Game" }
@@ -160,10 +157,6 @@
 # Age of Mythology: Retold https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/
 { "name": "AoMRT_s.exe", "type": "Game" }
 
-# Age of Wonders III https://store.steampowered.com/app/226840/Age_of_Wonders_III/
-{ "name": "AoW3Launcher.exe", "type": "BG_CPUIO" }
-{ "name": "AoW3.exe", "type": "Game" }
-
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
 { "name": "Paradox Launcher.exe", "type": "Game" }
 { "name": "ResourceED.exe", "type": "Game" }
@@ -171,6 +164,13 @@
 { "name": "ResourceBrowser.exe", "type": "Game" }
 { "name": "AOW4.exe", "type": "Game" }
 { "name": "ContentEd.exe", "type": "Game" }
+
+# Age of Wonders III https://store.steampowered.com/app/226840/Age_of_Wonders_III/
+{ "name": "AoW3Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "AoW3.exe", "type": "Game" }
+
+# Ages of Conflict: World War Simulator https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/
+{ "name": "Ages of Conflict.exe", "type": "Game" }
 
 # A Guidebook of Babel https://store.steampowered.com/app/1467920/A_Guidebook_of_Babel/
 { "name": "Babel.exe", "type": "Game" }
@@ -183,6 +183,9 @@
 
 # Aimlabs https://store.steampowered.com/app/714010/Aimlabs/
 { "name": "AimLab_tb.exe", "type": "Game" }
+
+# Air Brawl https://store.steampowered.com/app/375600/Air_Brawl/
+{ "name": "Air Brawl.exe", "type": "Game" }
 
 # Aircraft Carrier Survival https://store.steampowered.com/app/1021100/Aircraft_Carrier_Survival/
 { "name": "AircraftCarrierSurvival.exe", "type": "Game" }
@@ -271,6 +274,9 @@
 # A Little to the Left https://store.steampowered.com/app/1629520/A_Little_to_the_Left/
 { "name": "A Little To The Left.exe", "type": "Game" }
 
+# All Quiet in the Trenches https://store.steampowered.com/app/863500/All_Quiet_in_the_Trenches/
+{ "name": "All Quiet in the Trenches.exe", "type": "Game" }
+
 # ALL WILL FALL https://store.steampowered.com/app/2706020/ALL_WILL_FALL/
 { "name": "All Will Fall.exe", "type": "Game" }
 
@@ -293,13 +299,6 @@
 
 # Always Sometimes Monsters https://store.steampowered.com/app/274310/Always_Sometimes_Monsters/
 { "name": "alternatereality.exe", "type": "Game" }
-
-# Aquaria https://store.steampowered.com/app/24420/Aquaria/
-{ "name": "Aquaria.exe", "type": "Game" }
-
-# A Quiet Place: The Road Ahead https://store.steampowered.com/app/2233120/A_Quiet_Place_The_Road_Ahead/
-{ "name": "AQuietPlace.exe", "type": "Game" }
-{ "name": "AQuietPlace-Win64-Shipping.exe", "type": "Game" }
 
 # Amazing Cultivation Simulator https://store.steampowered.com/app/955900/Amazing_Cultivation_Simulator/
 { "name": "Amazing Cultivation Simulator.exe", "type": "Game" }
@@ -389,9 +388,6 @@
 # Angry Video Game Nerd Adventures https://store.steampowered.com/app/237740/Angry_Video_Game_Nerd_Adventures/
 { "name": "avgn.exe", "type": "Game" }
 
-# Ankh - Anniversary Edition https://store.steampowered.com/app/353980/Ankh__Anniversary_Edition/
-{ "name": "Ankh.exe", "type": "Game" }
-
 # Animalkind https://store.steampowered.com/app/2997840/Animalkind/
 { "name": "Animalkind.exe", "type": "Game" }
 
@@ -403,6 +399,9 @@
 
 # ANIMAL WELL https://store.steampowered.com/app/813230/ANIMAL_WELL/
 { "name": "Animal Well.exe", "type": "Game" }
+
+# Ankh - Anniversary Edition https://store.steampowered.com/app/353980/Ankh__Anniversary_Edition/
+{ "name": "Ankh.exe", "type": "Game" }
 
 # Anna - Extended Edition https://store.steampowered.com/app/217690/Anna__Extended_Edition/
 { "name": "Anna.exe", "type": "Game" }
@@ -449,6 +448,9 @@
 # Another Crab's Treasure https://store.steampowered.com/app/1887840/Another_Crabs_Treasure/
 { "name": "AnotherCrabsTreasure.exe", "type": "Game" }
 
+# Another World – 20th Anniversary Edition https://store.steampowered.com/app/233550/Another_World__20th_Anniversary_Edition/
+{ "name": "anowor.exe", "type": "Game" }
+
 # ANTONBLAST https://store.steampowered.com/app/1887400/ANTONBLAST/
 { "name": "ANTONBLAST.exe", "type": "Game" }
 
@@ -494,11 +496,21 @@
 # Apotheon Arena https://store.steampowered.com/app/417890/Apotheon_Arena/
 { "name": "ApotheonArena.exe", "type": "Game" }
 
+# Aquaria https://store.steampowered.com/app/24420/Aquaria/
+{ "name": "Aquaria.exe", "type": "Game" }
+
+# A Quiet Place: The Road Ahead https://store.steampowered.com/app/2233120/A_Quiet_Place_The_Road_Ahead/
+{ "name": "AQuietPlace.exe", "type": "Game" }
+{ "name": "AQuietPlace-Win64-Shipping.exe", "type": "Game" }
+
 # Aragami https://store.steampowered.com/app/280160/Aragami/
 { "name": "Aragami.exe", "type": "Game" }
 
 # Ara History Untold: Anniversary Edition https://store.steampowered.com/app/2021880/Ara_History_Untold_Anniversary_Edition/
 { "name": "AraHistoryUntold.exe", "type": "Game" }
+
+# ARCADE GAME SERIES: DIG DUG https://store.steampowered.com/app/403400/ARCADE_GAME_SERIES_DIG_DUG/
+{ "name": "DIG DUG.exe", "type": "Game" }
 
 # ARCADE GAME SERIES: GALAGA https://store.steampowered.com/app/403430/ARCADE_GAME_SERIES_GALAGA/
 { "name": "GALAGA.exe", "type": "Game" }
@@ -506,14 +518,8 @@
 # ARCADE GAME SERIES: Ms. PAC-MAN https://store.steampowered.com/app/403410/ARCADE_GAME_SERIES_Ms_PACMAN/
 { "name": "Ms. PAC-MAN.exe", "type": "Game" }
 
-# ARCADE GAME SERIES: DIG DUG https://store.steampowered.com/app/403400/ARCADE_GAME_SERIES_DIG_DUG/
-{ "name": "DIG DUG.exe", "type": "Game" }
-
 # ArcaniA https://store.steampowered.com/app/39690/ArcaniA/
 { "name": "Arcania.exe", "type": "Game" }
-
-# ARC Raiders https://store.steampowered.com/app/1808500/ARC_Raiders/
-{ "name": "PioneerGame.exe", "type": "Game" }
 
 # ArcheBlade https://store.steampowered.com/app/207230/ArcheBlade/
 { "name": "Archeblade.exe", "type": "Game" }
@@ -521,6 +527,9 @@
 # Architect Life: A House Design Simulator https://store.steampowered.com/app/1296400/Architect_Life_A_House_Design_Simulator/
 { "name": "ArchitectLife.exe", "type": "Game" }
 { "name": "Architect-Win64-Shipping.exe", "type": "Game" }
+
+# ARC Raiders https://store.steampowered.com/app/1808500/ARC_Raiders/
+{ "name": "PioneerGame.exe", "type": "Game" }
 
 # Arena Breakout: Infinite https://store.steampowered.com/app/2073620/Arena_Breakout_Infinite/
 { "name": "UAGame.exe", "type": "Game" }
@@ -562,6 +571,9 @@
 { "name": "ArmaReforger_BE.exe", "type": "Game" }
 { "name": "ArmaReforgerSteam.exe", "type": "Game" }
 
+# ARMED SEVEN https://store.steampowered.com/app/349690/ARMED_SEVEN/
+{ "name": "armed7.exe", "type": "Game" }
+
 # Armello https://store.steampowered.com/app/290340/Armello/
 { "name": "armello.exe", "type": "Game" }
 
@@ -585,18 +597,28 @@
 { "name": "AOCClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntrepidStudiosLauncher.exe", "type": "BG_CPUIO" }
 
+# A Short Hike https://store.steampowered.com/app/1055540/A_Short_Hike/
+{ "name": "AShortHike.exe", "type": "Game" }
+
 # ASKA https://store.steampowered.com/app/1898300/ASKA/
 { "name": "Aska.exe", "type": "Game" }
 
 # A Space for the Unbound https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/
 { "name": "A Space for the Unbound.exe", "type": "Game" }
 
+# Assassin's Creed 2 https://store.steampowered.com/app/33230/Assassins_Creed_2/
+{ "name": "AssassinsCreedIIGame.exe", "type": "Game" }
+
+# Assassin’s Creed Brotherhood https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/
+{ "name": "ACBSP.exe", "type": "Game" }
+{ "name": "ACBMP.exe", "type": "Game" }
+
 # Assassin's Creed: Director's Cut Edition https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/
 { "name": "AssassinsCreed_Dx9.exe", "type": "Game" }
 { "name": "AssassinsCreed_Dx10.exe", "type": "Game" }
 
-# Assassin's Creed 2 https://store.steampowered.com/app/33230/Assassins_Creed_2/
-{ "name": "AssassinsCreedIIGame.exe", "type": "Game" }
+# Assassin's Creed Freedom Cry https://store.steampowered.com/app/277590/Assassins_Creed_Freedom_Cry/
+{ "name": "ACFC.exe", "type": "Game" }
 
 # Assassin's Creed III Remastered https://store.steampowered.com/app/911400/Assassins_Creed_III_Remastered/
 { "name": "AC3SP.exe", "type": "Game" }
@@ -605,15 +627,6 @@
 # Assassin’s Creed IV Black Flag https://store.steampowered.com/app/242050/Assassins_Creed_IV_Black_Flag/
 { "name": "AC4BFMP.exe", "type": "Game" }
 { "name": "AC4BFSP.exe", "type": "Game" }
-
-# Assassin’s Creed Brotherhood https://store.steampowered.com/app/48190/Assassins_Creed_Brotherhood/
-{ "name": "ACBSP.exe", "type": "Game" }
-{ "name": "ACBMP.exe", "type": "Game" }
-
-
-
-# Assassin's Creed Freedom Cry https://store.steampowered.com/app/277590/Assassins_Creed_Freedom_Cry/
-{ "name": "ACFC.exe", "type": "Game" }
 
 # Assassin’s Creed Liberation HD https://store.steampowered.com/app/260210/Assassins_Creed_Liberation_HD/
 { "name": "ac3lhd_32.exe", "type": "Game" }
@@ -672,6 +685,9 @@
 { "name": "ASTLIBRA.exe", "type": "Game" }
 { "name": "AST_GAIDEN.exe", "type": "Game" }
 
+# A Story About My Uncle https://store.steampowered.com/app/278360/A_Story_About_My_Uncle/
+{ "name": "ASAMU-Win32-Shipping.exe", "type": "Game" }
+
 # Astral Ascent https://store.steampowered.com/app/1280930/Astral_Ascent/
 { "name": "Astral Ascent.exe", "type": "Game" }
 
@@ -681,9 +697,6 @@
 
 # ASTROBOTANICA https://store.steampowered.com/app/2720920/ASTROBOTANICA/
 { "name": "Astrobotanica.exe", "type": "Game" }
-
-# A Story About My Uncle https://store.steampowered.com/app/278360/A_Story_About_My_Uncle/
-{ "name": "ASAMU-Win32-Shipping.exe", "type": "Game" }
 
 # ASTRONEER https://store.steampowered.com/app/361420/ASTRONEER/
 { "name": "Astro-Win64-Shipping.exe", "type": "Game" }
@@ -796,6 +809,9 @@
 { "name": "QuestViewer.exe", "type": "Game" }
 { "name": "Audiosurf.exe", "type": "Game" }
 
+# Audiosurf 2 https://store.steampowered.com/app/235800/Audiosurf_2/
+{ "name": "Audiosurf2.exe", "type": "Game" }
+
 # Aura Kingdom https://store.steampowered.com/app/268420/Aura_Kingdom/
 { "name": "_Launcher.exe", "type": "Game" }
 
@@ -842,9 +858,13 @@
 { "name": "AwesomenautsLauncher.exe", "type": "BG_CPUIO" }
 { "name": "Awesomenauts.exe", "type": "Game" }
 
+# Axiom Verge https://store.steampowered.com/app/332200/Axiom_Verge/
+{ "name": "AxiomVerge.exe", "type": "Game" }
+
 # Axis & Allies 1942 Online https://store.steampowered.com/app/898920/Axis__Allies_1942_Online/
 { "name": "AxisAndAllies1942Online.exe", "type": "Game" }
 
 # Azur Lane Crosswave https://store.steampowered.com/app/1150080/Azur_Lane_Crosswave/
 { "name": "Azurlane.exe", "type": "Game" }
 { "name": "Azurlane-Win64-Shipping.exe", "type": "Game" }
+

@@ -26,24 +26,24 @@
 # Tainted Grail: The Fall of Avalon https://store.steampowered.com/app/1466060/Tainted_Grail_The_Fall_of_Avalon/
 { "name": "Fall of Avalon.exe", "type": "Game" }
 
+# Takedown: Red Sabre https://store.steampowered.com/app/236510/Takedown_Red_Sabre/
+{ "name": "TakedownGame-Win32-Shipping.exe", "type": "Game" }
+{ "name": "TakedownGame-Win64-Shipping.exe", "type": "Game" }
+
 # Take On Mars https://store.steampowered.com/app/244030/Take_On_Mars/
 { "name": "TKOM.exe", "type": "Game" }
 { "name": "TKOM_Loader.exe", "type": "Game" }
 { "name": "TKOM_dev.exe", "type": "Game" }
 
-# Takedown: Red Sabre https://store.steampowered.com/app/236510/Takedown_Red_Sabre/
-{ "name": "TakedownGame-Win32-Shipping.exe", "type": "Game" }
-{ "name": "TakedownGame-Win64-Shipping.exe", "type": "Game" }
-
 # Tales of ARISE https://store.steampowered.com/app/740130/Tales_of_ARISE/
 { "name": "Tales of Arise.exe", "type": "Game" }
+
+# Tales of Berseria https://store.steampowered.com/app/429660/Tales_of_Berseria/
+{ "name": "Tales of Berseria.exe", "type": "Game" }
 
 # Tales of Berseria Remastered https://store.steampowered.com/app/2331020/Tales_of_Berseria_Remastered/
 { "name": "Tales of Berseria Remastered.exe", "type": "Game" }
 { "name": "Tales of Berseria Remastered_Game.exe", "type": "Game" }
-
-# Tales of Berseria https://store.steampowered.com/app/429660/Tales_of_Berseria/
-{ "name": "Tales of Berseria.exe", "type": "Game" }
 
 # Tales of Graces f Remastered https://store.steampowered.com/app/2530980/Tales_of_Graces_f_Remastered/
 { "name": "Tales of Graces f Remastered.exe", "type": "Game" }
@@ -51,17 +51,17 @@
 # Tales of Maj'Eyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
 { "name": "t-engine.exe", "type": "Game" }
 
-# Tales of Xillia Remastered https://store.steampowered.com/app/2246670/Tales_of_Xillia_Remastered/
-{ "name": "Tales of Xillia Remastered.exe", "type": "Game" }
-
 # Tales of Symphonia https://store.steampowered.com/app/372360/Tales_of_Symphonia/
 { "name": "TOS.exe", "type": "Game" }
 
-# Tales of Zestiria https://store.steampowered.com/app/351970/Tales_of_Zestiria/
-{ "name": "Tales of Zestiria.exe", "type": "Game" }
-
 # Tales of Vesperia: Definitive Edition https://store.steampowered.com/app/738540/Tales_of_Vesperia_Definitive_Edition/
 { "name": "TOV_DE.exe", "type": "Game" }
+
+# Tales of Xillia Remastered https://store.steampowered.com/app/2246670/Tales_of_Xillia_Remastered/
+{ "name": "Tales of Xillia Remastered.exe", "type": "Game" }
+
+# Tales of Zestiria https://store.steampowered.com/app/351970/Tales_of_Zestiria/
+{ "name": "Tales of Zestiria.exe", "type": "Game" }
 
 # TaleSpire https://store.steampowered.com/app/720620/TaleSpire/
 { "name": "TaleSpire.exe", "type": "Game" }
@@ -71,6 +71,9 @@
 
 # Talisman: Digital Classic Edition https://store.steampowered.com/app/247000/Talisman_Digital_Classic_Edition/
 { "name": "Talisman.exe", "type": "Game" }
+
+# Tangy TD https://store.steampowered.com/app/2245620/Tangy_TD/
+{ "name": "TangyTD.exe", "type": "Game" }
 
 # Tanki Online https://store.steampowered.com/app/562010/Tanki_Online/
 { "name": "Tanki Online.exe", "type": "Game" }
@@ -83,6 +86,9 @@
 
 # Tap Heroes https://store.steampowered.com/app/371570/Tap_Heroes/
 { "name": "Tap Heroes.exe", "type": "Game" }
+
+# Tap Ninja - Idle game https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
+{ "name": "Tap Ninja.exe", "type": "Game" }
 
 # TAPSONIC BOLD https://store.steampowered.com/app/938220/TAPSONIC_BOLD/
 { "name": "BOLD.exe", "type": "Game" }
@@ -103,14 +109,15 @@
 { "name": "TaxiLife.exe", "type": "Game" }
 { "name": "TaxiLife-Win64-Shipping.exe", "type": "Game" }
 
-# Tangy TD https://store.steampowered.com/app/2245620/Tangy_TD/
-{ "name": "TangyTD.exe", "type": "Game" }
-
 # TCG Card Shop Simulator https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
 { "name": "Card Shop Simulator.exe", "type": "Game" }
 
 # Teamfight Manager https://store.steampowered.com/app/1372810/Teamfight_Manager/
 { "name": "Teamfight Manager.exe", "type": "Game" }
+
+# Team Fortress 2 http://store.steampowered.com/app/440/Team_Fortress_2/
+{ "name": "tf.exe", "type": "Game" }
+{ "name": "tf_win64.exe", "type": "Game" }
 
 # Teardown https://store.steampowered.com/app/1167630/Teardown/
 { "name": "teardown.exe", "type": "Game" }
@@ -119,8 +126,15 @@
 # Techtonica https://store.steampowered.com/app/1457320/Techtonica/
 { "name": "Techtonica.exe", "type": "Game" }
 
+# Teenage Mutant Ninja Turtles: Shredder's Revenge https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/
+{ "name": "TMNT.exe", "type": "Game" }
+
 # Teenage Mutant Ninja Turtles: Splintered Fate https://store.steampowered.com/app/2996040/Teenage_Mutant_Ninja_Turtles_Splintered_Fate/
 { "name": "TMNTSF.exe", "type": "Game" }
+
+# Teeworlds https://store.steampowered.com/app/380840/Teeworlds/
+{ "name": "teeworlds.exe", "type": "Game" }
+{ "name": "teeworlds_srv.exe", "type": "Game" }
 
 # TEKKEN 7 https://store.steampowered.com/app/389730/TEKKEN_7/
 { "name": "TEKKEN 7.exe", "type": "Game" }
@@ -218,6 +232,9 @@
 # Them's Fightin' Herds https://store.steampowered.com/app/574980/Thems_Fightin_Herds/
 { "name": "Them's Fightin' Herds.exe", "type": "Game" }
 
+# the other older ghost recon games use the same exe name https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
+{ "name": "GhostRecon.exe", "type": "Game" }
+
 # There Is No Game: Wrong Dimension https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/
 { "name": "Ting.exe", "type": "Game" }
 
@@ -231,11 +248,6 @@
 # Thief https://store.steampowered.com/app/239160/Thief/
 { "name": "Shipping-ThiefGame.exe", "type": "Game" }
 
-# Thief II: The Metal Age https://store.steampowered.com/app/211740/Thief_II_The_Metal_Age/
-{ "name": "thief2_no_ddfix.exe", "type": "Game" }
-{ "name": "thief2.exe", "type": "Game" }
-{ "name": "Thief2.exe", "type": "Game" }
-
 # Thief: Deadly Shadows https://store.steampowered.com/app/6980/Thief_Deadly_Shadows/
 { "name": "t3.exe", "type": "Game" }
 { "name": "T3Main.exe", "type": "Game" }
@@ -243,6 +255,11 @@
 # Thief Gold https://store.steampowered.com/app/211600/Thief_Gold/
 { "name": "THIEF.EXE", "type": "Game" }
 { "name": "THIEF_no_ddfix.EXE", "type": "Game" }
+
+# Thief II: The Metal Age https://store.steampowered.com/app/211740/Thief_II_The_Metal_Age/
+{ "name": "thief2_no_ddfix.exe", "type": "Game" }
+{ "name": "thief2.exe", "type": "Game" }
+{ "name": "Thief2.exe", "type": "Game" }
 
 # Thief Simulator https://store.steampowered.com/app/704850/Thief_Simulator/
 { "name": "thief.exe", "type": "Game" }
@@ -291,6 +308,9 @@
 # TimeShift https://store.steampowered.com/app/10130/TimeShift/
 { "name": "TimeShift.Exe", "type": "Game" }
 
+# Timespinner https://store.steampowered.com/app/368620/Timespinner/
+{ "name": "Timespinner.exe", "type": "Game" }
+
 # Time Walker: Dark World https://store.steampowered.com/app/2093910/Time_Walker_Dark_World/
 { "name": "Time Walker Dark World.exe", "type": "Game" }
 { "name": "Timeline Walker Dark World.exe", "type": "Game" }
@@ -311,6 +331,12 @@
 { "name": "TinyBunny-32.exe", "type": "Game" }
 { "name": "TinyBunny.exe", "type": "Game" }
 
+# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
+{ "name": "tiny-glade.exe", "type": "Game" }
+
+# Tiny Pasture https://store.steampowered.com/app/3167550/Tiny_Pasture/
+{ "name": "TinyPasture.exe", "type": "Game" }
+
 # Tiny Rogues https://store.steampowered.com/app/2088570/Tiny_Rogues/
 { "name": "Tiny Rogues.exe", "type": "Game" }
 
@@ -329,27 +355,21 @@
 { "name": "Titanfall2_trial.exe", "type": "Game" }
 { "name": "NorthstarLauncher.exe", "type": "Game" }
 
-# Titanfall Online
+# Titanfall Online https://titanfall.fandom.com/wiki/Titanfall_Online
 { "name": "TFO.exe", "type": "Game" }
 { "name": "tfods.exe", "type": "Game" }
 { "name": "TitanFallOnline.exe", "type": "Game" }
 { "name": "r1_x64.exe", "type": "Game" }
 
-# Titan Souls https://store.steampowered.com/app/297130/Titan_Souls/
-{ "name": "TITAN.exe", "type": "Game" }
+# Titan Quest Anniversary Edition https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/
+{ "name": "TQ.exe", "type": "Game" }
 
 # Titan Quest II https://store.steampowered.com/app/1154030/Titan_Quest_II/
 { "name": "TQ2.exe", "type": "Game" }
 { "name": "TQ2-Win64-Shipping.exe", "type": "Game" }
 
-# Titan Quest Anniversary Edition https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/
-{ "name": "TQ.exe", "type": "Game" }
-
-# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
-{ "name": "tiny-glade.exe", "type": "Game" }
-
-# Tiny Pasture https://store.steampowered.com/app/3167550/Tiny_Pasture/
-{ "name": "TinyPasture.exe", "type": "Game" }
+# Titan Souls https://store.steampowered.com/app/297130/Titan_Souls/
+{ "name": "TITAN.exe", "type": "Game" }
 
 # tModLoader https://store.steampowered.com/app/1281930/tModLoader/
 { "name": "tModLoader.exe", "type": "Game" }
@@ -370,11 +390,14 @@
 # Toki Tori 2+ https://store.steampowered.com/app/201420/Toki_Tori_2/
 { "name": "tokitori2.exe", "type": "Game" }
 
+# TOKYO GHOUL:re [CALL to EXIST] https://store.steampowered.com/app/756530/TOKYO_GHOULre_CALL_to_EXIST/
+{ "name": "CALL to EXIST.exe", "type": "Game" }
+
 # Tokyo Xtreme Racer https://store.steampowered.com/app/2634950/Tokyo_Xtreme_Racer/
 { "name": "TokyoXtremeRacer-Win64-Shipping.exe", "type": "Game" }
 
-# Tomb Raider IV-VI Remastered https://store.steampowered.com/app/2525380/Tomb_Raider_IVVI_Remastered/
-{ "name": "tomb456.exe", "type": "Game" }
+# Tomb Raider: Anniversary https://store.steampowered.com/app/8000/Tomb_Raider_Anniversary/
+{ "name": "tra.exe", "type": "Game" }
 
 # Tomb Raider Game of the Year https://store.steampowered.com/app/203160/Tomb_Raider_Game_of_the_Year/
 { "name": "TombRaider.exe", "type": "Game" }
@@ -387,22 +410,17 @@
 # Tomb Raider II (1997) https://store.steampowered.com/app/225300/Tomb_Raider_II_1997/
 { "name": "Tomb2.exe", "type": "Game" }
 
-# Tomb Raider I-III Remastered Starring Lara Croft https://store.steampowered.com/app/2478970/Tomb_Raider_IIII_Remastered_Starring_Lara_Croft/
-{ "name": "tomb123.exe", "type": "Game" }
-
 # Tomb Raider III (1998) https://store.steampowered.com/app/225320/Tomb_Raider_III_1998/
 { "name": "tomb3.exe", "type": "Game" }
+
+# Tomb Raider I-III Remastered Starring Lara Croft https://store.steampowered.com/app/2478970/Tomb_Raider_IIII_Remastered_Starring_Lara_Croft/
+{ "name": "tomb123.exe", "type": "Game" }
 
 # Tomb Raider IV: The Last Revelation (1999) https://store.steampowered.com/app/224980/Tomb_Raider_IV_The_Last_Revelation_1999/
 { "name": "tomb4.exe", "type": "Game" }
 
-# Tomb Raider VI: The Angel of Darkness (2003) https://store.steampowered.com/app/225020/Tomb_Raider_VI_The_Angel_of_Darkness_2003/
-{ "name": "TRAOD.exe", "type": "Game" }
-{ "name": "TRAOD_P3.exe", "type": "Game" }
-{ "name": "TRAOD_P4.exe", "type": "Game" }
-
-# Tomb Raider: Anniversary https://store.steampowered.com/app/8000/Tomb_Raider_Anniversary/
-{ "name": "tra.exe", "type": "Game" }
+# Tomb Raider IV-VI Remastered https://store.steampowered.com/app/2525380/Tomb_Raider_IVVI_Remastered/
+{ "name": "tomb456.exe", "type": "Game" }
 
 # Tomb Raider: Legend https://store.steampowered.com/app/7000/Tomb_Raider_Legend/
 { "name": "trl.exe", "type": "Game" }
@@ -410,20 +428,19 @@
 # Tomb Raider: Underworld https://store.steampowered.com/app/8140/Tomb_Raider_Underworld/
 { "name": "tru.exe", "type": "Game" }
 
+# Tomb Raider VI: The Angel of Darkness (2003) https://store.steampowered.com/app/225020/Tomb_Raider_VI_The_Angel_of_Darkness_2003/
+{ "name": "TRAOD.exe", "type": "Game" }
+{ "name": "TRAOD_P3.exe", "type": "Game" }
+{ "name": "TRAOD_P4.exe", "type": "Game" }
+
 # Tombwater https://store.steampowered.com/app/3308200/Tombwater/
 { "name": "tombwater.exe", "type": "Game" }
 
-# TOKYO GHOUL:re [CALL to EXIST] https://store.steampowered.com/app/756530/TOKYO_GHOULre_CALL_to_EXIST/
-{ "name": "CALL to EXIST.exe", "type": "Game" }
-
-# the other older ghost recon games use the same exe name https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
-{ "name": "GhostRecon.exe", "type": "Game" }
-
-# Tom Clancy's Ghost Recon Advanced Warfighter
+# Tom Clancy's Ghost Recon Advanced Warfighter https://steamdb.info/app/13640/
 { "name": "GRAW.exe", "type": "Game" }
 { "name": "GRAW-standalone.exe", "type": "Game" }
 
-# Tom Clancy's Ghost Recon Advanced Warfighter 2
+# Tom Clancy's Ghost Recon Advanced Warfighter 2 https://steamdb.info/app/13510/
 { "name": "graw2.exe", "type": "Game" }
 { "name": "graw2_dedicated.exe", "type": "Game" }
 
@@ -439,6 +456,9 @@
 # Tom Clancy's Ghost Recon Wildlands https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/
 { "name": "GRW.exe", "type": "Game" }
 
+# Tom Clancy's Rainbow Six 3 Gold https://store.steampowered.com/app/19830/Tom_Clancys_Rainbow_Six_3_Gold/
+{ "name": "RavenShield.exe", "type": "Game" }
+
 # Tom Clancy’s Rainbow Six Extraction https://store.steampowered.com/app/2379390/Tom_Clancys_Rainbow_Six_Extraction/
 { "name": "R6-Extraction.exe", "type": "Game" }
 
@@ -453,9 +473,6 @@
 { "name": "R6Vegas2_Game.exe", "type": "Game" }
 { "name": "RainbowSixVegas2_SADS.exe", "type": "Game" }
 
-# Tom Clancy's Rainbow Six 3 Gold https://store.steampowered.com/app/19830/Tom_Clancys_Rainbow_Six_3_Gold/
-{ "name": "RavenShield.exe", "type": "Game" }
-
 # Tom Clancy's Splinter Cell https://store.steampowered.com/app/13560/Tom_Clancys_Splinter_Cell/
 { "name": "splintercell.exe", "type": "Game" }
 
@@ -463,16 +480,16 @@
 { "name": "Blacklist_DX11_game.exe", "type": "Game" }
 { "name": "Blacklist_game.exe", "type": "Game" }
 
-# Tom Clancy's Splinter Cell Double Agent https://store.steampowered.com/app/13580/Tom_Clancys_Splinter_Cell_Double_Agent/
-{ "name": "SCDALauncher.exe", "type": "BG_CPUIO" }
-{ "name": "SplinterCell4.exe", "type": "Game" }
-{ "name": "SCDA_online.exe", "type": "Game" }
-
 # Tom Clancy's Splinter Cell Chaos Theory https://store.steampowered.com/app/13570/Tom_Clancys_Splinter_Cell_Chaos_Theory/
 { "name": "splintercell3.exe", "type": "Game" }
 
 # Tom Clancy's Splinter Cell Conviction https://store.steampowered.com/app/33220/Tom_Clancys_Splinter_Cell_Conviction/
 { "name": "conviction_game.exe", "type": "Game" }
+
+# Tom Clancy's Splinter Cell Double Agent https://store.steampowered.com/app/13580/Tom_Clancys_Splinter_Cell_Double_Agent/
+{ "name": "SCDALauncher.exe", "type": "BG_CPUIO" }
+{ "name": "SplinterCell4.exe", "type": "Game" }
+{ "name": "SCDA_online.exe", "type": "Game" }
 
 # Tom Clancy’s The Division https://store.steampowered.com/app/365590/Tom_Clancys_The_Division/
 { "name": "thedivision.exe", "type": "Game" }
@@ -520,15 +537,15 @@
 # Tormented Souls 2 https://store.steampowered.com/app/2464280/Tormented_Souls_2/
 { "name": "TormentedSouls2.exe", "type": "Game" }
 
+# Torment: Tides of Numenera https://store.steampowered.com/app/272270/Torment_Tides_of_Numenera/
+{ "name": "TidesOfNumenera.exe", "type": "Game" }
+
 # Torque Drift https://store.steampowered.com/app/1029550/Torque_Drift/
 { "name": "TorqueDrift.exe", "type": "Game" }
 
 # Total Annihilation https://store.steampowered.com/app/298030/Total_Annihilation/
 { "name": "TAE.EXE", "type": "Game" }
 { "name": "TotalA.exe", "type": "Game" }
-
-# Total Tank Simulator https://store.steampowered.com/app/674500/Total_Tank_Simulator/
-{ "name": "TotalTankSim.exe", "type": "Game" }
 
 # Totally Accurate Battlegrounds https://store.steampowered.com/app/823130/Totally_Accurate_Battlegrounds/
 { "name": "TotallyAccurateBattlegrounds.exe", "type": "Game" }
@@ -539,17 +556,26 @@
 # Totally Reliable Delivery Service https://store.steampowered.com/app/1011670/Totally_Reliable_Delivery_Service/
 { "name": "Totally Reliable Delivery Service.exe", "type": "Game" }
 
+# Total Tank Simulator https://store.steampowered.com/app/674500/Total_Tank_Simulator/
+{ "name": "TotalTankSim.exe", "type": "Game" }
+
 # Total War: ATTILA https://store.steampowered.com/app/325610/Total_War_ATTILA/
 { "name": "Attila.exe", "type": "Game" }
 
 # Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
 { "name": "Empire.exe", "type": "Game" }
 
+# Total War: MEDIEVAL II – Definitive Edition https://store.steampowered.com/app/4700/Total_War_MEDIEVAL_II__Definitive_Edition/
+{ "name": "medieval2.exe", "type": "Game" }
+
 # Total War: NAPOLEON – Definitive Edition https://store.steampowered.com/app/34030/Total_War_NAPOLEON__Definitive_Edition/
 { "name": "Napoleon.exe", "type": "Game" }
 
 # Total War: ROME II - Emperor Edition https://store.steampowered.com/app/214950/Total_War_ROME_II__Emperor_Edition/
 { "name": "Rome2.exe", "type": "Game" }
+
+# Total War: ROME REMASTERED https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
+{ "name": "Total War ROME REMASTERED.exe", "type": "Game" }
 
 # Total War: SHOGUN 2 https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/
 { "name": "shogun2.exe", "type": "Game" }
@@ -604,12 +630,6 @@
 # Towa and the Guardians of the Sacred Tree https://store.steampowered.com/app/1910090/Towa_and_the_Guardians_of_the_Sacred_Tree/
 { "name": "Towa and the Guardians of the Sacred Tree.exe", "type": "Game" }
 
-# Towns https://store.steampowered.com/app/221020/Towns/
-{ "name": "Towns.exe", "type": "Game" }
-
-# Townscaper https://store.steampowered.com/app/1291340/Townscaper/
-{ "name": "Townscaper.exe", "type": "Game" }
-
 # Towerborne https://store.steampowered.com/app/2458830/Towerborne/
 { "name": "Belfry.exe", "type": "Game" }
 { "name": "Belfry-Win64-Shipping.exe", "type": "Game" }
@@ -623,13 +643,6 @@
 # TowerFall Ascension https://store.steampowered.com/app/251470/TowerFall_Ascension/
 { "name": "TowerFall.exe", "type": "Game" }
 
-# Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
-{ "name": "Tower-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Tower.exe", "type": "Game" }
-
-# Tower Wars https://store.steampowered.com/app/214360/Tower_Wars/
-{ "name": "TW.exe", "type": "Game" }
-
 # Tower of Babel: Survivors of Chaos https://store.steampowered.com/app/2665680/Tower_of_Babel_Survivors_of_Chaos/
 { "name": "Tower Of Babel.exe", "type": "Game" }
 
@@ -637,11 +650,27 @@
 { "name": "HottaLauncher.exe", "type": "Game" }
 { "name": "HottaGame.exe", "type": "Game" }
 
+# Tower of Time https://store.steampowered.com/app/617480/Tower_of_Time/
+{ "name": "TowerOfTime.exe", "type": "Game" }
+
+# Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
+{ "name": "Tower-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Tower.exe", "type": "Game" }
+
+# Tower Wars https://store.steampowered.com/app/214360/Tower_Wars/
+{ "name": "TW.exe", "type": "Game" }
+
 # Town of Salem https://store.steampowered.com/app/334230/Town_of_Salem/
 { "name": "TownOfSalem.exe", "type": "Game" }
 
 # Town of Salem 2 https://store.steampowered.com/app/2140510/Town_of_Salem_2/
 { "name": "TownOfSalem2.exe", "type": "Game" }
+
+# Towns https://store.steampowered.com/app/221020/Towns/
+{ "name": "Towns.exe", "type": "Game" }
+
+# Townscaper https://store.steampowered.com/app/1291340/Townscaper/
+{ "name": "Townscaper.exe", "type": "Game" }
 
 # Town to City https://store.steampowered.com/app/3115220/Town_to_City/
 { "name": "TownToCity.exe", "type": "Game" }
@@ -679,14 +708,14 @@
 # Transistor https://store.steampowered.com/app/237930/Transistor/
 { "name": "Transistor.exe", "type": "Game" }
 
+# TransOcean: The Shipping Company https://store.steampowered.com/app/289930/TransOcean_The_Shipping_Company/
+{ "name": "TransOcean.exe", "type": "Game" }
+
 # Transport Fever https://store.steampowered.com/app/446800/Transport_Fever/
 { "name": "TransportFever.exe", "type": "Game" }
 
 # Transport Fever 2 https://store.steampowered.com/app/1066780/Transport_Fever_2/
 { "name": "TransportFever2.exe", "type": "Game" }
-
-# TransOcean: The Shipping Company https://store.steampowered.com/app/289930/TransOcean_The_Shipping_Company/
-{ "name": "TransOcean.exe", "type": "Game" }
 
 # Trash Goblin https://store.steampowered.com/app/2407830/Trash_Goblin/
 { "name": "TrashGoblin.exe", "type": "Game" }
@@ -729,8 +758,18 @@
 { "name": "TricolourLovestory_chs.exe", "type": "Game" }
 { "name": "TricolourLovestory_en.exe", "type": "Game" }
 
+# Trine 2: Complete Story https://store.steampowered.com/app/35720/Trine_2_Complete_Story/
+{ "name": "trine2_game.exe", "type": "Game" }
+
+# Trine 3: The Artifacts of Power https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/
+{ "name": "trine3.exe", "type": "Game" }
+
 # Trine 4: The Nightmare Prince https://store.steampowered.com/app/690640/Trine_4_The_Nightmare_Prince/
 { "name": "trine4.exe", "type": "Game" }
+
+# Trine Enchanted Edition https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/
+{ "name": "trine1_game.exe", "type": "Game" }
+{ "name": "trine.exe", "type": "Game" }
 
 # Trombone Champ https://store.steampowered.com/app/1059990/Trombone_Champ/
 { "name": "TromboneChamp.exe", "type": "Game" }
@@ -740,6 +779,13 @@
 
 # Tropico 4 https://store.steampowered.com/app/57690/Tropico_4/
 { "name": "Tropico4.exe", "type": "Game" }
+
+# Tropico 5 https://store.steampowered.com/app/245620/Tropico_5/
+{ "name": "Tropico5Steam.exe", "type": "Game" }
+
+# Tropico 6 https://store.steampowered.com/app/492720/Tropico_6/
+{ "name": "Tropico6-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Tropico6.exe", "type": "Game" }
 
 # Tropico Reloaded https://store.steampowered.com/app/33520/Tropico_Reloaded/
 { "name": "Tropico.EXE", "type": "Game" }
@@ -767,11 +813,11 @@
 { "name": "TrypFPV.exe", "type": "Game" }
 { "name": "TrypFPV-Win64-Shipping.exe", "type": "Game" }
 
-# TT Isle of Man: Ride on the Edge 2 https://store.steampowered.com/app/1082180/TT_Isle_of_Man_Ride_on_the_Edge_2/
-{ "name": "TT2.exe", "type": "Game" }
-
 # TT Isle of Man: Ride on the Edge https://store.steampowered.com/app/626610/TT_Isle_of_Man_Ride_on_the_Edge/
 { "name": "TouristTrophy.exe", "type": "Game" }
+
+# TT Isle of Man: Ride on the Edge 2 https://store.steampowered.com/app/1082180/TT_Isle_of_Man_Ride_on_the_Edge_2/
+{ "name": "TT2.exe", "type": "Game" }
 
 # TT Isle Of Man: Ride on the Edge 3 https://store.steampowered.com/app/1924170/TT_Isle_Of_Man_Ride_on_the_Edge_3/
 { "name": "TT3.exe", "type": "Game" }
@@ -782,24 +828,30 @@
 # TUNIC https://store.steampowered.com/app/553420/TUNIC/
 { "name": "Tunic.exe", "type": "Game" }
 
+# Turbo Dismount https://store.steampowered.com/app/263760/Turbo_Dismount/
+{ "name": "TurboDismount.exe", "type": "Game" }
+
+# Turbo Dismount 2 https://store.steampowered.com/app/2280350/Turbo_Dismount_2/
+{ "name": "TurboDismount2.exe", "type": "Game" }
+
 # Turbo Overkill https://store.steampowered.com/app/1328350/Turbo_Overkill/
 { "name": "Turbo Overkill.exe", "type": "Game" }
 
 # Turbo Pug DX https://store.steampowered.com/app/513780/Turbo_Pug_DX/
 { "name": "turbopugDX.exe", "type": "Game" }
 
-# Turbo Dismount 2 https://store.steampowered.com/app/2280350/Turbo_Dismount_2/
-{ "name": "TurboDismount2.exe", "type": "Game" }
-
-# Turbo Dismount https://store.steampowered.com/app/263760/Turbo_Dismount/
-{ "name": "TurboDismount.exe", "type": "Game" }
+# Turing Complete https://store.steampowered.com/app/1444480/Turing_Complete/
+{ "name": "Turing Complete.exe", "type": "Game" }
 
 # Turmoil https://store.steampowered.com/app/361280/Turmoil/
 { "name": "Turmoil.exe", "type": "Game" }
 { "name": "Turmoil_PC_Full.exe", "type": "Game" }
 
-# Turing Complete https://store.steampowered.com/app/1444480/Turing_Complete/
-{ "name": "Turing Complete.exe", "type": "Game" }
+# Turok https://store.steampowered.com/app/405820/Turok/
+{ "name": "sobek_Shipping_Steam_x64.exe", "type": "Game" }
+
+# Turok 2: Seeds of Evil https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/
+{ "name": "Turok2.exe", "type": "Game" }
 
 # Twilight Struggle https://store.steampowered.com/app/406290/Twilight_Struggle/
 { "name": "TwilightStruggle.exe", "type": "Game" }
@@ -813,6 +865,11 @@
 # Two Point Museum https://store.steampowered.com/app/2185060/Two_Point_Museum/
 { "name": "TPM.exe", "type": "Game" }
 
+# Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
+{ "name": "2WSG.exe", "type": "Game" }
+{ "name": "TwoWorlds.exe", "type": "Game" }
+{ "name": "TwoWorlds_RADEON.exe", "type": "Game" }
+
 # Two Worlds II HD https://store.steampowered.com/app/7520/Two_Worlds_II_HD/
 { "name": "TW2POTFFSG.exe", "type": "Game" }
 { "name": "TW2SG.exe", "type": "Game" }
@@ -820,11 +877,10 @@
 { "name": "TwoWorlds2Editor.exe", "type": "Game" }
 { "name": "TwoWorlds2_DX10.exe", "type": "Game" }
 
-# Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
-{ "name": "2WSG.exe", "type": "Game" }
-{ "name": "TwoWorlds.exe", "type": "Game" }
-{ "name": "TwoWorlds_RADEON.exe", "type": "Game" }
-
 # Type:Rider https://store.steampowered.com/app/258890/TypeRider/
 { "name": "typerider.exe", "type": "Game" }
 { "name": "Typerider.exe", "type": "Game" }
+
+# Tyranny https://store.steampowered.com/app/362960/Tyranny/
+{ "name": "Tyranny.exe", "type": "Game" }
+

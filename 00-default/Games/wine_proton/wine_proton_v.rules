@@ -8,6 +8,9 @@
 # VA-11 Hall-A: Cyberpunk Bartender Action https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
 { "name": "VA-11 Hall A.exe", "type": "Game" }
 
+# Vagrus - The Riven Realms https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/
+{ "name": "Vagrus.exe", "type": "Game" }
+
 # VAIL https://store.steampowered.com/app/801550/VAIL_Extraction/
 { "name": "VAIL.exe", "type": "Game" }
 
@@ -34,6 +37,10 @@
 # Vampire: The Masquerade - Bloodlines https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
 { "name": "vampire.exe", "type": "Game" }
 
+# Vampire: The Masquerade - Bloodlines 2 https://store.steampowered.com/app/532790/Vampire_The_Masquerade__Bloodlines_2/
+{ "name": "Bloodlines2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Bloodlines2.exe", "type": "Game" }
+
 # Vampire: The Masquerade Bloodlines : Unofficial Patch https://www.moddb.com/mods/vtmb-unofficial-patch
 { "name": "Vampire.exe", "type": "Game" }
 
@@ -55,6 +62,10 @@
 # Vector https://store.steampowered.com/app/248970/Vector/
 { "name": "Vector.exe", "type": "Game" }
 
+# VEIN https://store.steampowered.com/app/1857950/VEIN/
+{ "name": "Vein.exe", "type": "Game" }
+{ "name": "Vein-Win64-Test.exe", "type": "Game" }
+
 # Velvet Assassin https://store.steampowered.com/app/16720/Velvet_Assassin/
 { "name": "replay.exe", "type": "Game" }
 
@@ -67,12 +78,11 @@
 # VERGE:Lost chapter https://store.steampowered.com/app/400740/VERGELost_chapter/
 { "name": "VERGE.exe", "type": "Game" }
 
+# Victoria 3 https://store.steampowered.com/app/529340/Victoria_3/
+{ "name": "victoria3.exe", "type": "Game" }
+
 # Victoria II https://store.steampowered.com/app/42960/Victoria_II/
 { "name": "victoria2.exe", "type": "Game" }
-
-# Victoria 3 https://www.paradoxinteractive.com/games/victoria-3
-# https://store.steampowered.com/app/529340/Victoria_3/
-{ "name": "victoria3.exe", "type": "Game" }
 
 # Viewfinder https://store.steampowered.com/app/1382070/Viewfinder/
 { "name": "Viewfinder.exe", "type": "Game" }
@@ -168,3 +178,7 @@
 
 # VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
 { "name": "VTOLVR.exe", "type": "Game" }
+
+# VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
+{ "name": "VVVVVV.exe", "type": "Game" }
+

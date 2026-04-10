@@ -77,6 +77,10 @@
 # Crysis Warhead https://store.steampowered.com/app/17330/Crysis_Warhead/
 { "name": "crysis.exe", "type": "Game" }
 
+# Counter-Strike 2 https://store.steampowered.com/app/730/CounterStrike_2/
+# Counter-Strike: Global Offensive https://store.steampowered.com/app/4465480/CounterStrikeGlobal_Offensive/
+{ "name": "cs2.exe", "type": "Game" }
+
 # Counter-Strike Nexon: Studio https://store.steampowered.com/app/273110/CounterStrike_Nexon/
 # CS 1.6
 { "name": "cstrike-online.exe", "type": "Game" }
@@ -174,7 +178,7 @@
 # Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
 { "name": "engine.exe", "type": "Game" }
 
-# Divinity: Original Sin https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
+# Divinity: Original Sin - Enhanced Edition https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 # Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
 # Divinity: Original Sin (Classic) https://store.steampowered.com/app/230230/Divinity_Original_Sin_Classic/
 { "name": "EoCApp.exe", "type": "Game" }
@@ -226,6 +230,7 @@
 # Neighbours from Hell Compilation https://store.steampowered.com/app/260750/Neighbours_from_Hell_Compilation/
 # Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
+# Star Conflict http://store.steampowered.com/app/212070/Star_Conflict/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -260,6 +265,7 @@
 # Winter Memories https://store.steampowered.com/app/2495450/Winter_Memories/
 # Rocketbirds: Hardboiled Chicken https://store.steampowered.com/app/215510/Rocketbirds_Hardboiled_Chicken/
 # Zài shuā yī bǎ 2: Jīnsè chuánshuō 再刷一把2：金色传说 https://store.steampowered.com/app/3358510/再刷一把2金色传说/
+# Skyborn https://store.steampowered.com/app/278460/Skyborn/
 { "name": "Game.exe", "type": "Game" }
 
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
@@ -459,9 +465,8 @@
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
 { "name": "nxsteam.exe", "type": "Game" }
 
-# Yesterday https://store.steampowered.com/app/205840/Yesterday/
-# Gǔ jiàn qí tán 古剑奇谭(GuJian) https://store.steampowered.com/app/570780/GuJian/
-{ "name": "oalinst.exe", "type": "Game" }
+# 3D audio rendering library
+{ "name": "oalinst.exe", "type": "BG_CPUIO" }
 
 # Overlord https://store.steampowered.com/app/11450/Overlord/
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
@@ -486,6 +491,10 @@
 # Path of Exile https://store.steampowered.com/app/238960/Path_of_Exile/
 # Path of Exile 2 https://store.steampowered.com/app/2694490/Path_of_Exile_2/
 { "name": "PathOfExile_x64Steam.exe", "type": "Game" }
+
+# Penumbra: Black Plague Gold Edition https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
+# Penumbra Overture https://store.steampowered.com/app/22180/Penumbra_Overture/
+{ "name": "Penumbra.exe", "type": "Game" }
 
 # Total War: PHARAOH DYNASTIES https://store.steampowered.com/app/2951630/Total_War_PHARAOH_DYNASTIES/
 # Pharaoh + Cleopatra https://store.steampowered.com/app/564530/Pharaoh__Cleopatra/
@@ -517,6 +526,10 @@
 # Company of Heroes: Opposing Fronts https://store.steampowered.com/app/9340/Company_of_Heroes_Opposing_Fronts/
 # Company of Heroes: Tales of Valor https://store.steampowered.com/app/20540/Company_of_Heroes_Tales_of_Valor/
 { "name": "RelicCOH.exe", "type": "Game"}
+
+# Penumbra: Black Plague Gold Edition https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
+# Penumbra: Requiem https://store.steampowered.com/app/22140/Penumbra_Requiem/
+{ "name": "Requiem.exe", "type": "Game" }
 
 # Red Dead Redemption 2 https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/
 # Red Dead Online https://store.steampowered.com/app/1404210/Red_Dead_Online/
@@ -589,6 +602,10 @@
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
+
+# SUPERHOT https://store.steampowered.com/app/322500/SUPERHOT/
+# SUPERHOT: MIND CONTROL DELETE https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
+{ "name": "SUPERHOT-Launcher.exe", "type": "Game" }
 
 # Supreme Commander: Forged Alliance https://store.steampowered.com/app/9420/Supreme_Commander_Forged_Alliance/
 # Supreme Commander https://store.steampowered.com/app/9350/Supreme_Commander/
@@ -679,6 +696,9 @@
 # The Culling https://store.steampowered.com/app/437220/The_Culling/
 { "name": "Victory.exe", "type": "Game" }
 
+# source2 background process https://www.source2.wiki/EngineTools/VConsole
+{ "name": "vconsole2.exe", "type": "BG_CPUIO" }
+
 # Warhammer 40,000: Dawn of War - Anniversary Edition https://store.steampowered.com/app/4570/Warhammer_40000_Dawn_of_War__Anniversary_Edition/
 # Warhammer 40,000: Dawn of War - Definitive Edition https://store.steampowered.com/app/3556750/Warhammer_40000_Dawn_of_War__Definitive_Edition/
 { "name": "W40k.exe", "type": "Game" }
@@ -686,6 +706,7 @@
 # Warhammer: Chaos And Conquest https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
 # Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 # Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
+# Total War: WARHAMMER https://store.steampowered.com/app/364360/Total_War_WARHAMMER/
 { "name": "Warhammer.exe", "type": "Game" }
 
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/

@@ -23,19 +23,19 @@
 # Yakuza 6: The Song of Life https://store.steampowered.com/app/1388590/Yakuza_6_The_Song_of_Life/
 { "name": "Yakuza6.exe", "type": "Game" }
 
-# Yakuza Kiwami (Legacy) https://store.steampowered.com/app/834530/Yakuza_Kiwami/
-{ "name": "YakuzaKiwami.exe", "type": "Game" }
-
 # Yakuza Kiwami 2 (Legacy) https://store.steampowered.com/app/927380/Yakuza_Kiwami_2/
 { "name": "YakuzaKiwami2.exe", "type": "Game" }
 
 # Yakuza Kiwami 3 & Dark Ties https://store.steampowered.com/app/3937550/Yakuza_Kiwami_3__Dark_Ties/
 { "name": "yakuzakiwami3.exe", "type": "Game" }
 
+# Yakuza Kiwami (Legacy) https://store.steampowered.com/app/834530/Yakuza_Kiwami/
+{ "name": "YakuzaKiwami.exe", "type": "Game" }
+
 # Yakuza: Like a Dragon https://store.steampowered.com/app/1235140/Yakuza_Like_a_Dragon/
 { "name": "YakuzaLikeADragon.exe", "type": "Game" }
 
-# Yandere Simulator https://yanderesimulator.com/
+# Yandere Simulator https://steamdb.info/app/1683460/
 { "name": "YandereSimulator.exe", "type": "Game" }
 
 # Yaoling: Mythical Journey https://store.steampowered.com/app/2816950/Yaoling_Mythical_Journey/
@@ -54,6 +54,9 @@
 # Yellow Taxi Goes Vroom https://store.steampowered.com/app/2011780/Yellow_Taxi_Goes_Vroom/
 { "name": "Yellow Taxi Goes Vroom.exe", "type": "Game" }
 
+# Yesterday https://store.steampowered.com/app/205840/Yesterday/
+{ "name": "Yesterday.exe", "type": "Game" }
+
 # Yes, Your Grace https://store.steampowered.com/app/1115690/Yes_Your_Grace/
 { "name": "Yes, Your Grace.exe", "type": "Game" }
 
@@ -69,15 +72,15 @@
 # Yog-Sothoth’s Yard https://store.steampowered.com/app/2194530/YogSothoths_Yard/
 { "name": "Yog-Sothoth's Yard.exe", "type": "Game" }
 
+# Yoku's Island Express https://store.steampowered.com/app/334940/Yokus_Island_Express/
+{ "name": "Yoku.exe", "type": "Game" }
+
 # Yooka-Laylee https://store.steampowered.com/app/360830/YookaLaylee/
 { "name": "YookaLaylee64.exe", "type": "Game" }
 
 # Yooka-Laylee and the Impossible Lair https://store.steampowered.com/app/846870/YookaLaylee_and_the_Impossible_Lair/
 { "name": "BounceWin64.exe", "type": "Game" }
 { "name": "YLILWin64.exe", "type": "Game" }
-
-# Yoku's Island Express https://store.steampowered.com/app/334940/Yokus_Island_Express/
-{ "name": "Yoku.exe", "type": "Game" }
 
 # YOU DON'T KNOW JACK HEADRUSH https://store.steampowered.com/app/260060/YOU_DONT_KNOW_JACK_HEADRUSH/
 { "name": "YDKJVH.EXE", "type": "Game" }
@@ -124,25 +127,25 @@
 # Ys I & II Chronicles+ https://store.steampowered.com/app/223810/Ys_I__II_Chronicles/
 { "name": "ys1plus.exe", "type": "Game" }
 
-# Ys VI: The Ark of Napishtim https://store.steampowered.com/app/312540/Ys_VI_The_Ark_of_Napishtim/
-{ "name": "ys6_win_dx9.exe", "type": "Game" }
-{ "name": "ys6_win.exe", "type": "Game" }
-
-# Ys SEVEN https://store.steampowered.com/app/587100/Ys_SEVEN/
-{ "name": "Ys7.exe", "type": "Game" }
-
-# Ys VIII: Lacrimosa of DANA https://store.steampowered.com/app/579180/Ys_VIII_Lacrimosa_of_DANA/
-{ "name": "ys8.exe", "type": "Game" }
-
 # Ys: Memories of Celceta https://store.steampowered.com/app/587110/Ys_Memories_of_Celceta/
 { "name": "Ysc_dx11.exe", "type": "Game" }
 
 # Ys Origin https://store.steampowered.com/app/207350/Ys_Origin/
 { "name": "yso_win.exe", "type": "Game" }
 
+# Ys SEVEN https://store.steampowered.com/app/587100/Ys_SEVEN/
+{ "name": "Ys7.exe", "type": "Game" }
+
 # Ys: The Oath in Felghana https://store.steampowered.com/app/207320/Ys_The_Oath_in_Felghana/
 { "name": "ysf_win.exe", "type": "Game" }
 { "name": "ysf_win_dx9.exe", "type": "Game" }
+
+# Ys VIII: Lacrimosa of DANA https://store.steampowered.com/app/579180/Ys_VIII_Lacrimosa_of_DANA/
+{ "name": "ys8.exe", "type": "Game" }
+
+# Ys VI: The Ark of Napishtim https://store.steampowered.com/app/312540/Ys_VI_The_Ark_of_Napishtim/
+{ "name": "ys6_win_dx9.exe", "type": "Game" }
+{ "name": "ys6_win.exe", "type": "Game" }
 
 # Ys X: Proud Nordics https://store.steampowered.com/app/3949290/Ys_X_Proud_Nordics/
 { "name": "ysx_pn.exe", "type": "Game" }
@@ -162,3 +165,4 @@
 
 # Yuppie Psycho: Executive Edition https://store.steampowered.com/app/597760/Yuppie_Psycho_Executive_Edition/
 { "name": "yuppiepsycho.exe", "type": "Game" }
+

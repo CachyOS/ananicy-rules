@@ -29,18 +29,18 @@
 { "name": "ZeroCaliber_2.exe", "type": "Game" }
 { "name": "ZeroCaliber_2-Win64-Shipping.exe", "type": "Game" }
 
-# Zero Hour https://store.steampowered.com/app/1359090/Zero_Hour/
-{ "name": "Zero Hour.exe", "type": "Game" }
-
-# ZERO Sievert https://store.steampowered.com/app/1782120/ZERO_Sievert/
-{ "name": "ZERO Sievert.exe", "type": "Game" }
-
 # Zero Caliber VR https://store.steampowered.com/app/877200/Zero_Caliber_VR/
 { "name": "ZeroCaliber.exe", "type": "Game" }
 { "name": "ZeroCaliber-Win64-Shipping.exe", "type": "Game" }
 
+# Zero Hour https://store.steampowered.com/app/1359090/Zero_Hour/
+{ "name": "Zero Hour.exe", "type": "Game" }
+
 # Zero-K https://store.steampowered.com/app/334920/ZeroK/
 { "name": "Zero-K.exe", "type": "Game" }
+
+# ZERO Sievert https://store.steampowered.com/app/1782120/ZERO_Sievert/
+{ "name": "ZERO Sievert.exe", "type": "Game" }
 
 # Ziggurat 2 https://store.steampowered.com/app/1159560/Ziggurat_2/
 { "name": "Ziggurat2.exe", "type": "Game" }
@@ -62,6 +62,9 @@
 
 # Zombie Driver HD https://store.steampowered.com/app/220820/Zombie_Driver_HD/
 { "name": "ZombieDriverHD.exe", "type": "Game" }
+
+# Zombie Panic! Source https://store.steampowered.com/app/17500/Zombie_Panic_Source/
+{ "name": "zps.exe", "type": "Game" }
 
 # Zombie Shooter https://store.steampowered.com/app/33130/Zombie_Shooter/
 { "name": "ZombieShooter.exe", "type": "Game" }
@@ -101,3 +104,4 @@
 
 # Zup! S https://store.steampowered.com/app/617670/Zup_S/
 { "name": "Zup! S.exe", "type": "Game" }
+

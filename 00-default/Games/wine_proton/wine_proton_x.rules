@@ -14,11 +14,17 @@
 # XCOM: Chimera Squad https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/
 { "name": "XCom.exe", "type": "Game" }
 
+# XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
+{ "name": "XComGame.exe", "type": "Game" }
+
 # X-COM: UFO Defense https://store.steampowered.com/app/7760/XCOM_UFO_Defense/
 { "name": "UFO Defense_Patched.exe", "type": "Game" }
 
 # Xenonauts https://store.steampowered.com/app/223830/Xenonauts/
 { "name": "xenonauts.exe", "type": "Game" }
+
+# Xenonauts 2 https://store.steampowered.com/app/538030/Xenonauts_2/
+{ "name": "Xenonauts2.exe", "type": "Game" }
 
 # XERA: Survival https://store.steampowered.com/app/625340/XERA_Survival/
 { "name": "XERA_Launcher.exe", "type": "Game" }
@@ -39,3 +45,4 @@
 # Xuan-Yuan Sword: The Scar of Sky https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/
 { "name": "swd3e.exe", "type": "Game" }
 { "name": "Ghost.exe", "type": "Game" }
+

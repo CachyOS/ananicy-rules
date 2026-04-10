@@ -37,11 +37,6 @@
 # Five Hearts Under One Roof season2 https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/
 { "name": "FHUOR2.x86_64", "type": "Game" }
 
-# Football Manager Series
-{ "name": "fm", "type": "Game" }
-{ "name": "cefsimple", "type": "Game" }
-{ "name": "berkelium", "type": "Game" }
-
 # FootLOL: Epic Soccer League https://store.steampowered.com/app/263740/FootLOL_Epic_Soccer_League/
 { "name": "FootLOL Epic Fail League.x86", "type": "Game" }
 
@@ -63,12 +58,15 @@
 # Fran Bow https://store.steampowered.com/app/362680/Fran_Bow/
 { "name": "Fran Bow.x86_64", "type": "Game" }
 
-# freesynd: https://freesynd.sourceforge.io/
+# freesynd https://freesynd.sourceforge.io/
 { "name": "freesynd", "type": "Game" }
 
 # From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
 { "name": "From_The_Depths.x86", "type": "Game" }
 { "name": "From_The_Depths.x86_64", "type": "Game" }
+
+# FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
+{ "name": "FTL", "type": "Game" }
 
 # Funkin https://github.com/FunkinCrew/Funkin ; Friday Night Funkin' (base game)
 { "name": "Funkin", "type": "Game" }

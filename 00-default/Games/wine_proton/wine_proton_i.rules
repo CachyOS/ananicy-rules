@@ -9,9 +9,6 @@
 { "name": "iamalive_game.exe", "type": "Game" }
 { "name": "IAmAlive_game.exe", "type": "Game" }
 
-# I Am Legion: Stand Survivors https://store.steampowered.com/app/3109580/I_Am_Legion_Stand_Survivors/
-{ "name": "StandSurvivors.exe", "type": "Game" }
-
 # I Am Fish https://store.steampowered.com/app/1472560/I_Am_Fish/
 { "name": "IAmFish.exe", "type": "Game" }
 
@@ -22,11 +19,11 @@
 { "name": "IMJCH.exe", "type": "Game" }
 { "name": "IMJCH-Win64-Shipping.exe", "type": "Game" }
 
+# I Am Legion: Stand Survivors https://store.steampowered.com/app/3109580/I_Am_Legion_Stand_Survivors/
+{ "name": "StandSurvivors.exe", "type": "Game" }
+
 # I Am Your Beast https://store.steampowered.com/app/1876590/I_Am_Your_Beast/
 { "name": "I Am Your Beast.exe", "type": "Game" }
-
-# I, Zombie https://store.steampowered.com/app/307230/I_Zombie/
-{ "name": "I, Zombie.exe", "type": "Game" }
 
 # ibb & obb https://store.steampowered.com/app/95400/ibb__obb/
 { "name": "ibbobb.exe", "type": "Game" }
@@ -34,6 +31,9 @@
 # ICARUS https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
 { "name": "Icarus.exe", "type": "Game" }
+
+# Icewind Dale: Enhanced Edition https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/
+{ "name": "icewind.exe", "type": "Game" }
 
 # Idle Champions of the Forgotten Realms https://store.steampowered.com/app/627690/Idle_Champions_of_the_Forgotten_Realms/
 { "name": "IdleDragons.exe", "type": "Game" }
@@ -68,27 +68,50 @@
 { "name": "DGen.exe", "type": "Game" }
 { "name": "NGen.exe", "type": "Game" }
 
-# Immortals Fenyx Rising https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/
-{ "name": "ImmortalsFenyxRising.exe", "type": "Game" }
+# IMMORTALITY https://store.steampowered.com/app/1350200/IMMORTALITY/
+{ "name": "Immortality.exe", "type": "Game" }
 
 # Immortal Life https://store.steampowered.com/app/1201230/Immortal_Life/
 { "name": "ImmortalLife.exe", "type": "Game" }
 
-# IMMORTALITY https://store.steampowered.com/app/1350200/IMMORTALITY/
-{ "name": "Immortality.exe", "type": "Game" }
+# Immortals Fenyx Rising https://store.steampowered.com/app/2221920/Immortals_Fenyx_Rising/
+{ "name": "ImmortalsFenyxRising.exe", "type": "Game" }
 
-# Imperator: Rome https://www.paradoxinteractive.com/games/imperator-rome
+# Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
 { "name": "imperator.exe", "type": "Game" }
 
 # Imperial Glory https://store.steampowered.com/app/277450/Imperial_Glory/
 { "name": "ImperialGlory.exe", "type": "Game" }
 
+# Incredibox https://store.steampowered.com/app/1545450/Incredibox/
+{ "name": "Incredibox_steam.exe", "type": "Game" }
+
 # Incursion Red River https://store.steampowered.com/app/2116120/Incursion_Red_River/
 { "name": "Test_C-Win64-Shipping.exe", "type": "Game" }
 { "name": "Test_C.exe", "type": "Game" }
 
-# Incredibox https://store.steampowered.com/app/1545450/Incredibox/
-{ "name": "Incredibox_steam.exe", "type": "Game" }
+# Indiana Jones and the Fate of Atlantis https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/
+{ "name": "Indiana Jones and the Fate of Atlantis.exe", "type": "Game" }
+
+# Indiana Jones and the Great Circle https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/
+{ "name": "TheGreatCircle.exe", "type": "Game" }
+
+# Indie Cross https://gamejolt.com/games/indiecross/643540
+{ "name": "Indie Cross.exe", "type": "Game" }
+
+# Indie Game: The Movie https://store.steampowered.com/app/207080/Indie_Game_The_Movie/
+{ "name": "IGTM.exe", "type": "Game" }
+
+# Indigo Park https://store.steampowered.com/app/2504480/Indigo_Park_Chapter_1/
+{ "name": "RaccoonCh1.exe", "type": "Game" }
+{ "name": "RaccoonCh1-Win64-Shipping.exe", "type": "Game" }
+
+# INDIKA https://store.steampowered.com/app/1373960/INDIKA/
+{ "name": "Indika.exe", "type": "Game" }
+{ "name": "Indika-Win64-Shipping.exe", "type": "Game" }
+
+# Indivisible https://store.steampowered.com/app/421170/Indivisible/
+{ "name": "Indivisible.exe", "type": "Game" }
 
 # Infection Free Zone https://store.steampowered.com/app/1465460/Infection_Free_Zone/
 { "name": "Infection Free Zone.exe", "type": "Game" }
@@ -105,37 +128,26 @@
 # Infinitode 2 - Infinite Tower Defense https://store.steampowered.com/app/937310/Infinitode_2__Infinite_Tower_Defense/
 { "name": "infinitode-2.exe", "type": "Game" }
 
-# INFRA https://store.steampowered.com/app/251110/INFRA/
-{ "name": "infra.exe", "type": "Game" }
+# Infinity Kingdom https://store.steampowered.com/app/1573360/Infinity_Kingdom/
+{ "name": "Infinity Kingdom.exe", "type": "Game" }
+
+# Infinity Nikki https://store.steampowered.com/app/3164330/Infinity_Nikki/
+{ "name": "InfinityNikki.exe", "type": "Game" }
+
+# Infinity Strash: DRAGON QUEST The Adventure of Dai https://store.steampowered.com/app/1895810/Infinity_Strash_DRAGON_QUEST_The_Adventure_of_Dai/
+{ "name": "IS-DQDai.exe", "type": "Game" }
+
+# Infinity Wars: Animated Trading Card Game https://store.steampowered.com/app/257730/Infinity_Wars_Animated_Trading_Card_Game/
+{ "name": "InfinityHeroes Windows desktop 64-bit.exe", "type": "Game" }
 
 # Influent Language Learning Game https://store.steampowered.com/app/274980/Influent_Language_Learning_Game/
 { "name": "Influent.exe", "type": "Game" }
 
+# INFRA https://store.steampowered.com/app/251110/INFRA/
+{ "name": "infra.exe", "type": "Game" }
+
 # Initial Drift Online https://store.steampowered.com/app/1456200/Initial_Drift_Online/
 { "name": "Initial Drift.exe", "type": "Game" }
-
-# Indiana Jones and the Great Circle https://store.steampowered.com/app/2677660/Indiana_Jones_and_the_Great_Circle/
-{ "name": "TheGreatCircle.exe", "type": "Game" }
-
-# Indiana Jones and the Fate of Atlantis https://store.steampowered.com/app/6010/Indiana_Jones_and_the_Fate_of_Atlantis/
-{ "name": "Indiana Jones and the Fate of Atlantis.exe", "type": "Game" }
-
-# Indie Cross https://gamejolt.com/games/indiecross/643540
-{ "name": "Indie Cross.exe", "type": "Game" }
-
-# Indie Game: The Movie https://store.steampowered.com/app/207080/Indie_Game_The_Movie/
-{ "name": "IGTM.exe", "type": "Game" }
-
-# Indigo Park https://store.steampowered.com/app/2504480/Indigo_Park_Chapter_1/
-{ "name": "RaccoonCh1.exe", "type": "Game" }
-{ "name": "RaccoonCh1-Win64-Shipping.exe", "type": "Game" }
-
-# INDIKA https://store.steampowered.com/app/1373960/INDIKA/
-{ "name": "Indika.exe", "type": "Game" }
-{ "name": "Indika-Win64-Shipping.exe", "type": "Game" }
-
-# Inkbound https://store.steampowered.com/app/1062810/Inkbound/
-{ "name": "Inkbound.exe", "type": "Game" }
 
 # Injustice 2 https://store.steampowered.com/app/627270/Injustice_2/
 { "name": "Injustice2.exe", "type": "Game" }
@@ -143,18 +155,34 @@
 # Injustice: Gods Among Us Ultimate Edition https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/
 { "name": "Injustice.exe", "type": "Game" }
 
+# Inkbound https://store.steampowered.com/app/1062810/Inkbound/
+{ "name": "Inkbound.exe", "type": "Game" }
+
+# Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
+{ "name": "fcengine.exe", "type": "Game" }
+
 # Insaniquarium Deluxe https://store.steampowered.com/app/3320/Insaniquarium_Deluxe/
 { "name": "Insaniquarium.exe", "type": "Game" }
 { "name": "InsaniquariumDeluxe.exe", "type": "Game" }
 
+# Inscryption https://store.steampowered.com/app/1092790/Inscryption/
+{ "name": "Inscryption.exe", "type": "Game" }
+
 # Insect Swarm https://store.steampowered.com/app/1999170/Insect_Swarm/
 { "name": "InsectSwarm.exe", "type": "Game" }
+
+# Insider Trading https://store.steampowered.com/app/3166810/Insider_Trading/
+{ "name": "Insider_Trading.exe", "type": "Game" }
 
 # Inside the Backrooms https://store.steampowered.com/app/1987080/Inside_the_Backrooms/
 { "name": "Inside the Backrooms.exe", "type": "Game" }
 
-# Insider Trading https://store.steampowered.com/app/3166810/Insider_Trading/
-{ "name": "Insider_Trading.exe", "type": "Game" }
+# In Sound Mind https://store.steampowered.com/app/1119980/In_Sound_Mind/
+{ "name": "In Sound Mind.exe", "type": "Game" }
+
+# Insurgency https://store.steampowered.com/app/222880/Insurgency/
+{ "name": "insurgency_x64.exe", "type": "Game" }
+{ "name": "insurgency.exe", "type": "Game" }
 
 # Insurgency: Sandstorm https://store.steampowered.com/app/581320/Insurgency_Sandstorm/
 { "name": "Insurgency.exe", "type": "Game" }
@@ -180,33 +208,18 @@
 # Intrusion 2 https://store.steampowered.com/app/214970/Intrusion_2/
 { "name": "intrusion2.exe", "type": "Game" }
 
-# Infinity Nikki https://store.steampowered.com/app/3164330/Infinity_Nikki/
-{ "name": "InfinityNikki.exe", "type": "Game" }
+# In Verbis Virtus https://store.steampowered.com/app/242840/In_Verbis_Virtus/
+{ "name": "IVV.exe", "type": "Game" }
 
-# Infinity Kingdom https://store.steampowered.com/app/1573360/Infinity_Kingdom/
-{ "name": "Infinity Kingdom.exe", "type": "Game" }
-
-# Infinity Strash: DRAGON QUEST The Adventure of Dai https://store.steampowered.com/app/1895810/Infinity_Strash_DRAGON_QUEST_The_Adventure_of_Dai/
-{ "name": "IS-DQDai.exe", "type": "Game" }
-
-# Infinity Wars: Animated Trading Card Game https://store.steampowered.com/app/257730/Infinity_Wars_Animated_Trading_Card_Game/
-{ "name": "InfinityHeroes Windows desktop 64-bit.exe", "type": "Game" }
-
-# Inscryption https://store.steampowered.com/app/1092790/Inscryption/
-{ "name": "Inscryption.exe", "type": "Game" }
+# Invisible, Inc. https://store.steampowered.com/app/243970/Invisible_Inc/
+{ "name": "invisibleinc.exe", "type": "Game" }
 
 # inZOI https://store.steampowered.com/app/2456740/inZOI/
 { "name": "inZOI-Win64-Shipping.exe", "type": "Game" }
 { "name": "inZOI.exe", "type": "Game" }
 
-# Invisible, Inc. https://store.steampowered.com/app/243970/Invisible_Inc/
-{ "name": "invisibleinc.exe", "type": "Game" }
-
-# In Sound Mind https://store.steampowered.com/app/1119980/In_Sound_Mind/
-{ "name": "In Sound Mind.exe", "type": "Game" }
-
-# In Verbis Virtus https://store.steampowered.com/app/242840/In_Verbis_Virtus/
-{ "name": "IVV.exe", "type": "Game" }
+# Ion Fury https://store.steampowered.com/app/562860/Ion_Fury/
+{ "name": "fury.exe", "type": "Game" }
 
 # iRacing https://store.steampowered.com/app/266410/iRacing/
 { "name": "iRacingSim64DX11.exe", "type": "Game" }
@@ -228,18 +241,21 @@
 # IRON REBELLION https://store.steampowered.com/app/1192900/IRON_REBELLION/
 { "name": "Iron Rebellion.exe", "type": "Game" }
 
-# Iron Snout https://store.steampowered.com/app/424280/Iron_Snout/
-{ "name": "IronSnout.exe", "type": "Game" }
-
 # Iron Sky: Invasion https://store.steampowered.com/app/224900/Iron_Sky_Invasion/
 { "name": "ISI_DX11.exe", "type": "Game" }
 { "name": "ISI_DX9.exe", "type": "Game" }
+
+# Iron Snout https://store.steampowered.com/app/424280/Iron_Snout/
+{ "name": "IronSnout.exe", "type": "Game" }
 
 # ISLANDERS https://store.steampowered.com/app/1046030/ISLANDERS/
 { "name": "ISLANDERS.exe", "type": "Game" }
 
 # Island Saver https://store.steampowered.com/app/1210250/Island_Saver/
 { "name": "moneybox.exe", "type": "Game" }
+
+# Isonzo https://store.steampowered.com/app/1556790/Isonzo/
+{ "name": "Isonzo.exe", "type": "Game" }
 
 # Is This Seat Taken? https://store.steampowered.com/app/3035120/Is_This_Seat_Taken/
 { "name": "Is This Seat Taken.exe", "type": "Game" }
@@ -260,5 +276,6 @@
 # IXION https://store.steampowered.com/app/1113120/IXION/
 { "name": "Ixion.exe", "type": "Game" }
 
-# Isonzo https://store.steampowered.com/app/1556790/Isonzo/
-{ "name": "Isonzo.exe", "type": "Game" }
+# I, Zombie https://store.steampowered.com/app/307230/I_Zombie/
+{ "name": "I, Zombie.exe", "type": "Game" }
+

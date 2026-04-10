@@ -13,18 +13,18 @@
 { "name": "qwcl.exe", "type": "Game" }
 { "name": "Winquake.exe", "type": "Game" }
 
-# Quake II RTX https://store.steampowered.com/app/1089130/Quake_II_RTX/
-{ "name": "q2rtx.exe", "type": "Game" }
-
-# Quake III Arena https://store.steampowered.com/app/2200/Quake_III_Arena/
-{ "name": "quake3.exe", "type": "Game" }
-
 # Quake 4 https://store.steampowered.com/app/2210/Quake_4/
 { "name": "Quake4.exe", "type": "Game" }
 { "name": "Quake4Ded.exe", "type": "Game" }
 
 # Quake Champions https://store.steampowered.com/app/611500/Quake_Champions/
 { "name": "QuakeChampions.exe", "type": "Game" }
+
+# Quake III Arena https://store.steampowered.com/app/2200/Quake_III_Arena/
+{ "name": "quake3.exe", "type": "Game" }
+
+# Quake II RTX https://store.steampowered.com/app/1089130/Quake_II_RTX/
+{ "name": "q2rtx.exe", "type": "Game" }
 
 # Quake Live https://store.steampowered.com/app/282440/Quake_Live/
 { "name": "quakelive_steam.exe", "type": "Game" }
@@ -44,3 +44,10 @@
 
 # Quern - Undying Thoughts https://store.steampowered.com/app/512790/Quern__Undying_Thoughts/
 { "name": "Quern.exe", "type": "Game" }
+
+# Quiplash https://store.steampowered.com/app/351510/Quiplash/
+{ "name": "Quiplash.exe", "type": "Game" }
+
+# Quiplash 2 InterLASHional https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/
+{ "name": "Quiplash 2 InterLASHional.exe", "type": "Game" }
+
