@@ -75,6 +75,9 @@
 
 ### Sony ###
 
+# Duckstation, a PlayStation emulator: https://github.com/stenzek/duckstation
+{ "name": "DuckStation-x64", "type": "Game" }
+
 # RPCS3, a PlayStation 3 emulator: https://rpcs3.net
 { "name": "rpcs3", "type": "Game" }
 
