@@ -52,7 +52,7 @@
 
 # DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
 { "name": "DDNet", "type": "Game" }
-{ "name": "DDNet-Server", "type": "LowLatency_RT" }
+{ "name": "DDNet-Server", "type": "Service" }
 
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 { "name": "deponia_tcj", "type": "Game" }
