@@ -36,7 +36,7 @@
 { "name": "WFTO.exe", "type": "Game" }
 { "name": "WFTOGame.exe", "type": "Game" }
 
-# Warframe https://store.steampowered.com/app/230410/warframe
+# Warframe https://store.steampowered.com/app/230410/warframe/
 { "name": "Warframe.x64.exe", "type": "Game" }
 
 # Wargame: Air Land Battle - https://store.steampowered.com/app/222750/Wargame_Airland_Battle/
@@ -438,11 +438,7 @@
 { "name": "Wow.exe", "type": "Game" }
 
 # World of Warships https://worldofwarships.eu/
-# The Launcher is the application that downloads and applies the updates.
-# It regularly interrupts IO operations of other processes (e.g. Browsers, Image Viewers, Music Players, ...)
-# which causes hangs and interruptions. THis is the reason for scheduling it with such a low priority.
 { "name": "WoWSLauncher.exe", "type": "BG_CPUIO" }
-# That's the actual command of the game (the argument vector that is displayed in top and htop is different).
 { "name": "worldofwarships", "type": "Game" }
 
 # World War 3 https://store.steampowered.com/app/674020/World_War_3/
@@ -476,7 +472,7 @@
 # Worms W.M.D https://store.steampowered.com/app/327030/Worms_WMD/
 { "name": "Worms W.M.D.exe", "type": "Game" }
 
-# Worms World Party Remastered  https://store.steampowered.com/app/270910/Worms_World_Party_Remastered/
+# Worms World Party Remastered https://store.steampowered.com/app/270910/Worms_World_Party_Remastered/
 { "name": "w2.exe", "type": "Game" }
 
 # Worshippers of Cthulhu https://store.steampowered.com/app/2807150/Worshippers_of_Cthulhu/

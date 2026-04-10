@@ -64,10 +64,6 @@
 # Legacy of Kain: Ascendance https://store.steampowered.com/app/4233530/Legacy_of_Kain_Ascendance/
 { "name": "Legacy of Kain Ascendance.exe", "type": "Game" }
 
-# Legacy of Kain: Defiance Remastered https://store.steampowered.com/app/3747730/Legacy_of_Kain_Defiance_Remastered/
-# Legacy of Kain: Defiance (2003) https://store.steampowered.com/app/224300/Legacy_of_Kain_Defiance_2003/
-{ "name": "defiance.exe", "type": "Game" }
-
 # Legacy of Kain Soul Reaver 1&2 Remastered https://store.steampowered.com/app/2521380/Legacy_of_Kain_Soul_Reaver_12_Remastered/
 { "name": "SRX.exe", "type": "Game" }
 
@@ -228,7 +224,7 @@
 { "name": "LOP-Win64-Shipping.exe", "type": "Game" }
 { "name": "LOP.exe", "type": "Game" }
 
-# Lightyear Frontier  https://store.steampowered.com/app/1677110/Lightyear_Frontier/
+# Lightyear Frontier https://store.steampowered.com/app/1677110/Lightyear_Frontier/
 { "name": "LightyearFrontier.exe", "type": "Game" }
 { "name": "FarMech-Win64-Shipping.exe", "type": "Game" }
 
@@ -256,10 +252,6 @@
 { "name": "LIS2-Win64-Shipping.exe", "type": "Game" }
 { "name": "LIS2-Win64-Test.exe", "type": "Game" }
 { "name": "LIS2.exe", "type": "Game" }
-
-# Life is Strange: Before the Storm https://store.steampowered.com/app/554620/Life_is_Strange_Before_the_Storm/
-# Life is Strange: Before the Storm Remastered https://store.steampowered.com/app/1265930/Life_is_Strange_Before_the_Storm_Remastered/
-{ "name": "Life is Strange - Before the Storm.exe", "type": "Game" }
 
 # Life is Strange Remastered https://store.steampowered.com/app/1265920/Life_is_Strange_Remastered/
 { "name": "LiS.exe", "type": "Game" }

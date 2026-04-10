@@ -56,7 +56,7 @@
 # Magicka https://store.steampowered.com/app/42910/Magicka/
 { "name": "Magicka.exe", "type": "Game" }
 
-# Magicka 2  https://store.steampowered.com/app/238370/Magicka_2/
+# Magicka 2 https://store.steampowered.com/app/238370/Magicka_2/
 { "name": "Magicka2.exe", "type": "Game" }
 
 # Magicraft https://store.steampowered.com/app/2103140/Magicraft/
@@ -108,11 +108,6 @@
 
 # Maize https://store.steampowered.com/app/284240/Maize/
 { "name": "Maize.exe", "type": "Game" }
-
-# Majesty 2 https://store.steampowered.com/app/25980/Majesty_2/
-# Majesty 2 Collection https://store.steampowered.com/app/73020/Majesty_2_Collection/
-{ "name": "M2Editor.exe", "type": "Game" }
-{ "name": "Majesty2.exe", "type": "Game" }
 
 # Mama's Sleeping Angels https://store.steampowered.com/app/2918310/Mamas_Sleeping_Angels/
 { "name": "Blaster.exe", "type": "Game" }
@@ -255,10 +250,6 @@
 { "name": "MechWarrior.exe", "type": "Game" }
 { "name": "MechWarrior-Win64-Shipping.exe", "type": "Game" }
 
-# MechWarrior Online Legends https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
-# MechWarrior Online Solaris 7 https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
-{ "name": "MWOClient.exe", "type": "Game" }
-
 # Medal of Honor https://store.steampowered.com/app/47790/Medal_of_Honor/
 { "name": "moh.exe", "type": "Game" }
 
@@ -396,10 +387,7 @@
 { "name": "MetroExodus.exe", "type": "Game" }
 { "name": "Benchmark.exe", "type": "Game" }
 
-# Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
-# Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
-{ "name": "metro.exe", "type": "Game" }
-{ "name": "metro_benchmark.exe", "type": "Game" }
+
 
 # Mewgenics https://store.steampowered.com/app/686060/Mewgenics/
 { "name": "Mewgenics.exe", "type": "Game" }
@@ -759,19 +747,11 @@
 { "name": "mb_wfas.exe", "type": "Game" }
 
 # Mount & Blade II: Bannerlord - https://www.taleworlds.com/en/Games/Bannerlord
-# Note: All exe's are possible process names depending on how the game was launched.
-# Vanilla Launcher
 { "name": "TaleWorlds.MountAndBlade.Launcher.exe", "type": "Game" }
-# Vanilla Direct Start
 { "name": "Bannerlord.exe", "type": "Game" }
-# Vanilla Direct Start Native
 { "name": "Bannerlord.Native.exe", "type": "Game" }
-# Bannerlord Software Extender - https://github.com/BUTR/Bannerlord.BLSE
-# BLSE Extended Launcher
 { "name": "Bannerlord.BLSE.LauncherEx.exe", "type": "Game" }
-# BLSE Vanilla Launcher
 { "name": "Bannerlord.BLSE.Launcher.exe", "type": "Game" }
-# BLSE Direct Start
 { "name": "Bannerlord.BLSE.Standalone.exe", "type": "Game" }
 
 # Mount & Blade: Warband https://store.steampowered.com/app/48700/Mount__Blade_Warband/
@@ -873,10 +853,6 @@
 # MXGP PRO https://store.steampowered.com/app/798290/MXGP_PRO/
 { "name": "mxgp4.exe", "type": "Game" }
 { "name": "mxgp4-Win64-Shipping.exe", "type": "Game" }
-
-# MXGP - The Official Motocross Videogame https://store.steampowered.com/app/256370/MXGP__The_Official_Motocross_Videogame/
-# MXGP 24: The Official Game https://store.steampowered.com/app/2603040/MXGP_24_The_Official_Game/
-{ "name": "MXGP.exe", "type": "Game" }
 
 # My Dream Setup https://store.steampowered.com/app/2200780/My_Dream_Setup/
 { "name": "MDS.exe", "type": "Game" }

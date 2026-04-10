@@ -204,7 +204,6 @@
 { "name": "RDR.exe", "type": "Game" }
 
 # Red Faction https://store.steampowered.com/app/20530/Red_Faction/
-# https://github.com/rafalh/dashfaction
 { "name": "RF.exe", "type": "Game" }
 { "name": "RF_120na.exe", "type": "Game" }
 { "name": "RedFaction.exe", "type": "Game" }
@@ -311,10 +310,10 @@
 # Resident Evil 6 https://store.steampowered.com/app/221040/Resident_Evil_6/
 { "name": "BH6.exe", "type": "Game" }
 
-# Resident Evil 7 Biohazard https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard
+# Resident Evil 7 Biohazard https://store.steampowered.com/app/418370/Resident_Evil_7_Biohazard/
 { "name": "re7.exe", "type": "Game" }
 
-# Resident Evil: Operation Raccoon City https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City
+# Resident Evil: Operation Raccoon City https://store.steampowered.com/app/209100/Resident_Evil_Operation_Raccoon_City/
 { "name": "RaccoonCity.exe", "type": "Game" }
 
 # Resident Evil Requiem https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/
@@ -323,10 +322,10 @@
 # RESIDENT EVIL RESISTANCE https://store.steampowered.com/app/952070/RESIDENT_EVIL_RESISTANCE/
 { "name": "REResistance.exe", "type": "Game" }
 
-# Resident Evil Revelations https://store.steampowered.com/app/222480/Resident_Evil_Revelations
+# Resident Evil Revelations https://store.steampowered.com/app/222480/Resident_Evil_Revelations/
 { "name": "rerev.exe", "type": "Game" }
 
-# Resident Evil Revelations 2 https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2
+# Resident Evil Revelations 2 https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2/
 { "name": "rerev2.exe", "type": "Game" }
 
 # Resident Evil Re:Verse https://store.steampowered.com/app/1236300/Resident_Evil_ReVerse/
@@ -390,6 +389,9 @@
 
 # Riichi City https://store.steampowered.com/app/1954420/Riichi_City_x_Date_A_LiveV/
 { "name": "Mahjong-JP.exe", "type": "Game" }
+
+# RIDE https://store.steampowered.com/app/345660/RIDE/
+{ "name": "RideX64.exe", "type": "Game" }
 
 # Ride 2 https://store.steampowered.com/app/477770/Ride_2/
 { "name": "Ride2.exe", "type": "Game" }
@@ -733,6 +735,9 @@
 
 # Rusty's Retirement https://store.steampowered.com/app/2666510/Rustys_Retirement/
 { "name": "Rusty's Retirement.exe", "type": "Game" }
+
+# RV There Yet? https://store.steampowered.com/app/3949040/RV_There_Yet/
+{ "name": "Ride-Win64-Shipping.exe", "type": "Game" }
 
 # Ryse: Son of Rome https://store.steampowered.com/app/302510/Ryse_Son_of_Rome/
 { "name": "Ryse.exe", "type": "Game" }

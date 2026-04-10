@@ -1,5 +1,30 @@
 # Ordered based on executable name
 
+# 60 Seconds! Reatomized https://store.steampowered.com/app/1012880/60_Seconds_Reatomized/
+# 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
+{ "name": "60Seconds.x86_64", "type": "Game" }
+
+# X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
+# X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
+# X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
+{ "name": "Airfoil Maker-x86_64", "type": "Game" }
+
+# Baldur's Gate https://store.steampowered.com/app/22828/
+# Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
+{ "name": "BaldursGate", "type": "Game" }
+
+# Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
+# Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
+{ "name": "benchmark.sh", "type": "Game" }
+
+# Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
+# Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
+{ "name": "dontstarve_steam", "type": "Game" }
+
+# Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
+# Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
+{ "name": "dontstarve_steam_x64", "type": "Game" }
+
 # Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 { "name": "dowser", "type": "BG_CPUIO" }
@@ -16,22 +41,22 @@
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 { "name": "Launcher", "type": "Game" }
 
+# Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
+# Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
+{ "name": "metro", "type": "Game" }
+
 # Overlord https://store.steampowered.com/app/11450/Overlord/
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
 { "name": "overlord", "type": "Game" }
 
-# Cook, Serve, Delicious! https://store.steampowered.com/app/247020/Cook_Serve_Delicious/
-# Undertale https://store.steampowered.com/app/391540/Undertale/
-# VA-11 Hall-A: Cyberpunk Bartender Action https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
-# Bot Vice https://store.steampowered.com/app/491040/Bot_Vice/
-# Nuclear Throne https://store.steampowered.com/app/242680/Nuclear_Throne/
-# Strikey Sisters https://store.steampowered.com/app/643880/Strikey_Sisters/
-# UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
-# Gods Will Be Watching https://store.steampowered.com/app/274290/Gods_Will_Be_Watching/
-# UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
-# Super Crate Box https://store.steampowered.com/app/212800/Super_Crate_Box/
-# Spoiler Alert https://store.steampowered.com/app/283230/Spoiler_Alert/
-{ "name": "runner", "type": "Game" }
+# Planetary Annihilation https://steamdb.info/app/233250/
+# Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
+{ "name": "PA", "type": "Game" }
+
+# X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
+# X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
+# X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
+{ "name": "Plane Maker-x86_64", "type": "Game" }
 
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 # Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
@@ -44,9 +69,21 @@
 # X-Blades https://store.steampowered.com/app/7510/XBlades/
 { "name": "RunGame", "type": "Game" }
 
-# Sanctum https://store.steampowered.com/app/91600/Sanctum/
-# Sanctum 2 https://store.steampowered.com/app/210770/Sanctum_2/
-{ "name": "SanctumGame-Win32-Shipping.exe", "type": "Game" }
+# Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
+# X-Blades https://store.steampowered.com/app/7510/XBlades/
+{ "name": "RunGameWithoutLauncher", "type": "Game" }
+
+# Cook, Serve, Delicious! https://store.steampowered.com/app/247020/Cook_Serve_Delicious/
+# Undertale https://store.steampowered.com/app/391540/Undertale/
+# VA-11 Hall-A: Cyberpunk Bartender Action https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
+# Bot Vice https://store.steampowered.com/app/491040/Bot_Vice/
+# Nuclear Throne https://store.steampowered.com/app/242680/Nuclear_Throne/
+# Strikey Sisters https://store.steampowered.com/app/643880/Strikey_Sisters/
+# Gods Will Be Watching https://store.steampowered.com/app/274290/Gods_Will_Be_Watching/
+# UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
+# Super Crate Box https://store.steampowered.com/app/212800/Super_Crate_Box/
+# Spoiler Alert https://store.steampowered.com/app/283230/Spoiler_Alert/
+{ "name": "runner", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
@@ -59,27 +96,20 @@
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "start", "type": "Game" }
 
-# Planetary Annihilation store page is down http://store.steampowered.com/app/233250
-# https://steamdb.info/app/233250/
-# Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
-{ "name": "PA", "type": "Game" }
+# X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
+# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+{ "name": "testandlaunch", "type": "Game" }
 
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
 # Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/
 # Tower of Guns https://store.steampowered.com/app/266110/Tower_of_Guns/
 { "name": "UDKGame-Linux", "type": "Game" }
 
-# 60 Seconds! Reatomized https://store.steampowered.com/app/1012880/60_Seconds_Reatomized/
-# 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
-{ "name": "60Seconds.x86_64", "type": "Game" }
+# Wurm Online https://store.steampowered.com/app/1179680/Wurm_Online/
+# Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/
+{ "name": "WurmLauncher", "type": "Game" }
 
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
-{ "name": "Airfoil Maker-x86_64", "type": "Game" }
-{ "name": "Plane Maker-x86_64", "type": "Game" }
 { "name": "X-Plane-x86_64", "type": "Game" }
-
-# X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
-# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
-{ "name": "testandlaunch", "type": "Game" }
