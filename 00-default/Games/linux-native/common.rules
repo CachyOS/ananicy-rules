@@ -47,6 +47,38 @@
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
 
+# Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
+# Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
+{ "name": "hl2_linux", "type": "Game" }
+
+# Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
+# Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
+{ "name": "hl2_linux64", "type": "Game" }
+
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+{ "name": "hl_linux", "type": "Game" }
+
+
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+{ "name": "hlds_linux", "type": "Game" }
+
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+{ "name": "hlds_run", "type": "Game" }
+
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+{ "name": "hltv", "type": "Game" }
+
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 { "name": "Launcher", "type": "Game" }
 
@@ -122,3 +154,12 @@
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "X-Plane-x86_64", "type": "Game" }
+
+
+# Source dedicated server
+{ "name": "srcds.exe", "type": "Game" }
+{ "name": "srcds_linux", "type": "Game" }
+{ "name": "srcds_linux64", "type": "Game" }
+{ "name": "srcds_i486", "type": "Game" }
+{ "name": "srcds_run", "type": "Game" }
+
