@@ -322,6 +322,21 @@
 # Portal https://store.steampowered.com/app/400/Portal/
 { "name": "hl2.exe", "type": "Game" }
 
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+{ "name": "hlds.exe", "type": "Game" }
+
+# Model viewer
+{ "name": "hlmv.exe", "type": "Doc-View" }
+
+# Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
+# Half-Life https://store.steampowered.com/app/70/HalfLife/
+{ "name": "hltv.exe", "type": "Game" }
+
 # Infestation: The New Beginning https://store.steampowered.com/app/226700/Infestation_The_New_Beginning/
 # Infestation: The New Z https://store.steampowered.com/app/555570/Infestation_The_New_Z/
 { "name": "Infestation.exe", "type": "Game" }
