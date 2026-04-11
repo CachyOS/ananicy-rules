@@ -27,11 +27,11 @@
 # unreal 98 https://oldunreal.com/
 { "name": "UnrealLinux.bin", "type": "Game" }
 
-# Unreal Gold: OldUnreal Linux port https://github.com/OldUnreal/Unreal-testing
+# Unreal Gold: OldUnreal Linux port https://github.com/OldUnreal/Unreal-testing/
 { "name": "unreal-bin-x86", "type": "Game" }
 { "name": "unreal-bin-amd64", "type": "Game" }
 
-# Unreal Tournament 99: OldUnreal Linux port of UT GOTY https://github.com/OldUnreal/UnrealTournamentPatches
+# Unreal Tournament 99: OldUnreal Linux port of UT GOTY https://github.com/OldUnreal/UnrealTournamentPatches/
 { "name": "ut-bin-x86", "type": "Game" }
 { "name": "ut-bin-amd64", "type": "Game" }
 { "name": "ut-bin", "type": "Game" }
