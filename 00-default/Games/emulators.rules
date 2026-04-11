@@ -73,6 +73,9 @@
 # BlastEm is an open source, higly accurate emulator for the Sega Genesis/Megadrive. https://www.retrodev.com/blastem/
 { "name": "blastem", "type": "Game" }
 
+# redream, a Sega Dreamcast emulator. https://redream.io
+{ "name": "redream", "type": "Game" }
+
 ### Sony ###
 
 # Duckstation, a PlayStation emulator: https://github.com/stenzek/duckstation
