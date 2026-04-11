@@ -59,6 +59,8 @@
 { "name": "mow2.sh", "type": "Game" }
 { "name": "mow2_editor.sh", "type": "Game" }
 { "name": "mow2_editor", "type": "Game" }
+{ "name": "mow2", "type": "Game" }
+{ "name": "mow2_cli_local", "type": "Game" }
 
 # Mercenary Kings: Reloaded Edition https://store.steampowered.com/app/218820/Mercenary_Kings_Reloaded_Edition/
 { "name": "MercenaryKings", "type": "Game" }
