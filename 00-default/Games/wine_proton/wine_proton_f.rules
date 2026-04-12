@@ -511,6 +511,11 @@
 
 # Forgive Me Father https://store.steampowered.com/app/1590910/Forgive_Me_Father/
 { "name": "FMF.exe", "type": "Game" }
+{ "name": "FMF-Win64-Shipping.exe", "type": "Game" }
+
+# Forgive Me Father 2 https://store.steampowered.com/app/2272250/Forgive_Me_Father_2/
+{ "name": "FMF2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "FMF2.exe", "type": "Game" }
 
 # Forgotlings https://store.steampowered.com/app/2059570/Forgotlings/
 { "name": "Forgotlings.exe", "type": "Game" }
