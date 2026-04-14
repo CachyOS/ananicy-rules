@@ -109,26 +109,17 @@
 { "name": "Doorways.x86", "type": "Game" }
 
 # Danganronpa: Trigger Happy Havoc https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
-{ "name": "Launcher", "type": "Game" }
 { "name": "Danganronpa", "type": "Game" }
 { "name": "Danganronpa_32", "type": "Game" }
 
-# Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
-{ "name": "hl_linux", "type": "Game" }
-
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
-{ "name": "srcds_linux", "type": "Game" }
 { "name": "dod_linux64", "type": "Game" }
-{ "name": "srcds_linux64", "type": "Game" }
 
 # Deadfall Adventures https://store.steampowered.com/app/231330/Deadfall_Adventures/
 { "name": "ADVGame", "type": "Game" }
 
 # Dead Island Definitive Edition https://store.steampowered.com/app/383150/
 { "name": "DeadIslandGame", "type": "Game" }
-
-# Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
-{ "name": "hl_linux", "type": "Game" }
 
 # DEFCON https://store.steampowered.com/app/1520/DEFCON/
 { "name": "defcon.bin.x86", "type": "Game" }
@@ -161,19 +152,12 @@
 # Dota Underlords https://store.steampowered.com/app/1046930/Dota_Underlords/
 { "name": "underlords", "type": "Game" }
 
-# Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
-{ "name": "hl2_linux", "type": "Game" }
-
 # DreadOut https://store.steampowered.com/app/269790/DreadOut/
 { "name": "dreadout.x86", "type": "Game" }
 { "name": "dreadout.x86_64", "type": "Game" }
 
-# Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
-{ "name": "DungeonDefenders", "type": "Game" }
-
 # Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
 { "name": "LinuxDownloadLauncher", "type": "Game" }
-{ "name": "DungeonDefenders", "type": "Game" }
 { "name": "DungeonDefenders-x86", "type": "Game" }
 
 # Dystopia https://store.steampowered.com/app/17580/Dystopia/

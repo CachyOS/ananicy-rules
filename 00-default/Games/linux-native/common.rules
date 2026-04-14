@@ -23,6 +23,18 @@
 # Football Manager Series
 { "name": "cefsimple", "type": "Game" }
 
+# Pepper Grinder https://store.steampowered.com/app/2076580/Pepper_Grinder/
+# NOT A HERO https://store.steampowered.com/app/274270/NOT_A_HERO/
+# Freedom Planet https://store.steampowered.com/app/248310/Freedom_Planet/
+# Environmental Station Alpha https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
+# Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
+# Astral Ascent https://store.steampowered.com/app/1280930/Astral_Ascent/
+{ "name": "Chowdren", "type": "Game" }
+
+# Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
+# Warhammer 40,000: Dawn of War II - Chaos Rising https://store.steampowered.com/app/20570/Warhammer_40000_Dawn_of_War_II_Chaos_Rising/
+{ "name": "DawnOfWar2", "type": "Game" }
+
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam", "type": "Game" }
@@ -35,8 +47,16 @@
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 { "name": "dowser", "type": "BG_CPUIO" }
 
+# Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
+# Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
+{ "name": "DungeonDefenders", "type": "Game" }
+
 # Football Manager Series
 { "name": "fm", "type": "Game" }
+
+# Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
+# Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
+{ "name": "Game", "type": "Game" }
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 # Space Hulk https://store.steampowered.com/app/242570/Space_Hulk/
@@ -47,8 +67,19 @@
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
 
+# Northgard: Definitive Edition https://store.steampowered.com/app/466560/Northgard_Definitive_Edition/
+# Fraymakers https://store.steampowered.com/app/1420350/Fraymakers/
+{ "name": "hl", "type": "Game" }
+
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
 # Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
+# Portal https://store.steampowered.com/app/400/Portal/
+# No More Room in Hell https://store.steampowered.com/app/224260/No_More_Room_in_Hell/
+# Left 4 Dead 2 https://store.steampowered.com/app/550/Left_4_Dead_2/
+# Fistful of Frags https://store.steampowered.com/app/265630/Fistful_of_Frags/
+# Empires https://store.steampowered.com/app/17740/Empires_Mod/
+# Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
+# BrainBread 2 https://store.steampowered.com/app/346330/BrainBread_2/
 { "name": "hl2_linux", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
@@ -58,6 +89,12 @@
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
+# Team Fortress Classic https://store.steampowered.com/app/20/Team_Fortress_Classic/
+# Ricochet https://store.steampowered.com/app/60/Ricochet/
+# Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
+# Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
+# Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
+# Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
 { "name": "hl_linux", "type": "Game" }
 
 
@@ -80,11 +117,22 @@
 { "name": "hltv", "type": "Game" }
 
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
+# Danganronpa: Trigger Happy Havoc https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
 { "name": "Launcher", "type": "Game" }
 
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro", "type": "Game" }
+
+# Out of the Park Baseball 18 https://store.steampowered.com/app/465650/Out_of_the_Park_Baseball_18/
+# Out of the Park Baseball 19 https://store.steampowered.com/app/619290/Out_of_the_Park_Baseball_19/
+# Out of the Park Baseball 20 https://store.steampowered.com/app/831980/Out_of_the_Park_Baseball_20/
+# Out of the Park Baseball 21 https://store.steampowered.com/app/1087280/Out_of_the_Park_Baseball_21/
+# Out of the Park Baseball 22 https://store.steampowered.com/app/1455660/Out_of_the_Park_Baseball_22/
+# Out of the Park Baseball 23 https://store.steampowered.com/app/1739010/Out_of_the_Park_Baseball_23/
+# Out of the Park Baseball 24 https://store.steampowered.com/app/1937480/Out_of_the_Park_Baseball_24/
+# Out of the Park Baseball 17 https://store.steampowered.com/app/402430/Out_of_the_Park_Baseball_17/
+{ "name": "ootp_linux64r", "type": "Game" }
 
 # Overlord https://store.steampowered.com/app/11450/Overlord/
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
@@ -108,6 +156,7 @@
 # Septerra Core https://store.steampowered.com/app/253940/Septerra_Core/
 # Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
 # X-Blades https://store.steampowered.com/app/7510/XBlades/
+# Enclave https://store.steampowered.com/app/253980/Enclave/
 { "name": "RunGame", "type": "Game" }
 
 # Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
@@ -124,7 +173,18 @@
 # UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
 # Super Crate Box https://store.steampowered.com/app/212800/Super_Crate_Box/
 # Spoiler Alert https://store.steampowered.com/app/283230/Spoiler_Alert/
+# Stealth Bastard Deluxe https://store.steampowered.com/app/209190/Stealth_Bastard_Deluxe/
+# Savant - Ascent https://store.steampowered.com/app/259530/Savant__Ascent/
+# RONIN https://store.steampowered.com/app/274230/RONIN/
 { "name": "runner", "type": "Game" }
+
+# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
+# Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
+{ "name": "srcds_linux", "type": "Game" }
+
+# Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
+# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
+{ "name": "srcds_linux64", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
@@ -146,6 +206,10 @@
 # Tower of Guns https://store.steampowered.com/app/266110/Tower_of_Guns/
 { "name": "UDKGame-Linux", "type": "Game" }
 
+# Wargame: AirLand Battle https://store.steampowered.com/app/222750/Wargame_Airland_Battle/
+# Wargame: European Escalation https://store.steampowered.com/app/58610/Wargame_European_Escalation/
+{ "name": "Wargame", "type": "Game" }
+
 # Wurm Online https://store.steampowered.com/app/1179680/Wurm_Online/
 # Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/
 { "name": "WurmLauncher", "type": "Game" }
@@ -157,8 +221,6 @@
 
 
 # Source dedicated server
-{ "name": "srcds_linux", "type": "Game" }
-{ "name": "srcds_linux64", "type": "Game" }
 { "name": "srcds_i486", "type": "Game" }
 { "name": "srcds_run", "type": "Game" }
 

@@ -125,11 +125,6 @@
 { "name": "modman", "type": "Game" }
 { "name": "editor", "type": "Game" }
 
-# Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
-{ "name": "hl_linux", "type": "Game" }
-
-# Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
-{ "name": "hl_linux", "type": "Game" }
 
 # Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos", "type": "Game" }
@@ -150,8 +145,6 @@
 
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
 { "name": "cstrike_linux64", "type": "Game" }
-{ "name": "srcds_linux", "type": "Game" }
-{ "name": "srcds_linux64", "type": "Game" }
 
 # Crab Game https://store.steampowered.com/app/1782210/Crab_Game/
 { "name": "Crab Game.x86_64", "type": "Game" }
