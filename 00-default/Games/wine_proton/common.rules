@@ -595,6 +595,9 @@
 # SPORE Galactic Adventures https://store.steampowered.com/app/24720/SPORE_Galactic_Adventures/
 { "name": "SporeApp.exe", "type": "Game" }
 
+# Source dedicated server
+{ "name": "srcds.exe", "type": "Service" }
+
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 # Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
 # Star Control: Origins https://store.steampowered.com/app/271260/Star_Control_Origins/
@@ -739,6 +742,7 @@
 # S.T.A.L.K.E.R.: Clear Sky https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
 # S.T.A.L.K.E.R.: Call of Pripyat https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
 { "name": "xrEngine.exe", "type": "Game" }
+
 
 
 

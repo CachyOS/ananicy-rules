@@ -157,7 +157,6 @@
 
 
 # Source dedicated server
-{ "name": "srcds.exe", "type": "Game" }
 { "name": "srcds_linux", "type": "Game" }
 { "name": "srcds_linux64", "type": "Game" }
 { "name": "srcds_i486", "type": "Game" }
