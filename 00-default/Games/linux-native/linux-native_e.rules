@@ -8,26 +8,26 @@
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 { "name": "RunEditor", "type": "Game" }
 
+# Easy Red https://store.steampowered.com/app/741670/Easy_Red/
+{ "name": "EasyRedLinux", "type": "Game" }
+
 # Easy Red 2 https://store.steampowered.com/app/1324780/Easy_Red_2/
 { "name": "Easy Red 2.x86_64", "type": "Game" }
 
-# Easy Red https://store.steampowered.com/app/741670/Easy_Red/
-{ "name": "EasyRedLinux", "type": "Game" }
+# Eco https://store.steampowered.com/app/382310/Eco/
+{ "name": "Eco.x86_64", "type": "Game" }
 
 # ECWolf : an advanced source port for Wolfenstein 3D http://maniacsvault.net/ecwolf/
 { "name": "ecwolf", "type": "Game" }
 
-# Emberbane https://store.steampowered.com/app/2085310/Emberbane/
-{ "name": "Emberbane.x86_64", "type": "Game" }
-
-# Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
-{ "name": "harvey", "type": "Game" }
-
 # EDGE https://store.steampowered.com/app/38740/EDGE/
 { "name": "EDGE.bin.x86", "type": "Game" }
 
-# ENDER LILIES: Quietus of the Knights https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
-{ "name": "EnderLiliesSteam-Linux-Shipping", "type": "Game" }
+# Edge Of Eternity https://store.steampowered.com/app/269190/Edge_Of_Eternity/
+{ "name": "EdgeOfEternity.x86_64", "type": "Game" }
+
+# Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
+{ "name": "harvey", "type": "Game" }
 
 # Eldritch https://store.steampowered.com/app/252630/Eldritch/
 { "name": "Eldritch", "type": "Game" }
@@ -35,11 +35,14 @@
 # Electronic Super Joy https://store.steampowered.com/app/244870/Electronic_Super_Joy/
 { "name": "ElectronicSuperJoy", "type": "Game" }
 
-# Enlisted https://store.steampowered.com/app/2051620/Enlisted/
-{ "name": "enlisted", "type": "Game" }
+# Emberbane https://store.steampowered.com/app/2085310/Emberbane/
+{ "name": "Emberbane.x86_64", "type": "Game" }
 
-# Enter the Gungeon https://store.steampowered.com/app/311690/Enter_the_Gungeon/
-{ "name": "EtG.x86_64", "type": "Game" }
+# Empires of the Undergrowth https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/
+{ "name": "EotU-Linux-Shipping", "type": "Game" }
+
+# ENDER LILIES: Quietus of the Knights https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
+{ "name": "EnderLiliesSteam-Linux-Shipping", "type": "Game" }
 
 # Enigmatis 2: The Mists of Ravenwood https://store.steampowered.com/app/284770/Enigmatis_2_The_Mists_of_Ravenwood/
 { "name": "Enigmatis_TheMistsOfRavenwood_amd64", "type": "Game" }
@@ -49,6 +52,12 @@
 { "name": "Enigmatis_TheGhostsOfMapleCreek_amd64", "type": "Game" }
 { "name": "Enigmatis_TheGhostsOfMapleCreek_i386", "type": "Game" }
 
+# Enlisted https://store.steampowered.com/app/2051620/Enlisted/
+{ "name": "enlisted", "type": "Game" }
+
+# Enter the Gungeon https://store.steampowered.com/app/311690/Enter_the_Gungeon/
+{ "name": "EtG.x86_64", "type": "Game" }
+
 # Escape Simulator https://store.steampowered.com/app/1435790/Escape_Simulator/
 { "name": "EscapeSimulator", "type": "Game" }
 
@@ -57,21 +66,6 @@
 { "name": "et.x86", "type": "Game" }
 { "name": "etl", "type": "Game" }
 
-# Eco https://store.steampowered.com/app/382310/Eco/
-{ "name": "Eco.x86_64", "type": "Game" }
-
-# Edge Of Eternity https://store.steampowered.com/app/269190/Edge_Of_Eternity/
-{ "name": "EdgeOfEternity.x86_64", "type": "Game" }
-
-# Empires of the Undergrowth https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/
-{ "name": "EotU-Linux-Shipping", "type": "Game" }
-
-# Euro Truck Simulator 2 https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
-{ "name": "eurotrucks2", "type": "Game" }
-
-# EVERSPACE https://store.steampowered.com/app/396750/EVERSPACE/
-{ "name": "RSG-Linux-Shipping", "type": "Game" }
-
 # etterna https://github.com/etternagame/etterna/
 { "name": "Etterna", "type": "Game" }
 { "name": "etterna", "type": "Game" }
@@ -79,11 +73,17 @@
 # Europa Universalis IV https://store.steampowered.com/app/236850/Europa_Universalis_IV/
 { "name": "eu4", "type": "Game" }
 
+# Euro Truck Simulator 2 https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
+{ "name": "eurotrucks2", "type": "Game" }
+
 # Everlasting Summer https://store.steampowered.com/app/331470/Everlasting_Summer/
 { "name": "Everlasting Summer", "type": "Game" }
 
 # eversion https://store.steampowered.com/app/33680/eversion/
 { "name": "Eversion", "type": "Game" }
+
+# EVERSPACE https://store.steampowered.com/app/396750/EVERSPACE/
+{ "name": "RSG-Linux-Shipping", "type": "Game" }
 
 # Evoland https://store.steampowered.com/app/233470/Evoland/
 { "name": "Evo32", "type": "Game" }
@@ -91,3 +91,4 @@
 # Expeditions: Conquistador https://store.steampowered.com/app/237430/Expeditions_Conquistador/
 { "name": "ExpeditionsConquistador.x86", "type": "Game" }
 { "name": "ExpeditionsConquistador.x86_64", "type": "Game" }
+

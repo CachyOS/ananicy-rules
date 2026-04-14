@@ -11,31 +11,17 @@
 # Hades' Star https://store.steampowered.com/app/755800/Hades_Star/
 { "name": "hades_linux.x64", "type": "Game" }
 
+# Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
+{ "name": "hl2mp_linux64", "type": "Game" }
+
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
 # Half-Life Deathmatch: Source https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/
 { "name": "hl1mp_linux64", "type": "Game" }
 
-# Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
-{ "name": "hl2mp_linux64", "type": "Game" }
-
 # Halls of Torment https://store.steampowered.com/app/2218750/Halls_of_Torment/
 { "name": "HallsOfTorment.x86_64", "type": "Game" }
-
-# Hard West https://store.steampowered.com/app/307670/Hard_West/
-{ "name": "HardWest.x86", "type": "Game" }
-{ "name": "HardWest.x86_64", "type": "Game" }
-
-# Human Fall Flat https://store.steampowered.com/app/477160/Human_Fall_Flat/
-{ "name": "Human.x86_64", "type": "Game" }
-{ "name": "Human.x86", "type": "Game" }
-
-# Haste https://store.steampowered.com/app/1796470/Haste/
-{ "name": "Haste.x86_64", "type": "Game" }
-
-# Hatred https://store.steampowered.com/app/341940/Hatred/
-{ "name": "Hatred-Linux-Shipping", "type": "Game" }
 
 # Hammerfight https://store.steampowered.com/app/41100/Hammerfight/
 { "name": "Hammerfight", "type": "Game" }
@@ -49,6 +35,16 @@
 # Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
 { "name": "Hand of Fate.x86", "type": "Game" }
 { "name": "Hand of Fate.x86_64", "type": "Game" }
+
+# Hard West https://store.steampowered.com/app/307670/Hard_West/
+{ "name": "HardWest.x86", "type": "Game" }
+{ "name": "HardWest.x86_64", "type": "Game" }
+
+# Haste https://store.steampowered.com/app/1796470/Haste/
+{ "name": "Haste.x86_64", "type": "Game" }
+
+# Hatred https://store.steampowered.com/app/341940/Hatred/
+{ "name": "Hatred-Linux-Shipping", "type": "Game" }
 
 # Havendock https://store.steampowered.com/app/2020710/Havendock/
 { "name": "Havendock", "type": "Game" }
@@ -146,6 +142,10 @@
 { "name": "Hue.x86", "type": "Game" }
 { "name": "Hue.x86_64", "type": "Game" }
 
+# Human Fall Flat https://store.steampowered.com/app/477160/Human_Fall_Flat/
+{ "name": "Human.x86_64", "type": "Game" }
+{ "name": "Human.x86", "type": "Game" }
+
 # HuniePop https://store.steampowered.com/app/339800/HuniePop/
 { "name": "HuniePop.x86", "type": "Game" }
 { "name": "HuniePop.x86_64", "type": "Game" }
@@ -161,3 +161,4 @@
 
 # Hytale https://hytale.com/
 { "name": "HytaleClient", "type": "Game" }
+

@@ -24,6 +24,12 @@
 # I Have No Mouth, and I Must Scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
 { "name": "IHNMAIMS.x86_64", "type": "Game" }
 
+# Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
+{ "name": "imperator", "type": "Game" }
+
+# Indie Game: The Movie https://store.steampowered.com/app/207080/Indie_Game_The_Movie/
+{ "name": "IGTM", "type": "Game" }
+
 # Indivisible https://store.steampowered.com/app/421170/Indivisible/
 { "name": "Indivisible.x86_64-pc-linux-gnu", "type": "Game" }
 
@@ -42,6 +48,10 @@
 
 # Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
 { "name": "fcengine-bin32", "type": "Game" }
+
+# Inscryption https://store.steampowered.com/app/1092790/Inscryption/
+{ "name": "Inscryption.x86", "type": "Game" }
+{ "name": "Inscryption.x86_64", "type": "Game" }
 
 # Insider Trading https://store.steampowered.com/app/3166810/Insider_Trading/
 { "name": "Insider_Trading.x86_64", "type": "Game" }
@@ -62,9 +72,6 @@
 # Invisible, Inc. https://store.steampowered.com/app/243970/Invisible_Inc/
 { "name": "invisibleinc", "type": "Game" }
 
-# Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
-{ "name": "imperator", "type": "Game" }
-
 # Ion Fury https://store.steampowered.com/app/562860/Ion_Fury/
 { "name": "fury.bin", "type": "Game" }
 
@@ -78,28 +85,22 @@
 { "name": "iowolfmp.x86_64", "type": "Game" }
 { "name": "iowolfsp.x86_64", "type": "Game" }
 
-# Ironwail: High-performance QuakeSpasm fork https://github.com/andrei-drexler/ironwail/
-{ "name": "ironwail", "type": "Game" }
-
 # Iron Snout https://store.steampowered.com/app/424280/Iron_Snout/
 { "name": "IronSnout", "type": "Game" }
+
+# Ironwail: High-performance QuakeSpasm fork https://github.com/andrei-drexler/ironwail/
+{ "name": "ironwail", "type": "Game" }
 
 # ISLANDERS https://store.steampowered.com/app/1046030/ISLANDERS/
 { "name": "ISLANDERS.x86", "type": "Game" }
 { "name": "ISLANDERS.x86_64", "type": "Game" }
-
-# Ittle Dew https://store.steampowered.com/app/241320/Ittle_Dew/
-{ "name": "IttleDew.x86", "type": "Game" }
-
-# Indie Game: The Movie https://store.steampowered.com/app/207080/Indie_Game_The_Movie/
-{ "name": "IGTM", "type": "Game" }
-
-# Inscryption https://store.steampowered.com/app/1092790/Inscryption/
-{ "name": "Inscryption.x86", "type": "Game" }
-{ "name": "Inscryption.x86_64", "type": "Game" }
 
 # Isonzo https://store.steampowered.com/app/1556790/Isonzo/
 { "name": "Isonzo", "type": "Game" }
 
 # Is This Seat Taken? https://store.steampowered.com/app/3035120/Is_This_Seat_Taken/
 { "name": "Is This Seat Taken.x86_64", "type": "Game" }
+
+# Ittle Dew https://store.steampowered.com/app/241320/Ittle_Dew/
+{ "name": "IttleDew.x86", "type": "Game" }
+

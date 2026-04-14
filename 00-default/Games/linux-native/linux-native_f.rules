@@ -5,6 +5,9 @@
 
 ### F ###
 
+# F1 2015 https://store.steampowered.com/app/286570/F1_2015/
+{ "name": "F12015", "type": "Game" }
+
 # Factorio https://store.steampowered.com/app/427520/Factorio/
 { "name": "factorio", "type": "Game" }
 
@@ -14,8 +17,18 @@
 # Farm Together https://store.steampowered.com/app/673950/Farm_Together/
 { "name": "FarmTogether", "type": "Game" }
 
+# fault - milestone one https://store.steampowered.com/app/286260/fault__milestone_one/
+{ "name": "faultms1", "type": "Game" }
+
 # FEZ https://store.steampowered.com/app/224760/FEZ/
 { "name": "FEZ", "type": "Game" }
+
+# Fibbage XL https://store.steampowered.com/app/448080/Fibbage_XL/
+{ "name": "FibbageXL_Vulkan", "type": "Game" }
+{ "name": "FibbageXL_OpenGL", "type": "Game" }
+
+# Fight The Dragon https://store.steampowered.com/app/250560/Fight_The_Dragon/
+{ "name": "FightTheDragon", "type": "Game" }
 
 # Figment https://store.steampowered.com/app/493540/Figment/
 { "name": "Figment.x86", "type": "Game" }
@@ -27,30 +40,33 @@
 # Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
 { "name": "FishingPlanet.X86_64", "type": "Game" }
 
-# Fibbage XL https://store.steampowered.com/app/448080/Fibbage_XL/
-{ "name": "FibbageXL_Vulkan", "type": "Game" }
-{ "name": "FibbageXL_OpenGL", "type": "Game" }
-
 # Five Hearts Under One Roof https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/
 { "name": "MilkGame.x86_64", "type": "Game" }
 
 # Five Hearts Under One Roof season2 https://store.steampowered.com/app/3731020/Five_Hearts_Under_One_Roof_season2/
 { "name": "FHUOR2.x86_64", "type": "Game" }
 
+# Flowers Blooming at the End of Summer https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/
+{ "name": "flowersblooming", "type": "Game" }
+
+# Folk Tale https://store.steampowered.com/app/224440/Folk_Tale/
+{ "name": "Folk Tale.x84_64", "type": "Game" }
+
 # FootLOL: Epic Soccer League https://store.steampowered.com/app/263740/FootLOL_Epic_Soccer_League/
 { "name": "FootLOL Epic Fail League.x86", "type": "Game" }
-
-# Forsaken Remastered https://store.steampowered.com/app/668980/Forsaken_Remastered/
-{ "name": "ForsakenEx", "type": "Game" }
 
 # Forager https://store.steampowered.com/app/751780/Forager/
 { "name": "Forager", "type": "Game" }
 
+# FORCED https://store.steampowered.com/app/249990/FORCED_Slightly_Better_Edition/
+{ "name": "FORCED.x86_64", "type": "Game" }
+{ "name": "FORCED.x86", "type": "Game" }
+
+# Forsaken Remastered https://store.steampowered.com/app/668980/Forsaken_Remastered/
+{ "name": "ForsakenEx", "type": "Game" }
+
 # FortressCraft Evolved! https://store.steampowered.com/app/254200/FortressCraft_Evolved/
 { "name": "launchlinux", "type": "Game" }
-
-# Folk Tale https://store.steampowered.com/app/224440/Folk_Tale/
-{ "name": "Folk Tale.x84_64", "type": "Game" }
 
 # FPV SkyDive : FPV Drone Simulator https://store.steampowered.com/app/1278060/FPV_SkyDive__FPV_Drone_Simulator/
 { "name": "FPV.SkyDive.x86_64", "type": "Game" }
@@ -65,8 +81,17 @@
 { "name": "From_The_Depths.x86", "type": "Game" }
 { "name": "From_The_Depths.x86_64", "type": "Game" }
 
+# Frozen Synapse https://store.steampowered.com/app/98200/Frozen_Synapse/
+{ "name": "FrozenSynapse", "type": "Game" }
+
 # FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
 { "name": "FTL", "type": "Game" }
+
+# Full Throttle Remastered https://store.steampowered.com/app/228360/Full_Throttle_Remastered/
+{ "name": "Throttle", "type": "Game" }
+
+# Funi Raccoon Game https://store.steampowered.com/app/3599690/Funi_Raccoon_Game/
+{ "name": "Funi_Raccoon_Game.x86_64", "type": "Game" }
 
 # Funkin https://github.com/FunkinCrew/Funkin/
 { "name": "Funkin", "type": "Game" }
@@ -74,27 +99,3 @@
 # Fury Unleashed https://store.steampowered.com/app/465200/Fury_Unleashed/
 { "name": "FuryUnleashed.x86_64", "type": "Game" }
 
-# Full Throttle Remastered https://store.steampowered.com/app/228360/Full_Throttle_Remastered/
-{ "name": "Throttle", "type": "Game" }
-
-# F1 2015 https://store.steampowered.com/app/286570/F1_2015/
-{ "name": "F12015", "type": "Game" }
-
-# fault - milestone one https://store.steampowered.com/app/286260/fault__milestone_one/
-{ "name": "faultms1", "type": "Game" }
-
-# Fight The Dragon https://store.steampowered.com/app/250560/Fight_The_Dragon/
-{ "name": "FightTheDragon", "type": "Game" }
-
-# Flowers Blooming at the End of Summer https://store.steampowered.com/app/1173010/Flowers_Blooming_at_the_End_of_Summer/
-{ "name": "flowersblooming", "type": "Game" }
-
-# FORCED https://store.steampowered.com/app/249990/FORCED_Slightly_Better_Edition/
-{ "name": "FORCED.x86_64", "type": "Game" }
-{ "name": "FORCED.x86", "type": "Game" }
-
-# Frozen Synapse https://store.steampowered.com/app/98200/Frozen_Synapse/
-{ "name": "FrozenSynapse", "type": "Game" }
-
-# Funi Raccoon Game https://store.steampowered.com/app/3599690/Funi_Raccoon_Game/
-{ "name": "Funi_Raccoon_Game.x86_64", "type": "Game" }

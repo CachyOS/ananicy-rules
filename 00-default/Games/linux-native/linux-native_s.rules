@@ -5,8 +5,16 @@
 
 ### S ###
 
+# Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
+{ "name": "saintsrow2", "type": "Game" }
+{ "name": "saintsrow2.i386", "type": "Game" }
+
 # Saints Row IV: Re-Elected http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
 { "name": "SaintsRow4.i386", "type": "Game" }
+
+# Saints Row: The Third https://store.steampowered.com/app/55230/Saints_Row_The_Third/
+{ "name": "saintsrow3", "type": "Game" }
+{ "name": "SaintsRow3.i386", "type": "Game" }
 
 # Salt https://store.steampowered.com/app/327860/Salt/
 { "name": "Salt.x86", "type": "Game" }
@@ -25,6 +33,18 @@
 { "name": "FactoryGame", "type": "Game" }
 { "name": "FactoryGameSteam", "type": "Game" }
 
+# Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
+{ "name": "ScarletHollow", "type": "Game" }
+
+# ScourgeBringer https://store.steampowered.com/app/1037020/ScourgeBringer/
+{ "name": "ScourgeBringer", "type": "Game" }
+
+# Scribble It! https://store.steampowered.com/app/1088150/Scribble_It/
+{ "name": "ScribbleIt-Linux-Shipping", "type": "Game" }
+
+# Seasons after Fall https://store.steampowered.com/app/366320/Seasons_after_Fall/
+{ "name": "Seasons after Fall.x86", "type": "Game" }
+
 # Secret of the Magic Crystals https://store.steampowered.com/app/45100/Secret_of_the_Magic_Crystals/
 { "name": "Secret of the Magic Crystal", "type": "Game" }
 
@@ -33,6 +53,9 @@
 
 # Selaco https://store.steampowered.com/app/1592280/Selaco/
 { "name": "Selaco.x86_64", "type": "Game" }
+
+# Selene ~Apoptosis~ https://store.steampowered.com/app/1398210/Selene_Apoptosis/
+{ "name": "Selene", "type": "Game" }
 
 # Serena https://store.steampowered.com/app/272060/Serena/
 { "name": "dagon", "type": "Game" }
@@ -68,11 +91,17 @@
 # Shadow Warrior http://store.steampowered.com/app/233130/Shadow_Warrior/
 { "name": "ShadowWarrior.bin.x86", "type": "Game" }
 
+# Shadow Warrior Classic Redux https://store.steampowered.com/app/225160/Shadow_Warrior_Classic_Redux/
+{ "name": "sw", "type": "Game" }
+
 # Shank https://store.steampowered.com/app/6120/Shank/
 { "name": "Shank", "type": "Game" }
 
 # Shank 2 https://store.steampowered.com/app/102840/Shank_2/
 { "name": "shank2", "type": "Game" }
+
+# shapez https://store.steampowered.com/app/1318690/shapez/
+{ "name": "shapezio", "type": "Game" }
 
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 { "name": "shapez 2.x86_64", "type": "Game" }
@@ -104,6 +133,9 @@
 # Shovel Knight: Treasure Trove https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/
 { "name": "ShovelKnight", "type": "Game" }
 
+# Sid Meier's Civilization: Beyond Earth https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/
+{ "name": "CivBE", "type": "Game" }
+
 # Sid Meier's Civilization V https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/
 { "name": "Civ5XP", "type": "Game" }
 
@@ -113,8 +145,8 @@
 # Sid Meier's Civilization VII https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/
 { "name": "Civ7_linux_Vulkan_FinalRelease", "type": "Game" }
 
-# Sid Meier's Civilization: Beyond Earth https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/
-{ "name": "CivBE", "type": "Game" }
+# Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
+{ "name": "SiralimUltimate", "type": "Game" }
 
 # Sir, You Are Being Hunted https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/
 { "name": "sir", "type": "Game" }
@@ -128,6 +160,9 @@
 # Skull Horde https://store.steampowered.com/app/3199360/Skull_Horde/
 { "name": "SkullHorde.x86_64", "type": "Game" }
 
+# Skul: The Hero Slayer https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/
+{ "name": "Skul.x86_64", "type": "Game" }
+
 # Skyborn https://store.steampowered.com/app/278460/Skyborn/
 { "name": "Skyborn.amd64", "type": "Game" }
 
@@ -138,6 +173,9 @@
 # SKYHILL https://store.steampowered.com/app/382140/SKYHILL/
 { "name": "Skyhill.x86", "type": "Game" }
 { "name": "Skyhill.x86_64", "type": "Game" }
+
+# Slay the Princess — The Pristine Cut https://store.steampowered.com/app/1989270/Slay_the_Princess__The_Pristine_Cut/
+{ "name": "SlaythePrincess", "type": "Game" }
 
 # Slay the Spire https://store.steampowered.com/app/646570/Slay_the_Spire/
 { "name": "SlayTheSpire", "type": "Game" }
@@ -163,6 +201,12 @@
 # Solar 2 https://store.steampowered.com/app/97000/Solar_2/
 { "name": "Solar2", "type": "Game" }
 
+# Sol Cesto https://store.steampowered.com/app/2738490/Sol_Cesto/
+{ "name": "SolCesto", "type": "Game" }
+
+# Soldat 2 https://store.steampowered.com/app/474220/Soldat_2/
+{ "name": "soldat2", "type": "Game" }
+
 # SolForge https://store.steampowered.com/app/232450/SolForge/
 { "name": "solforge_standalonelinux_Final_Live_0.x86", "type": "Game" }
 { "name": "solforge_standalonelinux_Final_Live_0.x86_64", "type": "Game" }
@@ -170,6 +214,9 @@
 # SOMA https://store.steampowered.com/app/282140/SOMA/
 { "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
 { "name": "Soma.bin.x86_64", "type": "Game" }
+
+# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
+{ "name": "songsofsyx", "type": "Game" }
 
 # Sonic Unleashed Recompiled https://github.com/hedge-dev/UnleashedRecomp/
 { "name": "UnleashedRecomp", "type": "Game" }
@@ -283,6 +330,9 @@
 { "name": "StreetsOfRogueLinux.x86", "type": "Game" }
 { "name": "StreetsOfRogueLinux.x86_64", "type": "Game" }
 
+# Strife https://store.steampowered.com/app/339280/Strife/
+{ "name": "strife", "type": "Game" }
+
 # Strike Suit Zero https://store.steampowered.com/app/209540/Strike_Suit_Zero/
 { "name": "StrikeSuitZero", "type": "Game" }
 
@@ -292,9 +342,6 @@
 # Stygian: Reign of the Old Ones https://store.steampowered.com/app/779290/Stygian_Reign_of_the_Old_Ones/
 { "name": "STYGIAN.x86_64", "type": "Game" }
 
-# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
-{ "name": "songsofsyx", "type": "Game" }
-
 # Sub Rosa https://store.steampowered.com/app/272230/Sub_Rosa/
 { "name": "subrosa.x64", "type": "Game" }
 
@@ -303,6 +350,9 @@
 
 # Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.x86_64", "type": "Game" }
+
+# Superbrothers: Sword & Sworcery EP https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/
+{ "name": "swordandsworcery_pc", "type": "Game" }
 
 # Super Hexagon https://store.steampowered.com/app/221640/Super_Hexagon/
 { "name": "SuperHexagon", "type": "Game" }
@@ -341,52 +391,3 @@
 { "name": "Symphony.bin.x86", "type": "Game" }
 { "name": "Symphony.bin.x86_64", "type": "Game" }
 
-# Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
-{ "name": "saintsrow2", "type": "Game" }
-{ "name": "saintsrow2.i386", "type": "Game" }
-
-# Saints Row: The Third https://store.steampowered.com/app/55230/Saints_Row_The_Third/
-{ "name": "saintsrow3", "type": "Game" }
-{ "name": "SaintsRow3.i386", "type": "Game" }
-
-# Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
-{ "name": "ScarletHollow", "type": "Game" }
-
-# ScourgeBringer https://store.steampowered.com/app/1037020/ScourgeBringer/
-{ "name": "ScourgeBringer", "type": "Game" }
-
-# Scribble It! https://store.steampowered.com/app/1088150/Scribble_It/
-{ "name": "ScribbleIt-Linux-Shipping", "type": "Game" }
-
-# Seasons after Fall https://store.steampowered.com/app/366320/Seasons_after_Fall/
-{ "name": "Seasons after Fall.x86", "type": "Game" }
-
-# Selene ~Apoptosis~ https://store.steampowered.com/app/1398210/Selene_Apoptosis/
-{ "name": "Selene", "type": "Game" }
-
-# Shadow Warrior Classic Redux https://store.steampowered.com/app/225160/Shadow_Warrior_Classic_Redux/
-{ "name": "sw", "type": "Game" }
-
-# shapez https://store.steampowered.com/app/1318690/shapez/
-{ "name": "shapezio", "type": "Game" }
-
-# Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
-{ "name": "SiralimUltimate", "type": "Game" }
-
-# Skul: The Hero Slayer https://store.steampowered.com/app/1147560/Skul_The_Hero_Slayer/
-{ "name": "Skul.x86_64", "type": "Game" }
-
-# Slay the Princess — The Pristine Cut https://store.steampowered.com/app/1989270/Slay_the_Princess__The_Pristine_Cut/
-{ "name": "SlaythePrincess", "type": "Game" }
-
-# Soldat 2 https://store.steampowered.com/app/474220/Soldat_2/
-{ "name": "soldat2", "type": "Game" }
-
-# Strife https://store.steampowered.com/app/339280/Strife/
-{ "name": "strife", "type": "Game" }
-
-# Superbrothers: Sword & Sworcery EP https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/
-{ "name": "swordandsworcery_pc", "type": "Game" }
-
-# Sol Cesto https://store.steampowered.com/app/2738490/Sol_Cesto/
-{ "name": "SolCesto", "type": "Game" }

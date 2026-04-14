@@ -15,6 +15,9 @@
 # Universe Sandbox https://store.steampowered.com/app/230290/Universe_Sandbox/
 { "name": "Universe", "type": "Game" }
 
+# UNLIGHT:Revive https://store.steampowered.com/app/3247080/UNLIGHTRevive/
+{ "name": "unlight-revive", "type": "Game" }
+
 # Unnamed Space Idle https://store.steampowered.com/app/2471100/Unnamed_Space_Idle/
 { "name": "SpaceIdle.x86_64", "type": "Game" }
 
@@ -31,14 +34,14 @@
 { "name": "unreal-bin-x86", "type": "Game" }
 { "name": "unreal-bin-amd64", "type": "Game" }
 
+# Unreal Tournament 2004 https://store.steampowered.com/app/13230/Unreal_Tournament_2004_Editors_Choice_Edition/
+{ "name": "ut2004-bin", "type": "Game" }
+{ "name": "ut2004-bin-linux-amd64", "type": "Game" }
+
 # Unreal Tournament 99: OldUnreal Linux port of UT GOTY https://github.com/OldUnreal/UnrealTournamentPatches/
 { "name": "ut-bin-x86", "type": "Game" }
 { "name": "ut-bin-amd64", "type": "Game" }
 { "name": "ut-bin", "type": "Game" }
-
-# Unreal Tournament 2004 https://store.steampowered.com/app/13230/Unreal_Tournament_2004_Editors_Choice_Edition/
-{ "name": "ut2004-bin", "type": "Game" }
-{ "name": "ut2004-bin-linux-amd64", "type": "Game" }
 
 # Until Then https://store.steampowered.com/app/1574820/Until_Then/
 { "name": "UntilThen.x86_64", "type": "Game" }
@@ -60,5 +63,3 @@
 { "name": "Quake3-UrT.x86_64", "type": "Game" }
 { "name": "Quake3-UrT.i386", "type": "Game" }
 
-# UNLIGHT:Revive https://store.steampowered.com/app/3247080/UNLIGHTRevive/
-{ "name": "unlight-revive", "type": "Game" }

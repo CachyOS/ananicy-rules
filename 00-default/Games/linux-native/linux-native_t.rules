@@ -27,12 +27,12 @@
 # Team Fortress 2 http://store.steampowered.com/app/440/Team_Fortress_2/
 { "name": "tf_linux64", "type": "Game" }
 
+# Teenage Mutant Ninja Turtles: Shredder's Revenge https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/
+{ "name": "TMNT", "type": "Game" }
+
 # Teeworlds https://store.steampowered.com/app/380840/Teeworlds/
 { "name": "teeworlds", "type": "Game" }
 { "name": "teeworlds_srv", "type": "Game" }
-
-# Teenage Mutant Ninja Turtles: Shredder's Revenge https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/
-{ "name": "TMNT", "type": "Game" }
 
 # Teleglitch: Die More Edition https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/
 { "name": "runme", "type": "Game" }
@@ -66,6 +66,10 @@
 
 # Thomas Was Alone https://store.steampowered.com/app/220780/Thomas_Was_Alone/
 { "name": "thomasWasAlone", "type": "Game" }
+
+# Thrive https://store.steampowered.com/app/1779200/Thrive/
+{ "name": "ThriveLauncher", "type": "Game" }
+{ "name": "Thrive", "type": "Game" }
 
 # Ticket to Ride: Classic Edition https://store.steampowered.com/app/108200/Ticket_to_Ride_Classic_Edition/
 { "name": "Ticket to Ride", "type": "Game" }
@@ -101,6 +105,10 @@
 # Tooth and Tail https://store.steampowered.com/app/286000/Tooth_and_Tail/
 { "name": "ToothAndTail", "type": "Game" }
 
+# Torchlight https://store.steampowered.com/app/41500/Torchlight/
+{ "name": "Torchlight.bin.x86_64", "type": "Game" }
+{ "name": "Torchlight.bin.x86", "type": "Game" }
+
 # Torchlight II https://store.steampowered.com/app/200710/Torchlight_II/
 { "name": "Torchlight2.bin.x86", "type": "Game" }
 { "name": "Torchlight2.bin.x86_64", "type": "Game" }
@@ -111,34 +119,11 @@
 # Torment: Tides of Numenera https://store.steampowered.com/app/272270/Torment_Tides_of_Numenera/
 { "name": "TidesOfNumenera", "type": "Game" }
 
-# Total War: ATTILA https://store.steampowered.com/app/325610/Total_War_ATTILA/
-{ "name": "Attila", "type": "Game" }
-
-# Thrive https://store.steampowered.com/app/1779200/Thrive/
-{ "name": "ThriveLauncher", "type": "Game" }
-{ "name": "Thrive", "type": "Game" }
-
-# Torchlight https://store.steampowered.com/app/41500/Torchlight/
-{ "name": "Torchlight.bin.x86_64", "type": "Game" }
-{ "name": "Torchlight.bin.x86", "type": "Game" }
-
 # Totally Reliable Delivery Service https://store.steampowered.com/app/1011670/Totally_Reliable_Delivery_Service/
 { "name": "totallyreliabledeliveryservice.x86_64", "type": "Game" }
 
-# Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
-{ "name": "Tower-Linux-Shipping", "type": "Game" }
-
-# Transformice https://store.steampowered.com/app/335240/Transformice/
-{ "name": "Transformice", "type": "Game" }
-
-# Transport Fever https://store.steampowered.com/app/446800/Transport_Fever/
-{ "name": "TransportFever", "type": "Game" }
-
-# TRYP FPV https://store.steampowered.com/app/1881200/TRYP_FPV_Drone_Racer_Simulator/
-{ "name": "TrypFPV-Linux-Shipping", "type": "Game" }
-
-# Two Point Campus https://store.steampowered.com/app/1649080/Two_Point_Campus/
-{ "name": "TPC.x86_64", "type": "Game" }
+# Total War: ATTILA https://store.steampowered.com/app/325610/Total_War_ATTILA/
+{ "name": "Attila", "type": "Game" }
 
 # Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
 { "name": "game.i386", "type": "Game" }
@@ -175,8 +160,17 @@
 { "name": "TowerOfTime.x86", "type": "Game" }
 { "name": "TowerOfTime.x86_64", "type": "Game" }
 
+# Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
+{ "name": "Tower-Linux-Shipping", "type": "Game" }
+
+# Transformice https://store.steampowered.com/app/335240/Transformice/
+{ "name": "Transformice", "type": "Game" }
+
 # Transistor https://store.steampowered.com/app/237930/Transistor/
 { "name": "Transistor", "type": "Game" }
+
+# Transport Fever https://store.steampowered.com/app/446800/Transport_Fever/
+{ "name": "TransportFever", "type": "Game" }
 
 # Transport Fever 2 https://store.steampowered.com/app/1066780/Transport_Fever_2/
 { "name": "TransportFever2", "type": "Game" }
@@ -184,32 +178,38 @@
 # Tricky Towers https://store.steampowered.com/app/437920/Tricky_Towers/
 { "name": "TrickyTowers.x86", "type": "Game" }
 
-# Trine Enchanted Edition https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/
-{ "name": "trine1_linux_32bit", "type": "Game" }
-
 # Trine 2: Complete Story https://store.steampowered.com/app/35720/Trine_2_Complete_Story/
 { "name": "trine2_linux_32bit", "type": "Game" }
 
 # Trine 3: The Artifacts of Power https://store.steampowered.com/app/319910/Trine_3_The_Artifacts_of_Power/
 { "name": "trine3_linux_64bit", "type": "Game" }
 
-# Tropico 6 https://store.steampowered.com/app/492720/Tropico_6/
-{ "name": "Tropico6-Linux-Shipping", "type": "Game" }
+# Trine Enchanted Edition https://store.steampowered.com/app/35700/Trine_Enchanted_Edition/
+{ "name": "trine1_linux_32bit", "type": "Game" }
 
 # Tropico 5 https://store.steampowered.com/app/245620/Tropico_5/
 { "name": "Tropico5", "type": "Game" }
 
-# Turmoil https://store.steampowered.com/app/361280/Turmoil/
-{ "name": "Turmoil.x86_64", "type": "Game" }
+# Tropico 6 https://store.steampowered.com/app/492720/Tropico_6/
+{ "name": "Tropico6-Linux-Shipping", "type": "Game" }
+
+# TRYP FPV https://store.steampowered.com/app/1881200/TRYP_FPV_Drone_Racer_Simulator/
+{ "name": "TrypFPV-Linux-Shipping", "type": "Game" }
 
 # Turing Complete https://store.steampowered.com/app/1444480/Turing_Complete/
 { "name": "Turing Complete.x86_64", "type": "Game" }
+
+# Turmoil https://store.steampowered.com/app/361280/Turmoil/
+{ "name": "Turmoil.x86_64", "type": "Game" }
 
 # Turok https://store.steampowered.com/app/405820/Turok/
 { "name": "TurokEx", "type": "Game" }
 
 # Turok 2: Seeds of Evil https://store.steampowered.com/app/405830/Turok_2_Seeds_of_Evil/
 { "name": "Turok2Ex", "type": "Game" }
+
+# Two Point Campus https://store.steampowered.com/app/1649080/Two_Point_Campus/
+{ "name": "TPC.x86_64", "type": "Game" }
 
 # Two Point Hospital https://store.steampowered.com/app/535930/Two_Point_Hospital/
 { "name": "TPH.x86_64", "type": "Game" }
@@ -230,3 +230,4 @@
 { "name": "tyr-glqwcl", "type": "Game" }
 { "name": "tyr-quake", "type": "Game" }
 { "name": "tyr-qwcl", "type": "Game" }
+

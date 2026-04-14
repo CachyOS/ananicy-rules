@@ -6,11 +6,20 @@
 # '0 A.D.' RTS https://play0ad.com/
 { "name": "0ad", "type": "Game" }
 
+# 10,000,000 https://store.steampowered.com/app/227580/10000000/
+{ "name": "10000000.x86", "type": "Game" }
+
 # 100% Orange Juice https://store.steampowered.com/app/282800/100_Orange_Juice/
 { "name": "100orange", "type": "Game" }
 
+# 140 https://store.steampowered.com/app/242820/140/
+{ "name": "140Linux.x86", "type": "Game" }
+
 # 5D Chess With Multiverse Time Travel https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/
 { "name": "5dchesswithmultiversetimetravel", "type": "Game" }
+
+# 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
+{ "name": "60Seconds.x86", "type": "Game" }
 
 # 7 Billion Humans https://store.steampowered.com/app/792100/7_Billion_Humans/
 { "name": "7BillionHumans.bin.x86", "type": "Game" }
@@ -20,18 +29,10 @@
 { "name": "7DaysToDie.x86_64", "type": "Game" }
 { "name": "7DaysToDie_EAC", "type": "Game" }
 
+# 911 Operator https://store.steampowered.com/app/503560/911_Operator/
+{ "name": "911OperatorLinux.x86", "type": "Game" }
+
 # 9 Clues: The Secret of Serpent Creek https://store.steampowered.com/app/284870/9_Clues_The_Secret_of_Serpent_Creek/
 { "name": "NineClues_amd64", "type": "Game" }
 { "name": "NineClues_i386", "type": "Game" }
 
-# 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
-{ "name": "60Seconds.x86", "type": "Game" }
-
-# 140 https://store.steampowered.com/app/242820/140/
-{ "name": "140Linux.x86", "type": "Game" }
-
-# 911 Operator https://store.steampowered.com/app/503560/911_Operator/
-{ "name": "911OperatorLinux.x86", "type": "Game" }
-
-# 10,000,000 https://store.steampowered.com/app/227580/10000000/
-{ "name": "10000000.x86", "type": "Game" }

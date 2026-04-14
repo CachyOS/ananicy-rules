@@ -5,6 +5,9 @@
 
 ### G ###
 
+# Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
+{ "name": "gamblers-table.x86_64", "type": "Game" }
+
 # Game Dev Tycoon https://store.steampowered.com/app/239820/Game_Dev_Tycoon/
 { "name": "gamedevtycoon-bin", "type": "Game" }
 { "name": "gamedevtycoon64-bin", "type": "Game" }
@@ -14,9 +17,6 @@
 
 # Garry's Mod https://store.steampowered.com/app/4000/Garrys_Mod/
 { "name": "gmod", "type": "Game" }
-
-# Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
-{ "name": "gamblers-table.x86_64", "type": "Game" }
 
 # GearCity https://store.steampowered.com/app/285110/GearCity/
 { "name": "GearCityFBS1", "type": "Game" }
@@ -49,15 +49,15 @@
 # Goat Simulator https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame", "type": "Game" }
 
-# Gone Home https://store.steampowered.com/app/232430/Gone_Home/
-{ "name": "GoneHome.x86", "type": "Game" }
-{ "name": "GoneHome.x86_64", "type": "Game" }
-
 # Golf Gang https://store.steampowered.com/app/1151050/Golf_Gang/
 { "name": "Golf Gang.x86_64", "type": "Game" }
 
 # Golf With Your Friends https://store.steampowered.com/app/431240/Golf_With_Your_Friends/
 { "name": "Golf With Your Friends.x86_64", "type": "Game" }
+
+# Gone Home https://store.steampowered.com/app/232430/Gone_Home/
+{ "name": "GoneHome.x86", "type": "Game" }
+{ "name": "GoneHome.x86_64", "type": "Game" }
 
 # Gravel https://store.steampowered.com/app/558260/Gravel/
 { "name": "gravel.x86_64", "type": "Game" }
@@ -77,9 +77,6 @@
 # GRID Autosport https://store.steampowered.com/app/255220/GRID_Autosport/
 { "name": "GridAutosport", "type": "Game" }
 
-# Ground of Aces https://store.steampowered.com/app/2308690/Ground_of_Aces/
-{ "name": "GroundOfAces", "type": "Game" }
-
 # Grim Fandango Remastered https://store.steampowered.com/app/316790/Grim_Fandango_Remastered/
 { "name": "GrimFandango", "type": "Game" }
 
@@ -90,6 +87,9 @@
 # Grim Legends: The Forsaken Bride https://store.steampowered.com/app/284850/Grim_Legends_The_Forsaken_Bride/
 { "name": "GrimLegends_TheForsakenBride_amd64", "type": "Game" }
 { "name": "GrimLegends_TheForsakenBride_i386", "type": "Game" }
+
+# Ground of Aces https://store.steampowered.com/app/2308690/Ground_of_Aces/
+{ "name": "GroundOfAces", "type": "Game" }
 
 # Grow Home https://store.steampowered.com/app/323320/Grow_Home/
 { "name": "GrowHome.x86", "type": "Game" }
@@ -111,3 +111,4 @@
 # Guts and Glory https://store.steampowered.com/app/537340/Guts_and_Glory/
 { "name": "Guts and Glory.x86", "type": "Game" }
 { "name": "Guts and Glory.x86_64", "type": "Game" }
+

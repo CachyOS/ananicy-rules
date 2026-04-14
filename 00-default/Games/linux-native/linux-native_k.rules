@@ -38,8 +38,14 @@
 { "name": "Kinetic Void.x86", "type": "Game" }
 { "name": "Kinetic Void.x86_64", "type": "Game" }
 
+# King Arthur's Gold https://store.steampowered.com/app/219830/King_Arthurs_Gold/
+{ "name": "KAG", "type": "Game" }
+
 # Kingdom Rush Frontiers - Tower Defense https://store.steampowered.com/app/458710/Kingdom_Rush_Frontiers__Tower_Defense/
 { "name": "krf-love", "type": "Game" }
+
+# Kingdom Rush Origins https://store.steampowered.com/app/816340/Kingdom_Rush_Origins__Tower_Defense/
+{ "name": "Kingdom Rush Origins", "type": "Game" }
 
 # Kingdom Rush  - Tower Defense https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/
 { "name": "Kingdom Rush.x86", "type": "Game" }
@@ -65,8 +71,3 @@
 # Kona https://store.steampowered.com/app/365160/Kona/
 { "name": "Kona.x86_64", "type": "Game" }
 
-# King Arthur's Gold https://store.steampowered.com/app/219830/King_Arthurs_Gold/
-{ "name": "KAG", "type": "Game" }
-
-# Kingdom Rush Origins https://store.steampowered.com/app/816340/Kingdom_Rush_Origins__Tower_Defense/
-{ "name": "Kingdom Rush Origins", "type": "Game" }
