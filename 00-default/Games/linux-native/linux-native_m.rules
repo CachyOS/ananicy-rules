@@ -6,7 +6,6 @@
 ### M ###
 
 # Mad Max https://store.steampowered.com/app/234140/Mad_Max/
-{ "name": "MadMax.sh", "type": "Game" }
 { "name": "MadMax", "type": "Game" }
 
 # Magicite https://store.steampowered.com/app/268750/Magicite/
@@ -24,9 +23,6 @@
 
 # Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
 { "name": "ninja-bin32", "type": "Game" }
-
-# Marvel's Midnight Suns https://store.steampowered.com/app/368260/Marvels_Midnight_Suns/
-{ "name": "MidnightSuns.sh", "type": "Game" }
 
 # MASSIVE CHALICE https://store.steampowered.com/app/246110/MASSIVE_CHALICE/
 { "name": "MC", "type": "Game" }
@@ -56,8 +52,6 @@
 { "name": "Melvor Idle", "type": "Game" }
 
 # Men of War II https://store.steampowered.com/app/1128860/Men_of_War_II/
-{ "name": "mow2.sh", "type": "Game" }
-{ "name": "mow2_editor.sh", "type": "Game" }
 { "name": "mow2_editor", "type": "Game" }
 { "name": "mow2", "type": "Game" }
 { "name": "mow2_cli_local", "type": "Game" }
@@ -72,7 +66,6 @@
 { "name": "mcv_linux64", "type": "Game" }
 
 # Middle-earth: Shadow of Mordor https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
-{ "name": "ShadowOfMordor.sh", "type": "Game" }
 { "name": "ShadowOfMordor", "type": "Game" }
 
 # Mindustry https://store.steampowered.com/app/1127400/Mindustry/

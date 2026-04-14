@@ -26,7 +26,6 @@
 
 # Team Fortress 2 http://store.steampowered.com/app/440/Team_Fortress_2/
 { "name": "tf_linux64", "type": "Game" }
-{ "name": "tf.sh", "type": "Game" }
 
 # Teeworlds https://store.steampowered.com/app/380840/Teeworlds/
 { "name": "teeworlds", "type": "Game" }
@@ -85,7 +84,6 @@
 
 # tModLoader https://store.steampowered.com/app/1281930/tModLoader/
 { "name": "tModLoader", "type": "Game" }
-{ "name": "start-tModLoader.sh", "type": "Game" }
 
 # TOEM: A Photo Adventure https://store.steampowered.com/app/1307580/TOEM_A_Photo_Adventure/
 { "name": "TOEM.x86_64", "type": "Game" }
@@ -117,23 +115,19 @@
 { "name": "Attila", "type": "Game" }
 
 # Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
-{ "name": "Empire.sh", "type": "Game" }
 { "name": "game.i386", "type": "Game" }
 
 # Total War: MEDIEVAL II – Definitive Edition https://store.steampowered.com/app/4700/Total_War_MEDIEVAL_II__Definitive_Edition/
 { "name": "Medieval2", "type": "Game" }
-{ "name": "Medieval2.sh", "type": "Game" }
 
 # Total War: ROME II - Emperor Edition https://store.steampowered.com/app/214950/Total_War_ROME_II__Emperor_Edition/
 { "name": "Rome2", "type": "Game" }
 
 # Total War: ROME REMASTERED https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
-{ "name": "Total War ROME REMASTERED.sh", "type": "Game" }
 { "name": "Rome", "type": "Game" }
 
 # Total War: THREE KINGDOMS https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/
 { "name": "ThreeKingdoms", "type": "Game" }
-{ "name": "ThreeKingdoms.sh", "type": "Game" }
 
 # Total War: WARHAMMER https://store.steampowered.com/app/364360/Total_War_WARHAMMER/
 { "name": "TotalWarhammer", "type": "Game" }

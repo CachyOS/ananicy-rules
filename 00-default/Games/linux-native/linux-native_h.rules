@@ -16,11 +16,9 @@
 
 # Half-Life Deathmatch: Source https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/
 { "name": "hl1mp_linux64", "type": "Game" }
-{ "name": "hl1mp.sh", "type": "Game" }
 
 # Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
 { "name": "hl2mp_linux64", "type": "Game" }
-{ "name": "hl2mp.sh", "type": "Game" }
 
 # Halls of Torment https://store.steampowered.com/app/2218750/Halls_of_Torment/
 { "name": "HallsOfTorment.x86_64", "type": "Game" }
@@ -28,9 +26,6 @@
 # Hard West https://store.steampowered.com/app/307670/Hard_West/
 { "name": "HardWest.x86", "type": "Game" }
 { "name": "HardWest.x86_64", "type": "Game" }
-
-# Harvester https://store.steampowered.com/app/287020/Harvester/
-{ "name": "launch_harvester_game.sh", "type": "Game" }
 
 # Haste https://store.steampowered.com/app/1796470/Haste/
 { "name": "Haste.x86_64", "type": "Game" }

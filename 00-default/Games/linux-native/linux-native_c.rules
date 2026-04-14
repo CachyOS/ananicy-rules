@@ -94,10 +94,8 @@
 
 # Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name" : "CompanyOfHeroes2","type": "Game"}
-{ "name" : "CompanyOfHeroes2.sh","type": "Game"}
 
 # Conquest of Elysium 5 https://store.steampowered.com/app/1606340/Conquest_of_Elysium_5/
-{ "name": "coe5.sh", "type": "Game" }
 { "name": "coe5", "type": "Game" }
 
 # Contraption Maker https://store.steampowered.com/app/241240/Contraption_Maker/
@@ -116,11 +114,10 @@
 { "name": "csgo_linux64", "type": "Game" }
 { "name": "cs2", "type": "Game" }
 
-# Counter-Strike: Global Offensive https://store.steampowered.com/app/4465480/CounterStrikeGlobal_Offensive/
-{ "name": "cs2.sh", "type": "Game" }
-
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
-{ "name": "cstrike.sh", "type": "Game" }
+{ "name": "cstrike_linux64", "type": "Game" }
+{ "name": "srcds_linux", "type": "Game" }
+{ "name": "srcds_linux64", "type": "Game" }
 
 # Crab Game https://store.steampowered.com/app/1782210/Crab_Game/
 { "name": "Crab Game.x86_64", "type": "Game" }

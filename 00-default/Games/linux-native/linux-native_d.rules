@@ -18,7 +18,6 @@
 
 # Dead Cells https://store.steampowered.com/app/588650/Dead_Cells/
 { "name": "deadcells", "type": "Game" }
-{ "name": "deadcells.sh", "type": "BG_CPUIO" }
 
 # Dead Pixels https://store.steampowered.com/app/222980/Dead_Pixels/
 { "name": "Dead Pixels", "type": "Game" }
@@ -119,7 +118,6 @@
 { "name": "domekeeper.x86_64", "type": "Game" }
 
 # Dominions 6 - Rise of the Pantokrator https://store.steampowered.com/app/2511500/Dominions_6__Rise_of_the_Pantokrator/
-{ "name": "dom6.sh", "type": "Game" }
 { "name": "dom6_amd64", "type": "Game" }
 
 # Dungeon Alchemist https://store.steampowered.com/app/1588530/Dungeon_Alchemist/
