@@ -101,6 +101,40 @@
 # Contraption Maker https://store.steampowered.com/app/241240/Contraption_Maker/
 { "name": "ContraptionMaker", "type": "Game" }
 
+# Castle Story https://store.steampowered.com/app/227860/Castle_Story/
+{ "name": "castlestory-launcher", "type": "BG_CPUIO" }
+{ "name": "Castle Story", "type": "Game" }
+
+# Caves of Qud https://store.steampowered.com/app/333640/Caves_of_Qud/
+{ "name": "CoQ.x86_64", "type": "Game" }
+{ "name": "CoQ.x86", "type": "Game" }
+
+# Chasing Tails -A Promise in the Snow- https://store.steampowered.com/app/1555110/Chasing_Tails_A_Promise_in_the_Snow/
+{ "name": "ChasingTails", "type": "Game" }
+
+# Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
+{ "name": "ClearedHot", "type": "Game" }
+
+# Construction-Simulator 2015 https://store.steampowered.com/app/289950/Construction_Simulator_2015/
+{ "name": "ConSim2015.x86", "type": "Game" }
+{ "name": "ConSim2015.x86_64", "type": "Game" }
+
+# Cossacks 3 https://store.steampowered.com/app/333420/Cossacks_3/
+{ "name": "cossacks", "type": "Game" }
+{ "name": "config", "type": "Game" }
+{ "name": "modman", "type": "Game" }
+{ "name": "editor", "type": "Game" }
+
+# Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
+{ "name": "hl_linux", "type": "Game" }
+
+# Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
+{ "name": "hl_linux", "type": "Game" }
+
+# Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
+{ "name": "Cronos", "type": "Game" }
+{ "name": "Cronos-Linux-Shipping", "type": "Game" }
+
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper", "type": "Game" }
 

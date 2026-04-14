@@ -27,6 +27,10 @@
 { "name": "HardWest.x86", "type": "Game" }
 { "name": "HardWest.x86_64", "type": "Game" }
 
+# Human Fall Flat https://store.steampowered.com/app/477160/Human_Fall_Flat/
+{ "name": "Human.x86_64", "type": "Game" }
+{ "name": "Human.x86", "type": "Game" }
+
 # Haste https://store.steampowered.com/app/1796470/Haste/
 { "name": "Haste.x86_64", "type": "Game" }
 
