@@ -32,14 +32,14 @@
 { "name": "Vintagestory", "type": "Game" }
 { "name": "VintagestoryServer", "type": "Service" }
 
+# Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
+{ "name": "Virtual Cottage_LINUX.x86_64", "type": "Game" }
+
 # vkquake https://github.com/Novum/vkQuake/
 { "name": "vkquake", "type": "Game" }
 
 # vkquake2 https://github.com/kondrak/vkQuake2/
 { "name": "vkquake2", "type": "Game" }
-
-# Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
-{ "name": "Virtual Cottage_LINUX.x86_64", "type": "Game" }
 
 # Volcanoids https://store.steampowered.com/app/951440/Volcanoids/
 { "name": "Volcanoids.x86_64", "type": "Game" }
@@ -49,3 +49,4 @@
 
 # VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
 { "name": "VVVVVV", "type": "Game" }
+

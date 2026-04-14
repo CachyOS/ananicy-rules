@@ -5,9 +5,6 @@
 
 ### B ###
 
-# Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
-{ "name": "Chowdren", "type": "Game" }
-
 # Backpack Battles https://store.steampowered.com/app/2427700/Backpack_Battles/
 { "name": "BackpackBattles.x86_64", "type": "Game" }
 
@@ -18,30 +15,14 @@
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
 
-# BattleBlock Theater https://store.steampowered.com/app/238460/BattleBlock_Theater/
-{ "name": "BattleBlockTheater", "type": "Game" }
-
-# Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
-{ "name": "BC", "type": "Game" }
-
-# Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
-{ "name": "wesnoth", "type": "Game" }
-{ "name": "wesnothd", "type": "Game" }
-
-# Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
-{ "name": "BattleNations", "type": "Game" }
-
-# BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
-{ "name": "BattleTech", "type": "Game" }
-
 # Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
 { "name": "BALDI.x86_64", "type": "Game" }
 
-# Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
-{ "name": "BaldursGateII", "type": "Game" }
-
 # Baldur's Gate 3 https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 { "name": "bg3", "type": "Game" }
+
+# Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
+{ "name": "BaldursGateII", "type": "Game" }
 
 # Banana https://store.steampowered.com/app/2923300/Banana/
 { "name": "Banana.x86_64", "type": "Game" }
@@ -59,6 +40,22 @@
 
 # Bastion https://store.steampowered.com/app/107100/Bastion/
 { "name": "Bastion", "type": "Game" }
+
+# BattleBlock Theater https://store.steampowered.com/app/238460/BattleBlock_Theater/
+{ "name": "BattleBlockTheater", "type": "Game" }
+
+# Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
+{ "name": "BC", "type": "Game" }
+
+# Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
+{ "name": "wesnoth", "type": "Game" }
+{ "name": "wesnothd", "type": "Game" }
+
+# Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
+{ "name": "BattleNations", "type": "Game" }
+
+# BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
+{ "name": "BattleTech", "type": "Game" }
 
 # BeamNG.drive https://store.steampowered.com/app/284160/BeamNGdrive/
 { "name": "BeamNG.drive.x64", "type": "Game" }
@@ -145,6 +142,9 @@
 # Breach & Clear https://store.steampowered.com/app/266130/Breach__Clear/
 { "name": "bnc_linux.x86", "type": "Game" }
 
+# Brick Rigs https://store.steampowered.com/app/552100/Brick_Rigs/
+{ "name": "BrickRigsSteam-Linux-Shipping", "type": "Game" }
+
 # Bridge Constructor https://store.steampowered.com/app/250460/Bridge_Constructor/
 { "name": "BridgeConstructor.x86_64", "type": "Game" }
 
@@ -161,15 +161,19 @@
 # Broken Age https://store.steampowered.com/app/232790/Broken_Age/
 { "name": "BrokenAge", "type": "Game" }
 
-# Broken Sword: Director's Cut (2009) https://store.steampowered.com/app/57640/Broken_Sword_Directors_Cut_2009/
-{ "name": "bs1dc_i386", "type": "Game" }
-{ "name": "bs1dc_x86_64", "type": "Game" }
-
 # Broken Sword 2 - the Smoking Mirror: Remastered (2010) https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered_2010/
 { "name": "BS2", "type": "Game" }
 
 # Broken Sword 5 - the Serpent's Curse https://store.steampowered.com/app/262940/Broken_Sword_5__the_Serpents_Curse/
 { "name": "BS5", "type": "Game" }
+
+# Broken Sword: Director's Cut (2009) https://store.steampowered.com/app/57640/Broken_Sword_Directors_Cut_2009/
+{ "name": "bs1dc_i386", "type": "Game" }
+{ "name": "bs1dc_x86_64", "type": "Game" }
+
+# Brotato https://store.steampowered.com/app/1942280/Brotato/
+{ "name": "Brotato.x86_64", "type": "Game" }
+{ "name": "GodotWorkshopUtility.x86_64", "type": "Game" }
 
 # Brutal Legend https://store.steampowered.com/app/225260/Brutal_Legend/
 { "name": "Buddha.bin.x86", "type": "Game" }
@@ -182,3 +186,4 @@
 
 # BUTCHER https://store.steampowered.com/app/474210/BUTCHER/
 { "name": "Butcher", "type": "Game" }
+

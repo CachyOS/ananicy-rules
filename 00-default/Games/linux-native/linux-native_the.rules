@@ -25,6 +25,13 @@
 # The Blackwell Legacy https://store.steampowered.com/app/80330/The_Blackwell_Legacy/
 { "name": "startgame", "type": "Game" }
 
+# The Book of Unwritten Tales https://store.steampowered.com/app/215160/The_Book_of_Unwritten_Tales/
+{ "name": "kAGEd", "type": "Game" }
+{ "name": "kAGE", "type": "Game" }
+
+# The Bridge https://store.steampowered.com/app/204240/The_Bridge/
+{ "name": "thebridge.x86_64", "type": "Game" }
+
 # The Cave https://store.steampowered.com/app/221810/The_Cave/
 { "name": "Cave.bin.x86", "type": "Game" }
 
@@ -39,6 +46,9 @@
 
 # The Dishwasher: Vampire Smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
 { "name": "VampireSmile", "type": "Game" }
+
+# The Drifter https://store.steampowered.com/app/1170570/The_Drifter/
+{ "name": "TheDrifter.x64", "type": "Game" }
 
 # The Escapists 2 https://store.steampowered.com/app/641990/The_Escapists_2/
 { "name": "TheEscapists2.x86", "type": "Game" }
@@ -59,37 +69,21 @@
 # The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
 { "name": "ImpossibleGame", "type": "Game" }
 
-# The Legend of Zelda: Majora's Mask Recompiled https://github.com/Zelda64Recomp/Zelda64Recomp/
-{ "name": "Zelda64Recompiled", "type": "Game" }
-
-# The Long Dark https://store.steampowered.com/app/305620/The_Long_Dark/
-{ "name": "tld.x86_64", "type": "Game" }
-
-# The Roottrees are Dead https://store.steampowered.com/app/2754380/The_Roottrees_are_Dead/
-{ "name": "roottrees", "type": "Game" }
-
-# The Swapper https://store.steampowered.com/app/231160/The_Swapper/
-{ "name": "TheSwapper.bin.x86", "type": "Game" }
-{ "name": "TheSwapper.bin.x86_64", "type": "Game" }
-
-# The Stanley Parable: Ultra Deluxe https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/
-{ "name": "The Stanley Parable Ultra Deluxe.x86_64", "type": "Game" }
-
-# The Séance of Blake Manor https://store.steampowered.com/app/1395520/The_Sance_of_Blake_Manor/
-{ "name": "The Seance of Blake Manor.x86_64", "type": "Game" }
-
-# The Whispered World Special Edition https://store.steampowered.com/app/268540/The_Whispered_World_Special_Edition/
-{ "name": "TWWSE", "type": "Game" }
-
-# The Witcher 2: Assassins of Kings Enhanced Edition https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
-{ "name": "witcher2", "type": "Game" }
-
-# The Wandering Village https://store.steampowered.com/app/1121640/The_Wandering_Village/
-{ "name": "WanderingVillage.x86_64", "type": "Game" }
+# The Jackbox Naughty Pack https://store.steampowered.com/app/2652000/The_Jackbox_Naughty_Pack/
+{ "name": "TJNP_Vulkan", "type": "Game" }
+{ "name": "TJNP_OpenGL", "type": "Game" }
 
 # The Jackbox Party Pack https://store.steampowered.com/app/331670/The_Jackbox_Party_Pack/
 { "name": "TJPP1_Vulkan", "type": "Game" }
 { "name": "TJPP1_OpenGL", "type": "Game" }
+
+# The Jackbox Party Pack 10 https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/
+{ "name": "TJPP10_Vulkan", "type": "Game" }
+{ "name": "TJPP10_OpenGL", "type": "Game" }
+
+# The Jackbox Party Pack 11 https://store.steampowered.com/app/3364070/The_Jackbox_Party_Pack_11/
+{ "name": "TJPP11_Vulkan", "type": "Game" }
+{ "name": "TJPP11_OpenGL", "type": "Game" }
 
 # The Jackbox Party Pack 2 https://store.steampowered.com/app/397460/The_Jackbox_Party_Pack_2/
 { "name": "TJPP2_Vulkan", "type": "Game" }
@@ -123,28 +117,25 @@
 { "name": "TJPP9_Vulkan", "type": "Game" }
 { "name": "TJPP9_OpenGL", "type": "Game" }
 
-# The Jackbox Party Pack 10 https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/
-{ "name": "TJPP10_Vulkan", "type": "Game" }
-{ "name": "TJPP10_OpenGL", "type": "Game" }
-
-# The Jackbox Party Pack 11 https://store.steampowered.com/app/3364070/The_Jackbox_Party_Pack_11/
-{ "name": "TJPP11_Vulkan", "type": "Game" }
-{ "name": "TJPP11_OpenGL", "type": "Game" }
-
-# The Jackbox Naughty Pack https://store.steampowered.com/app/2652000/The_Jackbox_Naughty_Pack/
-{ "name": "TJNP_Vulkan", "type": "Game" }
-{ "name": "TJNP_OpenGL", "type": "Game" }
+# The Jackbox Party Starter https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/
+{ "name": "TJPS_Vulkan", "type": "Game" }
+{ "name": "TJPS_OpenGL", "type": "Game" }
 
 # The Jackbox Survey Scramble https://store.steampowered.com/app/2948640/The_Jackbox_Survey_Scramble/
 { "name": "TJSS_Vulkan", "type": "Game" }
 { "name": "TJSS_OpenGL", "type": "Game" }
 
-# The Jackbox Party Starter https://store.steampowered.com/app/1755580/The_Jackbox_Party_Starter/
-{ "name": "TJPS_Vulkan", "type": "Game" }
-{ "name": "TJPS_OpenGL", "type": "Game" }
-
 # The Journey Down: Chapter One https://store.steampowered.com/app/220090/The_Journey_Down_Chapter_One/
 { "name": "JourneyDown1", "type": "Game" }
+
+# The Last Door - Collector's Edition https://store.steampowered.com/app/284390/The_Last_Door__Collectors_Edition/
+{ "name": "The Last Door CE", "type": "Game" }
+
+# The Legend of Zelda: Majora's Mask Recompiled https://github.com/Zelda64Recomp/Zelda64Recomp/
+{ "name": "Zelda64Recompiled", "type": "Game" }
+
+# The Long Dark https://store.steampowered.com/app/305620/The_Long_Dark/
+{ "name": "tld.x86_64", "type": "Game" }
 
 # The Mooseman https://store.steampowered.com/app/574310/The_Mooseman/
 { "name": "Mooseman.x86", "type": "Game" }
@@ -159,8 +150,21 @@
 # The Plan https://store.steampowered.com/app/250600/The_Plan/
 { "name": "The Plan.x86", "type": "Game" }
 
+# The Roottrees are Dead https://store.steampowered.com/app/2754380/The_Roottrees_are_Dead/
+{ "name": "roottrees", "type": "Game" }
+
+# The Séance of Blake Manor https://store.steampowered.com/app/1395520/The_Sance_of_Blake_Manor/
+{ "name": "The Seance of Blake Manor.x86_64", "type": "Game" }
+
 # The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
 { "name": "stanley", "type": "Game" }
+
+# The Stanley Parable: Ultra Deluxe https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/
+{ "name": "The Stanley Parable Ultra Deluxe.x86_64", "type": "Game" }
+
+# The Swapper https://store.steampowered.com/app/231160/The_Swapper/
+{ "name": "TheSwapper.bin.x86", "type": "Game" }
+{ "name": "TheSwapper.bin.x86_64", "type": "Game" }
 
 # The Talos Principle https://store.steampowered.com/app/257510/The_Talos_Principle/
 { "name": "Talos", "type": "Game" }
@@ -171,3 +175,13 @@
 
 # The Uncertain: Last Quiet Day https://store.steampowered.com/app/406970/The_Uncertain_Last_Quiet_Day/
 { "name": "TUE1.x86_64", "type": "Game" }
+
+# The Wandering Village https://store.steampowered.com/app/1121640/The_Wandering_Village/
+{ "name": "WanderingVillage.x86_64", "type": "Game" }
+
+# The Whispered World Special Edition https://store.steampowered.com/app/268540/The_Whispered_World_Special_Edition/
+{ "name": "TWWSE", "type": "Game" }
+
+# The Witcher 2: Assassins of Kings Enhanced Edition https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
+{ "name": "witcher2", "type": "Game" }
+

@@ -6,11 +6,17 @@
 ### M ###
 
 # Mad Max https://store.steampowered.com/app/234140/Mad_Max/
-{ "name": "MadMax.sh", "type": "Game" }
 { "name": "MadMax", "type": "Game" }
+
+# Magical Diary: Horse Hall https://store.steampowered.com/app/211340/Magical_Diary_Horse_Hall/
+{ "name": "MagicalDiary", "type": "Game" }
 
 # Magicite https://store.steampowered.com/app/268750/Magicite/
 { "name": "Magicite", "type": "Game" }
+
+# Magicka 2 https://store.steampowered.com/app/238370/Magicka_2/
+{ "name": "Magicka2", "type": "Game" }
+{ "name": "Magicka2_x64", "type": "Game" }
 
 # Magicraft https://store.steampowered.com/app/2103140/Magicraft/
 { "name": "Magicraft.x86_64", "type": "Game" }
@@ -24,9 +30,6 @@
 
 # Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
 { "name": "ninja-bin32", "type": "Game" }
-
-# Marvel's Midnight Suns https://store.steampowered.com/app/368260/Marvels_Midnight_Suns/
-{ "name": "MidnightSuns.sh", "type": "Game" }
 
 # MASSIVE CHALICE https://store.steampowered.com/app/246110/MASSIVE_CHALICE/
 { "name": "MC", "type": "Game" }
@@ -56,8 +59,6 @@
 { "name": "Melvor Idle", "type": "Game" }
 
 # Men of War II https://store.steampowered.com/app/1128860/Men_of_War_II/
-{ "name": "mow2.sh", "type": "Game" }
-{ "name": "mow2_editor.sh", "type": "Game" }
 { "name": "mow2_editor", "type": "Game" }
 { "name": "mow2", "type": "Game" }
 { "name": "mow2_cli_local", "type": "Game" }
@@ -68,12 +69,11 @@
 # Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
 { "name": "MetroExodus", "type": "Game" }
 
+# Middle-earth: Shadow of Mordor https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
+{ "name": "ShadowOfMordor", "type": "Game" }
+
 # Military Conflict: Vietnam https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
 { "name": "mcv_linux64", "type": "Game" }
-
-# Middle-earth: Shadow of Mordor https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
-{ "name": "ShadowOfMordor.sh", "type": "Game" }
-{ "name": "ShadowOfMordor", "type": "Game" }
 
 # Mindustry https://store.steampowered.com/app/1127400/Mindustry/
 { "name": "Mindustry", "type": "Game" }
@@ -95,10 +95,6 @@
 { "name": "MomodoraRUtM.out", "type": "Game" }
 { "name": "MomodoraRUtM", "type": "Game" }
 
-# Moonlighter https://store.steampowered.com/app/606150/Moonlighter/
-{ "name": "Moonlighter.x86", "type": "Game" }
-{ "name": "Moonlighter.x86_64", "type": "Game" }
-
 # Monaco: What's Yours Is Mine https://store.steampowered.com/app/113020/Monaco_Whats_Yours_Is_Mine/
 { "name": "Monaco.bin.x86", "type": "Game" }
 
@@ -113,6 +109,13 @@
 { "name": "Monster Sanctuary.x86", "type": "Game" }
 { "name": "Monster Sanctuary.x86_64", "type": "Game" }
 
+# Moonlighter https://store.steampowered.com/app/606150/Moonlighter/
+{ "name": "Moonlighter.x86", "type": "Game" }
+{ "name": "Moonlighter.x86_64", "type": "Game" }
+
+# Mordheim: City of the Damned https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/
+{ "name": "mordheim.x86_64", "type": "Game" }
+
 # Mosaique Neko Waifus 4 https://store.steampowered.com/app/1504020/Mosaique_Neko_Waifus_4/
 { "name": "Mosaique Neko Waifus 4.x86_64", "type": "Game" }
 
@@ -125,8 +128,15 @@
 # Mount & Blade: Warband https://store.steampowered.com/app/48700/Mount__Blade_Warband/
 { "name": "mb_warband_linux", "type": "Game" }
 
+# Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
+{ "name": "love", "type": "Game" }
+
 # Muck https://store.steampowered.com/app/1625450/Muck/
 { "name": "Muck.x86_64", "type": "Game" }
 
 # Murder Miners https://store.steampowered.com/app/274900/Murder_Miners/
 { "name": "MurderMiners", "type": "Game" }
+
+# MXGP3 - The Official Motocross Videogame https://store.steampowered.com/app/561600/MXGP3__The_Official_Motocross_Videogame/
+{ "name": "mxgp3.x86_64", "type": "Game" }
+

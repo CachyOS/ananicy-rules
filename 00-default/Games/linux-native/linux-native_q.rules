@@ -5,6 +5,10 @@
 
 ### Q ###
 
+# Quake II RTX https://store.steampowered.com/app/1089130/Quake_II_RTX/
+{ "name": "q2rtxded", "type": "Game" }
+{ "name": "q2rtx", "type": "Game" }
+
 # quakespasm http://quakespasm.sourceforge.net/
 { "name": "quakespasm", "type": "Game" }
 { "name": "quakespasm-svn", "type": "Game" }
@@ -23,3 +27,4 @@
 # Quiplash 2 InterLASHional https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/
 { "name": "Quiplash2_Vulkan", "type": "Game" }
 { "name": "Quiplash2_OpenGL", "type": "Game" }
+

@@ -5,10 +5,6 @@
 
 ### N ###
 
-# N++ (NPLUSPLUS) https://store.steampowered.com/app/230270/N_NPLUSPLUS/
-{ "name": "N++.bin.x86", "type": "Game" }
-{ "name": "N++.bin.x86_64", "type": "Game" }
-
 # Narcissu 1st & 2nd https://store.steampowered.com/app/264380/Narcissu_1st__2nd/
 { "name": "narcissu", "type": "Game" }
 
@@ -44,6 +40,10 @@
 { "name": "Nihilumbra.x86", "type": "Game" }
 { "name": "Nihilumbra.x86_64", "type": "Game" }
 
+# N++ (NPLUSPLUS) https://store.steampowered.com/app/230270/N_NPLUSPLUS/
+{ "name": "N++.bin.x86", "type": "Game" }
+{ "name": "N++.bin.x86_64", "type": "Game" }
+
 # Nordhold https://store.steampowered.com/app/3028310/Nordhold/
 { "name": "NordHold.x86_64", "type": "Game" }
 
@@ -53,5 +53,9 @@
 # NSFW Solitaire & Puzzles https://store.steampowered.com/app/2274120/NSFW_Solitaire/
 { "name": "NSFWSolitaire.x86_64", "type": "Game" }
 
+# Nuclear Dawn https://store.steampowered.com/app/17710/Nuclear_Dawn/
+{ "name": "nd_linux", "type": "Game" }
+
 # Nunholy https://store.steampowered.com/app/2854740/Nunholy/
 { "name": "Nunholy.x86_64", "type": "Game" }
+

@@ -11,21 +11,14 @@
 # War for the Overworld https://store.steampowered.com/app/230190/War_for_the_Overworld/
 { "name": "WFTOGame.x86_64", "type": "Game" }
 
-# Wargame: European Escalation https://store.steampowered.com/app/58610/Wargame_European_Escalation/
-{ "name": "Wargame", "type": "Game" }
-
-# Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
-{ "name": "DawnOfWar2.sh", "type": "Game" }
-{ "name": "DawnOfWar2", "type": "Game" }
+# Wargame: Red Dragon https://store.steampowered.com/app/251060/Wargame_Red_Dragon/
+{ "name": "WarGame3", "type": "Game" }
 
 # Warhammer 40,000: Dawn of War III https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
 { "name": "DawnOfWar3", "type": "Game" }
 
 # Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
 { "name": "Gladius", "type": "BG_CPUIO" }
-
-# Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
-{ "name": "Game", "type": "Game" }
 
 # War Selection https://store.steampowered.com/app/1022450/War_Selection/
 { "name": "SteamLauncher", "type": "Game" }
@@ -41,11 +34,17 @@
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2", "type": "Game" }
 
+# Wasteland 3 https://store.steampowered.com/app/719040/Wasteland_3/
+{ "name": "Wasteland 3.x86_64", "type": "Game" }
+
 # Waveform https://store.steampowered.com/app/204180/Waveform/
 { "name": "Waveform", "type": "Game" }
 
 # Wedding Witch https://store.steampowered.com/app/2529820/Wedding_Witch/
 { "name": "Wedding Witch.x86_64", "type": "Game" }
+
+# We Happy Few https://store.steampowered.com/app/320240/We_Happy_Few/
+{ "name": "GlimpseGame", "type": "Game" }
 
 # West of Loathing https://store.steampowered.com/app/597220/West_of_Loathing/
 { "name": "West of Loathing.x86", "type": "Game" }
@@ -61,6 +60,9 @@
 
 # Wildermyth https://store.steampowered.com/app/763890/Wildermyth/
 { "name": "wildermyth", "type": "Game" }
+
+# Wireworks https://store.steampowered.com/app/4206270/Wireworks/
+{ "name": "Wireworks.x86_64", "type": "Game" }
 
 # Without Within https://store.steampowered.com/app/345650/Without_Within/
 { "name": "without_within", "type": "Game" }
@@ -88,3 +90,7 @@
 
 # Worms W.M.D https://store.steampowered.com/app/327030/Worms_WMD/
 { "name": "Worms W.M.Dx64", "type": "Game" }
+
+# WRATH: Aeon of Ruin https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
+{ "name": "wrath-steam", "type": "Game" }
+

@@ -5,30 +5,44 @@
 
 ### C ###
 
-# Cave Story+ https://store.steampowered.com/app/200900/Cave_Story/
-{ "name": "CaveStory+", "type": "Game" }
-
 # Capsized https://store.steampowered.com/app/95300/Capsized/
 { "name": "Capsized", "type": "Game" }
-
-# Cat Bait https://store.steampowered.com/app/2929730/Cat_Bait/
-{ "name": "CatBait.x86_64", "type": "Game" }
 
 # CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
 { "name": "CarX_Street.x86_64", "type": "Game" }
 { "name": "eac_launcher", "type": "Game" }
 
+# Castle Story https://store.steampowered.com/app/227860/Castle_Story/
+{ "name": "castlestory-launcher", "type": "BG_CPUIO" }
+{ "name": "Castle Story", "type": "Game" }
+
+# Cat Bait https://store.steampowered.com/app/2929730/Cat_Bait/
+{ "name": "CatBait.x86_64", "type": "Game" }
+
+# Caves of Qud https://store.steampowered.com/app/333640/Caves_of_Qud/
+{ "name": "CoQ.x86_64", "type": "Game" }
+{ "name": "CoQ.x86", "type": "Game" }
+
+# Cave Story+ https://store.steampowered.com/app/200900/Cave_Story/
+{ "name": "CaveStory+", "type": "Game" }
+
 # Celeste https://store.steampowered.com/app/504230/Celeste/
 { "name": "Celeste.bin.x86_64", "type": "Game" }
 
-# Chaos on Deponia https://store.steampowered.com/app/220740/Chaos_on_Deponia/
-{ "name": "Deponia2", "type": "Game" }
+# Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
+{ "name": "Chained_Echoes.x86_64", "type": "Game" }
 
 # Champions of Regnum https://store.steampowered.com/app/222520/Champions_of_Regnum/
 { "name": "rolauncher_steam", "type": "Game" }
 
-# Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
-{ "name": "Chained_Echoes.x86_64", "type": "Game" }
+# Chaos on Deponia https://store.steampowered.com/app/220740/Chaos_on_Deponia/
+{ "name": "Deponia2", "type": "Game" }
+
+# Chasing Tails -A Promise in the Snow- https://store.steampowered.com/app/1555110/Chasing_Tails_A_Promise_in_the_Snow/
+{ "name": "ChasingTails", "type": "Game" }
+
+# Chasm https://store.steampowered.com/app/312200/Chasm/
+{ "name": "Chasm", "type": "Game" }
 
 # Children of Morta https://store.steampowered.com/app/330020/Children_of_Morta/
 { "name": "ChildrenOfMorta", "type": "Game" }
@@ -39,36 +53,36 @@
 # Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/
 { "name": "CDWGame-Linux", "type": "Game" }
 
-# Chasm https://store.steampowered.com/app/312200/Chasm/
-{ "name": "Chasm", "type": "Game" }
-
 # Chocolate doom https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom/
 { "name": "chocolate-doom", "type": "Game" }
-
-# Chronicon https://store.steampowered.com/app/375480/Chronicon/
-{ "name": "Chronicon", "type": "Game" }
 
 # Chroma Squad https://store.steampowered.com/app/251130/Chroma_Squad/
 { "name": "chromasquad.x86", "type": "Game" }
 
+# Chronicon https://store.steampowered.com/app/375480/Chronicon/
+{ "name": "Chronicon", "type": "Game" }
+
 # CiniCross https://store.steampowered.com/app/3933120/CiniCross/
 { "name": "CiniCross.x86_64", "type": "Game"}
-
-# Cities in Motion 2 https://store.steampowered.com/app/225420/Cities_in_Motion_2/
-{ "name": "Cities in Motion 2", "type": "Game" }
-
-# Cities in Motion https://store.steampowered.com/app/73010/Cities_in_Motion/
-{ "name": "Cities In Motion.bin", "type": "Game" }
-
-# Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
-{ "name": "Cities.x64", "type": "Game" }
 
 # Circuits https://store.steampowered.com/app/282760/Circuits/
 { "name": "Circuits.x86", "type": "Game" }
 
+# Cities in Motion https://store.steampowered.com/app/73010/Cities_in_Motion/
+{ "name": "Cities In Motion.bin", "type": "Game" }
+
+# Cities in Motion 2 https://store.steampowered.com/app/225420/Cities_in_Motion_2/
+{ "name": "Cities in Motion 2", "type": "Game" }
+
+# Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
+{ "name": "Cities.x64", "type": "Game" }
+
 # ClassiCube https://steamdb.info/app/1065710/
 { "name": "ClassiCube", "type": "Game" }
 { "name": "classicube", "type": "Game" }
+
+# Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
+{ "name": "ClearedHot", "type": "Game" }
 
 # Clockwork Tales: Of Glass and Ink https://store.steampowered.com/app/284830/Clockwork_Tales_Of_Glass_and_Ink/
 { "name": "ClockworkTales_OfGlassAndInk_amd64", "type": "Game" }
@@ -77,11 +91,11 @@
 # Clustertruck https://store.steampowered.com/app/397950/Clustertruck/
 { "name": "Clustertruck.x86_64", "type": "Game" }
 
-# Codename Engine https://github.com/CodenameCrew/CodenameEngine/
-{ "name": "CodenameEngine", "type": "Game" }
-
 # Codename CURE http://store.steampowered.com/app/355180/Codename_CURE/
 { "name": "cure_linux", "type": "Game" }
+
+# Codename Engine https://github.com/CodenameCrew/CodenameEngine/
+{ "name": "CodenameEngine", "type": "Game" }
 
 # Coloring Pixels https://store.steampowered.com/app/897330/Coloring_Pixels/
 { "name": "ColoringPixels", "type": "Game" }
@@ -94,11 +108,13 @@
 
 # Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name" : "CompanyOfHeroes2","type": "Game"}
-{ "name" : "CompanyOfHeroes2.sh","type": "Game"}
 
 # Conquest of Elysium 5 https://store.steampowered.com/app/1606340/Conquest_of_Elysium_5/
-{ "name": "coe5.sh", "type": "Game" }
 { "name": "coe5", "type": "Game" }
+
+# Construction-Simulator 2015 https://store.steampowered.com/app/289950/Construction_Simulator_2015/
+{ "name": "ConSim2015.x86", "type": "Game" }
+{ "name": "ConSim2015.x86_64", "type": "Game" }
 
 # Contraption Maker https://store.steampowered.com/app/241240/Contraption_Maker/
 { "name": "ContraptionMaker", "type": "Game" }
@@ -109,6 +125,12 @@
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "CortexCommandHaxLoader", "type": "Game" }
 
+# Cossacks 3 https://store.steampowered.com/app/333420/Cossacks_3/
+{ "name": "cossacks", "type": "Game" }
+{ "name": "config", "type": "Game" }
+{ "name": "modman", "type": "Game" }
+{ "name": "editor", "type": "Game" }
+
 # Costume Quest https://store.steampowered.com/app/115100/Costume_Quest/
 { "name": "Cq.bin.x86", "type": "Game" }
 
@@ -116,17 +138,11 @@
 { "name": "csgo_linux64", "type": "Game" }
 { "name": "cs2", "type": "Game" }
 
-# Counter-Strike: Global Offensive https://store.steampowered.com/app/4465480/CounterStrikeGlobal_Offensive/
-{ "name": "cs2.sh", "type": "Game" }
-
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
-{ "name": "cstrike.sh", "type": "Game" }
+{ "name": "cstrike_linux64", "type": "Game" }
 
 # Crab Game https://store.steampowered.com/app/1782210/Crab_Game/
 { "name": "Crab Game.x86_64", "type": "Game" }
-
-# CrossCode https://store.steampowered.com/app/368340/CrossCode/
-{ "name": "CrossCode", "type": "Game" }
 
 # Crashlands https://store.steampowered.com/app/391730/Crashlands/
 { "name": "Crashlands", "type": "Game" }
@@ -142,6 +158,13 @@
 # Crimsonland https://store.steampowered.com/app/262830/Crimsonland/
 { "name": "crimsonland", "type": "Game" }
 
+# Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
+{ "name": "Cronos", "type": "Game" }
+{ "name": "Cronos-Linux-Shipping", "type": "Game" }
+
+# CrossCode https://store.steampowered.com/app/368340/CrossCode/
+{ "name": "CrossCode", "type": "Game" }
+
 # Crusader Kings II https://store.steampowered.com/app/203770/Crusader_Kings_II/
 { "name": "ck2", "type": "Game" }
 
@@ -156,3 +179,4 @@
 
 # Cube Racer https://store.steampowered.com/app/705210/Cube_Racer/
 { "name": "CubeRacer.x86", "type": "Game" }
+
