@@ -1,9 +1,14 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### H ###
+
 
 # Hachishaku https://store.steampowered.com/app/3572580/Hachishaku/
 { "name": "Hachishaku.exe", "type": "Game" }
@@ -266,9 +271,6 @@
 # Heroine's Quest: The Herald of Ragnarok https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
 { "name": "Heroine's Quest.exe", "type": "Game" }
 
-# Hero Zero https://store.steampowered.com/app/482920/Hero_Zero__Multiplayer_RPG/
-{ "name": "Hero Zero.exe", "type": "Game" }
-
 # Hero of the Kingdom https://store.steampowered.com/app/259550/Hero_of_the_Kingdom/
 { "name": "Hero of the Kingdom 32bit.exe", "type": "Game" }
 { "name": "Hero of the Kingdom.exe", "type": "Game" }
@@ -287,6 +289,9 @@
 
 # Hero's Land https://store.steampowered.com/app/2349820/Heros_Land/
 { "name": "HerosLand.exe", "type": "Game" }
+
+# Hero Zero https://store.steampowered.com/app/482920/Hero_Zero__Multiplayer_RPG/
+{ "name": "Hero Zero.exe", "type": "Game" }
 
 # hexceed https://store.steampowered.com/app/1463920/hexceed/
 { "name": "hexceed.exe", "type": "Game" }
@@ -565,4 +570,7 @@
 
 # Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
 { "name": "HypnOS.exe", "type": "Game" }
+
+# If not from any store add name you think it needs.
+
 

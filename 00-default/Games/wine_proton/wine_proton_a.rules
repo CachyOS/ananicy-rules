@@ -1,9 +1,5 @@
-# Add games in alphabetical order.
-# Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
-
 ### A ###
+
 
 # AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome https://store.steampowered.com/app/15560/AaaaaAAaaaAAAaaAAAAaAAAAA_for_the_Awesome/
 { "name": "Awesome.exe", "type": "Game" }
@@ -65,6 +61,12 @@
 
 # A Date with Death https://store.steampowered.com/app/2415010/A_Date_with_Death/
 { "name": "ADatewithDeath.exe", "type": "Game" }
+
+# Add games in alphabetical order.
+
+
+# Add name of game next to the url.
+
 
 # Ad Infinitum https://store.steampowered.com/app/1234430/Ad_Infinitum/
 { "name": "AdInfinitum.exe", "type": "Game" }
@@ -160,6 +162,9 @@
 # Age of Mythology: Retold https://store.steampowered.com/app/1934680/Age_of_Mythology_Retold/
 { "name": "AoMRT_s.exe", "type": "Game" }
 
+# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
+{ "name": "AoW.exe", "type": "Game" }
+
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
 { "name": "Paradox Launcher.exe", "type": "Game" }
 { "name": "ResourceED.exe", "type": "Game" }
@@ -171,9 +176,6 @@
 # Age of Wonders III https://store.steampowered.com/app/226840/Age_of_Wonders_III/
 { "name": "AoW3Launcher.exe", "type": "BG_CPUIO" }
 { "name": "AoW3.exe", "type": "Game" }
-
-# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
-{ "name": "AoW.exe", "type": "Game" }
 
 # Ages of Conflict: World War Simulator https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/
 { "name": "Ages of Conflict.exe", "type": "Game" }
@@ -599,6 +601,9 @@
 # Arx Fatalis https://store.steampowered.com/app/1700/Arx_Fatalis/
 { "name": "arx.exe", "type": "Game" }
 
+# Ascension https://store.steampowered.com/app/2328480/Ascension/
+{ "name": "Acension.exe", "type": "Game" }
+
 # Ashes of creation https://store.steampowered.com/app/4124950/Ashes_of_Creation/
 { "name": "AOCClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntrepidStudiosLauncher.exe", "type": "BG_CPUIO" }
@@ -616,9 +621,6 @@
 
 # A Space for the Unbound https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/
 { "name": "A Space for the Unbound.exe", "type": "Game" }
-
-# Ascension https://store.steampowered.com/app/2328480/Ascension/
-{ "name": "Acension.exe", "type": "Game" }
 
 # Assassin's Creed 2 https://store.steampowered.com/app/33230/Assassins_Creed_2/
 { "name": "AssassinsCreedIIGame.exe", "type": "Game" }
@@ -881,4 +883,10 @@
 # Azur Lane Crosswave https://store.steampowered.com/app/1150080/Azur_Lane_Crosswave/
 { "name": "Azurlane.exe", "type": "Game" }
 { "name": "Azurlane-Win64-Shipping.exe", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

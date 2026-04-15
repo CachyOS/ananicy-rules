@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### K ###
+
 
 # Kabuto Park https://store.steampowered.com/app/3376990/Kabuto_Park/
 { "name": "KabutoPark.exe", "type": "Game" }
@@ -155,6 +163,9 @@
 # KINGDOM HEARTS III + Re Mind (DLC) https://store.steampowered.com/app/2552450/KINGDOM_HEARTS_III__Re_Mind_DLC/
 { "name": "KINGDOM HEARTS III.exe", "type": "Game" }
 
+# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
+{ "name": "Kingdom.exe", "type": "Game" }
+
 # Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
 { "name": "Kingdom Rush Alliance.exe", "type": "Game" }
 
@@ -169,9 +180,6 @@
 
 # Kingdom Rush Vengeance - Tower Defense https://store.steampowered.com/app/1367550/Kingdom_Rush_Vengeance__Tower_Defense/
 { "name": "Kingdom Rush Vengeance.exe", "type": "Game" }
-
-# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
-{ "name": "Kingdom.exe", "type": "Game" }
 
 # Kingdoms and Castles https://store.steampowered.com/app/569480/Kingdoms_and_Castles/
 { "name": "KingdomsAndCastles.exe", "type": "Game" }

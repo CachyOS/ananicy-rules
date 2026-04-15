@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### S ###
+
 
 # Sable https://store.steampowered.com/app/757310/Sable/
 { "name": "Seble.exe", "type": "Game" }
@@ -427,14 +435,14 @@
 # ShellShock Live https://store.steampowered.com/app/326460/ShellShock_Live/
 { "name": "ShellShockLive.exe", "type": "Game" }
 
-# Sheltered https://store.steampowered.com/app/356040/Sheltered/
-{ "name": "Sheltered.exe", "type": "Game" }
-
 # Shelter https://store.steampowered.com/app/244710/Shelter/
 { "name": "Shelter.exe", "type": "Game" }
 
 # Shelter 2 https://store.steampowered.com/app/275100/Shelter_2/
 { "name": "Shelter2.exe", "type": "Game" }
+
+# Sheltered https://store.steampowered.com/app/356040/Sheltered/
+{ "name": "Sheltered.exe", "type": "Game" }
 
 # Sheltered 2 https://store.steampowered.com/app/1289380/Sheltered_2/
 { "name": "Sheltered2.exe", "type": "Game" }

@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### B ###
+
 
 # Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
 { "name": "Baba Is You.exe", "type": "Game" }
@@ -802,4 +804,10 @@
 
 # Bye Sweet Carole https://store.steampowered.com/app/2428980/Bye_Sweet_Carole/
 { "name": "Bye Sweet Carole.exe", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

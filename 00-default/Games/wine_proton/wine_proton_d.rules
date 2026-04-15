@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### D ###
+
 
 # Daikatana https://store.steampowered.com/app/242980/Daikatana/
 { "name": "daikatana.exe", "type": "Game" }
@@ -125,6 +127,9 @@
 { "name": "DaylightLauncher.exe", "type": "Game" }
 { "name": "Daylight.exe", "type": "Game" }
 
+# Daymare: 1998 https://store.steampowered.com/app/842100/Daymare_1998/
+{ "name": "Daymare_MASTER.exe", "type": "Game" }
+
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 { "name": "dod.exe", "type": "Game" }
 { "name": "dod_win64.exe", "type": "Game" }
@@ -132,9 +137,6 @@
 # Day of Dragons https://store.steampowered.com/app/1088090/Day_of_Dragons/
 { "name": "Dragons.exe", "type": "Game" }
 { "name": "Dragons-Win64-Shipping.exe", "type": "Game" }
-
-# Daymare: 1998 https://store.steampowered.com/app/842100/Daymare_1998/
-{ "name": "Daymare_MASTER.exe", "type": "Game" }
 
 # Days Gone https://store.steampowered.com/app/1259420/Days_Gone/
 { "name": "DaysGone.exe", "type": "Game" }
@@ -1020,4 +1022,10 @@
 
 # Dystopika https://store.steampowered.com/app/2379910/Dystopika/
 { "name": "Dystopika.exe", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

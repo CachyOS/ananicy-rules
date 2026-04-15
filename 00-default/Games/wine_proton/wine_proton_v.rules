@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### V ###
+
 
 # VA-11 Hall-A: Cyberpunk Bartender Action https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
 { "name": "VA-11 Hall A.exe", "type": "Game" }
@@ -24,11 +32,11 @@
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "Valheim.exe", "type": "Game" }
 
-# Valkyria Chronicles https://store.steampowered.com/app/294860/Valkyria_Chronicles/
-{ "name": "Valkyria.exe", "type": "Game" }
-
 # Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/
 { "name": "Valiant Hearts.exe", "type": "Game" }
+
+# Valkyria Chronicles https://store.steampowered.com/app/294860/Valkyria_Chronicles/
+{ "name": "Valkyria.exe", "type": "Game" }
 
 # Vampires: Bloodlord Rising https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
 { "name": "VBR.exe", "type": "Game" }
@@ -36,6 +44,10 @@
 
 # Vampire Survivors https://store.steampowered.com/app/1794680/Vampire_Survivors/
 { "name": "VampireSurvivors.exe", "type": "Game" }
+
+# Vampire: The Masquerade - Bloodhunt https://store.steampowered.com/app/760160/Vampire_The_Masquerade__Bloodhunt/
+{ "name": "Tiger.exe", "type": "Game" }
+{ "name": "Tiger-Win64-Shipping.exe", "type": "Game" }
 
 # Vampire: The Masquerade - Bloodlines https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
 { "name": "vampire.exe", "type": "Game" }
@@ -46,10 +58,6 @@
 
 # Vampire: The Masquerade Bloodlines : Unofficial Patch https://www.moddb.com/mods/vtmb-unofficial-patch
 { "name": "Vampire.exe", "type": "Game" }
-
-# Vampire: The Masquerade - Bloodhunt https://store.steampowered.com/app/760160/Vampire_The_Masquerade__Bloodhunt/
-{ "name": "Tiger.exe", "type": "Game" }
-{ "name": "Tiger-Win64-Shipping.exe", "type": "Game" }
 
 # Vampire: The Masquerade – Swansong https://store.steampowered.com/app/1299510/Vampire_The_Masquerade__Swansong/
 { "name": "Swansong.exe", "type": "Game" }
@@ -110,14 +118,14 @@
 # Viractal: Will You Trust Your Party? https://store.steampowered.com/app/2909580/Viractal_Will_You_Trust_Your_Party/
 { "name": "VIractal.exe", "type": "Game" }
 
+# Viridi https://store.steampowered.com/app/375950/Viridi/
+{ "name": "Viridi.exe", "type": "Game" }
+
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_WINDOWS.exe", "type": "Game" }
 
 # Virtual Fighter Maneuvers https://store.steampowered.com/app/3952640/Virtual_Fighter_Maneuvers/
 { "name": "VFM.exe", "type": "Game" }
-
-# Viridi https://store.steampowered.com/app/375950/Viridi/
-{ "name": "Viridi.exe", "type": "Game" }
 
 # Viscera Cleanup Detail https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/
 { "name": "UDKLift.exe", "type": "Game" }
