@@ -345,6 +345,12 @@
 # Windosill https://store.steampowered.com/app/37600/Windosill/
 { "name": "Windosill.exe", "type": "Game" }
 
+# Windrose https://store.steampowered.com/app/3041230/Windrose/
+{ "name": "Windrose-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Windrose.exe", "type": "Game" }
+{ "name": "WindroseServer-Win64-Shipping.exe", "type": "BG_CPUIO" }
+{ "name": "WindroseServer.exe", "type": "BG_CPUIO" }
+
 # Wingspan https://store.steampowered.com/app/1054490/Wingspan/
 { "name": "Wingspan.exe", "type": "Game" }
 
