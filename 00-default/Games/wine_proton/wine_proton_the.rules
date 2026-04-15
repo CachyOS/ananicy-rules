@@ -502,6 +502,9 @@
 { "name": "The_Occultist.exe", "type": "Game" }
 { "name": "The_Occultist-Win64-Shipping.exe", "type": "Game" }
 
+# the other older ghost recon games use the same exe name https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
+{ "name": "GhostRecon.exe", "type": "Game" }
+
 # The Outer Worlds https://store.steampowered.com/app/578650/The_Outer_Worlds/
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheOuterWorlds.exe", "type": "Game" }
@@ -707,4 +710,3 @@
 
 # The Yawhg https://store.steampowered.com/app/269030/The_Yawhg/
 { "name": "the yawhg.exe", "type": "Game" }
-
