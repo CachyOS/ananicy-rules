@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### M ###
-
 
 # Mad Max https://store.steampowered.com/app/234140/Mad_Max/
 { "name": "MadMax", "type": "Game" }
@@ -147,4 +139,3 @@
 
 # MXGP3 - The Official Motocross Videogame https://store.steampowered.com/app/561600/MXGP3__The_Official_Motocross_Videogame/
 { "name": "mxgp3.x86_64", "type": "Game" }
-

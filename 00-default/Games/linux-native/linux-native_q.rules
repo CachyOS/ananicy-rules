@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### Q ###
-
 
 # Quake II RTX https://store.steampowered.com/app/1089130/Quake_II_RTX/
 { "name": "q2rtxded", "type": "Game" }
@@ -35,4 +27,3 @@
 # Quiplash 2 InterLASHional https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/
 { "name": "Quiplash2_Vulkan", "type": "Game" }
 { "name": "Quiplash2_OpenGL", "type": "Game" }
-

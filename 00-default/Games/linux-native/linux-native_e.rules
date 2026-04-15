@@ -1,11 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### E ###
-
 
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 { "name": "RunEditor", "type": "Game" }
@@ -93,10 +91,3 @@
 # Expeditions: Conquistador https://store.steampowered.com/app/237430/Expeditions_Conquistador/
 { "name": "ExpeditionsConquistador.x86", "type": "Game" }
 { "name": "ExpeditionsConquistador.x86_64", "type": "Game" }
-
-# Get name of game from steam.
-
-
-# If not from any store add name you think it needs.
-
-
