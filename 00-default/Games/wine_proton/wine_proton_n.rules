@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### N ###
-
 
 # nail'd https://store.steampowered.com/app/40380/naild/
 { "name": "Naild_x86.exe", "type": "Game" }
@@ -426,4 +418,3 @@
 
 # Nunholy https://store.steampowered.com/app/2854740/Nunholy/
 { "name": "Nunholy.exe", "type": "Game" }
-

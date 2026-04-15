@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### S ###
-
 
 # Sable https://store.steampowered.com/app/757310/Sable/
 { "name": "Seble.exe", "type": "Game" }
@@ -1782,4 +1774,3 @@
 
 # System Shock 2 https://store.steampowered.com/app/238210/System_Shock_2_1999/
 { "name": "SS2.exe", "type": "Game" }
-

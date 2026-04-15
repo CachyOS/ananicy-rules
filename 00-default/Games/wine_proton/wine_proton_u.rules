@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### U ###
-
 
 # UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
 { "name": "UBERMOSH.exe", "type": "Game" }
@@ -184,4 +176,3 @@
 # Uriel's Chasm https://store.steampowered.com/app/292630/Uriels_Chasm/
 { "name": "dxwebsetup.exe", "type": "Game" }
 { "name": "urielschasm.exe", "type": "Game" }
-
