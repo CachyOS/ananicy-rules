@@ -1,9 +1,14 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### H ###
+
 
 # Hacker Evolution https://store.steampowered.com/app/70100/Hacker_Evolution/
 { "name": "HackerEvolution", "type": "Game" }
@@ -35,6 +40,10 @@
 # Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
 { "name": "Hand of Fate.x86", "type": "Game" }
 { "name": "Hand of Fate.x86_64", "type": "Game" }
+
+# Hand of Fate 2 https://store.steampowered.com/app/456670/
+{ "name": "Hand of Fate 2.x86", "type": "Game" }
+{ "name": "Hand of Fate 2.x86_64", "type": "Game" }
 
 # Hard West https://store.steampowered.com/app/307670/Hard_West/
 { "name": "HardWest.x86", "type": "Game" }
@@ -159,6 +168,12 @@
 # Hyper Light Drifter https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
 { "name": "HyperLightDrifter", "type": "Game" }
 
+# Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
+{ "name": "HypnOS", "type": "Game" }
+
 # Hytale https://hytale.com/
 { "name": "HytaleClient", "type": "Game" }
+
+# If not from any store add name you think it needs.
+
 

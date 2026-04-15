@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### W ###
+
 
 # Waifusitter 🔞 - Furry Collection https://store.steampowered.com/app/3427660/Waifusitter___Furry_Collection/
 { "name": "Waifusitter.exe", "type": "Game" }
@@ -90,6 +98,9 @@
 
 # Warhammer 40,000: Inquisitor - Prophecy https://store.steampowered.com/app/1042800/Warhammer_40000_Inquisitor__Prophecy/
 { "name": "WarHammer_Inquisitor_Prophecy.exe", "type": "Game" }
+
+# Warhammer 40,000: Mechanicus https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
+{ "name": "Mechanicus.exe", "type": "Game" }
 
 # Warhammer 40,000: Rogue Trader https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
 { "name": "WH40KRT.exe", "type": "Game" }

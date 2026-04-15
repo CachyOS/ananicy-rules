@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### P ###
+
 
 # Packing Life https://store.steampowered.com/app/3482510/Packing_Life/
 { "name": "Packing Life.x86_64", "type": "Game" }
@@ -82,6 +90,9 @@
 
 # Pixel Piracy https://store.steampowered.com/app/264140/Pixel_Piracy/
 { "name": "PixelPiracy.x86_64", "type": "Game" }
+
+# Pixel Starships https://store.steampowered.com/app/378760/Pixel_Starships/
+{ "name": "PixelStarships.x86_64", "type": "Game" }
 
 # Pix the Cat https://store.steampowered.com/app/330180/Pix_the_Cat/
 { "name": "PixtheCat", "type": "Game" }

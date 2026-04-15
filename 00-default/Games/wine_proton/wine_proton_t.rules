@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### T ###
+
 
 # Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.exe", "type": "Game" }
@@ -552,6 +560,10 @@
 # Total Annihilation https://store.steampowered.com/app/298030/Total_Annihilation/
 { "name": "TAE.EXE", "type": "Game" }
 { "name": "TotalA.exe", "type": "Game" }
+
+# Total Conflict: Resistance https://store.steampowered.com/app/1860510/Total_Conflict_Resistance/
+{ "name": "TotalConflictResistance.exe", "type": "Game" }
+{ "name": "TotalConflictResistance-Win64-Shipping.exe", "type": "Game" }
 
 # Totally Accurate Battlegrounds https://store.steampowered.com/app/823130/Totally_Accurate_Battlegrounds/
 { "name": "TotallyAccurateBattlegrounds.exe", "type": "Game" }

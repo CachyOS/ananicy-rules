@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### E ###
+
 
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 { "name": "Earth2160Editor_START.exe", "type": "Game" }
@@ -115,6 +117,9 @@
 # ELDEN RING NIGHTREIGN https://store.steampowered.com/app/2622380/ELDEN_RING_NIGHTREIGN/
 { "name": "nightreign.exe", "type": "Game" }
 
+# Eldest Souls https://store.steampowered.com/app/1108590/Eldest_Souls/
+{ "name": "Eldest Souls.exe", "type": "Game" }
+
 # Eldritch https://store.steampowered.com/app/252630/Eldritch/
 { "name": "Eldritch.exe", "type": "Game" }
 { "name": "Eldritch_x86.exe", "type": "Game" }
@@ -154,6 +159,10 @@
 
 # EMERGENCY 4 Deluxe https://store.steampowered.com/app/757210/EMERGENCY_4_Deluxe/
 { "name": "Em4.exe", "type": "Game" }
+
+# Empire of Sin https://store.steampowered.com/app/604540/Empire_of_Sin/
+{ "name": "EmpireOfSin.exe", "type": "Game" }
+{ "name": "dowser.exe", "type": "Game" }
 
 # Empires Mod https://store.steampowered.com/app/17740/Empires_Mod/
 { "name": "empires_win64.exe", "type": "Game" }
@@ -373,4 +382,10 @@
 
 # EZ2ON REBOOT : R https://store.steampowered.com/app/1477590/EZ2ON_REBOOT__R/
 { "name": "EZ2ON.exe", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

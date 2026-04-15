@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### S ###
+
 
 # Sable https://store.steampowered.com/app/757310/Sable/
 { "name": "Seble.exe", "type": "Game" }
@@ -271,6 +279,9 @@
 # Senren＊Banka https://store.steampowered.com/app/1144400/SenrenBanka/
 { "name": "SenrenBanka.exe", "type": "Game" }
 
+# Sentinels of the Multiverse https://store.steampowered.com/app/337150/Sentinels_of_the_Multiverse/
+{ "name": "Sentinels.exe", "type": "Game" }
+
 # Senua’s Saga: Hellblade II https://store.steampowered.com/app/2461850/Senuas_Saga_Hellblade_II/
 { "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Hellblade2.exe", "type": "Game" }
@@ -430,6 +441,9 @@
 # Shelter 2 https://store.steampowered.com/app/275100/Shelter_2/
 { "name": "Shelter2.exe", "type": "Game" }
 
+# Sheltered https://store.steampowered.com/app/356040/Sheltered/
+{ "name": "Sheltered.exe", "type": "Game" }
+
 # Sheltered 2 https://store.steampowered.com/app/1289380/Sheltered_2/
 { "name": "Sheltered2.exe", "type": "Game" }
 
@@ -440,6 +454,9 @@
 # Shenmue III (2020) https://store.steampowered.com/app/878670/Shenmue_III/
 { "name": "Shenmue3-Win64-Shipping.exe", "type": "Game" }
 { "name": "Shenmue3.exe", "type": "Game" }
+
+# SHENZHEN I/O https://store.steampowered.com/app/504210/SHENZHEN_IO/
+{ "name": "Shenzhen.exe", "type": "Game" }
 
 # Sherlock Holmes Chapter One https://store.steampowered.com/app/1137300/Sherlock_Holmes_Chapter_One/
 { "name": "SH9.exe", "type": "Game" }

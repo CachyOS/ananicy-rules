@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### V ###
+
 
 # Vagrus - The Riven Realms https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/
 { "name": "Vagrus.x86_64", "type": "Game" }
@@ -31,6 +39,10 @@
 # Vintage Story https://www.vintagestory.at/
 { "name": "Vintagestory", "type": "Game" }
 { "name": "VintagestoryServer", "type": "Service" }
+
+# Viridi https://store.steampowered.com/app/375950/Viridi/
+{ "name": "Viridi.x86_64", "type": "Game" }
+{ "name": "Viridi.x86", "type": "Game" }
 
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_LINUX.x86_64", "type": "Game" }

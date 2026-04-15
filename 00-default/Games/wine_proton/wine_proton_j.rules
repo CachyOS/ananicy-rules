@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### J ###
+
 
 # Jabroni Brawl: Episode 3 https://store.steampowered.com/app/869480/Jabroni_Brawl_Episode_3/
 { "name": "dmxconvert.exe", "type": "Game" }
@@ -125,4 +133,7 @@
 
 # Just Cause 4 Reloaded https://store.steampowered.com/app/517630/Just_Cause_4_Reloaded/
 { "name": "JustCause4.exe", "type": "Game" }
+
+# Just Shapes & Beats https://store.steampowered.com/app/531510/Just_Shapes__Beats/
+{ "name": "JSB.exe", "type": "Game" }
 

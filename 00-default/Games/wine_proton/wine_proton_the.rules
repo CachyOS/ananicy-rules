@@ -1,10 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### The ###
-# There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
 
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39steps.exe", "type": "Game" }
@@ -19,6 +26,10 @@
 
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman.exe", "type": "Game" }
+
+# The Ascent https://store.steampowered.com/app/979690/The_Ascent/
+{ "name": "TheAscent.exe", "type": "Game" }
+{ "name": "TheAscent-Win64-Shipping.exe", "type": "Game" }
 
 # The Ball https://store.steampowered.com/app/35460/The_Ball/
 { "name": "TheBall.exe", "type": "Game" }
@@ -444,6 +455,9 @@
 # The Long Drive https://store.steampowered.com/app/1017180/The_Long_Drive/
 { "name": "TheLongDrive.exe", "type": "Game" }
 
+# THE LONGING https://store.steampowered.com/app/893850/THE_LONGING/
+{ "name": "The Longing.exe", "type": "Game" }
+
 # The Lord of the Rings: Adventure Card Game - Definitive Edition https://store.steampowered.com/app/509580/The_Lord_of_the_Rings_Adventure_Card_Game__Definitive_Edition/
 { "name": "Lord of the Rings - LCG.exe", "type": "Game" }
 
@@ -538,6 +552,9 @@
 # The Ranch of Rivershine https://store.steampowered.com/app/1559600/The_Ranch_of_Rivershine/
 { "name": "TheRanchOfRivershine.exe", "type": "Game" }
 { "name": "TheRanchOfRivershine-Win64-Shipping.exe", "type": "Game" }
+
+# There are a lot of titles with "The" prefix. I want to separate these titles from the game titles actually start with "T"
+
 
 # The Room https://store.steampowered.com/app/288160/The_Room/
 { "name": "TheRoom.exe", "type": "Game" }

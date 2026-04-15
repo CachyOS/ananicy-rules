@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### G ###
+
 
 # Gabriel Knight: Sins of the Fathers 20th Anniversary Edition https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/
 { "name": "GK1.exe", "type": "Game" }
@@ -134,6 +136,9 @@
 # GET EVEN https://store.steampowered.com/app/299950/GET_EVEN/
 { "name": "GetEven.exe", "type": "Game" }
 
+# Get name of game from steam.
+
+
 # Get Off My Lawn! https://store.steampowered.com/app/260410/Get_Off_My_Lawn/
 { "name": "goml.exe", "type": "Game" }
 { "name": "GOML.exe", "type": "Game" }
@@ -207,6 +212,9 @@
 
 # Gnomoria https://store.steampowered.com/app/224500/Gnomoria/
 { "name": "gnomoria.exe", "type": "Game" }
+
+# GNOSIA https://store.steampowered.com/app/1608290/GNOSIA/
+{ "name": "Gnosia.exe", "type": "Game" }
 
 # Goat Simulator https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame-Win32-Shipping.exe", "type": "Game" }
@@ -423,8 +431,15 @@
 { "name": "GRIDAutosport.exe", "type": "Game" }
 { "name": "GRIDAutosport_avx.exe", "type": "Game" }
 
+# Griftlands https://store.steampowered.com/app/601840/Griftlands/
+{ "name": "Griftlands.exe", "type": "Game" }
+
 # Grim Dawn https://store.steampowered.com/app/219990/Grim_Dawn/
 { "name": "Grim Dawn.exe", "type": "Game" }
+
+# GRIME https://store.steampowered.com/app/1403940/Grim/
+{ "name": "Grim.exe", "type": "Game" }
+{ "name": "Grim-Win64-Shipping.exe", "type": "Game" }
 
 # GRIME II https://store.steampowered.com/app/2529790/GRIME_II/
 { "name": "GRIME II.exe", "type": "Game" }
@@ -560,4 +575,7 @@
 
 # Gym Simulator 24 https://store.steampowered.com/app/2559270/Gym_Simulator_24/
 { "name": "GymSimulator24.exe", "type": "Game" }
+
+# If not from any store add name you think it needs.
+
 

@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### K ###
+
 
 # Kabuto Park https://store.steampowered.com/app/3376990/Kabuto_Park/
 { "name": "KabutoPark.exe", "type": "Game" }
@@ -120,6 +128,9 @@
 # Killing Floor 2 https://store.steampowered.com/app/232090/Killing_Floor_2/
 { "name": "KFGame.exe", "type": "Game" }
 
+# Killing Room https://store.steampowered.com/app/407560/Killing_Room/
+{ "name": "KillingRoom.exe", "type": "Game" }
+
 # Kill The Crows https://store.steampowered.com/app/2441270/Kill_The_Crows/
 { "name": "revolver.exe", "type": "Game" }
 
@@ -151,6 +162,9 @@
 
 # KINGDOM HEARTS III + Re Mind (DLC) https://store.steampowered.com/app/2552450/KINGDOM_HEARTS_III__Re_Mind_DLC/
 { "name": "KINGDOM HEARTS III.exe", "type": "Game" }
+
+# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
+{ "name": "Kingdom.exe", "type": "Game" }
 
 # Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
 { "name": "Kingdom Rush Alliance.exe", "type": "Game" }

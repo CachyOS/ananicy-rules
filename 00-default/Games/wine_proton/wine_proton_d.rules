@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### D ###
+
 
 # Daikatana https://store.steampowered.com/app/242980/Daikatana/
 { "name": "daikatana.exe", "type": "Game" }
@@ -39,6 +41,9 @@
 # Dark and Darker https://store.steampowered.com/app/2016590/Dark_and_Darker/
 { "name": "Tavern.exe", "type": "Game" }
 { "name": "DungeonCrawler.exe", "type": "Game" }
+
+# Dark and Light https://store.steampowered.com/app/529180/Dark_and_Light/
+{ "name": "DNL.exe", "type": "Game" }
 
 # Dark Deception https://store.steampowered.com/app/332950/Dark_Deception/
 { "name": "DDeception.exe", "type": "Game" }
@@ -121,6 +126,9 @@
 # Daylight https://store.steampowered.com/app/230840/Daylight/
 { "name": "DaylightLauncher.exe", "type": "Game" }
 { "name": "Daylight.exe", "type": "Game" }
+
+# Daymare: 1998 https://store.steampowered.com/app/842100/Daymare_1998/
+{ "name": "Daymare_MASTER.exe", "type": "Game" }
 
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 { "name": "dod.exe", "type": "Game" }
@@ -333,6 +341,9 @@
 
 # Democracy 3 https://store.steampowered.com/app/245470/Democracy_3/
 { "name": "Democracy3.exe", "type": "Game" }
+
+# Democracy 4 https://store.steampowered.com/app/1410710/Democracy_4/
+{ "name": "Democracy4.exe", "type": "Game" }
 
 # DemonCrawl https://store.steampowered.com/app/1141220/DemonCrawl/
 { "name": "demoncrawl.exe", "type": "Game" }
@@ -889,6 +900,9 @@
 { "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
 { "name": "DuneSandbox_BE.exe", "type": "Game" }
 
+# Dune: Imperium https://store.steampowered.com/app/1689500/Dune_Imperium/
+{ "name": "DuneImperium.exe", "type": "Game" }
+
 # Dungeon Alchemist https://store.steampowered.com/app/1588530/Dungeon_Alchemist/
 { "name": "Dungeon Alchemist.exe", "type": "Game" }
 
@@ -916,6 +930,10 @@
 
 # Dungeons 3 https://store.steampowered.com/app/493900/Dungeons_3/
 { "name": "Dungeons3.exe", "type": "Game" }
+
+# Dungeons 4 https://store.steampowered.com/app/1643310/Dungeons_4/
+{ "name": "d4.exe", "type": "Game" }
+{ "name": "Dungeons 4.exe", "type": "Game" }
 
 # Dungeons & Degenerate Gamblers https://store.steampowered.com/app/2400510/Dungeons__Degenerate_Gamblers/
 { "name": "DnDG_64.exe", "type": "Game" }
@@ -1004,4 +1022,10 @@
 
 # Dystopika https://store.steampowered.com/app/2379910/Dystopika/
 { "name": "Dystopika.exe", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

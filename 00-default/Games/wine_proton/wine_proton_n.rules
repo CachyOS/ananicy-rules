@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### N ###
+
 
 # nail'd https://store.steampowered.com/app/40380/naild/
 { "name": "Naild_x86.exe", "type": "Game" }
@@ -375,6 +383,9 @@
 
 # No Time to Relax https://store.steampowered.com/app/829660/No_Time_to_Relax/
 { "name": "No Time to Relax.exe", "type": "Game" }
+
+# Notruf 112 | Emergency Call 112 https://store.steampowered.com/app/491530/Notruf_112__Emergency_Call_112/
+{ "name": "notruf112.exe", "type": "Game" }
 
 # No Vacation for an Executioner https://store.steampowered.com/app/2949120/No_Vacation_for_an_Executioner/
 { "name": "NoVacationForAnExecutioner.exe", "type": "Game" }

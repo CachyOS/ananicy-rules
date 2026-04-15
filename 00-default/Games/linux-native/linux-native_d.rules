@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### D ###
+
 
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 { "name": "Danganronpa2", "type": "Game" }
@@ -246,4 +248,10 @@
 
 # Dystopia https://store.steampowered.com/app/17580/Dystopia/
 { "name": "dystopia", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

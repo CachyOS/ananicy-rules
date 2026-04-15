@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### C ###
+
 
 # CABAL Online https://store.steampowered.com/app/253490/CABAL_Online/
 { "name": "cabal.exe", "type": "Game" }
@@ -272,6 +274,9 @@
 # Cat Goes Fishing https://store.steampowered.com/app/343780/Cat_Goes_Fishing/
 { "name": "Cat Goes Fishing.exe", "type": "Game" }
 
+# Catherine Classic https://store.steampowered.com/app/893180/Catherine_Classic/
+{ "name": "Catherine.exe", "type": "Game" }
+
 # Cat Quest II https://store.steampowered.com/app/914710/Cat_Quest_II/
 { "name": "Cat Quest II.exe", "type": "Game" }
 
@@ -321,6 +326,9 @@
 
 # Chasm https://store.steampowered.com/app/312200/Chasm/
 { "name": "Chasm.exe", "type": "Game" }
+
+# Chef Life: A Restaurant Simulator https://store.steampowered.com/app/1122340/Chef_Life_A_Restaurant_Simulator/
+{ "name": "Chef Life  A Restaurant Simulator.exe", "type": "Game"}
 
 # Chef RPG https://store.steampowered.com/app/1796790/Chef_RPG/
 { "name": "Chef RPG.exe", "type": "Game"}
@@ -674,6 +682,9 @@
 # Cook, Serve, Delicious! https://store.steampowered.com/app/247020/Cook_Serve_Delicious/
 { "name": "CSDSteamBuild.exe", "type": "Game" }
 
+# Cook, Serve, Delicious! 2!! https://store.steampowered.com/app/386620/Cook_Serve_Delicious_2/
+{ "name": "CSD2.exe", "type": "Game" }
+
 # Copycat https://store.steampowered.com/app/1622350/Copycat/
 { "name": "Copycat.exe", "type": "Game"}
 
@@ -689,6 +700,9 @@
 
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "Cortex Command.exe", "type": "Game" }
+
+# CosmicBreak Universal https://store.steampowered.com/app/1140620/CosmicBreak_Universal/
+{ "name": "CosmicBreak.exe", "type": "Game"}
 
 # Cosmoteer: Starship Architect & Commander https://store.steampowered.com/app/799600/Cosmoteer_Starship_Architect__Commander/
 { "name": "Cosmoteer.exe", "type": "Game"}
@@ -885,6 +899,9 @@
 # Cubic Odyssey https://store.steampowered.com/app/3400000/Cubic_Odyssey/
 { "name": "CubicOdysseySteam.exe", "type": "Game" }
 
+# Cultivation Story: Reincarnation https://store.steampowered.com/app/1866880/Cultivation_Story_Reincarnation/
+{ "name": "CultivationStoryReincarnation.exe", "type": "Game" }
+
 # Cult of the Lamb https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/
 { "name": "Cult Of The Lamb.exe", "type": "Game" }
 
@@ -908,4 +925,10 @@
 # Cyberpunk 2077 https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 { "name": "Cyberpunk2077.exe", "type": "Game" }
 { "name": "Redprelauncher", "type": "BG_CPUIO" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

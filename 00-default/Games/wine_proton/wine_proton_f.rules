@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### F ###
+
 
 # F1 2012 https://store.steampowered.com/app/208500/F1_2012/
 { "name": "F1_2012.exe", "type": "Game" }
@@ -453,9 +455,6 @@
 # Five Nights at Freddy's: Sister Location https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
 { "name": "SisterLocation.exe", "type": "Game" }
 
-# FNaF World https://steamdb.info/app/427920/
-{ "name": "FNaF_World.exe", "type": "Game" }
-
 # Flashing Lights - Police, Firefighting, Emergency Services (EMS) Simulator https://store.steampowered.com/app/605740/Flashing_Lights__Police_Firefighting_Emergency_Services_EMS_Simulator/
 { "name": "flashinglights.exe", "type": "Game" }
 
@@ -487,6 +486,9 @@
 # Flyout https://store.steampowered.com/app/777390/Flyout/
 { "name": "Flyout.exe", "type": "Game" }
 
+# FNaF World https://steamdb.info/app/427920/
+{ "name": "FNaF_World.exe", "type": "Game" }
+
 # Fobia - St. Dinfna Hotel https://store.steampowered.com/app/1298140/Fobia__St_Dinfna_Hotel/
 { "name": "Fobia.exe", "type": "Game" }
 { "name": "Fobia-Win64-Shipping.exe", "type": "Game" }
@@ -509,6 +511,9 @@
 
 # Forever Skies https://store.steampowered.com/app/1641960/Forever_Skies/
 { "name": "ForeverSkies.exe", "type": "Game" }
+
+# FOREWARNED https://store.steampowered.com/app/1562420/
+{ "name": "FOREWARNED.exe", "type": "Game" }
 
 # Forgive Me Father https://store.steampowered.com/app/1590910/Forgive_Me_Father/
 { "name": "FMF.exe", "type": "Game" }
@@ -656,4 +661,10 @@
 
 # Fury Unleashed https://store.steampowered.com/app/465200/Fury_Unleashed/
 { "name": "FuryUnleashed.exe", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

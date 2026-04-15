@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### S ###
+
 
 # Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
 { "name": "saintsrow2", "type": "Game" }
@@ -56,6 +64,9 @@
 
 # Selene ~Apoptosis~ https://store.steampowered.com/app/1398210/Selene_Apoptosis/
 { "name": "Selene", "type": "Game" }
+
+# Sentinels of the Multiverse https://store.steampowered.com/app/337150/Sentinels_of_the_Multiverse/
+{ "name": "Sentinels.x86_64", "type": "Game" }
 
 # Serena https://store.steampowered.com/app/272060/Serena/
 { "name": "dagon", "type": "Game" }
@@ -117,6 +128,15 @@
 
 # Shelter 2 https://store.steampowered.com/app/275100/Shelter_2/
 { "name": "Shelter2.x86", "type": "Game" }
+
+# Sheltered https://store.steampowered.com/app/356040/Sheltered/
+{ "name": "Sheltered.x86", "type": "Game" }
+{ "name": "Sheltered.x86_64", "type": "Game" }
+
+# SHENZHEN I/O https://store.steampowered.com/app/504210/SHENZHEN_IO/
+{ "name": "Shenzhen.bin.x86_64", "type": "Game" }
+{ "name": "Shenzhen.bin.x86", "type": "Game" }
+{ "name": "Shenzhen", "type": "Game" }
 
 # Ship of Fools https://store.steampowered.com/app/1286580/Ship_of_Fools/
 { "name": "ShipOfFools.x86_64", "type": "Game" }

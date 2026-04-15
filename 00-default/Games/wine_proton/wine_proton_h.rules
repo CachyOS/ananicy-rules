@@ -1,9 +1,14 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### H ###
+
 
 # Hachishaku https://store.steampowered.com/app/3572580/Hachishaku/
 { "name": "Hachishaku.exe", "type": "Game" }
@@ -86,6 +91,9 @@
 
 # Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
 { "name": "Hand of Fate.exe", "type": "Game" }
+
+# Hand of Fate 2 https://store.steampowered.com/app/456670/
+{ "name": "Hand of Fate 2.exe", "type": "Game" }
 
 # Hand Simulator https://store.steampowered.com/app/657200/Hand_Simulator/
 { "name": "Hand Simulator.exe", "type": "Game" }
@@ -281,6 +289,9 @@
 
 # Hero's Land https://store.steampowered.com/app/2349820/Heros_Land/
 { "name": "HerosLand.exe", "type": "Game" }
+
+# Hero Zero https://store.steampowered.com/app/482920/Hero_Zero__Multiplayer_RPG/
+{ "name": "Hero Zero.exe", "type": "Game" }
 
 # hexceed https://store.steampowered.com/app/1463920/hexceed/
 { "name": "hexceed.exe", "type": "Game" }
@@ -556,4 +567,10 @@
 
 # Hyper Light Drifter https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
 { "name": "HyperLightDrifter.exe", "type": "Game" }
+
+# Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
+{ "name": "HypnOS.exe", "type": "Game" }
+
+# If not from any store add name you think it needs.
+
 

@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### Q ###
+
 
 # Quake https://store.steampowered.com/app/2310/Quake/
 { "name": "Quake_x64_steam.exe", "type": "Game" }
@@ -19,6 +27,10 @@
 
 # Quake Champions https://store.steampowered.com/app/611500/Quake_Champions/
 { "name": "QuakeChampions.exe", "type": "Game" }
+
+# Quake II https://store.steampowered.com/app/2320/Quake_II/
+{ "name": "quake2.exe", "type": "Game" }
+{ "name": "quake2ex_steam.exe", "type": "Game" }
 
 # Quake III Arena https://store.steampowered.com/app/2200/Quake_III_Arena/
 { "name": "quake3.exe", "type": "Game" }
