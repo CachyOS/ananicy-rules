@@ -20,6 +20,9 @@
 # Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
 { "name": "Gladius", "type": "BG_CPUIO" }
 
+# Warhammer 40,000: Mechanicus https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
+{ "name": "Mechanicus.x86_64", "type": "Game" }
+
 # War Selection https://store.steampowered.com/app/1022450/War_Selection/
 { "name": "SteamLauncher", "type": "Game" }
 { "name": "GlyphEngine", "type": "Game" }

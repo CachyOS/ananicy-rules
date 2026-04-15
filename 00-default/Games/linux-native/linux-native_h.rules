@@ -36,6 +36,10 @@
 { "name": "Hand of Fate.x86", "type": "Game" }
 { "name": "Hand of Fate.x86_64", "type": "Game" }
 
+# Hand of Fate 2 https://store.steampowered.com/app/456670/
+{ "name": "Hand of Fate 2.x86", "type": "Game" }
+{ "name": "Hand of Fate 2.x86_64", "type": "Game" }
+
 # Hard West https://store.steampowered.com/app/307670/Hard_West/
 { "name": "HardWest.x86", "type": "Game" }
 { "name": "HardWest.x86_64", "type": "Game" }
@@ -158,6 +162,9 @@
 
 # Hyper Light Drifter https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
 { "name": "HyperLightDrifter", "type": "Game" }
+
+# Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
+{ "name": "HypnOS", "type": "Game" }
 
 # Hytale https://hytale.com/
 { "name": "HytaleClient", "type": "Game" }

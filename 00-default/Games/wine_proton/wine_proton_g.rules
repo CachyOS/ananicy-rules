@@ -208,6 +208,9 @@
 # Gnomoria https://store.steampowered.com/app/224500/Gnomoria/
 { "name": "gnomoria.exe", "type": "Game" }
 
+# GNOSIA https://store.steampowered.com/app/1608290/GNOSIA/
+{ "name": "Gnosia.exe", "type": "Game" }
+
 # Goat Simulator https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame-Win32-Shipping.exe", "type": "Game" }
 
@@ -423,8 +426,15 @@
 { "name": "GRIDAutosport.exe", "type": "Game" }
 { "name": "GRIDAutosport_avx.exe", "type": "Game" }
 
+# Griftlands https://store.steampowered.com/app/601840/Griftlands/
+{ "name": "Griftlands.exe", "type": "Game" }
+
 # Grim Dawn https://store.steampowered.com/app/219990/Grim_Dawn/
 { "name": "Grim Dawn.exe", "type": "Game" }
+
+# GRIME https://store.steampowered.com/app/1403940/Grim/
+{ "name": "Grim.exe", "type": "Game" }
+{ "name": "Grim-Win64-Shipping.exe", "type": "Game" }
 
 # GRIME II https://store.steampowered.com/app/2529790/GRIME_II/
 { "name": "GRIME II.exe", "type": "Game" }

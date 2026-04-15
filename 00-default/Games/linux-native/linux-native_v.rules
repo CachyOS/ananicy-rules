@@ -35,6 +35,10 @@
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_LINUX.x86_64", "type": "Game" }
 
+# Viridi https://store.steampowered.com/app/375950/Viridi/
+{ "name": "Viridi.x86_64", "type": "Game" }
+{ "name": "Viridi.x86", "type": "Game" }
+
 # vkquake https://github.com/Novum/vkQuake/
 { "name": "vkquake", "type": "Game" }
 

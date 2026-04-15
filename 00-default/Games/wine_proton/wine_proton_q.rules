@@ -26,6 +26,10 @@
 # Quake II RTX https://store.steampowered.com/app/1089130/Quake_II_RTX/
 { "name": "q2rtx.exe", "type": "Game" }
 
+# Quake II https://store.steampowered.com/app/2320/Quake_II/
+{ "name": "quake2.exe", "type": "Game" }
+{ "name": "quake2ex_steam.exe", "type": "Game" }
+
 # Quake Live https://store.steampowered.com/app/282440/Quake_Live/
 { "name": "quakelive_steam.exe", "type": "Game" }
 

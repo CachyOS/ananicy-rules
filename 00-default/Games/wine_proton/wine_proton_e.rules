@@ -106,6 +106,9 @@
 # eFootball PES 2021 SEASON UPDATE https://store.steampowered.com/app/1259970/eFootball_PES_2021_SEASON_UPDATE/
 { "name": "PES2021.exe", "type": "Game" }
 
+# Eldest Souls https://store.steampowered.com/app/1108590/Eldest_Souls/
+{ "name": "Eldest Souls.exe", "type": "Game" }
+
 # Eldegarde https://store.steampowered.com/app/2344320/Eldegarde/
 { "name": "ProjectHonorClient.exe", "type": "Game" }
 
@@ -161,6 +164,10 @@
 # Empires of the Undergrowth https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/
 { "name": "EotU.exe", "type": "Game" }
 { "name": "EotU-Win64-Shipping.exe", "type": "Game" }
+
+# Empire of Sin https://store.steampowered.com/app/604540/Empire_of_Sin/
+{ "name": "EmpireOfSin.exe", "type": "Game" }
+{ "name": "dowser.exe", "type": "Game" }
 
 # Empyrion - Galactic Survival https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
 { "name": "EmpyrionLauncher.exe", "type": "BG_CPUIO" }

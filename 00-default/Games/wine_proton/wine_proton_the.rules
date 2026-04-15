@@ -17,6 +17,10 @@
 { "name": "TheAlters.exe", "type": "Game" }
 { "name": "TheAlters-Win64-Shipping.exe", "type": "Game" }
 
+# The Ascent https://store.steampowered.com/app/979690/The_Ascent/
+{ "name": "TheAscent.exe", "type": "Game" }
+{ "name": "TheAscent-Win64-Shipping.exe", "type": "Game" }
+
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman.exe", "type": "Game" }
 
@@ -437,6 +441,9 @@
 # The Life and Suffering of Sir Brante https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/
 { "name": "The Life and Suffering of Sir Brante.exe", "type": "Game" }
 { "name": "brante-101xp-micro-launcher.exe", "type": "BG_CPUIO" }
+
+# THE LONGING https://store.steampowered.com/app/893850/THE_LONGING/
+{ "name": "The Longing.exe", "type": "Game" }
 
 # The Long Dark https://store.steampowered.com/app/305620/The_Long_Dark/
 { "name": "tld.exe", "type": "Game" }

@@ -116,6 +116,9 @@
 # A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
 { "name": "A Game About Feeding A Black Hole.exe", "type": "Game" }
 
+# A Game of Thrones: The Board Game - Digital Edition https://store.steampowered.com/app/1075190/A_Game_of_Thrones_The_Board_Game__Digital_Edition/
+{ "name": "AGameOfThronesTheBoardGame.exe", "type": "Game" }
+
 # Agarest: Generations of War https://store.steampowered.com/app/237890/Agarest_Generations_of_War/
 { "name": "Agarest.exe", "type": "Game" }
 
@@ -168,6 +171,9 @@
 # Age of Wonders III https://store.steampowered.com/app/226840/Age_of_Wonders_III/
 { "name": "AoW3Launcher.exe", "type": "BG_CPUIO" }
 { "name": "AoW3.exe", "type": "Game" }
+
+# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
+{ "name": "AoW.exe", "type": "Game" }
 
 # Ages of Conflict: World War Simulator https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/
 { "name": "Ages of Conflict.exe", "type": "Game" }
@@ -597,6 +603,11 @@
 { "name": "AOCClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntrepidStudiosLauncher.exe", "type": "BG_CPUIO" }
 
+# Ashes of the Singularity: Escalation https://store.steampowered.com/app/507490/Ashes_of_the_Singularity_Escalation/
+{ "name": "AshesEscalation.exe", "type": "Game" }
+{ "name": "AshesEscalation_DX11.exe", "type": "Game" }
+{ "name": "AshesEscalation_DX12.exe", "type": "Game" }
+
 # A Short Hike https://store.steampowered.com/app/1055540/A_Short_Hike/
 { "name": "AShortHike.exe", "type": "Game" }
 
@@ -605,6 +616,9 @@
 
 # A Space for the Unbound https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/
 { "name": "A Space for the Unbound.exe", "type": "Game" }
+
+# Ascension https://store.steampowered.com/app/2328480/Ascension/
+{ "name": "Acension.exe", "type": "Game" }
 
 # Assassin's Creed 2 https://store.steampowered.com/app/33230/Assassins_Creed_2/
 { "name": "AssassinsCreedIIGame.exe", "type": "Game" }

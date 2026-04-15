@@ -24,6 +24,9 @@
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "Valheim.exe", "type": "Game" }
 
+# Valkyria Chronicles https://store.steampowered.com/app/294860/Valkyria_Chronicles/
+{ "name": "Valkyria.exe", "type": "Game" }
+
 # Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/
 { "name": "Valiant Hearts.exe", "type": "Game" }
 
@@ -43,6 +46,10 @@
 
 # Vampire: The Masquerade Bloodlines : Unofficial Patch https://www.moddb.com/mods/vtmb-unofficial-patch
 { "name": "Vampire.exe", "type": "Game" }
+
+# Vampire: The Masquerade - Bloodhunt https://store.steampowered.com/app/760160/Vampire_The_Masquerade__Bloodhunt/
+{ "name": "Tiger.exe", "type": "Game" }
+{ "name": "Tiger-Win64-Shipping.exe", "type": "Game" }
 
 # Vampire: The Masquerade – Swansong https://store.steampowered.com/app/1299510/Vampire_The_Masquerade__Swansong/
 { "name": "Swansong.exe", "type": "Game" }
@@ -108,6 +115,9 @@
 
 # Virtual Fighter Maneuvers https://store.steampowered.com/app/3952640/Virtual_Fighter_Maneuvers/
 { "name": "VFM.exe", "type": "Game" }
+
+# Viridi https://store.steampowered.com/app/375950/Viridi/
+{ "name": "Viridi.exe", "type": "Game" }
 
 # Viscera Cleanup Detail https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/
 { "name": "UDKLift.exe", "type": "Game" }
