@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### C ###
+
 
 # Capsized https://store.steampowered.com/app/95300/Capsized/
 { "name": "Capsized", "type": "Game" }
@@ -97,9 +99,6 @@
 # Codename Engine https://github.com/CodenameCrew/CodenameEngine/
 { "name": "CodenameEngine", "type": "Game" }
 
-# Cook, Serve, Delicious! 2!! https://store.steampowered.com/app/386620/Cook_Serve_Delicious_2/
-{ "name": "NEW_CSD2_PS4Steam", "type": "Game" }
-
 # Coloring Pixels https://store.steampowered.com/app/897330/Coloring_Pixels/
 { "name": "ColoringPixels", "type": "Game" }
 
@@ -121,6 +120,9 @@
 
 # Contraption Maker https://store.steampowered.com/app/241240/Contraption_Maker/
 { "name": "ContraptionMaker", "type": "Game" }
+
+# Cook, Serve, Delicious! 2!! https://store.steampowered.com/app/386620/Cook_Serve_Delicious_2/
+{ "name": "NEW_CSD2_PS4Steam", "type": "Game" }
 
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper", "type": "Game" }
@@ -182,4 +184,10 @@
 
 # Cube Racer https://store.steampowered.com/app/705210/Cube_Racer/
 { "name": "CubeRacer.x86", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

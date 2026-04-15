@@ -1,9 +1,5 @@
-# Add games in alphabetical order.
-# Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
-
 ### A ###
+
 
 # AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome https://store.steampowered.com/app/15560/AaaaaAAaaaAAAaaAAAAaAAAAA_for_the_Awesome/
 { "name": "Awesome.x86", "type": "Game" }
@@ -29,6 +25,12 @@
 
 # A Date with Death https://store.steampowered.com/app/2415010/A_Date_with_Death/
 { "name": "ADatewithDeath", "type": "Game" }
+
+# Add games in alphabetical order.
+
+
+# Add name of game next to the url.
+
 
 # AdVenture Capitalist https://store.steampowered.com/app/346900/AdVenture_Capitalist/
 { "name": "adventure-capitalist.x86_64", "type": "Game" }
@@ -196,4 +198,10 @@
 
 # Axis & Allies 1942 Online https://store.steampowered.com/app/898920/Axis__Allies_1942_Online/
 { "name": "AxisAndAllies1942Online", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

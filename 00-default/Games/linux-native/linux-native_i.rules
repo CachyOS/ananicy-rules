@@ -1,9 +1,14 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### I ###
+
 
 # ibb & obb https://store.steampowered.com/app/95400/ibb__obb/
 { "name": "ibbobb.elf", "type": "Game" }
@@ -23,6 +28,9 @@
 
 # Idol Manager https://store.steampowered.com/app/821880/Idol_Manager/
 { "name": "IdolManager.x86_64", "type": "Game" }
+
+# If not from any store add name you think it needs.
+
 
 # I Have No Mouth, and I Must Scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
 { "name": "IHNMAIMS.x86_64", "type": "Game" }

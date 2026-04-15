@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### G ###
+
 
 # Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
 { "name": "gamblers-table.x86_64", "type": "Game" }
@@ -32,6 +34,9 @@
 { "name": "GeminiRue.bin.x86", "type": "Game" }
 { "name": "GeminiRue.bin.x86_64", "type": "Game" }
 { "name": "winsetup", "type": "Game" }
+
+# Get name of game from steam.
+
 
 # Getting Over It with Bennett Foddy https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/
 { "name": "GettingOverIt.x86_64", "type": "Game" }
@@ -114,4 +119,7 @@
 # Guts and Glory https://store.steampowered.com/app/537340/Guts_and_Glory/
 { "name": "Guts and Glory.x86", "type": "Game" }
 { "name": "Guts and Glory.x86_64", "type": "Game" }
+
+# If not from any store add name you think it needs.
+
 

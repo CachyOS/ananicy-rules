@@ -1,9 +1,11 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
-# Get name of game from steam.
-# If not from any store add name you think it needs.
+
 
 ### B ###
+
 
 # Backpack Battles https://store.steampowered.com/app/2427700/Backpack_Battles/
 { "name": "BackpackBattles.x86_64", "type": "Game" }
@@ -186,4 +188,10 @@
 
 # BUTCHER https://store.steampowered.com/app/474210/BUTCHER/
 { "name": "Butcher", "type": "Game" }
+
+# Get name of game from steam.
+
+
+# If not from any store add name you think it needs.
+
 

@@ -1,10 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### The ###
-# There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
+
 
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39stepslinux.x86", "type": "Game" }
@@ -134,11 +141,11 @@
 # The Legend of Zelda: Majora's Mask Recompiled https://github.com/Zelda64Recomp/Zelda64Recomp/
 { "name": "Zelda64Recompiled", "type": "Game" }
 
-# THE LONGING https://store.steampowered.com/app/893850/THE_LONGING/
-{ "name": "The Longing.x86", "type": "Game" }
-
 # The Long Dark https://store.steampowered.com/app/305620/The_Long_Dark/
 { "name": "tld.x86_64", "type": "Game" }
+
+# THE LONGING https://store.steampowered.com/app/893850/THE_LONGING/
+{ "name": "The Longing.x86", "type": "Game" }
 
 # The Mooseman https://store.steampowered.com/app/574310/The_Mooseman/
 { "name": "Mooseman.x86", "type": "Game" }
@@ -152,6 +159,9 @@
 
 # The Plan https://store.steampowered.com/app/250600/The_Plan/
 { "name": "The Plan.x86", "type": "Game" }
+
+# There are a lot of titles with "The" prefix. I want to seperate these titles from the game titles actually start with "T"
+
 
 # The Roottrees are Dead https://store.steampowered.com/app/2754380/The_Roottrees_are_Dead/
 { "name": "roottrees", "type": "Game" }

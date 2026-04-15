@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### S ###
+
 
 # Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
 { "name": "saintsrow2", "type": "Game" }
@@ -115,15 +123,15 @@
 # ShellShock Live https://store.steampowered.com/app/326460/ShellShock_Live/
 { "name": "ShellShockLive.x64", "type": "Game" }
 
-# Sheltered https://store.steampowered.com/app/356040/Sheltered/
-{ "name": "Sheltered.x86", "type": "Game" }
-{ "name": "Sheltered.x86_64", "type": "Game" }
-
 # Shelter https://store.steampowered.com/app/244710/Shelter/
 { "name": "Shelter.x86_64", "type": "Game" }
 
 # Shelter 2 https://store.steampowered.com/app/275100/Shelter_2/
 { "name": "Shelter2.x86", "type": "Game" }
+
+# Sheltered https://store.steampowered.com/app/356040/Sheltered/
+{ "name": "Sheltered.x86", "type": "Game" }
+{ "name": "Sheltered.x86_64", "type": "Game" }
 
 # SHENZHEN I/O https://store.steampowered.com/app/504210/SHENZHEN_IO/
 { "name": "Shenzhen.bin.x86_64", "type": "Game" }

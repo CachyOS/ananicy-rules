@@ -1,9 +1,17 @@
 # Add games in alphabetical order.
+
+
 # Add name of game next to the url.
+
+
 # Get name of game from steam.
+
+
 # If not from any store add name you think it needs.
 
+
 ### K ###
+
 
 # Kabuto Park https://store.steampowered.com/app/3376990/Kabuto_Park/
 { "name": "KabutoPark.x86_64", "type": "Game" }
@@ -41,6 +49,10 @@
 # King Arthur's Gold https://store.steampowered.com/app/219830/King_Arthurs_Gold/
 { "name": "KAG", "type": "Game" }
 
+# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
+{ "name": "Kingdom.x86", "type": "Game" }
+{ "name": "Kingdom.x86_64", "type": "Game" }
+
 # Kingdom Rush Frontiers - Tower Defense https://store.steampowered.com/app/458710/Kingdom_Rush_Frontiers__Tower_Defense/
 { "name": "krf-love", "type": "Game" }
 
@@ -49,10 +61,6 @@
 
 # Kingdom Rush  - Tower Defense https://store.steampowered.com/app/246420/Kingdom_Rush___Tower_Defense/
 { "name": "Kingdom Rush.x86", "type": "Game" }
-
-# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
-{ "name": "Kingdom.x86", "type": "Game" }
-{ "name": "Kingdom.x86_64", "type": "Game" }
 
 # Kingdoms and Castles https://store.steampowered.com/app/569480/Kingdoms_and_Castles/
 { "name": "KingdomsAndCastles.x86_64", "type": "Game" }
