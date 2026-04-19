@@ -1,11 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
+# Get name of game from steam.
+# If not from any store add name you think it needs.
 
 ### C ###
-
 
 # CABAL Online https://store.steampowered.com/app/253490/CABAL_Online/
 { "name": "cabal.exe", "type": "Game" }
@@ -925,10 +923,3 @@
 # Cyberpunk 2077 https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 { "name": "Cyberpunk2077.exe", "type": "Game" }
 { "name": "Redprelauncher", "type": "BG_CPUIO" }
-
-# Get name of game from steam.
-
-
-# If not from any store add name you think it needs.
-
-

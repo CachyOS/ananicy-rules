@@ -1,14 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
+# If not from any store add name you think it needs.
 
 ### H ###
-
 
 # Hacker Evolution https://store.steampowered.com/app/70100/Hacker_Evolution/
 { "name": "HackerEvolution", "type": "Game" }
@@ -173,7 +168,3 @@
 
 # Hytale https://hytale.com/
 { "name": "HytaleClient", "type": "Game" }
-
-# If not from any store add name you think it needs.
-
-

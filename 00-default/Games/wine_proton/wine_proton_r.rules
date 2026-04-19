@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### R ###
-
 
 # Rabbit and Steel https://store.steampowered.com/app/2132850/Rabbit_and_Steel/
 { "name": "RabbitSteel.exe", "type": "Game" }
@@ -775,4 +767,3 @@
 
 # Ryse: Son of Rome https://store.steampowered.com/app/302510/Ryse_Son_of_Rome/
 { "name": "Ryse.exe", "type": "Game" }
-

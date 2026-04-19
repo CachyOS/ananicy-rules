@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### S ###
-
 
 # Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
 { "name": "saintsrow2", "type": "Game" }
@@ -413,4 +405,3 @@
 # Symphony https://store.steampowered.com/app/207750/Symphony/
 { "name": "Symphony.bin.x86", "type": "Game" }
 { "name": "Symphony.bin.x86_64", "type": "Game" }
-

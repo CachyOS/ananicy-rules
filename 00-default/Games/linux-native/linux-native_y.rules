@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### Y ###
-
 
 # yamagi-quake2 https://www.yamagi.org/quake2/
 { "name": "quake2", "type": "Game" }
@@ -38,4 +30,3 @@
 
 # Yuppie Psycho: Executive Edition https://store.steampowered.com/app/597760/Yuppie_Psycho_Executive_Edition/
 { "name": "yuppiepsycho", "type": "Game" }
-

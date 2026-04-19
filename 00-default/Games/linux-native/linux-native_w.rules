@@ -1,17 +1,9 @@
 # Add games in alphabetical order.
-
-
 # Add name of game next to the url.
-
-
 # Get name of game from steam.
-
-
 # If not from any store add name you think it needs.
 
-
 ### W ###
-
 
 # Waking Mars https://store.steampowered.com/app/227200/Waking_Mars/
 { "name": "wakingmars", "type": "Game" }
@@ -104,4 +96,3 @@
 
 # WRATH: Aeon of Ruin https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
 { "name": "wrath-steam", "type": "Game" }
-
