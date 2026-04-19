@@ -249,6 +249,10 @@
 # Wedding Witch https://store.steampowered.com/app/2529820/Wedding_Witch/
 { "name": "Wedding Witch.exe", "type": "Game" }
 
+# We Gotta Go https://store.steampowered.com/app/3967470/We_Gotta_Go/
+{ "name": "Pluto.exe", "type": "Game" }
+{ "name": "Pluto-Win64-Shipping.exe", "type": "Game" }
+
 # We Happy Few https://store.steampowered.com/app/320240/We_Happy_Few/
 { "name": "GlimpseGame.exe", "type": "Game" }
 
@@ -340,6 +344,12 @@
 
 # Windosill https://store.steampowered.com/app/37600/Windosill/
 { "name": "Windosill.exe", "type": "Game" }
+
+# Windrose https://store.steampowered.com/app/3041230/Windrose/
+{ "name": "Windrose-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Windrose.exe", "type": "Game" }
+{ "name": "WindroseServer-Win64-Shipping.exe", "type": "BG_CPUIO" }
+{ "name": "WindroseServer.exe", "type": "BG_CPUIO" }
 
 # Wingspan https://store.steampowered.com/app/1054490/Wingspan/
 { "name": "Wingspan.exe", "type": "Game" }

@@ -742,7 +742,7 @@
 { "name": "motogp25.exe", "type": "Game" }
 { "name": "motogp25-Win64-Shipping.exe", "type": "Game" }
 
-# MOTORSLICE Demo https://store.steampowered.com/app/2830030/MOTORSLICE/
+# MOTORSLICE Demo https://steamdb.info/app/3910170/
 { "name": "MotorSliceDemo.exe", "type": "Game" }
 { "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
 
@@ -914,8 +914,3 @@
 
 # My Winter Car https://store.steampowered.com/app/4164420/My_Winter_Car/
 { "name": "mywintercar.exe", "type": "Game" }
-
-# Natural Selection 2 http://store.steampowered.com/app/4920/Natural_Selection_2/
-{ "name": "Tracy.exe", "type": "Game" }
-{ "name": "NS2.exe", "type": "Game" }
-{ "name": "ns2.exe", "type": "Game" }
