@@ -32,9 +32,19 @@
 # 140 https://store.steampowered.com/app/242820/140/
 { "name": "140.exe", "type": "Game" }
 
+# 14 Minesweeper Variants https://store.steampowered.com/app/1865060/14_Minesweeper_Variants/
+
+
+# 14 Minesweeper Variants 2 https://store.steampowered.com/app/2631960/14_Minesweeper_Variants_2/
+{ "name": "MineVar.exe", "type": "Game" }
+
 # 171 https://store.steampowered.com/app/1269370/171/
 { "name": "BGG.exe", "type": "Game" }
 { "name": "BGG-Win64-Shipping.exe", "type": "Game" }
+
+# 1953: NATO vs Warsaw Pact https://store.steampowered.com/app/325470/1953_NATO_vs_Warsaw_Pact/
+{ "name": "1953 Setup.exe", "type": "BG_CPUIO" }
+{ "name": "1953.exe", "type": "Game" }
 
 # 1954 Alcatraz https://store.steampowered.com/app/255280/1954_Alcatraz/
 { "name": "Alcatraz.exe", "type": "Game" }
@@ -52,11 +62,29 @@
 { "name": "30XX.exe", "type": "Game" }
 { "name": "Editor30XX.exe", "type": "Game" }
 
+# 3D Aim Trainer https://store.steampowered.com/app/1600530/3D_Aim_Trainer/
+{ "name": "3dat.exe", "type": "Game" }
+
+# 3DMark https://store.steampowered.com/app/223850/3DMark/
+{ "name": "3DMark.exe", "type": "Game" }
+
+# 3on3 FreeStyle: Rebound https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/
+{ "name": "xldr_3on3FreeStyle_ST_loader_x64.exe", "type": "Game" }
+{ "name": "DoubleClutch-Win64-Shipping.exe", "type": "Game" }
+{ "name": "DoubleClutch.exe", "type": "Game" }
+{ "name": "2024_Globalsign_64bit.EXE", "type": "Game" }
+
+# 3tene FREE https://store.steampowered.com/app/871170/3tene/
+{ "name": "3tene.exe", "type": "Game" }
+
 # 428: Shibuya Scramble https://store.steampowered.com/app/648580/428_Shibuya_Scramble/
 { "name": "428 Shibuya Scramble.exe", "type": "Game" }
 
 # 5D Chess With Multiverse Time Travel https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/
 { "name": "5dchesswithmultiversetimetravel.exe", "type": "Game" }
+
+# 60 Parsecs! https://store.steampowered.com/app/646270/60_Parsecs/
+{ "name": "60Parsecs.exe", "type": "Game" }
 
 # 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
 { "name": "60Seconds.exe", "type": "Game" }

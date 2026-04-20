@@ -5,19 +5,40 @@
 
 ### C ###
 
+# Caliper https://store.steampowered.com/app/581840/Caliper/
+{ "name": "Caliper_launcher", "type": "Game" }
+
+# Canvas of Kings https://store.steampowered.com/app/2498570/Canvas_of_Kings/
+{ "name": "CanvasOfKings.x86_64", "type": "Game" }
+
 # Capsized https://store.steampowered.com/app/95300/Capsized/
 { "name": "Capsized", "type": "Game" }
 
+# CARRION https://store.steampowered.com/app/953490/CARRION/
+{ "name": "carrion_steam.sh", "type": "Game" }
+{ "name": "Carrion", "type": "Game" }
+
 # CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
 { "name": "CarX_Street.x86_64", "type": "Game" }
-{ "name": "eac_launcher", "type": "Game" }
+{ "name": "eac_launcher", "type": "BG_CPUIO" }
+
+# Cassette Beasts https://store.steampowered.com/app/1321440/Cassette_Beasts/
+{ "name": "CassetteBeasts.x86_64", "type": "Game" }
 
 # Castle Story https://store.steampowered.com/app/227860/Castle_Story/
 { "name": "castlestory-launcher", "type": "BG_CPUIO" }
 { "name": "Castle Story", "type": "Game" }
 
+# Cataclysm: Dark Days Ahead https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/
+{ "name": "cataclysm-tiles", "type": "Game" }
+{ "name": "cataclysm-launcher", "type": "BG_CPUIO" }
+
 # Cat Bait https://store.steampowered.com/app/2929730/Cat_Bait/
 { "name": "CatBait.x86_64", "type": "Game" }
+
+# Cattle Country https://store.steampowered.com/app/2818150/Cattle_Country/
+{ "name": "CattleCountry", "type": "Game" }
+{ "name": "CattleCountry.bin.aarch64", "type": "Game" }
 
 # Caves of Qud https://store.steampowered.com/app/333640/Caves_of_Qud/
 { "name": "CoQ.x86_64", "type": "Game" }
@@ -38,6 +59,9 @@
 # Chaos on Deponia https://store.steampowered.com/app/220740/Chaos_on_Deponia/
 { "name": "Deponia2", "type": "Game" }
 
+# Charlie Murder https://store.steampowered.com/app/405290/Charlie_Murder/
+{ "name": "CharlieMurder", "type": "Game" }
+
 # Chasing Tails -A Promise in the Snow- https://store.steampowered.com/app/1555110/Chasing_Tails_A_Promise_in_the_Snow/
 { "name": "ChasingTails", "type": "Game" }
 
@@ -55,6 +79,9 @@
 
 # Chocolate doom https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom/
 { "name": "chocolate-doom", "type": "Game" }
+
+# Chonkers https://store.steampowered.com/app/3244210/Chonkers/
+{ "name": "chonkers.x86_64", "type": "Game" }
 
 # Chroma Squad https://store.steampowered.com/app/251130/Chroma_Squad/
 { "name": "chromasquad.x86", "type": "Game" }
@@ -81,6 +108,15 @@
 { "name": "ClassiCube", "type": "Game" }
 { "name": "classicube", "type": "Game" }
 
+# Class of '09 https://store.steampowered.com/app/1443200/Class_of_09/
+{ "name": "Class_Of_09.sh", "type": "Game" }
+
+# Class of '09: The Flip Side https://store.steampowered.com/app/2757330/Class_of_09_The_Flip_Side/
+{ "name": "C09FS.sh", "type": "Game" }
+
+# Class of '09: The Re-Up https://store.steampowered.com/app/2318310/Class_of_09_The_ReUp/
+{ "name": "C09RU.sh", "type": "Game" }
+
 # Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
 { "name": "ClearedHot", "type": "Game" }
 
@@ -97,6 +133,13 @@
 # Codename Engine https://github.com/CodenameCrew/CodenameEngine/
 { "name": "CodenameEngine", "type": "Game" }
 
+# Coin Pusher Casino https://store.steampowered.com/app/2178590/Coin_Pusher_Casino/
+{ "name": "Coin Pusher Casino", "type": "Game" }
+
+# Colony Survival https://store.steampowered.com/app/366090/Colony_Survival/
+{ "name": "colonyclient.x86", "type": "Game" }
+{ "name": "colonyclient.x86_64", "type": "Game" }
+
 # Coloring Pixels https://store.steampowered.com/app/897330/Coloring_Pixels/
 { "name": "ColoringPixels", "type": "Game" }
 
@@ -105,6 +148,9 @@
 
 # Comedy Night https://store.steampowered.com/app/665360/Comedy_Night/
 { "name": "Comedy Night.x86_64", "type": "Game" }
+
+# Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
+{ "name": "Linux.x64", "type": "Game" }
 
 # Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name" : "CompanyOfHeroes2","type": "Game"}
@@ -179,6 +225,12 @@
 
 # Crypt of the NecroDancer https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/
 { "name": "NecroDancer", "type": "Game" }
+
+# Crystal Project https://store.steampowered.com/app/1637730/Crystal_Project/
+{ "name": "Crystal Project.bin.x86_64", "type": "Game" }
+
+# CS2D https://store.steampowered.com/app/666220/CS2D/
+{ "name": "CS2D", "type": "Game" }
 
 # Cube Racer https://store.steampowered.com/app/705210/Cube_Racer/
 { "name": "CubeRacer.x86", "type": "Game" }
