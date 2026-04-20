@@ -230,6 +230,10 @@
 # Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Star Conflict http://store.steampowered.com/app/212070/Star_Conflict/
+# Artist Idle https://store.steampowered.com/app/968440/Artist_Idle/
+# Boo! Are you scared? The Chests Game https://store.steampowered.com/app/3380740/Boo_Are_you_scared_The_Chests_Game/
+# Castlevania Dominus Collection https://store.steampowered.com/app/2369900/Castlevania_Dominus_Collection/
+# Chinese Parents https://store.steampowered.com/app/736190/Chinese_Parents/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -265,6 +269,11 @@
 # Rocketbirds: Hardboiled Chicken https://store.steampowered.com/app/215510/Rocketbirds_Hardboiled_Chicken/
 # Zài shuā yī bǎ 2: Jīnsè chuánshuō 再刷一把2：金色传说 https://store.steampowered.com/app/3358510/再刷一把2金色传说/
 # Skyborn https://store.steampowered.com/app/278460/Skyborn/
+# Ambrosia https://store.steampowered.com/app/1078350/Ambrosia/
+# Blitzkrieg 2 Anthology https://store.steampowered.com/app/313500/Blitzkrieg_2_Anthology/
+# Blitzkrieg Anthology https://store.steampowered.com/app/313480/Blitzkrieg_Anthology/
+# Border Pioneer https://store.steampowered.com/app/2346410/Border_Pioneer/
+# Changed https://store.steampowered.com/app/814540/Changed/
 { "name": "Game.exe", "type": "Game" }
 
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
@@ -312,6 +321,7 @@
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Ricochet https://store.steampowered.com/app/60/Ricochet/
 # Team Fortress Classic https://store.steampowered.com/app/20/Team_Fortress_Classic/
+# Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
 { "name": "hl.exe", "type": "Game" }
 
 # Fistful of Frags https://store.steampowered.com/app/265630/Fistful_of_Frags/
@@ -383,6 +393,7 @@
 # IL-2 Sturmovik: Cliffs of Dover https://store.steampowered.com/app/63950/IL2_Sturmovik_Cliffs_of_Dover/
 # Lost Planet 2 https://store.steampowered.com/app/45750/Lost_Planet_2/
 # Marc Eckō's Getting Up: Contents Under Pressure https://store.steampowered.com/app/260190/Marc_Eckōs_Getting_Up_Contents_Under_Pressure/
+# ASTRAL TALE-星界神話 https://store.steampowered.com/app/2591210/ASTRAL_TALE/
 { "name": "Launcher.exe", "type": "Game" }
 
 # Closers https://store.steampowered.com/app/215830/Closers/
@@ -620,6 +631,9 @@
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
 
+# Caribbean Legend https://store.steampowered.com/app/2230980/Caribbean_Legend/
+{ "name": "StormWorkshopTool.exe", "type": "Game" }
+
 # SUPERHOT https://store.steampowered.com/app/322500/SUPERHOT/
 # SUPERHOT: MIND CONTROL DELETE https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
 { "name": "SUPERHOT-Launcher.exe", "type": "Game" }
@@ -741,10 +755,6 @@
 # S.T.A.L.K.E.R.: Clear Sky https://store.steampowered.com/app/20510/STALKER_Clear_Sky/
 # S.T.A.L.K.E.R.: Call of Pripyat https://store.steampowered.com/app/41700/STALKER_Call_of_Pripyat/
 { "name": "xrEngine.exe", "type": "Game" }
-
-
-
-
 
 
 # Crash handlers

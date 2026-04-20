@@ -15,6 +15,9 @@
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
 
+# Bao Bao's Cozy Laundromat https://store.steampowered.com/app/3194550/Bao_Baos_Cozy_Laundromat/
+{ "name": "BaoBao-Linux-Build.x86_64", "type": "Game" }
+
 # Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
 { "name": "BALDI.x86_64", "type": "Game" }
 
@@ -41,6 +44,9 @@
 # Bastion https://store.steampowered.com/app/107100/Bastion/
 { "name": "Bastion", "type": "Game" }
 
+# BatMUD https://store.steampowered.com/app/616920/BatMUD/
+{ "name": "BatMUD", "type": "Game" }
+
 # BattleBlock Theater https://store.steampowered.com/app/238460/BattleBlock_Theater/
 { "name": "BattleBlockTheater", "type": "Game" }
 
@@ -53,6 +59,9 @@
 
 # Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
 { "name": "BattleNations", "type": "Game" }
+
+# Battle Tanks: World War II https://store.steampowered.com/app/782670/Battle_Tanks_World_War_II/
+{ "name": "Battle Tanks.x86_64", "type": "Game" }
 
 # BATTLETECH https://store.steampowered.com/app/637090/BATTLETECH/
 { "name": "BattleTech", "type": "Game" }
@@ -74,6 +83,10 @@
 # Beholder https://store.steampowered.com/app/475550/Beholder/
 { "name": "Beholder.x86", "type": "Game" }
 { "name": "Beholder.x86_64", "type": "Game" }
+
+# Beholder 2 https://store.steampowered.com/app/761620/Beholder_2/
+{ "name": "Beholder2.x86", "type": "Game" }
+{ "name": "Beholder2.x86_64", "type": "Game" }
 
 # Bendy and the Ink Machine https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/
 { "name": "BATIM.x86", "type": "Game" }
@@ -108,11 +121,18 @@
 # Bleed https://store.steampowered.com/app/239800/Bleed/
 { "name": "Bleed", "type": "Game" }
 
+# Blender https://store.steampowered.com/app/365670/Blender/
+{ "name": "blender-launcher", "type": "BG_CPUIO" }
+
 # Blockstorm https://store.steampowered.com/app/263060/Blockstorm/
 { "name": "Blockstorm", "type": "Game" }
 
 # Blush Blush https://store.steampowered.com/app/777130/Blush_Blush/
 { "name": "BlushBlush.x86_64", "type": "Game" }
+
+# Bombe https://store.steampowered.com/app/2262930/Bombe/
+{ "name": "Bombe.sh", "type": "Game" }
+{ "name": "Bombe", "type": "Game" }
 
 # Bomber Crew https://store.steampowered.com/app/537800/Bomber_Crew/
 { "name": "BomberCrew.x86", "type": "Game" }
@@ -126,6 +146,9 @@
 
 # Borderlands: The Pre-Sequel https://store.steampowered.com/app/261640/Borderlands_The_PreSequel/
 { "name": "BorderlandsPreSequel", "type": "Game" }
+
+# Borderless Gaming https://store.steampowered.com/app/388080/Borderless_Gaming/
+{ "name": "bg-holo", "type": "Game" }
 
 # Bound By Flame https://store.steampowered.com/app/243930/Bound_By_Flame/
 { "name": "BoundByFlame", "type": "Game" }
@@ -141,6 +164,12 @@
 
 # Breach & Clear https://store.steampowered.com/app/266130/Breach__Clear/
 { "name": "bnc_linux.x86", "type": "Game" }
+
+# Breachway https://store.steampowered.com/app/2118810/Breachway/
+{ "name": "Breachway", "type": "Game" }
+
+# Breakout 13 https://store.steampowered.com/app/2095300/Breakout_13/
+{ "name": "Breakout13", "type": "Game" }
 
 # Brick Rigs https://store.steampowered.com/app/552100/Brick_Rigs/
 { "name": "BrickRigsSteam-Linux-Shipping", "type": "Game" }
