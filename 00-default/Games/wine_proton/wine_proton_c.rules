@@ -283,7 +283,7 @@
 { "name": "Drift Racing Online.exe", "type": "Game"}
 
 # CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
-{ "name": "CarX Street Launcher.exe", "type": "Game" }
+{ "name": "CarX Street Launcher.exe", "type": "BG_CPUIO" }
 { "name": "CarX Street.exe", "type": "Game" }
 
 # CASE 2: Animatronics Survival https://store.steampowered.com/app/722960/CASE_2_Animatronics_Survival/
@@ -319,7 +319,7 @@
 
 # Castle Story https://store.steampowered.com/app/227860/Castle_Story/
 { "name": "Castle Story.exe", "type": "Game" }
-{ "name": "castlestory-launcher.exe", "type": "Game" }
+{ "name": "castlestory-launcher.exe", "type": "BG_CPUIO" }
 
 # Castlevania: Lords of Shadow 2 https://store.steampowered.com/app/239250/Castlevania_Lords_of_Shadow_2/
 { "name": "CLOS2.exe", "type": "Game" }

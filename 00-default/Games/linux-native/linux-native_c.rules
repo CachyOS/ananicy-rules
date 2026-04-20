@@ -20,7 +20,7 @@
 
 # CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
 { "name": "CarX_Street.x86_64", "type": "Game" }
-{ "name": "eac_launcher", "type": "Game" }
+{ "name": "eac_launcher", "type": "BG_CPUIO" }
 
 # Cassette Beasts https://store.steampowered.com/app/1321440/Cassette_Beasts/
 { "name": "CassetteBeasts.x86_64", "type": "Game" }

@@ -183,7 +183,7 @@
 { "name": "AoW.exe", "type": "Game" }
 
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
-{ "name": "Paradox Launcher.exe", "type": "Game" }
+{ "name": "Paradox Launcher.exe", "type": "BG_CPUIO" }
 { "name": "ResourceED.exe", "type": "Game" }
 { "name": "LevelEd.exe", "type": "Game" }
 { "name": "ResourceBrowser.exe", "type": "Game" }
@@ -540,7 +540,7 @@
 { "name": "tennis2.exe", "type": "Game" }
 
 # APB Reloaded https://store.steampowered.com/app/113400/APB_Reloaded/
-{ "name": "APBLauncher.exe", "type": "Game" }
+{ "name": "APBLauncher.exe", "type": "BG_CPUIO" }
 { "name": "APB.exe", "type": "Game" }
 
 # Aperture Desk Job https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
