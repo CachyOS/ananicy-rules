@@ -5,26 +5,33 @@
 
 ### C ###
 
-# Capsized https://store.steampowered.com/app/95300/Capsized/
-{ "name": "Capsized", "type": "Game" }
-
 # Caliper https://store.steampowered.com/app/581840/Caliper/
 { "name": "Caliper_launcher", "type": "Game" }
 
-# CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
-{ "name": "CarX_Street.x86_64", "type": "Game" }
-{ "name": "eac_launcher", "type": "Game" }
+# Canvas of Kings https://store.steampowered.com/app/2498570/Canvas_of_Kings/
+{ "name": "CanvasOfKings.x86_64", "type": "Game" }
+
+# Capsized https://store.steampowered.com/app/95300/Capsized/
+{ "name": "Capsized", "type": "Game" }
 
 # CARRION https://store.steampowered.com/app/953490/CARRION/
 { "name": "carrion_steam.sh", "type": "Game" }
 { "name": "Carrion", "type": "Game" }
 
+# CarX Street https://store.steampowered.com/app/1114150/CarX_Street/
+{ "name": "CarX_Street.x86_64", "type": "Game" }
+{ "name": "eac_launcher", "type": "Game" }
+
+# Cassette Beasts https://store.steampowered.com/app/1321440/Cassette_Beasts/
+{ "name": "CassetteBeasts.x86_64", "type": "Game" }
+
 # Castle Story https://store.steampowered.com/app/227860/Castle_Story/
 { "name": "castlestory-launcher", "type": "BG_CPUIO" }
 { "name": "Castle Story", "type": "Game" }
 
-# Cassette Beasts https://store.steampowered.com/app/1321440/Cassette_Beasts/
-{ "name": "CassetteBeasts.x86_64", "type": "Game" }
+# Cataclysm: Dark Days Ahead https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/
+{ "name": "cataclysm-tiles", "type": "Game" }
+{ "name": "cataclysm-launcher", "type": "BG_CPUIO" }
 
 # Cat Bait https://store.steampowered.com/app/2929730/Cat_Bait/
 { "name": "CatBait.x86_64", "type": "Game" }
@@ -32,13 +39,6 @@
 # Cattle Country https://store.steampowered.com/app/2818150/Cattle_Country/
 { "name": "CattleCountry", "type": "Game" }
 { "name": "CattleCountry.bin.aarch64", "type": "Game" }
-
-# Cataclysm: Dark Days Ahead https://store.steampowered.com/app/2330750/Cataclysm_Dark_Days_Ahead/
-{ "name": "cataclysm-tiles", "type": "Game" }
-{ "name": "cataclysm-launcher", "type": "BG_CPUIO" }
-
-# Canvas of Kings https://store.steampowered.com/app/2498570/Canvas_of_Kings/
-{ "name": "CanvasOfKings.x86_64", "type": "Game" }
 
 # Caves of Qud https://store.steampowered.com/app/333640/Caves_of_Qud/
 { "name": "CoQ.x86_64", "type": "Game" }
@@ -53,14 +53,14 @@
 # Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
 { "name": "Chained_Echoes.x86_64", "type": "Game" }
 
-# Charlie Murder https://store.steampowered.com/app/405290/Charlie_Murder/
-{ "name": "CharlieMurder", "type": "Game" }
-
 # Champions of Regnum https://store.steampowered.com/app/222520/Champions_of_Regnum/
 { "name": "rolauncher_steam", "type": "Game" }
 
 # Chaos on Deponia https://store.steampowered.com/app/220740/Chaos_on_Deponia/
 { "name": "Deponia2", "type": "Game" }
+
+# Charlie Murder https://store.steampowered.com/app/405290/Charlie_Murder/
+{ "name": "CharlieMurder", "type": "Game" }
 
 # Chasing Tails -A Promise in the Snow- https://store.steampowered.com/app/1555110/Chasing_Tails_A_Promise_in_the_Snow/
 { "name": "ChasingTails", "type": "Game" }
@@ -133,21 +133,24 @@
 # Codename Engine https://github.com/CodenameCrew/CodenameEngine/
 { "name": "CodenameEngine", "type": "Game" }
 
-# Coloring Pixels https://store.steampowered.com/app/897330/Coloring_Pixels/
-{ "name": "ColoringPixels", "type": "Game" }
+# Coin Pusher Casino https://store.steampowered.com/app/2178590/Coin_Pusher_Casino/
+{ "name": "Coin Pusher Casino", "type": "Game" }
 
 # Colony Survival https://store.steampowered.com/app/366090/Colony_Survival/
 { "name": "colonyclient.x86", "type": "Game" }
 { "name": "colonyclient.x86_64", "type": "Game" }
 
+# Coloring Pixels https://store.steampowered.com/app/897330/Coloring_Pixels/
+{ "name": "ColoringPixels", "type": "Game" }
+
 # Combat Master: Season 5 https://store.steampowered.com/app/2281730/Combat_Master_Season_5/
 { "name" : "CombatMaster.x86_64","type": "Game"}
 
-# Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
-{ "name": "Linux.x64", "type": "Game" }
-
 # Comedy Night https://store.steampowered.com/app/665360/Comedy_Night/
 { "name": "Comedy Night.x86_64", "type": "Game" }
+
+# Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
+{ "name": "Linux.x64", "type": "Game" }
 
 # Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name" : "CompanyOfHeroes2","type": "Game"}
@@ -170,9 +173,6 @@
 
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "CortexCommandHaxLoader", "type": "Game" }
-
-# Coin Pusher Casino https://store.steampowered.com/app/2178590/Coin_Pusher_Casino/
-{ "name": "Coin Pusher Casino", "type": "Game" }
 
 # Cossacks 3 https://store.steampowered.com/app/333420/Cossacks_3/
 { "name": "cossacks", "type": "Game" }

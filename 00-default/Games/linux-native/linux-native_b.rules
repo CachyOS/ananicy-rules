@@ -15,9 +15,6 @@
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
 
-# Bao Bao's Cozy Laundromat https://store.steampowered.com/app/3194550/Bao_Baos_Cozy_Laundromat/
-{ "name": "BaoBao-Linux-Build.x86_64", "type": "Game" }
-
 # Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
 { "name": "BALDI.x86_64", "type": "Game" }
 
@@ -29,6 +26,9 @@
 
 # Banana https://store.steampowered.com/app/2923300/Banana/
 { "name": "Banana.x86_64", "type": "Game" }
+
+# Bao Bao's Cozy Laundromat https://store.steampowered.com/app/3194550/Bao_Baos_Cozy_Laundromat/
+{ "name": "BaoBao-Linux-Build.x86_64", "type": "Game" }
 
 # Barony https://store.steampowered.com/app/371970/Barony/
 { "name": "barony.x86_64", "type": "Game" }

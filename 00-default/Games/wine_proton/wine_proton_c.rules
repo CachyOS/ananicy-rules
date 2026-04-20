@@ -8,17 +8,14 @@
 # CABAL Online https://store.steampowered.com/app/253490/CABAL_Online/
 { "name": "cabal.exe", "type": "Game" }
 
-# Cable Guardian https://store.steampowered.com/app/1208080/Cable_Guardian/
-{ "name": "CableGuardian.exe", "type": "Game" }
-
 # Cabernet https://store.steampowered.com/app/2401410/Cabernet/
 { "name": "Cabernet.exe", "type": "Game"}
 
+# Cable Guardian https://store.steampowered.com/app/1208080/Cable_Guardian/
+{ "name": "CableGuardian.exe", "type": "Game" }
+
 # Cadria Item Shop https://store.steampowered.com/app/883860/Cadria_Item_Shop/
 { "name": "Cadria.exe", "type": "Game" }
-
-# Cakey's Twisted Bakery https://store.steampowered.com/app/3028500/Cakeys_Twisted_Bakery/
-{ "name": "Cakey's Twisted Bakery.exe", "type": "Game" }
 
 # Caesar 3 https://store.steampowered.com/app/517790/Caesar_3/
 { "name": "c3.exe", "type": "Game" }
@@ -32,6 +29,12 @@
 
 # Cairn https://store.steampowered.com/app/1588550/Cairn/
 { "name": "Cairn.exe", "type": "Game" }
+
+# Cakey's Twisted Bakery https://store.steampowered.com/app/3028500/Cakeys_Twisted_Bakery/
+{ "name": "Cakey's Twisted Bakery.exe", "type": "Game" }
+
+# Caliper https://store.steampowered.com/app/581840/Caliper/
+{ "name": "Caliper_launcher.exe", "type": "Game" }
 
 # Call of Cthulhu https://store.steampowered.com/app/399810/Call_of_Cthulhu/
 { "name": "CallOfCthulhu.exe", "type": "Game" }
@@ -60,9 +63,6 @@
 # Call of Duty: Black Ops https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
 { "name": "BlackOps.exe", "type": "Game" }
 
-# Call of Duty: Black Ops - Multiplayer https://store.steampowered.com/app/42700/
-{ "name": "BlackOpsMP.exe", "type": "Game" }
-
 # Call of Duty: Black Ops 4 https://us.shop.battle.net/en-us/family/call-of-duty-black-ops-4
 { "name": "BlackOps4.exe", "type": "Game" }
 
@@ -70,13 +70,18 @@
 { "name": "BlackOpsColdWar.exe", "type": "Game" }
 
 # Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
+
+
+# Call of Duty: Black Ops III https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
+{ "name": "BlackOps3.exe", "type": "Game" }
+
 # Call of Duty: Black Ops II - Multiplayer https://store.steampowered.com/app/202970/
 { "name": "t6mp.exe", "type": "Game" }
 { "name": "t6sp.exe", "type": "Game" }
 { "name": "t6zm.exe", "type": "Game" }
 
-# Call of Duty: Black Ops III https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
-{ "name": "BlackOps3.exe", "type": "Game" }
+# Call of Duty: Black Ops - Multiplayer https://store.steampowered.com/app/42700/
+{ "name": "BlackOpsMP.exe", "type": "Game" }
 
 # Call of Duty: Ghosts https://store.steampowered.com/app/209160/Call_of_Duty_Ghosts/
 { "name": "iw6sp64_ship.exe", "type": "Game" }
@@ -91,6 +96,8 @@
 { "name": "ModernWarfare.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare 2 (2009) https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
+
+
 # Call of Duty: Modern Warfare 2 (2009) - Multiplayer https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
 { "name": "iw4sp.exe", "type": "Game" }
 { "name": "iw4mp.exe", "type": "Game" }
@@ -98,14 +105,14 @@
 # Call of Duty: Modern Warfare 2 Campaign Remastered https://us.shop.battle.net/en-us/product/call-of-duty-modern-warfare-2-campaign-remastered
 { "name": "MW2CR.exe", "type": "Game" }
 
+# Call of Duty: Modern Warfare 3 (2011) https://store.steampowered.com/app/115300/
+{ "name": "iw5sp.exe", "type": "Game" }
+
 # Call of Duty: Modern Warfare II https://store.steampowered.com/app/3595230/Call_of_Duty_Modern_Warfare_II/
 { "name": "cod22-cod.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare III https://store.steampowered.com/app/3595270/Call_of_Duty_Modern_Warfare_III/
 { "name": "cod23-cod.exe", "type": "Game" }
-
-# Call of Duty: Modern Warfare 3 (2011) https://store.steampowered.com/app/115300/
-{ "name": "iw5sp.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare Remastered (2017) https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/
 { "name": "h1_sp64_ship.exe", "type": "Game" }
@@ -113,6 +120,9 @@
 # Call of Duty: United Offensive https://store.steampowered.com/app/2640/Call_of_Duty_United_Offensive/
 { "name": "CoDUOMP.exe", "type": "Game" }
 { "name": "CoDUOSP.exe", "type": "Game" }
+
+# Call of Duty: Vanguard https://store.steampowered.com/app/1985820/
+{ "name": "Vanguard.exe", "type": "Game" }
 
 # Call of Duty: World at War https://store.steampowered.com/app/10090/Call_of_Duty_World_at_War/
 { "name": "CoDWaW.exe", "type": "Game" }
@@ -123,9 +133,6 @@
 
 # Call of Duty: WWII - Multiplayer https://store.steampowered.com/app/476600/
 { "name": "s2_mp64_ship.exe", "type": "Game" }
-
-# Call of Duty: Vanguard https://store.steampowered.com/app/1985820/
-{ "name": "Vanguard.exe", "type": "Game" }
 
 # Call of Juarez https://store.steampowered.com/app/3020/Call_of_Juarez/
 { "name": "CoJ.exe", "type": "Game" }
@@ -139,9 +146,6 @@
 # Call of Juarez: Gunslinger https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/
 { "name": "CoJGunslinger.exe", "type": "Game" }
 
-# Call of War https://store.steampowered.com/app/672680/Supremacy_Call_of_War_1942/
-{ "name": "Call of War.exe", "type": "Game" }
-
 # Call of the Sea https://store.steampowered.com/app/1042490/Call_of_the_Sea/
 { "name": "COTS.exe", "type": "Game"}
 { "name": "BlueCode-Win64-Shipping.exe", "type": "Game"}
@@ -151,27 +155,27 @@
 { "name": "CotWTheAngler_Steam_P.exe", "type": "Game" }
 { "name": "CotWTheAngler_Steam_R.exe", "type": "Game" }
 
-# Caliper https://store.steampowered.com/app/581840/Caliper/
-{ "name": "Caliper_launcher.exe", "type": "Game" }
+# Call of War https://store.steampowered.com/app/672680/Supremacy_Call_of_War_1942/
+{ "name": "Call of War.exe", "type": "Game" }
 
 # Calyx https://store.steampowered.com/app/3211850/Calyx/
 { "name": "Calyx.exe", "type": "Game"}
 { "name": "Calyx-Win64-Shipping.exe", "type": "Game"}
 
-# Canyon Capers https://store.steampowered.com/app/275490/Canyon_Capers/
-{ "name": "CanyonCapers.exe", "type": "Game" }
+# Campus Legends College Basketball https://store.steampowered.com/app/3126980/Campus_Legends_College_Basketball/
+{ "name": "CLCB.exe", "type": "Game" }
 
 # Canvas of Kings https://store.steampowered.com/app/2498570/Canvas_of_Kings/
 { "name": "CanvasOfKings.exe", "type": "Game" }
 
-# Campus Legends College Basketball https://store.steampowered.com/app/3126980/Campus_Legends_College_Basketball/
-{ "name": "CLCB.exe", "type": "Game" }
-
-# Capcom Arcade Stadium https://store.steampowered.com/app/1515950/Capcom_Arcade_Stadium/
-{ "name": "CapcomArcadeStadium.exe", "type": "Game" }
+# Canyon Capers https://store.steampowered.com/app/275490/Canyon_Capers/
+{ "name": "CanyonCapers.exe", "type": "Game" }
 
 # Capcom Arcade 2nd Stadium https://store.steampowered.com/app/1755910/Capcom_Arcade_2nd_Stadium/
 { "name": "CapcomArcade2ndStadium.exe", "type": "Game" }
+
+# Capcom Arcade Stadium https://store.steampowered.com/app/1515950/Capcom_Arcade_Stadium/
+{ "name": "CapcomArcadeStadium.exe", "type": "Game" }
 
 # Capcom Beat 'Em Up Bundle https://store.steampowered.com/app/885150/Capcom_Beat_Em_Up_Bundle/
 { "name": "CBEUB.exe", "type": "Game" }
@@ -198,6 +202,9 @@
 # Carcassonne - Tiles & Tactics https://store.steampowered.com/app/598810/Carcassonne__Tiles__Tactics/
 { "name": "Carcassonne.exe", "type": "Game" }
 
+# Card Creator https://store.steampowered.com/app/523600/Card_Creator/
+{ "name": "CardCreator.exe", "type": "Game" }
+
 # Car Dealer Simulator https://store.steampowered.com/app/2404880/Car_Dealer_Simulator/
 { "name": "CarDealerSimulator.exe", "type": "Game"}
 { "name": "CarDealerSimulator-Win64-Shipping.exe", "type": "Game"}
@@ -205,24 +212,21 @@
 # Cardfight!! Vanguard Dear Days https://store.steampowered.com/app/1881420/Cardfight_Vanguard_Dear_Days/
 { "name": "VG2.exe", "type": "Game" }
 
-# Card Creator https://store.steampowered.com/app/523600/Card_Creator/
-{ "name": "CardCreator.exe", "type": "Game" }
-
 # Card Hunter https://store.steampowered.com/app/293260/Card_Hunter/
 { "name": "CardHunter.exe", "type": "Game" }
+
+# Card Rogue https://store.steampowered.com/app/3107620/Card_Rogue/
+{ "name": "CardRogue.exe", "type": "Game" }
 
 # Card Shop Simulator Multiplayer https://store.steampowered.com/app/3569500/Card_Shop_Simulator_Multiplayer/
 { "name": "Peak.exe", "type": "Game"}
 { "name": "Peak-Win64-Shipping.exe", "type": "Game"}
 
-# Card Survival: Tropical Island https://store.steampowered.com/app/1694420/Card_Survival_Tropical_Island/
-{ "name": "Card Survival - Tropical Island.exe", "type": "Game" }
-
-# Card Rogue https://store.steampowered.com/app/3107620/Card_Rogue/
-{ "name": "CardRogue.exe", "type": "Game" }
-
 # Card Survival: Fantasy Forest https://store.steampowered.com/app/2868860/Card_Survival_Fantasy_Forest/
 { "name": "Card Survival - Fantasy Forest.exe", "type": "Game" }
+
+# Card Survival: Tropical Island https://store.steampowered.com/app/1694420/Card_Survival_Tropical_Island/
+{ "name": "Card Survival - Tropical Island.exe", "type": "Game" }
 
 # Car For Sale Simulator 2023 https://store.steampowered.com/app/2248760/Car_For_Sale_Simulator_2023/
 { "name": "Car For Sale Simulator 2023.exe", "type": "Game" }
@@ -267,13 +271,13 @@
 # Car Service Together https://store.steampowered.com/app/3501070/Car_Service_Together/
 { "name": "CarServiceTogether.exe", "type": "Game"}
 
-# Carto https://store.steampowered.com/app/1172450/Carto/
-{ "name": "Carto.exe", "type": "Game" }
-
 # Cartel Tycoon https://store.steampowered.com/app/1220140/Cartel_Tycoon/
 { "name": "CartelTycoon.exe", "type": "Game" }
 { "name": "CartelTycoon-Win64-Shipping.exe", "type": "Game" }
 { "name": "Cartel Tycoon Launcher.exe", "type": "BG_CPUIO" }
+
+# Carto https://store.steampowered.com/app/1172450/Carto/
+{ "name": "Carto.exe", "type": "Game" }
 
 # CarX Drift Racing Online https://store.steampowered.com/app/635260/CarX_Drift_Racing_Online/
 { "name": "Drift Racing Online.exe", "type": "Game"}
@@ -282,18 +286,18 @@
 { "name": "CarX Street Launcher.exe", "type": "Game" }
 { "name": "CarX Street.exe", "type": "Game" }
 
-# CaseCracker https://store.steampowered.com/app/1723260/CaseCracker/
-{ "name": "CaseCracker.exe", "type": "Game" }
-
 # CASE 2: Animatronics Survival https://store.steampowered.com/app/722960/CASE_2_Animatronics_Survival/
 { "name": "Case2.exe", "type": "Game" }
 
-# Cassette Beasts https://store.steampowered.com/app/1321440/Cassette_Beasts/
-{ "name": "CassetteBeasts.exe", "type": "Game" }
+# CaseCracker https://store.steampowered.com/app/1723260/CaseCracker/
+{ "name": "CaseCracker.exe", "type": "Game" }
 
 # Cash Cleaner Simulator https://store.steampowered.com/app/2488370/Cash_Cleaner_Simulator/
 { "name": "CashCleanerSim.exe", "type": "Game"}
 { "name": "CashCleanerSim-Win64-Shipping.exe", "type": "Game"}
+
+# Cassette Beasts https://store.steampowered.com/app/1321440/Cassette_Beasts/
+{ "name": "CassetteBeasts.exe", "type": "Game" }
 
 # Caster https://store.steampowered.com/app/29800/Caster/
 { "name": "Caster.exe", "type": "Game" }
@@ -338,9 +342,6 @@
 # Catan Universe https://store.steampowered.com/app/544730/Catan_Universe/
 { "name": "CatanUniverse.exe", "type": "Game" }
 
-# Cat & Farm Pals https://store.steampowered.com/app/3181470/Cat__Farm_Pals/
-{ "name": "catfarmpals.exe", "type": "Game" }
-
 # Cat Bait https://store.steampowered.com/app/2929730/Cat_Bait/
 { "name": "CatBait.exe", "type": "Game" }
 { "name": "CatBait_x32.exe", "type": "Game" }
@@ -348,14 +349,23 @@
 # Cat Cafe Manager https://store.steampowered.com/app/1354830/Cat_Cafe_Manager/
 { "name": "catcafe.exe", "type": "Game" }
 
+# Cat & Farm Pals https://store.steampowered.com/app/3181470/Cat__Farm_Pals/
+{ "name": "catfarmpals.exe", "type": "Game" }
+
 # Cat God Ranch https://store.steampowered.com/app/2797340/Cat_God_Ranch/
 { "name": "CatGodRanch.exe", "type": "Game" }
 
 # Cat Goes Fishing https://store.steampowered.com/app/343780/Cat_Goes_Fishing/
 { "name": "Cat Goes Fishing.exe", "type": "Game" }
 
-# CatTuber https://store.steampowered.com/app/1337970/CatTuber/
-{ "name": "CatTuber.exe", "type": "Game" }
+# Catherine Classic https://store.steampowered.com/app/893180/Catherine_Classic/
+{ "name": "Catherine.exe", "type": "Game" }
+
+# Cat Quest II https://store.steampowered.com/app/914710/Cat_Quest_II/
+{ "name": "Cat Quest II.exe", "type": "Game" }
+
+# Cats Organized Neatly https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/
+{ "name": "Cats Organized Neatly.exe", "type": "Game" }
 
 # Cattails: Wildwood Story https://store.steampowered.com/app/1882500/Cattails_Wildwood_Story/
 { "name": "Cattails - Wildwood Story.exe", "type": "Game" }
@@ -363,23 +373,17 @@
 # Cattle Country https://store.steampowered.com/app/2818150/Cattle_Country/
 { "name": "Cattle Country.exe", "type": "Game" }
 
-# Catherine Classic https://store.steampowered.com/app/893180/Catherine_Classic/
-{ "name": "Catherine.exe", "type": "Game" }
+# CatTuber https://store.steampowered.com/app/1337970/CatTuber/
+{ "name": "CatTuber.exe", "type": "Game" }
 
-# Cats Organized Neatly https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/
-{ "name": "Cats Organized Neatly.exe", "type": "Game" }
-
-# Cat Quest II https://store.steampowered.com/app/914710/Cat_Quest_II/
-{ "name": "Cat Quest II.exe", "type": "Game" }
+# Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
+{ "name": "KairoGames.exe", "type": "Game" }
 
 # Caves of Qud https://store.steampowered.com/app/333640/Caves_of_Qud/
 { "name": "CoQ.exe", "type": "Game"}
 
 # Cave Story+ https://store.steampowered.com/app/200900/Cave_Story/
 { "name": "CaveStory+.exe", "type": "Game" }
-
-# Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
-{ "name": "KairoGames.exe", "type": "Game" }
 
 # Celebrity Kombat https://store.steampowered.com/app/2240390/Celebrity_Kombat/
 { "name": "CelebrityKombat.exe", "type": "Game" }
@@ -390,12 +394,12 @@
 # Cell to Singularity - Evolution Never Ends https://store.steampowered.com/app/977400/Cell_to_Singularity__Evolution_Never_Ends/
 { "name": "CellToSingularity.exe", "type": "Game" }
 
-# Century: Age of Ashes https://store.steampowered.com/app/918570/Century_Age_of_Ashes/
-{ "name": "Century-Win64-Shipping.exe", "type": "Game" }
-
 # Center Station Simulator https://store.steampowered.com/app/2823890/Center_Station_Simulator/
 { "name": "CenterStationV1.exe", "type": "Game" }
 { "name": "CenterStationV1-Win64-Shipping.exe", "type": "Game" }
+
+# Century: Age of Ashes https://store.steampowered.com/app/918570/Century_Age_of_Ashes/
+{ "name": "Century-Win64-Shipping.exe", "type": "Game" }
 
 # Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
 { "name": "Chained Echoes.exe", "type": "Game" }
@@ -403,9 +407,6 @@
 # Chained Together https://store.steampowered.com/app/2567870/Chained_Together/
 { "name": "ChainedTogether.exe", "type": "Game"}
 { "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
-
-# Charlie Murder https://store.steampowered.com/app/405290/Charlie_Murder/
-{ "name": "CharlieMurder.exe", "type": "Game" }
 
 # Champions of Regnum https://store.steampowered.com/app/222520/Champions_of_Regnum/
 { "name": "rolaunchersteam.exe", "type": "Game" }
@@ -420,6 +421,9 @@
 # Chaos on Deponia https://store.steampowered.com/app/220740/Chaos_on_Deponia/
 { "name": "Deponia2.exe", "type": "Game" }
 
+# Charlie Murder https://store.steampowered.com/app/405290/Charlie_Murder/
+{ "name": "CharlieMurder.exe", "type": "Game" }
+
 # Chaser https://store.steampowered.com/app/39670/Chaser/
 { "name": "Chaser.exe", "type": "Game" }
 
@@ -428,9 +432,6 @@
 
 # Chasm https://store.steampowered.com/app/312200/Chasm/
 { "name": "Chasm.exe", "type": "Game" }
-
-# ChessBase 16 Steam Edition https://store.steampowered.com/app/1497080/ChessBase_16_Steam_Edition/
-{ "name": "CBase16.exe", "type": "Game" }
 
 # Chef Life: A Restaurant Simulator https://store.steampowered.com/app/1122340/Chef_Life_A_Restaurant_Simulator/
 { "name": "Chef Life  A Restaurant Simulator.exe", "type": "Game"}
@@ -444,6 +445,9 @@
 # Chernobylite Complete Edition https://store.steampowered.com/app/1016800/Chernobylite_Complete_Edition/
 { "name": "ChernobylGame.exe", "type": "Game" }
 
+# ChessBase 16 Steam Edition https://store.steampowered.com/app/1497080/ChessBase_16_Steam_Edition/
+{ "name": "CBase16.exe", "type": "Game" }
+
 # Chicken Invaders Universe https://store.steampowered.com/app/1510460/Chicken_Invaders_Universe/
 { "name": "CIU.exe", "type": "Game" }
 
@@ -456,6 +460,9 @@
 # Children of Silentown https://store.steampowered.com/app/1108000/Children_of_Silentown/
 { "name": "ChildrenOfSilentown.exe", "type": "Game" }
 
+# ChilloutVR https://store.steampowered.com/app/661130/ChilloutVR/
+{ "name": "ChilloutVR.exe", "type": "Game" }
+
 # Chill Pulse https://store.steampowered.com/app/2826180/Chill_Pulse/
 { "name": "ChillPulse.exe", "type": "Game" }
 
@@ -464,9 +471,6 @@
 
 # Chill with You : Lo-Fi Story https://store.steampowered.com/app/3548580/Chill_with_You__LoFi_Story/
 { "name": "Chill With You.exe", "type": "Game"}
-
-# ChilloutVR https://store.steampowered.com/app/661130/ChilloutVR/
-{ "name": "ChilloutVR.exe", "type": "Game" }
 
 # Chinese Online Game https://store.steampowered.com/app/1416920/Chinese_Online_Game/
 { "name": "MMOSimulator.exe", "type": "Game" }
@@ -567,15 +571,15 @@
 # City Life 2008 https://store.steampowered.com/app/4460/City_Life_2008/
 { "name": "cld.exe", "type": "Game"}
 
+# City of Gangsters https://store.steampowered.com/app/1386780/City_of_Gangsters/
+{ "name": "CoG.exe", "type": "Game" }
+
 # City Tales - Medieval Era https://store.steampowered.com/app/3265070/City_Tales__Medieval_Era/
 { "name": "City Tales.exe", "type": "Game" }
 
 # City Transport Simulator https://store.steampowered.com/app/2604480/City_Transport_Simulator/
 { "name": "TramSimNext.exe", "type": "Game" }
 { "name": "TramSimNext-Win64-Shipping.exe", "type": "Game" }
-
-# City of Gangsters https://store.steampowered.com/app/1386780/City_of_Gangsters/
-{ "name": "CoG.exe", "type": "Game" }
 
 # Civilization IV: Beyond the Sword https://store.steampowered.com/app/8800/Civilization_IV_Beyond_the_Sword/
 { "name": "Civ4BeyondSword.exe", "type": "Game"}
@@ -598,21 +602,18 @@
 { "name": "Clash.exe", "type": "Game" }
 { "name": "Clash-Win64-Shipping.exe", "type": "Game" }
 
+# ClassiCube https://steamdb.info/app/1065710/
+{ "name": "ClassiCube.exe", "type": "Game" }
+
 # Class of '09 https://store.steampowered.com/app/1443200/Class_of_09/
 { "name": "Class_Of_09.exe", "type": "Game" }
 { "name": "Class_Of_09-32.exe", "type": "Game" }
 
-# Class of '09: The Re-Up https://store.steampowered.com/app/2318310/Class_of_09_The_ReUp/
-{ "name": "C09RU.exe", "type": "Game" }
-
 # Class of '09: The Flip Side https://store.steampowered.com/app/2757330/Class_of_09_The_Flip_Side/
 { "name": "C09FS.exe", "type": "Game" }
 
-# Clickteam Fusion 2.5 https://store.steampowered.com/app/248170/Clickteam_Fusion_25/
-{ "name": "mmf2u.exe", "type": "Game" }
-
-# ClassiCube https://steamdb.info/app/1065710/
-{ "name": "ClassiCube.exe", "type": "Game" }
+# Class of '09: The Re-Up https://store.steampowered.com/app/2318310/Class_of_09_The_ReUp/
+{ "name": "C09RU.exe", "type": "Game" }
 
 # Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
 { "name": "ClearedHot.exe", "type": "Game"}
@@ -626,17 +627,20 @@
 # CLICKOLDING https://store.steampowered.com/app/3011440/CLICKOLDING/
 { "name": "Clickold.exe", "type": "Game" }
 
+# Clickteam Fusion 2.5 https://store.steampowered.com/app/248170/Clickteam_Fusion_25/
+{ "name": "mmf2u.exe", "type": "Game" }
+
 # Climber Animals: Together https://store.steampowered.com/app/2744880/Climber_Animals_Together/
 { "name": "Climber Animals Together.exe", "type": "Game"}
 
 # Clockwork Tales: Of Glass and Ink https://store.steampowered.com/app/284830/Clockwork_Tales_Of_Glass_and_Ink/
 { "name": "ClockworkTales_OfGlassAndInk.exe", "type": "Game" }
 
-# Clothing Store Simulator https://store.steampowered.com/app/2923390/Clothing_Store_Simulator/
-{ "name": "Clothing Store Simulator.exe", "type": "Game" }
-
 # Clone Drone in the Danger Zone https://store.steampowered.com/app/597170/Clone_Drone_in_the_Danger_Zone/
 { "name": "Clone Drone in the Danger Zone.exe", "type": "Game" }
+
+# Clothing Store Simulator https://store.steampowered.com/app/2923390/Clothing_Store_Simulator/
+{ "name": "Clothing Store Simulator.exe", "type": "Game" }
 
 # Cloudheim https://store.steampowered.com/app/2070270/Cloudheim/
 { "name": "CloudheimSteam.exe", "type": "Game"}
@@ -690,6 +694,15 @@
 # Cogmind https://store.steampowered.com/app/722730/Cogmind/
 { "name": "COGMIND.exe", "type": "Game" }
 
+# Coin Flipper https://store.steampowered.com/app/2153770/Coin_Flipper/
+{ "name": "Coin Flipper.exe", "type": "Game" }
+
+# Coin Pusher Casino https://store.steampowered.com/app/2178590/Coin_Pusher_Casino/
+{ "name": "Coin Pusher Casino.exe", "type": "Game" }
+
+# Coin Pusher World https://store.steampowered.com/app/1697460/Coin_Pusher_World/
+{ "name": "CoinPusherWorld.exe", "type": "Game" }
+
 # Cold Fear https://store.steampowered.com/app/15270/Cold_Fear/
 { "name": "coldfear_retail.exe", "type": "Game" }
 
@@ -710,15 +723,6 @@
 
 # Colt Canyon https://store.steampowered.com/app/940710/Colt_Canyon/
 { "name": "ColtCanyon.exe", "type": "Game" }
-
-# Coin Flipper https://store.steampowered.com/app/2153770/Coin_Flipper/
-{ "name": "Coin Flipper.exe", "type": "Game" }
-
-# Coin Pusher Casino https://store.steampowered.com/app/2178590/Coin_Pusher_Casino/
-{ "name": "Coin Pusher Casino.exe", "type": "Game" }
-
-# Coin Pusher World https://store.steampowered.com/app/1697460/Coin_Pusher_World/
-{ "name": "CoinPusherWorld.exe", "type": "Game" }
 
 # Combat Master: Season 5 https://store.steampowered.com/app/2281730/Combat_Master_Season_5/
 { "name" : "CombatMaster.exe","type": "Game"}
@@ -764,12 +768,12 @@
 # Commander Quest https://store.steampowered.com/app/2697930/Commander_Quest/
 { "name": "CommanderGame.exe", "type": "Game" }
 
-# Commandos 2: Men of Courage https://store.steampowered.com/app/6830/Commandos_2_Men_of_Courage/
-{ "name": "comm2.exe", "type": "Game" }
-
 # Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
 { "name": "Commandos HD.exe", "type": "Game" }
 { "name": "KalypsoLauncher.exe", "type": "BG_CPUIO" }
+
+# Commandos 2: Men of Courage https://store.steampowered.com/app/6830/Commandos_2_Men_of_Courage/
+{ "name": "comm2.exe", "type": "Game" }
 
 # Commandos 3: Destination Berlin https://store.steampowered.com/app/6840/Commandos_3_Destination_Berlin/
 { "name": "commandos3.exe", "type": "Game" }
@@ -793,11 +797,11 @@
 # Conan Exiles https://store.steampowered.com/app/440900/Conan_Exiles/
 { "name": "FuncomLauncher.exe", "type": "Game" }
 
-# CONERU -DIMENSION GIRL- https://store.steampowered.com/app/2600700/CONERU_DIMENSION_GIRL/
-{ "name": "CONERU -DIMENSION GIRL-.exe", "type": "Game" }
-
 # Condemned: Criminal Origins https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/
 { "name": "Condemned.exe", "type": "Game" }
+
+# CONERU -DIMENSION GIRL- https://store.steampowered.com/app/2600700/CONERU_DIMENSION_GIRL/
+{ "name": "CONERU -DIMENSION GIRL-.exe", "type": "Game" }
 
 # Conflict Desert Storm https://store.steampowered.com/app/211780/Conflict_Desert_Storm/
 { "name": "DesertStorm.exe", "type": "Game" }
@@ -847,13 +851,13 @@
 # Contrast https://store.steampowered.com/app/224460/Contrast/
 { "name": "ContrastGame.exe", "type": "Game" }
 
+# Controller Companion https://store.steampowered.com/app/367670/Controller_Companion/
+{ "name": "ControllerCompanion.exe", "type": "Game" }
+
 # Control Ultimate Edition https://store.steampowered.com/app/870780/Control_Ultimate_Edition/
 { "name": "Control.exe", "type": "Game" }
 { "name": "Control_DX11.exe", "type": "Game" }
 { "name": "Control_DX12.exe", "type": "Game" }
-
-# Controller Companion https://store.steampowered.com/app/367670/Controller_Companion/
-{ "name": "ControllerCompanion.exe", "type": "Game" }
 
 # Cookie Clicker https://store.steampowered.com/app/1454400/Cookie_Clicker/
 { "name": "Cookie Clicker.exe", "type": "Game"}
@@ -884,11 +888,11 @@
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper.exe", "type": "Game" }
 
-# Cornerpond https://store.steampowered.com/app/3454590/Cornerpond/
-{ "name": "Cornerpond.exe", "type": "Game" }
-
 # Corner Kitchen Fast Food Simulator https://store.steampowered.com/app/3357250/Corner_Kitchen_Fast_Food_Simulator/
 { "name": "Street Food Simulator.exe", "type": "Game" }
+
+# Cornerpond https://store.steampowered.com/app/3454590/Cornerpond/
+{ "name": "Cornerpond.exe", "type": "Game" }
 
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "Cortex Command.exe", "type": "Game" }
@@ -929,6 +933,9 @@
 # Cozy Grove https://store.steampowered.com/app/1458100/Cozy_Grove/
 { "name": "CozyGrove.exe", "type": "Game" }
 
+# CPUCores :: Maximize Your FPS https://store.steampowered.com/app/384300/CPUCores__Maximize_Your_FPS/
+{ "name": "cpucores.exe", "type": "Game" }
+
 # Crab Champions https://store.steampowered.com/app/774801/Crab_Champions/
 { "name": "CrabChampions.exe", "type": "Game" }
 
@@ -938,17 +945,17 @@
 # CraftCraft: Fantasy Merchant Simulator https://store.steampowered.com/app/2226430/CraftCraft_Fantasy_Merchant_Simulator/
 { "name": "CraftCraft.exe", "type": "Game"}
 
-# Craft The World https://store.steampowered.com/app/248390/Craft_The_World/
-{ "name": "CraftWorld.exe", "type": "Game" }
-
-# Crafty Survivors https://store.steampowered.com/app/2137760/Crafty_Survivors/
-{ "name": "CraftySurvivors.exe", "type": "Game" }
-
 # Crafting Idle Clicker https://store.steampowered.com/app/1250790/Crafting_Idle_Clicker/
 { "name": "Crafting Idle Clicker.exe", "type": "Game" }
 
 # Craftopia https://store.steampowered.com/app/1307550/Craftopia/
 { "name": "Craftopia.exe", "type": "Game" }
+
+# Craft The World https://store.steampowered.com/app/248390/Craft_The_World/
+{ "name": "CraftWorld.exe", "type": "Game" }
+
+# Crafty Survivors https://store.steampowered.com/app/2137760/Crafty_Survivors/
+{ "name": "CraftySurvivors.exe", "type": "Game" }
 
 # Crash Bandicoot 4: It’s About Time https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/
 { "name": "CrashBandicoot4.exe", "type": "Game" }
@@ -962,11 +969,11 @@
 # Crashlands 2 https://store.steampowered.com/app/1401730/Crashlands_2/
 { "name": "Crashlands2.exe", "type": "Game" }
 
-# Crash Time 2 https://store.steampowered.com/app/11390/Crash_Time_2/
-{ "name": "BurningWheels.exe", "type": "Game" }
-
 # Crashphalt https://store.steampowered.com/app/921700/Crashphalt/
 { "name": "Crashphalt.exe", "type": "Game" }
+
+# Crash Time 2 https://store.steampowered.com/app/11390/Crash_Time_2/
+{ "name": "BurningWheels.exe", "type": "Game" }
 
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "crea.exe", "type": "Game" }
@@ -1054,11 +1061,11 @@
 # Cross Blitz https://store.steampowered.com/app/1619520/Cross_Blitz/
 { "name": "Cross Blitz.exe", "type": "Game" }
 
-# Crosshair X https://store.steampowered.com/app/1366800/Crosshair_X/
-{ "name": "CrosshairX.exe", "type": "Game" }
-
 # CrossCode https://store.steampowered.com/app/368340/CrossCode/
 { "name": "CrossCode.exe", "type": "Game" }
+
+# Crosshair X https://store.steampowered.com/app/1366800/Crosshair_X/
+{ "name": "CrosshairX.exe", "type": "Game" }
 
 # Crossout https://store.steampowered.com/app/386180/Crossout/
 { "name": "Crossout_BE.exe", "type": "Game" }
@@ -1079,6 +1086,9 @@
 # CRSED: F.O.A.D. https://store.steampowered.com/app/884660/CRSED_Cuisine_Royale/
 { "name": "cuisine_royale_BE.exe", "type": "Game" }
 
+# CRUEL https://store.steampowered.com/app/2689470/CRUEL/
+{ "name": "Cruel.exe", "type": "Game" }
+
 # Cruelty Squad https://store.steampowered.com/app/1388770/Cruelty_Squad/
 { "name": "crueltysquad.exe", "type": "Game" }
 { "name": "crueltysquad32.exe", "type": "Game" }
@@ -1095,9 +1105,6 @@
 # Crusaders of the Lost Idols https://store.steampowered.com/app/402840/Crusaders_of_the_Lost_Idols/
 { "name": "Crusaders of the Lost Idols.exe", "type": "Game" }
 { "name": "CrusadersSteam.exe", "type": "Game" }
-
-# CRUEL https://store.steampowered.com/app/2689470/CRUEL/
-{ "name": "Cruel.exe", "type": "Game" }
 
 # Crush Crush https://store.steampowered.com/app/459820/Crush_Crush/
 { "name": "CrushCrush.exe", "type": "Game" }
@@ -1172,9 +1179,6 @@
 
 # Curse of the Dead Gods https://store.steampowered.com/app/1123770/Curse_of_the_Dead_Gods/
 { "name": "Curse of the Dead Gods.exe", "type": "Game"}
-
-# CPUCores :: Maximize Your FPS https://store.steampowered.com/app/384300/CPUCores__Maximize_Your_FPS/
-{ "name": "cpucores.exe", "type": "Game" }
 
 # Cyber Hook https://store.steampowered.com/app/1130410/Cyber_Hook/
 { "name": "CyberHook.exe", "type": "Game" }

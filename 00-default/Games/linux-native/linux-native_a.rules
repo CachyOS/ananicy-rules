@@ -18,14 +18,14 @@
 { "name": "Abyss_TheWraithsOfEden_amd64", "type": "Game" }
 { "name": "Abyss_TheWraithsOfEden_i386", "type": "Game" }
 
+# Academia : School Simulator https://store.steampowered.com/app/672630/Academia__School_Simulator/
+{ "name": "Academia.x86_64", "type": "Game" }
+
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
 { "name": "Castle.x86_64", "type": "Game" }
 
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 { "name": "AcrossTheObelisk.x86_64", "type": "Game" }
-
-# Academia : School Simulator https://store.steampowered.com/app/672630/Academia__School_Simulator/
-{ "name": "Academia.x86_64", "type": "Game" }
 
 # A Dance of Fire and Ice https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 { "name": "ADanceOfFireAndIce", "type": "Game" }
@@ -40,17 +40,14 @@
 # Adventures of Shuggy https://store.steampowered.com/app/211440/Adventures_of_Shuggy/
 { "name": "Shuggy", "type": "Game" }
 
-# A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
-{ "name": "A Game About Feeding A Black Hole.x86_64", "type": "Game" }
-
-# A Webbing Journey https://store.steampowered.com/app/2073910/A_Webbing_Journey/
-{ "name": "A Webbing Journey.x86_64", "type": "Game" }
-
 # Aerofly FS 4 Flight Simulator https://store.steampowered.com/app/1995890/Aerofly_FS_4_Flight_Simulator/
 { "name": "aerofly_fs_4_x64", "type": "Game" }
 
 # Aeterna Noctis https://store.steampowered.com/app/1517970/Aeterna_Noctis/
 { "name": "Aeterna Noctis.exe", "type": "Game" }
+
+# A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
+{ "name": "A Game About Feeding A Black Hole.x86_64", "type": "Game" }
 
 # Age of History II https://store.steampowered.com/app/603850/Age_of_History_II/
 { "name": "AoC2.jar", "type": "Game" }
@@ -66,11 +63,11 @@
 # A Hat in Time https://store.steampowered.com/app/253230/A_Hat_in_Time/
 { "name": "hatintime.run", "type": "Game" }
 
-# Air Brawl https://store.steampowered.com/app/375600/Air_Brawl/
-{ "name": "Air Brawl.x86", "type": "Game" }
-
 # Airborne Empire https://store.steampowered.com/app/2438680/Airborne_Empire/
 { "name": "AirborneEmpire.exe", "type": "Game" }
+
+# Air Brawl https://store.steampowered.com/app/375600/Air_Brawl/
+{ "name": "Air Brawl.x86", "type": "Game" }
 
 # Airline Tycoon Deluxe https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 { "name": "ATDeluxe", "type": "Game" }
@@ -78,15 +75,15 @@
 # Airships: Conquer the Skies https://store.steampowered.com/app/342560/Airships_Conquer_the_Skies/
 { "name": "Airships", "type": "Game" }
 
+# Ai Vpet https://store.steampowered.com/app/3029820/Ai_Vpet/
+{ "name": "Ai Vpet.exe", "type": "Game" }
+
 # AI War 2 https://store.steampowered.com/app/573410/AI_War_2/
 { "name": "AIWar2Linux.x86_64", "type": "Game" }
 
 # AI War: Fleet Command https://store.steampowered.com/app/40400/AI_War_Fleet_Command/
 { "name": "AIWarLinux.x86", "type": "Game" }
 { "name": "AIWarLinux.x86_64", "type": "Game" }
-
-# Ai Vpet https://store.steampowered.com/app/3029820/Ai_Vpet/
-{ "name": "Ai Vpet.exe", "type": "Game" }
 
 # Albion Online https://store.steampowered.com/app/761890/Albion_Online/
 { "name": "Albion-Online", "type": "Game" }
@@ -143,21 +140,21 @@
 # Among the Sleep - Enhanced Edition https://store.steampowered.com/app/250620/Among_the_Sleep__Enhanced_Edition/
 { "name": "Among the Sleep.x86", "type": "Game" }
 
-# Amorous https://store.steampowered.com/app/778700/Amorous/
-{ "name": "Amorous.Game.Unix.bin.x86", "type": "Game" }
-{ "name": "Amorous.Game.Unix.bin.x86_64", "type": "Game" }
-
 # A Monster's Expedition https://store.steampowered.com/app/1052990/A_Monsters_Expedition/
 { "name": "a-monsters-expedition", "type": "Game" }
 
-# And Yet It Moves https://store.steampowered.com/app/18700/And_Yet_It_Moves/
-{ "name": "AndYetItMoves", "type": "Game" }
+# Amorous https://store.steampowered.com/app/778700/Amorous/
+{ "name": "Amorous.Game.Unix.bin.x86", "type": "Game" }
+{ "name": "Amorous.Game.Unix.bin.x86_64", "type": "Game" }
 
 # An Amazing Wizard https://store.steampowered.com/app/1372660/An_Amazing_Wizard/
 { "name": "An_Amazing_Wizard.x86_64", "type": "Game" }
 
 # Ancient Warfare 3 https://store.steampowered.com/app/758990/Ancient_Warfare_3/
 { "name": "AncientWarfare3.x86_64", "type": "Game" }
+
+# And Yet It Moves https://store.steampowered.com/app/18700/And_Yet_It_Moves/
+{ "name": "AndYetItMoves", "type": "Game" }
 
 # Anna - Extended Edition https://store.steampowered.com/app/217690/Anna__Extended_Edition/
 { "name": "Anna", "type": "Game" }
@@ -197,19 +194,19 @@
 { "name": "armello.x86", "type": "Game" }
 { "name": "armello.x86_64", "type": "Game" }
 
-# art of rally https://store.steampowered.com/app/550320/art_of_rally/
-{ "name": "artofrally.x64", "type": "Game" }
-
 # Artifact Classic https://store.steampowered.com/app/583950/Artifact/
 { "name": "dcg", "type": "Game" }
 { "name": "artifact.sh", "type": "Game" }
 
-# A Short Hike https://store.steampowered.com/app/1055540/A_Short_Hike/
-{ "name": "AShortHike.x86", "type": "Game" }
-{ "name": "AShortHike.x86_64", "type": "Game" }
+# art of rally https://store.steampowered.com/app/550320/art_of_rally/
+{ "name": "artofrally.x64", "type": "Game" }
 
 # Aseprite https://store.steampowered.com/app/431730/Aseprite/
 { "name": "aseprite", "type": "Game" }
+
+# A Short Hike https://store.steampowered.com/app/1055540/A_Short_Hike/
+{ "name": "AShortHike.x86", "type": "Game" }
+{ "name": "AShortHike.x86_64", "type": "Game" }
 
 # Assault Android Cactus+ https://store.steampowered.com/app/250110/Assault_Android_Cactus/
 { "name": "cactus.x86", "type": "Game" }
@@ -243,6 +240,9 @@
 # Avorion https://store.steampowered.com/app/445220/Avorion/
 { "name": "Avorion", "type": "Game" }
 { "name": "AvorionServer", "type": "Game" }
+
+# A Webbing Journey https://store.steampowered.com/app/2073910/A_Webbing_Journey/
+{ "name": "A Webbing Journey.x86_64", "type": "Game" }
 
 # Axiom Verge https://store.steampowered.com/app/332200/Axiom_Verge/
 { "name": "AxiomVerge.bin.x86", "type": "Game" }
