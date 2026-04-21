@@ -86,6 +86,10 @@
 # Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
 { "name": "custom.exe", "type": "Game" }
 
+# DPS IDLE https://store.steampowered.com/app/1349540/DPS_IDLE/
+# Dungeon Painter Studio https://store.steampowered.com/app/592260/Dungeon_Painter_Studio/
+{ "name": "dps.exe", "type": "Game" }
+
 # DARK SOULS II https://store.steampowered.com/app/236430/DARK_SOULS_II/
 # DARK SOULS II: Scholar of the First Sin https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/
 { "name": "DarkSoulsII.exe", "type": "Game" }
@@ -378,6 +382,10 @@
 # King's Bounty: Armored Princess https://store.steampowered.com/app/3170/Kings_Bounty_Armored_Princess/
 { "name": "KB.exe", "type": "Game" }
 
+# Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
+# Dungeon Village 2 https://store.steampowered.com/app/1983710/Dungeon_Village_2/
+{ "name": "KairoGames.exe", "type": "Game" }
+
 # Kingdom Come: Deliverance https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/
 # Kingdom Come: Deliverance II https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/
 { "name": "KingdomCome.exe", "type": "Game" }
@@ -505,12 +513,20 @@
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
 { "name": "nxsteam.exe", "type": "Game" }
 
+# Choo-Choo Charles https://store.steampowered.com/app/1766740/ChooChoo_Charles/
+# Obscure https://store.steampowered.com/app/254460/Obscure/
+{ "name": "Obscure.exe", "type": "Game" }
+
 # 3D audio rendering library
 { "name": "oalinst.exe", "type": "BG_CPUIO" }
 
 # Overlord https://store.steampowered.com/app/11450/Overlord/
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
 { "name": "Overlord.exe", "type": "Game" }
+
+# Pluto https://store.steampowered.com/app/3057670/Pluto/
+# We Gotta Go https://store.steampowered.com/app/3967470/We_Gotta_Go/
+{ "name": "Pluto.exe", "type": "Game" }
 
 # ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
 # PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
@@ -656,6 +672,10 @@
 # Supreme Commander: Forged Alliance https://store.steampowered.com/app/9420/Supreme_Commander_Forged_Alliance/
 # Supreme Commander https://store.steampowered.com/app/9350/Supreme_Commander/
 { "name": "SupremeCommander.exe", "type": "Game" }
+
+# A Tower Full of Cats https://store.steampowered.com/app/2179170/A_Tower_Full_of_Cats/
+# Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
+{ "name": "Tower.exe", "type": "Game" }
 
 # The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
