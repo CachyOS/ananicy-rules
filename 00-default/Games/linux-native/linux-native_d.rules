@@ -5,9 +5,6 @@
 
 ### D ###
 
-# DDNet https://store.steampowered.com/app/412220/DDNet/
-{ "name": "DDNet", "type": "Game" }
-
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 { "name": "Danganronpa2", "type": "Game" }
 { "name": "Danganronpa2_32", "type": "Game" }
@@ -26,12 +23,12 @@
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 { "name": "dod_linux64", "type": "Game" }
 
+# DDNet https://store.steampowered.com/app/412220/DDNet/
+{ "name": "DDNet", "type": "Game" }
+
 # DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
 { "name": "DDNet", "type": "Game" }
 { "name": "DDNet-Server", "type": "Service" }
-
-# Deadly Days https://store.steampowered.com/app/740080/Deadly_Days/
-{ "name": "Deadly Days.x86_64", "type": "Game" }
 
 # Dead Cells https://store.steampowered.com/app/588650/Dead_Cells/
 { "name": "deadcells", "type": "Game" }
@@ -46,9 +43,6 @@
 { "name": "Dead In Vinland.x86", "type": "Game" }
 { "name": "Dead In Vinland.x86_64", "type": "Game" }
 
-# Dead Maze https://store.steampowered.com/app/667890/Dead_Maze/
-{ "name": "DeadMaze", "type": "Game" }
-
 # Dead Island Definitive Edition https://store.steampowered.com/app/383150/
 { "name": "DeadIslandGame", "type": "Game" }
 
@@ -57,6 +51,12 @@
 
 # Deadly 30 https://store.steampowered.com/app/264730/Deadly_30/
 { "name": "Deadly30", "type": "Game" }
+
+# Deadly Days https://store.steampowered.com/app/740080/Deadly_Days/
+{ "name": "Deadly Days.x86_64", "type": "Game" }
+
+# Dead Maze https://store.steampowered.com/app/667890/Dead_Maze/
+{ "name": "DeadMaze", "type": "Game" }
 
 # Dead Pixels https://store.steampowered.com/app/222980/Dead_Pixels/
 { "name": "Dead Pixels", "type": "Game" }
@@ -135,11 +135,11 @@
 # dhewm3 https://dhewm3.org/
 { "name": "dhewm3", "type": "Game" }
 
-# Dicey Dungeons https://store.steampowered.com/app/861540/Dicey_Dungeons/
-{ "name": "diceydungeons", "type": "Game" }
-
 # Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
 { "name": "app.x86_64", "type": "Game" }
+
+# Dicey Dungeons https://store.steampowered.com/app/861540/Dicey_Dungeons/
+{ "name": "diceydungeons", "type": "Game" }
 
 # Dictators:No Peace Countryballs https://store.steampowered.com/app/1139890/DictatorsNo_Peace_Countryballs/
 { "name": "DictatorsNoPeaceCountryballs.x86_64", "type": "Game" }

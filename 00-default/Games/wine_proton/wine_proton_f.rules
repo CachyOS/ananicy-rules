@@ -15,12 +15,12 @@
 { "name": "F1_2015.exe", "type": "Game" }
 { "name": "f1_2015_dx12.exe", "type": "Game" }
 
+# F1 2017 https://store.steampowered.com/app/515220/F1_2017/
+{ "name": "F1_2017.exe", "type": "Game" }
+
 # F1 2018 https://store.steampowered.com/app/737800/F1_2018/
 { "name": "F1_2018.exe", "type": "Game" }
 { "name": "F1_2018_dx12.exe", "type": "Game" }
-
-# F1 2017 https://store.steampowered.com/app/515220/F1_2017/
-{ "name": "F1_2017.exe", "type": "Game" }
 
 # F1 2019 https://store.steampowered.com/app/928600/F1_2019/
 { "name": "F1_2019.exe", "type": "Game" }
@@ -54,21 +54,21 @@
 # Fable Anniversary https://store.steampowered.com/app/288470/Fable_Anniversary/
 { "name": "Fable Anniversary.exe", "type": "Game" }
 
-# Fable - The Lost Chapters https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters/
-{ "name": "Fable.exe", "type": "Game" }
-
 # Fabledom https://store.steampowered.com/app/1651560/Fabledom/
 { "name": "Fabledom.exe", "type": "Game" }
 
-# Faces of War https://store.steampowered.com/app/289300/Faces_of_War/
-{ "name": "fowed.exe", "type": "Game" }
-{ "name": "launcher-ia32.exe", "type": "Game" }
+# Fable - The Lost Chapters https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters/
+{ "name": "Fable.exe", "type": "Game" }
+
+# FACEMINER https://store.steampowered.com/app/2276980/FACEMINER/
+{ "name": "FACEMINER.exe", "type": "Game" }
 
 # FaceRig https://store.steampowered.com/app/274920/FaceRig/
 { "name": "FaceRig.exe", "type": "Game" }
 
-# FACEMINER https://store.steampowered.com/app/2276980/FACEMINER/
-{ "name": "FACEMINER.exe", "type": "Game" }
+# Faces of War https://store.steampowered.com/app/289300/Faces_of_War/
+{ "name": "fowed.exe", "type": "Game" }
+{ "name": "launcher-ia32.exe", "type": "Game" }
 
 # Factorio https://store.steampowered.com/app/427520/Factorio/
 { "name": "Factorio.exe", "type": "Game" }
@@ -76,16 +76,16 @@
 # Factory Town Idle https://store.steampowered.com/app/2207490/Factory_Town_Idle/
 { "name": "Factory Town Idle.exe", "type": "Game" }
 
-# Faery - Legends of Avalon https://store.steampowered.com/app/303790/Faery__Legends_of_Avalon/
-{ "name": "FaerySteam.exe", "type": "Game" }
-
-# Faeria https://store.steampowered.com/app/397060/Faeria/
-{ "name": "Faeria.exe", "type": "Game" }
-
 # Fae Farm https://store.steampowered.com/app/2230110/Fae_Farm/
 { "name": "FaeFarmClient.exe", "type": "Game" }
 { "name": "FaeFarmClient-Win64-Test.exe", "type": "Game" }
 { "name": "FaeFarmClient-Win64-Shipping.exe", "type": "Game" }
+
+# Faeria https://store.steampowered.com/app/397060/Faeria/
+{ "name": "Faeria.exe", "type": "Game" }
+
+# Faery - Legends of Avalon https://store.steampowered.com/app/303790/Faery__Legends_of_Avalon/
+{ "name": "FaerySteam.exe", "type": "Game" }
 
 # Fahrenheit: Indigo Prophecy Remastered https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
 { "name": "Fahrenheit.exe", "type": "Game" }
@@ -150,9 +150,6 @@
 # Fallout Tactics: Brotherhood of Steel https://store.steampowered.com/app/38420/Fallout_Tactics_Brotherhood_of_Steel/
 { "name": "FalloutTacticsLauncher.exe", "type": "Game" }
 
-# FANTATALE https://store.steampowered.com/app/3301040/FANTATALE/
-{ "name": "fantatale.publish_live.exe", "type": "Game" }
-
 # Fantasy Aquarium https://store.steampowered.com/app/3183350/Fantasy_Aquarium/
 { "name": "Fantasy Aquarium.exe", "type": "Game" }
 
@@ -167,11 +164,14 @@
 { "name": "NFL1.exe", "type": "Game" }
 { "name": "NFL1-Win64-Shipping.exe", "type": "Game" }
 
+# Fantasy Map Simulator https://store.steampowered.com/app/3035500/Fantasy_Map_Simulator/
+{ "name": "FantasyMapSimulator.exe", "type": "Game" }
+
 # Fantasy Online 2 https://store.steampowered.com/app/2957110/Fantasy_Online_2/
 { "name": "Fantasy Online 2.exe", "type": "Game" }
 
-# Fantasy Map Simulator https://store.steampowered.com/app/3035500/Fantasy_Map_Simulator/
-{ "name": "FantasyMapSimulator.exe", "type": "Game" }
+# FANTATALE https://store.steampowered.com/app/3301040/FANTATALE/
+{ "name": "fantatale.publish_live.exe", "type": "Game" }
 
 # FAR: Changing Tides https://store.steampowered.com/app/1570010/FAR_Changing_Tides/
 { "name": "FarChangingTides.exe", "type": "Game" }
@@ -220,6 +220,21 @@
 # Farmer's Life https://store.steampowered.com/app/1137750/Farmers_Life/
 { "name": "FarmersLife.exe", "type": "Game" }
 
+# Farm Frenzy Collection https://store.steampowered.com/app/391000/Farm_Frenzy_Collection/
+{ "name": "FarmFrenzyMegaPack.exe", "type": "Game" }
+{ "name": "FarmFrenzyPizzaParty.exe", "type": "Game" }
+{ "name": "farm.exe", "type": "Game" }
+{ "name": "farm2.exe", "type": "Game" }
+{ "name": "FarmFrenzy3.exe", "type": "Game" }
+{ "name": "FarmFrenzy3_America.exe", "type": "Game" }
+{ "name": "FarmFrenzy3_Arctica.exe", "type": "Game" }
+{ "name": "FarmFrenzy3_Russia.exe", "type": "Game" }
+{ "name": "FarmFrenzy3_Madagascar.exe", "type": "Game" }
+{ "name": "FarmFrenzyGoneFishing.exe", "type": "Game" }
+{ "name": "FarmFrenzyAncientRome.exe", "type": "Game" }
+{ "name": "FarmFrenzy_Vikings.exe", "type": "Game" }
+{ "name": "FarmFrenzy4.exe", "type": "Game" }
+
 # Farming Simulator 15 https://store.steampowered.com/app/313160/Farming_Simulator_15/
 { "name": "FarmingSimulator2015.exe", "type": "Game" }
 { "name": "FarmingSimulator2015Game.exe", "type": "Game" }
@@ -250,21 +265,6 @@
 
 # Farming & Supermarket Simulator https://store.steampowered.com/app/3070880/Farming__Supermarket_Simulator/
 { "name": "Farming and Supermarket Simulator.exe", "type": "Game" }
-
-# Farm Frenzy Collection https://store.steampowered.com/app/391000/Farm_Frenzy_Collection/
-{ "name": "FarmFrenzyMegaPack.exe", "type": "Game" }
-{ "name": "FarmFrenzyPizzaParty.exe", "type": "Game" }
-{ "name": "farm.exe", "type": "Game" }
-{ "name": "farm2.exe", "type": "Game" }
-{ "name": "FarmFrenzy3.exe", "type": "Game" }
-{ "name": "FarmFrenzy3_America.exe", "type": "Game" }
-{ "name": "FarmFrenzy3_Arctica.exe", "type": "Game" }
-{ "name": "FarmFrenzy3_Russia.exe", "type": "Game" }
-{ "name": "FarmFrenzy3_Madagascar.exe", "type": "Game" }
-{ "name": "FarmFrenzyGoneFishing.exe", "type": "Game" }
-{ "name": "FarmFrenzyAncientRome.exe", "type": "Game" }
-{ "name": "FarmFrenzy_Vikings.exe", "type": "Game" }
-{ "name": "FarmFrenzy4.exe", "type": "Game" }
 
 # Farm Manager 2018 https://store.steampowered.com/app/495560/Farm_Manager_2018/
 { "name": "Farm Manager 2018.exe", "type": "Game" }
@@ -367,29 +367,29 @@
 # FEZ https://store.steampowered.com/app/224760/FEZ/
 { "name": "FEZ.exe", "type": "Game" }
 
+# Fibbage XL https://store.steampowered.com/app/448080/Fibbage_XL/
+{ "name": "Fibbage XL.exe", "type": "Game" }
+
 # Ficket https://store.steampowered.com/app/1634680/Ficket/
 { "name": "Ficket.exe", "type": "Game" }
-
-# Fiesta Online NA https://store.steampowered.com/app/280620/Fiesta_Online/
-{ "name": "Fiesta.exe", "type": "Game" }
-
-# Field of Glory II: Medieval https://store.steampowered.com/app/1368870/Field_of_Glory_II_Medieval/
-{ "name": "FOG2Medieval.EXE", "type": "Game" }
 
 # Field of Glory: Empires https://store.steampowered.com/app/1011390/Field_of_Glory_Empires/
 { "name": "Empires_STEAM.exe", "type": "Game" }
 
+# Field of Glory II: Medieval https://store.steampowered.com/app/1368870/Field_of_Glory_II_Medieval/
+{ "name": "FOG2Medieval.EXE", "type": "Game" }
+
 # Field of Glory: Kingdoms https://store.steampowered.com/app/1985050/Field_of_Glory_Kingdoms/
 { "name": "Kingdoms.exe", "type": "Game" }
-
-# Fibbage XL https://store.steampowered.com/app/448080/Fibbage_XL/
-{ "name": "Fibbage XL.exe", "type": "Game" }
 
 # Fields of Mistria https://store.steampowered.com/app/2142790/Fields_of_Mistria/
 { "name": "FieldsOfMistria.exe", "type": "Game" }
 
 # Fields XY https://store.steampowered.com/app/552900/Fields_XY/
 { "name": "Fields XY.exe", "type": "Game" }
+
+# Fiesta Online NA https://store.steampowered.com/app/280620/Fiesta_Online/
+{ "name": "Fiesta.exe", "type": "Game" }
 
 # FIFA 22 https://store.steampowered.com/app/1506830/FIFA_22/
 { "name": "FIFA22_Trial.exe", "type": "Game" }
@@ -445,6 +445,8 @@
 { "name": "FINAL FANTASY V.exe", "type": "Game" }
 
 # FINAL FANTASY VII https://store.steampowered.com/app/3837340/FINAL_FANTASY_VII/
+
+
 # FINAL FANTASY VII (2013) https://store.steampowered.com/app/39140/
 { "name": "FF7_Launcher.exe", "type": "Game" }
 
@@ -495,17 +497,17 @@
 { "name": "FG.exe", "type": "Game" }
 { "name": "FG-Win64-Shipping.exe", "type": "Game" }
 
+# Fire Pro Wrestling World https://store.steampowered.com/app/564230/Fire_Pro_Wrestling_World/
+{ "name": "FireProWrestlingW.exe", "type": "Game" }
+
+# Firestone – Idle Clicker Online RPG https://store.steampowered.com/app/1013320/Firestone__Idle_Clicker_Online_RPG/
+{ "name": "Firestone.exe", "type": "Game" }
+
 # Firewatch https://store.steampowered.com/app/383870/Firewatch/
 { "name": "Firewatch.exe", "type": "Game" }
 
 # Fireworks Mania https://store.steampowered.com/app/1079260/Fireworks_Mania__An_Explosive_Simulator/
 { "name": "Fireworks Mania.exe", "type": "Game" }
-
-# Firestone – Idle Clicker Online RPG https://store.steampowered.com/app/1013320/Firestone__Idle_Clicker_Online_RPG/
-{ "name": "Firestone.exe", "type": "Game" }
-
-# Fire Pro Wrestling World https://store.steampowered.com/app/564230/Fire_Pro_Wrestling_World/
-{ "name": "FireProWrestlingW.exe", "type": "Game" }
 
 # First Cut: Samurai Duel https://store.steampowered.com/app/2193490/First_Cut_Samurai_Duel/
 { "name": "FirstCutv2.exe", "type": "Game" }
@@ -560,10 +562,6 @@
 # Five Nights at Freddy's: Sister Location https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
 { "name": "SisterLocation.exe", "type": "Game" }
 
-# FMTC https://store.steampowered.com/app/2324110/FMTC/
-{ "name": "FMTC.exe", "type": "Game" }
-{ "name": "FMTC-Win64-Shipping.exe", "type": "Game" }
-
 # Flashing Lights - Police, Firefighting, Emergency Services (EMS) Simulator https://store.steampowered.com/app/605740/Flashing_Lights__Police_Firefighting_Emergency_Services_EMS_Simulator/
 { "name": "flashinglights.exe", "type": "Game" }
 
@@ -593,14 +591,18 @@
 { "name": "flowersblooming-32.exe", "type": "Game" }
 { "name": "flowersblooming.exe", "type": "Game" }
 
-# FlyKnight https://store.steampowered.com/app/3108510/FlyKnight/
-{ "name": "FlyKnightPrelude.exe", "type": "Game" }
-
 # Fly Corp https://store.steampowered.com/app/1372530/Fly_Corp/
 { "name": "Fly Corp.exe", "type": "Game" }
 
+# FlyKnight https://store.steampowered.com/app/3108510/FlyKnight/
+{ "name": "FlyKnightPrelude.exe", "type": "Game" }
+
 # Flyout https://store.steampowered.com/app/777390/Flyout/
 { "name": "Flyout.exe", "type": "Game" }
+
+# FMTC https://store.steampowered.com/app/2324110/FMTC/
+{ "name": "FMTC.exe", "type": "Game" }
+{ "name": "FMTC-Win64-Shipping.exe", "type": "Game" }
 
 # FNaF World https://steamdb.info/app/427920/
 { "name": "FNaF_World.exe", "type": "Game" }
@@ -615,12 +617,12 @@
 # Football Coach: College Dynasty https://store.steampowered.com/app/2151290/Football_Coach_College_Dynasty/
 { "name": "FootballCoach.exe", "type": "Game" }
 
+# Football Life Simulator https://store.steampowered.com/app/3158270/Football_Life_Simulator/
+{ "name": "Football Life Simulator.exe", "type": "Game" }
+
 # Football, Tactics & Glory https://store.steampowered.com/app/375530/Football_Tactics__Glory/
 { "name": "game32.exe", "type": "Game" }
 { "name": "game64.exe", "type": "Game" }
-
-# Football Life Simulator https://store.steampowered.com/app/3158270/Football_Life_Simulator/
-{ "name": "Football Life Simulator.exe", "type": "Game" }
 
 # FootLOL: Epic Soccer League https://store.steampowered.com/app/263740/FootLOL_Epic_Soccer_League/
 { "name": "FootLOL Mayhem Edition.exe", "type": "Game" }
@@ -733,14 +735,14 @@
 # Freddy Fazbear's Pizzeria Simulator https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
 { "name": "Pizzeria Simulator.exe", "type": "Game" }
 
-# Free Solitaire https://store.steampowered.com/app/3330280/Free_Solitaire/
-{ "name": "FreeSolitaire.exe", "type": "Game" }
-
 # Freedom Fighters https://store.steampowered.com/app/1347780/Freedom_Fighters/
 { "name": "Freedom.Exe", "type": "Game" }
 
 # Freedom Planet https://store.steampowered.com/app/248310/Freedom_Planet/
 { "name": "fp.exe", "type": "Game" }
+
+# Free Solitaire https://store.steampowered.com/app/3330280/Free_Solitaire/
+{ "name": "FreeSolitaire.exe", "type": "Game" }
 
 # Freestyle 2: Street Basketball https://store.steampowered.com/app/339610/Freestyle_2_Street_Basketball/
 { "name": "FreeStyle2.exe", "type": "Game" }
@@ -819,11 +821,11 @@
 # Fun Hospital https://store.steampowered.com/app/829420/Fun_Hospital/
 { "name": "Fun Hospital.exe", "type": "Game" }
 
-# Fun with Ragdolls: The Game https://store.steampowered.com/app/1142500/Fun_with_Ragdolls_The_Game/
-{ "name": "Fun with Ragdolls.exe", "type": "Game" }
-
 # Funi Raccoon Game https://store.steampowered.com/app/3599690/Funi_Raccoon_Game/
 { "name": "Funi_Raccoon_Game.exe", "type": "Game" }
+
+# Fun with Ragdolls: The Game https://store.steampowered.com/app/1142500/Fun_with_Ragdolls_The_Game/
+{ "name": "Fun with Ragdolls.exe", "type": "Game" }
 
 # Furnish Master https://store.steampowered.com/app/2004080/Furnish_Master/
 { "name": "FurnishMaster.exe", "type": "Game" }
