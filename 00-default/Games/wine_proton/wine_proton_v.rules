@@ -186,8 +186,16 @@
 # Vs. RetroSpecter - Part Two: Infernadise https://gamebanana.com/mods/317366
 { "name": "FNF - Vs. RetroSpecter.exe", "type": "Game" }
 
+# Valorborn https://store.steampowered.com/app/3372530/Valorborn/
+{ "name": "MedievalRPG.exe", "type": "Game" }
+{ "name": "MedievalRPG-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ValorbornLauncher.exe", "type": "BG_CPUIO" }
+
 # VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
 { "name": "VTOLVR.exe", "type": "Game" }
 
 # VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
 { "name": "VVVVVV.exe", "type": "Game" }
+
+# Vampire Crawlers https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/
+{ "name": "Vampire Crawlers.exe", "type": "Game" }
