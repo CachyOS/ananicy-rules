@@ -5,6 +5,9 @@
 
 ### D ###
 
+# DDNet https://store.steampowered.com/app/412220/DDNet/
+{ "name": "DDNet", "type": "Game" }
+
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 { "name": "Danganronpa2", "type": "Game" }
 { "name": "Danganronpa2_32", "type": "Game" }
@@ -27,6 +30,9 @@
 { "name": "DDNet", "type": "Game" }
 { "name": "DDNet-Server", "type": "Service" }
 
+# Deadly Days https://store.steampowered.com/app/740080/Deadly_Days/
+{ "name": "Deadly Days.x86_64", "type": "Game" }
+
 # Dead Cells https://store.steampowered.com/app/588650/Dead_Cells/
 { "name": "deadcells", "type": "Game" }
 
@@ -39,6 +45,9 @@
 # Dead In Vinland https://store.steampowered.com/app/573120/Dead_In_Vinland/
 { "name": "Dead In Vinland.x86", "type": "Game" }
 { "name": "Dead In Vinland.x86_64", "type": "Game" }
+
+# Dead Maze https://store.steampowered.com/app/667890/Dead_Maze/
+{ "name": "DeadMaze", "type": "Game" }
 
 # Dead Island Definitive Edition https://store.steampowered.com/app/383150/
 { "name": "DeadIslandGame", "type": "Game" }
@@ -55,6 +64,9 @@
 # Dead Synchronicity: Tomorrow Comes Today https://store.steampowered.com/app/339190/Dead_Synchronicity_Tomorrow_Comes_Today/
 { "name": "Dead Synchronicity.x86", "type": "Game" }
 { "name": "Dead Synchronicity.x86_64", "type": "Game" }
+
+# Death and Taxes https://store.steampowered.com/app/1166290/Death_and_Taxes/
+{ "name": "DeathAndTaxes.x86_64", "type": "Game" }
 
 # Death Road to Canada https://store.steampowered.com/app/252610/Death_Road_to_Canada/
 { "name": "prog-linux", "type": "Game" }
@@ -93,6 +105,9 @@
 # Desktop Dungeons https://store.steampowered.com/app/226620/Desktop_Dungeons/
 { "name": "DesktopDungeons.x86", "type": "Game" }
 
+# Desperados III https://store.steampowered.com/app/610370/Desperados_III/
+{ "name": "Desperados III.x86_64", "type": "Game" }
+
 # Desperados: Wanted Dead or Alive https://store.steampowered.com/app/260730/Desperados_Wanted_Dead_or_Alive/
 { "name": "desperados32", "type": "Game" }
 
@@ -108,6 +123,9 @@
 # Deus Ex: Mankind Divided https://store.steampowered.com/app/337000/
 { "name": "DeusExMD", "type": "Game" }
 
+# Devil Daggers https://store.steampowered.com/app/422970/Devil_Daggers/
+{ "name": "devildaggers", "type": "Game" }
+
 # devilutionx https://github.com/diasurgical/devilutionX/
 { "name": "devilutionx", "type": "Game" }
 
@@ -116,6 +134,9 @@
 
 # dhewm3 https://dhewm3.org/
 { "name": "dhewm3", "type": "Game" }
+
+# Dicey Dungeons https://store.steampowered.com/app/861540/Dicey_Dungeons/
+{ "name": "diceydungeons", "type": "Game" }
 
 # Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
 { "name": "app.x86_64", "type": "Game" }
@@ -144,6 +165,9 @@
 # Dominions 4 https://store.steampowered.com/app/259060/Dominions_4_Thrones_of_Ascension/
 { "name": "dom4_amd64", "type": "Game" }
 { "name": "dom4_x86", "type": "Game" }
+
+# Dominions 5 https://store.steampowered.com/app/722060/Dominions_5__Warriors_of_the_Faith/
+{ "name": "dom5.sh", "type": "Game" }
 
 # Dominions 6 - Rise of the Pantokrator https://store.steampowered.com/app/2511500/Dominions_6__Rise_of_the_Pantokrator/
 { "name": "dom6_amd64", "type": "Game" }
@@ -181,12 +205,21 @@
 # Dreamfall Chapters https://store.steampowered.com/app/237850/Dreamfall_Chapters/
 { "name": "Dreamfall Chapters", "type": "Game" }
 
+# Dreaming Isles https://store.steampowered.com/app/2258320/Dreaming_Isles/
+{ "name": "Dreaming_Isles", "type": "Game" }
+
 # Dropsy https://store.steampowered.com/app/274350/Dropsy/
 { "name": "Dropsy.x86", "type": "Game" }
 { "name": "Dropsy.x86_64", "type": "Game" }
 
 # Drova - Forsaken Kin https://store.steampowered.com/app/1585180/Drova__Forsaken_Kin/
 { "name": "Drova.x86_64", "type": "Game" }
+
+# Duck Detective: The Ghost of Glamping https://store.steampowered.com/app/2714620/Duck_Detective_The_Ghost_of_Glamping/
+{ "name": "Duck Detective - The Ghost of Glamping", "type": "Game" }
+
+# Duck Detective: The Secret Salami https://store.steampowered.com/app/2637990/Duck_Detective_The_Secret_Salami/
+{ "name": "Duck Detective - The Secret Salami", "type": "Game" }
 
 # Dummynation https://store.steampowered.com/app/1892030/Dummynation/
 { "name": "Dummynation", "type": "Game" }

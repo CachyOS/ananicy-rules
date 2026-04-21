@@ -5,8 +5,14 @@
 
 ### D ###
 
+# DDNet https://store.steampowered.com/app/412220/DDNet/
+{ "name": "DDNet.exe", "type": "Game" }
+
 # Daikatana https://store.steampowered.com/app/242980/Daikatana/
 { "name": "daikatana.exe", "type": "Game" }
+
+# Daily Chthonicle: Editor's Edition https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/
+{ "name": "DailyChthonicle.exe", "type": "Game" }
 
 # Dakar Desert Rally https://store.steampowered.com/app/1839940/Dakar_Desert_Rally/
 { "name": "Dakar2Game.exe", "type": "Game" }
@@ -32,6 +38,9 @@
 
 # Danganronpa V3: Killing Harmony https://store.steampowered.com/app/567640/Danganronpa_V3_Killing_Harmony/
 { "name": "Dangan3Win.exe", "type": "Game" }
+
+# Darfall https://store.steampowered.com/app/1961600/Darfall/
+{ "name": "Darfall.exe", "type": "Game" }
 
 # DARK https://store.steampowered.com/app/225360/DARK/
 { "name": "DarkApp.exe", "type": "Game" }
@@ -105,9 +114,15 @@
 # Darkwood https://store.steampowered.com/app/274520/Darkwood/
 { "name": "Darkwood.exe", "type": "Game" }
 
+# Darza's Dominion https://store.steampowered.com/app/1895130/Darzas_Dominion/
+{ "name": "DarzasDominion.exe", "type": "Game" }
+
 # Darwin's Paradox! https://store.steampowered.com/app/2989180/Darwins_Paradox/
 { "name": "Darwin's Paradox.exe", "type": "Game" }
 { "name": "DarwinParadox-Win64-Shipping.exe", "type": "Game" }
+
+# DashPanel https://store.steampowered.com/app/715670/DashPanel/
+{ "name": "DashPanelLauncher.exe", "type": "Game" }
 
 # Date Everything! https://store.steampowered.com/app/2201320/Date_Everything/
 { "name": "Date Everything.exe", "type": "Game" }
@@ -117,6 +132,9 @@
 
 # DAVIGO: VR vs. PC https://store.steampowered.com/app/1116540/DAVIGO_VR_vs_PC/
 { "name": "Davigo.exe", "type": "Game" }
+
+# Dawnsbury Days https://store.steampowered.com/app/2693730/Dawnsbury_Days/
+{ "name": "Dawnsbury Days.exe", "type": "Game" }
 
 # Dawn of Man https://store.steampowered.com/app/858810/Dawn_of_Man/
 { "name": "DawnOfMan.exe", "type": "Game" }
@@ -152,6 +170,9 @@
 
 # Dead Bits https://store.steampowered.com/app/303390/Dead_Bits/
 { "name": "Dead Bits.exe", "type": "Game" }
+
+# Dead Maze https://store.steampowered.com/app/667890/Dead_Maze/
+{ "name": "DeadMaze.exe", "type": "Game" }
 
 # Dead by Daylight https://store.steampowered.com/app/381210/Dead_by_Daylight/
 { "name": "DeadByDaylight.exe", "type": "Game" }
@@ -201,11 +222,17 @@
 { "name": "MainThrd", "type": "Game" }
 { "name": "project8.exe", "type": "Game" }
 
+# Deadly Days https://store.steampowered.com/app/740080/Deadly_Days/
+{ "name": "Deadly Days.exe", "type": "Game" }
+
 # Deadly 30 https://store.steampowered.com/app/264730/Deadly_30/
 { "name": "Deadly30.exe", "type": "Game" }
 
 # Deadly Premonition: The Director's Cut https://store.steampowered.com/app/247660/Deadly_Premonition_The_Directors_Cut/
 { "name": "DPLauncher.exe", "type": "Game" }
+
+# Deadly Premonition 2 https://store.steampowered.com/app/1271100/Deadly_Premonition_2_A_Blessing_in_Disguise/
+{ "name": "DeadlyPremonition2.exe", "type": "Game" }
 
 # DEAD OR ALIVE 6 https://store.steampowered.com/app/838380/DEAD_OR_ALIVE_6/
 { "name": "DOA6.exe", "type": "Game" }
@@ -261,11 +288,17 @@
 # Dear Esther: Landmark Edition https://store.steampowered.com/app/520720/Dear_Esther_Landmark_Edition/
 { "name": "DearEsther.exe", "type": "Game" }
 
+# Deathless. The Hero Quest https://store.steampowered.com/app/2727210/Deathless_The_Hero_Quest/
+{ "name": "Deathless.exe", "type": "Game" }
+
 # DEATHLOOP https://store.steampowered.com/app/1252330/DEATHLOOP/
 { "name": "Deathloop.exe", "type": "Game" }
 
 # Death Must Die https://store.steampowered.com/app/2334730/Death_Must_Die/
 { "name": "Death Must Die.exe", "type": "Game" }
+
+# Death and Taxes https://store.steampowered.com/app/1166290/Death_and_Taxes/
+{ "name": "Death and Taxes.exe", "type": "Game" }
 
 # DEATH NOTE Killer Within https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/
 { "name": "DEATH NOTE Killer Within.exe", "type": "Game" }
@@ -283,8 +316,22 @@
 # Decay: The Mare https://store.steampowered.com/app/323720/Decay_The_Mare/
 { "name": "Decay - The Mare.exe", "type": "Game" }
 
+# Deck of Haunts https://store.steampowered.com/app/3179730/Deck_of_Haunts/
+{ "name": "DeckOfHaunts.exe", "type": "Game" }
+{ "name": "DeckOfHaunts-Win64-Shipping.exe", "type": "Game" }
+
 # Deceit https://store.steampowered.com/app/466240/Deceit/
 { "name": "Deceit.exe", "type": "Game" }
+
+# Deep Despair https://store.steampowered.com/app/1241040/Deep_Despair/
+{ "name": "Deep Despair.exe", "type": "Game" }
+{ "name": "Deep Despair Remastered.exe", "type": "Game" }
+
+# Deep Eclipse https://store.steampowered.com/app/326990/Deep_Eclipse_New_Space_Odyssey/
+{ "name": "DeepEclipse.exe", "type": "Game" }
+
+# DeerHunterFan.com TV - The Season https://store.steampowered.com/app/2128140/Deer_Hunting__The_Season/
+{ "name": "DeerHunterFan.com TV - The Season.exe", "type": "Game" }
 
 # Deep Rock Galactic https://store.steampowered.com/app/548430/Deep_Rock_Galactic/
 { "name": "FSD.exe", "type": "Game" }
@@ -314,6 +361,9 @@
 # Degrees of Separation https://store.steampowered.com/app/809880/Degrees_of_Separation/
 { "name": "dofs.exe", "type": "Game" }
 
+# Deliver At All Costs https://store.steampowered.com/app/1880610/Deliver_At_All_Costs/
+{ "name": "Deliver At All Costs.exe", "type": "Game" }
+
 # Deliver Us Mars https://store.steampowered.com/app/1345890/Deliver_Us_Mars/
 { "name": "DeliverUsMars-Win64-Shipping.exe", "type": "Game" }
 { "name": "DeliverUsMars.exe", "type": "Game" }
@@ -328,8 +378,14 @@
 # DELTARUNE https://store.steampowered.com/app/1671210/DELTARUNE/
 { "name": "DELTARUNE.exe", "type": "Game" }
 
+# Delven https://store.steampowered.com/app/2430500/Delven/
+{ "name": "delven.exe", "type": "Game" }
+
 # Delver https://store.steampowered.com/app/249630/Delver/
 { "name": "delver.exe", "type": "Game" }
+
+# Demeo https://store.steampowered.com/app/1484280/Demeo/
+{ "name": "demeo.exe", "type": "Game" }
 
 # Dementium II HD https://store.steampowered.com/app/217100/Dementium_II_HD/
 { "name": "DII_Beta.exe", "type": "Game" }
@@ -362,8 +418,14 @@
 # Demon Tides https://store.steampowered.com/app/2585890/Demon_Tides/
 { "name": "Demon Tides.exe", "type": "Game" }
 
+# DeoVR Video Player https://store.steampowered.com/app/837380/DeoVR__VR_Video_Streaming_Platform/
+{ "name": "DeoVR.exe", "type": "Game" }
+
 # Depression Quest https://store.steampowered.com/app/270170/Depression_Quest/
 { "name": "DepressionQuest.exe", "type": "Game" }
+
+# Depersonalization https://store.steampowered.com/app/1477070/Depersonalization/
+{ "name": "Depersonalization-Release.exe", "type": "Game" }
 
 # Depth https://store.steampowered.com/app/274940/Depth/
 { "name": "DepthEd.exe", "type": "Game" }
@@ -375,8 +437,16 @@
 # Descenders https://store.steampowered.com/app/681280/Descenders/
 { "name": "Descenders.exe", "type": "Game" }
 
+# Desktop+ https://store.steampowered.com/app/1494460/Desktop/
+{ "name": "DesktopPlus.exe", "type": "Game" }
+{ "name": "DesktopPlusUI.exe", "type": "BG_CPUIO" }
+
 # Desktop Dungeons https://store.steampowered.com/app/226620/Desktop_Dungeons/
 { "name": "DesktopDungeons.exe", "type": "Game" }
+
+# Desktop Survivors 98 https://store.steampowered.com/app/3339780/Desktop_Survivors_98/
+{ "name": "DS98.exe", "type": "Game" }
+{ "name": "DS98_OpenGL.exe", "type": "Game" }
 
 # DESORDRE : A Puzzle Game Adventure https://store.steampowered.com/app/2097490/DESORDRE__A_Puzzle_Game_Adventure/
 { "name": "Desordre.exe", "type": "Game" }
@@ -384,6 +454,9 @@
 
 # Desperados: Wanted Dead or Alive https://store.steampowered.com/app/260730/Desperados_Wanted_Dead_or_Alive/
 { "name": "desperados.exe", "type": "Game" }
+
+# Desperados III https://store.steampowered.com/app/610370/Desperados_III/
+{ "name": "Desperados III.exe", "type": "Game" }
 
 # Despotism 3k https://store.steampowered.com/app/699920/Despotism_3k/
 { "name": "Despotism3k.exe", "type": "Game" }
@@ -429,6 +502,9 @@
 # Deus Ex: The Fall https://store.steampowered.com/app/258180/Deus_Ex_The_Fall/
 { "name": "DeusEx_steam.exe", "type": "Game" }
 
+# Devil Daggers https://store.steampowered.com/app/422970/Devil_Daggers/
+{ "name": "dd.exe", "type": "Game" }
+
 # Devil May Cry 3 Special Edition https://store.steampowered.com/app/6550/Devil_May_Cry_3_Special_Edition/
 { "name": "GPadCfg.exe", "type": "Game" }
 { "name": "dmc3se.exe", "type": "Game" }
@@ -467,6 +543,15 @@
 # Diablo IV https://store.steampowered.com/app/2344520/Diablo_IV/
 { "name": "Diablo IV.exe", "type": "Game" }
 
+# Dicey Dungeons https://store.steampowered.com/app/861540/Dicey_Dungeons/
+{ "name": "diceydungeons.exe", "type": "Game" }
+
+# Die in the Dungeon https://store.steampowered.com/app/2026820/Die_in_the_Dungeon/
+{ "name": "Die in the Dungeon.exe", "type": "Game" }
+
+# DICEOMANCER https://store.steampowered.com/app/2501600/DICEOMANCER/
+{ "name": "Diceomancer.exe", "type": "Game" }
+
 # Dice A Million https://store.steampowered.com/app/3430340/Dice_A_Million/
 { "name": "dice a million.exe", "type": "Game" }
 
@@ -479,6 +564,12 @@
 # Digger Online https://store.steampowered.com/app/278970/Digger_Online/
 { "name": "Digger.exe", "type": "Game" }
 
+# DigDigDrill https://store.steampowered.com/app/2916770/DigDigDrill/
+{ "name": "DigDigDrill.exe", "type": "Game" }
+
+# Digital Mate https://store.steampowered.com/app/2488350/Digital_Mate/
+{ "name": "DigitalMate.exe", "type": "Game" }
+
 # Digimon Story Cyber Sleuth: Complete Edition https://store.steampowered.com/app/1042550/Digimon_Story_Cyber_Sleuth_Complete_Edition/
 { "name": "Digimon Story CS.exe", "type": "Game" }
 
@@ -490,6 +581,10 @@
 
 # Digimon World: Next Order https://store.steampowered.com/app/1530160/Digimon_World_Next_Order/
 { "name": "Digimon World Next Order.exe", "type": "Game" }
+
+# Digimon Masters Online https://steamdb.info/app/537180/
+{ "name": "DMLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "GDMO.exe", "type": "Game" }
 
 # Dinkum https://store.steampowered.com/app/1062520/Dinkum/
 { "name": "Dinkum.exe", "type": "Game" }
@@ -507,6 +602,10 @@
 # Diplomacy is Not an Option https://store.steampowered.com/app/1272320/Diplomacy_is_Not_an_Option/
 { "name": "Diplomacy is Not an Option.exe", "type": "Game" }
 
+# Dirty Bomb https://store.steampowered.com/app/333930/Dirty_Bomb/
+{ "name": "ShooterGame-Win32-Shipping.exe", "type": "Game" }
+{ "name": "DirtyBombLauncher.exe", "type": "BG_CPUIO" }
+
 # DiRT 3 https://steamdb.info/app/44320/
 { "name": "dirt3_game.exe", "type": "Game" }
 
@@ -522,11 +621,21 @@
 # DiRT Rally 2.0 https://store.steampowered.com/app/690790/DiRT_Rally_20/
 { "name": "dirtrally2.exe", "type": "Game" }
 
+# Disc Golf Valley https://store.steampowered.com/app/1642890/Disc_Golf_Valley/
+{ "name": "DiscGolf.exe", "type": "Game" }
+
+# Disciples: Liberation https://store.steampowered.com/app/1287840/Disciples_Liberation/
+{ "name": "LauncherDisciplesLiberation.exe", "type": "BG_CPUIO" }
+{ "name": "Disciples_Liberation.exe", "type": "Game" }
+
 # Disciples: Domination https://store.steampowered.com/app/2808560/Disciples_Domination/
 { "name": "LauncherDisciplesDomination.exe", "type": "Game" }
 
 # Disciples III: Reincarnation https://store.steampowered.com/app/10270/Disciples_III_Reincarnation/
 { "name": "DisciplesIII.exe", "type": "Game" }
+
+# Discord Bot Maker https://store.steampowered.com/app/682130/Discord_Bot_Maker/
+{ "name": "Discord Bot Maker.exe", "type": "Game" }
 
 # Disco Elysium - The Final Cut https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/
 { "name": "disco.exe", "type": "Game" }
@@ -543,6 +652,10 @@
 
 # Disgaea 5 Complete https://store.steampowered.com/app/803600/Disgaea_5_Complete/
 { "name": "disgaea5.exe", "type": "Game" }
+
+# Disgaea 7: Vows of the Virtueless https://store.steampowered.com/app/2250600/Disgaea_7_Vows_of_the_Virtueless/
+{ "name": "Disgaea7.exe", "type": "Game" }
+{ "name": "Disgaea7R.exe", "type": "Game" }
 
 # Disgaea PC https://store.steampowered.com/app/405900/Disgaea_PC/
 { "name": "dis1_st.exe", "type": "Game" }
@@ -602,6 +715,9 @@
 # Divinity II: Developer's Cut https://store.steampowered.com/app/219780/Divinity_II_Developers_Cut/
 { "name": "Divinity2.exe", "type": "Game" }
 
+# DK Online https://store.steampowered.com/app/781030/DK_Online/
+{ "name": "DKonline.exe", "type": "Game" }
+
 # DJMAX RESPECT V https://store.steampowered.com/app/960170/DJMAX_RESPECT_V/
 { "name": "DJMAX RESPECT V.exe", "type": "Game" }
 
@@ -622,6 +738,12 @@
 { "name": "DogsOfWar.exe", "type": "Game" }
 { "name": "DogsOfWar_Master.exe", "type": "Game" }
 
+# DOKAPON! Sword of Fury https://store.steampowered.com/app/3077020/DOKAPON_Sword_of_Fury/
+{ "name": "DOKAPON! Sword of Fury.exe", "type": "Game" }
+
+# Dokapon Kingdom: Connect https://store.steampowered.com/app/2338140/Dokapon_Kingdom_Connect/
+{ "name": "DkkStm.exe", "type": "Game" }
+
 # Doki Doki Literature Club! https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/
 { "name": "DDLC.exe", "type": "Game" }
 
@@ -637,11 +759,28 @@
 # Dominions 4: Thrones of Ascension https://store.steampowered.com/app/259060/Dominions_4_Thrones_of_Ascension/
 { "name": "Dominions4.exe", "type": "Game" }
 
+# Dominions 5 https://store.steampowered.com/app/722060/Dominions_5__Warriors_of_the_Faith/
+{ "name": "Dominions5.exe", "type": "Game" }
+
 # Dominions 6 - Rise of the Pantokrator https://store.steampowered.com/app/2511500/Dominions_6__Rise_of_the_Pantokrator/
 { "name": "Dominions6.exe", "type": "Game" }
 
+# Dollmare https://store.steampowered.com/app/2793710/Dollmare/
+{ "name": "ToyFactory.exe", "type": "Game" }
+{ "name": "ToyFactory-Win64-Shipping.exe", "type": "Game" }
+
+# Dolls Nest https://store.steampowered.com/app/1839430/Dolls_Nest/
+{ "name": "DollsNest.exe", "type": "Game" }
+{ "name": "DollsNest-Win64-Shipping.exe", "type": "Game" }
+
+# Doloc Town https://store.steampowered.com/app/2285550/Doloc_Town/
+{ "name": "DolocTown.exe", "type": "Game" }
+
 # Do Not Feed the Monkeys https://store.steampowered.com/app/658850/Do_Not_Feed_the_Monkeys/
 { "name": "dnftm.exe", "type": "Game" }
+
+# Do No Harm https://store.steampowered.com/app/3138780/Do_No_Harm/
+{ "name": "Do no Harm.exe", "type": "Game" }
 
 # Don't Stop, Girlypop! https://store.steampowered.com/app/2610650/Dont_Stop_Girlypop/
 { "name": "INCOLATUS.exe", "type": "Game" }
@@ -710,6 +849,13 @@
 # Double Dragon: Neon https://store.steampowered.com/app/252350/Double_Dragon_Neon/
 { "name": "DoubleDragon.exe", "type": "Game" }
 
+# Doug and Lily https://store.steampowered.com/app/601180/Doug_and_Lily/
+{ "name": "dl.exe", "type": "Game" }
+
+# DragonRoad https://store.steampowered.com/app/3380340/DragonRoad/
+{ "name": "DragonRoad.exe", "type": "Game" }
+{ "name": "DragonRoad-Win64-Shipping.exe", "type": "Game" }
+
 # Dragon Age II: Ultimate Edition https://store.steampowered.com/app/1238040/Dragon_Age_II_Ultimate_Edition/
 { "name": "DragonAge2.exe", "type": "Game" }
 
@@ -749,6 +895,9 @@
 { "name": "DragonNest_x64.exe", "type": "Game" }
 { "name": "DNSteamLauncher.exe", "type": "Game" }
 
+# DRAGON QUEST BUILDERS https://store.steampowered.com/app/2436570/DRAGON_QUEST_BUILDERS/
+{ "name": "DQB.exe", "type": "Game" }
+
 # DRAGON QUEST BUILDERS 2 https://store.steampowered.com/app/1072420/DRAGON_QUEST_BUILDERS_2/
 { "name": "DQB2.exe", "type": "Game" }
 { "name": "DQB2_AS.exe", "type": "Game" }
@@ -779,6 +928,13 @@
 # DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition https://store.steampowered.com/app/1295510/DRAGON_QUEST_XI_S_Echoes_of_an_Elusive_Age__Definitive_Edition/
 { "name": "DRAGON QUEST XI S.exe", "type": "Game" }
 
+# DRAGON QUEST® XI: Echoes of an Elusive Age™ https://store.steampowered.com/app/742120/
+{ "name": "OverwriteSettings.exe", "type": "BG_CPUIO" }
+{ "name": "DRAGON QUEST XI (No Denuvo).exe", "type": "Game" }
+{ "name": "DRAGON QUEST XI (Test).exe", "type": "Game" }
+{ "name": "DRAGON QUEST XI.exe", "type": "Game" }
+
+
 # Dragons and Titans https://store.steampowered.com/app/263500/Dragons_and_Titans/
 { "name": "dnt.exe", "type": "Game" }
 
@@ -790,6 +946,11 @@
 
 # Dragon Traveler https://store.steampowered.com/app/4104440/Dragon_Traveler/
 { "name": "DragonTraveler.exe", "type": "Game" }
+
+# DRAMAtical Murder https://store.steampowered.com/app/1481080/DRAMAtical_Murder/
+{ "name": "DMMd_ch_Steam.exe", "type": "Game" }
+{ "name": "DMMd_trad_ch_Steam.exe", "type": "Game" }
+{ "name": "DMMd_en_Steam.exe", "type": "Game" }
 
 # DrainSim https://store.steampowered.com/app/2963800/DrainSim/
 { "name": "DrainSim.exe", "type": "Game" }
@@ -803,6 +964,9 @@
 
 # Draw & Guess https://store.steampowered.com/app/1483870/Draw__Guess/
 { "name": "Draw&Guess.exe", "type": "Game" }
+
+# Dread Dawn https://store.steampowered.com/app/2093920/Dread_Dawn/
+{ "name": "DreadDawn.exe", "type": "Game" }
 
 # Dread Delusion https://store.steampowered.com/app/1574240/Dread_Delusion/
 { "name": "Dread Delusion.exe", "type": "Game" }
@@ -820,6 +984,9 @@
 
 # Dreamfall: The Longest Journey https://store.steampowered.com/app/6300/Dreamfall_The_Longest_Journey/
 { "name": "dreamfall.exe", "type": "Game" }
+
+# Dreaming Isles https://store.steampowered.com/app/2258320/Dreaming_Isles/
+{ "name": "Dreaming Isles.exe", "type": "Game" }
 
 # dreamseeker.exe, the runner for byond games such as ss13 https://www.byond.com/
 { "name": "dreamseeker.exe", "type": "Game" }
@@ -839,6 +1006,10 @@
 
 # Drive Beyond Horizons https://store.steampowered.com/app/2625420/Drive_Beyond_Horizons/
 { "name": "DriveBeyondHorizons.exe", "type": "Game" }
+
+# Driver Booster for Steam https://store.steampowered.com/app/920490/Driver_Booster_for_Steam/
+{ "name": "DriverBooster.exe", "type": "Game" }
+{ "name": "Boost.exe", "type": "Game" }
 
 # Driver Parallel Lines https://store.steampowered.com/app/21780/Driver_Parallel_Lines/
 { "name": "DriverParallelLines.exe", "type": "Game" }
@@ -865,15 +1036,29 @@
 { "name": "DW2.exe", "type": "Game" }
 { "name": "DW2Launcher.exe", "type": "Game" }
 
+# DSX https://store.steampowered.com/app/1812620/DSX/
+{ "name": "DSX.exe", "type": "Game" }
+
 # DUCATI - 90th Anniversary https://store.steampowered.com/app/456780/DUCATI__90th_Anniversary/
 { "name": "Ducati.exe", "type": "Game" }
 { "name": "DucatiX64.exe", "type": "Game" }
+
+# Duck Detective: The Ghost of Glamping https://store.steampowered.com/app/2714620/Duck_Detective_The_Ghost_of_Glamping/
+{ "name": "Duck Detective - The Ghost of Glamping.exe", "type": "Game" }
+
+# Duck Detective: The Secret Salami https://store.steampowered.com/app/2637990/Duck_Detective_The_Secret_Salami/
+{ "name": "Duck Detective - The Secret Salami.exe", "type": "Game" }
 
 # Duck Game https://store.steampowered.com/app/312530/Duck_Game/
 { "name": "DuckGame.exe", "type": "Game" }
 
 # Duck Season https://store.steampowered.com/app/503580/Duck_Season/
 { "name": "DuckSeason.exe", "type": "Game" }
+
+# DUCKSIDE https://store.steampowered.com/app/2682580/DUCKSIDE/
+{ "name": "DucksideClient.exe", "type": "Game" }
+{ "name": "DucksideClient_BE.exe", "type": "Game" }
+{ "name": "DucksideClient-Win64-Shipping.exe", "type": "Game" }
 
 # DuckTales: Remastered https://store.steampowered.com/app/237630/DuckTales_Remastered/
 { "name": "DuckTales.exe", "type": "Game" }
@@ -910,18 +1095,31 @@
 # Dungeon Clawler https://store.steampowered.com/app/2356780/Dungeon_Clawler/
 { "name": "DungeonClawler.exe", "type": "Game" }
 
+# Dungeon Keeper 2 https://store.steampowered.com/app/2616460/
+{ "name": "DKII-DX.exe", "type": "Game" }
+{ "name": "DKII.EXE", "type": "Game" }
+
 # Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
 { "name": "DungeonDefenders.exe", "type": "Game" }
+
+# Dungeon Team https://store.steampowered.com/app/1509060/Dungeon_Team/
+{ "name": "Dungeon Team.exe", "type": "Game" }
 
 # Dungeon Fighter Online https://store.steampowered.com/app/495910/Dungeon_Fighter_Online/
 { "name": "DFO.exe", "type": "Game" }
 { "name": "NeopleLauncher.exe", "type": "BG_CPUIO" }
+
+# Dungeon Village 2 https://store.steampowered.com/app/1983710/Dungeon_Village_2/
+{ "name": "KairoGames.exe", "type": "Game" }
 
 # Dungeonmans https://store.steampowered.com/app/288120/Dungeonmans/
 { "name": "dungeonmans.exe", "type": "Game" }
 
 # Dungeon of the ENDLESS https://store.steampowered.com/app/249050/Dungeon_of_the_ENDLESS/
 { "name": "DungeonoftheEndless.exe", "type": "Game" }
+
+# DUNGEON RAZE https://store.steampowered.com/app/3281300/DUNGEON_RAZE/
+{ "name": "DungeonRaze.exe", "type": "Game" }
 
 # Dungeon-Party https://store.steampowered.com/app/215870/DungeonParty/
 { "name": "berkelium.exe", "type": "Game" }
@@ -958,11 +1156,17 @@
 # Dungeons of Dredmor https://store.steampowered.com/app/98800/Dungeons_of_Dredmor/
 { "name": "Dungeons of Dredmor.exe", "type": "Game" }
 
+# Dungeons of Hinterberg https://store.steampowered.com/app/1983260/Dungeons_of_Hinterberg/
+{ "name": "Dungeons of Hinterberg.exe", "type": "Game" }
+
 # Dungeon Tycoon https://store.steampowered.com/app/2400770/Dungeon_Tycoon/
 { "name": "DungeonTycoon.exe", "type": "Game" }
 
 # Dungeon Warfare 2 https://store.steampowered.com/app/698540/Dungeon_Warfare_2/
 { "name": "DungeonWarfare2.exe", "type": "Game" }
+
+# Dungeon Painter Studio https://store.steampowered.com/app/592260/Dungeon_Painter_Studio/
+{ "name": "dps.exe", "type": "Game" }
 
 # Dungreed https://store.steampowered.com/app/753420/Dungreed/
 { "name": "Dungreed.exe", "type": "Game" }
@@ -971,17 +1175,30 @@
 { "name": "DUSK.exe", "type": "Game" }
 { "name": "Duskworld.exe", "type": "Game" }
 
+# Dusk Pub - Adult Only https://store.steampowered.com/app/1974520/Dusk_Pub__Adult_Only/
+{ "name": "Dusk Pub.exe", "type": "Game" }
+
 # Duskers https://store.steampowered.com/app/254320/Duskers/
 { "name": "Duskers.exe", "type": "Game" }
 
 # Dust: An Elysian Tail https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/
 { "name": "DustAET.exe", "type": "Game" }
 
+# Dustland Delivery https://store.steampowered.com/app/2943280/Dustland_Delivery/
+{ "name": "DustlandDelivery.exe", "type": "Game" }
+
 # Dustforce DX https://store.steampowered.com/app/65300/Dustforce_DX/
 { "name": "Dustforce.exe", "type": "Game" }
 
 # Dwarf Fortress https://store.steampowered.com/app/975370/Dwarf_Fortress/
 { "name": "Dwarf Fortress.exe", "type": "Game" }
+
+# Dwarven Realms https://store.steampowered.com/app/2015240/Dwarven_Realms/
+{ "name": "ProjectAlpha.exe", "type": "Game" }
+{ "name": "ProjectAlpha-Win64-Shipping.exe", "type": "Game" }
+
+# DPS IDLE https://store.steampowered.com/app/1349540/DPS_IDLE/
+{ "name": "dps.exe", "type": "Game" }
 
 # DX-Ball 2: 20th Anniversary Edition https://store.steampowered.com/app/922400/DXBall_2_20th_Anniversary_Edition/
 { "name": "DXBall2.exe", "type": "Game" }
