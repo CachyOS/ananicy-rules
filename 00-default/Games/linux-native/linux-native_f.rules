@@ -8,17 +8,39 @@
 # F1 2015 https://store.steampowered.com/app/286570/F1_2015/
 { "name": "F12015", "type": "Game" }
 
+# F1 2017 https://store.steampowered.com/app/515220/F1_2017/
+{ "name": "F12017.sh", "type": "Game" }
+{ "name": "F12017", "type": "Game" }
+
 # Factorio https://store.steampowered.com/app/427520/Factorio/
 { "name": "factorio", "type": "Game" }
+
+# FACEMINER https://store.steampowered.com/app/2276980/FACEMINER/
+{ "name": "FACEMINER", "type": "Game" }
 
 # Fahrenheit: Indigo Prophecy Remastered https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
 { "name": "Fahrenheit", "type": "Game" }
 
+# Faeria https://store.steampowered.com/app/397060/Faeria/
+{ "name": "Faeria.x86", "type": "Game" }
+{ "name": "Faeria.x86_64", "type": "Game" }
+
 # Farm Together https://store.steampowered.com/app/673950/Farm_Together/
 { "name": "FarmTogether", "type": "Game" }
 
+# Fantasy Grounds VTT https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/
+{ "name": "FGUSteamLauncher", "type": "Game" }
+{ "name": "FGUWebInstall.bin", "type": "BG_CPUIO" }
+
+# Fantasy Online 2 https://store.steampowered.com/app/2957110/Fantasy_Online_2/
+{ "name": "fov4-steam", "type": "Game" }
+
 # fault - milestone one https://store.steampowered.com/app/286260/fault__milestone_one/
 { "name": "faultms1", "type": "Game" }
+
+# Fell Seal: Arbiter's Mark https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/
+{ "name": "Fell Seal.x86_64", "type": "Game" }
+{ "name": "Fell Seal.x86", "type": "Game" }
 
 # FEZ https://store.steampowered.com/app/224760/FEZ/
 { "name": "FEZ", "type": "Game" }
@@ -36,6 +58,9 @@
 
 # Firewatch https://store.steampowered.com/app/383870/Firewatch/
 { "name": "fw.x86_64", "type": "Game" }
+
+# Firestone – Idle Clicker Online RPG https://store.steampowered.com/app/1013320/Firestone__Idle_Clicker_Online_RPG/
+{ "name": "Firestone.x86_64", "type": "Game" }
 
 # Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
 { "name": "FishingPlanet.X86_64", "type": "Game" }
@@ -77,6 +102,10 @@
 # freesynd https://freesynd.sourceforge.io/
 { "name": "freesynd", "type": "Game" }
 
+# Free Solitaire https://store.steampowered.com/app/3330280/Free_Solitaire/
+{ "name": "FreeSolitaire.x86_64", "type": "Game" }
+{ "name": "FreeSolitaire_Linux", "type": "Game" }
+
 # From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
 { "name": "From_The_Depths.x86", "type": "Game" }
 { "name": "From_The_Depths.x86_64", "type": "Game" }
@@ -95,6 +124,10 @@
 
 # Funkin https://github.com/FunkinCrew/Funkin/
 { "name": "Funkin", "type": "Game" }
+
+# Furnish Master https://store.steampowered.com/app/2004080/Furnish_Master/
+{ "name": "FurnishMaster.sh", "type": "Game" }
+{ "name": "FurnishMaster-Linux-Shipping", "type": "Game" }
 
 # Fury Unleashed https://store.steampowered.com/app/465200/Fury_Unleashed/
 { "name": "FuryUnleashed.x86_64", "type": "Game" }
