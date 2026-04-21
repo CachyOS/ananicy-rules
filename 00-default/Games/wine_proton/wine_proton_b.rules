@@ -5,10 +5,6 @@
 
 ### B ###
 
-# Bylina https://store.steampowered.com/app/2461440/Bylina/
-{ "name": "TheEpicProject.exe", "type": "Game" }
-{ "name": "TheEpicProject-Win64-Shipping.exe", "type": "Game" }
-
 # Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
 { "name": "Baba Is You.exe", "type": "Game" }
 
@@ -960,3 +956,7 @@
 
 # Bye Sweet Carole https://store.steampowered.com/app/2428980/Bye_Sweet_Carole/
 { "name": "Bye Sweet Carole.exe", "type": "Game" }
+
+# Bylina https://store.steampowered.com/app/2461440/Bylina/
+{ "name": "TheEpicProject.exe", "type": "Game" }
+{ "name": "TheEpicProject-Win64-Shipping.exe", "type": "Game" }

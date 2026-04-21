@@ -868,10 +868,6 @@
 # Cooking Simulator VR https://store.steampowered.com/app/1358140/Cooking_Simulator_VR/
 { "name": "CookingSimulatorVR.exe", "type": "Game" }
 
-# Cthulhu: The Cosmic Abyss https://store.steampowered.com/app/2760560/Cthulhu_The_Cosmic_Abyss/
-{ "name": "CthulhuTCA.exe", "type": "Game" }
-{ "name": "CthulhuTCA-Win64-Shipping.exe", "type": "Game" }
-
 # Cook, Serve, Delicious! https://store.steampowered.com/app/247020/Cook_Serve_Delicious/
 { "name": "CSDSteamBuild.exe", "type": "Game" }
 
@@ -880,10 +876,6 @@
 
 # Copycat https://store.steampowered.com/app/1622350/Copycat/
 { "name": "Copycat.exe", "type": "Game"}
-
-# Cralon https://store.steampowered.com/app/3440060/Cralon/
-{ "name": "Cralon.exe", "type": "Game" }
-{ "name": "Cralon-Win64-Shipping.exe", "type": "Game" }
 
 # Coral Island https://store.steampowered.com/app/1158160/Coral_Island/
 { "name": "ProjectCoral-Win64-Shipping.exe", "type": "Game"}
@@ -960,6 +952,10 @@
 
 # Crafty Survivors https://store.steampowered.com/app/2137760/Crafty_Survivors/
 { "name": "CraftySurvivors.exe", "type": "Game" }
+
+# Cralon https://store.steampowered.com/app/3440060/Cralon/
+{ "name": "Cralon.exe", "type": "Game" }
+{ "name": "Cralon-Win64-Shipping.exe", "type": "Game" }
 
 # Crash Bandicoot 4: It’s About Time https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/
 { "name": "CrashBandicoot4.exe", "type": "Game" }
@@ -1152,6 +1148,10 @@
 
 # Cthulhu Saves the World https://store.steampowered.com/app/107310/Cthulhu_Saves_the_World/
 { "name": "CSTW.exe", "type": "Game" }
+
+# Cthulhu: The Cosmic Abyss https://store.steampowered.com/app/2760560/Cthulhu_The_Cosmic_Abyss/
+{ "name": "CthulhuTCA.exe", "type": "Game" }
+{ "name": "CthulhuTCA-Win64-Shipping.exe", "type": "Game" }
 
 # Cube Escape Collection https://store.steampowered.com/app/1292940/Cube_Escape_Collection/
 { "name": "CubeEscapeCollection.exe", "type": "Game" }

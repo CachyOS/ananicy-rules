@@ -184,6 +184,9 @@
 # Scribble It! https://store.steampowered.com/app/1088150/Scribble_It/
 { "name": "ScribbleIt.exe", "type": "Game" }
 
+# Scriptorium: Master of Manuscripts https://store.steampowered.com/app/3119540/Scriptorium_Master_of_Manuscripts/
+{ "name": "Scriptorium.exe", "type": "Game" }
+
 # Scritchy Scratchy https://store.steampowered.com/app/3948120/Scritchy_Scratchy/
 { "name": "ScritchyScratchy.exe", "type": "Game" }
 
@@ -630,6 +633,10 @@
 # Sin Spire https://store.steampowered.com/app/3221770/Sin_Spire/
 { "name": "SinSpire.exe", "type": "Game" }
 
+# Sintopia https://store.steampowered.com/app/2213700/Sintopia/
+{ "name": "Sintopia.exe", "type": "Game" }
+{ "name": "Sintopia-Win64-Shipping.exe", "type": "Game" }
+
 # Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
 { "name": "SiralimUltimate.exe", "type": "Game" }
 
@@ -729,6 +736,9 @@
 # Small World https://store.steampowered.com/app/235620/Small_World/
 { "name": "SW2Executable.exe", "type": "Game" }
 { "name": "SmallWorld.exe", "type": "Game" }
+
+# Smash it Wild https://store.steampowered.com/app/2432240/Smash_it_Wild_Tactical_Volleyball_Roguelike/
+{ "name": "Smash it Wild.exe", "type": "Game" }
 
 # SMITE https://store.steampowered.com/app/386360/SMITE/
 { "name": "SmiteEAC.exe", "type": "Game" }
@@ -1766,16 +1776,6 @@
 
 # SYNTHETIK: Legion Rising https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/
 { "name": "SYNTHETIK.exe", "type": "Game" }
-
-# Sintopia https://store.steampowered.com/app/2213700/Sintopia/
-{ "name": "Sintopia.exe", "type": "Game" }
-{ "name": "Sintopia-Win64-Shipping.exe", "type": "Game" }
-
-# Scriptorium: Master of Manuscripts https://store.steampowered.com/app/3119540/Scriptorium_Master_of_Manuscripts/
-{ "name": "Scriptorium.exe", "type": "Game" }
-
-# Smash it Wild https://store.steampowered.com/app/2432240/Smash_it_Wild_Tactical_Volleyball_Roguelike/
-{ "name": "Smash it Wild.exe", "type": "Game" }
 
 # System Shock https://store.steampowered.com/app/482400/System_Shock/
 { "name": "SystemReShock-Win64-Shipping.exe", "type": "Game" }
