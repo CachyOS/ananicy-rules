@@ -376,9 +376,6 @@
 # CatTuber https://store.steampowered.com/app/1337970/CatTuber/
 { "name": "CatTuber.exe", "type": "Game" }
 
-# Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
-{ "name": "KairoGames.exe", "type": "Game" }
-
 # Caves of Qud https://store.steampowered.com/app/333640/Caves_of_Qud/
 { "name": "CoQ.exe", "type": "Game"}
 
@@ -495,7 +492,6 @@
 { "name": "chonkers.exe", "type": "Game" }
 
 # Choo-Choo Charles https://store.steampowered.com/app/1766740/ChooChoo_Charles/
-{ "name": "Obscure.exe", "type": "Game" }
 { "name": "Obscure-Win64-Shipping.exe", "type": "Game" }
 
 # ChromaGun 2: Dye Hard https://store.steampowered.com/app/2982340/ChromaGun_2_Dye_Hard/
@@ -957,6 +953,10 @@
 # Crafty Survivors https://store.steampowered.com/app/2137760/Crafty_Survivors/
 { "name": "CraftySurvivors.exe", "type": "Game" }
 
+# Cralon https://store.steampowered.com/app/3440060/Cralon/
+{ "name": "Cralon.exe", "type": "Game" }
+{ "name": "Cralon-Win64-Shipping.exe", "type": "Game" }
+
 # Crash Bandicoot 4: It’s About Time https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/
 { "name": "CrashBandicoot4.exe", "type": "Game" }
 
@@ -1149,6 +1149,10 @@
 # Cthulhu Saves the World https://store.steampowered.com/app/107310/Cthulhu_Saves_the_World/
 { "name": "CSTW.exe", "type": "Game" }
 
+# Cthulhu: The Cosmic Abyss https://store.steampowered.com/app/2760560/Cthulhu_The_Cosmic_Abyss/
+{ "name": "CthulhuTCA.exe", "type": "Game" }
+{ "name": "CthulhuTCA-Win64-Shipping.exe", "type": "Game" }
+
 # Cube Escape Collection https://store.steampowered.com/app/1292940/Cube_Escape_Collection/
 { "name": "CubeEscapeCollection.exe", "type": "Game" }
 
@@ -1164,6 +1168,9 @@
 
 # Cue Club 2: Pool & Snooker https://store.steampowered.com/app/366690/Cue_Club_2_Pool__Snooker/
 { "name": "cueclub2.exe", "type": "Game" }
+
+# Cuisineer https://store.steampowered.com/app/1963570/Cuisineer/
+{ "name": "Cuisineer.exe", "type": "Game" }
 
 # Cultivation Story: Reincarnation https://store.steampowered.com/app/1866880/Cultivation_Story_Reincarnation/
 { "name": "CultivationStoryReincarnation.exe", "type": "Game" }
@@ -1187,6 +1194,9 @@
 { "name": "Burning Skies Neon.exe", "type": "Game" }
 { "name": "Cyberhunt - Original.exe", "type": "Game" }
 { "name": "Cyberhunt.exe", "type": "Game" }
+
+# Cyber Manhunt 2: New World - The Hacking Simulator https://store.steampowered.com/app/2421410/Cyber_Manhunt_2_New_World__The_Hacking_Simulator/
+{ "name": "CyberManhunt2.exe", "type": "Game" }
 
 # Cyberpunk 2077 https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 { "name": "Cyberpunk2077.exe", "type": "Game" }

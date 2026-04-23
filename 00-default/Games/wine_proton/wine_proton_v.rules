@@ -30,6 +30,14 @@
 # Valkyria Chronicles https://store.steampowered.com/app/294860/Valkyria_Chronicles/
 { "name": "Valkyria.exe", "type": "Game" }
 
+# Valorborn https://store.steampowered.com/app/3372530/Valorborn/
+{ "name": "MedievalRPG.exe", "type": "Game" }
+{ "name": "MedievalRPG-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ValorbornLauncher.exe", "type": "BG_CPUIO" }
+
+# Vampire Crawlers https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/
+{ "name": "Vampire Crawlers.exe", "type": "Game" }
+
 # Vampires: Bloodlord Rising https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
 { "name": "VBR.exe", "type": "Game" }
 { "name": "VBR-Win64-Shipping.exe", "type": "Game" }
