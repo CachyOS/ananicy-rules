@@ -731,8 +731,9 @@
 { "name": "SmallWorld.exe", "type": "Game" }
 
 # SMITE https://store.steampowered.com/app/386360/SMITE/
-{ "name": "SmiteEAC.exe", "type": "Game" }
+{ "name": "SmiteEAC.exe", "type": "BG_CPUIO" }
 { "name": "Smite.exe", "type": "Game" }
+{ "name": "ShippingPC-BattleGame.exe", "type": "Game" }
 
 # SMITE 2 https://store.steampowered.com/app/2437170/SMITE_2/
 { "name": "Hemingway.exe", "type": "Game" }

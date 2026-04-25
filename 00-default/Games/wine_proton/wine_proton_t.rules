@@ -500,7 +500,7 @@
 # Tom Clancy’s The Division 2 https://store.steampowered.com/app/2221490/Tom_Clancys_The_Division_2/
 { "name": "TheDivision2.exe", "type": "Game" }
 { "name": "thedivision2launcher.exe", "type": "Game" }
-{ "name": "EACLaunch.exe", "type": "Game" }
+{ "name": "EACLaunch.exe", "type": "BG_CPUIO" }
 
 # Tony Hawk's Pro Skater 1 + 2 https://store.steampowered.com/app/2395210/Tony_Hawks_Pro_Skater_1__2/
 { "name": "THPS12.exe", "type": "Game" }
