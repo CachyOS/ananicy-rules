@@ -190,7 +190,7 @@
 # Insurgency: Sandstorm https://store.steampowered.com/app/581320/Insurgency_Sandstorm/
 { "name": "Insurgency.exe", "type": "Game" }
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
-{ "name": "InsurgencyEAC.exe", "type": "Game" }
+{ "name": "InsurgencyEAC.exe", "type": "BG_CPUIO" }
 
 # Interstellar Marines https://store.steampowered.com/app/236370/Interstellar_Marines/
 { "name": "InterstellarMarines.exe", "type": "Game" }
