@@ -1,2 +1,2 @@
 # Use any Linux distribution inside your terminal: https://github.com/89luca89/distrobox
-{ "name": "distrobox", "type": "BG_CPUIO" }
+{ "name": "distrobox", "type": "Service" }
