@@ -53,8 +53,9 @@
 { "name": "PaintTheTownRedVR.exe", "type": "Game" }
 
 # Paladins https://store.steampowered.com/app/444090/Paladins/
-{ "name": "PaladinsEAC.exe", "type": "Game" }
+{ "name": "PaladinsEAC.exe", "type": "BG_CPUIO" }
 { "name": "Paladins.exe", "type": "Game" }
+{ "name": "ShippingPC-ChaosGame.exe", "type": "Game" }
 
 # Paleo Pines https://store.steampowered.com/app/1202200/Paleo_Pines/
 { "name": "Paleo Pines.exe", "type": "Game" }
