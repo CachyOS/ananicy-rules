@@ -85,7 +85,7 @@
 
 # Gears 5 https://store.steampowered.com/app/1097840/Gears_5/
 { "name": "Gears5.exe", "type": "Game" }
-{ "name": "Gears5_EAC.exe", "type": "Game" }
+{ "name": "Gears5_EAC.exe", "type": "BG_CPUIO" }
 
 # Gears of War: Reloaded https://store.steampowered.com/app/2523720/Gears_of_War_Reloaded/
 { "name": "GOWDE-Steam.exe", "type": "Game" }
