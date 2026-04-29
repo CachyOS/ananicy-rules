@@ -62,6 +62,7 @@
 
 # Call of Duty: Black Ops https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
 { "name": "BlackOps.exe", "type": "Game" }
+{ "name": "BlackOpsMP.exe", "type": "Game" }
 
 # Call of Duty: Black Ops 4 https://us.shop.battle.net/en-us/family/call-of-duty-black-ops-4
 { "name": "BlackOps4.exe", "type": "Game" }
@@ -69,25 +70,16 @@
 # Call of Duty: Black Ops Cold War https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/
 { "name": "BlackOpsColdWar.exe", "type": "Game" }
 
-# Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
-
-
 # Call of Duty: Black Ops III https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
 { "name": "BlackOps3.exe", "type": "Game" }
 
-# Call of Duty: Black Ops II - Multiplayer https://store.steampowered.com/app/202970/
+# Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
 { "name": "t6mp.exe", "type": "Game" }
 { "name": "t6sp.exe", "type": "Game" }
 { "name": "t6zm.exe", "type": "Game" }
 
-# Call of Duty: Black Ops - Multiplayer https://store.steampowered.com/app/42700/
-{ "name": "BlackOpsMP.exe", "type": "Game" }
-
 # Call of Duty: Ghosts https://store.steampowered.com/app/209160/Call_of_Duty_Ghosts/
 { "name": "iw6sp64_ship.exe", "type": "Game" }
-
-# Call of Duty: Ghosts - Multiplayer https://store.steampowered.com/app/209160/
-{ "name": "iw6mp64_ship.exe", "type": "Game" }
 
 # Call of Duty: Infinite Warfare https://store.steampowered.com/app/292730/Call_of_Duty_Infinite_Warfare/
 { "name": "iw7_ship.exe", "type": "Game" }
@@ -96,9 +88,6 @@
 { "name": "ModernWarfare.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare 2 (2009) https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
-
-
-# Call of Duty: Modern Warfare 2 (2009) - Multiplayer https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
 { "name": "iw4sp.exe", "type": "Game" }
 { "name": "iw4mp.exe", "type": "Game" }
 
@@ -130,8 +119,6 @@
 
 # Call of Duty: WWII https://store.steampowered.com/app/476600/Call_of_Duty_WWII/
 { "name": "s2_sp64_ship.exe", "type": "Game" }
-
-# Call of Duty: WWII - Multiplayer https://store.steampowered.com/app/476600/
 { "name": "s2_mp64_ship.exe", "type": "Game" }
 
 # Call of Juarez https://store.steampowered.com/app/3020/Call_of_Juarez/
