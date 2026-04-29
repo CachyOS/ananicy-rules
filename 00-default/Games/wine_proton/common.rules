@@ -810,6 +810,7 @@
 { "name": "EasyAntiCheat_EOS_Setup.exe", "type": "BG_CPUIO" }
 { "name": "EAAntiCheat.GameServiceLauncher.exe", "type": "BG_CPUIO" }
 { "name": "BEService_x64.exe", "type": "BG_CPUIO" }
+{ "name": "BEService.exe", "type": "BG_CPUIO" }
 { "name": "SGuard64.exe", "type": "BG_CPUIO" }
 
 # Web helper processes
