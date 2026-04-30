@@ -17,6 +17,9 @@
 # Chromium - https://www.chromium.org/
 { "name": "chromium", "type": "Doc-View" }
 
+# Microsoft Edge - https://www.microsoft.com/en-us/edge/
+{ "name": "msedge", "type": "Doc-View" }
+{ "name": "msedge_crashpad", "type": "BG_CPUIO" }
 # Thorium - https://thorium.rocks/
 { "name": "thorium", "type": "Doc-View" }
 { "name": "thorium-browser", "type": "Doc-View" }
@@ -68,7 +71,3 @@
 
 # Floorp - https://floorp.app
 { "name": "floorp", "type": "Doc-View" }
-
-# Microsoft Edge - https://www.microsoft.com/en-us/edge/
-{ "name": "msedge", "type": "Doc-View" }
-{ "name": "msedge_crashpad", "type": "BG_CPUIO" }
