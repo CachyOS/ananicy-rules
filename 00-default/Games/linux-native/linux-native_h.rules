@@ -168,3 +168,18 @@
 
 # Hytale https://hytale.com/
 { "name": "HytaleClient", "type": "Game" }
+
+# Hacknet https://store.steampowered.com/app/365450/Hacknet/
+{ "name": "Hacknet", "type": "Game" }
+
+# Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
+{ "name": "heliborne.x86_64", "type": "Game" }
+{ "name": "heliborne.x64", "type": "Game" }
+
+# Horizon Chase Turbo https://store.steampowered.com/app/389140/Horizon_Chase_Turbo/
+{ "name": "HorizonChase.x86_64", "type": "Game" }
+{ "name": "HorizonChase.x86", "type": "Game" }
+
+# Human Resource Machine https://store.steampowered.com/app/375820/Human_Resource_Machine/
+{ "name": "HumanResourceMachine.bin.x86", "type": "Game" }
+{ "name": "HumanResourceMachine.bin.x86_64", "type": "Game" }
