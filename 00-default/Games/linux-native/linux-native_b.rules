@@ -24,6 +24,12 @@
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
 { "name": "BaldursGateII", "type": "Game" }
 
+# Ballionaire https://store.steampowered.com/app/2667120/Ballionaire/
+{ "name": "ballionaire-linux.x86_64", "type": "Game" }
+
+# BallisticNG https://store.steampowered.com/app/473770/BallisticNG/
+{ "name": "BallisticNG", "type": "Game" }
+
 # Banana https://store.steampowered.com/app/2923300/Banana/
 { "name": "Banana.x86_64", "type": "Game" }
 
@@ -53,12 +59,19 @@
 # Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
 { "name": "BC", "type": "Game" }
 
+# Battle Chef Brigade https://store.steampowered.com/app/452570/Battle_Chef_Brigade_Deluxe/
+{ "name": "BattleChefBrigade.x86", "type": "Game" }
+{ "name": "BattleChefBrigade.x86_64", "type": "Game" }
+
 # Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
 { "name": "wesnoth", "type": "Game" }
 { "name": "wesnothd", "type": "Game" }
 
 # Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
 { "name": "BattleNations", "type": "Game" }
+
+# Battle Ranch https://store.steampowered.com/app/340070/Battle_Ranch_Pigs_vs_Plants/
+{ "name": "Battle Ranch", "type": "Game" }
 
 # Battle Tanks: World War II https://store.steampowered.com/app/782670/Battle_Tanks_World_War_II/
 { "name": "Battle Tanks.x86_64", "type": "Game" }
@@ -202,7 +215,6 @@
 
 # Brotato https://store.steampowered.com/app/1942280/Brotato/
 { "name": "Brotato.x86_64", "type": "Game" }
-{ "name": "GodotWorkshopUtility.x86_64", "type": "Game" }
 
 # Brutal Legend https://store.steampowered.com/app/225260/Brutal_Legend/
 { "name": "Buddha.bin.x86", "type": "Game" }

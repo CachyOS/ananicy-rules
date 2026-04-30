@@ -77,6 +77,9 @@
 # Pan'orama https://store.steampowered.com/app/1730250/Panorama/
 { "name": "PanOrama.exe", "type": "Game" }
 
+# Pantheon: Rise of the Fallen https://store.steampowered.com/app/3107230/Pantheon_Rise_of_the_Fallen/
+{ "name": "Pantheon.exe", "type": "Game" }
+
 # Panzar https://store.steampowered.com/app/240320/Panzar/
 { "name": "PnzSteamLauncher.exe", "type": "Game" }
 { "name": "PnzCl.exe", "type": "Game" }
@@ -171,6 +174,10 @@
 { "name": "Pavlov.exe", "type": "Game" }
 { "name": "Pavlov-Win64-Shipping.exe", "type": "Game" }
 
+# Pax Dei https://store.steampowered.com/app/1995520/Pax_Dei/
+{ "name": "PaxDei.exe", "type": "Game" }
+{ "name": "PaxDeiClient-Win64-Shipping.exe", "type": "Game" }
+
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_win32_release.exe", "type": "Game" }
 { "name": "payday2_win32_release_vr.exe", "type": "Game" }
@@ -193,6 +200,10 @@
 
 # Peaks of Yore https://store.steampowered.com/app/2236070/Peaks_of_Yore/
 { "name": "Peaks of Yore.exe", "type": "Game" }
+
+# Peekaboo https://store.steampowered.com/app/1048100/Peekaboo/
+{ "name": "Peekaboo.exe", "type": "Game" }
+{ "name": "Peekaboo-Win64-Shipping.exe", "type": "Game" }
 
 # Peggle Deluxe https://store.steampowered.com/app/3480/Peggle_Deluxe/
 { "name": "Peggle.exe", "type": "Game" }
@@ -236,6 +247,13 @@
 { "name": "Peregrino.exe", "type": "Game" }
 { "name": "Peregrino-Win64-Shipping.exe", "type": "Game" }
 
+# Perfect Heist 2 https://store.steampowered.com/app/1521580/Perfect_Heist_2/
+{ "name": "PerfectHeist2.exe", "type": "Game" }
+{ "name": "PerfectHeist2-Win64-Shipping.exe", "type": "Game" }
+
+# Peripeteia https://store.steampowered.com/app/1437760/Peripeteia/
+{ "name": "Peripeteia.exe", "type": "Game" }
+
 # Persona 3 Portable https://store.steampowered.com/app/1809700/Persona_3_Portable/
 { "name": "P3P.exe", "type": "Game" }
 
@@ -269,8 +287,15 @@
 # Phantasy Star Online 2 New Genesis https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
 { "name": "pso2.exe", "type": "Game" }
 
+# Phantom Breaker: Battle Grounds https://store.steampowered.com/app/329490/Phantom_Breaker_Battle_Grounds_Classic/
+{ "name": "pbbg_win32.exe", "type": "Game" }
+
 # Phantom Brigade https://store.steampowered.com/app/553540/Phantom_Brigade/
 { "name": "PhantomBrigade.exe", "type": "Game" }
+
+# Phantom Doctrine https://store.steampowered.com/app/559100/Phantom_Doctrine/
+{ "name": "IWTB.exe", "type": "Game" }
+{ "name": "IWTB-Win64-Shipping.exe", "type": "Game" }
 
 # Phantom Squad https://store.steampowered.com/app/2841770/Phantom_Squad/
 { "name": "PhantomSquad.exe", "type": "Game" }
@@ -284,11 +309,11 @@
 # Phoenix Wright: Ace Attorney Trilogy https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/
 { "name": "PWAAT.exe", "type": "Game" }
 
+# Picayune Dreams https://store.steampowered.com/app/2088840/Picayune_Dreams/
+{ "name": "PICAYUNEDREAMS.exe", "type": "Game" }
+
 # PickCrafter https://store.steampowered.com/app/734750/PickCrafter/
 { "name": "PickCrafter.exe", "type": "Game" }
-
-# PICO PARK https://store.steampowered.com/app/461040/PICO_PARKClassic_Edition/
-{ "name": "pico_park.exe", "type": "Game" }
 
 # PICO PARK 2 https://store.steampowered.com/app/2644470/PICO_PARK_2/
 { "name": "pico_park_2.exe", "type": "Game" }
@@ -336,6 +361,9 @@
 # Pit People https://store.steampowered.com/app/291860/Pit_People/
 { "name": "pitpeople.exe", "type": "Game" }
 
+# PixARK https://store.steampowered.com/app/593600/PixARK/
+{ "name": "PixARK.exe", "type": "Game" }
+
 # Pixel Gun 3D: PC Edition https://store.steampowered.com/app/2524890/Pixel_Gun_3D_PC_Edition/
 { "name": "Pixel Gun 3D.exe", "type": "Game" }
 
@@ -351,6 +379,12 @@
 
 # Pixel Puzzles: Japan https://store.steampowered.com/app/284950/Pixel_Puzzles_Japan/
 { "name": "Pixel Puzzles - Japan.exe", "type": "Game" }
+
+# Pixel Puzzles Ultimate Jigsaw Puzzles https://store.steampowered.com/app/351030/Pixel_Puzzles_Ultimate_Jigsaw_Puzzles/
+{ "name": "Pixel Puzzles Ultimate.exe", "type": "Game" }
+
+# Pixel Strike 3D https://store.steampowered.com/app/915320/Pixel_Strike_3D/
+{ "name": "PixelStrike3D.exe", "type": "Game" }
 
 # Pixel Worlds: MMO Sandbox https://store.steampowered.com/app/636040/Pixel_Worlds_MMO_Sandbox/
 { "name": "PixelWorlds.exe", "type": "Game" }
@@ -385,6 +419,9 @@
 # Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
 { "name": "pa.exe", "type": "Game" }
 
+# Planetbase https://store.steampowered.com/app/403190/Planetbase/
+{ "name": "Planetbase.exe", "type": "Game" }
+
 # Planet Coaster https://store.steampowered.com/app/493340/Planet_Coaster/
 { "name": "PlanetCoaster.exe", "type": "Game" }
 
@@ -412,6 +449,9 @@
 # PlateUp! https://store.steampowered.com/app/1599600/PlateUp/
 { "name": "PlateUp.exe", "type": "Game" }
 
+# Platform 8 https://store.steampowered.com/app/2903560/Platform_8/
+{ "name": "Platform8.exe", "type": "Game" }
+
 # Play Together https://store.steampowered.com/app/3198850/Play_Together/
 { "name": "PlayTogether.exe", "type": "Game" }
 
@@ -420,6 +460,9 @@
 
 # Plebby Quest: The Crusades https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/
 { "name": "PQTC.exe", "type": "Game" }
+
+# Pogostuck: Rage With Your Friends https://store.steampowered.com/app/688130/Pogostuck_Rage_With_Your_Friends/
+{ "name": "Pogostuck.exe", "type": "Game" }
 
 # Poker Night 2 https://store.steampowered.com/app/234710/Poker_Night_2/
 { "name": "PokerNight2.exe", "type": "Game" }
@@ -449,6 +492,9 @@
 # Pool Nation https://store.steampowered.com/app/254440/Pool_Nation/
 { "name": "Pool.exe", "type": "Game" }
 
+# Pool Nation FX https://store.steampowered.com/app/314000/Pool_Nation_FX_Lite/
+{ "name": "PoolNationFX.exe", "type": "Game" }
+
 # Poppy Playtime https://store.steampowered.com/app/1721470/Poppy_Playtime/
 { "name": "Poppy_Playtime.exe", "type": "Game" }
 { "name": "Poppy_Playtime-Win64-Shipping.exe", "type": "Game" }
@@ -471,8 +517,14 @@
 { "name": "ch5_pro.exe", "type": "Game" }
 { "name": "ch5_pro-Win64-Shipping.exe", "type": "Game" }
 
+# POPUCOM https://store.steampowered.com/app/2543180/POPUCOM/
+{ "name": "Popucom.exe", "type": "Game" }
+
 # Portal 2 https://store.steampowered.com/app/620/Portal_2/
 { "name": "portal2.exe", "type": "Game" }
+
+# Portal Knights https://store.steampowered.com/app/374040/Portal_Knights/
+{ "name": "portal_knights_x64.exe", "type": "Game" }
 
 # Portal: Revolution https://store.steampowered.com/app/601360/Portal_Revolution/
 { "name": "revolution.exe", "type": "Game" }
@@ -507,8 +559,15 @@
 # Potion Craft: Alchemist Simulator https://store.steampowered.com/app/1210320/Potion_Craft_Alchemist_Simulator/
 { "name": "Potion Craft.exe", "type": "Game" }
 
+# Potionomics https://store.steampowered.com/app/1874490/Potionomics/
+{ "name": "Potionomics.exe", "type": "Game" }
+{ "name": "Potionomics-Win64-Shipping.exe", "type": "Game" }
+
 # Potion Permit https://store.steampowered.com/app/1337760/Potion_Permit/
 { "name": "Potion Permit.exe", "type": "Game" }
+
+# Power Rangers: Battle for the Grid https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/
+{ "name": "BattleForTheGrid.exe", "type": "Game" }
 
 # PowerWash Simulator https://store.steampowered.com/app/1290000/PowerWash_Simulator/
 { "name": "PowerWashSimulator.exe", "type": "Game" }
@@ -533,6 +592,9 @@
 
 # Prehistoric Kingdom https://store.steampowered.com/app/666150/Prehistoric_Kingdom/
 { "name": "Prehistoric Kingdom.exe", "type": "Game" }
+
+# Pretty Neko https://store.steampowered.com/app/1212620/Pretty_Neko/
+{ "name": "PrettyNeko.exe", "type": "Game" }
 
 # Prey https://store.steampowered.com/app/480490/Prey/
 { "name": "Prey.exe", "type": "Game" }
@@ -565,6 +627,9 @@
 # Prince of Persia: Warrior Within https://store.steampowered.com/app/13500/Prince_of_Persia_Warrior_Within/
 { "name": "POP2.EXE", "type": "Game" }
 
+# Princess Maker 2 Refine https://store.steampowered.com/app/523000/Princess_Maker_2_Refine/
+{ "name": "pm2.exe", "type": "Game" }
+
 # Prison Architect https://store.steampowered.com/app/233450/Prison_Architect/
 { "name": "Prison Architect.exe", "type": "Game" }
 { "name": "prison architect64.exe", "type": "Game" }
@@ -575,6 +640,9 @@
 # Pro Cycling Manager 25 https://store.steampowered.com/app/2511310/Pro_Cycling_Manager_25/
 { "name": "PCM-Win64-Shipping.exe", "type": "Game" }
 { "name": "PCM.exe", "type": "Game" }
+
+# Prodeus https://store.steampowered.com/app/964800/Prodeus/
+{ "name": "Prodeus.exe", "type": "Game" }
 
 # Pro Evolution Soccer 2013 https://steamdb.info/app/221430/
 { "name": "pes2013.exe", "type": "Game" }
@@ -596,6 +664,9 @@
 
 # PRO FISHING SIMULATOR https://store.steampowered.com/app/794180/PRO_FISHING_SIMULATOR/
 { "name": "ProFishingSimulator.exe", "type": "Game" }
+
+# Progressbar95 https://store.steampowered.com/app/1304550/Progressbar95/
+{ "name": "Progressbar95.exe", "type": "Game" }
 
 # Project CARS https://store.steampowered.com/app/234630/Project_CARS/
 { "name": "pCARS.exe", "type": "Game" }
@@ -699,6 +770,9 @@
 
 # Punch Club 2: Fast Forward https://store.steampowered.com/app/1161590/Punch_Club_2_Fast_Forward/
 { "name": "Punch Club 2 Fast Forward.exe", "type": "Game" }
+
+# Pure Farming 2018 https://store.steampowered.com/app/534370/Pure_Farming_2018/
+{ "name": "PureFarming.exe", "type": "Game" }
 
 # Puyo PuyoTetris https://store.steampowered.com/app/546050/Puyo_PuyoTetris/
 { "name": "puyopuyotetris.exe", "type": "Game" }

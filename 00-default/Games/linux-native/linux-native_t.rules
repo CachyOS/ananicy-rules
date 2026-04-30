@@ -8,6 +8,10 @@
 # Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.x86_64", "type": "Game" }
 
+# Tails of Iron https://store.steampowered.com/app/1283410/Tails_of_Iron/
+{ "name": "TOI1ArtBook.x86_64", "type": "Game" }
+{ "name": "TOI.x86_64", "type": "Game" }
+
 # Tales of Maj'Eyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
 { "name": "t-engine", "type": "Game" }
 { "name": "t-engine64", "type": "Game" }
@@ -55,11 +59,18 @@
 # Them's Fightin' Herds https://store.steampowered.com/app/574980/Thems_Fightin_Herds/
 { "name": "ThemsFightinHerds.Linux.x64", "type": "Game" }
 
+# TheoTown https://store.steampowered.com/app/1084020/TheoTown/
+{ "name": "TheoTown32", "type": "Game" }
+{ "name": "TheoTown64", "type": "Game" }
+
 # They Bleed Pixels https://store.steampowered.com/app/211260/They_Bleed_Pixels/
 { "name": "TheyBleedPixels", "type": "Game" }
 
 # Thirty Flights of Loving https://store.steampowered.com/app/214700/Thirty_Flights_of_Loving/
 { "name": "tfol", "type": "Game" }
+
+# This Is the Police https://store.steampowered.com/app/443810/This_Is_the_Police/
+{ "name": "Police.x86_64", "type": "Game" }
 
 # This War of Mine https://store.steampowered.com/app/282070/This_War_of_Mine/
 { "name": "This War of Mine", "type": "Game" }
@@ -74,6 +85,9 @@
 # Ticket to Ride: Classic Edition https://store.steampowered.com/app/108200/Ticket_to_Ride_Classic_Edition/
 { "name": "Ticket to Ride", "type": "Game" }
 
+# Timberman https://store.steampowered.com/app/398710/Timberman/
+{ "name": "Timberman.x86_64", "type": "Game" }
+
 # Timespinner https://store.steampowered.com/app/368620/Timespinner/
 { "name": "Timespinner", "type": "Game" }
 
@@ -86,8 +100,15 @@
 # Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
 { "name": "tiny-glade", "type": "Game" }
 
+# TIS-100 https://store.steampowered.com/app/370360/TIS100/
+{ "name": "tis100.x86", "type": "Game" }
+{ "name": "tis100.x86_64", "type": "Game" }
+
 # tModLoader https://store.steampowered.com/app/1281930/tModLoader/
 { "name": "tModLoader", "type": "Game" }
+
+# ToeJam & Earl: Back in the Groove https://store.steampowered.com/app/516110/ToeJam__Earl_Back_in_the_Groove/
+{ "name": "backinthegroove.x86_64", "type": "Game" }
 
 # TOEM: A Photo Adventure https://store.steampowered.com/app/1307580/TOEM_A_Photo_Adventure/
 { "name": "TOEM.x86_64", "type": "Game" }
@@ -202,6 +223,9 @@
 # Turmoil https://store.steampowered.com/app/361280/Turmoil/
 { "name": "Turmoil.x86_64", "type": "Game" }
 
+# Turnip Boy Commits Tax Evasion https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/
+{ "name": "Turnip Boy Commits Tax Evasion.x86_64", "type": "Game" }
+
 # Turok https://store.steampowered.com/app/405820/Turok/
 { "name": "TurokEx", "type": "Game" }
 
@@ -230,3 +254,6 @@
 { "name": "tyr-glqwcl", "type": "Game" }
 { "name": "tyr-quake", "type": "Game" }
 { "name": "tyr-qwcl", "type": "Game" }
+
+# TY the Tasmanian Tiger https://store.steampowered.com/app/411960/TY_the_Tasmanian_Tiger/
+{ "name": "TY", "type": "Game" }

@@ -36,6 +36,10 @@
 { "name": "NightmaresFromTheDeep_TheCursedHeart_amd64", "type": "Game" }
 { "name": "NightmaresFromTheDeep_TheCursedHeart_i386", "type": "Game" }
 
+# NightSky https://store.steampowered.com/app/99700/NightSky/
+{ "name": "nightsky.x64", "type": "Game" }
+{ "name": "nightsky.i386", "type": "Game" }
+
 # Nihilumbra https://store.steampowered.com/app/252670/Nihilumbra/
 { "name": "Nihilumbra.x86", "type": "Game" }
 { "name": "Nihilumbra.x86_64", "type": "Game" }

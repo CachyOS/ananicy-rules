@@ -11,6 +11,9 @@
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 { "name": "Offworld.x86_64", "type": "Game" }
 
+# Old World https://store.steampowered.com/app/597180/Old_World/
+{ "name": "OldWorld", "type": "Game" }
+
 # OneShot https://store.steampowered.com/app/420530/OneShot/
 { "name": "oneshot", "type": "Game" }
 
@@ -51,6 +54,10 @@
 
 # Outlast https://store.steampowered.com/app/238320/Outlast/
 { "name": "OLGame.x86_64", "type": "Game" }
+
+# Out of Space https://store.steampowered.com/app/400080/Out_of_Space/
+{ "name": "Out of Space.x86", "type": "Game" }
+{ "name": "Out of Space.x86_64", "type": "Game" }
 
 # Out of the Park Baseball 17 https://store.steampowered.com/app/402430/Out_of_the_Park_Baseball_17/
 { "name": "ootp_linux32r", "type": "Game" }

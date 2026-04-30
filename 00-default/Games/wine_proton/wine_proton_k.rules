@@ -5,11 +5,19 @@
 
 ### K ###
 
+# Kabounce https://store.steampowered.com/app/431930/Kabounce/
+{ "name": "KABOUNCE.exe", "type": "Game" }
+{ "name": "KABOUNCE-Win64-Shipping.exe", "type": "Game" }
+
 # Kabuto Park https://store.steampowered.com/app/3376990/Kabuto_Park/
 { "name": "KabutoPark.exe", "type": "Game" }
 
 # Kade Engine https://gamebanana.com/mods/44291/
 { "name": "Kade Engine.exe", "type": "Game" }
+
+# Kagura Survivors: Endless Night https://store.steampowered.com/app/2348120/Kagura_Survivors_Endless_Night/
+{ "name": "Kagura_Survivors.exe", "type": "Game" }
+{ "name": "KaguraSurvivors-Win64-Shipping.exe", "type": "Game" }
 
 # Kairo https://store.steampowered.com/app/233230/Kairo/
 { "name": "kairo.exe", "type": "Game" }
@@ -23,12 +31,18 @@
 # KAMITSUBAKI CITY ENSEMBLE https://store.steampowered.com/app/2581050/KAMITSUBAKI_CITY_ENSEMBLE/
 { "name": "KAMITSUBAKI CITY ENSEMBLE.exe", "type": "Game" }
 
+# Kandidatos https://store.steampowered.com/app/1395560/Kandidatos/
+{ "name": "Kandidatos.exe", "type": "Game" }
+
 # Kane and Lynch: Dead Men https://store.steampowered.com/app/8080/Kane_and_Lynch_Dead_Men/
 { "name": "knlterm.exe", "type": "Game" }
 { "name": "kaneandlynch.exe", "type": "Game" }
 
 # Kane & Lynch 2: Dog Days https://store.steampowered.com/app/28000/Kane__Lynch_2_Dog_Days/
 { "name": "KL2.exe", "type": "Game" }
+
+# KARAKARA https://store.steampowered.com/app/487430/KARAKARA/
+{ "name": "KARAKARA.exe", "type": "Game" }
 
 # Karate Survivor https://store.steampowered.com/app/3027930/Karate_Survivor/
 { "name": "KarateSurvivor.exe", "type": "Game" }
@@ -45,6 +59,10 @@
 
 # Kart Racing Pro https://store.steampowered.com/app/415600/Kart_Racing_Pro/
 { "name": "kart.exe", "type": "Game" }
+
+# KartRider: Drift https://store.steampowered.com/app/1184140/KartRider_Drift/
+{ "name": "KartDrift.exe", "type": "Game" }
+{ "name": "KartDrift-Win64-Shipping.exe", "type": "Game" }
 
 # Katamari Damacy REROLL https://store.steampowered.com/app/848350/Katamari_Damacy_REROLL/
 { "name": "katamari.exe", "type": "Game" }
@@ -123,6 +141,14 @@
 # Killing Room https://store.steampowered.com/app/407560/Killing_Room/
 { "name": "KillingRoom.exe", "type": "Game" }
 
+# Kill It With Fire https://store.steampowered.com/app/1179210/Kill_It_With_Fire/
+{ "name": "Kani.exe", "type": "Game" }
+{ "name": "Kani-Win64-Shipping.exe", "type": "Game" }
+
+# KILL KNIGHT https://store.steampowered.com/app/2694420/KILL_KNIGHT/
+{ "name": "KILL KNIGHT.exe", "type": "Game" }
+{ "name": "KillKnightRunner.exe", "type": "Game" }
+
 # Kill The Crows https://store.steampowered.com/app/2441270/Kill_The_Crows/
 { "name": "revolver.exe", "type": "Game" }
 
@@ -154,9 +180,6 @@
 
 # KINGDOM HEARTS III + Re Mind (DLC) https://store.steampowered.com/app/2552450/KINGDOM_HEARTS_III__Re_Mind_DLC/
 { "name": "KINGDOM HEARTS III.exe", "type": "Game" }
-
-# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
-{ "name": "Kingdom.exe", "type": "Game" }
 
 # Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
 { "name": "Kingdom Rush Alliance.exe", "type": "Game" }
@@ -191,6 +214,9 @@
 # Kingdom Wars https://store.steampowered.com/app/227180/Kingdom_Wars/
 { "name": "Dawn.exe", "type": "Game" }
 { "name": "Dof.exe", "type": "Game" }
+
+# King of Crabs https://store.steampowered.com/app/1273710/King_of_Crabs/
+{ "name": "King of Crabs.exe", "type": "Game" }
 
 # King of Retail https://store.steampowered.com/app/968250/King_of_Retail/
 { "name": "KingOfRetail.exe", "type": "Game" }
@@ -236,6 +262,9 @@
 
 # Knights of Honor https://store.steampowered.com/app/25830/Knights_of_Honor/
 { "name": "KoH.exe", "type": "Game" }
+
+# Knights of Honor II: Sovereign https://store.steampowered.com/app/736820/Knights_of_Honor_II_Sovereign/
+{ "name": "Sovereign.exe", "type": "Game" }
 
 # Knights of Pen and Paper +1 Edition https://store.steampowered.com/app/231740/Knights_of_Pen_and_Paper_1_Edition/
 { "name": "knightspp.exe", "type": "Game" }
