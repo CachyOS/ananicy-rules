@@ -224,7 +224,11 @@
 { "name": "X-Plane-x86_64", "type": "Game" }
 
 
+
+
 # Source dedicated server
 { "name": "srcds_i486", "type": "Game" }
 { "name": "srcds_run", "type": "Game" }
 
+# Crash handlers
+{ "name": "CrashReportClient", "type": "BG_CPUIO" }

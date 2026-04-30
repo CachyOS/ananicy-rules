@@ -804,6 +804,8 @@
 { "name": "CrashLogsGenerator.exe", "type": "BG_CPUIO" }
 { "name": "codCrashHandler.exe", "type": "BG_CPUIO" }
 { "name": "bootstrapperCrashHandler.exe", "type": "BG_CPUIO" }
+{ "name": "UnityCrashHandler64.exe", "type": "BG_CPUIO" }
+{ "name": "UnityCrashHandler32.exe", "type": "BG_CPUIO" }
 
 # Anti-cheat clients
 { "name": "start_protected_game.exe", "type": "BG_CPUIO" }
