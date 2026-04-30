@@ -36,6 +36,10 @@
 { "name": "Reigns.x86", "type": "Game" }
 { "name": "Reigns.x86_64", "type": "Game" }
 
+# Reigns: Game of Thrones https://store.steampowered.com/app/897820/Reigns_Game_of_Thrones/
+{ "name": "ReignsGoT.x86_64", "type": "Game" }
+{ "name": "ReignsGoT.x86", "type": "Game" }
+
 # Reigns: Her Majesty https://store.steampowered.com/app/717640/Reigns_Her_Majesty/
 { "name": "Reigns2.x86", "type": "Game" }
 { "name": "Reigns2.x86_64", "type": "Game" }
@@ -79,6 +83,15 @@
 # Risk of Rain (2013) https://store.steampowered.com/app/248820/Risk_of_Rain_2013/
 { "name": "Risk_of_Rain", "type": "Game" }
 
+# River City Ransom: Underground https://store.steampowered.com/app/422810/River_City_Ransom_Underground/
+{ "name": "RCRU", "type": "Game" }
+
+# Road Redemption https://store.steampowered.com/app/300380/Road_Redemption/
+{ "name": "RoadRedemption.x86_64", "type": "Game" }
+
+# Roadwarden https://store.steampowered.com/app/1155970/Roadwarden/
+{ "name": "Roadwarden", "type": "Game" }
+
 # Robocraft http://store.steampowered.com/app/301520/Robocraft/
 { "name": "Robocraft.x86_64", "type": "Game" }
 
@@ -108,6 +121,9 @@
 { "name": "RogueLegacy2", "type": "Game" }
 { "name": "RogueLegacy2.x86_64", "type": "Game" }
 
+# Roots of Pacha https://store.steampowered.com/app/1245560/Roots_of_Pacha/
+{ "name": "Roots of Pacha.x86_64", "type": "Game" }
+
 # rott http://icculus.org/rott/
 { "name": "rott-registered", "type": "Game" }
 { "name": "rott-shareware", "type": "Game" }
@@ -131,19 +147,3 @@
 
 # Rust https://store.steampowered.com/app/252490/Rust/
 { "name": "rust", "type": "Game" }
-
-# Reigns: Game of Thrones https://store.steampowered.com/app/897820/Reigns_Game_of_Thrones/
-{ "name": "ReignsGoT.x86_64", "type": "Game" }
-{ "name": "ReignsGoT.x86", "type": "Game" }
-
-# River City Ransom: Underground https://store.steampowered.com/app/422810/River_City_Ransom_Underground/
-{ "name": "RCRU", "type": "Game" }
-
-# Road Redemption https://store.steampowered.com/app/300380/Road_Redemption/
-{ "name": "RoadRedemption.x86_64", "type": "Game" }
-
-# Roadwarden https://store.steampowered.com/app/1155970/Roadwarden/
-{ "name": "Roadwarden", "type": "Game" }
-
-# Roots of Pacha https://store.steampowered.com/app/1245560/Roots_of_Pacha/
-{ "name": "Roots of Pacha.x86_64", "type": "Game" }

@@ -8,6 +8,9 @@
 # AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome https://store.steampowered.com/app/15560/AaaaaAAaaaAAAaaAAAAaAAAAA_for_the_Awesome/
 { "name": "Awesome.x86", "type": "Game" }
 
+# Absolute Drift https://store.steampowered.com/app/320140/Absolute_Drift/
+{ "name": "AbsoluteDrift.x64", "type": "Game" }
+
 # A Building Full of Cats https://store.steampowered.com/app/1969080/A_Building_Full_of_Cats/
 { "name": "Building.x86_64", "type": "Game" }
 
@@ -40,31 +43,12 @@
 # Adventures of Shuggy https://store.steampowered.com/app/211440/Adventures_of_Shuggy/
 { "name": "Shuggy", "type": "Game" }
 
-# Aerofly FS 4 Flight Simulator https://store.steampowered.com/app/1995890/Aerofly_FS_4_Flight_Simulator/
-{ "name": "aerofly_fs_4_x64", "type": "Game" }
-
-# Absolute Drift https://store.steampowered.com/app/320140/Absolute_Drift/
-{ "name": "AbsoluteDrift.x64", "type": "Game" }
-
 # AER Memories of Old https://store.steampowered.com/app/331870/AER_Memories_of_Old/
 { "name": "AER.x86", "type": "Game" }
 { "name": "AER.x86_64", "type": "Game" }
 
-# Among Ripples https://store.steampowered.com/app/341720/Among_Ripples/
-{ "name": "AmongRipples.x86_64", "type": "Game" }
-{ "name": "AmongRipples.x86", "type": "Game" }
-
-# Anomaly Agent https://store.steampowered.com/app/2378620/Anomaly_Agent/
-{ "name": "Anomaly Agent.x86_64", "type": "Game" }
-
-# APICO https://store.steampowered.com/app/1390190/APICO/
-{ "name": "APICO", "type": "Game" }
-
-# Ash of Gods: Redemption https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/
-{ "name": "terminus.x86_64", "type": "Game" }
-
-# ATOM RPG https://store.steampowered.com/app/552620/ATOM_RPG_Postapocalyptic_indie_game/
-{ "name": "AtomRPG.x86_64", "type": "Game" }
+# Aerofly FS 4 Flight Simulator https://store.steampowered.com/app/1995890/Aerofly_FS_4_Flight_Simulator/
+{ "name": "aerofly_fs_4_x64", "type": "Game" }
 
 # Aeterna Noctis https://store.steampowered.com/app/1517970/Aeterna_Noctis/
 { "name": "Aeterna Noctis.exe", "type": "Game" }
@@ -160,6 +144,10 @@
 { "name": "Amnesia_NOSTEAM.bin.x86", "type": "Game" }
 { "name": "Amnesia_NOSTEAM.bin.x86_64", "type": "Game" }
 
+# Among Ripples https://store.steampowered.com/app/341720/Among_Ripples/
+{ "name": "AmongRipples.x86_64", "type": "Game" }
+{ "name": "AmongRipples.x86", "type": "Game" }
+
 # Among the Sleep - Enhanced Edition https://store.steampowered.com/app/250620/Among_the_Sleep__Enhanced_Edition/
 { "name": "Among the Sleep.x86", "type": "Game" }
 
@@ -188,6 +176,9 @@
 # Anomaly 2 https://store.steampowered.com/app/236730/Anomaly_2/
 { "name": "Anomaly2Linux", "type": "Game" }
 
+# Anomaly Agent https://store.steampowered.com/app/2378620/Anomaly_Agent/
+{ "name": "Anomaly Agent.x86_64", "type": "Game" }
+
 # Anomaly: Warzone Earth https://store.steampowered.com/app/91200/Anomaly_Warzone_Earth/
 { "name": "AnomalyWarzoneEarth", "type": "Game" }
 
@@ -196,6 +187,9 @@
 
 # Aperture Desk Job https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
 { "name": "deskjob", "type": "Game" }
+
+# APICO https://store.steampowered.com/app/1390190/APICO/
+{ "name": "APICO", "type": "Game" }
 
 # Apotheon https://store.steampowered.com/app/208750/Apotheon/
 { "name": "Apotheon", "type": "Game" }
@@ -227,6 +221,9 @@
 # Aseprite https://store.steampowered.com/app/431730/Aseprite/
 { "name": "aseprite", "type": "Game" }
 
+# Ash of Gods: Redemption https://store.steampowered.com/app/691690/Ash_of_Gods_Redemption/
+{ "name": "terminus.x86_64", "type": "Game" }
+
 # A Short Hike https://store.steampowered.com/app/1055540/A_Short_Hike/
 { "name": "AShortHike.x86", "type": "Game" }
 { "name": "AShortHike.x86_64", "type": "Game" }
@@ -243,6 +240,9 @@
 
 # ATLYSS https://store.steampowered.com/app/2768430/ATLYSS/
 { "name": "ATLYSS_LINUX_E.x86_64", "type": "Game" }
+
+# ATOM RPG https://store.steampowered.com/app/552620/ATOM_RPG_Postapocalyptic_indie_game/
+{ "name": "AtomRPG.x86_64", "type": "Game" }
 
 # ATOM RPG Trudograd https://store.steampowered.com/app/1139940/ATOM_RPG_Trudograd/
 { "name": "Trudograd.x86_64", "type": "Game" }

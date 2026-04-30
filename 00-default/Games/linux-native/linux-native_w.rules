@@ -49,6 +49,9 @@
 # We Happy Few https://store.steampowered.com/app/320240/We_Happy_Few/
 { "name": "GlimpseGame", "type": "Game" }
 
+# We Need To Go Deeper https://store.steampowered.com/app/307110/We_Need_To_Go_Deeper/
+{ "name": "WeNeedToGoDeeper", "type": "Game" }
+
 # West of Loathing https://store.steampowered.com/app/597220/West_of_Loathing/
 { "name": "West of Loathing.x86", "type": "Game" }
 { "name": "West of Loathing.x86_64", "type": "Game" }
@@ -64,11 +67,19 @@
 # Wildermyth https://store.steampowered.com/app/763890/Wildermyth/
 { "name": "wildermyth", "type": "Game" }
 
+# Windowkill https://store.steampowered.com/app/2726450/Windowkill/
+{ "name": "windowkill-linux.x86_64", "type": "Game" }
+{ "name": "godotworkshoputility.x86_64", "type": "Game" }
+
 # Wireworks https://store.steampowered.com/app/4206270/Wireworks/
 { "name": "Wireworks.x86_64", "type": "Game" }
 
 # Without Within https://store.steampowered.com/app/345650/Without_Within/
 { "name": "without_within", "type": "Game" }
+
+# Wizard of Legend https://store.steampowered.com/app/445980/Wizard_of_Legend/
+{ "name": "WizardOfLegend.x86", "type": "Game" }
+{ "name": "WizardOfLegend.x86_64", "type": "Game" }
 
 # WolfQuest: Anniversary Edition https://store.steampowered.com/app/926990/WolfQuest_Anniversary_Edition/
 { "name": "WolfQuestAE.x86_64", "type": "Game" }
@@ -90,17 +101,6 @@
 
 # Worms Reloaded https://store.steampowered.com/app/22600/Worms_Reloaded/
 { "name": "WormsReloaded.bin.x86", "type": "Game" }
-
-# We Need To Go Deeper https://store.steampowered.com/app/307110/We_Need_To_Go_Deeper/
-{ "name": "WeNeedToGoDeeper", "type": "Game" }
-
-# Windowkill https://store.steampowered.com/app/2726450/Windowkill/
-{ "name": "windowkill-linux.x86_64", "type": "Game" }
-{ "name": "godotworkshoputility.x86_64", "type": "Game" }
-
-# Wizard of Legend https://store.steampowered.com/app/445980/Wizard_of_Legend/
-{ "name": "WizardOfLegend.x86", "type": "Game" }
-{ "name": "WizardOfLegend.x86_64", "type": "Game" }
 
 # Worms W.M.D https://store.steampowered.com/app/327030/Worms_WMD/
 { "name": "Worms W.M.Dx64", "type": "Game" }

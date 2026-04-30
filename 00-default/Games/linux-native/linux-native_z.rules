@@ -5,6 +5,9 @@
 
 ### Z ###
 
+# Zaccaria Pinball https://store.steampowered.com/app/444930/Zaccaria_Pinball/
+{ "name": "ZaccariaPinball", "type": "Game" }
+
 # zdoom https://zdoom.org/
 { "name": "gzdoom", "type": "Game" }
 { "name": "zdoom", "type": "Game" }
@@ -12,9 +15,6 @@
 # Zero-K https://store.steampowered.com/app/334920/ZeroK/
 { "name": "Zero-K_linux64", "type": "Game" }
 { "name": "Zero-K_linux32", "type": "Game" }
-
-# Zaccaria Pinball https://store.steampowered.com/app/444930/Zaccaria_Pinball/
-{ "name": "ZaccariaPinball", "type": "Game" }
 
 # Ziggurat 2 https://store.steampowered.com/app/1159560/Ziggurat_2/
 { "name": "Ziggurat2", "type": "Game" }

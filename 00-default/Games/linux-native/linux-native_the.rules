@@ -18,6 +18,9 @@
 # The Battle of Polytopia https://store.steampowered.com/app/874390/The_Battle_of_Polytopia/
 { "name": "Polytopia.x86_64", "type": "Game" }
 
+# The Beginner's Guide https://store.steampowered.com/app/303210/The_Beginners_Guide/
+{ "name": "beginnersguide.bin", "type": "Game" }
+
 # The Binding of Isaac: Rebirth https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac.i386", "type": "Game" }
 { "name": "isaac.x64", "type": "Game" }
@@ -44,11 +47,18 @@
 # The Dark Eye: Chains of Satinav https://store.steampowered.com/app/203830/The_Dark_Eye_Chains_of_Satinav/
 { "name": "satinav", "type": "Game" }
 
+# The Deer https://store.steampowered.com/app/400240/The_Deer/
+{ "name": "TheDeer.x86", "type": "Game" }
+{ "name": "TheDeer.x86_64", "type": "Game" }
+
 # The Dishwasher: Vampire Smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
 { "name": "VampireSmile", "type": "Game" }
 
 # The Drifter https://store.steampowered.com/app/1170570/The_Drifter/
 { "name": "TheDrifter.x64", "type": "Game" }
+
+# The End Is Nigh https://store.steampowered.com/app/583470/The_End_Is_Nigh/
+{ "name": "TheEndIsNigh", "type": "Game" }
 
 # The Escapists 2 https://store.steampowered.com/app/641990/The_Escapists_2/
 { "name": "TheEscapists2.x86", "type": "Game" }
@@ -140,6 +150,9 @@
 # THE LONGING https://store.steampowered.com/app/893850/THE_LONGING/
 { "name": "The Longing.x86", "type": "Game" }
 
+# The Mean Greens - Plastic Warfare https://store.steampowered.com/app/360940/The_Mean_Greens__Plastic_Warfare/
+{ "name": "TheMeanGreens-Linux-Shipping", "type": "Game" }
+
 # The Mooseman https://store.steampowered.com/app/574310/The_Mooseman/
 { "name": "Mooseman.x86", "type": "Game" }
 
@@ -179,28 +192,14 @@
 # The Uncertain: Last Quiet Day https://store.steampowered.com/app/406970/The_Uncertain_Last_Quiet_Day/
 { "name": "TUE1.x86_64", "type": "Game" }
 
+# The Universim https://store.steampowered.com/app/352720/The_Universim/
+{ "name": "The Universim.x86_64", "type": "Game" }
+
 # The Wandering Village https://store.steampowered.com/app/1121640/The_Wandering_Village/
 { "name": "WanderingVillage.x86_64", "type": "Game" }
 
 # The Whispered World Special Edition https://store.steampowered.com/app/268540/The_Whispered_World_Special_Edition/
 { "name": "TWWSE", "type": "Game" }
 
-# The Beginner's Guide https://store.steampowered.com/app/303210/The_Beginners_Guide/
-{ "name": "beginnersguide.bin", "type": "Game" }
-
-# The Deer https://store.steampowered.com/app/400240/The_Deer/
-{ "name": "TheDeer.x86", "type": "Game" }
-{ "name": "TheDeer.x86_64", "type": "Game" }
-
-# The End Is Nigh https://store.steampowered.com/app/583470/The_End_Is_Nigh/
-{ "name": "TheEndIsNigh", "type": "Game" }
-
-# The Mean Greens - Plastic Warfare https://store.steampowered.com/app/360940/The_Mean_Greens__Plastic_Warfare/
-{ "name": "TheMeanGreens-Linux-Shipping", "type": "Game" }
-
-# The Universim https://store.steampowered.com/app/352720/The_Universim/
-{ "name": "The Universim.x86_64", "type": "Game" }
-
 # The Witcher 2: Assassins of Kings Enhanced Edition https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
 { "name": "witcher2", "type": "Game" }
-

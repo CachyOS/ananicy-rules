@@ -28,6 +28,9 @@
 { "name": "MII.x86", "type": "Game" }
 { "name": "MII.x86_64", "type": "Game" }
 
+# Marble It Up! Ultra https://store.steampowered.com/app/864060/Marble_It_Up_Ultra/
+{ "name": "MarbleItUp.x86_64", "type": "Game" }
+
 # Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
 { "name": "ninja-bin32", "type": "Game" }
 
@@ -42,6 +45,12 @@
 
 # McOsu https://store.steampowered.com/app/607260/McOsu/
 { "name": "McEngine", "type": "Game" }
+
+# McPixel 3 https://store.steampowered.com/app/1338580/McPixel_3/
+{ "name": "mcpixel3", "type": "Game" }
+
+# Meadow https://store.steampowered.com/app/486310/Meadow__A_Shelter_Game/
+{ "name": "Meadow.x86_64", "type": "Game" }
 
 # Megabonk https://store.steampowered.com/app/3405340/Megabonk/
 { "name": "Megabonk.x86_64", "type": "Game" }
@@ -63,32 +72,6 @@
 { "name": "mow2", "type": "Game" }
 { "name": "mow2_cli_local", "type": "Game" }
 
-# Marble It Up! Ultra https://store.steampowered.com/app/864060/Marble_It_Up_Ultra/
-{ "name": "MarbleItUp.x86_64", "type": "Game" }
-
-# McPixel 3 https://store.steampowered.com/app/1338580/McPixel_3/
-{ "name": "mcpixel3", "type": "Game" }
-
-# Meadow https://store.steampowered.com/app/486310/Meadow__A_Shelter_Game/
-{ "name": "Meadow.x86_64", "type": "Game" }
-
-# Mighty No. 9 https://store.steampowered.com/app/314710/Mighty_No_9/
-{ "name": "MN9Game.bin.x86_64", "type": "Game" }
-
-# Monster Prom https://store.steampowered.com/app/743450/Monster_Prom/
-{ "name": "MonsterProm.x86", "type": "Game" }
-{ "name": "MonsterProm.x86_64", "type": "Game" }
-
-# Moon Hunters https://store.steampowered.com/app/320040/Moon_Hunters/
-{ "name": "MoonHunters.x86_64", "type": "Game" }
-{ "name": "MoonHunters.x86", "type": "Game" }
-
-# Mosa Lina https://store.steampowered.com/app/2477090/Mosa_Lina/
-{ "name": "Mosa Lina", "type": "Game" }
-
-# Mr Shifty https://store.steampowered.com/app/489140/Mr_Shifty/
-{ "name": "MrShifty.x86_64", "type": "Game" }
-
 # Mercenary Kings: Reloaded Edition https://store.steampowered.com/app/218820/Mercenary_Kings_Reloaded_Edition/
 { "name": "MercenaryKings", "type": "Game" }
 
@@ -97,6 +80,9 @@
 
 # Middle-earth: Shadow of Mordor https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
 { "name": "ShadowOfMordor", "type": "Game" }
+
+# Mighty No. 9 https://store.steampowered.com/app/314710/Mighty_No_9/
+{ "name": "MN9Game.bin.x86_64", "type": "Game" }
 
 # Military Conflict: Vietnam https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
 { "name": "mcv_linux64", "type": "Game" }
@@ -131,12 +117,20 @@
 { "name": "MonsterLovesYou.x86", "type": "Game" }
 { "name": "MonsterLovesYou.x86_64", "type": "Game" }
 
+# Monster Prom https://store.steampowered.com/app/743450/Monster_Prom/
+{ "name": "MonsterProm.x86", "type": "Game" }
+{ "name": "MonsterProm.x86_64", "type": "Game" }
+
 # Monster Prom 2: Monster Camp https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/
 { "name": "MonsterCamp.x86_64", "type": "Game" }
 
 # Monster Sanctuary https://store.steampowered.com/app/814370/Monster_Sanctuary/
 { "name": "Monster Sanctuary.x86", "type": "Game" }
 { "name": "Monster Sanctuary.x86_64", "type": "Game" }
+
+# Moon Hunters https://store.steampowered.com/app/320040/Moon_Hunters/
+{ "name": "MoonHunters.x86_64", "type": "Game" }
+{ "name": "MoonHunters.x86", "type": "Game" }
 
 # Moonlighter https://store.steampowered.com/app/606150/Moonlighter/
 { "name": "Moonlighter.x86", "type": "Game" }
@@ -147,6 +141,9 @@
 
 # Mosaique Neko Waifus 4 https://store.steampowered.com/app/1504020/Mosaique_Neko_Waifus_4/
 { "name": "Mosaique Neko Waifus 4.x86_64", "type": "Game" }
+
+# Mosa Lina https://store.steampowered.com/app/2477090/Mosa_Lina/
+{ "name": "Mosa Lina", "type": "Game" }
 
 # Mother Russia Bleeds https://store.steampowered.com/app/361300/Mother_Russia_Bleeds/
 { "name": "Mother Russia Bleeds.x86_64", "type": "Game" }
@@ -159,6 +156,9 @@
 
 # Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
 { "name": "love", "type": "Game" }
+
+# Mr Shifty https://store.steampowered.com/app/489140/Mr_Shifty/
+{ "name": "MrShifty.x86_64", "type": "Game" }
 
 # Muck https://store.steampowered.com/app/1625450/Muck/
 { "name": "Muck.x86_64", "type": "Game" }

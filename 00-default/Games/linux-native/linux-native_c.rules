@@ -80,6 +80,9 @@
 # Chocolate doom https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom/
 { "name": "chocolate-doom", "type": "Game" }
 
+# Choice of Life: Middle Ages https://store.steampowered.com/app/1337890/Choice_of_Life_Middle_Ages/
+{ "name": "The Choice of Life - Middle Ages.x86_64", "type": "Game" }
+
 # Chonkers https://store.steampowered.com/app/3244210/Chonkers/
 { "name": "chonkers.x86_64", "type": "Game" }
 
@@ -91,6 +94,10 @@
 
 # CiniCross https://store.steampowered.com/app/3933120/CiniCross/
 { "name": "CiniCross.x86_64", "type": "Game"}
+
+# Circle Empires https://store.steampowered.com/app/834740/Circle_Empires/
+{ "name": "Circle Empires.x86_64", "type": "Game" }
+{ "name": "Circle Empires.x86", "type": "Game" }
 
 # Circuits https://store.steampowered.com/app/282760/Circuits/
 { "name": "Circuits.x86", "type": "Game" }
@@ -199,22 +206,6 @@
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "Crea", "type": "Game" }
 
-# Choice of Life: Middle Ages https://store.steampowered.com/app/1337890/Choice_of_Life_Middle_Ages/
-{ "name": "The Choice of Life - Middle Ages.x86_64", "type": "Game" }
-
-# Circle Empires https://store.steampowered.com/app/834740/Circle_Empires/
-{ "name": "Circle Empires.x86_64", "type": "Game" }
-{ "name": "Circle Empires.x86", "type": "Game" }
-
-# Crisis in the Kremlin https://store.steampowered.com/app/599750/Crisis_in_the_Kremlin/
-{ "name": "Crisis.x86_64", "type": "Game" }
-
-# Cultist Simulator https://store.steampowered.com/app/718670/Cultist_Simulator/
-{ "name": "CS.x86_64", "type": "Game" }
-
-# Cyber Knights: Flashpoint https://store.steampowered.com/app/1021210/Cyber_Knights_Flashpoint/
-{ "name": "CyberKnights.x86_64", "type": "Game" }
-
 # Creeper World 3: Arc Eternal https://store.steampowered.com/app/280220/Creeper_World_3_Arc_Eternal/
 { "name": "CW3Launch", "type": "BG_CPUIO" }
 { "name": "CW3.x86", "type": "Game" }
@@ -222,6 +213,9 @@
 
 # Crimsonland https://store.steampowered.com/app/262830/Crimsonland/
 { "name": "crimsonland", "type": "Game" }
+
+# Crisis in the Kremlin https://store.steampowered.com/app/599750/Crisis_in_the_Kremlin/
+{ "name": "Crisis.x86_64", "type": "Game" }
 
 # Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos", "type": "Game" }
@@ -250,3 +244,9 @@
 
 # Cube Racer https://store.steampowered.com/app/705210/Cube_Racer/
 { "name": "CubeRacer.x86", "type": "Game" }
+
+# Cultist Simulator https://store.steampowered.com/app/718670/Cultist_Simulator/
+{ "name": "CS.x86_64", "type": "Game" }
+
+# Cyber Knights: Flashpoint https://store.steampowered.com/app/1021210/Cyber_Knights_Flashpoint/
+{ "name": "CyberKnights.x86_64", "type": "Game" }

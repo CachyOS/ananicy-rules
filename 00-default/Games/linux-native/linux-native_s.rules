@@ -64,6 +64,10 @@
 { "name": "dagon", "type": "Game" }
 { "name": "dagon.64", "type": "Game" }
 
+# Serial Cleaner https://store.steampowered.com/app/522210/Serial_Cleaner/
+{ "name": "Cleaner.x86", "type": "Game" }
+{ "name": "Cleaner.x86_64", "type": "Game" }
+
 # Serious Sam 3: BFE http://store.steampowered.com/app/41070/Serious_Sam_3_BFE/
 { "name": "Sam3", "type": "Game" }
 
@@ -90,6 +94,9 @@
 
 # Shadowrun Returns https://store.steampowered.com/app/234650/Shadowrun_Returns/
 { "name": "Shadowrun", "type": "Game" }
+
+# Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
+{ "name": "Shadow Tactics", "type": "Game" }
 
 # Shadow Warrior http://store.steampowered.com/app/233130/Shadow_Warrior/
 { "name": "ShadowWarrior.bin.x86", "type": "Game" }
@@ -130,6 +137,10 @@
 { "name": "Shenzhen.bin.x86", "type": "Game" }
 { "name": "Shenzhen", "type": "Game" }
 
+# Shift Happens https://store.steampowered.com/app/359840/Shift_Happens/
+{ "name": "Shift Happens.x86_64", "type": "Game" }
+{ "name": "Shift Happens.x86", "type": "Game" }
+
 # Ship of Fools https://store.steampowered.com/app/1286580/Ship_of_Fools/
 { "name": "ShipOfFools.x86_64", "type": "Game" }
 
@@ -138,6 +149,10 @@
 
 # Shogun Showdown https://store.steampowered.com/app/2084000/Shogun_Showdown/
 { "name": "ShogunShowdown.x86_64", "type": "Game" }
+
+# Shoppe Keep https://store.steampowered.com/app/381120/Shoppe_Keep/
+{ "name": "Shoppe Keep.x86", "type": "Game" }
+{ "name": "Shoppe Keep.x86_64", "type": "Game" }
 
 # Shotgun Farmers https://store.steampowered.com/app/604240/Shotgun_Farmers/
 { "name": "Shotgun Farmers.x86_64", "type": "Game" }
@@ -194,36 +209,6 @@
 
 # Slay the Spire https://store.steampowered.com/app/646570/Slay_the_Spire/
 { "name": "SlayTheSpire", "type": "Game" }
-
-# Serial Cleaner https://store.steampowered.com/app/522210/Serial_Cleaner/
-{ "name": "Cleaner.x86", "type": "Game" }
-{ "name": "Cleaner.x86_64", "type": "Game" }
-
-# Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
-{ "name": "Shadow Tactics", "type": "Game" }
-
-# Shift Happens https://store.steampowered.com/app/359840/Shift_Happens/
-{ "name": "Shift Happens.x86_64", "type": "Game" }
-{ "name": "Shift Happens.x86", "type": "Game" }
-
-# Shoppe Keep https://store.steampowered.com/app/381120/Shoppe_Keep/
-{ "name": "Shoppe Keep.x86", "type": "Game" }
-{ "name": "Shoppe Keep.x86_64", "type": "Game" }
-
-# Startup Company https://store.steampowered.com/app/606800/Startup_Company/
-{ "name": "StartupCompany", "type": "Game" }
-{ "name": "StartupCompany.x86_64", "type": "Game" }
-
-# SteamWorld Quest: Hand of Gilgamech https://store.steampowered.com/app/804010/SteamWorld_Quest_Hand_of_Gilgamech/
-{ "name": "Quest", "type": "Game" }
-
-# Stephen's Sausage Roll https://store.steampowered.com/app/353540/Stephens_Sausage_Roll/
-{ "name": "Sausage.x86", "type": "Game" }
-{ "name": "Sausage.x86_64", "type": "Game" }
-
-# Sudoku Universe https://store.steampowered.com/app/733070/Sudoku_Universe/
-{ "name": "Sudoku Universe.x86_64", "type": "Game" }
-{ "name": "Sudoku Universe.x86", "type": "Game" }
 
 # Slay the Spire 2 https://store.steampowered.com/app/2868840/Slay_the_Spire_2/
 { "name": "SlayTheSpire2", "type": "Game" }
@@ -338,6 +323,10 @@
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "StarMade-Launcher", "type": "Game" }
 
+# Startup Company https://store.steampowered.com/app/606800/Startup_Company/
+{ "name": "StartupCompany", "type": "Game" }
+{ "name": "StartupCompany.x86_64", "type": "Game" }
+
 # STAR WARS Knights of the Old Republic II - The Sith Lords https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/
 { "name": "KOTOR2", "type": "Game" }
 
@@ -350,6 +339,9 @@
 # SteamWorld Heist https://store.steampowered.com/app/322190/SteamWorld_Heist/
 { "name": "Heist", "type": "Game" }
 
+# SteamWorld Quest: Hand of Gilgamech https://store.steampowered.com/app/804010/SteamWorld_Quest_Hand_of_Gilgamech/
+{ "name": "Quest", "type": "Game" }
+
 # Steel Storm: Burning Retribution https://store.steampowered.com/app/96200/Steel_Storm_Burning_Retribution/
 { "name": "steelstorm64", "type": "Game" }
 
@@ -358,6 +350,10 @@
 
 # Stellaris https://store.steampowered.com/app/281990/Stellaris/
 { "name": "stellaris", "type": "Game" }
+
+# Stephen's Sausage Roll https://store.steampowered.com/app/353540/Stephens_Sausage_Roll/
+{ "name": "Sausage.x86", "type": "Game" }
+{ "name": "Sausage.x86_64", "type": "Game" }
 
 # STONKS-9800: Stock Market Simulator https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/
 { "name": "STONKS_9800", "type": "Game" }
@@ -389,6 +385,10 @@
 
 # Sudden Strike 4 https://store.steampowered.com/app/373930/Sudden_Strike_4/
 { "name": "SuddenStrike4.x86_64", "type": "Game" }
+
+# Sudoku Universe https://store.steampowered.com/app/733070/Sudoku_Universe/
+{ "name": "Sudoku Universe.x86_64", "type": "Game" }
+{ "name": "Sudoku Universe.x86", "type": "Game" }
 
 # Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.x86_64", "type": "Game" }
