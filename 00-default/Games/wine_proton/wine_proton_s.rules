@@ -327,14 +327,7 @@
 # Soda Dungeon 2 https://store.steampowered.com/app/946050/Soda_Dungeon_2/
 { "name": "SodaDungeon2.exe", "type": "Game" }
 
-# SpellForce 3: Fallen God https://store.steampowered.com/app/1154040/SpellForce_3_Fallen_God/
-{ "name": "SF3Client.exe", "type": "Game" }
-{ "name": "Launcher.exe", "type": "Game" }
-{ "name": "SF3ClientFinal.exe", "type": "Game" }
-
 # SpellForce 3 Reforced https://store.steampowered.com/app/311290/SpellForce_3_Reforced/
-{ "name": "SF3Client.exe", "type": "Game" }
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "SF3LegacyLauncher.exe", "type": "Game" }
 
 # SpellForce: Conquest of Eo https://store.steampowered.com/app/1581770/SpellForce_Conquest_of_Eo/
@@ -1167,9 +1160,6 @@
 # SpellForce 2 - Anniversary Edition https://store.steampowered.com/app/39550/SpellForce_2__Anniversary_Edition/
 { "name": "spellforce2.exe", "type": "Game" }
 
-# SpellForce 3: Versus Edition https://store.steampowered.com/app/1416260/SpellForce_3_Versus_Edition/
-{ "name": "SF3ClientFinal.exe", "type": "Game" }
-
 # SpellForce - Platinum Edition https://store.steampowered.com/app/39540/SpellForce__Platinum_Edition/
 { "name": "SpellForce.exe", "type": "Game" }
 
@@ -1789,7 +1779,6 @@
 { "name": "SuperSanctumTD.exe", "type": "Game" }
 
 # Supremacy: 1914 https://store.steampowered.com/app/979920/Supremacy_1914/
-{ "name": "Squirrel.exe", "type": "Game" }
 { "name": "Supremacy 1914.exe", "type": "Game" }
 
 # Supreme Commander 2 https://store.steampowered.com/app/40100/Supreme_Commander_2/

@@ -41,7 +41,6 @@
 
 # Endoparasitic https://store.steampowered.com/app/2124780/Endoparasitic/
 { "name": "Endoparasitic.exe", "type": "Game" }
-{ "name": "GodotWorkshopUtility.exe", "type": "Game" }
 
 # Endorlight https://store.steampowered.com/app/428430/Endorlight/
 { "name": "Endorlight_x86.exe", "type": "Game" }
@@ -49,12 +48,6 @@
 
 # Erzurum https://store.steampowered.com/app/1392060/Erzurum/
 { "name": "MyProject.exe", "type": "Game" }
-{ "name": "MyProject-Win64-Shipping.exe", "type": "Game" }
-{ "name": "UE4Game-Win64-Shipping.exe", "type": "Game" }
-
-# Eternal Senia https://store.steampowered.com/app/351640/Eternal_Senia/
-{ "name": "game.exe", "type": "Game" }
-{ "name": "Game.exe", "type": "Game" }
 
 # ETHYRIAL https://store.steampowered.com/app/1277920/ETHYRIAL/
 { "name": "Ethyrial.exe", "type": "Game" }

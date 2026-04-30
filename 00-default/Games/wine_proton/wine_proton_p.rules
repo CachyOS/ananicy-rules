@@ -287,9 +287,6 @@
 # PickCrafter https://store.steampowered.com/app/734750/PickCrafter/
 { "name": "PickCrafter.exe", "type": "Game" }
 
-# PICO PARK https://store.steampowered.com/app/461040/PICO_PARKClassic_Edition/
-{ "name": "pico_park.exe", "type": "Game" }
-
 # PICO PARK 2 https://store.steampowered.com/app/2644470/PICO_PARK_2/
 { "name": "pico_park_2.exe", "type": "Game" }
 
@@ -383,14 +380,8 @@
 { "name": "IWTB.exe", "type": "Game" }
 { "name": "IWTB-Win64-Shipping.exe", "type": "Game" }
 
-# Pharaoh: A New Era https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/
-{ "name": "Pharaoh.exe", "type": "Game" }
-
 # Picayune Dreams https://store.steampowered.com/app/2088840/Picayune_Dreams/
 { "name": "PICAYUNEDREAMS.exe", "type": "Game" }
-
-# PICO PARK https://store.steampowered.com/app/1509960/PICO_PARK/
-{ "name": "pico_park.exe", "type": "Game" }
 
 # PixARK https://store.steampowered.com/app/593600/PixARK/
 { "name": "PixARK.exe", "type": "Game" }
@@ -406,7 +397,6 @@
 
 # Platform 8 https://store.steampowered.com/app/2903560/Platform_8/
 { "name": "Platform8.exe", "type": "Game" }
-{ "name": "Exit8-Win64-Shipping.exe", "type": "Game" }
 
 # Pogostuck: Rage With Your Friends https://store.steampowered.com/app/688130/Pogostuck_Rage_With_Your_Friends/
 { "name": "Pogostuck.exe", "type": "Game" }

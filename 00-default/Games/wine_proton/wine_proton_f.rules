@@ -128,10 +128,6 @@
 { "name": "fallout2HR.exe", "type": "Game" }
 { "name": "FalloutClient.exe", "type": "Game" }
 
-# Fallout 3: Game of the Year Edition https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/
-{ "name": "Fallout3.exe", "type": "Game" }
-{ "name": "Fallout3 - Garden of Eden Creation Kit.exe", "type": "Game" }
-
 # Fallout 4 https://store.steampowered.com/app/377160/Fallout_4/
 { "name": "Fallout4.exe", "type": "Game" }
 
@@ -140,9 +136,6 @@
 
 # Fallout: A Post Nuclear Role Playing Game https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
 { "name": "falloutw.exe", "type": "Game" }
-
-# Fallout: New Vegas https://store.steampowered.com/app/22380/Fallout_New_Vegas/
-{ "name": "FalloutNV.exe", "type": "Game" }
 
 # Fallout Shelter https://store.steampowered.com/app/588430/Fallout_Shelter/
 { "name": "FalloutShelter.exe", "type": "Game" }
@@ -449,15 +442,12 @@
 
 # Fallout 3 https://store.steampowered.com/app/22300/Fallout_3/
 { "name": "Fallout3Launcher.exe", "type": "Game" }
-{ "name": "Fallout3Launcher.exe", "type": "Game" }
-{ "name": "Fallout3.exe", "type": "Game" }
 
 # Fallout 4 VR https://store.steampowered.com/app/611660/Fallout_4_VR/
 { "name": "Fallout4VR.exe", "type": "Game" }
 
 # Fallout: New Vegas PCR https://store.steampowered.com/app/22490/Fallout_New_Vegas/
 { "name": "FalloutNVLauncher.exe", "type": "Game" }
-{ "name": "FalloutNV.exe", "type": "Game" }
 
 # Farlands https://store.steampowered.com/app/2252680/Farlands/
 { "name": "Farlands.exe", "type": "Game" }
@@ -468,14 +458,10 @@
 # Farm Manager 2021 https://store.steampowered.com/app/1123830/Farm_Manager_2021/
 { "name": "FarmManager21.exe", "type": "Game" }
 
-# Fate/EXTELLA https://store.steampowered.com/app/511680/FateEXTELLA/
-{ "name": "game.exe", "type": "Game" }
-
 # Fate/EXTELLA LINK https://store.steampowered.com/app/622220/FateEXTELLA_LINK/
 { "name": "fateextellalink.exe", "type": "Game" }
 
 # Field of Glory II https://store.steampowered.com/app/660160/Field_of_Glory_II/
-{ "name": "autorun.exe", "type": "Game" }
 { "name": "FIELDOFGLORY2.EXE", "type": "Game" }
 
 # FINAL FANTASY VI (2015) https://store.steampowered.com/app/382900/FINAL_FANTASY_VI_Old_ver/
@@ -509,18 +495,6 @@
 
 # Flotsam https://store.steampowered.com/app/821250/Flotsam/
 { "name": "Flotsam.exe", "type": "Game" }
-
-# Football Manager 2020 https://store.steampowered.com/app/1100600/Football_Manager_2020/
-{ "name": "fm.exe", "type": "Game" }
-
-# Football Manager 2021 https://store.steampowered.com/app/1263850/Football_Manager_2021/
-{ "name": "fm.exe", "type": "Game" }
-
-# Football Manager 2022 https://store.steampowered.com/app/1569040/Football_Manager_2022/
-{ "name": "fm.exe", "type": "Game" }
-
-# Freebie https://store.steampowered.com/app/487220/Freebie/
-{ "name": "game.exe", "type": "Game" }
 
 # Freeways https://store.steampowered.com/app/780210/Freeways/
 { "name": "Freeways.exe", "type": "Game" }
@@ -636,7 +610,6 @@
 { "name": "freddys-Win64-Shipping.exe", "type": "Game" }
 
 # Five Nights at Freddy's: Help Wanted 2 https://store.steampowered.com/app/2287520/Five_Nights_at_Freddys_Help_Wanted_2/
-{ "name": "HW2.exe", "type": "Game" }
 { "name": "HW2-Win64-Shipping.exe", "type": "Game" }
 
 # Five Nights at Freddy's: Into the Pit https://store.steampowered.com/app/2638370/Five_Nights_at_Freddys_Into_the_Pit/

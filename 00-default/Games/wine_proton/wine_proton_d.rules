@@ -195,9 +195,6 @@
 { "name": "Deadlink.exe", "type": "Game" }
 { "name": "Deadlink-Win64-Shipping.exe", "type": "Game" }
 
-# Dead or Alive 5 Last Round https://store.steampowered.com/app/311730/DEAD_OR_ALIVE_5_Last_Round_Core_Fighters/
-{ "name": "game.exe", "type": "Game" }
-
 # DeadPoly https://store.steampowered.com/app/1621070/DeadPoly/
 { "name": "DeadPoly.exe", "type": "Game" }
 { "name": "DeadPoly-Win64-Shipping.exe", "type": "Game" }
@@ -263,7 +260,6 @@
 { "name": "Downwell.exe", "type": "Game" }
 
 # Dragon Age: Origins https://store.steampowered.com/app/17450/Dragon_Age_Origins/
-{ "name": "DAOrigins.exe", "type": "Game" }
 { "name": "DAOriginsLauncher.exe", "type": "Game" }
 
 # Dream Daddy: A Dad Dating Simulator https://store.steampowered.com/app/654880/Dream_Daddy_A_Dad_Dating_Simulator/
@@ -974,9 +970,6 @@
 
 # Dragon Age Inquisition https://store.steampowered.com/app/1222690/Dragon_Age_Inquisition/
 { "name": "DragonAgeInquisition.exe", "type": "Game" }
-
-# Dragon Age: Origins - Ultimate Edition https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
-{ "name": "DAOrigins.exe", "type": "Game" }
 
 # Dragon Age: The Veilguard https://store.steampowered.com/app/1845910/Dragon_Age_The_Veilguard/
 { "name": "Dragon Age The Veilguard.exe", "type": "Game" }

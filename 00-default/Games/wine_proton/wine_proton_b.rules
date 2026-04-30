@@ -135,9 +135,6 @@
 # Batman: Arkham Asylum Game of the Year Edition https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition/
 { "name": "ShippingPC-BmGame.exe", "type": "Game" }
 
-# Batman: Arkham City - Game of the Year Edition https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/
-{ "name": "BatmanAC.exe", "type": "Game" }
-
 # Batman: Arkham Knight https://store.steampowered.com/app/208650/Batman_Arkham_Knight/
 { "name": "BatmanAK.exe", "type": "Game" }
 
@@ -210,12 +207,6 @@
 
 # BallisticNG https://store.steampowered.com/app/473770/BallisticNG/
 { "name": "BallisticNG.exe", "type": "Game" }
-
-# Batman: Arkham City https://steamdb.info/app/57400/
-{ "name": "BatmanAC.exe", "type": "Game" }
-
-# Batman: Arkham Origins Blackgate - Deluxe Edition https://store.steampowered.com/app/267490/Batman_Arkham_Origins_Blackgate__Deluxe_Edition/
-{ "name": "Game.exe", "type": "Game" }
 
 # Battle Chef Brigade https://store.steampowered.com/app/452570/Battle_Chef_Brigade_Deluxe/
 { "name": "BattleChefBrigade.exe", "type": "Game" }
@@ -304,7 +295,6 @@
 { "name": "BattleRoyaleTrainer-Win64-Shipping.exe", "type": "Game" }
 
 # Battlestar Galactica Deadlock https://store.steampowered.com/app/544610/Battlestar_Galactica_Deadlock/
-{ "name": "autorun.exe", "type": "Game" }
 { "name": "BSG.exe", "type": "Game" }
 
 # Battlestations Pacific https://store.steampowered.com/app/8170/Battlestations_Pacific/

@@ -68,6 +68,9 @@
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
 
+# some sort of godot process/program idk
+{ "name": "GodotWorkshopUtility.x86_64", "type": "BG_CPUIO" }
+
 # Northgard: Definitive Edition https://store.steampowered.com/app/466560/Northgard_Definitive_Edition/
 # Fraymakers https://store.steampowered.com/app/1420350/Fraymakers/
 { "name": "hl", "type": "Game" }
@@ -119,6 +122,10 @@
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 { "name": "hltv", "type": "Game" }
+
+# Kingdom: Classic https://store.steampowered.com/app/368230/Kingdom_Classic/
+# Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
+{ "name": "Kingdom.x86", "type": "Game" }
 
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 # Danganronpa: Trigger Happy Havoc https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
@@ -200,6 +207,10 @@
 # Goodbye Deponia https://store.steampowered.com/app/241910/Goodbye_Deponia/
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "start", "type": "Game" }
+
+# Stoneshard https://store.steampowered.com/app/625960/Stoneshard/
+# Stoneshard: Prologue https://store.steampowered.com/app/869760/Stoneshard_Prologue/
+{ "name": "StoneShard", "type": "Game" }
 
 # X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/

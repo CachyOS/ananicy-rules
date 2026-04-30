@@ -159,9 +159,6 @@
 # INSIDE https://store.steampowered.com/app/304430/INSIDE/
 { "name": "INSIDE.exe", "type": "Game" }
 
-# In Stars And Time https://store.steampowered.com/app/1677310/In_Stars_And_Time/
-{ "name": "Game.exe", "type": "Game" }
-
 # Into the Radius 2 https://store.steampowered.com/app/2307350/Into_the_Radius_2/
 { "name": "IntoTheRadius2.exe", "type": "Game" }
 { "name": "IntoTheRadius2-Win64-Shipping.exe", "type": "Game" }
@@ -173,7 +170,6 @@
 { "name": "ironmarines.exe", "type": "Game" }
 
 # Ironsight https://store.steampowered.com/app/783770/Ironsight/
-{ "name": "launcher.exe", "type": "Game" }
 { "name": "ironsight.exe", "type": "Game" }
 
 # Influent Language Learning Game https://store.steampowered.com/app/274980/Influent_Language_Learning_Game/
