@@ -24,10 +24,9 @@
 { "name": "dod_linux64", "type": "Game" }
 
 # DDNet https://store.steampowered.com/app/412220/DDNet/
-# DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
 { "name": "DDNet", "type": "Game" }
 
-# DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay. https://ddnet.org/
+# DDraceNetwork (DDNet) is an actively maintained version of DDRace, a Teeworlds modification with a unique cooperative gameplay https://ddnet.org/
 { "name": "DDNet-Server", "type": "Service" }
 
 # Dead Cells https://store.steampowered.com/app/588650/Dead_Cells/
