@@ -12,6 +12,9 @@
 { "name": "H1Z1_BE.exe", "type": "Game" }
 { "name": "H1Z1.exe", "type": "Game" }
 
+# Zaccaria Pinball https://store.steampowered.com/app/444930/Zaccaria_Pinball/
+{ "name": "ZaccariaPinball.exe", "type": "Game" }
+
 # Zengeon https://store.steampowered.com/app/1000080/Zengeon/
 { "name": "Zengeon.exe", "type": "Game" }
 
@@ -33,6 +36,10 @@
 { "name": "ZeroCaliber.exe", "type": "Game" }
 { "name": "ZeroCaliber-Win64-Shipping.exe", "type": "Game" }
 
+# Zero Escape: The Nonary Games https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/
+{ "name": "ze1.exe", "type": "Game" }
+{ "name": "ze2.exe", "type": "Game" }
+
 # Zero Hour https://store.steampowered.com/app/1359090/Zero_Hour/
 { "name": "Zero Hour.exe", "type": "Game" }
 
@@ -42,19 +49,6 @@
 # ZERO Sievert https://store.steampowered.com/app/1782120/ZERO_Sievert/
 { "name": "ZERO Sievert.exe", "type": "Game" }
 
-# Zaccaria Pinball https://store.steampowered.com/app/444930/Zaccaria_Pinball/
-{ "name": "ZaccariaPinball.exe", "type": "Game" }
-
-# Zero Escape: The Nonary Games https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/
-{ "name": "ze1.exe", "type": "Game" }
-{ "name": "ze2.exe", "type": "Game" }
-
-# ZOMBI https://store.steampowered.com/app/339230/ZOMBI/
-{ "name": "ZOMBI.exe", "type": "Game" }
-
-# Zoombinis https://store.steampowered.com/app/397430/Zoombinis/
-{ "name": "Zoombinis.exe", "type": "Game" }
-
 # Ziggurat 2 https://store.steampowered.com/app/1159560/Ziggurat_2/
 { "name": "Ziggurat2.exe", "type": "Game" }
 
@@ -62,6 +56,9 @@
 { "name": "ZMDesktopElfLauncher.exe", "type": "BG_CPUIO" }
 { "name": "zmzmjl.exe", "type": "Game" }
 { "name": "ZMDesktopElf.exe", "type": "Game" }
+
+# ZOMBI https://store.steampowered.com/app/339230/ZOMBI/
+{ "name": "ZOMBI.exe", "type": "Game" }
 
 # Zombie Army 4: Dead War https://store.steampowered.com/app/694280/Zombie_Army_4_Dead_War/
 { "name": "za4_vulkan.exe", "type": "Game" }
@@ -84,6 +81,9 @@
 
 # Zoo 2: Animal Park https://store.steampowered.com/app/1352330/Zoo_2_Animal_Park/
 { "name": "zoo2.exe", "type": "Game" }
+
+# Zoombinis https://store.steampowered.com/app/397430/Zoombinis/
+{ "name": "Zoombinis.exe", "type": "Game" }
 
 # Zoo Tycoon: Ultimate Animal Collection https://store.steampowered.com/app/613880/Zoo_Tycoon_Ultimate_Animal_Collection/
 { "name": "ZooTycoon.exe", "type": "Game" }

@@ -17,47 +17,6 @@
 { "name": "Earth2160_START.exe", "type": "Game" }
 { "name": "Puzzle.exe", "type": "Game" }
 
-# Eastshade https://store.steampowered.com/app/715560/Eastshade/
-{ "name": "Eastshade.exe", "type": "Game" }
-
-# Echo Point Nova https://store.steampowered.com/app/1836730/Echo_Point_Nova/
-{ "name": "Greylock.exe", "type": "Game" }
-{ "name": "Greylock-Win64-Shipping.exe", "type": "Game" }
-
-# Eiyuden Chronicle: Hundred Heroes https://store.steampowered.com/app/1658280/Eiyuden_Chronicle_Hundred_Heroes/
-{ "name": "EiyudenChronicle.exe", "type": "Game" }
-
-# Electrician Simulator https://store.steampowered.com/app/1080020/Electrician_Simulator/
-{ "name": "Electrician.exe", "type": "Game" }
-
-# Element TD 2 https://store.steampowered.com/app/1018830/Element_TD_2__Tower_Defense/
-{ "name": "Element TD 2.exe", "type": "Game" }
-
-# Emily is Away https://store.steampowered.com/app/417860/Emily_is_Away/
-{ "name": "emily is away.exe", "type": "Game" }
-
-# Encased https://store.steampowered.com/app/921800/Encased_A_SciFi_PostApocalyptic_RPG/
-{ "name": "Encased.exe", "type": "Game" }
-
-# Endoparasitic https://store.steampowered.com/app/2124780/Endoparasitic/
-{ "name": "Endoparasitic.exe", "type": "Game" }
-
-# Endorlight https://store.steampowered.com/app/428430/Endorlight/
-{ "name": "Endorlight_x86.exe", "type": "Game" }
-{ "name": "Endorlight_x64.exe", "type": "Game" }
-
-# Erzurum https://store.steampowered.com/app/1392060/Erzurum/
-{ "name": "MyProject.exe", "type": "Game" }
-
-# ETHYRIAL https://store.steampowered.com/app/1277920/ETHYRIAL/
-{ "name": "Ethyrial.exe", "type": "Game" }
-
-# Evoland 2 https://store.steampowered.com/app/359310/Evoland_2/
-{ "name": "Evoland2.exe", "type": "Game" }
-
-# Expeditions: Viking https://store.steampowered.com/app/445190/Expeditions_Viking/
-{ "name": "Expeditions Viking.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 4.1 The Shadow of New Despair https://store.steampowered.com/app/410320/EARTH_DEFENSE_FORCE_41_The_Shadow_of_New_Despair/
 { "name": "EDF41.exe", "type": "Game" }
 
@@ -106,6 +65,9 @@
 # EA SPORTS WRC https://store.steampowered.com/app/1849250/EA_SPORTS_WRC/
 { "name": "WRC.exe", "type": "Game" }
 
+# Eastshade https://store.steampowered.com/app/715560/Eastshade/
+{ "name": "Eastshade.exe", "type": "Game" }
+
 # Eastside Hockey Manager https://store.steampowered.com/app/301120/Eastside_Hockey_Manager/
 { "name": "ehm.exe", "type": "Game" }
 
@@ -129,6 +91,10 @@
 
 # Echoes of the Plum Grove https://store.steampowered.com/app/1536090/Echoes_of_the_Plum_Grove/
 { "name": "Echoes of the Plum Grove.exe", "type": "Game" }
+
+# Echo Point Nova https://store.steampowered.com/app/1836730/Echo_Point_Nova/
+{ "name": "Greylock.exe", "type": "Game" }
+{ "name": "Greylock-Win64-Shipping.exe", "type": "Game" }
 
 # Eco https://store.steampowered.com/app/382310/Eco/
 { "name": "Eco.exe", "type": "Game" }
@@ -169,6 +135,9 @@
 # eFootball PES 2021 SEASON UPDATE https://store.steampowered.com/app/1259970/eFootball_PES_2021_SEASON_UPDATE/
 { "name": "PES2021.exe", "type": "Game" }
 
+# Eiyuden Chronicle: Hundred Heroes https://store.steampowered.com/app/1658280/Eiyuden_Chronicle_Hundred_Heroes/
+{ "name": "EiyudenChronicle.exe", "type": "Game" }
+
 # Eldegarde https://store.steampowered.com/app/2344320/Eldegarde/
 { "name": "ProjectHonorClient.exe", "type": "Game" }
 
@@ -188,8 +157,14 @@
 { "name": "Eldritch.exe", "type": "Game" }
 { "name": "Eldritch_x86.exe", "type": "Game" }
 
+# Electrician Simulator https://store.steampowered.com/app/1080020/Electrician_Simulator/
+{ "name": "Electrician.exe", "type": "Game" }
+
 # Electronic Super Joy https://store.steampowered.com/app/244870/Electronic_Super_Joy/
 { "name": "ElectronicSuperJoy.exe", "type": "Game" }
+
+# Element TD 2 https://store.steampowered.com/app/1018830/Element_TD_2__Tower_Defense/
+{ "name": "Element TD 2.exe", "type": "Game" }
 
 # Eleven Table Tennis https://store.steampowered.com/app/488310/Eleven_Table_Tennis/
 { "name": "pong_waves_vr.exe", "type": "Game" }
@@ -231,6 +206,9 @@
 # EMERGENCY 4 Deluxe https://store.steampowered.com/app/757210/EMERGENCY_4_Deluxe/
 { "name": "Em4.exe", "type": "Game" }
 
+# Emily is Away https://store.steampowered.com/app/417860/Emily_is_Away/
+{ "name": "emily is away.exe", "type": "Game" }
+
 # Emperor of the Fading Suns https://store.steampowered.com/app/2799350/Emperor_of_the_Fading_Suns_Enhanced/
 { "name": "EFS.exe", "type": "Game" }
 
@@ -250,6 +228,9 @@
 # Empyrion - Galactic Survival https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
 { "name": "EmpyrionLauncher.exe", "type": "BG_CPUIO" }
 { "name": "Empyrion.exe", "type": "Game" }
+
+# Encased https://store.steampowered.com/app/921800/Encased_A_SciFi_PostApocalyptic_RPG/
+{ "name": "Encased.exe", "type": "Game" }
 
 # ENCHAIN https://store.steampowered.com/app/1396870/ENCHAIN/
 { "name": "ENCHAIN.exe", "type": "Game" }
@@ -280,6 +261,13 @@
 
 # ENDLESS Space - Definitive Edition https://store.steampowered.com/app/208140/ENDLESS_Space__Definitive_Edition/
 { "name": "EndlessSpace.exe", "type": "Game" }
+
+# Endoparasitic https://store.steampowered.com/app/2124780/Endoparasitic/
+{ "name": "Endoparasitic.exe", "type": "Game" }
+
+# Endorlight https://store.steampowered.com/app/428430/Endorlight/
+{ "name": "Endorlight_x86.exe", "type": "Game" }
+{ "name": "Endorlight_x64.exe", "type": "Game" }
 
 # Endorphin Vice https://store.steampowered.com/app/1861610/Endorphin_Vice/
 { "name": "EndorphinVice.exe", "type": "Game" }
@@ -349,6 +337,9 @@
 # Erenshor https://store.steampowered.com/app/2382520/Erenshor/
 { "name": "Erenshor.exe", "type": "Game" }
 
+# Erzurum https://store.steampowered.com/app/1392060/Erzurum/
+{ "name": "MyProject.exe", "type": "Game" }
+
 # Escape Academy https://store.steampowered.com/app/1812090/Escape_Academy/
 { "name": "Escape Academy.exe", "type": "Game" }
 
@@ -402,6 +393,9 @@
 
 # Etherium https://store.steampowered.com/app/245370/Etherium/
 { "name": "Etherium.exe", "type": "Game" }
+
+# ETHYRIAL https://store.steampowered.com/app/1277920/ETHYRIAL/
+{ "name": "Ethyrial.exe", "type": "Game" }
 
 # Etrian Odyssey HD https://store.steampowered.com/app/1868180/Etrian_Odyssey_HD/
 { "name": "Etrian Odyssey.exe", "type": "Game" }
@@ -495,6 +489,9 @@
 # Evoland https://store.steampowered.com/app/233470/Evoland/
 { "name": "Evoland.exe", "type": "Game" }
 
+# Evoland 2 https://store.steampowered.com/app/359310/Evoland_2/
+{ "name": "Evoland2.exe", "type": "Game" }
+
 # Evolve Stage 2 https://store.steampowered.com/app/273350/Evolve_Stage_2/
 { "name": "Evolve.exe", "type": "Game" }
 
@@ -515,6 +512,9 @@
 { "name": "ExpeditionsRome.exe", "type": "Game" }
 { "name": "Rome-Win64-Shipping.exe", "type": "Game" }
 { "name": "Rome.exe", "type": "Game" }
+
+# Expeditions: Viking https://store.steampowered.com/app/445190/Expeditions_Viking/
+{ "name": "Expeditions Viking.exe", "type": "Game" }
 
 # Expendable https://store.steampowered.com/app/804000/Expendable/
 { "name": "Expendable.exe", "type": "Game" }

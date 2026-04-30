@@ -60,6 +60,9 @@
 { "name": "iw3sp.exe", "type": "Game" }
 { "name": "iw3mp.exe", "type": "Game" }
 
+# Call of Duty: Advanced Warfare https://store.steampowered.com/app/209650/Call_of_Duty_Advanced_Warfare__Gold_Edition/
+{ "name": "s1_sp64_ship.exe", "type": "Game" }
+
 # Call of Duty: Black Ops https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
 { "name": "BlackOps.exe", "type": "Game" }
 { "name": "BlackOpsMP.exe", "type": "Game" }
@@ -70,13 +73,13 @@
 # Call of Duty: Black Ops Cold War https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/
 { "name": "BlackOpsColdWar.exe", "type": "Game" }
 
-# Call of Duty: Black Ops III https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
-{ "name": "BlackOps3.exe", "type": "Game" }
-
 # Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
 { "name": "t6mp.exe", "type": "Game" }
 { "name": "t6sp.exe", "type": "Game" }
 { "name": "t6zm.exe", "type": "Game" }
+
+# Call of Duty: Black Ops III https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
+{ "name": "BlackOps3.exe", "type": "Game" }
 
 # Call of Duty: Ghosts https://store.steampowered.com/app/209160/Call_of_Duty_Ghosts/
 { "name": "iw6sp64_ship.exe", "type": "Game" }
@@ -102,66 +105,6 @@
 
 # Call of Duty: Modern Warfare III https://store.steampowered.com/app/3595270/Call_of_Duty_Modern_Warfare_III/
 { "name": "cod23-cod.exe", "type": "Game" }
-
-# Call of Duty: Advanced Warfare https://store.steampowered.com/app/209650/Call_of_Duty_Advanced_Warfare__Gold_Edition/
-{ "name": "s1_sp64_ship.exe", "type": "Game" }
-
-# Cat Quest https://store.steampowered.com/app/593280/Cat_Quest/
-{ "name": "Cat Quest.exe", "type": "Game" }
-
-# Cat Quest III https://store.steampowered.com/app/2305840/Cat_Quest_III/
-{ "name": "Cat Quest III.exe", "type": "Game" }
-
-# Cepheus Protocol https://store.steampowered.com/app/979640/Cepheus_Protocol/
-{ "name": "CepheusProtocol.exe", "type": "Game" }
-
-# Choice of Life: Middle Ages https://store.steampowered.com/app/1337890/Choice_of_Life_Middle_Ages/
-{ "name": "The Choice of Life - Middle Ages.exe", "type": "Game" }
-
-# Circle Empires https://store.steampowered.com/app/834740/Circle_Empires/
-{ "name": "Circle Empires.exe", "type": "Game" }
-
-# Cloud Gardens https://store.steampowered.com/app/1372320/Cloud_Gardens/
-{ "name": "Cloud Gardens.exe", "type": "Game" }
-
-# COMBAT ARMS: THE CLASSIC https://steamdb.info/app/1263550/
-{ "name": "Engine_BE.exe", "type": "Game" }
-{ "name": "Engine2.exe", "type": "Game" }
-
-# COMPOUND https://store.steampowered.com/app/615120/COMPOUND/
-{ "name": "compound.exe", "type": "Game" }
-{ "name": "COMPOUND.exe", "type": "Game" }
-
-# Contractors Showdown https://store.steampowered.com/app/2719160/Contractors_Showdown__ExfilZone/
-{ "name": "ContractorsShowdown.exe", "type": "Game" }
-
-# Cook, Serve, Delicious! 3?! https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/
-{ "name": "CSD3.exe", "type": "Game" }
-
-# Copa Petrobras de Marcas https://store.steampowered.com/app/359800/Copa_Petrobras_de_Marcas/
-{ "name": "Marcas.exe", "type": "Game" }
-{ "name": "Config.exe", "type": "Game" }
-
-# Coromon https://store.steampowered.com/app/1218210/Coromon/
-{ "name": "coromon.exe", "type": "Game" }
-
-# Crisis in the Kremlin https://store.steampowered.com/app/599750/Crisis_in_the_Kremlin/
-{ "name": "CrisisintheKremlin.exe", "type": "Game" }
-
-# Cryptmaster https://store.steampowered.com/app/1885110/Cryptmaster/
-{ "name": "CryptMaster.exe", "type": "Game" }
-
-# Cube Escape: Paradox https://store.steampowered.com/app/909080/Cube_Escape_Paradox/
-{ "name": "CubeEscapeParadox.exe", "type": "Game" }
-
-# Cultist Simulator https://store.steampowered.com/app/718670/Cultist_Simulator/
-{ "name": "cultistsimulator.exe", "type": "Game" }
-
-# Cyber Knights: Flashpoint https://store.steampowered.com/app/1021210/Cyber_Knights_Flashpoint/
-{ "name": "CyberKnights.exe", "type": "Game" }
-
-# Cyber Manhunt https://store.steampowered.com/app/1216710/Cyber_Manhunt/
-{ "name": "CyberManhunt.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare Remastered (2017) https://store.steampowered.com/app/393080/Call_of_Duty_Modern_Warfare_Remastered_2017/
 { "name": "h1_sp64_ship.exe", "type": "Game" }
@@ -408,8 +351,14 @@
 # Catherine Classic https://store.steampowered.com/app/893180/Catherine_Classic/
 { "name": "Catherine.exe", "type": "Game" }
 
+# Cat Quest https://store.steampowered.com/app/593280/Cat_Quest/
+{ "name": "Cat Quest.exe", "type": "Game" }
+
 # Cat Quest II https://store.steampowered.com/app/914710/Cat_Quest_II/
 { "name": "Cat Quest II.exe", "type": "Game" }
+
+# Cat Quest III https://store.steampowered.com/app/2305840/Cat_Quest_III/
+{ "name": "Cat Quest III.exe", "type": "Game" }
 
 # Cats Organized Neatly https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/
 { "name": "Cats Organized Neatly.exe", "type": "Game" }
@@ -444,6 +393,9 @@
 
 # Century: Age of Ashes https://store.steampowered.com/app/918570/Century_Age_of_Ashes/
 { "name": "Century-Win64-Shipping.exe", "type": "Game" }
+
+# Cepheus Protocol https://store.steampowered.com/app/979640/Cepheus_Protocol/
+{ "name": "CepheusProtocol.exe", "type": "Game" }
 
 # Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
 { "name": "Chained Echoes.exe", "type": "Game" }
@@ -535,6 +487,9 @@
 # Chivalry Quest: Sword and Flame Collector's Edition https://store.steampowered.com/app/3948140/Chivalry_Quest_Sword_and_Flame_Collectors_Edition/
 { "name": "Chivalry_Quest_Sword_and_Flame_CE.exe", "type": "Game"}
 
+# Choice of Life: Middle Ages https://store.steampowered.com/app/1337890/Choice_of_Life_Middle_Ages/
+{ "name": "The Choice of Life - Middle Ages.exe", "type": "Game" }
+
 # Chonkers https://store.steampowered.com/app/3244210/Chonkers/
 { "name": "chonkers.exe", "type": "Game" }
 
@@ -573,6 +528,9 @@
 
 # CiniCross https://store.steampowered.com/app/3933120/CiniCross/
 { "name": "CiniCross.exe", "type": "Game"}
+
+# Circle Empires https://store.steampowered.com/app/834740/Circle_Empires/
+{ "name": "Circle Empires.exe", "type": "Game" }
 
 # Circle Empires Rivals https://store.steampowered.com/app/1100260/Circle_Empires_Rivals/
 { "name": "Circle Empires Rivals.exe", "type": "Game" }
@@ -685,6 +643,9 @@
 # Clothing Store Simulator https://store.steampowered.com/app/2923390/Clothing_Store_Simulator/
 { "name": "Clothing Store Simulator.exe", "type": "Game" }
 
+# Cloud Gardens https://store.steampowered.com/app/1372320/Cloud_Gardens/
+{ "name": "Cloud Gardens.exe", "type": "Game" }
+
 # Cloudheim https://store.steampowered.com/app/2070270/Cloudheim/
 { "name": "CloudheimSteam.exe", "type": "Game"}
 { "name": "CloudheimSteam-Win64-Shipping.exe", "type": "Game"}
@@ -767,6 +728,10 @@
 # Colt Canyon https://store.steampowered.com/app/940710/Colt_Canyon/
 { "name": "ColtCanyon.exe", "type": "Game" }
 
+# COMBAT ARMS: THE CLASSIC https://steamdb.info/app/1263550/
+{ "name": "Engine_BE.exe", "type": "Game" }
+{ "name": "Engine2.exe", "type": "Game" }
+
 # Combat Master: Season 5 https://store.steampowered.com/app/2281730/Combat_Master_Season_5/
 { "name" : "CombatMaster.exe","type": "Game"}
 
@@ -837,6 +802,10 @@
 # Company of Heroes 3 https://store.steampowered.com/app/1677280/Company_of_Heroes_3/
 { "name": "RelicCoH3.exe", "type": "Game"}
 
+# COMPOUND https://store.steampowered.com/app/615120/COMPOUND/
+{ "name": "compound.exe", "type": "Game" }
+{ "name": "COMPOUND.exe", "type": "Game" }
+
 # Conan Exiles https://store.steampowered.com/app/440900/Conan_Exiles/
 { "name": "FuncomLauncher.exe", "type": "Game" }
 
@@ -885,6 +854,9 @@
 # Contractors https://store.steampowered.com/app/963930/Contractors/
 { "name": "Contractors.exe", "type": "Game" }
 
+# Contractors Showdown https://store.steampowered.com/app/2719160/Contractors_Showdown__ExfilZone/
+{ "name": "ContractorsShowdown.exe", "type": "Game" }
+
 # ContractVille https://store.steampowered.com/app/2698780/ContractVille/
 { "name": "ContractVille.exe", "type": "Game" }
 
@@ -921,6 +893,13 @@
 # Cook, Serve, Delicious! 2!! https://store.steampowered.com/app/386620/Cook_Serve_Delicious_2/
 { "name": "CSD2.exe", "type": "Game" }
 
+# Cook, Serve, Delicious! 3?! https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/
+{ "name": "CSD3.exe", "type": "Game" }
+
+# Copa Petrobras de Marcas https://store.steampowered.com/app/359800/Copa_Petrobras_de_Marcas/
+{ "name": "Marcas.exe", "type": "Game" }
+{ "name": "Config.exe", "type": "Game" }
+
 # Copycat https://store.steampowered.com/app/1622350/Copycat/
 { "name": "Copycat.exe", "type": "Game"}
 
@@ -936,6 +915,9 @@
 
 # Cornerpond https://store.steampowered.com/app/3454590/Cornerpond/
 { "name": "Cornerpond.exe", "type": "Game" }
+
+# Coromon https://store.steampowered.com/app/1218210/Coromon/
+{ "name": "coromon.exe", "type": "Game" }
 
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "Cortex Command.exe", "type": "Game" }
@@ -1095,6 +1077,9 @@
 { "name": "CCFF7R.exe", "type": "Game" }
 { "name": "CCFF7R-Win64-Shipping.exe", "type": "Game" }
 
+# Crisis in the Kremlin https://store.steampowered.com/app/599750/Crisis_in_the_Kremlin/
+{ "name": "CrisisintheKremlin.exe", "type": "Game" }
+
 # Crisol: Theater of Idols https://store.steampowered.com/app/1790930/Crisol_Theater_of_Idols/
 { "name": "CrisolTheaterOfIdols.exe", "type": "Game" }
 { "name": "CRToiPrototype-Win64-Shipping.exe", "type": "Game" }
@@ -1166,6 +1151,9 @@
 # Cry of Fear https://store.steampowered.com/app/223710/Cry_of_Fear/
 { "name": "CoFLaunchApp.exe", "type": "Game" }
 
+# Cryptmaster https://store.steampowered.com/app/1885110/Cryptmaster/
+{ "name": "CryptMaster.exe", "type": "Game" }
+
 # Crypt of the NecroDancer https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/
 { "name": "NecroDancer.exe", "type": "Game" }
 
@@ -1203,6 +1191,9 @@
 # Cube Escape Collection https://store.steampowered.com/app/1292940/Cube_Escape_Collection/
 { "name": "CubeEscapeCollection.exe", "type": "Game" }
 
+# Cube Escape: Paradox https://store.steampowered.com/app/909080/Cube_Escape_Paradox/
+{ "name": "CubeEscapeParadox.exe", "type": "Game" }
+
 # Cube Racer https://store.steampowered.com/app/705210/Cube_Racer/
 { "name": "CubeRacer.exe", "type": "Game" }
 { "name": "CubeRacerServer.exe", "type": "Service" }
@@ -1218,6 +1209,9 @@
 
 # Cuisineer https://store.steampowered.com/app/1963570/Cuisineer/
 { "name": "Cuisineer.exe", "type": "Game" }
+
+# Cultist Simulator https://store.steampowered.com/app/718670/Cultist_Simulator/
+{ "name": "cultistsimulator.exe", "type": "Game" }
 
 # Cultivation Story: Reincarnation https://store.steampowered.com/app/1866880/Cultivation_Story_Reincarnation/
 { "name": "CultivationStoryReincarnation.exe", "type": "Game" }
@@ -1241,6 +1235,12 @@
 { "name": "Burning Skies Neon.exe", "type": "Game" }
 { "name": "Cyberhunt - Original.exe", "type": "Game" }
 { "name": "Cyberhunt.exe", "type": "Game" }
+
+# Cyber Knights: Flashpoint https://store.steampowered.com/app/1021210/Cyber_Knights_Flashpoint/
+{ "name": "CyberKnights.exe", "type": "Game" }
+
+# Cyber Manhunt https://store.steampowered.com/app/1216710/Cyber_Manhunt/
+{ "name": "CyberManhunt.exe", "type": "Game" }
 
 # Cyber Manhunt 2: New World - The Hacking Simulator https://store.steampowered.com/app/2421410/Cyber_Manhunt_2_New_World__The_Hacking_Simulator/
 { "name": "CyberManhunt2.exe", "type": "Game" }

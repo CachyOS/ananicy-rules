@@ -71,6 +71,9 @@
 { "name": "DGen.exe", "type": "Game" }
 { "name": "NGen.exe", "type": "Game" }
 
+# IL-2 Sturmovik: Battle of Stalingrad https://store.steampowered.com/app/307960/IL2_Sturmovik_Battle_of_Stalingrad/
+{ "name": "Il-2.exe", "type": "Game" }
+
 # IMMORTALITY https://store.steampowered.com/app/1350200/IMMORTALITY/
 { "name": "Immortality.exe", "type": "Game" }
 
@@ -85,6 +88,12 @@
 
 # Imperial Glory https://store.steampowered.com/app/277450/Imperial_Glory/
 { "name": "ImperialGlory.exe", "type": "Game" }
+
+# Imperivm RTC - HD Edition "Great Battles of Rome" https://store.steampowered.com/app/752580/Imperivm_RTC__HD_Edition_Great_Battles_of_Rome/
+{ "name": "gbr.exe", "type": "Game" }
+
+# inbento https://store.steampowered.com/app/1567440/inbento/
+{ "name": "inbento.exe", "type": "Game" }
 
 # Incredibox https://store.steampowered.com/app/1545450/Incredibox/
 { "name": "Incredibox_steam.exe", "type": "Game" }
@@ -116,6 +125,10 @@
 # Indivisible https://store.steampowered.com/app/421170/Indivisible/
 { "name": "Indivisible.exe", "type": "Game" }
 
+# INDUSTRIA https://store.steampowered.com/app/1172650/INDUSTRIA/
+{ "name": "Industria.exe", "type": "Game" }
+{ "name": "Industria-Win64-Shipping.exe", "type": "Game" }
+
 # Infection Free Zone https://store.steampowered.com/app/1465460/Infection_Free_Zone/
 { "name": "Infection Free Zone.exe", "type": "Game" }
 
@@ -142,35 +155,6 @@
 
 # Infinity Wars: Animated Trading Card Game https://store.steampowered.com/app/257730/Infinity_Wars_Animated_Trading_Card_Game/
 { "name": "InfinityHeroes Windows desktop 64-bit.exe", "type": "Game" }
-
-# IL-2 Sturmovik: Battle of Stalingrad https://store.steampowered.com/app/307960/IL2_Sturmovik_Battle_of_Stalingrad/
-{ "name": "Il-2.exe", "type": "Game" }
-
-# Imperivm RTC - HD Edition "Great Battles of Rome" https://store.steampowered.com/app/752580/Imperivm_RTC__HD_Edition_Great_Battles_of_Rome/
-{ "name": "gbr.exe", "type": "Game" }
-
-# inbento https://store.steampowered.com/app/1567440/inbento/
-{ "name": "inbento.exe", "type": "Game" }
-
-# INDUSTRIA https://store.steampowered.com/app/1172650/INDUSTRIA/
-{ "name": "Industria.exe", "type": "Game" }
-{ "name": "Industria-Win64-Shipping.exe", "type": "Game" }
-
-# INSIDE https://store.steampowered.com/app/304430/INSIDE/
-{ "name": "INSIDE.exe", "type": "Game" }
-
-# Into the Radius 2 https://store.steampowered.com/app/2307350/Into_the_Radius_2/
-{ "name": "IntoTheRadius2.exe", "type": "Game" }
-{ "name": "IntoTheRadius2-Win64-Shipping.exe", "type": "Game" }
-
-# IOSoccer https://store.steampowered.com/app/673560/IOSoccer/
-{ "name": "iosoccer.exe", "type": "Game" }
-
-# Iron Marines https://store.steampowered.com/app/931280/Iron_Marines/
-{ "name": "ironmarines.exe", "type": "Game" }
-
-# Ironsight https://store.steampowered.com/app/783770/Ironsight/
-{ "name": "ironsight.exe", "type": "Game" }
 
 # Influent Language Learning Game https://store.steampowered.com/app/274980/Influent_Language_Learning_Game/
 { "name": "Influent.exe", "type": "Game" }
@@ -203,6 +187,9 @@
 # Insect Swarm https://store.steampowered.com/app/1999170/Insect_Swarm/
 { "name": "InsectSwarm.exe", "type": "Game" }
 
+# INSIDE https://store.steampowered.com/app/304430/INSIDE/
+{ "name": "INSIDE.exe", "type": "Game" }
+
 # Insider Trading https://store.steampowered.com/app/3166810/Insider_Trading/
 { "name": "Insider_Trading.exe", "type": "Game" }
 
@@ -230,6 +217,10 @@
 # Into the Dead: Our Darkest Days https://store.steampowered.com/app/2239710/Into_the_Dead_Our_Darkest_Days/
 { "name": "IntoTheDeadOurDarkestDays.exe", "type": "Game" }
 
+# Into the Radius 2 https://store.steampowered.com/app/2307350/Into_the_Radius_2/
+{ "name": "IntoTheRadius2.exe", "type": "Game" }
+{ "name": "IntoTheRadius2-Win64-Shipping.exe", "type": "Game" }
+
 # Into the Radius VR https://store.steampowered.com/app/1012790/Into_the_Radius_VR/
 { "name": "IntoTheRadius-Win64-Shipping.exe", "type": "Game" }
 { "name": "IntoTheRadius.exe", "type": "Game" }
@@ -256,6 +247,9 @@
 # Ion Fury https://store.steampowered.com/app/562860/Ion_Fury/
 { "name": "fury.exe", "type": "Game" }
 
+# IOSoccer https://store.steampowered.com/app/673560/IOSoccer/
+{ "name": "iosoccer.exe", "type": "Game" }
+
 # iRacing https://store.steampowered.com/app/266410/iRacing/
 { "name": "iRacingSim64DX11.exe", "type": "Game" }
 { "name": "iRacingUI.exe", "type": "Game" }
@@ -273,8 +267,14 @@
 # Iron Harvest https://store.steampowered.com/app/826630/Iron_Harvest/
 { "name": "IronHarvest.exe", "type": "Game" }
 
+# Iron Marines https://store.steampowered.com/app/931280/Iron_Marines/
+{ "name": "ironmarines.exe", "type": "Game" }
+
 # IRON REBELLION https://store.steampowered.com/app/1192900/IRON_REBELLION/
 { "name": "Iron Rebellion.exe", "type": "Game" }
+
+# Ironsight https://store.steampowered.com/app/783770/Ironsight/
+{ "name": "ironsight.exe", "type": "Game" }
 
 # Iron Sky: Invasion https://store.steampowered.com/app/224900/Iron_Sky_Invasion/
 { "name": "ISI_DX11.exe", "type": "Game" }

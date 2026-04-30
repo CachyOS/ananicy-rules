@@ -30,6 +30,9 @@
 # Valkyria Chronicles https://store.steampowered.com/app/294860/Valkyria_Chronicles/
 { "name": "Valkyria.exe", "type": "Game" }
 
+# Valkyria Chronicles 4 Complete Edition https://store.steampowered.com/app/790820/Valkyria_Chronicles_4_Complete_Edition/
+{ "name": "Valkyria4_x64.exe", "type": "Game" }
+
 # Valorborn https://store.steampowered.com/app/3372530/Valorborn/
 { "name": "MedievalRPG.exe", "type": "Game" }
 { "name": "MedievalRPG-Win64-Shipping.exe", "type": "Game" }
@@ -73,6 +76,12 @@
 # Vanguard Princess https://store.steampowered.com/app/262150/Vanguard_Princess/
 { "name": "VanguardOnline.exe", "type": "Game" }
 { "name": "vanpri.exe", "type": "Game" }
+
+# Vanquish https://store.steampowered.com/app/460810/Vanquish/
+{ "name": "Vanquish.exe", "type": "Game" }
+
+# Vault of the Void https://store.steampowered.com/app/1135810/Vault_of_the_Void/
+{ "name": "VaultoftheVoid.exe", "type": "Game" }
 
 # Vector https://store.steampowered.com/app/248970/Vector/
 { "name": "Vector.exe", "type": "Game" }
@@ -127,6 +136,10 @@
 # Virtual Fighter Maneuvers https://store.steampowered.com/app/3952640/Virtual_Fighter_Maneuvers/
 { "name": "VFM.exe", "type": "Game" }
 
+# Visage https://store.steampowered.com/app/594330/Visage/
+{ "name": "Visage.exe", "type": "Game" }
+{ "name": "Visage-Win64-Shipping.exe", "type": "Game" }
+
 # Viscera Cleanup Detail https://store.steampowered.com/app/246900/Viscera_Cleanup_Detail/
 { "name": "UDKLift.exe", "type": "Game" }
 
@@ -146,6 +159,9 @@
 
 # Void Crew https://store.steampowered.com/app/1063420/Void_Crew/
 { "name": "Void Crew.exe", "type": "Game" }
+
+# Voidigo https://store.steampowered.com/app/1304680/Voidigo/
+{ "name": "voidigo.exe", "type": "Game" }
 
 # Void Stranger https://store.steampowered.com/app/2121980/Void_Stranger/
 { "name": "VoidStranger.exe", "type": "Game" }
@@ -190,22 +206,6 @@
 # VS IMPOSTOR https://gamebanana.com/mods/590608
 { "name": "Vs. Impostor.exe", "type": "Game" }
 { "name": "VS Impostor.exe", "type": "Game" }
-
-# Valkyria Chronicles 4 Complete Edition https://store.steampowered.com/app/790820/Valkyria_Chronicles_4_Complete_Edition/
-{ "name": "Valkyria4_x64.exe", "type": "Game" }
-
-# Vanquish https://store.steampowered.com/app/460810/Vanquish/
-{ "name": "Vanquish.exe", "type": "Game" }
-
-# Vault of the Void https://store.steampowered.com/app/1135810/Vault_of_the_Void/
-{ "name": "VaultoftheVoid.exe", "type": "Game" }
-
-# Visage https://store.steampowered.com/app/594330/Visage/
-{ "name": "Visage.exe", "type": "Game" }
-{ "name": "Visage-Win64-Shipping.exe", "type": "Game" }
-
-# Voidigo https://store.steampowered.com/app/1304680/Voidigo/
-{ "name": "voidigo.exe", "type": "Game" }
 
 # Vs. RetroSpecter - Part Two: Infernadise https://gamebanana.com/mods/317366
 { "name": "FNF - Vs. RetroSpecter.exe", "type": "Game" }
