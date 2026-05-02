@@ -963,3 +963,4 @@
 { "name": "Touchup.exe", "type": "BG_CPUIO" }
 { "name": "PrereqsBundle.exe", "type": "BG_CPUIO" }
 { "name": "UE4PrereqSetup_x64.exe", "type": "BG_CPUIO" }
+{ "name": "vc_redist.arm64.exe", "type": "BG_CPUIO" }
