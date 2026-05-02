@@ -53,6 +53,9 @@
 # Go! Go! Nippon! ~My First Trip to Japan~ https://store.steampowered.com/app/251870/Go_Go_Nippon_My_First_Trip_to_Japan/
 { "name": "BGI.exe", "type": "Game" }
 
+# RAD Game Tools binary to play .bik video files
+{ "name": "binkplay.exe", "type": "BG_CPUIO" }
+
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
 
