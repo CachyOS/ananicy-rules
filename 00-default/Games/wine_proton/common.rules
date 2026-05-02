@@ -35,6 +35,9 @@
 # some sort of windows cd/dvd shit process for launching installer
 { "name": "autorun.exe", "type": "BG_CPUIO" }
 
+# AVIcodec is a free multimedia file analyser for Windows http://avicodec.duby.info/
+{ "name": "avicodec.exe", "type": "BG_CPUIO" }
+
 # Baldur's Gate https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
