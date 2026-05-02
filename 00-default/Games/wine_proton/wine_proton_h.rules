@@ -37,9 +37,6 @@
 { "name": "hl2mp.exe", "type": "Game" }
 { "name": "hl2mp_win64.exe", "type": "Game" }
 
-# Half-Life 2: Episode Two https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
-{ "name": "hl2.exe", "type": "Game" }
-
 # Half-Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
@@ -216,9 +213,6 @@
 # Heavy Rain https://store.steampowered.com/app/960910/Heavy_Rain/
 { "name": "HeavyRain.exe", "type": "Game" }
 
-# Heian City Story https://store.steampowered.com/app/3132250/Heian_City_Story/
-{ "name": "KairoGames.exe", "type": "Game" }
-
 # He is Coming https://store.steampowered.com/app/2824490/He_is_Coming/
 { "name": "He is coming.exe", "type": "Game" }
 
@@ -264,24 +258,6 @@
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
 { "name": "HelloNeighbor.exe", "type": "Game" }
 { "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
-{ "name": "HelloNeighborReborn.exe", "type": "Game" }
-{ "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
-
-# Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
-{ "name": "HelloNeighbor2.exe", "type": "Game" }
-{ "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
-
-# Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
-{ "name": "HelloNeighbor2.exe", "type": "Game" }
-{ "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
-
-# Hello Neighbor Alpha 1 https://store.steampowered.com/app/1092710/Hello_Neighbor_Alpha_1/
-{ "name": "HelloNeighborReborn.exe", "type": "Game" }
-{ "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
-
-# Hello Neighbor Alpha 4 https://store.steampowered.com/app/1096710/Hello_Neighbor_Alpha_4/
-{ "name": "HelloNeighborReborn.exe", "type": "Game" }
-{ "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
 
 # Hello Neighbor Pre-Alpha https://store.steampowered.com/app/1092700/Hello_Neighbor_PreAlpha/
 { "name": "HelloNeighbour.exe", "type": "Game" }
@@ -337,10 +313,6 @@
 { "name": "HOMM3 2.0.exe", "type": "Game" }
 { "name": "mapEditor.exe", "type": "Game" }
 
-# Heroes of Might & Magic V: Hammers of Fate https://store.steampowered.com/app/15380/Heroes_of_Might__Magic_V_Hammers_of_Fate/
-{ "name": "H5_Game.exe", "type": "Game" }
-{ "name": "H5_MapEditor.exe", "type": "Game" }
-
 # Heroes of Science and Fiction https://store.steampowered.com/app/2147380/Heroes_of_Science_and_Fiction/
 { "name": "Silence of the Siren.exe", "type": "Game" }
 
@@ -361,7 +333,6 @@
 { "name": "Hero_of_the_Kingdom_III.exe", "type": "Game" }
 
 # Hero Plus https://store.steampowered.com/app/747920/Hero_Plus/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "Hero.exe", "type": "Game" }
 
 # Hero's Adventure: Road to Passion https://store.steampowered.com/app/1948980/Heros_Adventure_Road_to_Passion/
@@ -435,9 +406,6 @@
 # Highrise City https://store.steampowered.com/app/1489970/Highrise_City/
 { "name": "CityNext-Win64-Shipping.exe", "type": "Game" }
 { "name": "HighriseCity.exe", "type": "Game" }
-
-# High Sea Saga DX https://store.steampowered.com/app/2431880/High_Sea_Saga_DX/
-{ "name": "KairoGames.exe", "type": "Game" }
 
 # Higurashi When They Cry Hou - Ch.1 Onikakushi https://store.steampowered.com/app/310360/Higurashi_When_They_Cry_Hou__Ch1_Onikakushi/
 { "name": "HigurashiEp01.exe", "type": "Game" }
