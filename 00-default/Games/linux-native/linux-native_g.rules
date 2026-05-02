@@ -18,6 +18,9 @@
 # Garry's Mod https://store.steampowered.com/app/4000/Garrys_Mod/
 { "name": "gmod", "type": "Game" }
 
+# GearBlocks https://store.steampowered.com/app/1305080/GearBlocks/
+{ "name": "GearBlocks.x86_64", "type": "Game" }
+
 # GearCity https://store.steampowered.com/app/285110/GearCity/
 { "name": "GearCityFBS1", "type": "Game" }
 { "name": "GearCityStart", "type": "Game" }
@@ -27,6 +30,9 @@
 
 # Gear Up https://store.steampowered.com/app/214420/Gear_Up/
 { "name": "Traktor.Amalgam.Game.App", "type": "Game" }
+
+# GeckoShop https://store.steampowered.com/app/3392420/GeckoShop/
+{ "name": "GeckoShop.x86_64", "type": "Game" }
 
 # Gemini Rue https://store.steampowered.com/app/80310/Gemini_Rue/
 { "name": "GeminiRue.bin.x86", "type": "Game" }
@@ -48,6 +54,10 @@
 
 # Goat Simulator https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame", "type": "Game" }
+
+# Godot Engine https://store.steampowered.com/app/404790/Godot_Engine/
+{ "name": "godot.x11.opt.tools.64", "type": "Game" }
+{ "name": "godot.x11.opt.tools.32", "type": "Game" }
 
 # Golf Gang https://store.steampowered.com/app/1151050/Golf_Gang/
 { "name": "Golf Gang.x86_64", "type": "Game" }
@@ -107,6 +117,9 @@
 # Gunscape https://store.steampowered.com/app/342480/Gunscape/
 { "name": "Gunscape.x86", "type": "Game" }
 { "name": "Gunscape.x86_64", "type": "Game" }
+
+# Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
+{ "name": "Workshop", "type": "Game" }
 
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 { "name": "GunsOfIcarusOnline", "type": "Game" }

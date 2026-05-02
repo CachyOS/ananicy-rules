@@ -169,7 +169,9 @@
 { "name": "dom4_x86", "type": "Game" }
 
 # Dominions 5 https://store.steampowered.com/app/722060/Dominions_5__Warriors_of_the_Faith/
-{ "name": "dom5.sh", "type": "Game" }
+{ "name": "dom5_amd64", "type": "Game" }
+{ "name": "dom5_arm", "type": "Game" }
+{ "name": "dom5_x86", "type": "Game" }
 
 # Dominions 6 - Rise of the Pantokrator https://store.steampowered.com/app/2511500/Dominions_6__Rise_of_the_Pantokrator/
 { "name": "dom6_amd64", "type": "Game" }

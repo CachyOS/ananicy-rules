@@ -75,9 +75,6 @@
 # Fraymakers https://store.steampowered.com/app/1420350/Fraymakers/
 { "name": "hl", "type": "Game" }
 
-# Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
-{ "name": "hl.sh", "type": "Game" }
-
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
 # Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
 # Portal https://store.steampowered.com/app/400/Portal/
@@ -87,6 +84,7 @@
 # Empires https://store.steampowered.com/app/17740/Empires_Mod/
 # Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
 # BrainBread 2 https://store.steampowered.com/app/346330/BrainBread_2/
+# Half-Life 2: Episode Two https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
 { "name": "hl2_linux", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
@@ -123,6 +121,10 @@
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 { "name": "hltv", "type": "Game" }
 
+# Kindergarten https://store.steampowered.com/app/589590/Kindergarten/
+# Kindergarten 2 https://store.steampowered.com/app/1067850/Kindergarten_2/
+{ "name": "Kindergarten.x86_64", "type": "Game" }
+
 # Kingdom: Classic https://store.steampowered.com/app/368230/Kingdom_Classic/
 # Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
 { "name": "Kingdom.x86", "type": "Game" }
@@ -130,6 +132,10 @@
 # Danganronpa 2: Goodbye Despair https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 # Danganronpa: Trigger Happy Havoc https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
 { "name": "Launcher", "type": "Game" }
+
+# Gourdlets https://store.steampowered.com/app/2013730/Gourdlets/
+# Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
+{ "name": "linux.x86_64", "type": "Game" }
 
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
@@ -168,6 +174,7 @@
 # Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/
 # X-Blades https://store.steampowered.com/app/7510/XBlades/
 # Enclave https://store.steampowered.com/app/253980/Enclave/
+# Jack Orlando Director's Cut https://store.steampowered.com/app/253960/Jack_Orlando_Directors_Cut/
 { "name": "RunGame", "type": "Game" }
 
 # Two Worlds Epic Edition https://store.steampowered.com/app/1930/Two_Worlds_Epic_Edition/

@@ -35,6 +35,9 @@
 # some sort of windows cd/dvd shit process for launching installer
 { "name": "autorun.exe", "type": "BG_CPUIO" }
 
+# AVIcodec is a free multimedia file analyser for Windows http://avicodec.duby.info/
+{ "name": "avicodec.exe", "type": "BG_CPUIO" }
+
 # Baldur's Gate https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
@@ -53,6 +56,9 @@
 # Go! Go! Nippon! ~My First Trip to Japan~ https://store.steampowered.com/app/251870/Go_Go_Nippon_My_First_Trip_to_Japan/
 { "name": "BGI.exe", "type": "Game" }
 
+# RAD Game Tools binary to play .bik video files
+{ "name": "binkplay.exe", "type": "BG_CPUIO" }
+
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
 
@@ -67,6 +73,9 @@
 # Call to Arms https://store.steampowered.com/app/302670/Call_to_Arms/
 # Call to Arms - Gates of Hell: Ostfront https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
 { "name": "call_to_arms_server.exe", "type": "Game" }
+
+# Adobe Integrated Runtime binary 
+{ "name": "CaptiveAppEntry.exe", "type": "BG_CPUIO" }
 
 # Cataclismo https://store.steampowered.com/app/1422440/Cataclismo/
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
@@ -376,22 +385,46 @@
 # WGT Golf https://store.steampowered.com/app/1182020/WGT_Golf/
 { "name": "golf.exe", "type": "Game" }
 
+# Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
+# Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
+{ "name": "GunsOfIcarusOnline.exe", "type": "Game" }
+
 # Guild Wars Reforged https://store.steampowered.com/app/29720/Guild_Wars_Reforged/
 # GUNTOUCHABLES https://store.steampowered.com/app/2543510/GUNTOUCHABLES/
 { "name": "Gw.exe", "type": "Game" }
 
 # Heroes of Might & Magic V https://store.steampowered.com/app/15170/Heroes_of_Might__Magic_V/
 # Heroes of Might & Magic V: Tribes of the East https://store.steampowered.com/app/15370/Heroes_of_Might__Magic_V_Tribes_of_the_East/
+# Heroes of Might & Magic V: Hammers of Fate https://store.steampowered.com/app/15380/Heroes_of_Might__Magic_V_Hammers_of_Fate/
 { "name": "H5_Game.exe", "type": "Game" }
 
 # Heroes of Might & Magic V https://store.steampowered.com/app/15170/Heroes_of_Might__Magic_V/
 # Heroes of Might & Magic V: Tribes of the East https://store.steampowered.com/app/15370/Heroes_of_Might__Magic_V_Tribes_of_the_East/
+# Heroes of Might & Magic V: Hammers of Fate https://store.steampowered.com/app/15380/Heroes_of_Might__Magic_V_Hammers_of_Fate/
 { "name": "H5_MapEditor.exe", "type": "Game" }
 
 # Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
 # Source SDK Base tools
 # Hammer map editor
 { "name": "hammer.exe", "type": "Game" }
+
+# Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
+# Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
+{ "name": "HelloNeighbor2.exe", "type": "Game" }
+
+# Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
+# Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
+{ "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
+
+# Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
+# Hello Neighbor Alpha 1 https://store.steampowered.com/app/1092710/Hello_Neighbor_Alpha_1/
+# Hello Neighbor Alpha 4 https://store.steampowered.com/app/1096710/Hello_Neighbor_Alpha_4/
+{ "name": "HelloNeighborReborn.exe", "type": "Game" }
+
+# Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
+# Hello Neighbor Alpha 1 https://store.steampowered.com/app/1092710/Hello_Neighbor_Alpha_1/
+# Hello Neighbor Alpha 4 https://store.steampowered.com/app/1096710/Hello_Neighbor_Alpha_4/
+{ "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
 
 # Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
 # Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
@@ -409,6 +442,7 @@
 # Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
 # Portal https://store.steampowered.com/app/400/Portal/
+# Half-Life 2: Episode Two https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
 { "name": "hl2.exe", "type": "Game" }
 
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
@@ -438,6 +472,10 @@
 # Infestation: The New Z https://store.steampowered.com/app/555570/Infestation_The_New_Z/
 { "name": "InfestationLauncher.exe", "type": "Game" }
 
+# It Takes Two https://store.steampowered.com/app/1426210/It_Takes_Two/
+# It Takes Two Friend's Pass https://store.steampowered.com/app/1504980/It_Takes_Two_Friends_Pass/
+{ "name": "ItTakesTwo.exe", "type": "Game" }
+
 # Puzzle Pirates https://store.steampowered.com/app/99910/Puzzle_Pirates/
 # WAKFU https://store.steampowered.com/app/215080/WAKFU/
 # Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
@@ -454,6 +492,9 @@
 
 # Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
 # Dungeon Village 2 https://store.steampowered.com/app/1983710/Dungeon_Village_2/
+# High Sea Saga DX https://store.steampowered.com/app/2431880/High_Sea_Saga_DX/
+# Heian City Story https://store.steampowered.com/app/3132250/Heian_City_Story/
+# Game Dev Story https://store.steampowered.com/app/1847240/Game_Dev_Story/
 { "name": "KairoGames.exe", "type": "Game" }
 
 # Kingdom: Classic https://store.steampowered.com/app/368230/Kingdom_Classic/
@@ -495,6 +536,8 @@
 # Richman 4 https://store.steampowered.com/app/2059810/Richman_4/
 # AI: THE SOMNIUM FILES - nirvanA Initiative https://store.steampowered.com/app/1449200/AI_THE_SOMNIUM_FILES__nirvanA_Initiative/
 # SpellForce 3 Reforced https://store.steampowered.com/app/311290/SpellForce_3_Reforced/
+# Hero Plus https://store.steampowered.com/app/747920/Hero_Plus/
+# ICBM: Escalation https://store.steampowered.com/app/2647680/ICBM_Escalation/
 { "name": "Launcher.exe", "type": "Game" }
 
 # Closers https://store.steampowered.com/app/215830/Closers/
@@ -600,6 +643,7 @@
 # Fallen ~Makina and the City of Ruins~ https://store.steampowered.com/app/791330/Fallen_Makina_and_the_City_of_Ruins/
 # Game Dev Tycoon https://store.steampowered.com/app/239820/Game_Dev_Tycoon/
 # Buy a Croquette! https://store.steampowered.com/app/2167960/Buy_a_Croquette/
+# Idle Bouncer https://store.steampowered.com/app/697610/Idle_Bouncer/
 { "name": "nw.exe", "type": "Game" }
 
 # Vindictus https://store.steampowered.com/app/212160/Vindictus/
@@ -788,6 +832,9 @@
 # Supreme Commander https://store.steampowered.com/app/9350/Supreme_Commander/
 { "name": "SupremeCommander.exe", "type": "Game" }
 
+# Self explanatory it gets system info...
+{ "name": "SystemInfoGetter.exe", "type": "BG_CPUIO" }
+
 # A Tower Full of Cats https://store.steampowered.com/app/2179170/A_Tower_Full_of_Cats/
 # Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
 { "name": "Tower.exe", "type": "Game" }
@@ -894,6 +941,10 @@
 # Total War: WARHAMMER https://store.steampowered.com/app/364360/Total_War_WARHAMMER/
 { "name": "Warhammer.exe", "type": "Game" }
 
+# Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
+# Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
+{ "name": "Workshop.exe", "type": "Game" }
+
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
 # XCOM: Chimera Squad https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/
 { "name": "XCom2.exe", "type": "Game" }
@@ -955,3 +1006,7 @@
 { "name": "VC_redist.x64.exe", "type": "BG_CPUIO" }
 { "name": "VC_redist.x86.exe", "type": "BG_CPUIO" }
 { "name": "Touchup.exe", "type": "BG_CPUIO" }
+{ "name": "PrereqsBundle.exe", "type": "BG_CPUIO" }
+{ "name": "UE4PrereqSetup_x64.exe", "type": "BG_CPUIO" }
+{ "name": "vc_redist.arm64.exe", "type": "BG_CPUIO" }
+{ "name": "EpicOnlineServicesInstaller.exe", "type": "BG_CPUIO" }

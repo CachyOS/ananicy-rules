@@ -6,13 +6,13 @@
 
 # Usage: ./sort_elements.sh wine_proton_a.rules
 #
-# Usage to sort multiple files with single command (a to z). run this script in the root of the repo
+# Usage to sort multiple files with single command (a to z) numerical and the. run this script in the root of the repo
 # 
-# for letter in {a..z}; do
+# for letter in {a..z} numerical the; do
 #     ./sort-games.sh "00-default/Games/wine_proton/wine_proton_${letter}.rules"
 # done
-#
-# for letter in {a..z}; do
+
+# for letter in {a..z} numerical the; do
 #     ./sort-games.sh "00-default/Games/linux-native/linux-native_${letter}.rules"
 # done
 

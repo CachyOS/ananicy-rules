@@ -12,6 +12,13 @@
 # Jackal https://store.steampowered.com/app/3124230/Jackal/
 { "name": "jackal.exe", "type": "Game" }
 
+# Jack Orlando Director's Cut https://store.steampowered.com/app/253960/Jack_Orlando_Directors_Cut/
+{ "name": "JackStart.exe", "type": "Game" }
+{ "name": "JackOrlando.exe", "type": "Game" }
+
+# Jacksmith: Weapons and Warriors https://store.steampowered.com/app/3580580/Jacksmith_Weapons_and_Warriors/
+{ "name": "Jacksmith.exe", "type": "Game" }
+
 # Jade Empire: Special Edition https://store.steampowered.com/app/7110/Jade_Empire_Special_Edition/
 { "name": "JadeEmpireConfig.exe", "type": "Game" }
 { "name": "JadeEmpireLauncher.exe", "type": "Game" }
@@ -57,6 +64,13 @@
 # JIANGHU CHRONICLES https://store.steampowered.com/app/1909840/JIANGHU_CHRONICLES/
 { "name": "JHL.exe", "type": "Game" }
 
+# Jigsaw Puzzles Infinite https://store.steampowered.com/app/1946140/Jigsaw_Puzzles_Infinite/
+{ "name": "Jigsaw.exe", "type": "Game" }
+
+# Joana's Life https://store.steampowered.com/app/513740/Joanas_Life/
+{ "name": "JohanasLife.exe", "type": "Game" }
+{ "name": "JohanasLife-Win64-Shipping.exe", "type": "Game" }
+
 # Job Simulator https://store.steampowered.com/app/448280/Job_Simulator/
 { "name": "JobSimulator.exe", "type": "Game" }
 
@@ -79,15 +93,31 @@
 # Journey of a Roach https://store.steampowered.com/app/255300/Journey_of_a_Roach/
 { "name": "JoaR.exe", "type": "Game" }
 
+# Journey to Incrementalia https://store.steampowered.com/app/3147430/Journey_to_Incrementalia/
+{ "name": "Journey to Incrementalia.exe", "type": "Game" }
+
 # Journey To The Savage Planet https://store.steampowered.com/app/973810/Journey_To_The_Savage_Planet/
 { "name": "Towers.exe", "type": "Game" }
 { "name": "Towers-Win64-Shipping.exe", "type": "Game" }
 
+# Joyquarium https://store.steampowered.com/app/3472890/Joyquarium/
+{ "name": "YuGang.exe", "type": "Game" }
+
+# JR EAST Train Simulator https://store.steampowered.com/app/2111630/JR_EAST_Train_Simulator/
+{ "name": "JREAST_TrainSimulator.exe", "type": "Game" }
+
 # Judge Dredd: Dredd vs. Death https://store.steampowered.com/app/3710/Judge_Dredd_Dredd_vs_Death/
 { "name": "Dredd.exe", "type": "Game" }
 
+# JudgeSim https://store.steampowered.com/app/2919660/JudgeSim/
+{ "name": "JudgeSim.exe", "type": "Game" }
+{ "name": "JudgeSim-Win64-Shipping.exe", "type": "Game" }
+
 # Judgment https://store.steampowered.com/app/2058180/Judgment/
 { "name": "startup.exe", "type": "Game" }
+
+# Juice Galaxy https://store.steampowered.com/app/1708150/Juice_Galaxy/
+{ "name": "Juice Galaxy.exe", "type": "Game" }
 
 # Juicy Realm https://store.steampowered.com/app/732370/Juicy_Realm/
 { "name": "JuicyRealm.exe", "type": "Game" }
@@ -104,6 +134,10 @@
 
 # Jump Space https://store.steampowered.com/app/1757300/Jump_Space/
 { "name": "Jump Space.exe", "type": "Game" }
+
+# Junkyard Simulator https://store.steampowered.com/app/671970/Junkyard_Simulator/
+{ "name": "JunkYard.exe", "type": "Game" }
+{ "name": "JunkYard-Win64-Shipping.exe", "type": "Game" }
 
 # Juno: New Origins https://store.steampowered.com/app/870200/Juno_New_Origins/
 { "name": "SimpleRockets2.exe", "type": "Game" }
@@ -123,6 +157,10 @@
 # Jurassic World Evolution 3 https://store.steampowered.com/app/2958130/Jurassic_World_Evolution_3/
 { "name": "JWE3.exe", "type": "Game" }
 
+# Jusant https://store.steampowered.com/app/1977170/Jusant/
+{ "name": "ASC-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ASC.exe", "type": "Game" }
+
 # Just Cause https://store.steampowered.com/app/6880/Just_Cause/
 { "name": "JCSetup.exe", "type": "Game" }
 { "name": "JustCause.exe", "type": "Game" }
@@ -139,8 +177,18 @@
 # Just Cause 4 Reloaded https://store.steampowered.com/app/517630/Just_Cause_4_Reloaded/
 { "name": "JustCause4.exe", "type": "Game" }
 
+# Just Die Already https://store.steampowered.com/app/979070/Just_Die_Already/
+{ "name": "JDGame.exe", "type": "Game" }
+{ "name": "JDGame-Win64-Shipping.exe", "type": "Game" }
+
 # Just Go https://store.steampowered.com/app/1862520/Just_Go/
 { "name": "JustGo.exe", "type": "Game" }
 
 # Just Shapes & Beats https://store.steampowered.com/app/531510/Just_Shapes__Beats/
 { "name": "JSB.exe", "type": "Game" }
+
+# Just Xiangqi https://store.steampowered.com/app/2248180/Just_Xiangqi/
+{ "name": "JustXiangqi.exe", "type": "Game" }
+
+# Juufuutei Raden™'s Guide for Pixel Museum https://store.steampowered.com/app/3204020/Juufuutei_Radens_Guide_for_Pixel_Museum/
+{ "name": "PixelMuseum.exe", "type": "Game" }
