@@ -80,6 +80,9 @@
 { "name": "LoversInADangerousSpacetime.x86", "type": "Game" }
 { "name": "LoversInADangerousSpacetime.x86_64", "type": "Game" }
 
+# lsfg-vk https://github.com/PancakeTAS/lsfg-vk
+{ "name": "lsfg-vk-ui ", "type": "Game" }
+
 # Luanti http://www.luanti.org/
 { "name": "luanti", "type": "Game" }
 { "name": "luanti.bin", "type": "Game" }

@@ -761,6 +761,10 @@
 { "name": "fps-mon64.exe", "type": "BG_CPUIO" }
 { "name": "fps-mon32.exe", "type": "BG_CPUIO" }
 
+# fpsVR https://store.steampowered.com/app/908520/fpsVR/
+{ "name": "fpsVR.exe", "type": "Game" }
+{ "name": "fpsVRcmd.exe", "type": "Game" }
+
 # FPV Kamikaze Drone https://store.steampowered.com/app/2707940/FPV_Kamikaze_Drone/
 { "name": "FPVKamikazeDrone.exe", "type": "Game" }
 
