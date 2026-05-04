@@ -225,6 +225,10 @@
 # TerraTech https://store.steampowered.com/app/285920/TerraTech/
 { "name" : "TerraTechWin64.exe", "type": "Game" }
 
+# TerraTech Legion https://store.steampowered.com/app/3596700/TerraTech_Legion/
+{ "name": "TerraTech_LegionEOS.exe", "type": "Game" }
+{ "name": "TerraTech_LegionEOS-Win64-Shipping.exe", "type": "Game" }
+
 # Tesla Effect: A Tex Murphy Adventure https://store.steampowered.com/app/261510/Tesla_Effect_A_Tex_Murphy_Adventure/
 { "name": "TeslaEffect.exe", "type": "Game" }
 
@@ -335,6 +339,10 @@
 # Ticket to Ride: Classic Edition https://store.steampowered.com/app/108200/Ticket_to_Ride_Classic_Edition/
 { "name": "Ticket to Ride.exe", "type": "Game" }
 
+# Tides of Tomorrow https://store.steampowered.com/app/2678080/Tides_of_Tomorrow/
+{ "name": "TidesOfTomorrow.exe", "type": "Game" }
+{ "name": "TidesOfTomorrow-Win64-Shipping.exe", "type": "Game" }
+
 # Timberborn https://store.steampowered.com/app/1062090/Timberborn/
 { "name": "Timberborn.exe", "type": "Game" }
 
@@ -399,6 +407,9 @@
 { "name": "tfods.exe", "type": "Game" }
 { "name": "TitanFallOnline.exe", "type": "Game" }
 { "name": "r1_x64.exe", "type": "Game" }
+
+# Titanium Court https://store.steampowered.com/app/2364580/Titanium_Court/
+{ "name": "TitaniumCourt.exe", "type": "Game" }
 
 # Titan Quest Anniversary Edition https://store.steampowered.com/app/475150/Titan_Quest_Anniversary_Edition/
 { "name": "TQ.exe", "type": "Game" }

@@ -386,6 +386,10 @@
 # Beyond Good & Evil - 20th Anniversary Edition https://store.steampowered.com/app/2556990/Beyond_Good__Evil__20th_Anniversary_Edition/
 { "name": "bge.exe", "type": "Game" }
 
+# Beyond Sandbox https://store.steampowered.com/app/3385970/Beyond_Sandbox/
+{ "name": "Beyond.exe", "type": "Game" }
+{ "name": "Beyond-Win64-Shipping.exe", "type": "Game" }
+
 # Beyond The Wire https://store.steampowered.com/app/1058650/Beyond_The_Wire/
 { "name": "WireGame.exe", "type": "Game" }
 
@@ -1001,6 +1005,10 @@
 
 # Burnout Paradise: The Ultimate Box https://store.steampowered.com/app/24740/Burnout_Paradise_The_Ultimate_Box/
 { "name": "burnoutparadise.exe", "type": "Game" }
+
+# Bus Bound https://store.steampowered.com/app/2095420/Bus_Bound/
+{ "name": "BusGame.exe", "type": "Game" }
+{ "name": "BusGame-Win64-Shipping.exe", "type": "Game" }
 
 # Bus Driver https://store.steampowered.com/app/302080/Bus_Driver/
 { "name": "busdriver.exe", "type": "Game" }

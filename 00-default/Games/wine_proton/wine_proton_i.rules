@@ -188,6 +188,10 @@
 { "name": "Industria.exe", "type": "Game" }
 { "name": "Industria-Win64-Shipping.exe", "type": "Game" }
 
+# INDUSTRIA 2 https://store.steampowered.com/app/2154070/INDUSTRIA_2/
+{ "name": "Industria_2.exe", "type": "Game" }
+{ "name": "Industria_2-Win64-Shipping.exe", "type": "Game" }
+
 # Industry Giant 2 https://store.steampowered.com/app/271360/Industry_Giant_2/
 { "name": "Editor.exe", "type": "Game" }
 { "name": "ig2_AddOn.exe", "type": "Game" }
@@ -246,6 +250,9 @@
 
 # Inkbound https://store.steampowered.com/app/1062810/Inkbound/
 { "name": "Inkbound.exe", "type": "Game" }
+
+# inKONBINI: One Store. Many Stories https://store.steampowered.com/app/2723430/inKONBINI_One_Store_Many_Stories/
+{ "name": "inKONBINI.exe", "type": "Game" }
 
 # Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
 { "name": "fcengine.exe", "type": "Game" }
@@ -332,6 +339,10 @@
 
 # In Verbis Virtus https://store.steampowered.com/app/242840/In_Verbis_Virtus/
 { "name": "IVV.exe", "type": "Game" }
+
+# Invincible VS https://store.steampowered.com/app/2353060/
+{ "name": "InvincibleVS.exe", "type": "Game" }
+{ "name": "InvincibleVS-Win64-Shipping.exe", "type": "Game" }
 
 # Invisible, Inc. https://store.steampowered.com/app/243970/Invisible_Inc/
 { "name": "invisibleinc.exe", "type": "Game" }

@@ -143,6 +143,12 @@
 { "name": "SLR.exe", "type": "Game" }
 { "name": "SLRX64.exe", "type": "Game" }
 
+# s&box https://store.steampowered.com/app/590830/sbox/
+{ "name": "sbox.exe", "type": "Game" }
+{ "name": "sbox-standalone.exe", "type": "Game" }
+{ "name": "sbox-launcher.exe", "type": "BG_CPUIO" }
+{ "name": "sbox-server.exe", "type": "BG_CPUIO" }
+
 # Scam Line https://store.steampowered.com/app/2794590/Scam_Line/
 { "name": "Scam Line.exe", "type": "Game" }
 
@@ -458,6 +464,9 @@
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 { "name": "shapez 2.exe", "type": "Game" }
 
+# shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
+{ "name": "shapez 2.exe", "type": "Game" }
+
 # Shatter https://store.steampowered.com/app/20820/Shatter/
 { "name": "Shatter.exe", "type": "Game" }
 { "name": "sh.exe", "type": "Game" }
@@ -752,6 +761,9 @@
 # Sledders https://store.steampowered.com/app/2486740/Sledders/
 { "name": "Sledders.exe", "type": "Game" }
 
+# Sledding Game https://store.steampowered.com/app/3438850/Sledding_Game/
+{ "name": "Sledding Game.exe", "type": "Game" }
+
 # Sleeping Dogs https://store.steampowered.com/app/202170/Sleeping_Dogs/
 { "name": "HKShip.exe", "type": "Game" }
 
@@ -988,6 +1000,9 @@
 # Soulmask https://store.steampowered.com/app/2646460/Soulmask/
 { "name": "WS.exe", "type": "Game" }
 { "name": "WS-Win64-Shipping.exe", "type": "Game" }
+
+# SoulQuest https://store.steampowered.com/app/2512450/SoulQuest/
+{ "name": "SoulQuest.exe", "type": "Game" }
 
 # Soulstice https://store.steampowered.com/app/1602080/Soulstice/
 { "name": "Soulstice.exe", "type": "Game" }
@@ -1653,6 +1668,10 @@
 
 # Sudden Strike 4 https://store.steampowered.com/app/373930/Sudden_Strike_4/
 { "name": "SuddenStrike4.exe", "type": "Game" }
+
+# Sudden Strike 5 https://store.steampowered.com/app/2808550/Sudden_Strike_5/
+{ "name": "Sudden Strike 5.exe", "type": "Game" }
+{ "name": "KalypsoLauncher.exe", "type": "Game" }
 
 # Sudoku Universe https://store.steampowered.com/app/733070/Sudoku_Universe/
 { "name": "Sudoku Universe.exe", "type": "Game" }
