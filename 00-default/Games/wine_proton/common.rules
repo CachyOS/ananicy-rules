@@ -599,6 +599,14 @@
 # Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
 { "name": "Marvel.exe", "type": "Game" }
 
+# MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
+# MechWarrior 5: Clans https://store.steampowered.com/app/2000890/MechWarrior_5_Clans/
+{ "name": "MechWarrior.exe", "type": "Game" }
+
+# MechWarrior 5: Clans https://store.steampowered.com/app/2000890/MechWarrior_5_Clans/
+# MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
+{ "name": "MechWarrior-Win64-Shipping.exe", "type": "Game" }
+
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 { "name": "metro.exe", "type": "Game" }
@@ -966,6 +974,7 @@
 # Yu-Gi-Oh! Legacy of the Duelist : Link Evolution https://store.steampowered.com/app/1150640/YuGiOh_Legacy_of_the_Duelist__Link_Evolution/
 # Yu-Gi-Oh! Legacy of the Duelist https://store.steampowered.com/app/480650/YuGiOh_Legacy_of_the_Duelist/
 { "name": "YuGiOh.exe", "type": "Game" }
+
 
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
