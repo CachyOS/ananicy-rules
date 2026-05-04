@@ -9,6 +9,10 @@
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "Airfoil Maker-x86_64", "type": "Game" }
 
+# Vending Machine Co. https://store.steampowered.com/app/3622640/Vending_Machine_Co/
+# Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
+{ "name": "app.x86_64", "type": "Game" }
+
 # Baldur's Gate https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
 { "name": "BaldursGate", "type": "Game" }
@@ -203,6 +207,10 @@
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
 { "name": "srcds_linux64", "type": "Game" }
+
+# shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
+# shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
+{ "name": "shapez 2.x86_64", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
