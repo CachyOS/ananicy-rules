@@ -498,6 +498,10 @@
 # Game Dev Story https://store.steampowered.com/app/1847240/Game_Dev_Story/
 { "name": "KairoGames.exe", "type": "Game" }
 
+# Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
+# Sudden Strike 5 https://store.steampowered.com/app/2808550/Sudden_Strike_5/
+{ "name": "KalypsoLauncher.exe", "type": "BG_CPUIO" }
+
 # Kingdom: Classic https://store.steampowered.com/app/368230/Kingdom_Classic/
 # Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
 { "name": "Kingdom.exe", "type": "Game" }
@@ -598,6 +602,14 @@
 # MARVEL MaXimum Collection https://store.steampowered.com/app/3931060/MARVEL_MaXimum_Collection/
 # Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
 { "name": "Marvel.exe", "type": "Game" }
+
+# MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
+# MechWarrior 5: Clans https://store.steampowered.com/app/2000890/MechWarrior_5_Clans/
+{ "name": "MechWarrior.exe", "type": "Game" }
+
+# MechWarrior 5: Clans https://store.steampowered.com/app/2000890/MechWarrior_5_Clans/
+# MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
+{ "name": "MechWarrior-Win64-Shipping.exe", "type": "Game" }
 
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
@@ -775,6 +787,10 @@
 # SpellForce 3: Versus Edition https://store.steampowered.com/app/1416260/SpellForce_3_Versus_Edition/
 # SpellForce 3: Fallen God https://store.steampowered.com/app/1154040/SpellForce_3_Fallen_God/
 { "name": "SF3ClientFinal.exe", "type": "Game" }
+
+# shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
+# shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
+{ "name": "shapez 2.exe", "type": "Game" }
 
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
@@ -966,6 +982,7 @@
 # Yu-Gi-Oh! Legacy of the Duelist : Link Evolution https://store.steampowered.com/app/1150640/YuGiOh_Legacy_of_the_Duelist__Link_Evolution/
 # Yu-Gi-Oh! Legacy of the Duelist https://store.steampowered.com/app/480650/YuGiOh_Legacy_of_the_Duelist/
 { "name": "YuGiOh.exe", "type": "Game" }
+
 
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }

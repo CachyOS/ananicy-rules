@@ -101,6 +101,9 @@
 # Magic: The Gathering - Duels of the Planeswalkers 2013 https://store.steampowered.com/app/97330/Magic_The_Gathering__Duels_of_the_Planeswalkers_2013/
 { "name": "DotP_D13.exe", "type": "Game" }
 
+# Magin: The Rat Project Stories https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/
+{ "name": "Magin The Rat Project Stories.exe", "type": "Game" }
+
 # Magrunner: Dark Pulse https://store.steampowered.com/app/209630/Magrunner_Dark_Pulse/
 { "name": "Magrunner.exe", "type": "Game" }
 
@@ -287,6 +290,9 @@
 # Master of Orion https://store.steampowered.com/app/298050/Master_of_Orion/
 { "name": "MasterOfOrion.exe", "type": "Game" }
 
+# Masters of Albion https://store.steampowered.com/app/3165650/Masters_of_Albion/
+{ "name": "moa.exe", "type": "Game" }
+
 # Masters of Anima https://store.steampowered.com/app/606890/Masters_of_Anima/
 { "name": "Masters of Anima.exe", "type": "Game" }
 
@@ -341,11 +347,6 @@
 # Mecha BREAK https://store.steampowered.com/app/2452280/Mecha_BREAK/
 { "name": "MechaBREAK.exe", "type": "Game" }
 
-# MechWarrior 5: Clans https://store.steampowered.com/app/2000890/MechWarrior_5_Clans/
-# MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
-{ "name": "MechWarrior.exe", "type": "Game" }
-{ "name": "MechWarrior-Win64-Shipping.exe", "type": "Game" }
-
 # Medal of Honor https://store.steampowered.com/app/47790/Medal_of_Honor/
 { "name": "moh.exe", "type": "Game" }
 
@@ -357,6 +358,9 @@
 
 # Medieval Blacksmith https://store.steampowered.com/app/2732100/Medieval_Blacksmith/
 { "name": "Medieval Blacksmith.exe", "type": "Game" }
+
+# Medieval Crafter: Blacksmith https://store.steampowered.com/app/2331280/Medieval_Crafter_Blacksmith/
+{ "name": "MedievalCrafterBlacksmith.exe", "type": "Game" }
 
 # Medieval Dynasty https://store.steampowered.com/app/1129580/Medieval_Dynasty/
 { "name": "Medieval_Dynasty.exe", "type": "Game" }
@@ -856,6 +860,9 @@
 # Monument Valley 2 https://store.steampowered.com/app/1927740/Monument_Valley_2/
 { "name": "Monument Valley 2.exe", "type": "Game" }
 
+# Moomintroll: Winter's Warmth https://store.steampowered.com/app/3256150/Moomintroll_Winters_Warmth/
+{ "name": "WintersWarmth.exe", "type": "Game" }
+
 # Moonbase Alpha https://store.steampowered.com/app/39000/Moonbase_Alpha/
 { "name": "MoonBaseAlphaGame.exe", "type": "Game" }
 
@@ -980,6 +987,10 @@
 # MotoGP25 https://store.steampowered.com/app/3077390/MotoGP25/
 { "name": "motogp25.exe", "type": "Game" }
 { "name": "motogp25-Win64-Shipping.exe", "type": "Game" }
+
+# MotoGP26 https://store.steampowered.com/app/3875050/MotoGP26/
+{ "name": "motogp26.exe", "type": "Game" }
+{ "name": "motogp26-Win64-Shipping.exe", "type": "Game" }
 
 # MOTORSLICE Demo https://steamdb.info/app/3910170/
 { "name": "MotorSliceDemo.exe", "type": "Game" }
