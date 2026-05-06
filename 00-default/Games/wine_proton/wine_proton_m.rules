@@ -992,6 +992,10 @@
 { "name": "motogp26.exe", "type": "Game" }
 { "name": "motogp26-Win64-Shipping.exe", "type": "Game" }
 
+# MOTORSLICE https://store.steampowered.com/app/2830030/MOTORSLICE/
+{ "name": "MotorSlice.exe", "type": "Game" }
+{ "name": "MotorSlice-Win64-Shipping.exe", "type": "Game" }
+
 # MOTORSLICE Demo https://steamdb.info/app/3910170/
 { "name": "MotorSliceDemo.exe", "type": "Game" }
 { "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
