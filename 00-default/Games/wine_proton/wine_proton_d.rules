@@ -398,8 +398,8 @@
 { "name": "DeerHunterFan.com TV - The Season.exe", "type": "Game" }
 
 # DEFCON https://store.steampowered.com/app/1520/DEFCON/
-{ "name": "Defcon.app", "type": "Game" }
 { "name": "defcon.exe", "type": "Game" }
+{ "name": "Defcon.exe", "type": "Game" }
 
 # Defender's Quest: Valley of the Forgotten (DX edition) https://store.steampowered.com/app/218410/Defenders_Quest_Valley_of_the_Forgotten_DX_edition/
 { "name": "DefendersQuest.exe", "type": "Game" }
@@ -467,13 +467,16 @@
 { "name": "Shivers-Win64-Shipping.exe", "type": "Game" }
 
 # Demon Slayer -Kimetsu no Yaiba- Sweep the Board! https://store.steampowered.com/app/2424110/Demon_Slayer_Kimetsu_no_Yaiba_Sweep_the_Board/
-{ "name": "APT.ex", "type": "Game" }
+{ "name": "APT.exe", "type": "Game" }
+{ "name": "APT-Win64-Shipping.exe", "type": "Game" }
 
 # Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles https://store.steampowered.com/app/1490890/Demon_Slayer_Kimetsu_no_Yaiba_The_Hinokami_Chronicles/
 { "name": "APK.exe", "type": "Game" }
+{ "name": "APK-Win64-Shipping.exe", "type": "Game" }
 
 # Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 https://store.steampowered.com/app/2928600/Demon_Slayer_Kimetsu_no_Yaiba_The_Hinokami_Chronicles_2/
 { "name": "APK2.exe", "type": "Game" }
+{ "name": "APK2-Win64-Shipping.exe", "type": "Game" }
 
 # Demon Tides https://store.steampowered.com/app/2585890/Demon_Tides/
 { "name": "Demon Tides.exe", "type": "Game" }
@@ -542,7 +545,7 @@
 { "name": "DETOUR.exe", "type": "Game" }
 
 # Detroit Become Human via Proton https://store.steampowered.com/app/1222140/Detroit_Become_Human/
-{ "name": "DetroitBecomeHu", "type": "Game" }
+{ "name": "DetroitBecomeHuman.exe", "type": "Game" }
 
 # Deus Ex https://www.kentie.net/article/dxguide/
 { "name": "deusex.exe", "type": "Game" }
