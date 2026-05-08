@@ -28,11 +28,24 @@
 { "name": "MII.x86", "type": "Game" }
 { "name": "MII.x86_64", "type": "Game" }
 
+# Making History II: The War of the World https://store.steampowered.com/app/46770/Making_History_II_The_War_of_the_World/
+{ "name": "mh2", "type": "Game" }
+
+# Maniac https://store.steampowered.com/app/1482380/Maniac/
+{ "name": "maniac", "type": "Game" }
+
+# Manual Samuel - Last Tuesday Edition https://store.steampowered.com/app/504130/Manual_Samuel__Last_Tuesday_Edition/
+{ "name": "Manual Samuel.x86", "type": "Game" }
+{ "name": "Manual Samuel.x86_64", "type": "Game" }
+
 # Marble It Up! Ultra https://store.steampowered.com/app/864060/Marble_It_Up_Ultra/
 { "name": "MarbleItUp.x86_64", "type": "Game" }
 
 # Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
 { "name": "ninja-bin32", "type": "Game" }
+
+# Mark of the Ninja: Remastered https://store.steampowered.com/app/860950/
+{ "name": "Ninja", "type": "Game" }
 
 # MASSIVE CHALICE https://store.steampowered.com/app/246110/MASSIVE_CHALICE/
 { "name": "MC", "type": "Game" }
@@ -75,6 +88,9 @@
 # Mercenary Kings: Reloaded Edition https://store.steampowered.com/app/218820/Mercenary_Kings_Reloaded_Edition/
 { "name": "MercenaryKings", "type": "Game" }
 
+# Merge Adventure: Magic Dragons https://store.steampowered.com/app/2495050/Merge_Adventure_Magic_Dragons/
+{ "name": "MergeAdventure.x86_64", "type": "Game" }
+
 # Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
 { "name": "MetroExodus", "type": "Game" }
 
@@ -87,8 +103,17 @@
 # Military Conflict: Vietnam https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
 { "name": "mcv_linux64", "type": "Game" }
 
+# Milk outside a bag of milk outside a bag of milk https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/
+{ "name": "PMKM2", "type": "Game" }
+
+# Minami Lane https://store.steampowered.com/app/2678990/Minami_Lane/
+{ "name": "MinamiLane.x86_64", "type": "Game" }
+
 # Mindustry https://store.steampowered.com/app/1127400/Mindustry/
 { "name": "Mindustry", "type": "Game" }
+
+# Mini Airways https://store.steampowered.com/app/2289650/Mini_Airways__ATC_simulator/
+{ "name": "MiniAirways.x86_64", "type": "Game" }
 
 # Mini Metro https://store.steampowered.com/app/287980/Mini_Metro/
 { "name": "launchscript", "type": "Game" }
@@ -99,6 +124,9 @@
 
 # Mini Thief https://store.steampowered.com/app/481870/Mini_Thief/
 { "name": "Mini_Thief", "type": "Game" }
+
+# MMORPG Tycoon 2 https://store.steampowered.com/app/486860/MMORPG_Tycoon_2/
+{ "name": "MT2", "type": "Game" }
 
 # Mobmod https://gamebanana.com/mods/464620/
 { "name": "Mobbos", "type": "Game" }
@@ -124,6 +152,12 @@
 # Monster Prom 2: Monster Camp https://store.steampowered.com/app/1140270/Monster_Prom_2_Monster_Camp/
 { "name": "MonsterCamp.x86_64", "type": "Game" }
 
+# Monster Prom 3: Monster Roadtrip https://store.steampowered.com/app/1665190/Monster_Prom_3_Monster_Roadtrip/
+{ "name": "MonsterRoadtrip.x86_64", "type": "Game" }
+
+# Monster Prom 4: Monster Con https://store.steampowered.com/app/2869860/Monster_Prom_4_Monster_Con/
+{ "name": "MonsterCon.x86_64", "type": "Game" }
+
 # Monster Sanctuary https://store.steampowered.com/app/814370/Monster_Sanctuary/
 { "name": "Monster Sanctuary.x86", "type": "Game" }
 { "name": "Monster Sanctuary.x86_64", "type": "Game" }
@@ -135,6 +169,9 @@
 # Moonlighter https://store.steampowered.com/app/606150/Moonlighter/
 { "name": "Moonlighter.x86", "type": "Game" }
 { "name": "Moonlighter.x86_64", "type": "Game" }
+
+# Moonstone Island https://store.steampowered.com/app/1658150/Moonstone_Island/
+{ "name": "Moonstone Island", "type": "Game" }
 
 # Mordheim: City of the Damned https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/
 { "name": "mordheim.x86_64", "type": "Game" }
@@ -151,11 +188,12 @@
 # Motorsport Manager https://store.steampowered.com/app/415200/Motorsport_Manager/
 { "name": "MM.x86_64", "type": "Game" }
 
+# Mountain https://store.steampowered.com/app/313340/Mountain/
+{ "name": "Mountain.x86", "type": "Game" }
+{ "name": "Mountain.x86_64", "type": "Game" }
+
 # Mount & Blade: Warband https://store.steampowered.com/app/48700/Mount__Blade_Warband/
 { "name": "mb_warband_linux", "type": "Game" }
-
-# Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
-{ "name": "love", "type": "Game" }
 
 # Mr Shifty https://store.steampowered.com/app/489140/Mr_Shifty/
 { "name": "MrShifty.x86_64", "type": "Game" }
@@ -168,3 +206,7 @@
 
 # MXGP3 - The Official Motocross Videogame https://store.steampowered.com/app/561600/MXGP3__The_Official_Motocross_Videogame/
 { "name": "mxgp3.x86_64", "type": "Game" }
+
+# Star of Providence https://store.steampowered.com/app/603960/Star_of_Providence/
+{ "name": "Monolith", "type": "Game" }
+{ "name": "monolith", "type": "Game" }

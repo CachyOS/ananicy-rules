@@ -12,12 +12,19 @@
 { "name": "gzdoom", "type": "Game" }
 { "name": "zdoom", "type": "Game" }
 
+# ZEPHON https://store.steampowered.com/app/1481170/ZEPHON/
+{ "name": "Zephon.bin", "type": "Game" }
+
 # Zero-K https://store.steampowered.com/app/334920/ZeroK/
 { "name": "Zero-K_linux64", "type": "Game" }
 { "name": "Zero-K_linux32", "type": "Game" }
 
 # Ziggurat 2 https://store.steampowered.com/app/1159560/Ziggurat_2/
 { "name": "Ziggurat2", "type": "Game" }
+
+# Zombie Night Terror https://store.steampowered.com/app/416680/Zombie_Night_Terror/
+{ "name": "znt.x86", "type": "Game" }
+{ "name": "znt.x86_64", "type": "Game" }
 
 # Zombie Panic! Source https://store.steampowered.com/app/17500/Zombie_Panic_Source/
 { "name": "zps_linux", "type": "Game" }

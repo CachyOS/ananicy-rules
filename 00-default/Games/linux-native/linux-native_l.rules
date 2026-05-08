@@ -26,11 +26,17 @@
 # Legend of Grimrock https://store.steampowered.com/app/207170/Legend_of_Grimrock/
 { "name": "Grimrock.bin.x86", "type": "Game" }
 
+# LEGO Bricktales https://store.steampowered.com/app/1898290/LEGO_Bricktales/
+{ "name": "LEGO_Bricktales.x86_64", "type": "Game" }
+
 # Lethal League https://store.steampowered.com/app/261180/Lethal_League/
 { "name": "LethalLeague", "type": "Game" }
 
 # Lethal League Blaze https://store.steampowered.com/app/553310/Lethal_League_Blaze/
 { "name": "LLBlaze.x86_64", "type": "Game" }
+
+# Level Devil https://store.steampowered.com/app/3242750/Level_Devil/
+{ "name": "LevelDevil.x86_64", "type": "Game" }
 
 # Life Goes On: Done to Death https://store.steampowered.com/app/250050/Life_Goes_On_Done_to_Death/
 { "name": "Life Goes On.x86", "type": "Game" }
@@ -51,8 +57,15 @@
 # Liftoff: FPV Drone Racing https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/
 { "name": "Liftoff.x86_64", "type": "Game" }
 
+# Liftoff: Micro Drones https://store.steampowered.com/app/1432320/Liftoff_Micro_Drones/
+{ "name": "Liftoff Micro Drones.x86_64", "type": "Game" }
+
 # LIMBO https://store.steampowered.com/app/48000/LIMBO/
 { "name": "limbo", "type": "Game" }
+
+# LISA https://store.steampowered.com/app/335670/LISA_The_Painful/
+{ "name": "lisa.x86_64", "type": "Game" }
+{ "name": "lisa.x86", "type": "Game" }
 
 # Little Inferno https://store.steampowered.com/app/221260/Little_Inferno/
 { "name": "LittleInferno.bin.x86", "type": "Game" }
@@ -60,6 +73,9 @@
 
 # Little Misfortune https://store.steampowered.com/app/714120/Little_Misfortune/
 { "name": "Little Misfortune.x86_64", "type": "Game" }
+
+# Littlewood https://store.steampowered.com/app/894940/Littlewood/
+{ "name": "Littlewood.x86_64", "type": "Game" }
 
 # Long Live The Queen https://store.steampowered.com/app/251990/Long_Live_The_Queen/
 { "name": "LongLiveTheQueen", "type": "Game" }
