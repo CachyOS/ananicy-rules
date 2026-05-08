@@ -258,3 +258,6 @@
 
 # Crash handlers
 { "name": "CrashReportClient", "type": "BG_CPUIO" }
+{ "name": "crashwatcher", "type": "BG_CPUIO" }
+{ "name": "ErrorReporter", "type": "BG_CPUIO" }
+{ "name": "createdump", "type": "BG_CPUIO" }
