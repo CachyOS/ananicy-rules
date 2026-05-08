@@ -8,6 +8,9 @@
 # UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
 { "name": "UBERMOSH.exe", "type": "Game" }
 
+# UBERMOSH:BLACK https://store.steampowered.com/app/444940/UBERMOSHBLACK/
+{ "name": "UBERMOSH BLACK.exe", "type": "Game" }
+
 # UBOAT https://store.steampowered.com/app/494840/UBOAT/
 { "name": "UBOAT.exe", "type": "Game" }
 
@@ -33,32 +36,14 @@
 # ULTIMATE MARVEL VS. CAPCOM 3 https://store.steampowered.com/app/357190/ULTIMATE_MARVEL_VS_CAPCOM_3/
 { "name": "umvc3.exe", "type": "Game" }
 
+# Ultimate Racing 2D 2 https://store.steampowered.com/app/1285230/Ultimate_Racing_2D_2/
+{ "name": "Ultimate_Racing_2D_2.exe", "type": "Game" }
+
 # ULTRAKILL https://store.steampowered.com/app/1229490/ULTRAKILL/
 { "name": "ULTRAKILL.exe", "type": "Game" }
 
 # Ultra Street Fighter IV https://store.steampowered.com/app/45760/Ultra_Street_Fighter_IV/
 { "name": "SSFIV.exe", "type": "Game" }
-
-# UBERMOSH:BLACK https://store.steampowered.com/app/444940/UBERMOSHBLACK/
-{ "name": "UBERMOSH BLACK.exe", "type": "Game" }
-
-# Ultimate Racing 2D 2 https://store.steampowered.com/app/1285230/Ultimate_Racing_2D_2/
-{ "name": "Ultimate_Racing_2D_2.exe", "type": "Game" }
-
-# Umineko When They Cry - Answer Arcs https://store.steampowered.com/app/639490/Umineko_When_They_Cry__Answer_Arcs/
-{ "name": "Umineko5to8.exe", "type": "Game" }
-
-# Umineko When They Cry - Question Arcs https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/
-{ "name": "Umineko1to4.exe", "type": "Game" }
-
-# Unity of Command II https://store.steampowered.com/app/809230/Unity_of_Command_II/
-{ "name": "uoc2.exe", "type": "Game" }
-
-# Unturned Dedicated Server https://store.steampowered.com/app/1110390/Unturned__Dedicated_Server/
-{ "name": "Unturned.exe", "type": "Service" }
-
-# Urtuk: The Desolation https://store.steampowered.com/app/1181830/Urtuk_The_Desolation/
-{ "name": "urtuk.exe", "type": "Game" }
 
 # Umamusume: Pretty Derby https://store.steampowered.com/app/3224770/Umamusume_Pretty_Derby/
 { "name": "UmamusumePrettyDerby.exe", "type": "Game" }
@@ -68,6 +53,12 @@
 
 # UMIGARI https://store.steampowered.com/app/3772960/UMIGARI/
 { "name": "ProjectBoat.exe", "type": "Game" }
+
+# Umineko When They Cry - Answer Arcs https://store.steampowered.com/app/639490/Umineko_When_They_Cry__Answer_Arcs/
+{ "name": "Umineko5to8.exe", "type": "Game" }
+
+# Umineko When They Cry - Question Arcs https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/
+{ "name": "Umineko1to4.exe", "type": "Game" }
 
 # UNBEATABLE https://store.steampowered.com/app/2240620/UNBEATABLE/
 { "name": "UNBEATABLE.exe", "type": "Game" }
@@ -127,6 +118,9 @@
 
 # Unholy Heights https://store.steampowered.com/app/249330/Unholy_Heights/
 { "name": "UnholyHeights.exe", "type": "Game" }
+
+# Unity of Command II https://store.steampowered.com/app/809230/Unity_of_Command_II/
+{ "name": "uoc2.exe", "type": "Game" }
 
 # Universe Sandbox https://store.steampowered.com/app/230290/Universe_Sandbox/
 { "name": "Universe Sandbox x64.exe", "type": "Game" }
@@ -196,6 +190,9 @@
 { "name": "Unturned.exe", "type": "Game" }
 { "name": "Unturned_BE.exe", "type": "Game" }
 
+# Unturned Dedicated Server https://store.steampowered.com/app/1110390/Unturned__Dedicated_Server/
+{ "name": "Unturned.exe", "type": "Service" }
+
 # UpGun https://store.steampowered.com/app/1575870/UpGun/
 { "name": "UpGun.exe", "type": "Game" }
 { "name": "UpGun-Win64-Shipping.exe", "type": "Game" }
@@ -215,3 +212,6 @@
 # Uriel's Chasm https://store.steampowered.com/app/292630/Uriels_Chasm/
 { "name": "dxwebsetup.exe", "type": "Game" }
 { "name": "urielschasm.exe", "type": "Game" }
+
+# Urtuk: The Desolation https://store.steampowered.com/app/1181830/Urtuk_The_Desolation/
+{ "name": "urtuk.exe", "type": "Game" }

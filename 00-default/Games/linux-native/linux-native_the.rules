@@ -21,43 +21,15 @@
 # The Beginner's Guide https://store.steampowered.com/app/303210/The_Beginners_Guide/
 { "name": "beginnersguide.bin", "type": "Game" }
 
-# The Zachtronics Solitaire Collection https://store.steampowered.com/app/1988540/The_Zachtronics_Solitaire_Collection/
-{ "name": "TheZachtronicsSolitaireCollection", "type": "Game" }
-
-# The Sapling https://store.steampowered.com/app/997380/The_Sapling/
-{ "name": "the_sapling.x86_64", "type": "Game" }
-
-# The Pedestrian https://store.steampowered.com/app/466630/The_Pedestrian/
-{ "name": "ThePed_Linux_64.x86_64", "type": "Game" }
-
-# The Operator https://store.steampowered.com/app/1771980/The_Operator/
-{ "name": "OPERATOR", "type": "Game" }
-
-# The Pirate: Caribbean Hunt https://store.steampowered.com/app/512470/The_Pirate_Caribbean_Hunt/
-{ "name": "ThePirate.x86_64", "type": "Game" }
-
-# The Final Station https://store.steampowered.com/app/435530/The_Final_Station/
-{ "name": "tfs.x86", "type": "Game" }
-{ "name": "tfs.x86_64", "type": "Game" }
+# The Bibites: Digital Life https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/
+{ "name": "The Bibites.x86_64", "type": "Game" }
 
 # The Binding of Isaac: Rebirth https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac.i386", "type": "Game" }
 { "name": "isaac.x64", "type": "Game" }
 
-# The Bibites: Digital Life https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/
-{ "name": "The Bibites.x86_64", "type": "Game" }
-
-# The Escapists https://store.steampowered.com/app/298630/The_Escapists/
-{ "name": "Chowdren", "type": "Game" }
-
 # The Blackwell Legacy https://store.steampowered.com/app/80330/The_Blackwell_Legacy/
 { "name": "startgame", "type": "Game" }
-
-# The Doors of Trithius https://store.steampowered.com/app/1519490/The_Doors_of_Trithius/
-{ "name": "DOT", "type": "Game" }
-
-# The Last Plague: Blight https://store.steampowered.com/app/1564600/The_Last_Plague_Blight/
-{ "name": "TheLastPlague.x86_64", "type": "Game" }
 
 # The Book of Unwritten Tales https://store.steampowered.com/app/215160/The_Book_of_Unwritten_Tales/
 { "name": "kAGEd", "type": "Game" }
@@ -68,9 +40,6 @@
 
 # The Cave https://store.steampowered.com/app/221810/The_Cave/
 { "name": "Cave.bin.x86", "type": "Game" }
-
-# The Jackbox Megapicker https://store.steampowered.com/app/2828500/The_Jackbox_Megapicker/
-{ "name": "The Jackbox Megapicker", "type": "Game" }
 
 # The Colonists https://store.steampowered.com/app/677340/The_Colonists/
 { "name": "TheColonists.x86", "type": "Game" }
@@ -88,11 +57,17 @@
 # The Dishwasher: Vampire Smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
 { "name": "VampireSmile", "type": "Game" }
 
+# The Doors of Trithius https://store.steampowered.com/app/1519490/The_Doors_of_Trithius/
+{ "name": "DOT", "type": "Game" }
+
 # The Drifter https://store.steampowered.com/app/1170570/The_Drifter/
 { "name": "TheDrifter.x64", "type": "Game" }
 
 # The End Is Nigh https://store.steampowered.com/app/583470/The_End_Is_Nigh/
 { "name": "TheEndIsNigh", "type": "Game" }
+
+# The Escapists https://store.steampowered.com/app/298630/The_Escapists/
+{ "name": "Chowdren", "type": "Game" }
 
 # The Escapists 2 https://store.steampowered.com/app/641990/The_Escapists_2/
 { "name": "TheEscapists2.x86", "type": "Game" }
@@ -107,11 +82,18 @@
 # The Farmer Was Replaced https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/
 { "name": "TheFarmerWasReplaced.x86_64", "type": "Game" }
 
+# The Final Station https://store.steampowered.com/app/435530/The_Final_Station/
+{ "name": "tfs.x86", "type": "Game" }
+{ "name": "tfs.x86_64", "type": "Game" }
+
 # The Hex https://store.steampowered.com/app/510420/The_Hex/
 { "name": "TheHex.x86", "type": "Game" }
 
 # The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
 { "name": "ImpossibleGame", "type": "Game" }
+
+# The Jackbox Megapicker https://store.steampowered.com/app/2828500/The_Jackbox_Megapicker/
+{ "name": "The Jackbox Megapicker", "type": "Game" }
 
 # The Jackbox Naughty Pack https://store.steampowered.com/app/2652000/The_Jackbox_Naughty_Pack/
 { "name": "TJNP_Vulkan", "type": "Game" }
@@ -175,6 +157,9 @@
 # The Last Door - Collector's Edition https://store.steampowered.com/app/284390/The_Last_Door__Collectors_Edition/
 { "name": "The Last Door CE", "type": "Game" }
 
+# The Last Plague: Blight https://store.steampowered.com/app/1564600/The_Last_Plague_Blight/
+{ "name": "TheLastPlague.x86_64", "type": "Game" }
+
 # The Legend of Zelda: Majora's Mask Recompiled https://github.com/Zelda64Recomp/Zelda64Recomp/
 { "name": "Zelda64Recompiled", "type": "Game" }
 
@@ -197,6 +182,15 @@
 { "name": "The Novelist.x86", "type": "Game" }
 { "name": "The Novelist.x86_64", "type": "Game" }
 
+# The Operator https://store.steampowered.com/app/1771980/The_Operator/
+{ "name": "OPERATOR", "type": "Game" }
+
+# The Pedestrian https://store.steampowered.com/app/466630/The_Pedestrian/
+{ "name": "ThePed_Linux_64.x86_64", "type": "Game" }
+
+# The Pirate: Caribbean Hunt https://store.steampowered.com/app/512470/The_Pirate_Caribbean_Hunt/
+{ "name": "ThePirate.x86_64", "type": "Game" }
+
 # The Plan https://store.steampowered.com/app/250600/The_Plan/
 { "name": "The Plan.x86", "type": "Game" }
 
@@ -205,6 +199,9 @@
 
 # The Séance of Blake Manor https://store.steampowered.com/app/1395520/The_Sance_of_Blake_Manor/
 { "name": "The Seance of Blake Manor.x86_64", "type": "Game" }
+
+# The Sapling https://store.steampowered.com/app/997380/The_Sapling/
+{ "name": "the_sapling.x86_64", "type": "Game" }
 
 # The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
 { "name": "stanley", "type": "Game" }
@@ -237,3 +234,6 @@
 
 # The Witcher 2: Assassins of Kings Enhanced Edition https://store.steampowered.com/app/20920/The_Witcher_2_Assassins_of_Kings_Enhanced_Edition/
 { "name": "witcher2", "type": "Game" }
+
+# The Zachtronics Solitaire Collection https://store.steampowered.com/app/1988540/The_Zachtronics_Solitaire_Collection/
+{ "name": "TheZachtronicsSolitaireCollection", "type": "Game" }

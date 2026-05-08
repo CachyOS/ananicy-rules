@@ -8,6 +8,9 @@
 # VA-11 Hall-A: Cyberpunk Bartender Action https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
 { "name": "VA-11 Hall A.exe", "type": "Game" }
 
+# Vagante https://store.steampowered.com/app/323220/Vagante/
+{ "name": "vagante.exe", "type": "Game" }
+
 # Vagrus - The Riven Realms https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/
 { "name": "Vagrus.exe", "type": "Game" }
 
@@ -65,6 +68,9 @@
 # Vampire: The Masquerade – Swansong https://store.steampowered.com/app/1299510/Vampire_The_Masquerade__Swansong/
 { "name": "Swansong.exe", "type": "Game" }
 { "name": "Swansong-Win64-Shipping.exe", "type": "Game" }
+
+# Vampire Therapist https://store.steampowered.com/app/2481020/Vampire_Therapist/
+{ "name": "Vampire Therapist.exe", "type": "Game" }
 
 # Vampyr https://store.steampowered.com/app/427290/Vampyr/
 { "name": "AVGame-Win64-Shipping.exe", "type": "Game" }
@@ -189,6 +195,9 @@
 { "name": "FormationSystem.exe", "type": "Game" }
 { "name": "FormationSystem-Win64-Shipping.exe", "type": "Game" }
 
+# Voxelgram https://store.steampowered.com/app/1158470/Voxelgram/
+{ "name": "Voxelgram.exe", "type": "Game" }
+
 # Vox Machinae https://store.steampowered.com/app/334540/Vox_Machinae/
 { "name": "vm.exe", "type": "Game" }
 
@@ -218,12 +227,3 @@
 
 # VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
 { "name": "VVVVVV.exe", "type": "Game" }
-
-# Vagante https://store.steampowered.com/app/323220/Vagante/
-{ "name": "vagante.exe", "type": "Game" }
-
-# Vampire Therapist https://store.steampowered.com/app/2481020/Vampire_Therapist/
-{ "name": "Vampire Therapist.exe", "type": "Game" }
-
-# Voxelgram https://store.steampowered.com/app/1158470/Voxelgram/
-{ "name": "Voxelgram.exe", "type": "Game" }

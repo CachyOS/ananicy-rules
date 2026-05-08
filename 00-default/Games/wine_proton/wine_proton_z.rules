@@ -18,6 +18,10 @@
 # Zengeon https://store.steampowered.com/app/1000080/Zengeon/
 { "name": "Zengeon.exe", "type": "Game" }
 
+# Zenkcraft https://store.steampowered.com/app/2098510/Zenkcraft/
+{ "name": "ZenkcraftRemastered.exe", "type": "Game" }
+{ "name": "ZenkCraft.exe", "type": "Game" }
+
 # Zenless Zone Zero https://zenless.hoyoverse.com/
 { "name": "ZenlessZoneZero.exe", "type": "Game" }
 
@@ -27,6 +31,9 @@
 
 # Zeno Clash 2 https://store.steampowered.com/app/215690/Zeno_Clash_2/
 { "name": "ZC2.exe", "type": "Game" }
+
+# ZEPHON https://store.steampowered.com/app/1481170/ZEPHON/
+{ "name": "Zephon.exe", "type": "Game" }
 
 # Zero Caliber 2 Remastered https://store.steampowered.com/app/2719740/Zero_Caliber_2_Remastered/
 { "name": "ZeroCaliber_2.exe", "type": "Game" }
@@ -60,16 +67,6 @@
 # ZOMBI https://store.steampowered.com/app/339230/ZOMBI/
 { "name": "ZOMBI.exe", "type": "Game" }
 
-# Zenkcraft https://store.steampowered.com/app/2098510/Zenkcraft/
-{ "name": "ZenkcraftRemastered.exe", "type": "Game" }
-{ "name": "ZenkCraft.exe", "type": "Game" }
-
-# ZEPHON https://store.steampowered.com/app/1481170/ZEPHON/
-{ "name": "Zephon.exe", "type": "Game" }
-
-# Zombie Night Terror https://store.steampowered.com/app/416680/Zombie_Night_Terror/
-{ "name": "znt.exe", "type": "Game" }
-
 # Zombie Army 4: Dead War https://store.steampowered.com/app/694280/Zombie_Army_4_Dead_War/
 { "name": "za4_vulkan.exe", "type": "Game" }
 { "name": "za4_dx12.exe", "type": "Game" }
@@ -82,6 +79,9 @@
 
 # Zombie Driver HD https://store.steampowered.com/app/220820/Zombie_Driver_HD/
 { "name": "ZombieDriverHD.exe", "type": "Game" }
+
+# Zombie Night Terror https://store.steampowered.com/app/416680/Zombie_Night_Terror/
+{ "name": "znt.exe", "type": "Game" }
 
 # Zombie Panic! Source https://store.steampowered.com/app/17500/Zombie_Panic_Source/
 { "name": "zps.exe", "type": "Game" }

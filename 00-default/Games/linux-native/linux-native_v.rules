@@ -5,11 +5,17 @@
 
 ### V ###
 
+# Vagante https://store.steampowered.com/app/323220/Vagante/
+{ "name": "vagante.bin", "type": "Game" }
+
 # Vagrus - The Riven Realms https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/
 { "name": "Vagrus.x86_64", "type": "Game" }
 
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "valheim.x86_64", "type": "Game" }
+
+# Vampire Therapist https://store.steampowered.com/app/2481020/Vampire_Therapist/
+{ "name": "VampireTherapist.x86_64", "type": "Game" }
 
 # Vangers https://store.steampowered.com/app/264080/Vangers/
 { "name": "vangers32", "type": "Game" }
@@ -39,14 +45,8 @@
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_LINUX.x86_64", "type": "Game" }
 
-# Vampire Therapist https://store.steampowered.com/app/2481020/Vampire_Therapist/
-{ "name": "VampireTherapist.x86_64", "type": "Game" }
-
 # vkquake https://github.com/Novum/vkQuake/
 { "name": "vkquake", "type": "Game" }
-
-# Vagante https://store.steampowered.com/app/323220/Vagante/
-{ "name": "vagante.bin", "type": "Game" }
 
 # vkquake2 https://github.com/kondrak/vkQuake2/
 { "name": "vkquake2", "type": "Game" }

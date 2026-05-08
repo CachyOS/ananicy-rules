@@ -13,6 +13,9 @@
 { "name": "quakespasm", "type": "Game" }
 { "name": "quakespasm-svn", "type": "Game" }
 
+# Quaver https://store.steampowered.com/app/980610/Quaver/
+{ "name": "Quaver", "type": "Game" }
+
 # Q.U.B.E: Director's Cut https://store.steampowered.com/app/239430/QUBE_Directors_Cut/
 { "name": "QUBEGame-Linux", "type": "Game" }
 
@@ -27,6 +30,3 @@
 # Quiplash 2 InterLASHional https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/
 { "name": "Quiplash2_Vulkan", "type": "Game" }
 { "name": "Quiplash2_OpenGL", "type": "Game" }
-
-# Quaver https://store.steampowered.com/app/980610/Quaver/
-{ "name": "Quaver", "type": "Game" }
