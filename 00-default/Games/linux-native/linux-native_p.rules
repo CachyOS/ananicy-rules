@@ -80,11 +80,45 @@
 { "name": "pvkii_linux32", "type": "Game" }
 { "name": "pvkii_linux64", "type": "Game" }
 
+# projectM Music Visualizer https://store.steampowered.com/app/1358800/projectM_Music_Visualizer/
+{ "name": "projectMSDL", "type": "Game" }
+
 # PixelJunk Monsters Ultimate https://store.steampowered.com/app/243780/PixelJunk_Monsters_Ultimate/
 { "name": "Monsters", "type": "Game" }
 
+# Poker Master https://store.steampowered.com/app/994910/Poker_Master__Texas_Holdem_Roulette_Blackjack_Baccarat_Omaha_Slots_Teen_Patti/
+{ "name": "PokerMaster", "type": "Game" }
+
+# Passpartout: The Starving Artist https://store.steampowered.com/app/582550/Passpartout_The_Starving_Artist/
+{ "name": "Passpartout.x86", "type": "Game" }
+{ "name": "Passpartout.x86_64", "type": "Game" }
+
+# Preserve https://store.steampowered.com/app/2109270/Preserve/
+{ "name": "Preserve.x86_64", "type": "Game" }
+
+# Pictopix https://store.steampowered.com/app/568320/Pictopix/
+{ "name": "Pictopix.x86_64", "type": "Game" }
+
+# Planar Conquest https://store.steampowered.com/app/449300/Planar_Conquest/
+{ "name": "PlanarConquest.x86", "type": "Game" }
+{ "name": "PlanarConquest.x86_64", "type": "Game" }
+
+# Particle Fleet: Emergence https://store.steampowered.com/app/422900/Particle_Fleet_Emergence/
+{ "name": "ParticleFleet.x86", "type": "Game" }
+{ "name": "ParticleFleet.x86_64", "type": "Game" }
+
 # Pixel Piracy https://store.steampowered.com/app/264140/Pixel_Piracy/
 { "name": "PixelPiracy.x86_64", "type": "Game" }
+
+# Perfect Golf https://store.steampowered.com/app/288140/Perfect_Golf/
+{ "name": "Perfect Golf.x86", "type": "Game" }
+{ "name": "Perfect Golf.x86_64", "type": "Game" }
+
+# Poly Bridge 2 https://store.steampowered.com/app/1062160/Poly_Bridge_2/
+{ "name": "Poly Bridge 2.x86_64", "type": "Game" }
+
+# Patrick's Parabox https://store.steampowered.com/app/1260520/Patricks_Parabox/
+{ "name": "Patrick's Parabox.x86_64", "type": "Game" }
 
 # Pixel Starships https://store.steampowered.com/app/378760/Pixel_Starships/
 { "name": "PixelStarships.x86_64", "type": "Game" }
@@ -103,6 +137,9 @@
 
 # Pluto https://store.steampowered.com/app/3057670/Pluto/
 { "name": "pluto.x86_64", "type": "Game" }
+
+# POOLS https://store.steampowered.com/app/2663530/POOLS/
+{ "name": "POOLS.x86_64", "type": "Game" }
 
 # Police Stories https://store.steampowered.com/app/539470/Police_Stories/
 { "name": "PoliceStoriesRelease", "type": "Game" }

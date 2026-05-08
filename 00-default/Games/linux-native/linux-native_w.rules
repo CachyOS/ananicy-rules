@@ -27,9 +27,25 @@
 { "name": "SteamLauncher", "type": "Game" }
 { "name": "GlyphEngine", "type": "Game" }
 
+# Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
+{ "name": "WorldsOfMagic", "type": "Game" }
+
+# Wild West Saga https://store.steampowered.com/app/842150/Wild_West_Saga_Idle_Tycoon_Clicker/
+{ "name": "wildwest.x86", "type": "Game" }
+
 # War Thunder https://store.steampowered.com/app/236390/War_Thunder/
 { "name": "aces", "type": "Game" }
 { "name": "launcher", "type": "BG_CPUIO" }
+
+# WizUp! https://store.steampowered.com/app/2864500/WizUp/
+{ "name": "WizUp.x86_64", "type": "Game" }
+
+# Warspear Online https://store.steampowered.com/app/326360/Warspear_Online/
+{ "name": "warspear_32", "type": "Game" }
+{ "name": "warspear_64", "type": "Game" }
+
+# Windward Horizon https://store.steampowered.com/app/2665460/Windward_Horizon/
+{ "name": "Windward Horizon.x86_64", "type": "Game" }
 
 # Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland", "type": "Game" }
@@ -87,8 +103,14 @@
 # WolfQuest: Anniversary Edition https://store.steampowered.com/app/926990/WolfQuest_Anniversary_Edition/
 { "name": "WolfQuestAE.x86_64", "type": "Game" }
 
+# Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
+{ "name": "wordle.x86", "type": "Game" }
+
 # Wonder Boy: The Dragon's Trap https://store.steampowered.com/app/543260/Wonder_Boy_The_Dragons_Trap/
 { "name": "WonderBoy", "type": "Game" }
+
+# Wasteland 2 https://store.steampowered.com/app/240760/
+{ "name": "WL2", "type": "Game" }
 
 # WorldBox - God Simulator https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/
 { "name": "worldbox", "type": "Game" }

@@ -20,6 +20,9 @@
 # One Step From Eden https://store.steampowered.com/app/960690/One_Step_From_Eden/
 { "name": "OSFE.x86_64", "type": "Game" }
 
+# Oppidum https://store.steampowered.com/app/2115760/Oppidum/
+{ "name": "Oppidum.x64", "type": "Game" }
+
 # OpenMoHAA: An open-source game engine compatible with Medal of Honor Allied Assault and its expansions https://github.com/openmoh/openmohaa/
 { "name": "openmohaa", "type": "Game" }
 { "name": "omohaaded", "type": "Game" }
@@ -78,3 +81,9 @@
 
 # Oxygen Not Included https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded", "type": "Game" }
+
+# OpenTTD https://store.steampowered.com/app/1536610/OpenTTD/
+{ "name": "openttd", "type": "Game" }
+
+# Of Life and Land https://store.steampowered.com/app/1733110/Of_Life_and_Land/
+{ "name": "OfLifeAndLand.x86_64", "type": "Game" }

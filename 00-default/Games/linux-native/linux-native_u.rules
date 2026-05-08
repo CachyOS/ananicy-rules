@@ -55,6 +55,9 @@
 # Unturned https://store.steampowered.com/app/304930/Unturned/
 { "name": "Unturned.x86_64", "type": "Game" }
 
+# Urtuk: The Desolation https://store.steampowered.com/app/1181830/Urtuk_The_Desolation/
+{ "name": "urtuk", "type": "Game" }
+
 # Uplink https://store.steampowered.com/app/1510/Uplink/
 { "name": "uplink.bin.x86_64", "type": "Game" }
 { "name": "uplink.bin.x86", "type": "Game" }
@@ -65,3 +68,21 @@
 # Urban Terror https://www.urbanterror.info/
 { "name": "Quake3-UrT.x86_64", "type": "Game" }
 { "name": "Quake3-UrT.i386", "type": "Game" }
+
+# Unturned Dedicated Server https://store.steampowered.com/app/1110390/Unturned__Dedicated_Server/
+{ "name": "Unturned_Headless.x86_64", "type": "Service" }
+
+# Umineko When They Cry - Answer Arcs https://store.steampowered.com/app/639490/Umineko_When_They_Cry__Answer_Arcs/
+{ "name": "Umineko5to8", "type": "Game" }
+
+# Unity of Command II https://store.steampowered.com/app/809230/Unity_of_Command_II/
+{ "name": "uoc2-exe", "type": "Game" }
+
+# Umineko When They Cry - Question Arcs https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/
+{ "name": "Umineko1to4", "type": "Game" }
+
+# Ultimate Racing 2D 2 https://store.steampowered.com/app/1285230/Ultimate_Racing_2D_2/
+{ "name": "Ultimate_Racing_2D_2", "type": "Game" }
+
+# UBERMOSH:BLACK https://store.steampowered.com/app/444940/UBERMOSHBLACK/
+{ "name": "runner", "type": "Game" }

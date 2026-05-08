@@ -128,6 +128,9 @@
 { "name": "rott-registered", "type": "Game" }
 { "name": "rott-shareware", "type": "Game" }
 
+# RUSSIAPHOBIA https://store.steampowered.com/app/1184160/RUSSIAPHOBIA/
+{ "name": "RUSSIAPHOBIA.x86_64", "type": "Game" }
+
 # rottexptr https://github.com/LTCHIPS/rottexpr/
 { "name": "rott", "type": "Game" }
 { "name": "rottexpr", "type": "Game" }
@@ -139,11 +142,48 @@
 { "name": "launch_config", "type": "Game" }
 { "name": "launch_game", "type": "Game" }
 
+# Refence https://store.steampowered.com/app/3427090/Refence/
+{ "name": "Refence.x86_64", "type": "Game" }
+
+# Rise of Industry https://store.steampowered.com/app/671440/Rise_of_Industry/
+{ "name": "Rise of Industry.x86_64", "type": "Game" }
+
+# Railway Empire https://store.steampowered.com/app/503940/Railway_Empire/
+{ "name": "RailwayEmpire", "type": "Game" }
+
+# Rise Of The White Sun https://store.steampowered.com/app/1189100/Rise_Of_The_White_Sun/
+{ "name": "ROWS.x86_64", "type": "Game" }
+
+# Robot vs Birds Zombies https://store.steampowered.com/app/389460/Robot_vs_Birds_Zombies/
+{ "name": "rbz.x86_64", "type": "Game" }
+
+# RPG MO https://store.steampowered.com/app/372800/RPG_MO/
+{ "name": "nw", "type": "Game" }
+
+# RPG Maker MV https://store.steampowered.com/app/363890/RPG_Maker_MV/
+{ "name": "RPG Maker MV", "type": "Game" }
+
+# Return to Monkey Island https://store.steampowered.com/app/2060130/Return_to_Monkey_Island/
+{ "name": "Return to Monkey Island", "type": "Game" }
+
+# Replicube https://store.steampowered.com/app/3401490/Replicube/
+{ "name": "Replicube.x86_64", "type": "Game" }
+
 # Run Zeus Run https://store.steampowered.com/app/715510/Run_Zeus_Run/
 { "name": "ZeusRunner.x86_64", "type": "Game" }
+
+# RetroArch https://store.steampowered.com/app/1118310/RetroArch/
+{ "name": "retroarch", "type": "Game" }
 
 # RUSH https://store.steampowered.com/app/38720/RUSH/
 { "name": "RUSH.bin.x86", "type": "Game" }
 
+# Rising World https://store.steampowered.com/app/324080/Rising_World/
+{ "name": "risingworld", "type": "Game" }
+{ "name": "RisingWorld.x64", "type": "Game" }
+
 # Rust https://store.steampowered.com/app/252490/Rust/
 { "name": "rust", "type": "Game" }
+
+# Russian Life Simulator https://store.steampowered.com/app/1070330/Russian_Life_Simulator/
+{ "name": "RussianLifeSimulator.x86_64", "type": "Game" }

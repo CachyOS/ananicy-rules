@@ -21,12 +21,43 @@
 # The Beginner's Guide https://store.steampowered.com/app/303210/The_Beginners_Guide/
 { "name": "beginnersguide.bin", "type": "Game" }
 
+# The Zachtronics Solitaire Collection https://store.steampowered.com/app/1988540/The_Zachtronics_Solitaire_Collection/
+{ "name": "TheZachtronicsSolitaireCollection", "type": "Game" }
+
+# The Sapling https://store.steampowered.com/app/997380/The_Sapling/
+{ "name": "the_sapling.x86_64", "type": "Game" }
+
+# The Pedestrian https://store.steampowered.com/app/466630/The_Pedestrian/
+{ "name": "ThePed_Linux_64.x86_64", "type": "Game" }
+
+# The Operator https://store.steampowered.com/app/1771980/The_Operator/
+{ "name": "OPERATOR", "type": "Game" }
+
+# The Pirate: Caribbean Hunt https://store.steampowered.com/app/512470/The_Pirate_Caribbean_Hunt/
+{ "name": "ThePirate.x86_64", "type": "Game" }
+
+# The Final Station https://store.steampowered.com/app/435530/The_Final_Station/
+{ "name": "tfs.x86", "type": "Game" }
+{ "name": "tfs.x86_64", "type": "Game" }
+
 # The Binding of Isaac: Rebirth https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/
 { "name": "isaac.i386", "type": "Game" }
 { "name": "isaac.x64", "type": "Game" }
 
+# The Bibites: Digital Life https://store.steampowered.com/app/2736860/The_Bibites_Digital_Life/
+{ "name": "The Bibites.x86_64", "type": "Game" }
+
+# The Escapists https://store.steampowered.com/app/298630/The_Escapists/
+{ "name": "Chowdren", "type": "Game" }
+
 # The Blackwell Legacy https://store.steampowered.com/app/80330/The_Blackwell_Legacy/
 { "name": "startgame", "type": "Game" }
+
+# The Doors of Trithius https://store.steampowered.com/app/1519490/The_Doors_of_Trithius/
+{ "name": "DOT", "type": "Game" }
+
+# The Last Plague: Blight https://store.steampowered.com/app/1564600/The_Last_Plague_Blight/
+{ "name": "TheLastPlague.x86_64", "type": "Game" }
 
 # The Book of Unwritten Tales https://store.steampowered.com/app/215160/The_Book_of_Unwritten_Tales/
 { "name": "kAGEd", "type": "Game" }
@@ -37,6 +68,9 @@
 
 # The Cave https://store.steampowered.com/app/221810/The_Cave/
 { "name": "Cave.bin.x86", "type": "Game" }
+
+# The Jackbox Megapicker https://store.steampowered.com/app/2828500/The_Jackbox_Megapicker/
+{ "name": "The Jackbox Megapicker", "type": "Game" }
 
 # The Colonists https://store.steampowered.com/app/677340/The_Colonists/
 { "name": "TheColonists.x86", "type": "Game" }
