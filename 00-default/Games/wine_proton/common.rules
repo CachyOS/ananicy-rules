@@ -9,6 +9,17 @@
 { "name": "Achilles.exe", "type": "Game" }
 { "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
 
+# Substance 3D Designer 2022 https://store.steampowered.com/app/1775400/Substance_3D_Designer_2022/
+# Substance 3D Designer 2023 https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/
+# Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
+{ "name": "Adobe Substance 3D Designer.exe", "type": "Game" }
+
+# Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
+# Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
+# Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
+# Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
+{ "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
+
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
@@ -164,9 +175,12 @@
 { "name": "DOOM2.EXE", "type": "Game" }
 
 # DOSBox, an x86 emulator with DOS https://www.dosbox.com/
+# Sid Meier's Colonization (Classic) https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/
 { "name": "dosbox.exe", "type": "Game" }
 
 # DOSBox, an x86 emulator with DOS https://www.dosbox.com/
+# Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
+# Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
 { "name": "DOSBox.exe", "type": "Game" }
 
 # Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
@@ -357,6 +371,7 @@
 # Let's Minesweeper https://store.steampowered.com/app/2865580/Lets_Minesweeper/
 # Mad Father https://store.steampowered.com/app/483980/Mad_Father/
 # Mistwood Heroes https://store.steampowered.com/app/573210/Mistwood_Heroes/
+# LISA https://store.steampowered.com/app/335670/LISA_The_Painful/
 { "name": "Game.exe", "type": "Game" }
 
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
@@ -556,6 +571,7 @@
 # theHunter: Primal https://store.steampowered.com/app/322920/theHunter_Primal/
 # Ironsight https://store.steampowered.com/app/783770/Ironsight/
 # Live2DViewerEX https://store.steampowered.com/app/616720/Live2DViewerEX/
+# Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
 { "name": "launcher.exe", "type": "Game" }
 
 # King's Bounty: Warriors of the North https://store.steampowered.com/app/203350/Kings_Bounty_Warriors_of_the_North/
@@ -658,18 +674,24 @@
 # Game Dev Tycoon https://store.steampowered.com/app/239820/Game_Dev_Tycoon/
 # Buy a Croquette! https://store.steampowered.com/app/2167960/Buy_a_Croquette/
 # Idle Bouncer https://store.steampowered.com/app/697610/Idle_Bouncer/
+# Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
+# RPG MO https://store.steampowered.com/app/372800/RPG_MO/
 { "name": "nw.exe", "type": "Game" }
 
 # Vindictus https://store.steampowered.com/app/212160/Vindictus/
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
 { "name": "nxsteam.exe", "type": "Game" }
 
+# 3D audio rendering library
+{ "name": "oalinst.exe", "type": "BG_CPUIO" }
+
 # Choo-Choo Charles https://store.steampowered.com/app/1766740/ChooChoo_Charles/
 # Obscure https://store.steampowered.com/app/254460/Obscure/
 { "name": "Obscure.exe", "type": "Game" }
 
-# 3D audio rendering library
-{ "name": "oalinst.exe", "type": "BG_CPUIO" }
+# OPERATOR https://store.steampowered.com/app/1913370/OPERATOR/
+# The Operator https://store.steampowered.com/app/1771980/The_Operator/
+{ "name": "OPERATOR.exe", "type": "Game" }
 
 # Overlord https://store.steampowered.com/app/11450/Overlord/
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
@@ -842,6 +864,10 @@
 # Caribbean Legend https://store.steampowered.com/app/2230980/Caribbean_Legend/
 { "name": "StormWorkshopTool.exe", "type": "Game" }
 
+# Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
+# Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/
+{ "name": "Substance Painter.exe", "type": "Game" }
+
 # SUPERHOT https://store.steampowered.com/app/322500/SUPERHOT/
 # SUPERHOT: MIND CONTROL DELETE https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
 { "name": "SUPERHOT-Launcher.exe", "type": "Game" }
@@ -896,6 +922,10 @@
 # The Joy of Creation Demo https://steamdb.info/app/3107070/
 # Erzurum https://store.steampowered.com/app/1392060/Erzurum/
 { "name": "UE4Game-Win64-Shipping.exe", "type": "Game" }
+
+# Unturned https://store.steampowered.com/app/304930/Unturned/
+# Unturned Dedicated Server https://store.steampowered.com/app/1110390/Unturned__Dedicated_Server/
+{ "name": "Unturned.exe", "type": "Service" }
 
 # The Incredible Adventures of Van Helsing: Final Cut https://store.steampowered.com/app/400170/The_Incredible_Adventures_of_Van_Helsing_Final_Cut/
 # The Incredible Adventures of Van Helsing https://store.steampowered.com/app/215530/The_Incredible_Adventures_of_Van_Helsing/
@@ -993,7 +1023,6 @@
 { "name": "bootstrapperCrashHandler.exe", "type": "BG_CPUIO" }
 { "name": "UnityCrashHandler64.exe", "type": "BG_CPUIO" }
 { "name": "UnityCrashHandler32.exe", "type": "BG_CPUIO" }
-{ "name": "ErrorReporter.exe", "type": "BG_CPUIO" }
 { "name": "createdump.exe", "type": "BG_CPUIO" }
 
 # Anti-cheat clients

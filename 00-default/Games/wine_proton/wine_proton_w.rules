@@ -224,9 +224,6 @@
 # Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland.exe", "type": "Game" }
 
-# Wasteland 2 https://store.steampowered.com/app/240760/
-{ "name": "WL2.exe", "type": "Game" }
-
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2.exe", "type": "Game" }
 
@@ -555,7 +552,6 @@
 { "name": "worldofwarships", "type": "Game" }
 
 # Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
-{ "name": "launcher.exe", "type": "BG_CPUIO" }
 { "name": "WorldsOfMagic.exe", "type": "Game" }
 
 # World War 3 https://store.steampowered.com/app/674020/World_War_3/

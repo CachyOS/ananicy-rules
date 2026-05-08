@@ -4,6 +4,17 @@
 # 60 Seconds! https://store.steampowered.com/app/368360/60_Seconds/
 { "name": "60Seconds.x86_64", "type": "Game" }
 
+# Substance 3D Designer 2022 https://store.steampowered.com/app/1775400/Substance_3D_Designer_2022/
+# Substance 3D Designer 2023 https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/
+# Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
+{ "name": "Adobe Substance 3D Designer", "type": "Game" }
+
+# Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
+# Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
+# Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
+# Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
+{ "name": "Adobe Substance 3D Painter", "type": "Game" }
+
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
@@ -11,6 +22,7 @@
 
 # Vending Machine Co. https://store.steampowered.com/app/3622640/Vending_Machine_Co/
 # Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
+# Lost But Found https://store.steampowered.com/app/3204250/Lost_But_Found/
 { "name": "app.x86_64", "type": "Game" }
 
 # Baldur's Gate https://store.steampowered.com/app/22828/
@@ -33,6 +45,7 @@
 # Environmental Station Alpha https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 # Baba Is You https://store.steampowered.com/app/736260/Baba_Is_You/
 # Astral Ascent https://store.steampowered.com/app/1280930/Astral_Ascent/
+# The Escapists https://store.steampowered.com/app/298630/The_Escapists/
 { "name": "Chowdren", "type": "Game" }
 
 # Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
@@ -46,6 +59,14 @@
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam_x64", "type": "Game" }
+
+# Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
+# Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
+{ "name": "dosbox_i686", "type": "Game" }
+
+# Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
+# Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
+{ "name": "dosbox_x86_64", "type": "Game" }
 
 # Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
@@ -106,7 +127,6 @@
 # Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
 { "name": "hl_linux", "type": "Game" }
 
-
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
@@ -141,9 +161,18 @@
 # Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
 { "name": "linux.x86_64", "type": "Game" }
 
+# Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
+# LOOTPLOT https://store.steampowered.com/app/3057190/LOOTPLOT/
+{ "name": "love", "type": "Game" }
+
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro", "type": "Game" }
+
+# Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
+# RPG MO https://store.steampowered.com/app/372800/RPG_MO/
+# Depression Quest https://store.steampowered.com/app/270170/Depression_Quest/
+{ "name": "nw", "type": "Game" }
 
 # Out of the Park Baseball 18 https://store.steampowered.com/app/465650/Out_of_the_Park_Baseball_18/
 # Out of the Park Baseball 19 https://store.steampowered.com/app/619290/Out_of_the_Park_Baseball_19/
@@ -197,6 +226,7 @@
 # Spoiler Alert https://store.steampowered.com/app/283230/Spoiler_Alert/
 # Stealth Bastard Deluxe https://store.steampowered.com/app/209190/Stealth_Bastard_Deluxe/
 # Savant - Ascent https://store.steampowered.com/app/259530/Savant__Ascent/
+# UBERMOSH:BLACK https://store.steampowered.com/app/444940/UBERMOSHBLACK/
 # RONIN https://store.steampowered.com/app/274230/RONIN/
 { "name": "runner", "type": "Game" }
 
@@ -226,6 +256,10 @@
 # Stoneshard https://store.steampowered.com/app/625960/Stoneshard/
 # Stoneshard: Prologue https://store.steampowered.com/app/869760/Stoneshard_Prologue/
 { "name": "StoneShard", "type": "Game" }
+
+# Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
+# Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/
+{ "name": "Substance Painter", "type": "Game" }
 
 # X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
@@ -261,3 +295,11 @@
 { "name": "crashwatcher", "type": "BG_CPUIO" }
 { "name": "ErrorReporter", "type": "BG_CPUIO" }
 { "name": "createdump", "type": "BG_CPUIO" }
+
+
+
+# The following games are shipped with the DOSBox emulator ("dosbox"), which is declared in emulators.rules
+
+# Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
+# Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
+# Sid Meier's Colonization (Classic) https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/

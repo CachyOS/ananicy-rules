@@ -187,11 +187,7 @@
 { "name": "Untrusted.exe", "type": "Game" }
 
 # Unturned https://store.steampowered.com/app/304930/Unturned/
-{ "name": "Unturned.exe", "type": "Game" }
 { "name": "Unturned_BE.exe", "type": "Game" }
-
-# Unturned Dedicated Server https://store.steampowered.com/app/1110390/Unturned__Dedicated_Server/
-{ "name": "Unturned.exe", "type": "Service" }
 
 # UpGun https://store.steampowered.com/app/1575870/UpGun/
 { "name": "UpGun.exe", "type": "Game" }

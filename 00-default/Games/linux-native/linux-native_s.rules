@@ -51,7 +51,6 @@
 
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 { "name": "screeps_server", "type": "Service" }
-{ "name": "nw", "type": "Game" }
 
 # Scribble It! https://store.steampowered.com/app/1088150/Scribble_It/
 { "name": "ScribbleIt-Linux-Shipping", "type": "Game" }
@@ -194,9 +193,6 @@
 
 # Sid Meier's Civilization VII https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/
 { "name": "Civ7_linux_Vulkan_FinalRelease", "type": "Game" }
-
-# Sid Meier's Colonization (Classic) https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/
-{ "name": "dosbox", "type": "Game" }
 
 # SimAirport https://store.steampowered.com/app/598330/SimAirport/
 { "name": "SimAirport.x86_64", "type": "Game" }
@@ -434,31 +430,6 @@
 
 # Sub Rosa https://store.steampowered.com/app/272230/Sub_Rosa/
 { "name": "subrosa.x64", "type": "Game" }
-
-# Substance 3D Designer 2022 https://store.steampowered.com/app/1775400/Substance_3D_Designer_2022/
-{ "name": "Adobe Substance 3D Designer", "type": "Game" }
-
-# Substance 3D Designer 2023 https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/
-{ "name": "Adobe Substance 3D Designer", "type": "Game" }
-
-# Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
-{ "name": "Adobe Substance 3D Designer", "type": "Game" }
-
-# Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
-{ "name": "Adobe Substance 3D Painter", "type": "Game" }
-{ "name": "Substance Painter", "type": "Game" }
-
-# Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
-{ "name": "Adobe Substance 3D Painter", "type": "Game" }
-
-# Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
-{ "name": "Adobe Substance 3D Painter", "type": "Game" }
-
-# Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
-{ "name": "Adobe Substance 3D Painter", "type": "Game" }
-
-# Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/
-{ "name": "Substance Painter", "type": "Game" }
 
 # Sudden Strike 4 https://store.steampowered.com/app/373930/Sudden_Strike_4/
 { "name": "SuddenStrike4.x86_64", "type": "Game" }

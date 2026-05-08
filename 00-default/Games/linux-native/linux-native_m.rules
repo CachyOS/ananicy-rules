@@ -53,16 +53,6 @@
 # Master of Orion https://store.steampowered.com/app/298050/Master_of_Orion/
 { "name": "MasterOfOrion.x86_64", "type": "Game" }
 
-# Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
-{ "name": "dosbox", "type": "Game" }
-{ "name": "dosbox_i686", "type": "Game" }
-{ "name": "dosbox_x86_64", "type": "Game" }
-
-# Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
-{ "name": "dosbox", "type": "Game" }
-{ "name": "dosbox_i686", "type": "Game" }
-{ "name": "dosbox_x86_64", "type": "Game" }
-
 # Matchmaking Inc. https://store.steampowered.com/app/2103130/Matchmaking_Inc/
 { "name": "ChineseDating.x86_64", "type": "Game" }
 
@@ -204,9 +194,6 @@
 
 # Mount & Blade: Warband https://store.steampowered.com/app/48700/Mount__Blade_Warband/
 { "name": "mb_warband_linux", "type": "Game" }
-
-# Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
-{ "name": "love", "type": "Game" }
 
 # Mr Shifty https://store.steampowered.com/app/489140/Mr_Shifty/
 { "name": "MrShifty.x86_64", "type": "Game" }

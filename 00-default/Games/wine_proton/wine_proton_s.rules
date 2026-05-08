@@ -217,7 +217,6 @@
 { "name": "ScreenCat.exe", "type": "Game" }
 
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
-{ "name": "nw.exe", "type": "Game" }
 { "name": "screeps_server.exe", "type": "Service" }
 
 # Scribble It! https://store.steampowered.com/app/1088150/Scribble_It/
@@ -621,9 +620,6 @@
 { "name": "Civ7_Win64_DX12_FinalRelease.exe", "type": "Game" }
 { "name": "Civ7_Win64_DX12_Release.exe", "type": "Game" }
 { "name": "Civ7_Win64_Vulkan_FinalRelease.exe", "type": "Game" }
-
-# Sid Meier's Colonization (Classic) https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/
-{ "name": "dosbox.exe", "type": "Game" }
 
 # Sid Meier's Pirates! https://store.steampowered.com/app/3920/Sid_Meiers_Pirates/
 { "name": "Pirates!.exe", "type": "Game" }
@@ -1711,31 +1707,6 @@
 
 # Subspace Continuum https://store.steampowered.com/app/352700/Subspace_Continuum/
 { "name": "Continuum.exe", "type": "Game" }
-
-# Substance 3D Designer 2022 https://store.steampowered.com/app/1775400/Substance_3D_Designer_2022/
-{ "name": "Adobe Substance 3D Designer.exe", "type": "Game" }
-
-# Substance 3D Designer 2023 https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/
-{ "name": "Adobe Substance 3D Designer.exe", "type": "Game" }
-
-# Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
-{ "name": "Adobe Substance 3D Designer.exe", "type": "Game" }
-
-# Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
-{ "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
-{ "name": "Substance Painter.exe", "type": "Game" }
-
-# Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
-{ "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
-
-# Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
-{ "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
-
-# Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
-{ "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
-
-# Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/
-{ "name": "Substance Painter.exe", "type": "Game" }
 
 # Subverse https://store.steampowered.com/app/1034140/Subverse/
 { "name": "Subverse.exe", "type": "Game" }
