@@ -759,6 +759,10 @@
 # Proteus https://store.steampowered.com/app/219680/Proteus/
 { "name": "Proteus.exe", "type": "Game" }
 
+# Cyberpunk 2077 https://store.steampowered.com/app/1091500/Cyberpunk_2077/
+# GWENT: The Witcher Card Game https://store.steampowered.com/app/1284410/GWENT_The_Witcher_Card_Game/
+{ "name": "REDprelauncher.exe", "type": "BG_CPUIO" }
+
 # Company of Heroes https://store.steampowered.com/app/228200/Company_of_Heroes/
 # Company of Heroes - Legacy Edition https://store.steampowered.com/app/4560/Company_of_Heroes__Legacy_Edition/
 # Company of Heroes: Opposing Fronts https://store.steampowered.com/app/9340/Company_of_Heroes_Opposing_Fronts/
