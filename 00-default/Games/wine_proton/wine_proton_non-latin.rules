@@ -8,6 +8,10 @@
 # fēng líng dàng àn 封灵档案 https://store.steampowered.com/app/1520470/Soul_Dossier/
 { "name": "NotesOfSoulServer-Win64-Shipping.exe", "type": "Game" }
 
+# Fēng xìn lóu 风信楼 https://store.steampowered.com/app/1126310/_/
+{ "name": "fxl.exe", "type": "Game" }
+{ "name": "fxl-32.exe", "type": "Game" }
+
 # guǐ gǔ bā huāng 鬼谷八荒 Tale of Immortal https://store.steampowered.com/app/1468810/_Tale_of_Immortal/
 { "name": "guigubahuang.exe", "type": "Game" }
 
@@ -17,6 +21,9 @@
 
 # Gǔ jiàn qí tán èr 古剑奇谭二(GuJian2) https://store.steampowered.com/app/570770/GuJian2/
 { "name": "GuJian2.exe", "type": "Game" }
+
+# Jiāngchéng chuàngyè jì 江城创业记 River Town Factory https://store.steampowered.com/app/2281410/River_Town_Factory/
+{ "name": "jcGame.exe", "type": "Game" }
 
 # lóng yìn lì zhì chuán 龙胤立志传 https://store.steampowered.com/app/3202030/_/
 { "name": "LongYinLiZhiZhuan.exe", "type": "Game" }
@@ -60,11 +67,17 @@
 # Uma musume puritīdābī ウマ娘 プリティーダービー https://steamdb.info/app/3564400/
 { "name": "UmamusumePrettyDerby_Jpn.exe", "type": "Game" }
 
+# Sutā sora itofantajī ~ sora e todoku mahō ~ スターそらイトファンタジー　～空へ届く魔法～ https://store.steampowered.com/app/3668950/Star_Soraight_Fantasy_Magic_to_reach_the_sky/
+{ "name": "StarSoraightFantasy.exe", "type": "Game" }
+
 # Tsuki ni yori-sō otome no sahō 月に寄りそう乙女の作法 https://store.steampowered.com/app/1776970/_/
 { "name": "Tsukiniyorisou.exe", "type": "Game" }
 
 
 ### Russian ###
+
+# Альтушка для скуфа https://store.steampowered.com/app/2901520/An_alt_girl_for_skoof/
+{ "name": "Altushka_dlya_skufa.exe", "type": "Game" }
 
 # ЕСТЬ ДВА СТУЛА https://store.steampowered.com/app/873190/EST_DVA_STULA/
 { "name": "Есть Два Стула.exe", "type": "Game" }
@@ -74,9 +87,3 @@
 
 # ΔV: Rings of Saturn https://store.steampowered.com/app/846030/DV_Rings_of_Saturn/
 { "name": "Delta-V.exe", "type": "Game" }
-
-
-
-
-
-
