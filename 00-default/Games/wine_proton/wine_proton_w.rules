@@ -549,7 +549,8 @@
 
 # World of Warships https://store.steampowered.com/app/552990/World_of_Warships/
 { "name": "WoWSLauncher.exe", "type": "BG_CPUIO" }
-{ "name": "worldofwarships", "type": "Game" }
+{ "name": "WorldOfWarships64.exe", "type": "Game" }
+{ "name": "WorldOfWarships.exe", "type": "BG_CPUIO" }
 
 # Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
 { "name": "WorldsOfMagic.exe", "type": "Game" }

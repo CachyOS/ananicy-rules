@@ -235,7 +235,8 @@
 { "name": "Terra Nil.exe", "type": "Game" }
 
 # Terraria https://store.steampowered.com/app/105600/Terraria/
-{ "name": "Terraria", "type": "Game" }
+{ "name": "Terraria.exe", "type": "Game" }
+{ "name": "TerrariaServer.exe", "type": "Service" }
 
 # TerraScape https://store.steampowered.com/app/2290000/TerraScape/
 { "name": "TerraScape.exe", "type": "Game" }
