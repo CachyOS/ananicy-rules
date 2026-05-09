@@ -218,6 +218,10 @@
 # Far Cry Primal https://store.steampowered.com/app/371660/Far_Cry_Primal/
 { "name": "FCPrimal.exe", "type": "Game" }
 
+# Far Far West https://store.steampowered.com/app/3124540/Far_Far_West/
+{ "name": "FarFarWest.exe", "type": "Game" }
+{ "name": "FarFarWest-Win64-Shipping.exe", "type": "Game" }
+
 # Farlands https://store.steampowered.com/app/2252680/Farlands/
 { "name": "Farlands.exe", "type": "Game" }
 
@@ -685,6 +689,9 @@
 
 # Forager https://store.steampowered.com/app/751780/Forager/
 { "name": "Forager.exe", "type": "Game" }
+
+# Forbidden Solitaire https://store.steampowered.com/app/3414580/Forbidden_Solitaire/
+{ "name": "ForbiddenSolitaire.exe", "type": "Game" }
 
 # FORCED: Slightly Better Edition https://store.steampowered.com/app/249990/FORCED_Slightly_Better_Edition/
 { "name": "FORCED.exe", "type": "Game" }

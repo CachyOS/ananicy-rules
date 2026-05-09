@@ -1,6 +1,6 @@
 # An Open Source Epic Games and GOG launcher: https://heroicgameslauncher.com/
 { "name": "gogdl", "type": "BG_CPUIO" }
-{ "name": "heroic", "type": "Doc-View" }
+{ "name": "heroic", "type": "Service" }
 { "name": "legendary", "type": "IN_DIFF" }
 
 # Hydra is a game launcher that allows you to download, play, track your stats and manage your games all in one place: https://hydralauncher.gg/

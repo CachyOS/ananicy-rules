@@ -235,7 +235,8 @@
 { "name": "Terra Nil.exe", "type": "Game" }
 
 # Terraria https://store.steampowered.com/app/105600/Terraria/
-{ "name": "Terraria", "type": "Game" }
+{ "name": "Terraria.exe", "type": "Game" }
+{ "name": "TerrariaServer.exe", "type": "Service" }
 
 # TerraScape https://store.steampowered.com/app/2290000/TerraScape/
 { "name": "TerraScape.exe", "type": "Game" }
@@ -275,6 +276,9 @@
 { "name": "TheaMP.exe", "type": "Game" }
 { "name": "Thea.exe", "type": "Game" }
 
+# (the) Gnorp Apologue https://store.steampowered.com/app/1473350/the_Gnorp_Apologue/
+{ "name": "(the) Gnorp Apologue.exe", "type": "Game" }
+
 # theHunter: Call of the Wild https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/
 { "name": "theHunterCotW_F.exe", "type": "Game" }
 
@@ -286,6 +290,9 @@
 
 # Them's Fightin' Herds https://store.steampowered.com/app/574980/Thems_Fightin_Herds/
 { "name": "Them's Fightin' Herds.exe", "type": "Game" }
+
+# TheoTown https://store.steampowered.com/app/1084020/TheoTown/
+{ "name": "TheoTown.exe", "type": "Game" }
 
 # There Is No Game: Wrong Dimension https://store.steampowered.com/app/1240210/There_Is_No_Game_Wrong_Dimension/
 { "name": "Ting.exe", "type": "Game" }
