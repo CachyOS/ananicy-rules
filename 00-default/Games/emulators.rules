@@ -68,6 +68,9 @@
 # DOSBox, an x86 emulator with DOS https://www.dosbox.com/
 { "name": "dosbox", "type": "Game" }
 
+# 86Box, an x86 emulator with Win9X https://www.86box.net/
+{ "name": "86Box", "type": "Game" }
+
 ### Sega ###
 
 # BlastEm is an open source, higly accurate emulator for the Sega Genesis/Megadrive. https://www.retrodev.com/blastem/
