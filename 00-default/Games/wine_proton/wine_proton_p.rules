@@ -518,7 +518,6 @@
 
 # Plants vs. Zombies Garden Warfare 2: Deluxe Edition https://store.steampowered.com/app/1922560/Plants_vs_Zombies_Garden_Warfare_2_Deluxe_Edition/
 { "name": "GW2.Main_Win64_Retail.exe", "type": "Game" }
-{ "name": "EAAntiCheat.GameServiceLauncher.exe", "type": "Game" }
 
 # Plants vs. Zombies GOTY Edition https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/
 { "name": "PlantsVsZombies.exe", "type": "Game" }
@@ -593,9 +592,6 @@
 
 # PomoFarm https://store.steampowered.com/app/2060480/PomoFarm/
 { "name": "PomoFarm.exe", "type": "Game" }
-
-# Pool 2D - Poolians https://store.steampowered.com/app/891040/Pool_2D__Poolians/
-{ "name": "Poolians.exe", "type": "Game" }
 
 # Pool Nation https://store.steampowered.com/app/254440/Pool_Nation/
 { "name": "Pool.exe", "type": "Game" }
@@ -692,12 +688,6 @@
 # Power Rangers: Battle for the Grid https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/
 { "name": "BattleForTheGrid.exe", "type": "Game" }
 
-# Power & Revolution 2022 Edition https://store.steampowered.com/app/1823600/Power__Revolution_2022_Edition/
-{ "name": "_start.exe", "type": "Game" }
-
-# Power & Revolution 2023 Edition https://store.steampowered.com/app/2392520/Power__Revolution_2023_Edition/
-{ "name": "_start.exe", "type": "Game" }
-
 # PowerWash Simulator https://store.steampowered.com/app/1290000/PowerWash_Simulator/
 { "name": "PowerWashSimulator.exe", "type": "Game" }
 
@@ -784,30 +774,13 @@
 # Pro Basketball Manager 2025 https://store.steampowered.com/app/2935400/Pro_Basketball_Manager_2025/
 { "name": "PBM2025.exe", "type": "Game" }
 
-# Pro Cycling Manager 2017 https://store.steampowered.com/app/525920/Pro_Cycling_Manager_2017/
-{ "name": "PCM64.exe", "type": "Game" }
-
-# Pro Cycling Manager 2019 https://store.steampowered.com/app/936140/Pro_Cycling_Manager_2019/
-{ "name": "PCM64.exe", "type": "Game" }
-
 # Pro Cycling Manager 2020 https://store.steampowered.com/app/1178400/Pro_Cycling_Manager_2020/
-{ "name": "PCM64.exe", "type": "Game" }
 { "name": "PCM64Beta_protect.exe", "type": "Game" }
 
 # Pro Cycling Manager 2021 https://store.steampowered.com/app/1453850/Pro_Cycling_Manager_2021/
 { "name": "LaunchMultiRes.bat", "type": "Game" }
 { "name": "LaunchBot.bat", "type": "Game" }
-{ "name": "PCM64.exe", "type": "Game" }
 { "name": "LaunchMulti.bat", "type": "Game" }
-
-# Pro Cycling Manager 2022 https://store.steampowered.com/app/1767560/Pro_Cycling_Manager_2022/
-{ "name": "PCM64.exe", "type": "Game" }
-
-# Pro Cycling Manager 2023 https://store.steampowered.com/app/2063610/Pro_Cycling_Manager_2023/
-{ "name": "PCM64.exe", "type": "Game" }
-
-# Pro Cycling Manager 2024 https://store.steampowered.com/app/2494350/Pro_Cycling_Manager_2024/
-{ "name": "PCM64.exe", "type": "Game" }
 
 # Pro Cycling Manager 25 https://store.steampowered.com/app/2511310/Pro_Cycling_Manager_25/
 { "name": "PCM-Win64-Shipping.exe", "type": "Game" }
@@ -903,7 +876,6 @@
 { "name": "Prominence.exe", "type": "Game" }
 
 # Promise Mascot Agency https://store.steampowered.com/app/2585830/Promise_Mascot_Agency/
-{ "name": "MM.exe", "type": "Game" }
 { "name": "MM-Win64-Shipping.exe", "type": "Game" }
 
 # Propagation VR https://store.steampowered.com/app/1363430/Propagation_VR/
@@ -927,9 +899,6 @@
 
 # Prove You Can Win https://store.steampowered.com/app/3316620/Prove_You_Can_Win/
 { "name": "Prove You Can Win.exe", "type": "Game" }
-
-# Pro Wrestler Story https://store.steampowered.com/app/3334710/Pro_Wrestler_Story/
-{ "name": "KairoGames.exe", "type": "Game" }
 
 # PrprLive https://store.steampowered.com/app/1279610/PrprLive/
 { "name": "PrprLive.exe", "type": "Game" }

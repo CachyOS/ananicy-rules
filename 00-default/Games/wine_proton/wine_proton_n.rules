@@ -20,20 +20,9 @@
 # NAMCO MUSEUM ARCHIVES Vol 2 https://store.steampowered.com/app/1254620/NAMCO_MUSEUM_ARCHIVES_Vol_2/
 { "name": "NMA2.exe", "type": "Game"}
 
-# NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
-{ "name": "NarakaBladepoint.exe", "type": "Game" }
-{ "name": "NeacClient.exe", "type": "Game" }
-{ "name": "StartGame.exe", "type": "Game" }
-
-# NARAKA: BLADEPOINT - Test Server https://store.steampowered.com/app/1402480/NARAKA_BLADEPOINT____Test_Server/
-{ "name": "StartGame.exe", "type": "Game" }
-{ "name": "NarakaBladepoint.exe", "type": "Game" }
-{ "name": "NeacClient.exe", "type": "Game" }
-
 # Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
 { "name": "start.exe", "type": "Game" }
 { "name": "app.exe", "type": "Game" }
-{ "name": "nw.exe", "type": "Game" }
 
 # Narcissu 1st & 2nd https://store.steampowered.com/app/264380/Narcissu_1st__2nd/
 { "name": "narci2.exe", "type": "Game" }
@@ -389,9 +378,6 @@
 # Nioh: Complete Edition https://store.steampowered.com/app/485510/Nioh_Complete_Edition/
 { "name": "nioh_launcher.exe", "type": "BG_CPUIO" }
 { "name": "nioh.exe", "type": "Game" }
-
-# Nitro Express https://store.steampowered.com/app/3088250/Nitro_Express/
-{ "name": "player.exe", "type": "Game" }
 
 # N++ (NPLUSPLUS) https://store.steampowered.com/app/230270/N_NPLUSPLUS/
 { "name": "N++.exe", "type": "Game" }
