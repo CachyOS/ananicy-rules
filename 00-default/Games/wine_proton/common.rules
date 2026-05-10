@@ -525,6 +525,11 @@
 # Kingdom Come: Deliverance II https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/
 { "name": "KingdomCome.exe", "type": "Game" }
 
+# Mainichi Kiss Shite Lolita https://www.mobygames.com/game/246927/lolita-kiss-me-everyday/
+{ "name": "lol7.exe", "type": "Game" }
+{ "name": "KissMeEveryday.exe", "type": "Game" }
+{ "name": "KissMeEveryday-HD.exe", "type": "Game" }
+
 # Wolfenstein 3D https://store.steampowered.com/app/2270/Wolfenstein_3D/
 # Another Brick in The Mall https://store.steampowered.com/app/521150/Another_Brick_in_The_Mall/
 { "name": "launch.exe", "type": "Game" }
@@ -603,11 +608,6 @@
 # Lost Lands: Mahjong https://store.steampowered.com/app/435030/Lost_Lands_Mahjong/
 { "name": "Mahjong.exe", "type": "Game" }
 
-# Mainichi Kiss Shite Lolita https://www.mobygames.com/game/246927/lolita-kiss-me-everyday/
-{ "name": "lol7.exe", "type": "Game" }
-{ "name": "KissMeEveryday.exe", "type": "Game" }
-{ "name": "KissMeEveryday-HD.exe", "type": "Game" }
-
 # Majesty 2 https://store.steampowered.com/app/25980/Majesty_2/
 # Majesty 2 Collection https://store.steampowered.com/app/73020/Majesty_2_Collection/
 { "name": "Majesty2.exe", "type": "Game" }
@@ -631,6 +631,9 @@
 # MechWarrior 5: Clans https://store.steampowered.com/app/2000890/MechWarrior_5_Clans/
 # MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
 { "name": "MechWarrior-Win64-Shipping.exe", "type": "Game" }
+
+# Mesen N******* multi-emulator via wine for SDL2 mouse keys https://www.mesen.ca/
+{ "name": "Mesen.exe", "type": "Game" }
 
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
