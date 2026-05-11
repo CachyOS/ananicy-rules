@@ -46,6 +46,9 @@
 # AVIcodec is a free multimedia file analyser for Windows http://avicodec.duby.info/
 { "name": "avicodec.exe", "type": "BG_CPUIO" }
 
+# Ultimate Admiral: Age of Sail https://store.steampowered.com/app/1069650/Ultimate_Admiral_Age_of_Sail/
+{ "name": "build.exe", "type": "Game" }
+
 # Baldur's Gate https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
@@ -314,6 +317,10 @@
 # Contra Anniversary Collection https://store.steampowered.com/app/1018020/Contra_Anniversary_Collection/
 # Eternal Senia https://store.steampowered.com/app/351640/Eternal_Senia/
 # Logiart Grimoire https://store.steampowered.com/app/2492390/Logiart_Grimoire/
+# Territory Idle https://store.steampowered.com/app/1017100/Territory_Idle/
+# THE KING OF FIGHTERS XIII GLOBAL MATCH https://store.steampowered.com/app/3050220/THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH/
+# The Panic Room. House of secrets. https://store.steampowered.com/app/436160/The_Panic_Room_House_of_secrets/
+# The Sexy Brutale https://store.steampowered.com/app/552590/The_Sexy_Brutale/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -372,6 +379,7 @@
 # Mad Father https://store.steampowered.com/app/483980/Mad_Father/
 # Mistwood Heroes https://store.steampowered.com/app/573210/Mistwood_Heroes/
 # LISA https://store.steampowered.com/app/335670/LISA_The_Painful/
+# Tales of the Black Forest https://store.steampowered.com/app/1093910/Tales_of_the_Black_Forest/
 { "name": "Game.exe", "type": "Game" }
 
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
@@ -676,6 +684,7 @@
 # Idle Bouncer https://store.steampowered.com/app/697610/Idle_Bouncer/
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 # RPG MO https://store.steampowered.com/app/372800/RPG_MO/
+# Tailor Tales https://store.steampowered.com/app/939330/Tailor_Tales/
 { "name": "nw.exe", "type": "Game" }
 
 # Vindictus https://store.steampowered.com/app/212160/Vindictus/

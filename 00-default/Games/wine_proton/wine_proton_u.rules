@@ -23,11 +23,20 @@
 # Ultimate Chicken Horse https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/
 { "name": "UltimateChickenHorse.exe", "type": "Game" }
 
+# Ultimate Fishing Simulator https://store.steampowered.com/app/468920/Ultimate_Fishing_Simulator/
+{ "name": "UltimateFishing.exe", "type": "Game" }
+
+# Ultimate Fishing Simulator 2 https://store.steampowered.com/app/1136380/Ultimate_Fishing_Simulator_2/
+{ "name": "Ultimate Fishing Simulator 2.exe", "type": "Game" }
+
 # Ultimate Custom Night https://store.steampowered.com/app/871720/Ultimate_Custom_Night/
 { "name": "Ultimate Custom Night.exe", "type": "Game" }
 
 # Ultimate Epic Battle Simulator 2 https://store.steampowered.com/app/1468720/Ultimate_Epic_Battle_Simulator_2/
 { "name": "UEBS2.exe", "type": "Game" }
+
+# Ultimate General: American Revolution https://store.steampowered.com/app/1901910/Ultimate_General_American_Revolution/
+{ "name": "ugar.exe", "type": "Game" }
 
 # Ultimate General: Civil War https://store.steampowered.com/app/502520/Ultimate_General_Civil_War/
 { "name": "Ultimate General Civil War.exe", "type": "Game" }
@@ -41,6 +50,9 @@
 
 # ULTRAKILL https://store.steampowered.com/app/1229490/ULTRAKILL/
 { "name": "ULTRAKILL.exe", "type": "Game" }
+
+# Ultros https://store.steampowered.com/app/2386310/Ultros/
+{ "name": "Ultros.exe", "type": "Game" }
 
 # Ultra Street Fighter IV https://store.steampowered.com/app/45760/Ultra_Street_Fighter_IV/
 { "name": "SSFIV.exe", "type": "Game" }
@@ -63,8 +75,15 @@
 # UNBEATABLE https://store.steampowered.com/app/2240620/UNBEATABLE/
 { "name": "UNBEATABLE.exe", "type": "Game" }
 
+# Unbridled: That Horse Game https://store.steampowered.com/app/1938050/Unbridled_That_Horse_Game/
+{ "name": "UnbridledTHG", "type": "Game" }
+{ "name": "UnbridledTHG-Win64-Shipping.exe", "type": "Game" }
+
 # Unboxing the Cryptic Killer https://store.steampowered.com/app/2069040/Unboxing_the_Cryptic_Killer/
 { "name": "UnboxingTheCrypticKiller.exe", "type": "Game" }
+
+# Uncharted Waters Online - Steam https://store.steampowered.com/app/890400/Uncharted_Waters_Online/
+{ "name": "GVOnline.exe", "type": "Game" }
 
 # UNCHARTED: Legacy of Thieves Collection https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/
 { "name": "tll.exe", "type": "Game" }
@@ -79,8 +98,15 @@
 # Undawn https://store.steampowered.com/app/1881700/Undawn/
 { "name": "Undawn.exe", "type": "Game" }
 
+# UNDEFEATED https://store.steampowered.com/app/1116960/UNDEFEATED/
+{ "name": "UNDEFEATED.exe", "type": "Game" }
+{ "name": "UNDEFEATED-Win64-Shipping.exe", "type": "Game" }
+
 # UnderMine https://store.steampowered.com/app/656350/UnderMine/
 { "name": "UnderMine.exe", "type": "Game" }
+
+# Underground Blossom https://store.steampowered.com/app/2291850/Underground_Blossom/
+{ "name": "undergroundblossom.exe", "type": "Game" }
 
 # UNDER NIGHT IN-BIRTH II Sys:Celes https://store.steampowered.com/app/2076010/UNDER_NIGHT_INBIRTH_II_SysCeles/
 { "name": "uni2.exe", "type": "Game" }
@@ -99,6 +125,10 @@
 
 # Underworld Idle https://store.steampowered.com/app/1540960/Underworld_Idle/
 { "name": "imp_inf.exe", "type": "Game" }
+
+# UNDERWARD https://store.steampowered.com/app/3025290/UNDERWARD/
+{ "name": "UNDERWARD.exe", "type": "Game" }
+{ "name": "UNDERWARD-Win64-Shipping.exe", "type": "Game" }
 
 # Undisputed https://store.steampowered.com/app/1451190/Undisputed/
 { "name": "Undisputed.exe", "type": "Game" }
@@ -122,6 +152,9 @@
 # Unity of Command II https://store.steampowered.com/app/809230/Unity_of_Command_II/
 { "name": "uoc2.exe", "type": "Game" }
 
+# Union of Gnomes https://store.steampowered.com/app/2097030/Union_of_Gnomes/
+{ "name": "Union of Gnomes.exe", "type": "Game" }
+
 # Universe Sandbox https://store.steampowered.com/app/230290/Universe_Sandbox/
 { "name": "Universe Sandbox x64.exe", "type": "Game" }
 { "name": "Universe Sandbox VR.exe", "type": "Game" }
@@ -133,8 +166,15 @@
 { "name": "U9-Win64-Shipping.exe", "type": "Game" }
 { "name": "Unknown 9 Awakening.exe", "type": "Game" }
 
+# UNLOVED https://store.steampowered.com/app/321270/UNLOVED/
+{ "name": "Unloved.exe", "type": "Game" }
+{ "name": "Unloved-Win32-Shipping.exe", "type": "Game" }
+
 # UNLIGHT:Revive https://store.steampowered.com/app/3247080/UNLIGHTRevive/
 { "name": "UNLIGHTRevive.exe", "type": "Game" }
+
+# UnMetal https://store.steampowered.com/app/1203710/UnMetal/
+{ "name": "unmetal.exe", "type": "Game" }
 
 # Unnamed Space Idle https://store.steampowered.com/app/2471100/Unnamed_Space_Idle/
 { "name": "SpaceIdle.exe", "type": "Game" }
@@ -142,6 +182,10 @@
 # UNO https://store.steampowered.com/app/470220/UNO/
 { "name": "UNO.exe", "type": "Game" }
 { "name": "UbisoftGameLauncher.exe", "type": "Game" }
+
+# Unplagued https://store.steampowered.com/app/3062930/Unplagued/
+{ "name": "Unplagued.exe", "type": "Game" }
+{ "name": "Online_Game-Win64-Shipping.exe", "type": "Game" }
 
 # Unpacking https://store.steampowered.com/app/1135690/Unpacking/
 { "name": "Unpacking.exe", "type": "Game" }
@@ -189,6 +233,9 @@
 # Unturned https://store.steampowered.com/app/304930/Unturned/
 { "name": "Unturned_BE.exe", "type": "Game" }
 
+# Uptasia https://store.steampowered.com/app/719730/Uptasia/
+{ "name": "UptasiaApp.exe", "type": "Game" }
+
 # UpGun https://store.steampowered.com/app/1575870/UpGun/
 { "name": "UpGun.exe", "type": "Game" }
 { "name": "UpGun-Win64-Shipping.exe", "type": "Game" }
@@ -199,8 +246,14 @@
 # Upload Labs https://store.steampowered.com/app/3606890/Upload_Labs/
 { "name": "Upload Labs.exe", "type": "Game" }
 
+# Urban Jungle https://store.steampowered.com/app/2744010/Urban_Jungle/
+{ "name": "UrbanJungle.exe", "type": "Game" }
+
 # Urban Trial Freestyle https://store.steampowered.com/app/243450/Urban_Trial_Freestyle/
 { "name": "UrbanTrialFreestyle.exe", "type": "Game" }
+
+# Urban Myth Dissolution Center https://store.steampowered.com/app/2089600/Urban_Myth_Dissolution_Center/
+{ "name": "umdc.exe", "type": "Game" }
 
 # Urbek City Builder https://store.steampowered.com/app/1411740/Urbek_City_Builder/
 { "name": "Urbek.exe", "type": "Game" }
