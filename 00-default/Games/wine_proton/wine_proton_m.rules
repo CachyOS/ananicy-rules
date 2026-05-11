@@ -121,6 +121,11 @@
 # Mail Time https://store.steampowered.com/app/1607240/Mail_Time/
 { "name": "MailTime.exe", "type": "Game" }
 
+# Mainichi Kiss Shite Lolita https://www.mobygames.com/game/246927/lolita-kiss-me-everyday/
+{ "name": "lol7.exe", "type": "Game" }
+{ "name": "KissMeEveryday.exe", "type": "Game" }
+{ "name": "KissMeEveryday-HD.exe", "type": "Game" }
+
 # Maitetsu:Last Run!! https://store.steampowered.com/app/1434480/MaitetsuLast_Run/
 { "name": "MaitetsuLastRun.exe", "type": "Game" }
 
@@ -486,6 +491,9 @@
 
 # Merge Adventure: Magic Dragons https://store.steampowered.com/app/2495050/Merge_Adventure_Magic_Dragons/
 { "name": "Merge Adventure.exe", "type": "Game" }
+
+# Mesen N******* multi-emulator via wine for SDL2 mouse keys https://www.mesen.ca/
+{ "name": "Mesen.exe", "type": "Game" }
 
 # Metal Bringer https://store.steampowered.com/app/2334170/Metal_Bringer/
 { "name": "MetalBringer.exe", "type": "Game" }
