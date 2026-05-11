@@ -326,6 +326,8 @@
 # THE KING OF FIGHTERS XIII GLOBAL MATCH https://store.steampowered.com/app/3050220/THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH/
 # The Panic Room. House of secrets. https://store.steampowered.com/app/436160/The_Panic_Room_House_of_secrets/
 # The Sexy Brutale https://store.steampowered.com/app/552590/The_Sexy_Brutale/
+# Realm Revolutions https://store.steampowered.com/app/764030/Realm_Revolutions/
+# Onimusha: Warlords https://store.steampowered.com/app/761600/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -525,6 +527,7 @@
 # High Sea Saga DX https://store.steampowered.com/app/2431880/High_Sea_Saga_DX/
 # Heian City Story https://store.steampowered.com/app/3132250/Heian_City_Story/
 # Game Dev Story https://store.steampowered.com/app/1847240/Game_Dev_Story/
+# Pro Wrestler Story https://store.steampowered.com/app/3334710/Pro_Wrestler_Story/
 { "name": "KairoGames.exe", "type": "Game" }
 
 # Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
@@ -571,6 +574,7 @@
 # AI: THE SOMNIUM FILES - nirvanA Initiative https://store.steampowered.com/app/1449200/AI_THE_SOMNIUM_FILES__nirvanA_Initiative/
 # SpellForce 3 Reforced https://store.steampowered.com/app/311290/SpellForce_3_Reforced/
 # Hero Plus https://store.steampowered.com/app/747920/Hero_Plus/
+# Order of Battle: World War II https://store.steampowered.com/app/312450/Order_of_Battle_World_War_II/
 # ICBM: Escalation https://store.steampowered.com/app/2647680/ICBM_Escalation/
 { "name": "Launcher.exe", "type": "Game" }
 
@@ -649,6 +653,10 @@
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 { "name": "metro_benchmark.exe", "type": "Game" }
 
+# Motorsport Manager https://store.steampowered.com/app/415200/Motorsport_Manager/
+# Promise Mascot Agency https://store.steampowered.com/app/2585830/Promise_Mascot_Agency/
+{ "name": "MM.exe", "type": "Game" }
+
 # Myth of Empires https://store.steampowered.com/app/1371580/Myth_of_Empires/
 # March of Empires https://store.steampowered.com/app/702320/March_of_Empires/
 { "name": "MOE.exe", "type": "Game" }
@@ -664,6 +672,14 @@
 # Nightmare Reaper https://store.steampowered.com/app/1051690/Nightmare_Reaper/
 # Erzurum https://store.steampowered.com/app/1392060/Erzurum/
 { "name": "MyProject-Win64-Shipping.exe", "type": "Game" }
+
+# NARAKA: BLADEPOINT - Test Server https://store.steampowered.com/app/1402480/NARAKA_BLADEPOINT____Test_Server/
+# NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
+{ "name": "NarakaBladepoint.exe", "type": "Game" }
+
+# NARAKA: BLADEPOINT - Test Server https://store.steampowered.com/app/1402480/NARAKA_BLADEPOINT____Test_Server/
+# NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
+{ "name": "NeacClient.exe", "type": "Game" }
 
 # Necromunda: Hired Gun https://store.steampowered.com/app/1222370/Necromunda_Hired_Gun/
 # Necromunda: Underhive Wars https://store.steampowered.com/app/566440/Necromunda_Underhive_Wars/
@@ -691,6 +707,7 @@
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 # RPG MO https://store.steampowered.com/app/372800/RPG_MO/
 # Tailor Tales https://store.steampowered.com/app/939330/Tailor_Tales/
+# Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
 { "name": "nw.exe", "type": "Game" }
 
 # Vindictus https://store.steampowered.com/app/212160/Vindictus/
@@ -712,10 +729,6 @@
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
 { "name": "Overlord.exe", "type": "Game" }
 
-# Pluto https://store.steampowered.com/app/3057670/Pluto/
-# We Gotta Go https://store.steampowered.com/app/3967470/We_Gotta_Go/
-{ "name": "Pluto.exe", "type": "Game" }
-
 # ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
 # PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
@@ -735,6 +748,15 @@
 # Path of Exile https://store.steampowered.com/app/238960/Path_of_Exile/
 # Path of Exile 2 https://store.steampowered.com/app/2694490/Path_of_Exile_2/
 { "name": "PathOfExile_x64Steam.exe", "type": "Game" }
+
+# Pro Cycling Manager 2017 https://store.steampowered.com/app/525920/Pro_Cycling_Manager_2017/
+# Pro Cycling Manager 2019 https://store.steampowered.com/app/936140/Pro_Cycling_Manager_2019/
+# Pro Cycling Manager 2020 https://store.steampowered.com/app/1178400/Pro_Cycling_Manager_2020/
+# Pro Cycling Manager 2021 https://store.steampowered.com/app/1453850/Pro_Cycling_Manager_2021/
+# Pro Cycling Manager 2022 https://store.steampowered.com/app/1767560/Pro_Cycling_Manager_2022/
+# Pro Cycling Manager 2023 https://store.steampowered.com/app/2063610/Pro_Cycling_Manager_2023/
+# Pro Cycling Manager 2024 https://store.steampowered.com/app/2494350/Pro_Cycling_Manager_2024/
+{ "name": "PCM64.exe", "type": "Game" }
 
 # Penumbra: Black Plague Gold Edition https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
 # Penumbra Overture https://store.steampowered.com/app/22180/Penumbra_Overture/
@@ -761,11 +783,20 @@
 
 # The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
 # STAR WARS Galactic Battlegrounds Saga https://store.steampowered.com/app/356500/STAR_WARS_Galactic_Battlegrounds_Saga/
+# Nitro Express https://store.steampowered.com/app/3088250/Nitro_Express/
 { "name": "player.exe", "type": "Game" }
 
 # Grand Theft Auto IV: The Complete Edition https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
 # Grand Theft Auto V Enhanced https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/
 { "name": "PlayGTAV.exe", "type": "Game" }
+
+# Pluto https://store.steampowered.com/app/3057670/Pluto/
+# We Gotta Go https://store.steampowered.com/app/3967470/We_Gotta_Go/
+{ "name": "Pluto.exe", "type": "Game" }
+
+# Real Pool 3D - Poolians https://store.steampowered.com/app/670290/Real_Pool_3D__Poolians/
+# Pool 2D - Poolians https://store.steampowered.com/app/891040/Pool_2D__Poolians/
+{ "name": "Poolians.exe", "type": "Game" }
 
 # Primal Carnage: Extinction https://store.steampowered.com/app/321360/Primal_Carnage_Extinction/
 # Primal Carnage https://store.steampowered.com/app/215470/Primal_Carnage/
@@ -863,12 +894,21 @@
 # Star Control: Origins https://store.steampowered.com/app/271260/Star_Control_Origins/
 { "name": "StardockLauncher.exe", "type": "Game" }
 
+# Power & Revolution 2023 Edition https://store.steampowered.com/app/2392520/Power__Revolution_2023_Edition/
+# Power & Revolution 2022 Edition https://store.steampowered.com/app/1823600/Power__Revolution_2022_Edition/
+# Geo-Political Simulator 5 https://store.steampowered.com/app/3107770/GeoPolitical_Simulator_5/
+{ "name": "_start.exe", "type": "Game" }
+
 # DRAGON BALL XENOVERSE 2 https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
 # FREEDOM WARS Remastered https://store.steampowered.com/app/3004100/FREEDOM_WARS_Remastered/
 { "name": "START.exe", "type": "Game" }
 
 # City Car Driving https://store.steampowered.com/app/493490/City_Car_Driving/
 { "name": "Starter.exe", "type": "Game" }
+
+# NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
+# NARAKA: BLADEPOINT - Test Server https://store.steampowered.com/app/1402480/NARAKA_BLADEPOINT____Test_Server/
+{ "name": "StartGame.exe", "type": "Game" }
 
 # State of Decay https://store.steampowered.com/app/241540/State_of_Decay/
 # State of Decay: YOSE https://store.steampowered.com/app/329430/State_of_Decay_YOSE/
