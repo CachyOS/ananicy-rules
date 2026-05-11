@@ -47,6 +47,10 @@
 { "name": "ze1.exe", "type": "Game" }
 { "name": "ze2.exe", "type": "Game" }
 
+# Zero Escape: Zero Time Dilemma https://store.steampowered.com/app/311240/Zero_Escape_Zero_Time_Dilemma/
+{ "name": "ZeroEscape-Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Zero Escape.exe", "type": "Game" }
+
 # Zero Hour https://store.steampowered.com/app/1359090/Zero_Hour/
 { "name": "Zero Hour.exe", "type": "Game" }
 
@@ -55,6 +59,12 @@
 
 # ZERO Sievert https://store.steampowered.com/app/1782120/ZERO_Sievert/
 { "name": "ZERO Sievert.exe", "type": "Game" }
+
+# Zet Zillions https://store.steampowered.com/app/2229560/Zet_Zillions/
+{ "name": "Zet Zillions.exe", "type": "Game" }
+
+# Zeus + Poseidon https://store.steampowered.com/app/566050/Zeus__Poseidon/
+{ "name": "zeus.exe", "type": "Game" }
 
 # Ziggurat 2 https://store.steampowered.com/app/1159560/Ziggurat_2/
 { "name": "Ziggurat2.exe", "type": "Game" }
@@ -66,6 +76,9 @@
 
 # ZOMBI https://store.steampowered.com/app/339230/ZOMBI/
 { "name": "ZOMBI.exe", "type": "Game" }
+
+# Zombidle: REMONSTERED https://store.steampowered.com/app/612020/Zombidle__REMONSTERED/
+{ "name": "Zombidle.exe", "type": "Game" }
 
 # Zombie Army 4: Dead War https://store.steampowered.com/app/694280/Zombie_Army_4_Dead_War/
 { "name": "za4_vulkan.exe", "type": "Game" }
@@ -89,6 +102,13 @@
 # Zombie Shooter https://store.steampowered.com/app/33130/Zombie_Shooter/
 { "name": "ZombieShooter.exe", "type": "Game" }
 
+# Zombieville USA 3D https://store.steampowered.com/app/1801520/Zombieville_USA_3D/
+{ "name": "Exodus-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Exodus.exe", "type": "Game" }
+
+# Zompiercer https://store.steampowered.com/app/1262460/Zompiercer/
+{ "name": "Zompiercer.exe", "type": "Game" }
+
 # Zoo 2: Animal Park https://store.steampowered.com/app/1352330/Zoo_2_Animal_Park/
 { "name": "zoo2.exe", "type": "Game" }
 
@@ -103,6 +123,10 @@
 
 # Zort https://store.steampowered.com/app/3121110/Zort/
 { "name": "Zort.exe", "type": "Game" }
+
+# Zula Global https://store.steampowered.com/app/747610/Zula_Global/
+{ "name": "zula_launcher.exe", "type": "Game" }
+{ "name": "zula.exe", "type": "Game" }
 
 # Zuma Deluxe https://store.steampowered.com/app/3330/Zuma_Deluxe/
 { "name": "Zuma.exe", "type": "Game" }
@@ -127,3 +151,6 @@
 
 # Zup! S https://store.steampowered.com/app/617670/Zup_S/
 { "name": "Zup! S.exe", "type": "Game" }
+
+# ZUSI 3 - Aerosoft Edition https://store.steampowered.com/app/1040730/ZUSI_3__Aerosoft_Edition/
+{ "name": "ZusiSim.64.exe", "type": "Game" }

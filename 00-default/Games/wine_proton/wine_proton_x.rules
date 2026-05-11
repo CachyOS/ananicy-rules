@@ -33,6 +33,9 @@
 { "name": "XERA_Launcher.exe", "type": "Game" }
 { "name": "XERA-Win64-Shipping.exe", "type": "Game" }
 
+# XiuzhenWorld2 / 修真世界2 https://store.steampowered.com/app/3080880/XiuzhenWorld2/
+{ "name": "CultivationMagicWorld2.exe", "type": "Game" }
+
 # X-Morph: Defense https://store.steampowered.com/app/408410/XMorph_Defense/
 { "name": "X-Morph_Launcher.exe", "type": "Game" }
 { "name": "shooter_win64_release.exe", "type": "Game" }
@@ -44,6 +47,10 @@
 
 # X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
 { "name": "XRebirth.exe", "type": "Game" }
+
+# XSOverlay https://store.steampowered.com/app/1173510/XSOverlay/
+{ "name": "XSOverlay Process Manager.exe", "type": "BG_CPUIO" }
+{ "name": "XSOverlay.exe", "type": "BG_CPUIO" }
 
 # Xuan-Yuan Sword: The Scar of Sky https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/
 { "name": "swd3e.exe", "type": "Game" }

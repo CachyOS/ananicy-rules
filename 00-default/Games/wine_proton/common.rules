@@ -46,6 +46,10 @@
 # AVIcodec is a free multimedia file analyser for Windows http://avicodec.duby.info/
 { "name": "avicodec.exe", "type": "BG_CPUIO" }
 
+# Ultimate Admiral: Age of Sail https://store.steampowered.com/app/1069650/Ultimate_Admiral_Age_of_Sail/
+# Kuboom https://store.steampowered.com/app/513000/KUBOOM/
+{ "name": "build.exe", "type": "Game" }
+
 # Baldur's Gate https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
 # Baldur's Gate II: Enhanced Edition https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
@@ -66,6 +70,10 @@
 
 # RAD Game Tools binary to play .bik video files
 { "name": "binkplay.exe", "type": "BG_CPUIO" }
+
+# Borderlands Game of the Year https://store.steampowered.com/app/8980/Borderlands_Game_of_the_Year/
+# Tales from the Borderlands https://store.steampowered.com/app/330830/
+{ "name": "Borderlands.exe", "type": "Game" }
 
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
@@ -314,6 +322,10 @@
 # Contra Anniversary Collection https://store.steampowered.com/app/1018020/Contra_Anniversary_Collection/
 # Eternal Senia https://store.steampowered.com/app/351640/Eternal_Senia/
 # Logiart Grimoire https://store.steampowered.com/app/2492390/Logiart_Grimoire/
+# Territory Idle https://store.steampowered.com/app/1017100/Territory_Idle/
+# THE KING OF FIGHTERS XIII GLOBAL MATCH https://store.steampowered.com/app/3050220/THE_KING_OF_FIGHTERS_XIII_GLOBAL_MATCH/
+# The Panic Room. House of secrets. https://store.steampowered.com/app/436160/The_Panic_Room_House_of_secrets/
+# The Sexy Brutale https://store.steampowered.com/app/552590/The_Sexy_Brutale/
 # Realm Revolutions https://store.steampowered.com/app/764030/Realm_Revolutions/
 # Onimusha: Warlords https://store.steampowered.com/app/761600/
 { "name": "game.exe", "type": "Game" }
@@ -374,6 +386,7 @@
 # Mad Father https://store.steampowered.com/app/483980/Mad_Father/
 # Mistwood Heroes https://store.steampowered.com/app/573210/Mistwood_Heroes/
 # LISA https://store.steampowered.com/app/335670/LISA_The_Painful/
+# Tales of the Black Forest https://store.steampowered.com/app/1093910/Tales_of_the_Black_Forest/
 { "name": "Game.exe", "type": "Game" }
 
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
@@ -401,6 +414,7 @@
 # PGA TOUR 2K21 https://store.steampowered.com/app/1016120/PGA_TOUR_2K21/
 # The Golf Club https://store.steampowered.com/app/269730/The_Golf_Club/
 # WGT Golf https://store.steampowered.com/app/1182020/WGT_Golf/
+# The Golf Club 2019 Featuring PGA TOUR https://store.steampowered.com/app/695290/The_Golf_Club_2019_featuring_PGA_TOUR/
 { "name": "golf.exe", "type": "Game" }
 
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
@@ -692,6 +706,7 @@
 # Idle Bouncer https://store.steampowered.com/app/697610/Idle_Bouncer/
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 # RPG MO https://store.steampowered.com/app/372800/RPG_MO/
+# Tailor Tales https://store.steampowered.com/app/939330/Tailor_Tales/
 # Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
 { "name": "nw.exe", "type": "Game" }
 
@@ -750,6 +765,7 @@
 # Total War: PHARAOH DYNASTIES https://store.steampowered.com/app/2951630/Total_War_PHARAOH_DYNASTIES/
 # Pharaoh + Cleopatra https://store.steampowered.com/app/564530/Pharaoh__Cleopatra/
 # Pharaoh: A New Era https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/
+# Total War: PHARAOH https://store.steampowered.com/app/1937780/Total_War_PHARAOH/
 { "name": "Pharaoh.exe", "type": "Game" }
 
 # PICO PARK https://store.steampowered.com/app/1509960/PICO_PARK/
@@ -946,10 +962,12 @@
 
 # Train Sim World 2 https://store.steampowered.com/app/1282590/Train_Sim_World_2/
 # Train Sim World 2020 https://store.steampowered.com/app/530070/Train_Sim_World_2020/
+# Train Sim World 3 https://store.steampowered.com/app/1944790/Train_Sim_World_3/
 { "name": "TS2Prototype.exe", "type": "Game" }
 
 # Train Sim World 2 https://store.steampowered.com/app/1282590/Train_Sim_World_2/
 # Train Sim World 2020 https://store.steampowered.com/app/530070/Train_Sim_World_2020/
+# Train Sim World 3 https://store.steampowered.com/app/1944790/Train_Sim_World_3/
 { "name": "TS2Prototype-Win64-Shipping.exe", "type": "Game" }
 
 # NaissanceE https://store.steampowered.com/app/265690/NaissanceE/

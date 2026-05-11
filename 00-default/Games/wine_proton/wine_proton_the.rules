@@ -17,6 +17,9 @@
 { "name": "TheAlters.exe", "type": "Game" }
 { "name": "TheAlters-Win64-Shipping.exe", "type": "Game" }
 
+# The Anomaly Project https://store.steampowered.com/app/2960770/The_Anomaly_Project/
+{ "name": "TheAnomalyProject.exe", "type": "Game" }
+
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman.exe", "type": "Game" }
 
@@ -74,14 +77,26 @@
 # The Bloodline https://store.steampowered.com/app/1159290/The_Bloodline/
 { "name": "TheBloodline.exe", "type": "Game" }
 
+# The Bonerooms https://store.steampowered.com/app/2719940/The_Bonerooms/
+{ "name": "Bonerooms.exe", "type": "Game" }
+
 # The Book of Unwritten Tales https://store.steampowered.com/app/215160/The_Book_of_Unwritten_Tales/
 { "name": "bout.exe", "type": "Game" }
 
 # The Braves https://store.steampowered.com/app/2479830/The_Braves/
 { "name": "The Braves.exe", "type": "Game" }
 
+# The Break-In https://store.steampowered.com/app/1397390/The_BreakIn/
+{ "name": "The Break In.exe", "type": "Game" }
+
 # The Bridge https://store.steampowered.com/app/204240/The_Bridge/
 { "name": "The Bridge.exe", "type": "Game" }
+
+# The Bridge Curse 2: The Extrication https://store.steampowered.com/app/2331330/The_Bridge_Curse_2_The_Extrication/
+{ "name": "TBC2-Win64-Shipping.exe", "type": "Game" }
+
+# The Bridge Curse Road to Salvation https://store.steampowered.com/app/1611430/The_Bridge_Curse_Road_to_Salvation/
+{ "name": "TBC-Win64-Shipping.exe", "type": "Game" }
 
 # The Bureau: XCOM Declassified https://store.steampowered.com/app/65930/The_Bureau_XCOM_Declassified/
 { "name": "thebureau.exe", "type": "Game" }
@@ -99,6 +114,10 @@
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "The Case of the Golden Idol.exe", "type": "Game" }
 
+# The Casting of Frank Stone https://store.steampowered.com/app/2223840/
+{ "name": "CastingFrankStone.exe", "type": "Game" }
+{ "name": "CastingFrankStone-Win64-Shipping.exe", "type": "Game" }
+
 # The Cat and the Coup https://store.steampowered.com/app/95700/The_Cat_and_the_Coup/
 { "name": "TheCatAndTheCoup.exe", "type": "Game" }
 
@@ -107,6 +126,9 @@
 
 # The Cave https://store.steampowered.com/app/221810/The_Cave/
 { "name": "Cave.exe", "type": "Game" }
+
+# The Chef's Shift https://store.steampowered.com/app/2390230/The_Chefs_Shift/
+{ "name": "The Chef's Shift.exe", "type": "Game" }
 
 # The Chronicles of Riddick: Assault on Dark Athena https://steamdb.info/app/9860/
 { "name": "DarkAthena.exe", "type": "Game" }
@@ -118,11 +140,17 @@
 { "name": "the_citadel.exe", "type": "Game" }
 { "name": "the_citadel-Win64-Shipping.exe", "type": "Game" }
 
+# The Classrooms https://store.steampowered.com/app/2099110/The_Classrooms/
+{ "name": "The Classrooms.exe", "type": "Game" }
+
 # The Coin Game https://store.steampowered.com/app/598980/The_Coin_Game/
 { "name": "TheCoinGame.exe", "type": "Game" }
 
 # The Colonists https://store.steampowered.com/app/677340/The_Colonists/
 { "name": "TheColonists.exe", "type": "Game" }
+
+# The Cosmic Wheel Sisterhood https://store.steampowered.com/app/1340480/The_Cosmic_Wheel_Sisterhood/
+{ "name": "The_Cosmic_Wheel_Sisterhood.exe", "type": "Game" }
 
 # The Council https://store.steampowered.com/app/287630/The_Council/
 { "name": "The Council.exe", "type": "Game" }
@@ -136,6 +164,10 @@
 # The Crew Motorfest https://store.steampowered.com/app/2698940/The_Crew_Motorfest/
 { "name": "TheCrewMotorfest.exe", "type": "Game" }
 { "name": "TheCrewMotorfest_BE.exe", "type": "Game" }
+
+# The Crust https://store.steampowered.com/app/1465470/The_Crust/
+{ "name": "TheCrust.exe", "type": "Game" }
+{ "name": "TheCrust-Win64-Shipping.exe", "type": "Game" }
 
 # The Culling https://store.steampowered.com/app/437220/The_Culling/
 { "name": "Launch_TheCulling.exe", "type": "Game" }
@@ -197,10 +229,14 @@
 # The Drone Racing League Simulator https://store.steampowered.com/app/641780/The_Drone_Racing_League_Simulator/
 { "name": "DRL Simulator.exe", "type": "Game" }
 
+# The Dungeon Of Naheulbeuk: The Amulet Of Chaos https://store.steampowered.com/app/970830/The_Dungeon_Of_Naheulbeuk_The_Amulet_Of_Chaos/
+{ "name": "Naheulbeuk.exe", "type": "Game" }
+
 # The Elder Scrolls III: Morrowind Game of the Year Edition https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
 
 # The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe (2009) https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
+{ "name": "OblivionLauncher.exe", "type": "BG_CPUIO" }
 { "name": "Oblivion.exe", "type": "Game" }
 
 # The Elder Scrolls IV: Oblivion Remastered https://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/
@@ -214,9 +250,16 @@
 # The Elder Scrolls V: Skyrim VR https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/
 { "name": "SkyrimVR.exe", "type": "Game" }
 
+# The Emperor and State https://store.steampowered.com/app/2716930/The_Emperor_and_State/
+{ "name": "TheEmperorAndState.exe", "type": "Game" }
+
 # The End Is Nigh https://store.steampowered.com/app/583470/The_End_Is_Nigh/
 { "name": "modloader.exe", "type": "Game" }
 { "name": "TheEndIsNigh.exe", "type": "Game" }
+
+# The Enjenir https://store.steampowered.com/app/1800940/The_Enjenir_The_Engineering_Physics_Building_Simulator/
+{ "name": "The_Enjenir.exe", "type": "Game" }
+{ "name": "The_Enjenir-Win64-Shipping.exe", "type": "Game" }
 
 # The Entropy Centre https://store.steampowered.com/app/1730590/The_Entropy_Centre/
 { "name": "EntropyCentre.exe", "type": "Game" }
@@ -242,6 +285,9 @@
 # The Exit 8 https://store.steampowered.com/app/2653790/The_Exit_8/
 { "name": "Exit8.exe", "type": "Game" }
 
+# The Expendabros https://store.steampowered.com/app/312990/The_Expendabros/
+{ "name": "Expendabros.exe", "type": "Game" }
+
 # The Fall https://store.steampowered.com/app/290770/The_Fall/
 { "name": "TheFall.exe", "type": "Game" }
 
@@ -262,6 +308,9 @@
 { "name": "TheFirstDescendant.exe", "type": "Game" }
 { "name": "M1-Win64-Shipping.exe", "type": "Game" }
 
+# The Fishing Club 3D https://store.steampowered.com/app/522230/The_Fishing_Club_3D_Coop_Sport_Angling/
+{ "name": "The Fishing Club 3D.exe", "type": "Game" }
+
 # The Forest https://store.steampowered.com/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
 { "name": "TheForest32.exe", "type": "Game" }
@@ -270,6 +319,10 @@
 # The Forever Winter https://store.steampowered.com/app/2828860/The_Forever_Winter/
 { "name": "ForeverWinter.exe", "type": "Game" }
 { "name": "ForeverWinter-Win64-Shipping.exe", "type": "Game" }
+
+# The Forgotten City https://store.steampowered.com/app/874260/The_Forgotten_City/
+{ "name": "ModernStoryteller01.exe", "type": "Game" }
+{ "name": "ModernStoryteller01-Win64-Shipping.exe", "type": "Game" }
 
 # The Four Kings Casino and Slots https://store.steampowered.com/app/260430/The_Four_Kings_Casino_and_Slots/
 { "name": "The Four Kings Casino and Slots.exe", "type": "Game" }
@@ -329,8 +382,14 @@
 # The Hex https://store.steampowered.com/app/510420/The_Hex/
 { "name": "TheHex.exe", "type": "Game" }
 
+# The House in Fata Morgana https://store.steampowered.com/app/303310/The_House_in_Fata_Morgana/
+{ "name": "fata.exe", "type": "Game" }
+
 # The House of Da Vinci https://store.steampowered.com/app/522470/The_House_of_Da_Vinci/
 { "name": "The House of da Vinci.exe", "type": "Game" }
+
+# The House of Da Vinci 2 https://store.steampowered.com/app/1259840/The_House_of_Da_Vinci_2/
+{ "name": "THODV2.exe", "type": "Game" }
 
 # THE HOUSE OF THE DEAD: Remake https://store.steampowered.com/app/1694600/THE_HOUSE_OF_THE_DEAD_Remake/
 { "name": "The House of the Dead Remake.exe", "type": "Game" }
@@ -344,12 +403,19 @@
 # The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
 { "name": "ImpossibleGame.exe", "type": "Game" }
 
+# The Infected https://store.steampowered.com/app/1360000/The_Infected/
+{ "name": "TheInfected.exe", "type": "Game" }
+{ "name": "TheInfected-Win64-Shipping.exe", "type": "Game" }
+
 # The Inner World https://store.steampowered.com/app/251430/The_Inner_World/
 { "name": "TheInnerWorld.exe", "type": "Game" }
 
 # The Invincible https://store.steampowered.com/app/731040/The_Invincible/
 { "name": "TheInvincible.exe", "type": "Game" }
 { "name": "TheInvincible-Win64-Shipping.exe", "type": "Game" }
+
+# The Iron Oath https://store.steampowered.com/app/699330/The_Iron_Oath/
+{ "name": "The Iron Oath.exe", "type": "Game" }
 
 # The Isle https://store.steampowered.com/app/376210/The_Isle/
 { "name": "TheIsle.exe", "type": "Game" }
@@ -478,8 +544,36 @@
 # The Last Spell https://store.steampowered.com/app/1105670/The_Last_Spell/
 { "name": "The Last Spell.exe", "type": "Game" }
 
+# The Last Stand: Aftermath https://store.steampowered.com/app/1266840/The_Last_Stand_Aftermath/
+{ "name": "TLSA.exe", "type": "Game" }
+
 # The Last Starship https://store.steampowered.com/app/1857080/The_Last_Starship/
 { "name": "LastStarship64.exe", "type": "Game" }
+
+# The Legend of Heroes: Ao no Kiseki KAI https://store.steampowered.com/app/1461920/The_Legend_of_Heroes_Ao_no_Kiseki_KAI/
+{ "name": "Launcher_ED72.exe", "type": "BG_CPUIO" }
+{ "name": "ed72_steam.exe", "type": "Game" }
+
+# The Legend of Heroes: Kai no Kiseki -Farewell, O Zemuria- https://store.steampowered.com/app/3319980/The_Legend_of_Heroes_Kai_no_Kiseki_Farewell_O_Zemuria/
+
+
+# The Legend of Heroes: Kuro no Kiseki https://store.steampowered.com/app/1811950/The_Legend_of_Heroes_Kuro_no_Kiseki/
+
+
+# The Legend of Heroes: Kuro no Kiseki Ⅱ -CRIMSON SiN- https://store.steampowered.com/app/2113920/The_Legend_of_Heroes_Kuro_no_Kiseki_II_CRIMSON_SiN/
+{ "name": "ed9.exe", "type": "Game" }
+
+# The Legend of Heroes: Sen no Kiseki III https://store.steampowered.com/app/1450080/The_Legend_of_Heroes_Sen_no_Kiseki_III/
+
+
+# The Legend of Heroes: Sen no Kiseki IV -THE END OF SAGA- https://store.steampowered.com/app/1457510/The_Legend_of_Heroes_Sen_no_Kiseki_IV_THE_END_OF_SAGA/
+{ "name": "ed8_4_PC.exe", "type": "Game" }
+{ "name": "ed8_4_PC_KR.exe", "type": "Game" }
+{ "name": "Sen4Launcher.exe", "type": "BG_CPUIO" }
+
+# The Legend of Heroes: Trails from Zero https://store.steampowered.com/app/1668510/The_Legend_of_Heroes_Trails_from_Zero/
+{ "name": "zero.exe", "type": "Game" }
+{ "name": "zero_debug.exe", "type": "BG_CPUIO" }
 
 # The Legend of Heroes: Trails in the Sky https://store.steampowered.com/app/251150/The_Legend_of_Heroes_Trails_in_the_Sky/
 { "name": "ed6_win.exe", "type": "Game" }
@@ -489,9 +583,38 @@
 { "name": "ed6_win2.exe", "type": "Game" }
 { "name": "ed6_win2_DX9.exe", "type": "Game" }
 
+# The Legend of Heroes: Trails in the Sky the 3rd https://store.steampowered.com/app/436670/The_Legend_of_Heroes_Trails_in_the_Sky_the_3rd/
+{ "name": "ed6_win3.exe", "type": "Game" }
+{ "name": "ed6_win3_DX9.exe", "type": "Game" }
+
+# The Legend of Heroes: Trails into Reverie https://store.steampowered.com/app/1668540/The_Legend_of_Heroes_Trails_into_Reverie/
+{ "name": "hnk.exe", "type": "Game" }
+{ "name": "hnk_debugopt.exe", "type": "BG_CPUIO" }
+
 # The Legend of Heroes: Trails of Cold Steel https://store.steampowered.com/app/538680/The_Legend_of_Heroes_Trails_of_Cold_Steel/
 { "name": "ed8.exe", "type": "Game" }
 { "name": "ed8jp.exe", "type": "Game" }
+
+# The Legend of Heroes: Trails of Cold Steel II https://store.steampowered.com/app/748490/The_Legend_of_Heroes_Trails_of_Cold_Steel_II/
+{ "name": "Sen2Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "ed8_2_PC_JP.exe", "type": "Game" }
+{ "name": "ed8_2_PC_US.exe", "type": "Game" }
+
+# The Legend of Heroes: Trails of Cold Steel III https://store.steampowered.com/app/991270/The_Legend_of_Heroes_Trails_of_Cold_Steel_III/
+{ "name": "ed8_3_PC.exe", "type": "Game" }
+{ "name": "Sen3Launcher.exe", "type": "BG_CPUIO" }
+
+# The Legend of Heroes: Trails of Cold Steel IV https://store.steampowered.com/app/1198090/The_Legend_of_Heroes_Trails_of_Cold_Steel_IV/
+{ "name": "ed8_4_PC_JP.exe", "type": "Game" }
+
+# The Legend of Heroes: Trails through Daybreak https://store.steampowered.com/app/2138610/The_Legend_of_Heroes_Trails_through_Daybreak/
+{ "name": "kuro.exe", "type": "Game" }
+
+# The Legend of Heroes: Trails through Daybreak II https://store.steampowered.com/app/2668430/The_Legend_of_Heroes_Trails_through_Daybreak_II/
+{ "name": "kuro2.exe", "type": "Game" }
+
+# The Legend of Heroes: Trails to Azure https://store.steampowered.com/app/1668520/The_Legend_of_Heroes_Trails_to_Azure/
+{ "name": "ao.exe", "type": "Game" }
 
 # The Legend of Khiimori https://store.steampowered.com/app/2697000/The_Legend_of_Khiimori/
 { "name": "LegendOfKhiimori.exe", "type": "Game" }
@@ -559,11 +682,17 @@
 # The Messenger https://store.steampowered.com/app/764790/The_Messenger/
 { "name": "TheMessenger.exe", "type": "Game" }
 
+# The Monster Breeder https://store.steampowered.com/app/1192440/The_Monster_Breeder/
+{ "name": "The Monster Breeder.exe", "type": "Game" }
+
 # The Mooseman https://store.steampowered.com/app/574310/The_Mooseman/
 { "name": "Mooseman.exe", "type": "Game" }
 
 # The Mortuary Assistant https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/
 { "name": "The Mortuary Assistant.exe", "type": "Game" }
+
+# The Nameless: Slay Dragon https://store.steampowered.com/app/2410170/The_Nameless_Slay_Dragon/
+{ "name": "TheNameLess.exe", "type": "Game" }
 
 # The Next BIG Thing https://store.steampowered.com/app/58570/The_Next_BIG_Thing/
 { "name": "The Next Big Thing.exe", "type": "Game" }
@@ -582,8 +711,19 @@
 { "name": "The_Occultist.exe", "type": "Game" }
 { "name": "The_Occultist-Win64-Shipping.exe", "type": "Game" }
 
+# The Operational Art of War IV https://store.steampowered.com/app/792660/The_Operational_Art_of_War_IV/
+{ "name": "TOAW Graphics.exe", "type": "Game" }
+
+# The Oregon Trail https://store.steampowered.com/app/2013360/The_Oregon_Trail/
+{ "name": "TheOregonTrail.exe", "type": "Game" }
+{ "name": "TheOregonTrail_Win64_Shipping.exe", "type": "Game" }
+
 # the other older ghost recon games use the same exe name https://store.steampowered.com/app/15300/Tom_Clancys_Ghost_Recon/
 { "name": "GhostRecon.exe", "type": "Game" }
+
+# The Other Side https://store.steampowered.com/app/2764750/The_Other_Side/
+{ "name": "TheOtherSide.exe", "type": "Game" }
+{ "name": "TheOtherSide-Win64-Shipping.exe", "type": "Game" }
 
 # The Outer Worlds https://store.steampowered.com/app/578650/The_Outer_Worlds/
 { "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
@@ -606,6 +746,9 @@
 # The Pedestrian https://store.steampowered.com/app/466630/The_Pedestrian/
 { "name": "ThePed_Win_64.exe", "type": "Game" }
 
+# The Perfect Tower II https://store.steampowered.com/app/1197260/The_Perfect_Tower_II/
+{ "name": "The Perfect Tower II.exe", "type": "Game" }
+
 # The Pirate: Caribbean Hunt https://store.steampowered.com/app/512470/The_Pirate_Caribbean_Hunt/
 { "name": "ThePirate.exe", "type": "Game" }
 
@@ -619,11 +762,17 @@
 { "name": "Storybook.exe", "type": "Game" }
 { "name": "Storybook-Win64-Shipping.exe", "type": "Game" }
 
+# The Political Process https://store.steampowered.com/app/1184770/The_Political_Process/
+{ "name": "ThePoliticalProcess.exe", "type": "Game" }
+
 # The Posthumous Investigation https://store.steampowered.com/app/2466900/The_Posthumous_Investigation/
 { "name": "The Posthumous Investigation.exe", "type": "Game" }
 
 # The Precinct https://store.steampowered.com/app/490110/The_Precinct/
 { "name": "Precinct.exe", "type": "Game" }
+
+# The Purge Day https://store.steampowered.com/app/553450/The_Purge_Day/
+{ "name": "ThePurgeDay.exe", "type": "Game" }
 
 # The Quarry https://store.steampowered.com/app/1577120/The_Quarry/
 { "name": "TheQuarry.exe", "type": "Game" }
@@ -644,6 +793,9 @@
 # The Room Three https://store.steampowered.com/app/456750/The_Room_Three/
 { "name": "TheRoomThree.exe", "type": "Game" }
 
+# The Room Two https://store.steampowered.com/app/425580/The_Room_Two/
+{ "name": "TheRoomTwo.exe", "type": "Game" }
+
 # The Roottrees are Dead https://store.steampowered.com/app/2754380/The_Roottrees_are_Dead/
 { "name": "roottrees.exe", "type": "Game" }
 
@@ -662,6 +814,18 @@
 # The Secret of Monkey Island: Special Edition https://store.steampowered.com/app/32360/The_Secret_of_Monkey_Island_Special_Edition/
 { "name": "MISE.exe", "type": "Game" }
 
+# The Seeker https://store.steampowered.com/app/503680/The_Seeker/
+{ "name": "The_Seeker.exe", "type": "Game" }
+
+# The Settlers 7 : History Edition https://store.steampowered.com/app/965320/The_Settlers_7__History_Edition/
+{ "name": "Settlers7R.exe", "type": "Game" }
+
+# The Settlers: New Allies https://store.steampowered.com/app/2750080/The_Settlers_New_Allies/
+{ "name": "The_Settlers.exe", "type": "Game" }
+
+# The Settlers : Rise of an Empire - History Edition https://store.steampowered.com/app/965310/The_Settlers__Rise_of_an_Empire__History_Edition/
+{ "name": "Settlers6R.exe", "type": "Game" }
+
 # The Seven Deadly Sins: Origin https://store.steampowered.com/app/3679080/The_Seven_Deadly_Sins_Origin/
 { "name": "SevenDeadlySins_Origin-Win64-Shipping.exe", "type": "Game" }
 { "name": "SevenDeadlySins_Origin.exe", "type": "Game" }
@@ -671,6 +835,10 @@
 
 # The Ship: Murder Party https://store.steampowered.com/app/2400/The_Ship_Murder_Party/
 { "name": "ship.exe", "type": "Game" }
+
+# The Siege and the Sandfox https://store.steampowered.com/app/653060/The_Siege_and_the_Sandfox/
+{ "name": "Sandfox.exe", "type": "Game" }
+{ "name": "Sandfox-Win64-Shipping.exe", "type": "Game" }
 
 # The Sims 2 Legacy Collection https://store.steampowered.com/app/3314070/The_Sims_2_Legacy_Collection/
 { "name": "Sims2EP9.exe", "type": "Game" }
@@ -706,6 +874,9 @@
 # The Stanley Parable: Ultra Deluxe https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/
 { "name": "The Stanley Parable Ultra Deluxe.exe", "type": "Game" }
 
+# The Stones https://store.steampowered.com/app/3506030/The_Stones/
+{ "name": "Stone.exe", "type": "Game" }
+
 # The Surge https://store.steampowered.com/app/378540/The_Surge/
 { "name": "TheSurge.exe", "type": "Game" }
 
@@ -729,6 +900,10 @@
 { "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Talos2.exe", "type": "Game" }
 
+# The Talos Principle: Reawakened https://store.steampowered.com/app/2806640/The_Talos_Principle_Reawakened/
+{ "name": "Talos1.exe", "type": "Game" }
+{ "name": "Talos1-Win64-Shipping.exe", "type": "Game" }
+
 # The Technomancer https://store.steampowered.com/app/338390/The_Technomancer/
 { "name": "TheTechnomancer.exe", "type": "Game" }
 
@@ -742,6 +917,9 @@
 # The Thaumaturge https://store.steampowered.com/app/1684350/The_Thaumaturge/
 { "name": "TheThaumaturge.exe", "type": "Game" }
 { "name": "TheThaumaturge-Win64-Shipping.exe", "type": "Game" }
+
+# The Three Kingdoms: The Tales of Jian An https://store.steampowered.com/app/3362990/The_Three_Kingdoms_The_Tales_of_Jian_An/
+{ "name": "JianAnLegend.exe", "type": "Game" }
 
 # The Thrill of the Fight - VR Boxing https://store.steampowered.com/app/494150/The_Thrill_of_the_Fight__VR_Boxing/
 { "name": "The Thrill of the Fight.exe", "type": "Game" }
@@ -792,8 +970,14 @@
 # The Wandering Village https://store.steampowered.com/app/1121640/The_Wandering_Village/
 { "name": "WanderingVillage.exe", "type": "Game" }
 
+# The WereCleaner https://store.steampowered.com/app/2795000/The_WereCleaner/
+{ "name": "The WereCleaner.exe", "type": "Game" }
+
 # The Whispered World Special Edition https://store.steampowered.com/app/268540/The_Whispered_World_Special_Edition/
 { "name": "twwse.exe", "type": "Game" }
+
+# The White Door https://store.steampowered.com/app/1145960/The_White_Door/
+{ "name": "TheWhiteDoor.exe", "type": "Game" }
 
 # The Wild Eight https://store.steampowered.com/app/526160/The_Wild_Eight/
 { "name": "wildeight.exe", "type": "Game" }
@@ -806,6 +990,10 @@
 
 # The Witcher: Enhanced Edition https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/
 { "name": "witcher.exe", "type": "Game" }
+
+# The Witch of Fern Island https://store.steampowered.com/app/1550010/The_Witch_of_Fern_Island/
+{ "name": "WitchOfTheFernIsland.exe", "type": "Game" }
+{ "name": "WitchOfTheFernIsland-Win64-Shipping.exe", "type": "Game" }
 
 # The Witness https://store.steampowered.com/app/210970/The_Witness/
 { "name": "witness_d3d11.exe", "type": "Game" }
