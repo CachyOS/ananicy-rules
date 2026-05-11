@@ -112,6 +112,10 @@
 # Mindustry https://store.steampowered.com/app/1127400/Mindustry/
 { "name": "Mindustry", "type": "Game" }
 
+# Manicraft Bedrock Launcher https://minecraft-linux.github.io
+{ "name": "mcpelauncher-ui-qt", "type": "Game" }
+{ "name": "mcpelauncher-client", "type": "Game" }
+
 # Mini Airways https://store.steampowered.com/app/2289650/Mini_Airways__ATC_simulator/
 { "name": "MiniAirways.x86_64", "type": "Game" }
 
