@@ -71,6 +71,10 @@
 # RAD Game Tools binary to play .bik video files
 { "name": "binkplay.exe", "type": "BG_CPUIO" }
 
+# Borderlands Game of the Year https://store.steampowered.com/app/8980/Borderlands_Game_of_the_Year/
+# Tales from the Borderlands https://store.steampowered.com/app/330830/
+{ "name": "Borderlands.exe", "type": "Game" }
+
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
 
