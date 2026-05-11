@@ -26,6 +26,10 @@
 { "name": "equibop", "type": "Chat" }
 { "name": "legcord", "type": "Chat" }
 
+# Fluxer: https://fluxer.app/
+{"name": "fluxer_desktop", "type": "Chat" }
+{"name": "fluxer-canary", "type": "Chat" }
+
 # https://hexchat.github.io
 { "name": "hexchat", "type": "Chat" }
 
