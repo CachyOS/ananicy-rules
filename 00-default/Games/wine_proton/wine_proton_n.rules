@@ -5,6 +5,9 @@
 
 ### N ###
 
+# Naheulbeuk's Dungeon Master https://store.steampowered.com/app/2005160/Naheulbeuks_Dungeon_Master/
+{ "name": "NDM.exe", "type": "Game" }
+
 # nail'd https://store.steampowered.com/app/40380/naild/
 { "name": "Naild_x86.exe", "type": "Game" }
 
@@ -17,8 +20,9 @@
 # NAMCO MUSEUM ARCHIVES Vol 2 https://store.steampowered.com/app/1254620/NAMCO_MUSEUM_ARCHIVES_Vol_2/
 { "name": "NMA2.exe", "type": "Game"}
 
-# NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
-{ "name": "NarakaBladepoint.exe", "type": "Game" }
+# Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
+{ "name": "start.exe", "type": "Game" }
+{ "name": "app.exe", "type": "Game" }
 
 # Narcissu 1st & 2nd https://store.steampowered.com/app/264380/Narcissu_1st__2nd/
 { "name": "narci2.exe", "type": "Game" }
@@ -50,9 +54,18 @@
 # NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS https://store.steampowered.com/app/1020790/NARUTO_X_BORUTO_Ultimate_Ninja_STORM_CONNECTIONS/
 { "name": "NSUNSC.exe", "type": "Game"}
 
+# NASCAR '15 Victory Edition https://store.steampowered.com/app/345890/NASCAR_15_Victory_Edition/
+{ "name": "NASCAR15.exe", "type": "Game" }
+
 # NASCAR 25 https://store.steampowered.com/app/3873970/NASCAR_25/
 { "name": "NASCAR25_Steam.exe", "type": "Game"}
 { "name": "NASCAR25_Steam-Win64-Shipping.exe", "type": "Game"}
+
+# NASCAR Heat 4 https://store.steampowered.com/app/1127980/NASCAR_Heat_4/
+{ "name": "NASCARHeat4.exe", "type": "Game" }
+
+# NASCAR Heat 5 https://store.steampowered.com/app/1265860/NASCAR_Heat_5/
+{ "name": "NascarHeat5.exe", "type": "Game" }
 
 # Nation Red https://store.steampowered.com/app/39800/Nation_Red/
 { "name": "NationRed.exe", "type": "Game" }
@@ -64,6 +77,15 @@
 
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
 { "name": "NavalActionCrashSender.exe", "type": "Game" }
+
+# NavalArt https://store.steampowered.com/app/842780/NavalArt/
+{ "name": "NavalArt.exe", "type": "Game" }
+
+# NAVYFIELD https://store.steampowered.com/app/675560/NAVYFIELD/
+{ "name": "Start Game.exe", "type": "Game" }
+{ "name": "FleetMissionLauncher.exe", "type": "Game" }
+{ "name": "FleetMissionLauncherUS.exe", "type": "Game" }
+{ "name": "FleetMission.exe", "type": "Game" }
 
 # NBA 2K16 https://store.steampowered.com/app/370240/NBA_2K16/
 { "name": "NBA2K16.exe", "type": "Game" }
@@ -114,6 +136,12 @@
 
 # Necesse https://store.steampowered.com/app/1169040/Necesse/
 { "name": "Necesse.exe", "type": "Game" }
+
+# Necroking https://store.steampowered.com/app/2852980/Necroking/
+{ "name": "Necroking.exe", "type": "Game" }
+
+# Necrosmith 2 https://store.steampowered.com/app/2277320/Necrosmith_2/
+{ "name": "Necrosmith2.exe", "type": "Game" }
 
 # NecroVision https://store.steampowered.com/app/7860/NecroVision/
 { "name": "NecroVisioN.exe", "type": "Game" }
@@ -197,11 +225,17 @@
 # Neverending Nightmares https://store.steampowered.com/app/253330/Neverending_Nightmares/
 { "name": "nightmare.exe", "type": "Game" }
 
+# Nevergrind Online https://store.steampowered.com/app/853450/Nevergrind_Online/
+{ "name": "nevergrind-online.exe", "type": "Game" }
+
 # Neverwinter https://store.steampowered.com/app/109600/Neverwinter/
 { "name": "Neverwinter.exe", "type": "Game" }
 
 # Neverwinter Nights: Enhanced Edition https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/
 { "name": "nwmain.exe", "type": "Game" }
+
+# New Age https://store.steampowered.com/app/1033810/
+{ "name": "NewAgeClient.exe", "type": "Game" }
 
 # New Cycle https://store.steampowered.com/app/2198510/New_Cycle/
 { "name": "New Cycle.exe", "type": "Game" }
@@ -218,6 +252,9 @@
 # New World: Aeternum https://store.steampowered.com/app/1063730/New_World_Aeternum/
 { "name": "NewWorld.exe", "type": "Game" }
 
+# Nexomon https://store.steampowered.com/app/1191580/Nexomon/
+{ "name": "Nexomon.exe", "type": "Game" }
+
 # Nexomon: Extinction https://store.steampowered.com/app/1196630/Nexomon_Extinction/
 { "name": "Nexomon Extinction.exe", "type": "Game" }
 
@@ -226,6 +263,9 @@
 
 # NGU IDLE https://store.steampowered.com/app/1147690/NGU_IDLE/
 { "name": "NGUIdle.exe", "type": "Game"}
+
+# NGU INDUSTRIES https://store.steampowered.com/app/1433990/NGU_INDUSTRIES/
+{ "name": "NGU INDUSTRIES.exe", "type": "Game" }
 
 # Nice Day for Fishing https://store.steampowered.com/app/2393160/Nice_Day_for_Fishing/
 { "name": "NiceDayForFishing.exe", "type": "Game"}
@@ -242,12 +282,19 @@
 # NieR Replicant ver.1.22474487139... https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139/
 { "name": "NieR Replicant ver.1.22474487139.exe", "type": "Game" }
 
+# Night Drive: คืนหลอน ซ่อนทาง https://store.steampowered.com/app/3059400/Night_Drive/
+{ "name": "NightDrive.exe", "type": "Game" }
+
 # Nightingale https://store.steampowered.com/app/1928980/Nightingale/
 { "name": "NWX.exe", "type": "Game" }
 { "name": "NWXClient.exe", "type": "Game" }
 
 # Night in the Woods https://store.steampowered.com/app/481510/Night_in_the_Woods/
 { "name": "Night in the Woods.exe", "type": "Game" }
+
+# Night is Coming https://store.steampowered.com/app/1011590/Night_is_Coming/
+{ "name": "Night is Coming.exe", "type": "Game" }
+{ "name": "NiC Launcher.exe", "type": "Game" }
 
 # Nightmare of Decay https://store.steampowered.com/app/1848450/Nightmare_of_Decay/
 { "name": "NightmareOfDecay.exe", "type": "Game" }
@@ -258,6 +305,12 @@
 # Night of the Dead https://store.steampowered.com/app/1377380/Night_of_the_Dead/
 { "name": "LF-Win64-Shipping.exe", "type": "Game" }
 { "name": "LF.exe", "type": "Game" }
+
+# Night Raider https://store.steampowered.com/app/2719290/Night_Raider/
+{ "name": "NightRaider.exe", "type": "Game" }
+
+# NIGHT-RUNNERS PROLOGUE https://store.steampowered.com/app/2707900/NIGHTRUNNERS_PROLOGUE/
+{ "name": "NIGHT-RUNNERS PROLOGUE.exe", "type": "Game" }
 
 # NiGHTS Into Dreams https://store.steampowered.com/app/219950/NiGHTS_Into_Dreams/
 { "name": "Nights.exe", "type": "Game" }
@@ -277,8 +330,17 @@
 # Nihilumbra https://store.steampowered.com/app/252670/Nihilumbra/
 { "name": "Nihilumbra.exe", "type": "Game" }
 
+# Nimble Writer https://store.steampowered.com/app/348200/Nimble_Writer/
+{ "name": "NimWrite.exe", "type": "Game" }
+
 # NIMBY Rails https://store.steampowered.com/app/1134710/NIMBY_Rails/
 { "name": "NIMBYRails.exe", "type": "Game" }
+
+# NIMRODS https://store.steampowered.com/app/2086430/NIMRODS/
+{ "name": "NIMRODS.exe", "type": "Game" }
+
+# Nine-Ball Roulette https://store.steampowered.com/app/3376250/NineBall_Roulette/
+{ "name": "Nine_Ball_Roulette.exe", "type": "Game" }
 
 # Nine Sols https://store.steampowered.com/app/1809540/Nine_Sols/
 { "name": "NineSols.exe", "type": "Game"}
@@ -320,6 +382,9 @@
 # N++ (NPLUSPLUS) https://store.steampowered.com/app/230270/N_NPLUSPLUS/
 { "name": "N++.exe", "type": "Game" }
 
+# Noble Fates https://store.steampowered.com/app/1769420/Noble_Fates/
+{ "name": "Noble Fates.exe", "type": "Game" }
+
 # Nobody Saves the World https://store.steampowered.com/app/1432050/Nobody_Saves_the_World/
 { "name": "NStW_x64.exe", "type": "Game" }
 
@@ -336,6 +401,23 @@
 # NOBUNAGA'S AMBITION: Awakening https://store.steampowered.com/app/1336980/NOBUNAGAS_AMBITION_Awakening/
 { "name": "NOBU16.exe", "type": "Game"}
 
+# NOBUNAGA'S AMBITION: Kakushin with Power Up Kit https://store.steampowered.com/app/363090/NOBUNAGAS_AMBITION_Kakushin_with_Power_Up_Kit/
+{ "name": "N12LauncherPK.exe", "type": "Game" }
+{ "name": "NOBU12PK.exe", "type": "Game" }
+
+# NOBUNAGA'S AMBITION: Reppuden with Power Up Kit https://store.steampowered.com/app/628110/NOBUNAGAS_AMBITION_Reppuden_with_Power_Up_Kit/
+{ "name": "Nobunaga8WPK_Launcher.exe", "type": "Game" }
+{ "name": "Nobunaga8WPK.exe", "type": "Game" }
+
+# NOBUNAGA’S AMBITION: Shouseiroku with Power Up Kit https://store.steampowered.com/app/628100/NOBUNAGAS_AMBITION_Shouseiroku_with_Power_Up_Kit/
+{ "name": "Nobunaga7WPK_Launcher.exe", "type": "Game" }
+{ "name": "Nobunaga7WPK.exe", "type": "Game" }
+
+# NOBUNAGA'S AMBITION: Souzou https://store.steampowered.com/app/292990/NOBUNAGAS_AMBITION_Souzou/
+{ "name": "Nobu14Launcher.exe", "type": "Game" }
+{ "name": "NOBU1.exe", "type": "Game" }
+{ "name": "NOBU14.exe", "type": "Game" }
+
 # NOBUNAGA'S AMBITION: Sphere of Influence - Ascension https://store.steampowered.com/app/375450/NOBUNAGAS_AMBITION_Sphere_of_Influence__Ascension/
 { "name": "NOBU14SR_EN.exe", "type": "Game"}
 { "name": "NOBU14SR_JP.exe", "type": "Game"}
@@ -346,6 +428,18 @@
 { "name": "NOBU15_JP.exe", "type": "Game"}
 { "name": "NOBU15_TC.exe", "type": "Game"}
 
+# NOBUNAGA'S AMBITION: Tendou with Power Up Kit https://store.steampowered.com/app/363110/NOBUNAGAS_AMBITION_Tendou_with_Power_Up_Kit/
+{ "name": "N13LauncherPK.exe", "type": "Game" }
+{ "name": "NOBU13PK.exe", "type": "Game" }
+
+# NOBUNAGA'S AMBITION: Tenkasousei with Power Up Kit https://store.steampowered.com/app/628140/NOBUNAGAS_AMBITION_Tenkasousei_with_Power_Up_Kit/
+{ "name": "Nobunaga11WPK_Launcher.exe", "type": "Game" }
+{ "name": "Nobunaga11WPK.exe", "type": "Game" }
+
+# NOBUNAGA'S AMBITION: Tenshouki with Power Up Kit HD Version https://store.steampowered.com/app/370730/NOBUNAGAS_AMBITION_Tenshouki_with_Power_Up_Kit_HD_Version/
+{ "name": "N6HDLauncher_JP.exe", "type": "Game" }
+{ "name": "NOBU6HD_JP.exe", "type": "Game" }
+
 # Noctuary https://store.steampowered.com/app/2143680/Noctuary/
 { "name": "Noctuary.exe", "type": "Game" }
 
@@ -355,11 +449,17 @@
 # No, I'm not a Human https://store.steampowered.com/app/3180070/No_Im_not_a_Human/
 { "name": "NoImNotAHuman.exe", "type": "Game"}
 
+# Noise-o-matic https://store.steampowered.com/app/2479000/Noiseomatic/
+{ "name": "Noise-o-matic.exe", "type": "Game" }
+
 # Noita https://store.steampowered.com/app/881100/Noita/
 { "name": "noita.exe", "type": "Game" }
 
 # NoLimits 2 Roller Coaster Simulation https://store.steampowered.com/app/301320/NoLimits_2_Roller_Coaster_Simulation/
 { "name": "nolimits2stm.exe", "type": "Game" }
+
+# Nomad Idle https://store.steampowered.com/app/3042190/Nomad_Idle/
+{ "name": "NomadIdle.exe", "type": "Game" }
 
 # Nomad Survival https://store.steampowered.com/app/1929870/Nomad_Survival/
 { "name": "Nomad Survival.exe", "type": "Game" }
@@ -372,6 +472,9 @@
 
 # No More Room in Hell 2 https://store.steampowered.com/app/292000/No_More_Room_in_Hell_2/
 { "name": "NMRiH2.exe", "type": "Game" }
+
+# None Shall Intrude https://store.steampowered.com/app/2518630/None_Shall_Intrude/
+{ "name": "NSI.exe", "type": "Game" }
 
 # No One Survived https://store.steampowered.com/app/1963370/No_One_Survived/
 { "name": "WRSH.exe", "type": "Game" }
@@ -402,6 +505,11 @@
 # Nosferatu: The Wrath of Malachi https://store.steampowered.com/app/283290/Nosferatu_The_Wrath_of_Malachi/
 { "name": "Nosferatu.exe", "type": "Game" }
 
+# NosTale https://store.steampowered.com/app/550470/NosTale__Anime_MMORPG/
+{ "name": "NostaleLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "NostaleClientX.exe", "type": "Game" }
+{ "name": "NostaleClient.exe", "type": "Game" }
+
 # NO STRANGERS https://store.steampowered.com/app/3127650/NO_STRANGERS/
 { "name": "NoStrangers.exe", "type": "Game" }
 
@@ -411,6 +519,9 @@
 
 # Not For Broadcast https://store.steampowered.com/app/1147550/Not_For_Broadcast/
 { "name": "NotForBroadcast.exe", "type": "Game" }
+
+# Nothing https://store.steampowered.com/app/2696480/Nothing/
+{ "name": "Nothing.exe", "type": "Game" }
 
 # No Time to Relax https://store.steampowered.com/app/829660/No_Time_to_Relax/
 { "name": "No Time to Relax.exe", "type": "Game" }
@@ -463,3 +574,6 @@
 
 # Nunholy https://store.steampowered.com/app/2854740/Nunholy/
 { "name": "Nunholy.exe", "type": "Game" }
+
+# Nya Nya Nya Girls (ʻʻʻ)_(=^･ω･^=)_(ʻʻʻ) https://store.steampowered.com/app/963330/Nya_Nya_Nya_Girls__o/
+{ "name": "Nya Nya Nya Girls.exe", "type": "Game" }

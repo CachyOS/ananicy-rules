@@ -4,3 +4,6 @@
 # Cheat Engine https://www.cheatengine.org/
 { "name": "Cheat Engine.exe", "type": "BG_CPUIO" }
 { "name": "cheatengine-x86_64", "type": "BG_CPUIO" }
+
+# ProtonPlus https://github.com/Vysp3r/ProtonPlus
+{ "name": "protonplus", "type": "BG_CPUIO" }
