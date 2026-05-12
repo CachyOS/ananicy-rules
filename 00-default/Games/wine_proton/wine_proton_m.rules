@@ -765,6 +765,10 @@
 # Mixolumia https://store.steampowered.com/app/1414020/Mixolumia/
 { "name": "Mixolumia.exe", "type": "Game" }
 
+# Mixtape https://store.steampowered.com/app/2582320/Mixtape/
+{ "name": "Mixtape.exe", "type": "Game" }
+{ "name": "Mixtape-Win64-Shipping.exe", "type": "Game" }
+
 # MMORPG Tycoon 2 https://store.steampowered.com/app/486860/MMORPG_Tycoon_2/
 { "name": "MT2.exe", "type": "Game" }
 
@@ -1059,10 +1063,6 @@
 
 # Mountain https://store.steampowered.com/app/313340/Mountain/
 { "name": "Mountain.exe", "type": "Game" }
-
-# Mixtape https://store.steampowered.com/app/2582320/Mixtape/
-{ "name": "Mixtape.exe", "type": "Game" }
-{ "name": "Mixtape-Win64-Shipping.exe", "type": "Game" }
 
 # Mount & Blade https://store.steampowered.com/app/22100/Mount__Blade/
 { "name": "mount&blade.exe", "type": "Game" }
