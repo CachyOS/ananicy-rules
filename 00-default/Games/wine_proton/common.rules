@@ -102,6 +102,11 @@
 # Onmyoji https://store.steampowered.com/app/551170/Onmyoji/
 { "name": "Client.exe", "type": "Game" }
 
+# SAO Utils: Beta https://store.steampowered.com/app/786520/SAO_Utils_Beta/
+# Copa Petrobras de Marcas https://store.steampowered.com/app/359800/Copa_Petrobras_de_Marcas/
+# Sword and Fairy 4 https://steamdb.info/app/681820/
+{ "name": "Config.exe", "type": "Game" }
+
 # Contraband Police https://store.steampowered.com/app/756800/Contraband_Police/
 # Contraband Police: Prologue https://store.steampowered.com/app/1396240/Contraband_Police_Prologue/
 { "name": "ContrabandPolice.exe", "type": "Game"}
@@ -203,6 +208,7 @@
 # Empire of Sin https://store.steampowered.com/app/604540/Empire_of_Sin/
 # Age of Wonders: Planetfall https://store.steampowered.com/app/718850/Age_of_Wonders_Planetfall/
 # Millennia https://store.steampowered.com/app/1268590/Millennia/
+# Star Trek: Infinite https://store.steampowered.com/app/1622900/Star_Trek_Infinite/
 { "name": "dowser.exe", "type": "BG_CPUIO" }
 
 # Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
@@ -328,6 +334,8 @@
 # The Sexy Brutale https://store.steampowered.com/app/552590/The_Sexy_Brutale/
 # Realm Revolutions https://store.steampowered.com/app/764030/Realm_Revolutions/
 # Onimusha: Warlords https://store.steampowered.com/app/761600/
+# SRPG Studio https://store.steampowered.com/app/857320/SRPG_Studio/
+# SoulSaverOnline https://store.steampowered.com/app/542590/SoulSaverOnline/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -387,6 +395,7 @@
 # Mistwood Heroes https://store.steampowered.com/app/573210/Mistwood_Heroes/
 # LISA https://store.steampowered.com/app/335670/LISA_The_Painful/
 # Tales of the Black Forest https://store.steampowered.com/app/1093910/Tales_of_the_Black_Forest/
+# Star Knightess Aura https://store.steampowered.com/app/1827650/Star_Knightess_Aura/
 { "name": "Game.exe", "type": "Game" }
 
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
@@ -544,11 +553,13 @@
 
 # Wolfenstein 3D https://store.steampowered.com/app/2270/Wolfenstein_3D/
 # Another Brick in The Mall https://store.steampowered.com/app/521150/Another_Brick_in_The_Mall/
+# Sword and Fairy 4 https://steamdb.info/app/681820/
 { "name": "launch.exe", "type": "Game" }
 
 # Some KOEI TECMO Franchise's Game's
 # DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
 # Dynasty Warriors 8 Empires https://store.steampowered.com/app/322520/DYNASTY_WARRIORS_8_Empires/
+# SAO Utils: Beta https://store.steampowered.com/app/786520/SAO_Utils_Beta/
 { "name": "Launch.exe", "type": "Game" }
 
 # Some KOEI TECMO Franchise's Game's
@@ -576,6 +587,10 @@
 # Hero Plus https://store.steampowered.com/app/747920/Hero_Plus/
 # Order of Battle: World War II https://store.steampowered.com/app/312450/Order_of_Battle_World_War_II/
 # ICBM: Escalation https://store.steampowered.com/app/2647680/ICBM_Escalation/
+# Strategic Command: World War I https://store.steampowered.com/app/1096930/Strategic_Command_World_War_I/
+# Strategic Command WWII: War in Europe https://store.steampowered.com/app/593030/Strategic_Command_WWII_War_in_Europe/
+# Stardom 3 Deluxe https://store.steampowered.com/app/1611410/Stardom_3/
+# Shadow Empire https://store.steampowered.com/app/1154840/Shadow_Empire/
 { "name": "Launcher.exe", "type": "Game" }
 
 # Closers https://store.steampowered.com/app/215830/Closers/
@@ -590,6 +605,7 @@
 # Ironsight https://store.steampowered.com/app/783770/Ironsight/
 # Live2DViewerEX https://store.steampowered.com/app/616720/Live2DViewerEX/
 # Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
+# Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
 { "name": "launcher.exe", "type": "Game" }
 
 # King's Bounty: Warriors of the North https://store.steampowered.com/app/203350/Kings_Bounty_Warriors_of_the_North/
@@ -668,6 +684,14 @@
 # MXGP - The Official Motocross Videogame https://store.steampowered.com/app/256370/MXGP__The_Official_Motocross_Videogame/
 # MXGP 24: The Official Game https://store.steampowered.com/app/2603040/MXGP_24_The_Official_Game/
 { "name": "MXGP.exe", "type": "Game" }
+
+# Sunset Motel https://store.steampowered.com/app/2616140/Sunset_Motel/
+# Sunset Motel: Prologue https://store.steampowered.com/app/2905970/Sunset_Motel_Prologue/
+{ "name": "MyMotel.exe", "type": "Game" }
+
+# Sunset Motel https://store.steampowered.com/app/2616140/Sunset_Motel/
+# Sunset Motel: Prologue https://store.steampowered.com/app/2905970/Sunset_Motel_Prologue/
+{ "name": "MyMotel-Win64-Shipping.exe", "type": "Game" }
 
 # Nightmare Reaper https://store.steampowered.com/app/1051690/Nightmare_Reaper/
 # Erzurum https://store.steampowered.com/app/1392060/Erzurum/
@@ -865,6 +889,10 @@
 # shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
 { "name": "shapez 2.exe", "type": "Game" }
 
+# Sherlock Holmes: Crimes and Punishments https://store.steampowered.com/app/241260/Sherlock_Holmes_Crimes_and_Punishments/
+# Sherlock Holmes: The Devil's Daughter https://store.steampowered.com/app/350640/Sherlock_Holmes_The_Devils_Daughter/
+{ "name": "Sherlock.exe", "type": "Game" }
+
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
 { "name": "ShooterGame_BE.exe", "type": "Game" }
@@ -872,6 +900,10 @@
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
 { "name": "ShooterGame.exe", "type": "Game" }
+
+# Summer Pockets https://store.steampowered.com/app/897220/Summer_Pockets/
+# CLANNAD https://store.steampowered.com/app/324160/CLANNAD/
+{ "name": "SiglusEngine_Steam.exe", "type": "Game" }
 
 # The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
@@ -932,6 +964,10 @@
 # SUPERHOT: MIND CONTROL DELETE https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
 { "name": "SUPERHOT-Launcher.exe", "type": "Game" }
 
+# Super Mega Baseball 3 https://store.steampowered.com/app/988910/Super_Mega_Baseball_3/
+# Super Mega Baseball 4 https://store.steampowered.com/app/1487210/Super_Mega_Baseball_4/
+{ "name": "supermegabaseball.exe", "type": "Game" }
+
 # Supreme Commander: Forged Alliance https://store.steampowered.com/app/9420/Supreme_Commander_Forged_Alliance/
 # Supreme Commander https://store.steampowered.com/app/9350/Supreme_Commander/
 { "name": "SupremeCommander.exe", "type": "Game" }
@@ -984,6 +1020,10 @@
 # The Joy of Creation Demo https://steamdb.info/app/3107070/
 # Erzurum https://store.steampowered.com/app/1392060/Erzurum/
 { "name": "UE4Game-Win64-Shipping.exe", "type": "Game" }
+
+# Unreal Gold https://store.steampowered.com/app/13250/Unreal_Gold/
+# Snooker 19 https://store.steampowered.com/app/887800/Snooker_19/
+{ "name": "Unreal.exe", "type": "Game" }
 
 # Unturned https://store.steampowered.com/app/304930/Unturned/
 # Unturned Dedicated Server https://store.steampowered.com/app/1110390/Unturned__Dedicated_Server/
