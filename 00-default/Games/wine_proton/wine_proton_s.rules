@@ -65,7 +65,6 @@
 
 # Saleblazers https://store.steampowered.com/app/1419850/Saleblazers/
 { "name": "Saleblazers.exe", "type": "Game" }
-{ "name": "Saleblazers.exe", "type": "Game" }
 
 # Sally Face - Episode One https://store.steampowered.com/app/541570/Sally_Face__Episode_One/
 { "name": "Sally Face.exe", "type": "Game" }
@@ -140,8 +139,6 @@
 { "name": "NERvSteam.exe", "type": "Game" }
 
 # SAO Utils: Beta https://store.steampowered.com/app/786520/SAO_Utils_Beta/
-{ "name": "Launch.exe", "type": "Game" }
-{ "name": "Config.exe", "type": "Game" }
 { "name": "SAO Utils.exe", "type": "Game" }
 
 # Sapiens https://store.steampowered.com/app/1060230/Sapiens/
@@ -217,7 +214,6 @@
 { "name": "UI_Test-Win64-Shipping.exe", "type": "Game" }
 
 # Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
-{ "name": "launcher.exe", "type": "Game" }
 { "name": "YGOnline.exe", "type": "Game" }
 
 # Scooby Doo! & Looney Tunes Cartoon Universe: Adventure https://store.steampowered.com/app/294280/Scooby_Doo__Looney_Tunes_Cartoon_Universe_Adventure/
@@ -473,7 +469,6 @@
 { "name": "ShadowCorridor2.exe", "type": "Game" }
 
 # Shadow Empire https://store.steampowered.com/app/1154840/Shadow_Empire/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "ShadowEmpire.exe", "type": "Game" }
 
 # Shadow Gambit: The Cursed Crew https://store.steampowered.com/app/1545560/Shadow_Gambit_The_Cursed_Crew/
@@ -612,15 +607,11 @@
 { "name": "SH9.exe", "type": "Game" }
 { "name": "SHCO.exe", "type": "Game" }
 
-# Sherlock Holmes: Crimes and Punishments https://store.steampowered.com/app/241260/Sherlock_Holmes_Crimes_and_Punishments/
-{ "name": "Sherlock.exe", "type": "Game" }
-
 # Sherlock Holmes The Awakened https://store.steampowered.com/app/1949030/Sherlock_Holmes_The_Awakened/
 { "name": "SH3RE-Win64-Test.exe", "type": "Game" }
 { "name": "SHTA.exe", "type": "Game" }
 
 # Sherlock Holmes: The Devil's Daughter https://store.steampowered.com/app/350640/Sherlock_Holmes_The_Devils_Daughter/
-{ "name": "Sherlock.exe", "type": "Game" }
 { "name": "SH8Game-Win64-Shipping-Steam.exe", "type": "Game" }
 { "name": "SH8Game-Steam.exe", "type": "Game" }
 { "name": "SH8Game-NoEditor.exe", "type": "Game" }
@@ -1066,7 +1057,6 @@
 # Snooker 19 https://store.steampowered.com/app/887800/Snooker_19/
 { "name": "Snooker19.exe", "type": "Game" }
 { "name": "Unreal-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Unreal.exe", "type": "Game" }
 
 # SnowRunner https://store.steampowered.com/app/1465360/SnowRunner/
 { "name": "SnowRunner.exe", "type": "Game" }
@@ -1240,7 +1230,6 @@
 
 # SoulSaverOnline https://store.steampowered.com/app/542590/SoulSaverOnline/
 { "name": "SoulSaver.exe", "type": "Game" }
-{ "name": "game.exe", "type": "Game" }
 
 # Soulstice https://store.steampowered.com/app/1602080/Soulstice/
 { "name": "Soulstice.exe", "type": "Game" }
@@ -1498,7 +1487,6 @@
 # SRPG Studio https://store.steampowered.com/app/857320/SRPG_Studio/
 { "name": "srpgstudio.exe", "type": "Game" }
 { "name": "game_s.exe", "type": "Game" }
-{ "name": "game.exe", "type": "Game" }
 
 # Stacking https://store.steampowered.com/app/115110/Stacking/
 { "name": "Stack.exe", "type": "Game" }
@@ -1574,7 +1562,6 @@
 { "name": "Stardew Valley.exe", "type": "Game" }
 
 # Stardom 3 Deluxe https://store.steampowered.com/app/1611410/Stardom_3/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "Stardom3.exe", "type": "Game" }
 
 # StarDrive https://store.steampowered.com/app/220660/StarDrive/
@@ -1588,9 +1575,6 @@
 
 # Starfield https://store.steampowered.com/app/1716740/Starfield/
 { "name": "Starfield.exe", "type": "Game" }
-
-# Star Knightess Aura https://store.steampowered.com/app/1827650/Star_Knightess_Aura/
-{ "name": "Game.exe", "type": "Game" }
 
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "StarMade-Launcher.exe", "type": "Game" }
@@ -1653,7 +1637,6 @@
 { "name": "StarTradersFrontiers.exe", "type": "Game" }
 
 # Star Trek: Infinite https://store.steampowered.com/app/1622900/Star_Trek_Infinite/
-{ "name": "dowser.exe", "type": "Game" }
 { "name": "hornblower_RD.exe", "type": "Game" }
 { "name": "infinite.exe", "type": "Game" }
 
@@ -1920,11 +1903,9 @@
 { "name": "SOPFFO.exe", "type": "Game" }
 
 # Strategic Command: World War I https://store.steampowered.com/app/1096930/Strategic_Command_World_War_I/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "SC3-WWI.exe", "type": "Game" }
 
 # Strategic Command WWII: War in Europe https://store.steampowered.com/app/593030/Strategic_Command_WWII_War_in_Europe/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "SC3-WWII War in Europe.exe", "type": "Game" }
 
 # Stray https://store.steampowered.com/app/1332010/Stray/
@@ -2115,9 +2096,6 @@
 # SUMMERHOUSE https://store.steampowered.com/app/2533960/SUMMERHOUSE/
 { "name": "SUMMERHOUSE.exe", "type": "Game" }
 
-# Summer Pockets https://store.steampowered.com/app/897220/Summer_Pockets/
-{ "name": "SiglusEngine_Steam.exe", "type": "Game" }
-
 # Summoners War https://store.steampowered.com/app/2426960/Summoners_War/
 { "name": "SummonersWar.exe", "type": "Game" }
 
@@ -2135,14 +2113,6 @@
 
 # Sunless Skies https://store.steampowered.com/app/596970/Sunless_Skies_Sovereign_Edition/
 { "name": "Sunless Skies.exe", "type": "Game" }
-
-# Sunset Motel https://store.steampowered.com/app/2616140/Sunset_Motel/
-{ "name": "MyMotel.exe", "type": "Game" }
-{ "name": "MyMotel-Win64-Shipping.exe", "type": "Game" }
-
-# Sunset Motel: Prologue https://store.steampowered.com/app/2905970/Sunset_Motel_Prologue/
-{ "name": "MyMotel.exe", "type": "Game" }
-{ "name": "MyMotel-Win64-Shipping.exe", "type": "Game" }
 
 # Sunset Overdrive https://store.steampowered.com/app/847370/Sunset_Overdrive/
 { "name": "Sunset.exe", "type": "Game" }
@@ -2226,12 +2196,6 @@
 # Super Meat Boy 3D https://store.steampowered.com/app/3288210/Super_Meat_Boy_3D/
 { "name": "SMB.exe", "type": "Game" }
 { "name": "SMB-Win64-Shipping.exe", "type": "Game" }
-
-# Super Mega Baseball 3 https://store.steampowered.com/app/988910/Super_Mega_Baseball_3/
-{ "name": "supermegabaseball.exe", "type": "Game" }
-
-# Super Mega Baseball 4 https://store.steampowered.com/app/1487210/Super_Mega_Baseball_4/
-{ "name": "supermegabaseball.exe", "type": "Game" }
 
 # SuperPower 2 Steam Edition https://store.steampowered.com/app/282400/SuperPower_2_Steam_Edition/
 { "name": "joshua.exe", "type": "Game" }
@@ -2325,8 +2289,6 @@
 { "name": "PAL3.exe", "type": "Game" }
 
 # Sword and Fairy 4 https://steamdb.info/app/681820/
-{ "name": "Config.exe", "type": "Game" }
-{ "name": "launch.exe", "type": "Game" }
 { "name": "Pal4Revoke.exe", "type": "Game" }
 
 # Sword and Fairy 5 Prequel https://steamdb.info/app/681840/

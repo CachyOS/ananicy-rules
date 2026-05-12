@@ -596,9 +596,6 @@
 # Clank! https://store.steampowered.com/app/1722870/Clank/
 { "name": "Clank.exe", "type": "Game" }
 
-# CLANNAD https://store.steampowered.com/app/324160/CLANNAD/
-{ "name": "SiglusEngine_Steam.exe", "type": "Game"}
-
 # Clash: Artifacts of Chaos https://store.steampowered.com/app/1430680/Clash_Artifacts_of_Chaos/
 { "name": "Clash.exe", "type": "Game" }
 { "name": "Clash-Win64-Shipping.exe", "type": "Game" }
@@ -897,7 +894,6 @@
 
 # Copa Petrobras de Marcas https://store.steampowered.com/app/359800/Copa_Petrobras_de_Marcas/
 { "name": "Marcas.exe", "type": "Game" }
-{ "name": "Config.exe", "type": "Game" }
 
 # Copycat https://store.steampowered.com/app/1622350/Copycat/
 { "name": "Copycat.exe", "type": "Game"}
