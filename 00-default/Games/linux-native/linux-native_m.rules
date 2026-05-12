@@ -34,6 +34,10 @@
 # Maniac https://store.steampowered.com/app/1482380/Maniac/
 { "name": "maniac", "type": "Game" }
 
+# Manicraft Bedrock Launcher https://minecraft-linux.github.io
+{ "name": "mcpelauncher-ui-qt", "type": "Game" }
+{ "name": "mcpelauncher-client", "type": "Game" }
+
 # Manual Samuel - Last Tuesday Edition https://store.steampowered.com/app/504130/Manual_Samuel__Last_Tuesday_Edition/
 { "name": "Manual Samuel.x86", "type": "Game" }
 { "name": "Manual Samuel.x86_64", "type": "Game" }
@@ -111,10 +115,6 @@
 
 # Mindustry https://store.steampowered.com/app/1127400/Mindustry/
 { "name": "Mindustry", "type": "Game" }
-
-# Manicraft Bedrock Launcher https://minecraft-linux.github.io
-{ "name": "mcpelauncher-ui-qt", "type": "Game" }
-{ "name": "mcpelauncher-client", "type": "Game" }
 
 # Mini Airways https://store.steampowered.com/app/2289650/Mini_Airways__ATC_simulator/
 { "name": "MiniAirways.x86_64", "type": "Game" }

@@ -191,6 +191,9 @@
 # HUNTDOWN https://store.steampowered.com/app/598550/HUNTDOWN/
 { "name": "Huntdown.x86_64", "type": "Game" }
 
+# Huntdown: Overtime https://store.steampowered.com/app/2473350/HUNTDOWN_OVERTIME/
+{ "name": "Huntdown_Overtime.x86_64", "type": "Game" }
+
 # Hurtworld https://store.steampowered.com/app/393420/Hurtworld/
 { "name": "Hurtworld.x86_64", "type": "Game" }
 
@@ -205,6 +208,3 @@
 
 # Hytale https://hytale.com/
 { "name": "HytaleClient", "type": "Game" }
-
-# Huntdown: Overtime https://store.steampowered.com/app/2473350/HUNTDOWN_OVERTIME/
-{ "name": "Huntdown_Overtime.x86_64", "type": "Game" }
