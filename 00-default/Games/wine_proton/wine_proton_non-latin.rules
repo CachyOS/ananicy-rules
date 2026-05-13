@@ -47,9 +47,6 @@
 # Fù jiǎ tiānxià 5 富甲天下5 https://store.steampowered.com/app/2490910/5/
 { "name": "M3K5.exe", "type": "Game" }
 
-# Gōng shàng líng xiāo bǎodiàn 攻上凌霄宝殿 https://store.steampowered.com/app/3578480/_/
-{ "name": "Game.exe", "type": "Game" }
-
 # Guà jī èmó/IdleDevils 挂姬恶魔/IdleDevils https://store.steampowered.com/app/2226700/_IDLE_DEVILS/
 { "name": "IdleDevils.exe", "type": "Game" }
 
@@ -135,23 +132,19 @@
 { "name": "Poq.exe", "type": "Game" }
 
 # Sānguó qúnyīng chuán 三国群英传 https://store.steampowered.com/app/1437820/Heroes_of_the_Three_Kingdoms/
-{ "name": "LaunchSango.exe", "type": "Game" }
-{ "name": "SGConfig.exe", "type": "Game" }
+{ "name": "Sango.exe", "type": "Game" }
 
 # Sānguó qúnyīng chuán 三国群英传2 https://store.steampowered.com/app/1437830/Heroes_of_the_Three_Kingdoms_2/
 { "name": "Sango2.exe", "type": "Game" }
 
 # Sānguó qúnyīng chuán 3 三国群英传3 https://store.steampowered.com/app/1437840/Heroes_of_the_Three_Kingdoms_3/
-{ "name": "LaunchSango.exe", "type": "Game" }
-{ "name": "SGConfig.exe", "type": "Game" }
+{ "name": "Sango3.exe", "type": "Game" }
 
 # Sānguó qúnyīng chuán 5 三国群英传5 https://store.steampowered.com/app/1437860/Heroes_of_the_Three_Kingdoms_5/
-{ "name": "LaunchSango.exe", "type": "Game" }
-{ "name": "SGConfig.exe", "type": "Game" }
+{ "name": "Sango5.exe", "type": "Game" }
 
 # Sānguó qúnyīng chuán 6 三国群英传6 https://store.steampowered.com/app/1437870/Heroes_of_the_Three_Kingdoms_6/
-{ "name": "LaunchSango.exe", "type": "Game" }
-{ "name": "SGConfig.exe", "type": "Game" }
+{ "name": "Sango6.exe", "type": "Game" }
 
 # Sānguó qúnyīng chuán 三国群英传8 Kingdom Heroes 8 https://store.steampowered.com/app/875210/Kingdom_Heroes_8/
 { "name": "SG8.exe", "type": "Game" }
@@ -171,9 +164,6 @@
 
 # Shǒu bàn màoxiǎn tuán 手办冒险团 https://steamdb.info/app/2996570/
 { "name": "GNSBT.exe", "type": "Game" }
-
-# Shuā a shuā 刷啊刷 https://store.steampowered.com/app/2897560/_/
-{ "name": "Game.exe", "type": "Game" }
 
 # “Shǔshān: Chū zhāng” mǎi duàn bǎn《蜀山：初章》买断版 https://store.steampowered.com/app/1461810/_/
 { "name": "ShuShan.exe", "type": "Game" }
@@ -198,9 +188,6 @@
 # Tuī bì yǒngzhě 推币勇者 https://store.steampowered.com/app/3036010/Coin_Push_RPG/
 { "name": "CoinPushRPG.exe", "type": "Game" }
 { "name": "CoinPushRPG-Win64-Shipping.exe", "type": "Game" }
-
-# Tūnshí kǒngmíng chuán Tunshi Kongming Legends 吞食孔明传 Tunshi Kongming Legends https://store.steampowered.com/app/929200/_Tunshi_Kongming_Legends/
-{ "name": "game.exe", "type": "Game" }
 
 # Wǒ láizì jiānghú 我来自江湖 https://store.steampowered.com/app/1058770/_From_Jianghu/
 { "name": "FromJianghu.exe", "type": "Game" }
@@ -234,9 +221,6 @@
 # Xiá zhī dào (PathOfWuxia) 俠之道(PathOfWuxia) https://store.steampowered.com/app/1189630/Path_Of_Wuxia/
 { "name": "PathOfWuxia.exe", "type": "Game" }
 
-# Xīngjì gōngyèguó 星际工业国 https://store.steampowered.com/app/2423620/Space_industrial_empire/
-{ "name": "game.exe", "type": "Game" }
-
 # Xīng mèng guǐjì Star Dream Journey 星梦轨迹 Star Dream Journey https://store.steampowered.com/app/3373900/Star_Dream_Journey/
 { "name": "xmgj.exe", "type": "Game" }
 
@@ -250,9 +234,6 @@
 # Xiūxiān: Dàn xìtǒng ràng wǒ zhòngtián 修仙：但系统让我种田 https://store.steampowered.com/app/3060630/Immortal_Farmer_Systems_Mandate/
 { "name": "Immortal.exe", "type": "Game" }
 
-# Xiūxiān lìzhì chuán 修仙立志传 https://store.steampowered.com/app/1649730/xiuzhen_idle/
-{ "name": "game.exe", "type": "Game" }
-
 # Yì jiàn jiānghú 奕剑江湖 https://store.steampowered.com/app/2701510/_/
 { "name": "JungleGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "JungleGame.exe", "type": "Game" }
@@ -262,9 +243,6 @@
 
 # yuè yuán zhī yè 月圆之夜 (Night of Full Moon) https://store.steampowered.com/app/769560/_Night_of_Full_Moon/
 { "name": "Night of the Full Moon.exe", "type": "Game" }
-
-# Zài shuā yī bǎ PlayAgain 再刷一把 PlayAgain https://store.steampowered.com/app/2059790/_PlayAgain/
-{ "name": "Game.exe", "type": "Game" }
 
 # Zhǎn yāo xíng 斩妖行 Eastern Exorcist https://store.steampowered.com/app/1120810/Eastern_Exorcist/
 { "name": "Exorcist.exe", "type": "Game" }
@@ -280,9 +258,6 @@
 
 # zhuō miàn Ko Nekomusume 桌面小猫娘 https://store.steampowered.com/app/3449850/Desktop_Kitten_Girl/
 { "name": "Desktop Kitten Girl.exe", "type": "Game" }
-
-# Zhū tiān shuā bǎo lù 诸天刷宝录 https://store.steampowered.com/app/2776450/Multiverse_Loot_Hunter/
-{ "name": "game.exe", "type": "Game" }
 
 # Zuìhòu de xiūxiān zhě 最后的修仙者 https://store.steampowered.com/app/3486240/_/
 { "name": "the last immortals.exe", "type": "Game" }
