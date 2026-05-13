@@ -20,6 +20,9 @@
 # Walking Zombie 2 https://store.steampowered.com/app/965200/Walking_Zombie_2/
 { "name": "The Walking Zombie 2.exe", "type": "Game" }
 
+# Walk of Life https://store.steampowered.com/app/1910150/Walk_of_Life/
+{ "name": "Walk of Life.exe", "type": "Game" }
+
 # Wallpaper Engine https://store.steampowered.com/app/431960/Wallpaper_Engine/
 { "name": "wallpaper64.exe", "type": "BG_CPUIO" }
 
@@ -40,6 +43,9 @@
 
 # Wantless https://store.steampowered.com/app/1807090/Wantless__Solace_at_Worlds_End/
 { "name": "Wantless.exe", "type": "Game" }
+
+# Wardrum https://store.steampowered.com/app/2680670/Wardrum/
+{ "name": "Wardrum.exe", "type": "Game" }
 
 # Warface: Clutch https://store.steampowered.com/app/291480/Warface_Clutch/
 { "name": "WarfaceClutchSteamLoader.exe", "type": "Game" }
@@ -330,6 +336,10 @@
 # Werewolf: The Apocalypse - Earthblood https://store.steampowered.com/app/679110/Werewolf_The_Apocalypse__Earthblood/
 { "name": "WW.exe", "type": "Game" }
 { "name": "WW-Win64-Shipping.exe", "type": "Game" }
+
+# Werewolf: The Inner Beast https://store.steampowered.com/app/4235230/Werewolf_The_Inner_Beast/
+{ "name": "WTIB.exe", "type": "Game" }
+{ "name": "WTIB-Win64-Shipping.exe", "type": "Game" }
 
 # Westerado: Double Barreled https://store.steampowered.com/app/275200/Westerado_Double_Barreled/
 { "name": "WesteradoDB.exe", "type": "Game" }
