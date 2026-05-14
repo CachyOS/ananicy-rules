@@ -4,7 +4,12 @@
 # don't use this script to sort common.rules and non-latin rules
 # use it to sort files "from a to z", "the" and numerical
 
-# Usage: ./sort_elements.sh wine_proton_a.rules
+# experimental: script can also sort japanese/chinese entries. requires perl.
+# to sort chinese/japanese entries they should have pinyin(for chinese) and romaji (for japanese) as prefix (see examples in wine_proton_non-latin.rules)
+# Make a temporary file, for example chinese.rules and move entries there after the sort move entries back to corresponding file
+# Usage: ./sort-games.sh use-diacritics chinese.rules
+
+# Usage: ./sort-games.sh wine_proton_a.rules
 #
 # Usage to sort multiple files with single command (a to z) numerical and the. run this script in the root of the repo
 # 
@@ -19,6 +24,7 @@
 
 parse_and_sort() {
     local file="$1"
+    local use_diacritics="$2"
     local -A ids names jsons
     local current_id="" current_name="" current_jsons=""
 
@@ -39,7 +45,11 @@ parse_and_sort() {
 
     make_id() {
         local title="$1"
-        echo "$title" | sed 's/http.*//' | sed 's/[^a-zA-Z0-9 ]//g' | tr -d ' ' | tr '[:upper:]' '[:lower:]'
+        if [[ -n "$use_diacritics" ]]; then
+            echo "$title" | sed 's/https\?:[^ ]*//' | perl -CSD -pe 's/[^\x{0000}-\x{024F} ]//g; s/[^a-zA-Z0-9\x{00C0}-\x{024F} ]//g' | tr '[:upper:]' '[:lower:]' | tr -d ' '
+        else
+            echo "$title" | sed 's/http.*//' | sed 's/[^a-zA-Z0-9 ]//g' | tr -d ' ' | tr '[:upper:]' '[:lower:]'
+        fi
     }
 
     is_header_line() {
@@ -102,4 +112,8 @@ parse_and_sort() {
     printf '%s' "${output%$'\n'}" > "$file"
 }
 
-parse_and_sort "${1}"
+if [[ "$1" == "use-diacritics" ]]; then
+    parse_and_sort "$2" "1"
+else
+    parse_and_sort "$1" ""
+fi
