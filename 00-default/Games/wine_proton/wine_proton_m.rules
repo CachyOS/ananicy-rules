@@ -275,6 +275,10 @@
 # Mass Effect (2007) https://store.steampowered.com/app/17460/Mass_Effect_2007/
 { "name": "MassEffect.exe", "type": "Game" }
 
+# Mass Effect 2 (2010) Edition https://store.steampowered.com/app/2362420/
+{ "name": "MassEffect2.exe", "type": "Game" }
+{ "name": "ME2Game.exe", "type": "Game" }
+
 # Mass Effect 2 (2010 Edition) OG https://store.steampowered.com/app/24980/Mass_Effect_2_2010_Edition/
 { "name": "MassEffect2.exe", "type": "Game" }
 
@@ -1062,13 +1066,6 @@
 { "name": "MotorSliceDemo.exe", "type": "Game" }
 { "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
 
-# Mass Effect 2 (2010) Edition https://store.steampowered.com/app/2362420/
-{ "name": "MassEffect2.exe", "type": "Game" }
-{ "name": "ME2Game.exe", "type": "Game" }
-
-# Movavi Video Suite 2020 Steam Edition https://store.steampowered.com/app/1182930/Movavi_Video_Suite_2020_Steam_Edition___Video_Making_Software__Edit_Convert_Capture_Screen_and_more/
-{ "name": "Suite.exe", "type": "Game" }
-
 # Motor Town: Behind The Wheel https://store.steampowered.com/app/1369670/Motor_Town_Behind_The_Wheel/
 { "name": "MotorTown-Win64-Shipping.exe", "type": "Game" }
 
@@ -1124,6 +1121,9 @@
 
 # Movavi Video Suite 18 https://store.steampowered.com/app/973600/Movavi_Video_Suite_18__Video_Making_Software__Edit_Convert_Capture_Screen_and_more/
 { "name": "VideoEditorPlus.exe", "type": "Game" }
+
+# Movavi Video Suite 2020 Steam Edition https://store.steampowered.com/app/1182930/Movavi_Video_Suite_2020_Steam_Edition___Video_Making_Software__Edit_Convert_Capture_Screen_and_more/
+{ "name": "Suite.exe", "type": "Game" }
 
 # Movavi Video Suite 2025 Steam Edition https://store.steampowered.com/app/3276070/Movavi_Video_Suite_2025__Steam_Edition/
 { "name": "MovaviSuite.exe", "type": "Game" }

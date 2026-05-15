@@ -235,20 +235,13 @@
 # The Elder Scrolls III: Morrowind Game of the Year Edition https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
 
-# The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe (2009) https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
-{ "name": "OblivionLauncher.exe", "type": "BG_CPUIO" }
-{ "name": "Oblivion.exe", "type": "Game" }
-
 # The Elder Scrolls IV: Oblivion Game of the Year Edition (2009) https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_2009/
 { "name": "OblivionLauncher.exe", "type": "Game" }
 { "name": "Oblivion.exe", "type": "Game" }
 
-# The Legend of Heroes: Zero no Kiseki Kai https://store.steampowered.com/app/1457520/The_Legend_of_Heroes_Zero_no_Kiseki_Kai/
-{ "name": "ed71_steam.exe", "type": "Game" }
-{ "name": "Launcher_ED71.exe", "type": "Game" }
-
-# The Mosquito Gang https://store.steampowered.com/app/2811100/The_Mosquito_Gang/
-{ "name": "MosquitoGang-Win64-Shipping.exe", "type": "Game" }
+# The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe (2009) https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
+{ "name": "OblivionLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Oblivion.exe", "type": "Game" }
 
 # The Elder Scrolls IV: Oblivion Remastered https://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/
 { "name": "OblivionRemastered.exe", "type": "Game" }
@@ -627,6 +620,10 @@
 # The Legend of Heroes: Trails to Azure https://store.steampowered.com/app/1668520/The_Legend_of_Heroes_Trails_to_Azure/
 { "name": "ao.exe", "type": "Game" }
 
+# The Legend of Heroes: Zero no Kiseki Kai https://store.steampowered.com/app/1457520/The_Legend_of_Heroes_Zero_no_Kiseki_Kai/
+{ "name": "ed71_steam.exe", "type": "Game" }
+{ "name": "Launcher_ED71.exe", "type": "Game" }
+
 # The Legend of Khiimori https://store.steampowered.com/app/2697000/The_Legend_of_Khiimori/
 { "name": "LegendOfKhiimori.exe", "type": "Game" }
 { "name": "LegendOfKhiimori-Win64-Shipping.exe", "type": "Game" }
@@ -701,6 +698,9 @@
 
 # The Mortuary Assistant https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/
 { "name": "The Mortuary Assistant.exe", "type": "Game" }
+
+# The Mosquito Gang https://store.steampowered.com/app/2811100/The_Mosquito_Gang/
+{ "name": "MosquitoGang-Win64-Shipping.exe", "type": "Game" }
 
 # The Nameless: Slay Dragon https://store.steampowered.com/app/2410170/The_Nameless_Slay_Dragon/
 { "name": "TheNameLess.exe", "type": "Game" }

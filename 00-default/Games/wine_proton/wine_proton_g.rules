@@ -179,9 +179,6 @@
 # Generation Zero https://store.steampowered.com/app/704270/Generation_Zero/
 { "name": "GenerationZero_F.exe", "type": "Game" }
 
-# Gunner-chan! https://store.steampowered.com/app/2516990/Gunnerchan/
-{ "name": "gunner-chan.exe", "type": "Game" }
-
 # Genesis Alpha One Deluxe Edition https://store.steampowered.com/app/712190/Genesis_Alpha_One_Deluxe_Edition/
 { "name": "Genesis.exe", "type": "Game" }
 
@@ -732,6 +729,9 @@
 # Gun Metal https://store.steampowered.com/app/267920/Gun_Metal/
 { "name": "gunmetal.exe", "type": "Game" }
 { "name": "Gunmetal.exe", "type": "Game" }
+
+# Gunner-chan! https://store.steampowered.com/app/2516990/Gunnerchan/
+{ "name": "gunner-chan.exe", "type": "Game" }
 
 # Gunner, HEAT, PC! https://store.steampowered.com/app/1705180/Gunner_HEAT_PC/
 { "name": "GHPC.exe", "type": "Game"}

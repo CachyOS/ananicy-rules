@@ -25,9 +25,6 @@
 { "name": "BetGame.exe", "type": "Game" }
 { "name": "BETGameSteam-Win64-Shipping.exe", "type": "Game" }
 
-# BOKURA: planet https://store.steampowered.com/app/3126150/BOKURA_planet/
-{ "name": "BOKURA_PLANET.exe", "type": "Game" }
-
 # Backrooms Rec. https://store.steampowered.com/app/2275020/Backrooms_Rec/
 { "name": "SCPExperiences.exe", "type": "Game" }
 { "name": "SCPExperiences-Win64-Shipping.exe", "type": "Game" }
@@ -764,6 +761,9 @@
 
 # BOKURA https://store.steampowered.com/app/1801110/BOKURA/
 { "name": "BOKURA.exe", "type": "Game" }
+
+# BOKURA: planet https://store.steampowered.com/app/3126150/BOKURA_planet/
+{ "name": "BOKURA_PLANET.exe", "type": "Game" }
 
 # Bombe https://store.steampowered.com/app/2262930/Bombe/
 { "name": "Bombe.exe", "type": "Game" }

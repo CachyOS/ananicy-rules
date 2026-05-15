@@ -28,9 +28,6 @@
 # Kaku Ancient Seal https://store.steampowered.com/app/1179580/KAKU_Ancient_Seal/
 { "name": "KakuAncientSeal_protected.exe", "type": "Game" }
 
-# Kitty Powers' Matchmaker https://store.steampowered.com/app/285740/Kitty_Powers_Matchmaker/
-{ "name": "matchmaker.exe", "type": "Game" }
-
 # Kalimba https://store.steampowered.com/app/324140/Kalimba/
 { "name": "Kalimba.exe", "type": "Game" }
 
@@ -300,6 +297,9 @@
 
 # Kiosk https://store.steampowered.com/app/3126330/Kiosk/
 { "name": "Kiosk.exe", "type": "Game" }
+
+# Kitty Powers' Matchmaker https://store.steampowered.com/app/285740/Kitty_Powers_Matchmaker/
+{ "name": "matchmaker.exe", "type": "Game" }
 
 # Kiwi Clicker https://store.steampowered.com/app/1980530/Kiwi_Clicker__Juiced_Up/
 { "name": "Kiwi Clicker.exe", "type": "Game" }

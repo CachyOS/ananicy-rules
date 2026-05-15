@@ -20,14 +20,6 @@
 # EARTH DEFENSE FORCE 4.1 The Shadow of New Despair https://store.steampowered.com/app/410320/EARTH_DEFENSE_FORCE_41_The_Shadow_of_New_Despair/
 { "name": "EDF41.exe", "type": "Game" }
 
-# EARTH DEFENSE FORCE: WORLD BROTHERS 2 https://store.steampowered.com/app/2370170/EARTH_DEFENSE_FORCE_WORLD_BROTHERS_2/
-{ "name": "LaunchGame.exe", "type": "Game" }
-{ "name": "EDFWB-Win64-Shipping.exe", "type": "Game" }
-
-# Emissary Zero https://store.steampowered.com/app/3176060/Emissary_Zero/
-{ "name": "Project_F.exe", "type": "Game" }
-{ "name": "Project_F-Win64-Shipping.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
@@ -36,6 +28,10 @@
 
 # Earth Defense Force: Insect Armageddon https://store.steampowered.com/app/23530/Earth_Defense_Force_Insect_Armageddon/
 { "name": "EDF-IA.exe", "type": "Game" }
+
+# EARTH DEFENSE FORCE: WORLD BROTHERS 2 https://store.steampowered.com/app/2370170/EARTH_DEFENSE_FORCE_WORLD_BROTHERS_2/
+{ "name": "LaunchGame.exe", "type": "Game" }
+{ "name": "EDFWB-Win64-Shipping.exe", "type": "Game" }
 
 # EA SPORTS FC 24 https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/
 { "name": "FC24_Trial.exe", "type": "Game" }
@@ -219,6 +215,10 @@
 
 # Emily is Away https://store.steampowered.com/app/417860/Emily_is_Away/
 { "name": "emily is away.exe", "type": "Game" }
+
+# Emissary Zero https://store.steampowered.com/app/3176060/Emissary_Zero/
+{ "name": "Project_F.exe", "type": "Game" }
+{ "name": "Project_F-Win64-Shipping.exe", "type": "Game" }
 
 # Emperor of the Fading Suns https://store.steampowered.com/app/2799350/Emperor_of_the_Fading_Suns_Enhanced/
 { "name": "EFS.exe", "type": "Game" }
