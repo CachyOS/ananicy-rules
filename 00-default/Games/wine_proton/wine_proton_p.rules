@@ -862,6 +862,9 @@
 { "name": "pwlc_x64_demo.exe", "type": "Game" }
 { "name": "pw_x64.exe", "type": "Game" }
 
+# Project Warlock II https://store.steampowered.com/app/1640300/Project_Warlock_II/
+{ "name": "Project Warlock 2.exe", "type": "Game" }
+
 # Project Werewulf https://store.steampowered.com/app/2343900/Project_Werewulf/
 { "name": "Project_Werewulf-Win64-Shipping.exe", "type": "Game" }
 { "name": "Project_Werewulf.exe", "type": "Game" }
@@ -903,8 +906,14 @@
 # Prototype 2 https://store.steampowered.com/app/115320/Prototype_2/
 { "name": "prototype2.exe", "type": "Game" }
 
+# Proverbs https://store.steampowered.com/app/3083300/Proverbs/
+{ "name": "Proverbs.exe", "type": "Game" }
+
 # Prove You Can Win https://store.steampowered.com/app/3316620/Prove_You_Can_Win/
 { "name": "Prove You Can Win.exe", "type": "Game" }
+
+# Pro Wrestling Sim https://store.steampowered.com/app/1157700/Pro_Wrestling_Sim/
+{ "name": "ProWrestlingSim.exe", "type": "Game" }
 
 # PrprLive https://store.steampowered.com/app/1279610/PrprLive/
 { "name": "PrprLive.exe", "type": "Game" }

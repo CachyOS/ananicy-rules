@@ -17,6 +17,7 @@
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
 # Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
+# Substance 3D Painter 2024 https://store.steampowered.com/app/2718190/Substance_3D_Painter_2024/
 # Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
 { "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
 
@@ -247,6 +248,14 @@
 # Platform 8 https://store.steampowered.com/app/2903560/Platform_8/
 # The Exit 8 https://store.steampowered.com/app/2653790/The_Exit_8/
 { "name": "Exit8-Win64-Shipping.exe", "type": "Game" }
+
+# Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
+# Unchi ga i sagashi ~ unchi no hinshitsu o mamoru gēmu ~ うんちがいさがし ～うんちの品質を守るゲーム～ https://store.steampowered.com/app/2892530/Poop_Spotter__The_game_to_improve_the_quality_of_poop/
+{ "name": "FactoryGame.exe", "type": "Game" }
+
+# Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
+# Unchi ga i sagashi ~ unchi no hinshitsu o mamoru gēmu ~ うんちがいさがし ～うんちの品質を守るゲーム～ https://store.steampowered.com/app/2892530/Poop_Spotter__The_game_to_improve_the_quality_of_poop/
+{ "name": "FactoryGame-Win64-Shipping.exe", "type": "Game" }
 
 # Fallout 3 https://store.steampowered.com/app/22300/Fallout_3/
 # Fallout 3: Game of the Year Edition https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/
@@ -664,6 +673,10 @@
 # Marvel Rivals https://store.steampowered.com/app/2767030/Marvel_Rivals/
 { "name": "Marvel.exe", "type": "Game" }
 
+# Mass Effect 2 (2010) Edition https://store.steampowered.com/app/2362420/
+# Mass Effect 2 (2010 Edition) OG https://store.steampowered.com/app/24980/Mass_Effect_2_2010_Edition/
+{ "name": "MassEffect2.exe", "type": "Game" }
+
 # MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
 # MechWarrior 5: Clans https://store.steampowered.com/app/2000890/MechWarrior_5_Clans/
 { "name": "MechWarrior.exe", "type": "Game" }
@@ -679,6 +692,10 @@
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 { "name": "metro_benchmark.exe", "type": "Game" }
+
+# 14 Minesweeper Variants https://store.steampowered.com/app/1865060/14_Minesweeper_Variants/
+# 14 Minesweeper Variants 2 https://store.steampowered.com/app/2631960/14_Minesweeper_Variants_2/
+{ "name": "MineVar.exe", "type": "Game" }
 
 # Motorsport Manager https://store.steampowered.com/app/415200/Motorsport_Manager/
 # Promise Mascot Agency https://store.steampowered.com/app/2585830/Promise_Mascot_Agency/
@@ -751,6 +768,14 @@
 
 # 3D audio rendering library
 { "name": "oalinst.exe", "type": "BG_CPUIO" }
+
+# The Elder Scrolls IV: Oblivion Game of the Year Edition (2009) https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_2009/
+# The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe (2009) https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
+{ "name": "Oblivion.exe", "type": "Game" }
+
+# The Elder Scrolls IV: Oblivion Game of the Year Edition (2009) https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_2009/
+# The Elder Scrolls IV: Oblivion Game of the Year Edition Deluxe (2009) https://store.steampowered.com/app/900883/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition_Deluxe/
+{ "name": "OblivionLauncher.exe", "type": "BG_CPUIO" }
 
 # Choo-Choo Charles https://store.steampowered.com/app/1766740/ChooChoo_Charles/
 # Obscure https://store.steampowered.com/app/254460/Obscure/

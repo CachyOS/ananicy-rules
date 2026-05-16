@@ -432,6 +432,9 @@
 # Overwatch https://store.steampowered.com/app/2357570/Overwatch/
 { "name": "Overwatch.exe", "type": "Game" }
 
+# OVR Advanced Settings https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/
+{ "name": "AdvancedSettings.exe", "type": "Game" }
+
 # OVR Toolkit https://store.steampowered.com/app/1068820/OVR_Toolkit__Desktop_Overlay/
 { "name": "OVRToolkit-Launcher.exe", "type": "Game" }
 { "name": "OVR Toolkit.exe", "type": "Game" }
