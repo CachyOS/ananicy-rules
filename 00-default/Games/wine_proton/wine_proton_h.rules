@@ -226,6 +226,13 @@
 { "name": "HellbladeGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "HellbladeGame.exe", "type": "Game" }
 
+# Hellblade: Senua's Sacrifice VR Edition https://store.steampowered.com/app/747350/Hellblade_Senuas_Sacrifice_VR_Edition/
+{ "name": "HellbladeGameVR.exe", "type": "Game" }
+{ "name": "HellbladeGameVR-Win64-Shipping.exe", "type": "Game" }
+
+# Hellboy Web of Wyrd https://store.steampowered.com/app/2160480/Hellboy_Web_of_Wyrd/
+{ "name": "Hellboy.exe", "type": "Game" }
+
 # HELLCARD https://store.steampowered.com/app/1201540/HELLCARD/
 { "name": "HELLCARD.exe", "type": "Game" }
 { "name": "HELLCARD_Dev.exe", "type": "Game" }
@@ -462,6 +469,9 @@
 # HOLE https://store.steampowered.com/app/2971610/HOLE/
 { "name": "HOLE.exe", "type": "Game" }
 { "name": "HOLE-Win64-Shipping.exe", "type": "Game" }
+
+# Hollowbody https://store.steampowered.com/app/2123640/Hollowbody/
+{ "name": "Hollowbody.exe", "type": "Game" }
 
 # Hollow Knight https://store.steampowered.com/app/367520/Hollow_Knight/
 { "name": "hollow_knight.exe", "type": "Game" }

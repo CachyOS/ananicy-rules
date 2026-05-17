@@ -102,6 +102,10 @@
 # Rain World https://store.steampowered.com/app/312520/Rain_World/
 { "name": "RainWorld.exe", "type": "Game" }
 
+# Raji: An Ancient Epic https://store.steampowered.com/app/730390/Raji_An_Ancient_Epic/
+{ "name": "Raji.exe", "type": "Game" }
+{ "name": "Raji-Win64-Shipping.exe", "type": "Game" }
+
 # Rakion Chaos Force https://store.steampowered.com/app/1218740/Rakion_Chaos_Force/
 { "name": "NyxLauncher.exe", "type": "Game" }
 { "name": "xldr_Rakion_ST_loader_win32.exe", "type": "Game" }
@@ -944,6 +948,9 @@
 # Rune Factory 5 https://store.steampowered.com/app/1702330/Rune_Factory_5/
 { "name": "RuneFactory5Launcher.exe", "type": "BG_CPUIO" }
 { "name": "Rune Factory 5.exe", "type": "Game" }
+
+# Rune Fencer Illyia https://store.steampowered.com/app/1104600/Rune_Fencer_Illyia/
+{ "name": "RuneFencerIllyia.exe", "type": "Game" }
 
 # RuneScape https://store.steampowered.com/app/1343400/RuneScape/
 { "name": "RuneScape.exe", "type": "Game" }

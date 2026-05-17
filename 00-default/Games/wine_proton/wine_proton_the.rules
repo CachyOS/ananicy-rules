@@ -27,6 +27,9 @@
 { "name": "TheAscent.exe", "type": "Game" }
 { "name": "TheAscent-Win64-Shipping.exe", "type": "Game" }
 
+# The Awesome Adventures of Captain Spirit https://store.steampowered.com/app/845070/
+{ "name": "CaptainSpirit-Win64-Shipping.exe", "type": "Game" }
+
 # The Baby in Yellow https://store.steampowered.com/app/2291340/The_Baby_In_Yellow/
 { "name": "GameSteam-Win64-Shipping.exe", "type": "Game" }
 
@@ -681,6 +684,10 @@
 
 # The Messenger https://store.steampowered.com/app/764790/The_Messenger/
 { "name": "TheMessenger.exe", "type": "Game" }
+
+# The Midnight Walk https://store.steampowered.com/app/2863640/The_Midnight_Walk/
+{ "name": "TheMidnightWalk.exe", "type": "Game" }
+{ "name": "TheMidnightWalk-Win64-Shipping.exe", "type": "Game" }
 
 # The Monster Breeder https://store.steampowered.com/app/1192440/The_Monster_Breeder/
 { "name": "The Monster Breeder.exe", "type": "Game" }

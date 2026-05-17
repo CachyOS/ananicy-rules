@@ -43,6 +43,10 @@
 # L.A. Noire https://store.steampowered.com/app/110800/LA_Noire/
 { "name": "LANoire.exe", "type": "Game" }
 
+# La Quimera https://store.steampowered.com/app/2282350/La_Quimera/
+{ "name": "LQM.exe", "type": "Game" }
+{ "name": "LQMSteam-Win64-Shipping.exe", "type": "Game" }
+
 # Lara Croft and the Guardian of Light https://store.steampowered.com/app/35130/Lara_Croft_and_the_Guardian_of_Light/
 { "name": "lcgol.exe", "type": "Game" }
 
@@ -118,6 +122,9 @@
 
 # Left 4 Dead 2 https://store.steampowered.com/app/550/Left_4_Dead_2/
 { "name": "left4dead2.exe", "type": "Game" }
+
+# Leftovers KO! https://store.steampowered.com/app/3169060/Leftovers_KO/
+{ "name": "Rise_of_the_Left_Overs.exe", "type": "Game" }
 
 # Legacy of Kain: Ascendance https://store.steampowered.com/app/4233530/Legacy_of_Kain_Ascendance/
 { "name": "Legacy of Kain Ascendance.exe", "type": "Game" }
@@ -424,6 +431,10 @@
 
 # Little Nightmares https://store.steampowered.com/app/424840/Little_Nightmares/
 { "name": "LittleNightmares.exe", "type": "Game" }
+
+# Little Nightmares Enhanced Edition https://store.steampowered.com/app/2149010/Little_Nightmares_Enhanced_Edition/
+{ "name": "Little_Nightmares_Enhanced.exe", "type": "Game" }
+{ "name": "Atlas-Win64-Shipping.exe", "type": "Game" }
 
 # Little Nightmares II https://store.steampowered.com/app/860510/Little_Nightmares_II/
 { "name": "Little Nightmares II.exe", "type": "Game" }

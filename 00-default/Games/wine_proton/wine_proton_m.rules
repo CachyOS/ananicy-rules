@@ -225,6 +225,10 @@
 # Mars: War Logs https://store.steampowered.com/app/232750/Mars_War_Logs/
 { "name": "MarsWarLogs.exe", "type": "Game" }
 
+# Martha Is Dead https://store.steampowered.com/app/515960/
+{ "name": "MID.exe", "type": "Game" }
+{ "name": "MID-Win64-Shipping.exe", "type": "Game" }
+
 # MARVEL Puzzle Quest https://store.steampowered.com/app/234330/MARVEL_Puzzle_Quest/
 { "name": "Marvel Puzzle Quest.exe", "type": "Game" }
 
@@ -562,6 +566,11 @@
 # Metaphor: ReFantazio https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/
 { "name": "METAPHOR.exe", "type": "Game" }
 
+# Metro 2033 https://store.steampowered.com/app/43110/Metro_2033/
+{ "name": "Metro2033.exe", "type": "Game" }
+{ "name": "metro2033.exe", "type": "Game" }
+{ "name": "metro2033benchmark.exe", "type": "Game" }
+
 # Metro Awakening https://store.steampowered.com/app/2669410/Metro_Awakening/
 { "name": "Impact.exe", "type": "Game" }
 { "name": "Impact-Win64-Shipping.exe", "type": "Game" }
@@ -569,6 +578,10 @@
 # Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
 { "name": "MetroExodus.exe", "type": "Game" }
 { "name": "Benchmark.exe", "type": "Game" }
+
+# Metro: Last Light Complete Edition https://steamdb.info/app/43160/
+{ "name": "MetroLL.exe", "type": "Game" }
+{ "name": "MetroLLbenchmark.exe", "type": "Game" }
 
 # Mewgenics https://store.steampowered.com/app/686060/Mewgenics/
 { "name": "Mewgenics.exe", "type": "Game" }
@@ -629,6 +642,10 @@
 
 # Military Conflict: Vietnam https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
 { "name": "mcv_x64.exe", "type": "Game" }
+
+# Milk inside a bag of milk inside a bag of milk https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/
+{ "name": "PMKM-32.exe", "type": "Game" }
+{ "name": "PMKM.exe", "type": "Game" }
 
 # Milk outside a bag of milk outside a bag of milk https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/
 { "name": "PMKM2.exe", "type": "Game" }
@@ -934,6 +951,9 @@
 # Moonlighter 2: The Endless Vault https://store.steampowered.com/app/2350790/Moonlighter_2_The_Endless_Vault/
 { "name": "Moonlighter 2 The Endless Vault.exe", "type": "Game" }
 
+# Moonscars https://store.steampowered.com/app/1374970/Moonscars/
+{ "name": "Moonscars.exe", "type": "Game" }
+
 # Moonstone Island https://store.steampowered.com/app/1658150/Moonstone_Island/
 { "name": "Moonstone Island.exe", "type": "Game" }
 
@@ -1187,6 +1207,10 @@
 
 # Murder Miners https://store.steampowered.com/app/274900/Murder_Miners/
 { "name": "Murder Miners.exe", "type": "Game" }
+
+# Murder of King Mere https://store.steampowered.com/app/3875890/Darkway_Murder_of_King_Mere/
+{ "name": "MOKM.exe", "type": "Game" }
+{ "name": "BeginnerCourse-Win64-Shipping.exe", "type": "Game" }
 
 # Murderous Pursuits https://store.steampowered.com/app/638070/Murderous_Pursuits/
 { "name": "MurderousPursuits.exe", "type": "Game" }
