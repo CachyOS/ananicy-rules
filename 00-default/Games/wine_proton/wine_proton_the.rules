@@ -583,18 +583,6 @@
 { "name": "Launcher_ED72.exe", "type": "BG_CPUIO" }
 { "name": "ed72_steam.exe", "type": "Game" }
 
-# The Legend of Heroes: Kai no Kiseki -Farewell, O Zemuria- https://store.steampowered.com/app/3319980/The_Legend_of_Heroes_Kai_no_Kiseki_Farewell_O_Zemuria/
-
-
-# The Legend of Heroes: Kuro no Kiseki https://store.steampowered.com/app/1811950/The_Legend_of_Heroes_Kuro_no_Kiseki/
-
-
-# The Legend of Heroes: Kuro no Kiseki Ⅱ -CRIMSON SiN- https://store.steampowered.com/app/2113920/The_Legend_of_Heroes_Kuro_no_Kiseki_II_CRIMSON_SiN/
-{ "name": "ed9.exe", "type": "Game" }
-
-# The Legend of Heroes: Sen no Kiseki III https://store.steampowered.com/app/1450080/The_Legend_of_Heroes_Sen_no_Kiseki_III/
-
-
 # The Legend of Heroes: Sen no Kiseki IV -THE END OF SAGA- https://store.steampowered.com/app/1457510/The_Legend_of_Heroes_Sen_no_Kiseki_IV_THE_END_OF_SAGA/
 { "name": "ed8_4_PC.exe", "type": "Game" }
 { "name": "ed8_4_PC_KR.exe", "type": "Game" }
@@ -631,10 +619,6 @@
 { "name": "Sen2Launcher.exe", "type": "BG_CPUIO" }
 { "name": "ed8_2_PC_JP.exe", "type": "Game" }
 { "name": "ed8_2_PC_US.exe", "type": "Game" }
-
-# The Legend of Heroes: Trails of Cold Steel III https://store.steampowered.com/app/991270/The_Legend_of_Heroes_Trails_of_Cold_Steel_III/
-{ "name": "ed8_3_PC.exe", "type": "Game" }
-{ "name": "Sen3Launcher.exe", "type": "BG_CPUIO" }
 
 # The Legend of Heroes: Trails of Cold Steel IV https://store.steampowered.com/app/1198090/The_Legend_of_Heroes_Trails_of_Cold_Steel_IV/
 { "name": "ed8_4_PC_JP.exe", "type": "Game" }

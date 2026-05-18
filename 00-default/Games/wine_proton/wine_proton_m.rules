@@ -969,12 +969,6 @@
 # Mordheim: City of the Damned https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/
 { "name": "mordheim.exe", "type": "Game" }
 
-# MorphVOX Pro 4 - Voice Changer https://store.steampowered.com/app/269470/MorphVOX_Pro_4__Voice_Changer_Old/
-
-
-# MorphVOX Pro 5 - Voice Changer https://store.steampowered.com/app/1529570/MorphVOX_Pro_5__Voice_Changer/
-{ "name": "MorphVOXPro.exe", "type": "Game" }
-
 # Mortal Kombat 1 https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
 { "name": "MK12.exe", "type": "Game" }
 
@@ -1116,27 +1110,6 @@
 
 # Movavi Screen Recorder 2023 https://store.steampowered.com/app/1497120/Movavi_Screen_Recorder/
 { "name": "ScreenRecorder.exe", "type": "BG_CPUIO" }
-
-# Movavi Video Editor 2024 https://store.steampowered.com/app/2576030/Movavi_Video_Editor_2024/
-
-
-# Movavi Video Editor 2025 https://store.steampowered.com/app/3276060/Movavi_Video_Editor_2025/
-
-
-# Movavi Video Editor 23 https://store.steampowered.com/app/2171280/Movavi_Video_Editor_2023/
-{ "name": "VideoEditor.exe", "type": "Game" }
-
-# Movavi Video Editor Plus 2020 https://store.steampowered.com/app/1182920/Movavi_Video_Editor_Plus_2020__Video_Editing_Software/
-
-
-# Movavi Video Editor Plus 2021 https://store.steampowered.com/app/1418800/Movavi_Video_Editor_Plus_2021__Video_Editing_Software/
-
-
-# Movavi Video Suite 17 https://store.steampowered.com/app/795630/Movavi_Video_Suite_17__Video_Making_Software__Video_Editor_Video_Converter_Screen_Capture_and_more/
-
-
-# Movavi Video Suite 18 https://store.steampowered.com/app/973600/Movavi_Video_Suite_18__Video_Making_Software__Edit_Convert_Capture_Screen_and_more/
-{ "name": "VideoEditorPlus.exe", "type": "Game" }
 
 # Movavi Video Suite 2020 Steam Edition https://store.steampowered.com/app/1182930/Movavi_Video_Suite_2020_Steam_Edition___Video_Making_Software__Edit_Convert_Capture_Screen_and_more/
 { "name": "Suite.exe", "type": "Game" }
