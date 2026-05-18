@@ -36,6 +36,7 @@
 
 # Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
 # AMEDAMA https://store.steampowered.com/app/2411980/AMEDAMA/
+# SaveSync https://store.steampowered.com/app/3832010/SaveSync_Coop_Save_Sharing_Made_Easy/
 { "name": "app.exe", "type": "Game" }
 
 # Crazy Taxi https://store.steampowered.com/app/71230/Crazy_Taxi/
@@ -110,6 +111,14 @@
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
 # Onmyoji https://store.steampowered.com/app/551170/Onmyoji/
 { "name": "Client.exe", "type": "Game" }
+
+# Tree of Savior (Japanese Ver.) https://store.steampowered.com/app/1175730/
+# Tree of Savior (English Ver.) https://store.steampowered.com/app/372000/Tree_of_Savior_English_Ver/
+{ "name": "Client_tos.exe", "type": "Game" }
+
+# Tree of Savior (Japanese Ver.) https://store.steampowered.com/app/1175730/
+# Tree of Savior (English Ver.) https://store.steampowered.com/app/372000/Tree_of_Savior_English_Ver/
+{ "name": "Client_tos_x64.exe", "type": "Game" }
 
 # SAO Utils: Beta https://store.steampowered.com/app/786520/SAO_Utils_Beta/
 # Copa Petrobras de Marcas https://store.steampowered.com/app/359800/Copa_Petrobras_de_Marcas/
