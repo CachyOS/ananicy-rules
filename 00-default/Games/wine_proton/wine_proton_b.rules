@@ -70,6 +70,9 @@
 { "name": "bg3.exe", "type": "Game" }
 { "name": "LariLauncher.exe", "type": "BG_CPUIO" }
 
+# ball https://store.steampowered.com/app/3095590/ball/
+{ "name": "ball.exe", "type": "Game" }
+
 # Ballionaire https://store.steampowered.com/app/2667120/Ballionaire/
 { "name": "ballionaire-windows.exe", "type": "Game" }
 
@@ -490,6 +493,9 @@
 # Blackjack Championship https://store.steampowered.com/app/1178160/Blackjack_Championship/
 { "name": "Blackjack Championship.exe", "type": "Game" }
 
+# Black Jacket https://store.steampowered.com/app/3100370/Black_Jacket/
+{ "name": "BlackJacket.exe", "type": "Game" }
+
 # Blacklight: Retribution https://store.steampowered.com/app/209870/Blacklight_Retribution/
 { "name": "foxgame-win32-shipping_BE.exe", "type": "Game" }
 { "name": "FoxGame-win32-Shipping.exe", "type": "Game" }
@@ -507,12 +513,6 @@
 # Black Myth: Wukong https://store.steampowered.com/app/2358720/Black_Myth_Wukong/
 { "name": "b1-Win64-Shipping.exe", "type": "Game" }
 { "name": "b1.exe", "type": "Game" }
-
-# ball https://store.steampowered.com/app/3095590/ball/
-{ "name": "ball.exe", "type": "Game" }
-
-# Black Jacket https://store.steampowered.com/app/3100370/Black_Jacket/
-{ "name": "BlackJacket.exe", "type": "Game" }
 
 # Black Myth: Wukong Benchmark Tool https://store.steampowered.com/app/3132990/Black_Myth_Wukong_Benchmark_Tool/
 { "name": "b1_benchmark.exe", "type": "Game" }

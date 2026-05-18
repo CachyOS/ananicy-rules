@@ -50,12 +50,18 @@
 # Vampire Crawlers https://store.steampowered.com/app/3265700/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/
 { "name": "Vampire Crawlers.exe", "type": "Game" }
 
+# Vampire Crawlers Demo https://store.steampowered.com/app/4329470/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/
+{ "name": "Vampire Crawlers.exe", "type": "Game" }
+
 # Vampire Hunters https://store.steampowered.com/app/2206270/Vampire_Hunters/
 { "name": "Vampire Hunters.exe", "type": "Game" }
 
 # Vampires: Bloodlord Rising https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
 { "name": "VBR.exe", "type": "Game" }
 { "name": "VBR-Win64-Shipping.exe", "type": "Game" }
+
+# Vampire's Fall 2 https://store.steampowered.com/app/4264230/Vampires_Fall_2/
+{ "name": "Vampire's Fall 2.exe", "type": "Game" }
 
 # Vampire Survivors https://store.steampowered.com/app/1794680/Vampire_Survivors/
 { "name": "VampireSurvivors.exe", "type": "Game" }
@@ -88,6 +94,9 @@
 # Vangers https://store.steampowered.com/app/264080/Vangers/
 { "name": "vangers.exe", "type": "Game" }
 
+# Vanguard Galaxy https://store.steampowered.com/app/3471800/Vanguard_Galaxy/
+{ "name": "VanguardGalaxy.exe", "type": "Game" }
+
 # Vanguard Princess https://store.steampowered.com/app/262150/Vanguard_Princess/
 { "name": "VanguardOnline.exe", "type": "Game" }
 { "name": "vanpri.exe", "type": "Game" }
@@ -109,6 +118,9 @@
 
 # VEGA Conflict https://store.steampowered.com/app/339600/VEGA_Conflict/
 { "name": "VEGAConflict.exe", "type": "Game" }
+
+# Vegas Casino & Slots: Slottist https://store.steampowered.com/app/3673150/Vegas_Casino__Slots_Slottist/
+{ "name": "Slottist.exe", "type": "Game" }
 
 # VEGAS Movie Studio 13 Platinum - Steam Powered https://store.steampowered.com/app/330070/VEGAS_Movie_Studio_13_Platinum__Steam_Powered/
 { "name": "vmspe130_x64.exe", "type": "BG_CPUIO" }
@@ -169,6 +181,9 @@
 # Viking Frontiers https://store.steampowered.com/app/1304430/Viking_Frontiers/
 { "name": "Viking Frontiers.exe", "type": "Game" }
 
+# Viking Rise https://store.steampowered.com/app/2819520/Viking_Rise/
+{ "name": "VR.exe", "type": "Game" }
+
 # VillageRhapsody https://store.steampowered.com/app/2109460/VillageRhapsody/
 { "name": "village.exe", "type": "Game" }
 
@@ -215,6 +230,12 @@
 { "name": "VisionsofMana.exe", "type": "Game" }
 { "name": "VisionsofMana-Win64-Shipping.exe", "type": "Game" }
 
+# vivid/stasis https://store.steampowered.com/app/2093940/vividstasis/
+{ "name": "VIVIDSTASIS.exe", "type": "Game" }
+
+# V-LOVER! https://store.steampowered.com/app/3044740/
+{ "name": "V-Lover.exe", "type": "Game" }
+
 # VoiceAttack https://store.steampowered.com/app/583010/VoiceAttack/
 
 
@@ -234,8 +255,15 @@
 # Void Crew https://store.steampowered.com/app/1063420/Void_Crew/
 { "name": "Void Crew.exe", "type": "Game" }
 
+# VOID DIVER: Escape from the Abyss Demo https://store.steampowered.com/app/4347080/VOID_DIVER_Escape_from_the_Abyss_Demo/
+{ "name": "VOID DIVER.exe", "type": "Game" }
+
 # Voidigo https://store.steampowered.com/app/1304680/Voidigo/
 { "name": "voidigo.exe", "type": "Game" }
+
+# Voidling Bound Demo https://store.steampowered.com/app/3559900/Voidling_Bound_Demo/
+{ "name": "VoidlingWrangler.exe", "type": "Game" }
+{ "name": "VoidlingWrangler-Win64-Shipping.exe", "type": "Game" }
 
 # Voidsayer https://store.steampowered.com/app/2754370/Voidsayer/
 { "name": "Voidsayer.exe", "type": "Game" }
@@ -256,48 +284,6 @@
 # Volcanoids https://store.steampowered.com/app/951440/Volcanoids/
 { "name": "Volcanoids.exe", "type": "Game" }
 
-# Vampire Crawlers Demo https://store.steampowered.com/app/4329470/Vampire_Crawlers_The_Turbo_Wildcard_from_Vampire_Survivors/
-{ "name": "Vampire Crawlers.exe", "type": "Game" }
-
-# Vampire's Fall 2 https://store.steampowered.com/app/4264230/Vampires_Fall_2/
-{ "name": "Vampire's Fall 2.exe", "type": "Game" }
-
-# Vanguard Galaxy https://store.steampowered.com/app/3471800/Vanguard_Galaxy/
-{ "name": "VanguardGalaxy.exe", "type": "Game" }
-
-# Vegas Casino & Slots: Slottist https://store.steampowered.com/app/3673150/Vegas_Casino__Slots_Slottist/
-{ "name": "Slottist.exe", "type": "Game" }
-
-# Viking Rise https://store.steampowered.com/app/2819520/Viking_Rise/
-{ "name": "VR.exe", "type": "Game" }
-
-# vivid/stasis https://store.steampowered.com/app/2093940/vividstasis/
-{ "name": "VIVIDSTASIS.exe", "type": "Game" }
-
-# V-LOVER! https://store.steampowered.com/app/3044740/
-{ "name": "V-Lover.exe", "type": "Game" }
-
-# VOID DIVER: Escape from the Abyss Demo https://store.steampowered.com/app/4347080/VOID_DIVER_Escape_from_the_Abyss_Demo/
-{ "name": "VOID DIVER.exe", "type": "Game" }
-
-# Voidling Bound Demo https://store.steampowered.com/app/3559900/Voidling_Bound_Demo/
-{ "name": "VoidlingWrangler.exe", "type": "Game" }
-{ "name": "VoidlingWrangler-Win64-Shipping.exe", "type": "Game" }
-
-# Voodoo Fishin' https://store.steampowered.com/app/3071240/Voodoo_Fishin/
-{ "name": "Voodoo Fishin'.exe", "type": "Game" }
-
-# Voyagers of Nera https://store.steampowered.com/app/2686630/Voyagers_of_Nera/
-{ "name": "BoatGame.exe", "type": "Game" }
-{ "name": "BoatGameListenServer-Win64-Shipping.exe", "type": "Game" }
-
-# VRCFaceTracking https://store.steampowered.com/app/3329480/VRCFaceTracking/
-{ "name": "VRCFaceTracking.exe", "type": "Game" }
-
-# Vultures - Scavengers of Death https://store.steampowered.com/app/2537470/Vultures__Scavengers_of_Death/
-{ "name": "vultures.exe", "type": "Game" }
-{ "name": "Vultures.exe", "type": "Game" }
-
 # Volcano Princess https://store.steampowered.com/app/1669980/Volcano_Princess/
 { "name": "VolcanoPrincess.exe", "type": "Game" }
 
@@ -306,6 +292,9 @@
 
 # Volley Court https://store.steampowered.com/app/2175250/Volley_Court/
 { "name": "VolleyCourt.exe", "type": "Game" }
+
+# Voodoo Fishin' https://store.steampowered.com/app/3071240/Voodoo_Fishin/
+{ "name": "Voodoo Fishin'.exe", "type": "Game" }
 
 # Voor De Kroon https://store.steampowered.com/app/1702390/Voor_De_Kroon/
 { "name": "FormationSystem.exe", "type": "Game" }
@@ -317,6 +306,10 @@
 # Vox Machinae https://store.steampowered.com/app/334540/Vox_Machinae/
 { "name": "vm.exe", "type": "Game" }
 
+# Voyagers of Nera https://store.steampowered.com/app/2686630/Voyagers_of_Nera/
+{ "name": "BoatGame.exe", "type": "Game" }
+{ "name": "BoatGameListenServer-Win64-Shipping.exe", "type": "Game" }
+
 # VPet / VPet-Simulator https://store.steampowered.com/app/1920960/VPetSimulator/
 { "name": "VPet-Simulator.Windows.exe", "type": "Game" }
 { "name": "VPet-Simulator.Windows_x86.exe", "type": "Game" }
@@ -324,6 +317,9 @@
 
 # V-Rally 4 https://store.steampowered.com/app/658700/VRally_4/
 { "name": "VRally4.exe", "type": "Game" }
+
+# VRCFaceTracking https://store.steampowered.com/app/3329480/VRCFaceTracking/
+{ "name": "VRCFaceTracking.exe", "type": "Game" }
 
 # VRChat https://store.steampowered.com/app/438100/VRChat/
 { "name": "VRChat.exe", "type": "Game" }
@@ -356,6 +352,10 @@
 
 # VTube Studio https://store.steampowered.com/app/1325860/VTube_Studio/
 { "name": "VTube Studio.exe", "type": "BG_CPUIO" }
+
+# Vultures - Scavengers of Death https://store.steampowered.com/app/2537470/Vultures__Scavengers_of_Death/
+{ "name": "vultures.exe", "type": "Game" }
+{ "name": "Vultures.exe", "type": "Game" }
 
 # VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
 { "name": "VVVVVV.exe", "type": "Game" }

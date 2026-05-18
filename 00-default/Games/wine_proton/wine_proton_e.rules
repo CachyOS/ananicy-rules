@@ -20,10 +20,6 @@
 # EARTH DEFENSE FORCE 4.1 The Shadow of New Despair https://store.steampowered.com/app/410320/EARTH_DEFENSE_FORCE_41_The_Shadow_of_New_Despair/
 { "name": "EDF41.exe", "type": "Game" }
 
-# eBaseball: PRO SPIRIT https://store.steampowered.com/app/4128400/eBaseball_PRO_SPIRIT/
-{ "name": "prospi.exe", "type": "Game" }
-{ "name": "prospi-Win64-Shipping.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
@@ -93,6 +89,10 @@
 
 # Easy Red 2 https://store.steampowered.com/app/1324780/Easy_Red_2/
 { "name": "Easy Red 2.exe", "type": "Game" }
+
+# eBaseball: PRO SPIRIT https://store.steampowered.com/app/4128400/eBaseball_PRO_SPIRIT/
+{ "name": "prospi.exe", "type": "Game" }
+{ "name": "prospi-Win64-Shipping.exe", "type": "Game" }
 
 # Echoes of Elysium https://store.steampowered.com/app/2644050/Echoes_of_Elysium/
 { "name": "Elysium.exe", "type": "Game" }
