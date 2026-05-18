@@ -959,6 +959,14 @@
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
 { "name": "SkyrimSE.exe", "type": "Game" }
 
+# SoulWorker https://store.steampowered.com/app/1825750/Soulworker/
+# Soulworker https://store.steampowered.com/app/1377580/Soulworker/
+{ "name": "Soulworker.exe", "type": "Game" }
+
+# SoulWorker https://store.steampowered.com/app/1825750/Soulworker/
+# Soulworker https://store.steampowered.com/app/1377580/Soulworker/
+{ "name": "Soulworker_Launcher.exe", "type": "Game" }
+
 # SPORE https://store.steampowered.com/app/17390/SPORE/
 # SPORE Creepy & Cute Parts Pack https://store.steampowered.com/app/17440/SPORE_Creepy__Cute_Parts_Pack/
 # SPORE Galactic Adventures https://store.steampowered.com/app/24720/SPORE_Galactic_Adventures/
@@ -1021,6 +1029,10 @@
 # Supreme Commander: Forged Alliance https://store.steampowered.com/app/9420/Supreme_Commander_Forged_Alliance/
 # Supreme Commander https://store.steampowered.com/app/9350/Supreme_Commander/
 { "name": "SupremeCommander.exe", "type": "Game" }
+
+# SoulWorker https://store.steampowered.com/app/1825750/Soulworker/
+# Soulworker https://store.steampowered.com/app/1377580/Soulworker/
+{ "name": "SWLoading.exe", "type": "Game" }
 
 # Self explanatory it gets system info...
 { "name": "SystemInfoGetter.exe", "type": "BG_CPUIO" }
