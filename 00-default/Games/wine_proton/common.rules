@@ -1397,6 +1397,9 @@
 { "name": "SGuard64.exe", "type": "BG_CPUIO" }
 { "name": "ACE-Setup64.exe", "type": "BG_CPUIO" }
 { "name": "ACE-Service64.exe", "type": "BG_CPUIO" }
+{ "name": "SGuardUpdate64.exe", "type": "BG_CPUIO" }
+{ "name": "ACE-Helper.exe", "type": "BG_CPUIO" }
+{ "name": "SGuardSvc64.exe", "type": "BG_CPUIO" }
 
 # Web helper processes
 { "name": "UnrealCEFSubProcess.exe", "type": "BG_CPUIO" }
