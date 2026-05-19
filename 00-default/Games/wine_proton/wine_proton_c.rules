@@ -139,6 +139,10 @@
 # Call of Juarez: Gunslinger https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/
 { "name": "CoJGunslinger.exe", "type": "Game" }
 
+# Call of the Elder Gods https://store.steampowered.com/app/2174380/Call_of_the_Elder_Gods/
+{ "name": "COTEG.exe", "type": "Game" }
+{ "name": "COTEG-Win64-Shipping.exe", "type": "Game" }
+
 # Call of the Sea https://store.steampowered.com/app/1042490/Call_of_the_Sea/
 { "name": "COTS.exe", "type": "Game"}
 { "name": "BlueCode-Win64-Shipping.exe", "type": "Game"}
@@ -645,6 +649,10 @@
 
 # Clock Tower: Rewind https://store.steampowered.com/app/2794770/Clock_Tower_Rewind/
 { "name": "ClockTower.exe", "type": "Game" }
+
+# Clockwork Ambrosia https://store.steampowered.com/app/896010/Clockwork_Ambrosia/
+{ "name": "Ambrosia.exe", "type": "Game" }
+{ "name": "AmbrosiaD.exe", "type": "Game" }
 
 # Clockwork Tales: Of Glass and Ink https://store.steampowered.com/app/284830/Clockwork_Tales_Of_Glass_and_Ink/
 { "name": "ClockworkTales_OfGlassAndInk.exe", "type": "Game" }
