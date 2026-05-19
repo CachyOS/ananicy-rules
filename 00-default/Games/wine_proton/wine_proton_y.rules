@@ -44,10 +44,6 @@
 # Yakuza Kiwami (Legacy) https://store.steampowered.com/app/834530/Yakuza_Kiwami/
 { "name": "YakuzaKiwami.exe", "type": "Game" }
 
-# Ys IX: Monstrum Nox https://store.steampowered.com/app/1351630/Ys_IX_Monstrum_Nox/
-{ "name": "ys9.exe", "type": "Game" }
-{ "name": "ys9_JP.exe", "type": "Game" }
-
 # Yakuza: Like a Dragon https://store.steampowered.com/app/1235140/Yakuza_Like_a_Dragon/
 { "name": "YakuzaLikeADragon.exe", "type": "Game" }
 
@@ -195,6 +191,10 @@
 
 # Ys I & II Chronicles+ https://store.steampowered.com/app/223810/Ys_I__II_Chronicles/
 { "name": "ys1plus.exe", "type": "Game" }
+
+# Ys IX: Monstrum Nox https://store.steampowered.com/app/1351630/Ys_IX_Monstrum_Nox/
+{ "name": "ys9.exe", "type": "Game" }
+{ "name": "ys9_JP.exe", "type": "Game" }
 
 # Ys: Memories of Celceta https://store.steampowered.com/app/587110/Ys_Memories_of_Celceta/
 { "name": "Ysc_dx11.exe", "type": "Game" }
