@@ -11,9 +11,6 @@
 # Waifusitter 🔞 - Furry Collection https://store.steampowered.com/app/3427660/Waifusitter___Furry_Collection/
 { "name": "Waifusitter.exe", "type": "Game" }
 
-# WAKFU https://store.steampowered.com/app/215080/WAKFU/
-{ "name": "Zaapi.exe", "type": "BG_CPUIO" }
-
 # Waking Mars https://store.steampowered.com/app/227200/Waking_Mars/
 { "name": "mars-pc.exe", "type": "Game" }
 
@@ -72,7 +69,6 @@
 
 # Warface https://store.steampowered.com/app/3889960/
 { "name": "WarfaceSteamLauncherInstaller.exe", "type": "Game" }
-{ "name": "Game.exe", "type": "Game" }
 
 # Warface: Clutch https://store.steampowered.com/app/291480/Warface_Clutch/
 { "name": "WarfaceClutchSteamLoader.exe", "type": "Game" }
@@ -209,9 +205,6 @@
 # WARNO https://store.steampowered.com/app/1611600/WARNO/
 { "name": "WARNO.exe", "type": "Game" }
 
-# War of Dots https://store.steampowered.com/app/3902430/War_of_Dots/
-{ "name": "game.exe", "type": "Game" }
-
 # War of Rights https://store.steampowered.com/app/424030/War_of_Rights/
 { "name": "War of Rights Launcher.exe", "type": "Game" }
 { "name": "WarOfRights.exe", "type": "BG_CPUIO" }
@@ -307,17 +300,10 @@
 # Watermelon https://store.steampowered.com/app/3059220/Watermelon/
 { "name": "Watermelon.exe", "type": "Game" }
 
-# Waterpark Simulator https://store.steampowered.com/app/3293260/Waterpark_Simulator/
-{ "name": "WaterparkSimulator.exe", "type": "Game" }
-
-# Waterpark Simulator Demo https://store.steampowered.com/app/3730180/Waterpark_Simulator_Demo/
-{ "name": "WaterparkSimulator.exe", "type": "Game" }
-
 # Waveform https://store.steampowered.com/app/204180/Waveform/
 { "name": "Waveform.exe", "type": "Game" }
 
 # Waven https://store.steampowered.com/app/2343650/Waven/
-{ "name": "Zaapi.exe", "type": "Game" }
 { "name": "Waven.exe", "type": "Game" }
 
 # Waves https://store.steampowered.com/app/107600/Waves/
@@ -472,12 +458,6 @@
 # White Day: A Labyrinth Named School https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/
 { "name": "WhiteDay.exe", "type": "Game" }
 
-# White Knuckle https://store.steampowered.com/app/3195790/White_Knuckle/
-{ "name": "White Knuckle.exe", "type": "Game" }
-
-# White Knuckle Demo https://store.steampowered.com/app/3218540/White_Knuckle_Demo/
-{ "name": "White Knuckle.exe", "type": "Game" }
-
 # Who's Lila? https://store.steampowered.com/app/1697700/Whos_Lila/
 { "name": "WhosLila.exe", "type": "Game" }
 
@@ -556,12 +536,6 @@
 # Windrose https://store.steampowered.com/app/3041230/Windrose/
 { "name": "Windrose-Win64-Shipping.exe", "type": "Game" }
 { "name": "Windrose.exe", "type": "Game" }
-{ "name": "WindroseServer-Win64-Shipping.exe", "type": "BG_CPUIO" }
-{ "name": "WindroseServer.exe", "type": "BG_CPUIO" }
-
-# Windrose Dedicated Server https://store.steampowered.com/app/4129620/
-{ "name": "WindroseServer.exe", "type": "Game" }
-{ "name": "WindroseServer-Win64-Shipping.exe", "type": "Game" }
 
 # Winds of Valen https://store.steampowered.com/app/4135880/Winds_of_Valen/
 { "name": "ProjectSandbox.exe", "type": "Game" }
@@ -677,18 +651,6 @@
 { "name": "Spear.exe", "type": "Game" }
 { "name": "wolf3d.exe", "type": "Game" }
 
-# Wolfenstein II: The New Colossus https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/
-{ "name": "NewColossus_x64vk.exe", "type": "Game" }
-
-# Wolfenstein II: The New Colossus German Edition https://store.steampowered.com/app/650500/
-{ "name": "NewColossus_x64vk.exe", "type": "Game" }
-
-# Wolfenstein: The New Order https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/
-{ "name": "WolfNewOrder_x64.exe", "type": "Game" }
-
-# Wolfenstein: The New Order German Edition https://store.steampowered.com/app/288570/
-{ "name": "WolfNewOrder_x64.exe", "type": "Game" }
-
 # Wolfenstein: The Old Blood https://store.steampowered.com/app/350080/Wolfenstein_The_Old_Blood/
 { "name": "WolfOldBlood_x64.exe", "type": "Game" }
 
@@ -735,7 +697,6 @@
 { "name": "worldbox.exe", "type": "Game" }
 
 # World Crafter TD https://store.steampowered.com/app/3098890/World_Crafter_TD/
-{ "name": "NewKaragon.exe", "type": "Game" }
 { "name": "NewKaragon.exe", "type": "Game" }
 
 # WORLD OF FINAL FANTASY https://store.steampowered.com/app/552700/WORLD_OF_FINAL_FANTASY/
@@ -945,5 +906,4 @@
 { "name": "WyldeFlowers.exe", "type": "Game" }
 
 # Wyldheart Beta https://store.steampowered.com/app/3643050/Wyldheart/
-{ "name": "UnrealGameSteam.exe", "type": "Game" }
 { "name": "UnrealGameSteam.exe", "type": "Game" }

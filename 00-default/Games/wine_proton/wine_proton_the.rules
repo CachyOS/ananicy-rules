@@ -144,9 +144,6 @@
 # The Chef's Shift https://store.steampowered.com/app/2390230/The_Chefs_Shift/
 { "name": "The Chef's Shift.exe", "type": "Game" }
 
-# The Chronicles Of Myrtana: Archolos https://store.steampowered.com/app/1467450/The_Chronicles_Of_Myrtana_Archolos/
-{ "name": "Gothic2.exe", "type": "Game" }
-
 # The Chronicles of Riddick: Assault on Dark Athena https://steamdb.info/app/9860/
 { "name": "DarkAthena.exe", "type": "Game" }
 
@@ -221,9 +218,6 @@
 
 # The Dark Pictures Anthology: The Devil in Me https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
 { "name": "TheDevilInMe.exe", "type": "Game" }
-
-# The Deed https://store.steampowered.com/app/420740/The_Deed/
-{ "name": "Game.exe", "type": "Game" }
 
 # The Deer https://store.steampowered.com/app/400240/The_Deer/
 { "name": "TheDeer.exe", "type": "Game" }
@@ -534,13 +528,6 @@
 # The Last Campfire https://store.steampowered.com/app/990630/The_Last_Campfire/
 { "name": "The Last Campfire.exe", "type": "Game" }
 
-# The Last Caretaker https://store.steampowered.com/app/1783560/The_Last_Caretaker/
-{ "name": "Voyage.exe", "type": "Game" }
-
-# The Last Caretaker Demo https://store.steampowered.com/app/3916150/The_Last_Caretaker/
-{ "name": "Voyage.exe", "type": "Game" }
-{ "name": "VoyageSteam-Win64-Shipping.exe", "type": "Game" }
-
 # The Last Door - Collector's Edition https://store.steampowered.com/app/284390/The_Last_Door__Collectors_Edition/
 { "name": "The Last Door CE.exe", "type": "Game" }
 
@@ -566,9 +553,6 @@
 
 # The Last Remnant https://store.steampowered.com/app/23310/The_Last_Remnant/
 { "name": "TLR.exe", "type": "Game" }
-
-# The Last Sovereign https://store.steampowered.com/app/951830/
-{ "name": "Game.exe", "type": "Game" }
 
 # The Last Spell https://store.steampowered.com/app/1105670/The_Last_Spell/
 { "name": "The Last Spell.exe", "type": "Game" }
@@ -801,12 +785,6 @@
 
 # The Plan https://store.steampowered.com/app/250600/The_Plan/
 { "name": "The Plan.exe", "type": "Game" }
-
-# The Planet Crafter https://store.steampowered.com/app/1284190/The_Planet_Crafter/
-{ "name": "Planet Crafter.exe", "type": "Game" }
-
-# The Planet Crafter Demo https://store.steampowered.com/app/1754850/The_Planet_Crafter/
-{ "name": "Planet Crafter.exe", "type": "Game" }
 
 # The Plucky Squire https://store.steampowered.com/app/1627570/The_Plucky_Squire/
 { "name": "Storybook.exe", "type": "Game" }
