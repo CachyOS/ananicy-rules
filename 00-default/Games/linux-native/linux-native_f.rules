@@ -14,9 +14,6 @@
 # FACEMINER https://store.steampowered.com/app/2276980/FACEMINER/
 { "name": "FACEMINER", "type": "Game" }
 
-# Factorio https://store.steampowered.com/app/427520/Factorio/
-{ "name": "factorio", "type": "Game" }
-
 # Faeria https://store.steampowered.com/app/397060/Faeria/
 { "name": "Faeria.x86", "type": "Game" }
 { "name": "Faeria.x86_64", "type": "Game" }
@@ -27,21 +24,6 @@
 # Fantasy Grounds VTT https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/
 { "name": "FGUSteamLauncher", "type": "Game" }
 { "name": "FGUWebInstall.bin", "type": "BG_CPUIO" }
-
-# Factorio Demo https://store.steampowered.com/app/452280/Factorio/
-{ "name": "factorio", "type": "Game" }
-
-# Football Manager 2014 https://store.steampowered.com/app/231670/
-{ "name": "fm", "type": "Game" }
-
-# Football Manager 2015 https://store.steampowered.com/app/295270/
-{ "name": "fm", "type": "Game" }
-
-# Football Manager 2016 https://store.steampowered.com/app/378120/
-{ "name": "fm", "type": "Game" }
-
-# Football Manager 2018 https://store.steampowered.com/app/624090/
-{ "name": "fm", "type": "Game" }
 
 # FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
 { "name": "FreshWomen", "type": "Game" }

@@ -283,9 +283,6 @@
 # Songs for a Hero - Definitive Edition https://store.steampowered.com/app/389170/Songs_for_a_Hero__Definitive_Edition/
 { "name": "DumaLegend.bin.x86_64", "type": "Game" }
 
-# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
-{ "name": "songsofsyx", "type": "Game" }
-
 # Sonic Unleashed Recompiled https://github.com/hedge-dev/UnleashedRecomp/
 { "name": "UnleashedRecomp", "type": "Game" }
 
@@ -482,15 +479,6 @@
 
 # Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
 { "name": "swhaop_playtest.x86_64", "type": "Game" }
-
-# Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
-{ "name": "songsofsyx", "type": "Game" }
-
-# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
-{ "name": "hl2_linux", "type": "Game" }
-{ "name": "hl2_linux64", "type": "Game" }
-{ "name": "srcds_linux", "type": "Game" }
-{ "name": "srcds_linux64", "type": "Game" }
 
 # Space Station 14 Playtest https://store.steampowered.com/app/1482520/Space_Station_14/
 { "name": "SS14.Launcher", "type": "Game" }

@@ -308,6 +308,10 @@
 # Football Manager 2020 https://store.steampowered.com/app/1100600/Football_Manager_2020/
 # Football Manager 2021 https://store.steampowered.com/app/1263850/Football_Manager_2021/
 # Football Manager 2022 https://store.steampowered.com/app/1569040/Football_Manager_2022/
+# Football Manager 2014 https://store.steampowered.com/app/231670/
+# Football Manager 2015 https://store.steampowered.com/app/295270/
+# Football Manager 2016 https://store.steampowered.com/app/378120/
+# Football Manager 2018 https://store.steampowered.com/app/624090/
 { "name": "fm.exe", "type": "Game" }
 
 # Football Manager 26 https://store.steampowered.com/app/3551340/Football_Manager_26/
@@ -465,6 +469,7 @@
 # Huǒyàn zhēngchéng 火焰征程 https://store.steampowered.com/app/2492430/_/
 # Fēi yuè xiān xíng lù 緋月仙行錄 https://store.steampowered.com/app/4048300/
 # Dàqiān shìjiè 2 The Stupendous World Demo 大千世界2 The Stupendous World Demo https://store.steampowered.com/app/4062070/2_The_Stupendous_World_Demo/
+# Treasure of Nadia https://store.steampowered.com/app/1737100/
 { "name": "Game.exe", "type": "Game" }
 
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
@@ -545,6 +550,8 @@
 # Portal https://store.steampowered.com/app/400/Portal/
 # Half-Life 2: Episode Two https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
 # Source SDK Base 2007 https://store.steampowered.com/app/218/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+# Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
 { "name": "hl2.exe", "type": "Game" }
 
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
@@ -637,7 +644,16 @@
 # Live2DViewerEX https://store.steampowered.com/app/616720/Live2DViewerEX/
 # Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
 # Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
+# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
 { "name": "launcher.exe", "type": "Game" }
+
+# Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
+# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
+{ "name": "SongsOfSyx.exe", "type": "Game" }
+
+# Total War: SHOGUN 2 https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/
+# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
+{ "name": "shogun2.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
 # Eador. Masters of the Broken World https://store.steampowered.com/app/232050/Eador_Masters_of_the_Broken_World/
@@ -878,6 +894,26 @@
 # Liúwáng àn dào 流亡黯道 https://store.steampowered.com/app/2855560/
 # Liúwáng àn dào 2 流亡黯道2 https://store.steampowered.com/app/3260140/Path_of_Exile_2/
 { "name": "PathOfExile_x64Steam.exe", "type": "Game" }
+
+# Baldi's Basics Classic Remastered https://store.steampowered.com/app/1712830/Baldis_Basics_Classic_Remastered/
+# Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
+{ "name": "BALDI.exe", "type": "Game" }
+
+# Factorio Demo https://store.steampowered.com/app/452280/Factorio/
+# Factorio https://store.steampowered.com/app/427520/Factorio/
+{ "name": "Factorio.exe", "type": "Game" }
+
+# Euro Truck Simulator 2 https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
+# Euro Truck Simulator 2 Demo https://store.steampowered.com/app/231120/Euro_Truck_Simulator_2/
+{ "name": "eurotrucks2.exe", "type": "Game" }
+
+# Warhammer 40,000: Dawn of War II - Retribution https://store.steampowered.com/app/56400/
+# Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
+{ "name": "DOW2.exe", "type": "Game" }
+
+# American Truck Simulator Demo https://store.steampowered.com/app/441960/American_Truck_Simulator/
+# American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
+{ "name": "amtrucks.exe", "type": "Game" }
 
 # Stormshot https://store.steampowered.com/app/2554670/Stormshot/
 # State of Survival https://store.steampowered.com/app/2485460/State_of_Survival/
@@ -1398,6 +1434,16 @@
 # Zula Türkiye https://store.steampowered.com/app/714210/
 { "name": "zula_launcher.exe", "type": "Game" }
 
+# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
+# Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
+{ "name": "SyxWithout.exe", "type": "Game" }
+
+# Synergy Dedicated Server https://store.steampowered.com/app/17525/
+# Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
+# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+{ "name": "srcds.exe", "type": "Service" }
+
+
 ### Other (no sorting required) ### 
 
 # 3D audio rendering library
@@ -1423,10 +1469,6 @@
 
 # AVIcodec is a free multimedia file analyser for Windows http://avicodec.duby.info/
 { "name": "avicodec.exe", "type": "BG_CPUIO" }
-
-# Source dedicated server
-# Synergy Dedicated Server https://store.steampowered.com/app/17525/
-{ "name": "srcds.exe", "type": "Service" }
 
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
