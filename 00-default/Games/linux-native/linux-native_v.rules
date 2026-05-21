@@ -59,3 +59,9 @@
 
 # VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
 { "name": "VVVVVV", "type": "Game" }
+
+# Valheim Dedicated Server https://store.steampowered.com/app/896660/
+{ "name": "valheim_server.x86_64", "type": "Game" }
+
+# VRCVideoCacher https://store.steampowered.com/app/4296960/VRCVideoCacher/
+{ "name": "VRCVideoCacher", "type": "BG_CPUIO" }

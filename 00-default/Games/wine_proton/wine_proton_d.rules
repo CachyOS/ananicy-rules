@@ -718,6 +718,23 @@
 { "name": "ShooterGame-Win32-Shipping.exe", "type": "Game" }
 { "name": "DirtyBombLauncher.exe", "type": "BG_CPUIO" }
 
+# Delivery & Beyond https://store.steampowered.com/app/3376480/Delivery__Beyond/
+{ "name": "delivery-beyond.exe", "type": "Game" }
+
+# Desert Stalker https://store.steampowered.com/app/2899050/
+{ "name": "DesertStalker.exe", "type": "Game" }
+
+# DFHack - Dwarf Fortress Modding Engine https://store.steampowered.com/app/2346660/DFHack__Dwarf_Fortress_Modding_Engine/
+{ "name": "launchdf.exe", "type": "Game" }
+{ "name": "binpatch.exe", "type": "Game" }
+{ "name": "dfhack-run.exe", "type": "Game" }
+
+# Down with the Ship https://store.steampowered.com/app/3523750/Down_with_the_Ship/
+{ "name": "Down with the Ship.exe", "type": "Game" }
+
+# Drift Legends 2 https://store.steampowered.com/app/3664010/Drift_Legends_2/
+{ "name": "Drift Legends 2.exe", "type": "Game" }
+
 # Disc Golf Valley https://store.steampowered.com/app/1642890/Disc_Golf_Valley/
 { "name": "DiscGolf.exe", "type": "Game" }
 
