@@ -46,6 +46,9 @@
 # Team Fortress 2 http://store.steampowered.com/app/440/Team_Fortress_2/
 { "name": "tf_linux64", "type": "Game" }
 
+# Team Fortress 2 Classified https://store.steampowered.com/app/3545060/Team_Fortress_2_Classified/
+{ "name": "tf2classified_linux64", "type": "Game" }
+
 # Teenage Mutant Ninja Turtles: Shredder's Revenge https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/
 { "name": "TMNT", "type": "Game" }
 
@@ -90,18 +93,6 @@
 # They Bleed Pixels https://store.steampowered.com/app/211260/They_Bleed_Pixels/
 { "name": "TheyBleedPixels", "type": "Game" }
 
-# Tiny Aquarium https://store.steampowered.com/app/2581950/Tiny_Aquarium_Social_Fishkeeping/
-{ "name": "TinyAquarium.x86_64", "type": "Game" }
-
-# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
-{ "name": "Shogun2", "type": "Game" }
-
-# Trees Hate You Demo https://store.steampowered.com/app/4307190/Trees_Hate_You_Demo/
-{ "name": "TreesHateYou.x86_64", "type": "Game" }
-
-# Team Fortress 2 Classified https://store.steampowered.com/app/3545060/Team_Fortress_2_Classified/
-{ "name": "tf2classified_linux64", "type": "Game" }
-
 # Thirty Flights of Loving https://store.steampowered.com/app/214700/Thirty_Flights_of_Loving/
 { "name": "tfol", "type": "Game" }
 
@@ -136,6 +127,9 @@
 
 # Tiny and Big: Grandpa's Leftovers https://store.steampowered.com/app/205910/Tiny_and_Big_Grandpas_Leftovers/
 { "name": "tinyandbig", "type": "Game" }
+
+# Tiny Aquarium https://store.steampowered.com/app/2581950/Tiny_Aquarium_Social_Fishkeeping/
+{ "name": "TinyAquarium.x86_64", "type": "Game" }
 
 # Tiny Bookshop https://store.steampowered.com/app/2133760/Tiny_Bookshop/
 { "name": "Tiny Bookshop.x86_64", "type": "Game" }
@@ -201,6 +195,9 @@
 # Total War: ROME REMASTERED https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
 { "name": "Rome", "type": "Game" }
 
+# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
+{ "name": "Shogun2", "type": "Game" }
+
 # Total War: THREE KINGDOMS https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/
 { "name": "ThreeKingdoms", "type": "Game" }
 
@@ -241,6 +238,9 @@
 
 # Transport Fever 2 https://store.steampowered.com/app/1066780/Transport_Fever_2/
 { "name": "TransportFever2", "type": "Game" }
+
+# Trees Hate You Demo https://store.steampowered.com/app/4307190/Trees_Hate_You_Demo/
+{ "name": "TreesHateYou.x86_64", "type": "Game" }
 
 # Tricky Towers https://store.steampowered.com/app/437920/Tricky_Towers/
 { "name": "TrickyTowers.x86", "type": "Game" }

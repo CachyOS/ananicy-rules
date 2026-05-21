@@ -14,6 +14,9 @@
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "valheim.x86_64", "type": "Game" }
 
+# Valheim Dedicated Server https://store.steampowered.com/app/896660/
+{ "name": "valheim_server.x86_64", "type": "Game" }
+
 # Vampire Therapist https://store.steampowered.com/app/2481020/Vampire_Therapist/
 { "name": "VampireTherapist.x86_64", "type": "Game" }
 
@@ -57,11 +60,8 @@
 # Volgarr the Viking https://store.steampowered.com/app/247240/Volgarr_the_Viking/
 { "name": "Volgarr", "type": "Game" }
 
-# VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
-{ "name": "VVVVVV", "type": "Game" }
-
-# Valheim Dedicated Server https://store.steampowered.com/app/896660/
-{ "name": "valheim_server.x86_64", "type": "Game" }
-
 # VRCVideoCacher https://store.steampowered.com/app/4296960/VRCVideoCacher/
 { "name": "VRCVideoCacher", "type": "BG_CPUIO" }
+
+# VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
+{ "name": "VVVVVV", "type": "Game" }

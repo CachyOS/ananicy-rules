@@ -301,6 +301,9 @@
 # Kiosk https://store.steampowered.com/app/3126330/Kiosk/
 { "name": "Kiosk.exe", "type": "Game" }
 
+# Kittens Game https://store.steampowered.com/app/1097410/Kittens_Game/
+{ "name": "Kittens Game.exe", "type": "Game" }
+
 # Kitty Powers' Matchmaker https://store.steampowered.com/app/285740/Kitty_Powers_Matchmaker/
 { "name": "matchmaker.exe", "type": "Game" }
 
@@ -309,9 +312,6 @@
 
 # KLETKA https://store.steampowered.com/app/1699480/KLETKA/
 { "name": "KLETKA.exe", "type": "Game" }
-
-# Kittens Game https://store.steampowered.com/app/1097410/Kittens_Game/
-{ "name": "Kittens Game.exe", "type": "Game" }
 
 # Klonoa Phantasy Reverie Series https://store.steampowered.com/app/1730680/Klonoa_Phantasy_Reverie_Series/
 { "name": "Klonoa.exe", "type": "Game" }

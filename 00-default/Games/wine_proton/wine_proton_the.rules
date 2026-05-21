@@ -9,6 +9,9 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39steps.exe", "type": "Game" }
 
+# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
+{ "name": "kicksalot.exe", "type": "Game" }
+
 # The Age of Decadence https://store.steampowered.com/app/230070/The_Age_of_Decadence/
 { "name": "AoD.exe", "type": "Game" }
 { "name": "AoD64.exe", "type": "Game" }
@@ -551,15 +554,6 @@
 # The Last Plague: Blight https://store.steampowered.com/app/1564600/The_Last_Plague_Blight/
 { "name": "TheLastPlague.exe", "type": "Game" }
 
-# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
-{ "name": "kicksalot.exe", "type": "Game" }
-
-# The Powder Toy https://store.steampowered.com/app/1148350/The_Powder_Toy/
-{ "name": "Powder.exe", "type": "Game" }
-
-# The Red Pearls Of Borneo https://store.steampowered.com/app/4488860/The_Red_Pearls_Of_Borneo/
-{ "name": "The Red Pearls of Borneo.exe", "type": "Game" }
-
 # The Last Remnant https://store.steampowered.com/app/23310/The_Last_Remnant/
 { "name": "TLR.exe", "type": "Game" }
 
@@ -805,6 +799,9 @@
 # The Posthumous Investigation https://store.steampowered.com/app/2466900/The_Posthumous_Investigation/
 { "name": "The Posthumous Investigation.exe", "type": "Game" }
 
+# The Powder Toy https://store.steampowered.com/app/1148350/The_Powder_Toy/
+{ "name": "Powder.exe", "type": "Game" }
+
 # The Precinct https://store.steampowered.com/app/490110/The_Precinct/
 { "name": "Precinct.exe", "type": "Game" }
 
@@ -820,6 +817,9 @@
 # The Ranch of Rivershine https://store.steampowered.com/app/1559600/The_Ranch_of_Rivershine/
 { "name": "TheRanchOfRivershine.exe", "type": "Game" }
 { "name": "TheRanchOfRivershine-Win64-Shipping.exe", "type": "Game" }
+
+# The Red Pearls Of Borneo https://store.steampowered.com/app/4488860/The_Red_Pearls_Of_Borneo/
+{ "name": "The Red Pearls of Borneo.exe", "type": "Game" }
 
 # The Rogue Prince of Persia https://store.steampowered.com/app/2717880/The_Rogue_Prince_of_Persia/
 { "name": "The Rogue Prince of Persia.exe", "type": "Game" }

@@ -121,6 +121,9 @@
 # Warhammer 40,000: Dawn of War III https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
 { "name": "RelicDoW3.exe", "type": "Game" }
 
+# Warhammer 40,000: Dawn of War II - Retribution https://store.steampowered.com/app/56400/
+{ "name": "DOW2_r.exe", "type": "Game" }
+
 # Warhammer 40,000: Dawn of War - Soulstorm https://store.steampowered.com/app/9450/Warhammer_40000_Dawn_of_War__Soulstorm/
 { "name": "soulstorm.exe", "type": "Game" }
 
@@ -560,12 +563,6 @@
 { "name": "WP10_2025.exe", "type": "Game" }
 { "name": "WP10_2025_DX11.exe", "type": "Game" }
 
-# Warhammer 40,000: Dawn of War II - Retribution https://store.steampowered.com/app/56400/
-{ "name": "DOW2_r.exe", "type": "Game" }
-
-# World War Legion https://store.steampowered.com/app/3577060/World_War_Legion/
-{ "name": "WorldWarLegion.exe", "type": "Game" }
-
 # Winning Post 10 2026 https://store.steampowered.com/app/3839710/
 { "name": "WP10_2026_Launcher.exe", "type": "Game" }
 { "name": "WP10_2026.exe", "type": "Game" }
@@ -764,6 +761,9 @@
 
 # World War III: Black Gold https://store.steampowered.com/app/254080/World_War_III_Black_Gold/
 { "name": "WW3.exe", "type": "Game" }
+
+# World War Legion https://store.steampowered.com/app/3577060/World_War_Legion/
+{ "name": "WorldWarLegion.exe", "type": "Game" }
 
 # World War Z https://store.steampowered.com/app/699130/World_War_Z/
 { "name": "wwzRetail.exe", "type": "Game" }

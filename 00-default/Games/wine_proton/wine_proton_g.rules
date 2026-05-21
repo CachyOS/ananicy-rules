@@ -29,6 +29,10 @@
 # Galaxy Burger https://store.steampowered.com/app/2749770/Galaxy_Burger/
 { "name": "Galaxy Burger.exe", "type": "Game" }
 
+# Galaxy Life https://store.steampowered.com/app/1927780/Galaxy_Life/
+{ "name": "GalaxyLifeUE5.exe", "type": "Game" }
+{ "name": "Galaxy Life.exe", "type": "Game" }
+
 # Galaxy on Fire 2 Full HD https://store.steampowered.com/app/212010/Galaxy_on_Fire_2_Full_HD/
 { "name": "GoF2Launcher.exe", "type": "Game" }
 { "name": "GOF2.exe", "type": "Game" }
@@ -479,15 +483,8 @@
 # GP Bikes https://store.steampowered.com/app/848050/GP_Bikes/
 { "name": "gpbikes.exe", "type": "Game" }
 
-# Galaxy Life https://store.steampowered.com/app/1927780/Galaxy_Life/
-{ "name": "GalaxyLifeUE5.exe", "type": "Game" }
-{ "name": "Galaxy Life.exe", "type": "Game" }
-
 # Graalonline Era https://store.steampowered.com/app/2358050/GraalOnline_Era/
 { "name": "Era.exe", "type": "Game" }
-
-# Grimshire https://store.steampowered.com/app/2238470/Grimshire/
-{ "name": "Grimshire.exe", "type": "Game" }
 
 # Granado Espada https://store.steampowered.com/app/663090/Granado_Espada/
 { "name": "ge.exe", "type": "Game" }
@@ -640,6 +637,9 @@
 
 # Grimm https://store.steampowered.com/app/252150/Grimm/
 { "name": "GrimmLauncher.exe", "type": "Game" }
+
+# Grimshire https://store.steampowered.com/app/2238470/Grimshire/
+{ "name": "Grimshire.exe", "type": "Game" }
 
 # Grind Survivors https://store.steampowered.com/app/3816930/Grind_Survivors/
 { "name": "GrindSurvivors.exe", "type": "Game" }

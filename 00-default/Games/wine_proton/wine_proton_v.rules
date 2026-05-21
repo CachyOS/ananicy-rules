@@ -30,6 +30,9 @@
 # Valheim https://store.steampowered.com/app/892970/Valheim/
 { "name": "Valheim.exe", "type": "Game" }
 
+# Valheim Dedicated Server https://store.steampowered.com/app/896660/
+{ "name": "valheim_server.exe", "type": "Game" }
+
 # Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/
 { "name": "Valiant Hearts.exe", "type": "Game" }
 
@@ -60,15 +63,6 @@
 # Vampire: The Masquerade - Bloodhunt https://store.steampowered.com/app/760160/Vampire_The_Masquerade__Bloodhunt/
 { "name": "Tiger.exe", "type": "Game" }
 { "name": "Tiger-Win64-Shipping.exe", "type": "Game" }
-
-# Valheim Dedicated Server https://store.steampowered.com/app/896660/
-{ "name": "valheim_server.exe", "type": "Game" }
-
-# Virtual Cottage 2 https://store.steampowered.com/app/2943180/Virtual_Cottage_2/
-{ "name": "VirtualCottage2.exe", "type": "Game" }
-
-# VRCVideoCacher https://store.steampowered.com/app/4296960/VRCVideoCacher/
-{ "name": "VRCVideoCacher.exe", "type": "BG_CPUIO" }
 
 # Vampire: The Masquerade - Bloodlines https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
 { "name": "vampire.exe", "type": "Game" }
@@ -205,6 +199,9 @@
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_WINDOWS.exe", "type": "Game" }
 
+# Virtual Cottage 2 https://store.steampowered.com/app/2943180/Virtual_Cottage_2/
+{ "name": "VirtualCottage2.exe", "type": "Game" }
+
 # Virtual Desktop Classic https://store.steampowered.com/app/382110/Virtual_Desktop_Classic/
 { "name": "Virtual Desktop.exe", "type": "BG_CPUIO" }
 
@@ -320,6 +317,9 @@
 
 # VRC PRO https://store.steampowered.com/app/335070/VRC_PRO/
 { "name": "vrcpro.exe", "type": "Game" }
+
+# VRCVideoCacher https://store.steampowered.com/app/4296960/VRCVideoCacher/
+{ "name": "VRCVideoCacher.exe", "type": "BG_CPUIO" }
 
 # VRHandsFrame https://store.steampowered.com/app/2324090/VRHandsFrame/
 { "name": "VRHandsFrameProcessManager.exe", "type": "BG_CPUIO" }

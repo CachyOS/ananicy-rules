@@ -110,6 +110,9 @@
 # Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.x64", "type": "Game" }
 
+# CivIdle https://store.steampowered.com/app/2181940/CivIdle/
+{ "name": "cividle", "type": "Game" }
+
 # ClassiCube https://steamdb.info/app/1065710/
 { "name": "ClassiCube", "type": "Game" }
 { "name": "classicube", "type": "Game" }
@@ -155,6 +158,9 @@
 # Comedy Night https://store.steampowered.com/app/665360/Comedy_Night/
 { "name": "Comedy Night.x86_64", "type": "Game" }
 
+# Come Home https://store.steampowered.com/app/1724190/
+{ "name": "ComeHome", "type": "Game" }
+
 # Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
 { "name": "Linux.x64", "type": "Game" }
 
@@ -199,20 +205,11 @@
 # Crab Game https://store.steampowered.com/app/1782210/Crab_Game/
 { "name": "Crab Game.x86_64", "type": "Game" }
 
-# Crashlands https://store.steampowered.com/app/391730/Crashlands/
-{ "name": "Crashlands", "type": "Game" }
-
-# CivIdle https://store.steampowered.com/app/2181940/CivIdle/
-{ "name": "cividle", "type": "Game" }
-
-# Come Home https://store.steampowered.com/app/1724190/
-{ "name": "ComeHome", "type": "Game" }
-
 # Cranked Playtest https://store.steampowered.com/app/4208600/Cranked/
 { "name": "Cranked.x86_64", "type": "Game" }
 
-# Cropdeck https://store.steampowered.com/app/3500680/Cropdeck/
-{ "name": "Cropdeck.x86_64", "type": "Game" }
+# Crashlands https://store.steampowered.com/app/391730/Crashlands/
+{ "name": "Crashlands", "type": "Game" }
 
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "Crea", "type": "Game" }
@@ -231,6 +228,9 @@
 # Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos", "type": "Game" }
 { "name": "Cronos-Linux-Shipping", "type": "Game" }
+
+# Cropdeck https://store.steampowered.com/app/3500680/Cropdeck/
+{ "name": "Cropdeck.x86_64", "type": "Game" }
 
 # CrossCode https://store.steampowered.com/app/368340/CrossCode/
 { "name": "CrossCode", "type": "Game" }

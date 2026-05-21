@@ -9,6 +9,9 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39stepslinux.x86", "type": "Game" }
 
+# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
+{ "name": "kicksalot.x86_64", "type": "Game" }
+
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
 
@@ -37,15 +40,6 @@
 
 # The Bridge https://store.steampowered.com/app/204240/The_Bridge/
 { "name": "thebridge.x86_64", "type": "Game" }
-
-# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
-{ "name": "kicksalot.x86_64", "type": "Game" }
-
-# The Powder Toy https://store.steampowered.com/app/1148350/The_Powder_Toy/
-{ "name": "powder", "type": "Game" }
-
-# The Red Pearls Of Borneo https://store.steampowered.com/app/4488860/The_Red_Pearls_Of_Borneo/
-{ "name": "the-red-pearls-of-borneo", "type": "Game" }
 
 # The Cave https://store.steampowered.com/app/221810/The_Cave/
 { "name": "Cave.bin.x86", "type": "Game" }
@@ -202,6 +196,12 @@
 
 # The Plan https://store.steampowered.com/app/250600/The_Plan/
 { "name": "The Plan.x86", "type": "Game" }
+
+# The Powder Toy https://store.steampowered.com/app/1148350/The_Powder_Toy/
+{ "name": "powder", "type": "Game" }
+
+# The Red Pearls Of Borneo https://store.steampowered.com/app/4488860/The_Red_Pearls_Of_Borneo/
+{ "name": "the-red-pearls-of-borneo", "type": "Game" }
 
 # The Roottrees are Dead https://store.steampowered.com/app/2754380/The_Roottrees_are_Dead/
 { "name": "roottrees", "type": "Game" }

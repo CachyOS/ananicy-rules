@@ -204,6 +204,9 @@
 { "name": "tf.exe", "type": "Game" }
 { "name": "tf_win64.exe", "type": "Game" }
 
+# Team Fortress 2 Classified https://store.steampowered.com/app/3545060/Team_Fortress_2_Classified/
+{ "name": "tf2classified_win64.exe", "type": "Game" }
+
 # Team Sonic Racing https://store.steampowered.com/app/785260/Team_Sonic_Racing/
 { "name": "GameApp_PcDx11_x64Final.exe", "type": "Game" }
 
@@ -566,6 +569,9 @@
 # Tiny and Big: Grandpa's Leftovers https://store.steampowered.com/app/205910/Tiny_and_Big_Grandpas_Leftovers/
 { "name": "tinyandbig.exe", "type": "Game" }
 
+# Tiny Aquarium https://store.steampowered.com/app/2581950/Tiny_Aquarium_Social_Fishkeeping/
+{ "name": "Tiny Aquarium.exe", "type": "Game" }
+
 # Tiny Biomes: Cozy Idle https://store.steampowered.com/app/4276980/Tiny_Biomes_Cozy_Idle/
 { "name": "Tiny Biomes Cozy Idle.exe", "type": "Game" }
 
@@ -821,20 +827,8 @@
 { "name": "TAE.EXE", "type": "Game" }
 { "name": "TotalA.exe", "type": "Game" }
 
-# Team Fortress 2 Classified https://store.steampowered.com/app/3545060/Team_Fortress_2_Classified/
-{ "name": "tf2classified_win64.exe", "type": "Game" }
-
 # Total Chaos https://store.steampowered.com/app/2208350/Total_Chaos/
 { "name": "Total Chaos.exe", "type": "Game" }
-
-# Tiny Aquarium https://store.steampowered.com/app/2581950/Tiny_Aquarium_Social_Fishkeeping/
-{ "name": "Tiny Aquarium.exe", "type": "Game" }
-
-# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
-{ "name": "shogun2.retail.exe", "type": "Game" }
-
-# Trees Hate You Demo https://store.steampowered.com/app/4307190/Trees_Hate_You_Demo/
-{ "name": "Trees Hate You.exe", "type": "Game" }
 
 # Total Conflict: Resistance https://store.steampowered.com/app/1860510/Total_Conflict_Resistance/
 { "name": "TotalConflictResistance.exe", "type": "Game" }
@@ -869,6 +863,9 @@
 
 # Total War: ROME REMASTERED https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/
 { "name": "Total War ROME REMASTERED.exe", "type": "Game" }
+
+# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
+{ "name": "shogun2.retail.exe", "type": "Game" }
 
 # Total War: THREE KINGDOMS https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/
 { "name": "Three_Kingdoms.exe", "type": "Game" }
@@ -1077,6 +1074,9 @@
 
 # Treasure Chest Clicker https://store.steampowered.com/app/2422090/Treasure_Chest_Clicker/
 { "name": "TreasureChestClicker.exe", "type": "Game" }
+
+# Trees Hate You Demo https://store.steampowered.com/app/4307190/Trees_Hate_You_Demo/
+{ "name": "Trees Hate You.exe", "type": "Game" }
 
 # Trek to Yomi https://store.steampowered.com/app/1370050/Trek_to_Yomi/
 { "name": "TrekToYomi.exe", "type": "Game" }

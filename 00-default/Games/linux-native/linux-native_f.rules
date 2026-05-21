@@ -25,11 +25,6 @@
 { "name": "FGUSteamLauncher", "type": "Game" }
 { "name": "FGUWebInstall.bin", "type": "BG_CPUIO" }
 
-# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
-{ "name": "FreshWomen", "type": "Game" }
-{ "name": "Julia In Japan", "type": "Game" }
-{ "name": "ChloesDesireExpress", "type": "Game" }
-
 # Fantasy Online 2 https://store.steampowered.com/app/2957110/Fantasy_Online_2/
 { "name": "fov4-steam", "type": "Game" }
 
@@ -106,6 +101,11 @@
 
 # freesynd https://freesynd.sourceforge.io/
 { "name": "freesynd", "type": "Game" }
+
+# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
+{ "name": "FreshWomen", "type": "Game" }
+{ "name": "Julia In Japan", "type": "Game" }
+{ "name": "ChloesDesireExpress", "type": "Game" }
 
 # From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
 { "name": "From_The_Depths.x86", "type": "Game" }

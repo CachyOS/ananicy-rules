@@ -40,8 +40,15 @@
 { "name": "FactoryGame", "type": "Game" }
 { "name": "FactoryGameSteam", "type": "Game" }
 
+# Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
+{ "name": "FactoryServer-Linux-Shipping", "type": "Game" }
+{ "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Game" }
+
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
+
+# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
+{ "name": "scapewatch", "type": "Game" }
 
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow", "type": "Game" }
@@ -132,6 +139,9 @@
 # Shatter https://store.steampowered.com/app/20820/Shatter/
 { "name": "Shatter.bin.x86", "type": "Game" }
 
+# Shattered Minds https://store.steampowered.com/app/2713690/
+{ "name": "Shattered_Minds", "type": "Game" }
+
 # Shattered Pixel Dungeon https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/
 { "name": "Shattered Pixel Dungeon", "type": "Game" }
 
@@ -166,6 +176,9 @@
 # Ship of Harkinian https://www.shipofharkinian.com/
 { "name": "soh.appimage", "type": "Game" }
 
+# Shipping Manager https://store.steampowered.com/app/2445660/Shipping_Manager/
+{ "name": "sm_sdl_steam", "type": "Game" }
+
 # Shogun Showdown https://store.steampowered.com/app/2084000/Shogun_Showdown/
 { "name": "ShogunShowdown.x86_64", "type": "Game" }
 
@@ -194,6 +207,9 @@
 # Sid Meier's Civilization VII https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/
 { "name": "Civ7_linux_Vulkan_FinalRelease", "type": "Game" }
 
+# Siegeturtle https://store.steampowered.com/app/3959050/Siegeturtle/
+{ "name": "Siegeturtle", "type": "Game" }
+
 # Silly Polly Beast https://store.steampowered.com/app/1598780/Silly_Polly_Beast/
 { "name": "Silly Polly Beast.x86_64", "type": "Game" }
 
@@ -201,11 +217,17 @@
 { "name": "SimAirport.x86_64", "type": "Game" }
 { "name": "SimAirport.x86", "type": "Game" }
 
+# Sim Companies https://store.steampowered.com/app/2253720/Sim_Companies/
+{ "name": "Sim Companies", "type": "Game" }
+
 # Simutrans https://store.steampowered.com/app/434520/Simutrans/
 { "name": "simutrans", "type": "Game" }
 
 # Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
 { "name": "SiralimUltimate", "type": "Game" }
+
+# Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
+{ "name": "swhaop_playtest.x86_64", "type": "Game" }
 
 # Sir, You Are Being Hunted https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/
 { "name": "sir", "type": "Game" }
@@ -313,6 +335,9 @@
 # Space Run https://store.steampowered.com/app/275670/Space_Run/
 { "name": "oSpaceGameMerged", "type": "Game" }
 
+# Space Station 14 Playtest https://store.steampowered.com/app/1482520/Space_Station_14/
+{ "name": "SS14.Launcher", "type": "Game" }
+
 # Sparkle 2 Evo https://store.steampowered.com/app/253650/Sparkle_2_Evo/
 { "name": "sparkle2evo.x86", "type": "Game" }
 
@@ -413,6 +438,9 @@
 # STONKS-9800: Stock Market Simulator https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/
 { "name": "STONKS_9800", "type": "Game" }
 
+# STRAFTAT https://store.steampowered.com/app/2386720/STRAFTAT/
+{ "name": "STRAFTAT.x86_64", "type": "Game" }
+
 # Stranded Deep https://store.steampowered.com/app/313120/Stranded_Deep/
 { "name": "Stranded_Deep", "type": "Game" }
 
@@ -458,43 +486,12 @@
 { "name": "Sunless Sea.x86", "type": "Game" }
 { "name": "Sunless Sea.x86_64", "type": "Game" }
 
-# Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
-{ "name": "FactoryServer-Linux-Shipping", "type": "Game" }
-{ "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Game" }
-
-# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
-{ "name": "scapewatch", "type": "Game" }
-
-# Shattered Minds https://store.steampowered.com/app/2713690/
-{ "name": "Shattered_Minds", "type": "Game" }
-
-# Shipping Manager https://store.steampowered.com/app/2445660/Shipping_Manager/
-{ "name": "sm_sdl_steam", "type": "Game" }
-
-# Siegeturtle https://store.steampowered.com/app/3959050/Siegeturtle/
-{ "name": "Siegeturtle", "type": "Game" }
-
-# Sim Companies https://store.steampowered.com/app/2253720/Sim_Companies/
-{ "name": "Sim Companies", "type": "Game" }
-
-# Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
-{ "name": "swhaop_playtest.x86_64", "type": "Game" }
-
-# Space Station 14 Playtest https://store.steampowered.com/app/1482520/Space_Station_14/
-{ "name": "SS14.Launcher", "type": "Game" }
-
-# STRAFTAT https://store.steampowered.com/app/2386720/STRAFTAT/
-{ "name": "STRAFTAT.x86_64", "type": "Game" }
-
-# Super Auto Pets https://store.steampowered.com/app/1714040/Super_Auto_Pets/
-{ "name": "superautopets.x86_64", "type": "Game" }
-
-# Synergism https://store.steampowered.com/app/3552310/Synergism/
-{ "name": "synergismofficial", "type": "Game" }
-
 # Sunless Skies https://store.steampowered.com/app/596970/Sunless_Skies_Sovereign_Edition/
 { "name": "Sunless Skies.x86", "type": "Game" }
 { "name": "Sunless Skies.x86_64", "type": "Game" }
+
+# Super Auto Pets https://store.steampowered.com/app/1714040/Super_Auto_Pets/
+{ "name": "superautopets.x86_64", "type": "Game" }
 
 # Superbrothers: Sword & Sworcery EP https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/
 { "name": "swordandsworcery_pc", "type": "Game" }
@@ -535,3 +532,6 @@
 # Symphony https://store.steampowered.com/app/207750/Symphony/
 { "name": "Symphony.bin.x86", "type": "Game" }
 { "name": "Symphony.bin.x86_64", "type": "Game" }
+
+# Synergism https://store.steampowered.com/app/3552310/Synergism/
+{ "name": "synergismofficial", "type": "Game" }

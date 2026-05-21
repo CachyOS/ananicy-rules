@@ -598,6 +598,9 @@
 { "name": "TramSimNext.exe", "type": "Game" }
 { "name": "TramSimNext-Win64-Shipping.exe", "type": "Game" }
 
+# CivIdle https://store.steampowered.com/app/2181940/CivIdle/
+{ "name": "cividle.exe", "type": "Game" }
+
 # Civilization IV: Beyond the Sword https://store.steampowered.com/app/8800/Civilization_IV_Beyond_the_Sword/
 { "name": "Civ4BeyondSword.exe", "type": "Game"}
 { "name": "Civ4BeyondSword_PitBoss.exe", "type": "Game"}
@@ -766,6 +769,10 @@
 
 # Comedy Night https://store.steampowered.com/app/665360/Comedy_Night/
 { "name": "Comedy Night.exe", "type": "Game" }
+
+# Come Home https://store.steampowered.com/app/1724190/
+{ "name": "ComeHome.exe", "type": "Game" }
+{ "name": "ComeHome-32.exe", "type": "Game" }
 
 # Command & Conquer 3: Kane’s Wrath https://store.steampowered.com/app/24810/Command__Conquer_3_Kanes_Wrath/
 { "name": "CNC3EP1.exe", "type": "Game" }
@@ -969,25 +976,12 @@
 { "name": "csgo_legacy_app.exe", "type": "Game" }
 { "name": "csgocfg.exe", "type": "Game" }
 
-# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
-{ "name": "cstrike.exe", "type": "Game" }
-{ "name": "cstrike_win64.exe", "type": "Game" }
-
-# CivIdle https://store.steampowered.com/app/2181940/CivIdle/
-{ "name": "cividle.exe", "type": "Game" }
-
-# Come Home https://store.steampowered.com/app/1724190/
-{ "name": "ComeHome.exe", "type": "Game" }
-{ "name": "ComeHome-32.exe", "type": "Game" }
-
 # Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
 { "name": "testapp.exe", "type": "Game" }
 
-# Cranked Playtest https://store.steampowered.com/app/4208600/Cranked/
-{ "name": "Cranked.exe", "type": "Game" }
-
-# Cropdeck https://store.steampowered.com/app/3500680/Cropdeck/
-{ "name": "Cropdeck.exe", "type": "Game" }
+# Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
+{ "name": "cstrike.exe", "type": "Game" }
+{ "name": "cstrike_win64.exe", "type": "Game" }
 
 # Cozy Grove https://store.steampowered.com/app/1458100/Cozy_Grove/
 { "name": "CozyGrove.exe", "type": "Game" }
@@ -1019,6 +1013,9 @@
 # Cralon https://store.steampowered.com/app/3440060/Cralon/
 { "name": "Cralon.exe", "type": "Game" }
 { "name": "Cralon-Win64-Shipping.exe", "type": "Game" }
+
+# Cranked Playtest https://store.steampowered.com/app/4208600/Cranked/
+{ "name": "Cranked.exe", "type": "Game" }
 
 # Crash Bandicoot 4: It’s About Time https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/
 { "name": "CrashBandicoot4.exe", "type": "Game" }
@@ -1123,6 +1120,9 @@
 
 # Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos-Win64-Shipping.exe", "type": "Game" }
+
+# Cropdeck https://store.steampowered.com/app/3500680/Cropdeck/
+{ "name": "Cropdeck.exe", "type": "Game" }
 
 # Cross Blitz https://store.steampowered.com/app/1619520/Cross_Blitz/
 { "name": "Cross Blitz.exe", "type": "Game" }

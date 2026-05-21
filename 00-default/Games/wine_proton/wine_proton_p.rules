@@ -68,6 +68,11 @@
 { "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
 { "name": "Palworld.exe", "type": "Game" }
 
+# Palworld Dedicated Server https://store.steampowered.com/app/2394010/
+{ "name": "PalServer.exe", "type": "Game" }
+{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Game" }
+{ "name": "PalServer-Win64-Shipping.exe", "type": "Game" }
+
 # PANICORE https://store.steampowered.com/app/2695940/PANICORE/
 { "name": "Panicore.exe", "type": "Game" }
 
@@ -151,6 +156,9 @@
 # Particle Fleet: Emergence https://store.steampowered.com/app/422900/Particle_Fleet_Emergence/
 { "name": "ParticleFleet.exe", "type": "Game" }
 
+# Particul https://store.steampowered.com/app/4273120/Particul/
+{ "name": "particul.exe", "type": "Game" }
+
 # Partisans 1941 https://store.steampowered.com/app/1227530/Partisans_1941/
 { "name": "Partisans.exe", "type": "Game" }
 
@@ -159,20 +167,6 @@
 
 # Party Club https://store.steampowered.com/app/2796010/Party_Club/
 { "name": "PartyClub.exe", "type": "Game" }
-
-# Palworld Dedicated Server https://store.steampowered.com/app/2394010/
-{ "name": "PalServer.exe", "type": "Game" }
-{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Game" }
-{ "name": "PalServer-Win64-Shipping.exe", "type": "Game" }
-
-# Particul https://store.steampowered.com/app/4273120/Particul/
-{ "name": "particul.exe", "type": "Game" }
-
-# Puck https://store.steampowered.com/app/2994020/Puck/
-{ "name": "Puck.exe", "type": "Game" }
-
-# PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
-{ "name": "PyramidValley.exe", "type": "Game" }
 
 # Party Hard https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.exe", "type": "Game" }
@@ -962,6 +956,9 @@
 { "name": "TslGame_BE.exe", "type": "Game" }
 { "name": "TslGame_ZK.exe", "type": "Game" }
 
+# Puck https://store.steampowered.com/app/2994020/Puck/
+{ "name": "Puck.exe", "type": "Game" }
+
 # PULSAR: Lost Colony https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/
 { "name": "PULSAR_LostColony.exe", "type": "Game" }
 
@@ -1006,3 +1003,6 @@
 
 # Puzzline https://store.steampowered.com/app/2088670/Puzzline/
 { "name": "Puzzline.exe", "type": "Game" }
+
+# PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
+{ "name": "PyramidValley.exe", "type": "Game" }
