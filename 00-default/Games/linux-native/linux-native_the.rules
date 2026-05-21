@@ -9,9 +9,6 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39stepslinux.x86", "type": "Game" }
 
-# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
-{ "name": "kicksalot.x86_64", "type": "Game" }
-
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
 
@@ -37,12 +34,6 @@
 # The Book of Unwritten Tales https://store.steampowered.com/app/215160/The_Book_of_Unwritten_Tales/
 { "name": "kAGEd", "type": "Game" }
 { "name": "kAGE", "type": "Game" }
-
-# The Adventures of Sir Kicksalot Demo https://store.steampowered.com/app/2820360/The_Adventures_of_Sir_Kicksalot/
-{ "name": "kicksalot.x86_64", "type": "Game" }
-
-# The Genesis Order https://store.steampowered.com/app/2553870/
-{ "name": "nw", "type": "Game" }
 
 # The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
 { "name": "TheSpellBrigade.x86_64", "type": "Game" }

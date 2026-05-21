@@ -21,8 +21,13 @@
 # Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
 # Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
 # Substance 3D Painter 2024 https://store.steampowered.com/app/2718190/Substance_3D_Painter_2024/
+# Substance 3D Painter 2026 https://store.steampowered.com/app/4329260/Substance_3D_Painter_2026/
 # Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
 { "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
+
+# FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
+# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
+{ "name": "FreshWomen.exe", "type": "Game" }
 
 # TAISHO x ALICE episode 1 https://store.steampowered.com/app/1056570/TAISHO_x_ALICE_episode_1/
 # TAISHO x ALICE episode 3 https://store.steampowered.com/app/1515890/TAISHO_x_ALICE_episode_3/
@@ -490,6 +495,7 @@
 # Fēi yuè xiān xíng lù 緋月仙行錄 https://store.steampowered.com/app/4048300/
 # Dàqiān shìjiè 2 The Stupendous World Demo 大千世界2 The Stupendous World Demo https://store.steampowered.com/app/4062070/2_The_Stupendous_World_Demo/
 # Treasure of Nadia https://store.steampowered.com/app/1737100/
+# The Genesis Order https://store.steampowered.com/app/2553870/
 { "name": "Game.exe", "type": "Game" }
 
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
@@ -620,11 +626,17 @@
 # Puzzle Pirates https://store.steampowered.com/app/99910/Puzzle_Pirates/
 # WAKFU https://store.steampowered.com/app/215080/WAKFU/
 # Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
+# Downfall - A Slay the Spire Fan Expansion https://store.steampowered.com/app/1865780/Downfall__A_Slay_the_Spire_Fan_Expansion/
 { "name": "java.exe", "type": "Game" }
+
+# The Adventures of Sir Kicksalot Demo https://store.steampowered.com/app/2820360/The_Adventures_of_Sir_Kicksalot/
+# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
+{ "name": "kicksalot.exe", "type": "Game" }
 
 # Spiral Knights https://store.steampowered.com/app/99900/Spiral_Knights/
 # Puzzle Pirates https://store.steampowered.com/app/99910/Puzzle_Pirates/
 # Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
+# Downfall - A Slay the Spire Fan Expansion https://store.steampowered.com/app/1865780/Downfall__A_Slay_the_Spire_Fan_Expansion/
 { "name": "javaw.exe", "type": "Game" }
 
 # Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
@@ -1128,7 +1140,12 @@
 # Synergy Dedicated Server https://store.steampowered.com/app/17525/
 # Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
 # Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+# Synergy https://store.steampowered.com/app/17520/Synergy/
 { "name": "srcds.exe", "type": "Service" }
+
+# The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
+# The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
+{ "name": "TheSpellBrigade.exe", "type": "Game" }
 
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 # Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
