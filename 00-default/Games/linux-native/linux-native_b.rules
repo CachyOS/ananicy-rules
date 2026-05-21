@@ -14,9 +14,6 @@
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
 
-# Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
-{ "name": "BALDI.x86_64", "type": "Game" }
-
 # Baldur's Gate 3 https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 { "name": "bg3", "type": "Game" }
 
@@ -100,6 +97,10 @@
 { "name": "Beholder2.x86", "type": "Game" }
 { "name": "Beholder2.x86_64", "type": "Game" }
 
+# Being a DIK https://store.steampowered.com/app/1126320/
+{ "name": "BeingADIK.exe", "type": "Game" }
+{ "name": "BeingADIK-32.exe", "type": "Game" }
+
 # Bendy and the Ink Machine https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/
 { "name": "BATIM.x86", "type": "Game" }
 { "name": "BATIM.x86_64", "type": "Game" }
@@ -111,6 +112,9 @@
 # BioShock Infinite https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "bioshock", "type": "Game" }
 { "name": "bioshock.i386", "type": "Game" }
+
+# Bitburner https://store.steampowered.com/app/1812820/Bitburner/
+{ "name": "bitburner", "type": "Game" }
 
 # BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien https://store.steampowered.com/app/218060/BITTRIP_Presents_Runner2_Future_Legend_of_Rhythm_Alien/
 { "name": "runner2", "type": "Game" }
@@ -211,6 +215,9 @@
 { "name": "bs1dc_i386", "type": "Game" }
 { "name": "bs1dc_x86_64", "type": "Game" }
 
+# Broken Sword - Shadow of the Templars: Reforged https://store.steampowered.com/app/2544110/Broken_Sword__Shadow_of_the_Templars_Reforged/
+{ "name": "BS1R", "type": "Game" }
+
 # Brotato https://store.steampowered.com/app/1942280/Brotato/
 { "name": "Brotato.x86_64", "type": "Game" }
 
@@ -222,6 +229,9 @@
 
 # Buckshot Roulette https://store.steampowered.com/app/2835570/Buckshot_Roulette/
 { "name": "Buckshot Roulette.x86_64", "type": "Game" }
+
+# Burning Boundaries Part 1 https://store.steampowered.com/app/4006400/
+{ "name": "BurningBoundaries", "type": "Game" }
 
 # BUTCHER https://store.steampowered.com/app/474210/BUTCHER/
 { "name": "Butcher", "type": "Game" }

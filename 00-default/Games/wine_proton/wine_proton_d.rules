@@ -443,6 +443,9 @@
 # Deliver Us The Moon https://store.steampowered.com/app/428660/Deliver_Us_The_Moon/
 { "name": "MoonMan.exe", "type": "Game" }
 
+# Delivery & Beyond https://store.steampowered.com/app/3376480/Delivery__Beyond/
+{ "name": "delivery-beyond.exe", "type": "Game" }
+
 # Delta Force https://store.steampowered.com/app/2507950/Delta_Force/
 { "name": "DeltaForceClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "DeltaForceClient.exe", "type": "Game" }
@@ -522,6 +525,9 @@
 
 # Descenders https://store.steampowered.com/app/681280/Descenders/
 { "name": "Descenders.exe", "type": "Game" }
+
+# Desert Stalker https://store.steampowered.com/app/2899050/
+{ "name": "DesertStalker.exe", "type": "Game" }
 
 # Desktop+ https://store.steampowered.com/app/1494460/Desktop/
 { "name": "DesktopPlus.exe", "type": "Game" }
@@ -616,6 +622,11 @@
 
 # Dex https://store.steampowered.com/app/269650/Dex/
 { "name": "Dex.exe", "type": "Game" }
+
+# DFHack - Dwarf Fortress Modding Engine https://store.steampowered.com/app/2346660/DFHack__Dwarf_Fortress_Modding_Engine/
+{ "name": "launchdf.exe", "type": "Game" }
+{ "name": "binpatch.exe", "type": "Game" }
+{ "name": "dfhack-run.exe", "type": "Game" }
 
 # DG2: Defense Grid 2 https://store.steampowered.com/app/221540/DG2_Defense_Grid_2/
 { "name": "DefenseGrid2_Release.exe", "type": "Game" }
@@ -978,6 +989,9 @@
 { "name": "downwell.exe", "type": "Game" }
 { "name": "Downwell.exe", "type": "Game" }
 
+# Down with the Ship https://store.steampowered.com/app/3523750/Down_with_the_Ship/
+{ "name": "Down with the Ship.exe", "type": "Game" }
+
 # Dragon Age II: Ultimate Edition https://store.steampowered.com/app/1238040/Dragon_Age_II_Ultimate_Edition/
 { "name": "DragonAge2.exe", "type": "Game" }
 
@@ -1125,6 +1139,9 @@
 # Driftland: The Magic Revival https://store.steampowered.com/app/718650/Driftland_The_Magic_Revival/
 { "name": "Driftland.exe", "type": "Game" }
 { "name": "Driftland-Win64-Shipping.exe", "type": "Game" }
+
+# Drift Legends 2 https://store.steampowered.com/app/3664010/Drift_Legends_2/
+{ "name": "Drift Legends 2.exe", "type": "Game" }
 
 # Drift Streets Japan https://store.steampowered.com/app/412880/Drift_Streets_Japan/
 { "name": "Drift Streets Japan.exe", "type": "Game" }

@@ -21,10 +21,18 @@
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "Airfoil Maker-x86_64", "type": "Game" }
 
+# American Truck Simulator Demo https://store.steampowered.com/app/441960/American_Truck_Simulator/
+# American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
+{ "name": "amtrucks", "type": "Game" }
+
 # Vending Machine Co. https://store.steampowered.com/app/3622640/Vending_Machine_Co/
 # Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
 # Lost But Found https://store.steampowered.com/app/3204250/Lost_But_Found/
 { "name": "app.x86_64", "type": "Game" }
+
+# Baldi's Basics Classic Remastered https://store.steampowered.com/app/1712830/Baldis_Basics_Classic_Remastered/
+# Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
+{ "name": "BALDI.x86_64", "type": "Game" }
 
 # Baldur's Gate https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
@@ -77,7 +85,18 @@
 # Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
 { "name": "DungeonDefenders", "type": "Game" }
 
-# Football Manager Series
+# Euro Truck Simulator 2 https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
+# Euro Truck Simulator 2 Demo https://store.steampowered.com/app/231120/Euro_Truck_Simulator_2/
+{ "name": "eurotrucks2", "type": "Game" }
+
+# Factorio Demo https://store.steampowered.com/app/452280/Factorio/
+# Factorio https://store.steampowered.com/app/427520/Factorio/
+{ "name": "factorio", "type": "Game" }
+
+# Football Manager 2014 https://store.steampowered.com/app/231670/
+# Football Manager 2015 https://store.steampowered.com/app/295270/
+# Football Manager 2016 https://store.steampowered.com/app/378120/
+# Football Manager 2018 https://store.steampowered.com/app/624090/
 { "name": "fm", "type": "Game" }
 
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
@@ -108,10 +127,13 @@
 # Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
 # BrainBread 2 https://store.steampowered.com/app/346330/BrainBread_2/
 # Half-Life 2: Episode Two https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+# Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
 { "name": "hl2_linux", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
 # Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
 { "name": "hl2_linux64", "type": "Game" }
 
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
@@ -170,6 +192,7 @@
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 # RPG MO https://store.steampowered.com/app/372800/RPG_MO/
 # Depression Quest https://store.steampowered.com/app/270170/Depression_Quest/
+# Treasure of Nadia https://store.steampowered.com/app/1737100/
 { "name": "nw", "type": "Game" }
 
 # Out of the Park Baseball 18 https://store.steampowered.com/app/465650/Out_of_the_Park_Baseball_18/
@@ -226,6 +249,7 @@
 # Savant - Ascent https://store.steampowered.com/app/259530/Savant__Ascent/
 # UBERMOSH:BLACK https://store.steampowered.com/app/444940/UBERMOSHBLACK/
 # RONIN https://store.steampowered.com/app/274230/RONIN/
+# UBERMOSH:WRAITH https://store.steampowered.com/app/586350/UBERMOSHWRAITH/
 { "name": "runner", "type": "Game" }
 
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
@@ -236,13 +260,25 @@
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
 { "name": "ShooterGame", "type": "Game" }
 
+# Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
+# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
+{ "name": "songsofsyx", "type": "Game" }
+
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
+# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+# Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
 { "name": "srcds_linux", "type": "Game" }
 
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
 { "name": "srcds_linux64", "type": "Game" }
+
+# Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
+# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+{ "name": "srcds_run", "type": "Game" }
 
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 # Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
@@ -283,12 +319,12 @@
 
 ### Other (no sorting required) ### 
 
+
 # some sort of godot process/program idk
 { "name": "GodotWorkshopUtility.x86_64", "type": "BG_CPUIO" }
 
 # Source dedicated server
 { "name": "srcds_i486", "type": "Game" }
-{ "name": "srcds_run", "type": "Game" }
 
 # Crash handlers
 { "name": "CrashReportClient", "type": "BG_CPUIO" }

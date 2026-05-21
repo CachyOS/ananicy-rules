@@ -74,6 +74,9 @@
 # Kiosk https://store.steampowered.com/app/3126330/Kiosk/
 { "name": "Kiosk.x86_64", "type": "Game" }
 
+# Kittens Game https://store.steampowered.com/app/1097410/Kittens_Game/
+{ "name": "kg-steam", "type": "Game" }
+
 # KLETKA https://store.steampowered.com/app/1699480/KLETKA/
 { "name": "KLETKA-Linux-Shipping", "type": "Game" }
 

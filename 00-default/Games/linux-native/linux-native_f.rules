@@ -14,9 +14,6 @@
 # FACEMINER https://store.steampowered.com/app/2276980/FACEMINER/
 { "name": "FACEMINER", "type": "Game" }
 
-# Factorio https://store.steampowered.com/app/427520/Factorio/
-{ "name": "factorio", "type": "Game" }
-
 # Faeria https://store.steampowered.com/app/397060/Faeria/
 { "name": "Faeria.x86", "type": "Game" }
 { "name": "Faeria.x86_64", "type": "Game" }
@@ -104,6 +101,11 @@
 
 # freesynd https://freesynd.sourceforge.io/
 { "name": "freesynd", "type": "Game" }
+
+# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
+{ "name": "FreshWomen", "type": "Game" }
+{ "name": "Julia In Japan", "type": "Game" }
+{ "name": "ChloesDesireExpress", "type": "Game" }
 
 # From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
 { "name": "From_The_Depths.x86", "type": "Game" }

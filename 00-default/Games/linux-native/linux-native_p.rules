@@ -21,6 +21,9 @@
 # Paleo Pines https://store.steampowered.com/app/1202200/Paleo_Pines/
 { "name": "Paleo Pines.x86_64", "type": "Game" }
 
+# Palworld Dedicated Server https://store.steampowered.com/app/2394010/
+{ "name": "PalServer-Linux-Shipping", "type": "Game" }
+
 # Pankapu https://store.steampowered.com/app/418670/Pankapu/
 { "name": "pankapu.x86", "type": "Game" }
 
@@ -42,6 +45,9 @@
 # Particle Fleet: Emergence https://store.steampowered.com/app/422900/Particle_Fleet_Emergence/
 { "name": "ParticleFleet.x86", "type": "Game" }
 { "name": "ParticleFleet.x86_64", "type": "Game" }
+
+# Particul https://store.steampowered.com/app/4273120/Particul/
+{ "name": "particul", "type": "Game" }
 
 # Party Hard https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.x86_64", "type": "Game" }
@@ -203,8 +209,14 @@
 # Psychonauts 2 https://store.steampowered.com/app/607080/Psychonauts_2/
 { "name": "Psychonauts2-Linux-Shipping", "type": "Game" }
 
+# Puck https://store.steampowered.com/app/2994020/Puck/
+{ "name": "Puck", "type": "Game" }
+
 # PULSAR: Lost Colony https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/
 { "name": "PULSAR_LostColony.x86_64", "type": "Game" }
 
 # Punch Club https://store.steampowered.com/app/394310/Punch_Club/
 { "name": "Punch Club.x86", "type": "Game" }
+
+# PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
+{ "name": "pyramidlauncher", "type": "Game" }

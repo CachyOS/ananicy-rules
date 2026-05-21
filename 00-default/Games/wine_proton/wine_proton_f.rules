@@ -73,8 +73,8 @@
 { "name": "fowed.exe", "type": "Game" }
 { "name": "launcher-ia32.exe", "type": "Game" }
 
-# Factorio https://store.steampowered.com/app/427520/Factorio/
-{ "name": "Factorio.exe", "type": "Game" }
+# Factorio Demo https://store.steampowered.com/app/452280/Factorio/
+{ "name": "factorio.exe", "type": "Game" }
 
 # Factory Town https://store.steampowered.com/app/860890/Factory_Town/
 { "name": "Factory Town.exe", "type": "Game" }
@@ -649,6 +649,9 @@
 # Fling to the Finish https://store.steampowered.com/app/1054430/Fling_to_the_Finish/
 { "name": "Fling to the Finish.exe", "type": "Game" }
 
+# Flock Around https://store.steampowered.com/app/3618030/Flock_Around/
+{ "name": "FlockAround.exe", "type": "Game" }
+
 # Florence https://store.steampowered.com/app/1102130/Florence/
 { "name": "Florence.exe", "type": "Game" }
 
@@ -834,6 +837,11 @@
 
 # Freeways https://store.steampowered.com/app/780210/Freeways/
 { "name": "Freeways.exe", "type": "Game" }
+
+# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
+{ "name": "ChloesDesireExpress.exe", "type": "Game" }
+{ "name": "FreshWomen.exe", "type": "Game" }
+{ "name": "Julia in Japan.exe", "type": "Game" }
 
 # Friday Night Funkin' https://github.com/FunkinCrew/Funkin
 { "name": "Funkin.exe", "type": "Game" }

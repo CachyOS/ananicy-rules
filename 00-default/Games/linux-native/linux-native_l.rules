@@ -26,6 +26,12 @@
 # Legend of Grimrock https://store.steampowered.com/app/207170/Legend_of_Grimrock/
 { "name": "Grimrock.bin.x86", "type": "Game" }
 
+# Legend of Keepers https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/
+{ "name": "LegendOfKeepers.x86_64", "type": "Game" }
+
+# Legionbound https://store.steampowered.com/app/4283360/Legionbound/
+{ "name": "Legionbound.x86_64", "type": "Game" }
+
 # LEGO Bricktales https://store.steampowered.com/app/1898290/LEGO_Bricktales/
 { "name": "LEGO_Bricktales.x86_64", "type": "Game" }
 
@@ -85,6 +91,9 @@
 
 # LOVE https://store.steampowered.com/app/269270/LOVE/
 { "name": "Love", "type": "Game" }
+
+# Love and Sex: Second Base https://store.steampowered.com/app/1264710/
+{ "name": "LoSeSb", "type": "Game" }
 
 # LoveChoice https://store.steampowered.com/app/939400/LoveChoice/
 { "name": "LoveChoice.x86_64", "type": "Game" }

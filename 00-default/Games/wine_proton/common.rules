@@ -41,6 +41,10 @@
 # Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
 { "name": "AlienShooter.exe", "type": "Game" }
 
+# American Truck Simulator Demo https://store.steampowered.com/app/441960/American_Truck_Simulator/
+# American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
+{ "name": "amtrucks.exe", "type": "Game" }
+
 # Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
 # AMEDAMA https://store.steampowered.com/app/2411980/AMEDAMA/
 # SaveSync https://store.steampowered.com/app/3832010/SaveSync_Coop_Save_Sharing_Made_Easy/
@@ -52,6 +56,10 @@
 # DRAGON BALL Z: KAKAROT https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
 # Airline Tycoon Deluxe https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 { "name": "AT.exe", "type": "Game" }
+
+# Baldi's Basics Classic Remastered https://store.steampowered.com/app/1712830/Baldis_Basics_Classic_Remastered/
+# Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
+{ "name": "BALDI.exe", "type": "Game" }
 
 # Baldur's Gate https://store.steampowered.com/app/22828/
 # Baldur's Gate: Enhanced Edition https://store.steampowered.com/app/228280/Baldurs_Gate_Enhanced_Edition/
@@ -210,6 +218,10 @@
 # Warhammer 40,000: Dawn of War II Chaos Rising https://store.steampowered.com/app/20570/Warhammer_40000_Dawn_of_War_II_Chaos_Rising/
 { "name": "dow2.exe", "type": "Game" }
 
+# Warhammer 40,000: Dawn of War II - Retribution https://store.steampowered.com/app/56400/
+# Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
+{ "name": "DOW2.exe", "type": "Game" }
+
 # Crusader Kings III https://store.steampowered.com/app/1158310/Crusader_Kings_III/
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
@@ -267,9 +279,17 @@
 # Destiny Warriors RPG https://store.steampowered.com/app/399790/Destiny_Warriors_RPG/
 { "name": "EQLauncher.exe", "type": "Game" }
 
+# Euro Truck Simulator 2 https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
+# Euro Truck Simulator 2 Demo https://store.steampowered.com/app/231120/Euro_Truck_Simulator_2/
+{ "name": "eurotrucks2.exe", "type": "Game" }
+
 # Platform 8 https://store.steampowered.com/app/2903560/Platform_8/
 # The Exit 8 https://store.steampowered.com/app/2653790/The_Exit_8/
 { "name": "Exit8-Win64-Shipping.exe", "type": "Game" }
+
+# Factorio Demo https://store.steampowered.com/app/452280/Factorio/
+# Factorio https://store.steampowered.com/app/427520/Factorio/
+{ "name": "Factorio.exe", "type": "Game" }
 
 # Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
 # Unchi ga i sagashi ~ unchi no hinshitsu o mamoru gēmu ~ うんちがいさがし ～うんちの品質を守るゲーム～ https://store.steampowered.com/app/2892530/Poop_Spotter__The_game_to_improve_the_quality_of_poop/
@@ -308,6 +328,10 @@
 # Football Manager 2020 https://store.steampowered.com/app/1100600/Football_Manager_2020/
 # Football Manager 2021 https://store.steampowered.com/app/1263850/Football_Manager_2021/
 # Football Manager 2022 https://store.steampowered.com/app/1569040/Football_Manager_2022/
+# Football Manager 2014 https://store.steampowered.com/app/231670/
+# Football Manager 2015 https://store.steampowered.com/app/295270/
+# Football Manager 2016 https://store.steampowered.com/app/378120/
+# Football Manager 2018 https://store.steampowered.com/app/624090/
 { "name": "fm.exe", "type": "Game" }
 
 # Football Manager 26 https://store.steampowered.com/app/3551340/Football_Manager_26/
@@ -465,6 +489,7 @@
 # Huǒyàn zhēngchéng 火焰征程 https://store.steampowered.com/app/2492430/_/
 # Fēi yuè xiān xíng lù 緋月仙行錄 https://store.steampowered.com/app/4048300/
 # Dàqiān shìjiè 2 The Stupendous World Demo 大千世界2 The Stupendous World Demo https://store.steampowered.com/app/4062070/2_The_Stupendous_World_Demo/
+# Treasure of Nadia https://store.steampowered.com/app/1737100/
 { "name": "Game.exe", "type": "Game" }
 
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
@@ -545,6 +570,8 @@
 # Portal https://store.steampowered.com/app/400/Portal/
 # Half-Life 2: Episode Two https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
 # Source SDK Base 2007 https://store.steampowered.com/app/218/
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+# Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
 { "name": "hl2.exe", "type": "Game" }
 
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
@@ -637,6 +664,7 @@
 # Live2DViewerEX https://store.steampowered.com/app/616720/Live2DViewerEX/
 # Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
 # Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
+# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
 { "name": "launcher.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
@@ -1044,6 +1072,10 @@
 # Sherlock: Hidden Object & Match-3 Mystery https://store.steampowered.com/app/3760230/Sherlock_Hidden_Object__Match3_Mystery/
 { "name": "Sherlock.exe", "type": "Game" }
 
+# Total War: SHOGUN 2 https://store.steampowered.com/app/201270/Total_War_SHOGUN_2/
+# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
+{ "name": "shogun2.exe", "type": "Game" }
+
 # ARK: Survival Evolved https://store.steampowered.com/app/346110/ARK_Survival_Evolved/
 # ARK: Survival Of The Fittest https://store.steampowered.com/app/407530/ARK_The_Survival_Of_The_Fittest/
 { "name": "ShooterGame_BE.exe", "type": "Game" }
@@ -1059,6 +1091,10 @@
 # The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
 { "name": "SkyrimSE.exe", "type": "Game" }
+
+# Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
+# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
+{ "name": "SongsOfSyx.exe", "type": "Game" }
 
 # Trails in the Sky 1st Chapter https://store.steampowered.com/app/3375780/Trails_in_the_Sky_1st_Chapter/
 # Sora no Kiseki the 1st https://store.steampowered.com/app/3447040/Sora_no_Kiseki_the_1st/
@@ -1088,6 +1124,11 @@
 # Supremacy: 1914 https://store.steampowered.com/app/979920/Supremacy_1914/
 # Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
 { "name": "Squirrel.exe", "type": "Game" }
+
+# Synergy Dedicated Server https://store.steampowered.com/app/17525/
+# Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
+# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+{ "name": "srcds.exe", "type": "Service" }
 
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 # Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
@@ -1149,6 +1190,10 @@
 # SoulWorker https://store.steampowered.com/app/1825750/Soulworker/
 # Soulworker https://store.steampowered.com/app/1377580/Soulworker/
 { "name": "SWLoading.exe", "type": "Game" }
+
+# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
+# Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
+{ "name": "SyxWithout.exe", "type": "Game" }
 
 # TaleSpire https://store.steampowered.com/app/720620/TaleSpire/
 # TaleSpire - Guest Edition https://store.steampowered.com/app/2881860/TaleSpire__Guest_Edition/
@@ -1423,10 +1468,6 @@
 
 # AVIcodec is a free multimedia file analyser for Windows http://avicodec.duby.info/
 { "name": "avicodec.exe", "type": "BG_CPUIO" }
-
-# Source dedicated server
-# Synergy Dedicated Server https://store.steampowered.com/app/17525/
-{ "name": "srcds.exe", "type": "Service" }
 
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }

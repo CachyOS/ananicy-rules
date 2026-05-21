@@ -175,6 +175,11 @@
 # Satellite Reign https://store.steampowered.com/app/268870/Satellite_Reign/
 { "name": "SatelliteReignWindows.exe", "type": "Game" }
 
+# Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
+{ "name": "FactoryServer.exe", "type": "Game" }
+{ "name": "FactoryServer-Win64-Shipping-Cmd.exe", "type": "Game" }
+{ "name": "FactoryServer-Win64-Shipping.exe", "type": "Game" }
+
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler.exe", "type": "Game" }
 
@@ -213,6 +218,9 @@
 
 # Scania Truck Driving Simulator https://store.steampowered.com/app/258760/Scania_Truck_Driving_Simulator/
 { "name": "scania_truck_driving_simulator.exe", "type": "Game" }
+
+# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
+{ "name": "Scapewatch.exe", "type": "Game" }
 
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow.exe", "type": "Game" }
@@ -652,6 +660,9 @@
 { "name": "Shatter.exe", "type": "Game" }
 { "name": "sh.exe", "type": "Game" }
 
+# Shattered Minds https://store.steampowered.com/app/2713690/
+{ "name": "Shattered_Minds.exe", "type": "Game" }
+
 # Shattered Pixel Dungeon https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/
 { "name": "Shattered Pixel Dungeon.exe", "type": "Game" }
 
@@ -758,6 +769,9 @@
 
 # Ship of Fools https://store.steampowered.com/app/1286580/Ship_of_Fools/
 { "name": "ShipOfFools.exe", "type": "Game" }
+
+# Shipping Manager https://store.steampowered.com/app/2445660/Shipping_Manager/
+{ "name": "sm_sdl_steam.exe", "type": "Game" }
 
 # Ships At Sea https://store.steampowered.com/app/1266540/Ships_At_Sea/
 { "name": "Sas.exe", "type": "Game" }
@@ -869,6 +883,9 @@
 # Siege Survival: Gloria Victis https://store.steampowered.com/app/1167140/Siege_Survival_Gloria_Victis/
 { "name": "SiegeSurvival.exe", "type": "Game" }
 
+# Siegeturtle https://store.steampowered.com/app/3959050/Siegeturtle/
+{ "name": "Siegeturtle.exe", "type": "Game" }
+
 # Sifu https://store.steampowered.com/app/2138710/Sifu/
 { "name": "Sifu.exe", "type": "Game" }
 
@@ -929,6 +946,9 @@
 # SimCity 4 Deluxe Edition https://store.steampowered.com/app/24780/SimCity_4_Deluxe_Edition/
 { "name": "SimCity 4.exe", "type": "Game" }
 
+# Sim Companies https://store.steampowered.com/app/2253720/Sim_Companies/
+{ "name": "Sim Companies.exe", "type": "Game" }
+
 # SimplePlanes https://store.steampowered.com/app/397340/SimplePlanes/
 { "name": "SimplePlanes.exe", "type": "Game" }
 
@@ -976,6 +996,9 @@
 
 # Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
 { "name": "SiralimUltimate.exe", "type": "Game" }
+
+# Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
+{ "name": "swhaop_playtest.exe", "type": "Game" }
 
 # Sir, You Are Being Hunted https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/
 { "name": "sir.exe", "type": "Game" }
@@ -1117,6 +1140,9 @@
 
 # Slots & Daggers https://store.steampowered.com/app/3631290/Slots__Daggers/
 { "name": "Slots and Daggers.exe", "type": "Game" }
+
+# Slut Squad https://store.steampowered.com/app/3554940/
+{ "name": "SlutSquad.exe", "type": "Game" }
 
 # Smalland: Survive the Wilds https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/
 { "name": "SMALLAND.exe", "type": "Game" }
@@ -1317,10 +1343,6 @@
 # Songs of Silence https://store.steampowered.com/app/2195410/Songs_of_Silence/
 { "name": "SongsOfSilence.exe", "type": "Game" }
 
-# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
-{ "name": "SongsOfSyx.exe", "type": "Game" }
-{ "name": "SyxWithout.exe", "type": "Game" }
-
 # Sonic Adventure 2 https://store.steampowered.com/app/213610/Sonic_Adventure_2/
 { "name": "sonic2app.exe", "type": "Game" }
 
@@ -1421,6 +1443,9 @@
 # Source SDK https://store.steampowered.com/app/211/
 { "name": "SDKLauncher.exe", "type": "Game" }
 
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+{ "name": "hl2_win64.exe", "type": "Game" }
+
 # South of Midnight https://store.steampowered.com/app/1934570/South_of_Midnight/
 { "name": "SouthOfMidnight.exe", "type": "Game" }
 
@@ -1514,6 +1539,9 @@
 
 # Space Run Galaxy https://store.steampowered.com/app/355800/Space_Run_Galaxy/
 { "name": "oSRGalaxyGame.exe", "type": "Game" }
+
+# Space Station 14 Playtest https://store.steampowered.com/app/1482520/Space_Station_14/
+{ "name": "Space Station 14 Launcher.exe", "type": "Game" }
 
 # Space Travel Idle https://store.steampowered.com/app/1407860/Space_Travel_Idle/
 { "name": "SpaceTravelIdle.exe", "type": "Game" }
@@ -2118,6 +2146,9 @@
 # Storyteller https://store.steampowered.com/app/1624540/Storyteller/
 { "name": "Storyteller.exe", "type": "Game" }
 
+# STRAFTAT https://store.steampowered.com/app/2386720/STRAFTAT/
+{ "name": "STRAFTAT.exe", "type": "Game" }
+
 # Stranded: Alien Dawn https://store.steampowered.com/app/1324130/Stranded_Alien_Dawn/
 { "name": "StrandedSteam.exe", "type": "Game" }
 
@@ -2405,6 +2436,9 @@
 # Super Animal Royale https://store.steampowered.com/app/843380/Super_Animal_Royale/
 { "name": "Super Animal Royale.exe", "type": "Game" }
 
+# Super Auto Pets https://store.steampowered.com/app/1714040/Super_Auto_Pets/
+{ "name": "Super Auto Pets.exe", "type": "Game" }
+
 # Super Battle Golf https://store.steampowered.com/app/4069520/Super_Battle_Golf/
 { "name": "Super Battle Golf.exe", "type": "Game" }
 
@@ -2682,6 +2716,9 @@
 # SYNDUALITY Echo of Ada https://store.steampowered.com/app/1245480/SYNDUALITY_Echo_of_Ada/
 { "name": "SINClient.exe", "type": "Game" }
 { "name": "SINClient-Win64-Shipping.exe", "type": "Game" }
+
+# Synergism https://store.steampowered.com/app/3552310/Synergism/
+{ "name": "Synergism-win-x64.exe", "type": "Game" }
 
 # Synergy https://store.steampowered.com/app/1989070/Synergy/
 { "name": "Synergy.exe", "type": "Game" }
