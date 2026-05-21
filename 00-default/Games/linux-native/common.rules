@@ -14,6 +14,7 @@
 # Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
 # Substance 3D Painter 2024 https://store.steampowered.com/app/2718190/Substance_3D_Painter_2024/
 # Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
+# Substance 3D Painter 2026 https://store.steampowered.com/app/4329260/Substance_3D_Painter_2026/
 { "name": "Adobe Substance 3D Painter", "type": "Game" }
 
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
@@ -99,6 +100,10 @@
 # Football Manager 2018 https://store.steampowered.com/app/624090/
 { "name": "fm", "type": "Game" }
 
+# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
+# FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
+{ "name": "FreshWomen", "type": "Game" }
+
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
 # Everafter Falls https://store.steampowered.com/app/1416960/Everafter_Falls/
@@ -129,6 +134,7 @@
 # Half-Life 2: Episode Two https://store.steampowered.com/app/420/HalfLife_2_Episode_Two/
 # Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
 # Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
+# Synergy https://store.steampowered.com/app/17520/Synergy/
 { "name": "hl2_linux", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
@@ -165,6 +171,10 @@
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 { "name": "hltv", "type": "Game" }
 
+# The Adventures of Sir Kicksalot Demo https://store.steampowered.com/app/2820360/The_Adventures_of_Sir_Kicksalot/
+# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
+{ "name": "kicksalot.x86_64", "type": "Game" }
+
 # Kindergarten https://store.steampowered.com/app/589590/Kindergarten/
 # Kindergarten 2 https://store.steampowered.com/app/1067850/Kindergarten_2/
 { "name": "Kindergarten.x86_64", "type": "Game" }
@@ -193,6 +203,7 @@
 # RPG MO https://store.steampowered.com/app/372800/RPG_MO/
 # Depression Quest https://store.steampowered.com/app/270170/Depression_Quest/
 # Treasure of Nadia https://store.steampowered.com/app/1737100/
+# The Genesis Order https://store.steampowered.com/app/2553870/
 { "name": "nw", "type": "Game" }
 
 # Out of the Park Baseball 18 https://store.steampowered.com/app/465650/Out_of_the_Park_Baseball_18/
@@ -250,6 +261,7 @@
 # UBERMOSH:BLACK https://store.steampowered.com/app/444940/UBERMOSHBLACK/
 # RONIN https://store.steampowered.com/app/274230/RONIN/
 # UBERMOSH:WRAITH https://store.steampowered.com/app/586350/UBERMOSHWRAITH/
+# UBERMOSH Vol.3 https://store.steampowered.com/app/515570/UBERMOSH_Vol3/
 { "name": "runner", "type": "Game" }
 
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
@@ -269,6 +281,7 @@
 # Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
 # Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
 # Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
+# Synergy https://store.steampowered.com/app/17520/Synergy/
 { "name": "srcds_linux", "type": "Game" }
 
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
@@ -278,6 +291,7 @@
 
 # Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
 # Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+# Synergy https://store.steampowered.com/app/17520/Synergy/
 { "name": "srcds_run", "type": "Game" }
 
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/

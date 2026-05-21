@@ -145,6 +145,12 @@
 # Coin Pusher Casino https://store.steampowered.com/app/2178590/Coin_Pusher_Casino/
 { "name": "Coin Pusher Casino", "type": "Game" }
 
+# College Kings 2 - Episode 1 https://store.steampowered.com/app/1924480/
+{ "name": "CollegeKings2", "type": "Game" }
+
+# College Kings - The Complete Season https://store.steampowered.com/app/1463120/
+{ "name": "CollegeKings", "type": "Game" }
+
 # Colony Survival https://store.steampowered.com/app/366090/Colony_Survival/
 { "name": "colonyclient.x86", "type": "Game" }
 { "name": "colonyclient.x86_64", "type": "Game" }
@@ -182,6 +188,9 @@
 
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper", "type": "Game" }
+
+# Corruption of Champions II https://store.steampowered.com/app/1292690/
+{ "name": "coc2electron", "type": "Game" }
 
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "CortexCommandHaxLoader", "type": "Game" }

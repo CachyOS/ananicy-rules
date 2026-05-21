@@ -78,6 +78,9 @@
 { "name": "NS2.exe", "type": "Game" }
 { "name": "ns2.exe", "type": "Game" }
 
+# Natural Selection 2 Dedicated Server https://store.steampowered.com/app/4940/
+{ "name": "Server.exe", "type": "Game" }
+
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
 { "name": "NavalActionCrashSender.exe", "type": "Game" }
 

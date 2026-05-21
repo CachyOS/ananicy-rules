@@ -9,9 +9,6 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39stepslinux.x86", "type": "Game" }
 
-# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
-{ "name": "kicksalot.x86_64", "type": "Game" }
-
 # The Aquatic Adventure of the Last Human https://store.steampowered.com/app/401360/The_Aquatic_Adventure_of_the_Last_Human/
 { "name": "TheAquaticAdventureOfTheLastHuman", "type": "Game" }
 
@@ -211,6 +208,9 @@
 
 # The Sapling https://store.steampowered.com/app/997380/The_Sapling/
 { "name": "the_sapling.x86_64", "type": "Game" }
+
+# The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
+{ "name": "TheSpellBrigade.x86_64", "type": "Game" }
 
 # The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
 { "name": "stanley", "type": "Game" }
