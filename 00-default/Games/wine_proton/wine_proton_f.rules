@@ -109,6 +109,9 @@
 { "name": "FAITH.exe", "type": "Game" }
 { "name": "FAITH Demon Siege.exe", "type": "Game" }
 
+# Fake Lay https://store.steampowered.com/app/1191420/
+{ "name": "fakelay.exe", "type": "Game" }
+
 # Fallen Aces https://store.steampowered.com/app/1411910/Fallen_Aces/
 { "name": "Fallen Aces.exe", "type": "Game" }
 { "name": "AceEd.exe", "type": "Game" }
@@ -375,9 +378,6 @@
 
 # Feeding Frenzy 2 Deluxe https://store.steampowered.com/app/3390/Feeding_Frenzy_2_Deluxe/
 { "name": "FeedingFrenzyTwo.exe", "type": "Game" }
-
-# Fake Lay https://store.steampowered.com/app/1191420/
-{ "name": "fakelay.exe", "type": "Game" }
 
 # Feed the Cups https://store.steampowered.com/app/2336220/Feed_the_Cups/
 { "name": "Feed the Cups.exe", "type": "Game" }

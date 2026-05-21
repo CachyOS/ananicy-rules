@@ -87,12 +87,6 @@
 # Melvor Idle 2 Playtest https://store.steampowered.com/app/3794500/Melvor_Idle_2/
 { "name": "MelvorIdle2.x86_64", "type": "Game" }
 
-# Midnight Paradise https://store.steampowered.com/app/2485270/
-{ "name": "MidnightParadise", "type": "Game" }
-
-# Mist Legacy https://store.steampowered.com/app/1259440/Mist_Legacy/
-{ "name": "mistlegacy.x86_64", "type": "Game" }
-
 # Men of War II https://store.steampowered.com/app/1128860/Men_of_War_II/
 { "name": "mow2_editor", "type": "Game" }
 { "name": "mow2", "type": "Game" }
@@ -112,6 +106,9 @@
 
 # Middle-earth: Shadow of Mordor https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
 { "name": "ShadowOfMordor", "type": "Game" }
+
+# Midnight Paradise https://store.steampowered.com/app/2485270/
+{ "name": "MidnightParadise", "type": "Game" }
 
 # Mighty No. 9 https://store.steampowered.com/app/314710/Mighty_No_9/
 { "name": "MN9Game.bin.x86_64", "type": "Game" }
@@ -149,6 +146,9 @@
 
 # Miscrits: World of Creatures https://store.steampowered.com/app/3628960/Miscrits_World_of_Creatures/
 { "name": "Miscrits_Linux", "type": "Game" }
+
+# Mist Legacy https://store.steampowered.com/app/1259440/Mist_Legacy/
+{ "name": "mistlegacy.x86_64", "type": "Game" }
 
 # MMORPG Tycoon 2 https://store.steampowered.com/app/486860/MMORPG_Tycoon_2/
 { "name": "MT2", "type": "Game" }

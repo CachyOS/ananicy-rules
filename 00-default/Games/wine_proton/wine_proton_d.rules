@@ -77,6 +77,10 @@
 { "name": "Darkest Hour Launcher.exe", "type": "Game" }
 { "name": "Darkest Hour.exe", "type": "Game" }
 
+# Darkest Hour: Europe '44-'45 https://store.steampowered.com/app/1280/Darkest_Hour_Europe_4445/
+{ "name": "RedOrchestraLargeAddressAware.exe", "type": "Game" }
+{ "name": "ROEdLAA.exe", "type": "Game" }
+
 # Dark Future: Blood Red States https://store.steampowered.com/app/370870/Dark_Future_Blood_Red_States/
 { "name": "DarkFuture.exe", "type": "Game" }
 { "name": "DarkFuture-Win64-Shipping.exe", "type": "Game" }
@@ -703,13 +707,6 @@
 # Dino Run DX https://store.steampowered.com/app/248330/Dino_Run_DX/
 { "name": "Dino Run DX.exe", "type": "Game" }
 
-# Darkest Hour: Europe '44-'45 https://store.steampowered.com/app/1280/Darkest_Hour_Europe_4445/
-{ "name": "RedOrchestraLargeAddressAware.exe", "type": "Game" }
-{ "name": "ROEdLAA.exe", "type": "Game" }
-
-# Doodle Empires https://store.steampowered.com/app/3438800/Doodle_Empires/
-{ "name": "Doodle Empires.exe", "type": "Game" }
-
 # Diplomacy is Not an Option https://store.steampowered.com/app/1272320/Diplomacy_is_Not_an_Option/
 { "name": "Diplomacy is Not an Option.exe", "type": "Game" }
 
@@ -919,6 +916,9 @@
 
 # Donut County https://store.steampowered.com/app/702670/Donut_County/
 { "name": "DonutCounty.exe", "type": "Game" }
+
+# Doodle Empires https://store.steampowered.com/app/3438800/Doodle_Empires/
+{ "name": "Doodle Empires.exe", "type": "Game" }
 
 # Doodle God https://store.steampowered.com/app/348360/Doodle_God/
 { "name": "DoodleGod.exe", "type": "Game" }

@@ -21,6 +21,9 @@
 # Fahrenheit: Indigo Prophecy Remastered https://store.steampowered.com/app/312840/Fahrenheit_Indigo_Prophecy_Remastered/
 { "name": "Fahrenheit", "type": "Game" }
 
+# Fake Lay https://store.steampowered.com/app/1191420/
+{ "name": "fakelay", "type": "Game" }
+
 # Fantasy Grounds VTT https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/
 { "name": "FGUSteamLauncher", "type": "Game" }
 { "name": "FGUWebInstall.bin", "type": "BG_CPUIO" }
@@ -30,9 +33,6 @@
 
 # Farm Together https://store.steampowered.com/app/673950/Farm_Together/
 { "name": "FarmTogether", "type": "Game" }
-
-# Fake Lay https://store.steampowered.com/app/1191420/
-{ "name": "fakelay", "type": "Game" }
 
 # fault - milestone one https://store.steampowered.com/app/286260/fault__milestone_one/
 { "name": "faultms1", "type": "Game" }

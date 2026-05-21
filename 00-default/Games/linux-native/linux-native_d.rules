@@ -183,6 +183,9 @@
 { "name": "dnftm.x86", "type": "Game" }
 { "name": "dnftm.x86_64", "type": "Game" }
 
+# Doodle Empires https://store.steampowered.com/app/3438800/Doodle_Empires/
+{ "name": "Doodle Empires.x86_64", "type": "Game" }
+
 # Doodle God https://store.steampowered.com/app/348360/Doodle_God/
 { "name": "DoodleGame", "type": "Game" }
 
@@ -292,9 +295,6 @@
 
 # Dwarfs!? https://store.steampowered.com/app/35480/Dwarfs/
 { "name": "Dwarfs", "type": "Game" }
-
-# Doodle Empires https://store.steampowered.com/app/3438800/Doodle_Empires/
-{ "name": "Doodle Empires.x86_64", "type": "Game" }
 
 # dxx rebirth https://www.dxx-rebirth.com/
 { "name": "d1x-rebirth", "type": "Game" }

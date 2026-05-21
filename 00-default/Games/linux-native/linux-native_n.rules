@@ -14,6 +14,9 @@
 # Natural Selection 2 http://store.steampowered.com/app/4920/Natural_Selection_2/
 { "name": "ns2_linux", "type": "Game" }
 
+# Natural Selection 2 Dedicated Server https://store.steampowered.com/app/4940/
+{ "name": "server_linux", "type": "Game" }
+
 # Nebuchadnezzar https://store.steampowered.com/app/1157220/Nebuchadnezzar/
 { "name": "nebuchadnezzar", "type": "Game" }
 
@@ -37,9 +40,6 @@
 
 # NEXT JUMP: Shmup Tactics https://store.steampowered.com/app/624690/NEXT_JUMP_Shmup_Tactics/
 { "name": "NEXT JUMP Shmup Tactics", "type": "Game" }
-
-# Natural Selection 2 Dedicated Server https://store.steampowered.com/app/4940/
-{ "name": "server_linux", "type": "Game" }
 
 # Niche - a genetics survival game https://store.steampowered.com/app/440650/Niche__a_genetics_survival_game/
 { "name": "Niche.x86", "type": "Game" }

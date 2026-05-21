@@ -25,10 +25,6 @@
 # Substance 3D Painter 2025 https://store.steampowered.com/app/3366290/Substance_3D_Painter_2025/
 { "name": "Adobe Substance 3D Painter.exe", "type": "Game" }
 
-# FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
-# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
-{ "name": "FreshWomen.exe", "type": "Game" }
-
 # TAISHO x ALICE episode 1 https://store.steampowered.com/app/1056570/TAISHO_x_ALICE_episode_1/
 # TAISHO x ALICE episode 3 https://store.steampowered.com/app/1515890/TAISHO_x_ALICE_episode_3/
 { "name": "ADVStarter.exe", "type": "Game" }
@@ -343,6 +339,10 @@
 # Football Manager 2024 https://store.steampowered.com/app/2252570/Football_Manager_2024/
 { "name": "FM.exe", "type": "Game" }
 
+# FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
+# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
+{ "name": "FreshWomen.exe", "type": "Game" }
+
 # Torchlight III https://store.steampowered.com/app/1030210/Torchlight_III/
 # Starborne: Frontiers https://store.steampowered.com/app/3021540/Starborne_Frontiers/
 { "name": "Frontiers.exe", "type": "Game" }
@@ -629,10 +629,6 @@
 # Downfall - A Slay the Spire Fan Expansion https://store.steampowered.com/app/1865780/Downfall__A_Slay_the_Spire_Fan_Expansion/
 { "name": "java.exe", "type": "Game" }
 
-# The Adventures of Sir Kicksalot Demo https://store.steampowered.com/app/2820360/The_Adventures_of_Sir_Kicksalot/
-# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
-{ "name": "kicksalot.exe", "type": "Game" }
-
 # Spiral Knights https://store.steampowered.com/app/99900/Spiral_Knights/
 # Puzzle Pirates https://store.steampowered.com/app/99910/Puzzle_Pirates/
 # Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
@@ -654,6 +650,10 @@
 # King's Bounty: The Legend https://store.steampowered.com/app/25900/Kings_Bounty_The_Legend/
 # King's Bounty: Armored Princess https://store.steampowered.com/app/3170/Kings_Bounty_Armored_Princess/
 { "name": "KB.exe", "type": "Game" }
+
+# The Adventures of Sir Kicksalot Demo https://store.steampowered.com/app/2820360/The_Adventures_of_Sir_Kicksalot/
+# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
+{ "name": "kicksalot.exe", "type": "Game" }
 
 # Kingdom Come: Deliverance https://store.steampowered.com/app/379430/Kingdom_Come_Deliverance/
 # Kingdom Come: Deliverance II https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/
@@ -1143,10 +1143,6 @@
 # Synergy https://store.steampowered.com/app/17520/Synergy/
 { "name": "srcds.exe", "type": "Service" }
 
-# The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
-# The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
-{ "name": "TheSpellBrigade.exe", "type": "Game" }
-
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 # Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
 # Star Control: Origins https://store.steampowered.com/app/271260/Star_Control_Origins/
@@ -1227,6 +1223,10 @@
 # The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
 { "name": "TESV.exe", "type": "Game" }
+
+# The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
+# The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
+{ "name": "TheSpellBrigade.exe", "type": "Game" }
 
 # Dàihào sānguó: Lóng qǐ 代号三国：龙起 https://store.steampowered.com/app/3412900/The_Three_Kingdoms_Rebirth/
 # Legend of Heroes: Three Kingdoms https://store.steampowered.com/app/3020510/Legend_of_Heroes_Three_Kingdoms/

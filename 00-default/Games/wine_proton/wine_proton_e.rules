@@ -106,9 +106,6 @@
 # E-Commerce Simulator 2025 https://store.steampowered.com/app/3291290/ECommerce_Simulator_2025/
 { "name": "E-commerce Simulator.exe", "type": "Game" }
 
-# ENA: Dream BBQ https://store.steampowered.com/app/2134320/ENA_Dream_BBQ/
-{ "name": "ENA-4-DreamBBQ.exe", "type": "Game" }
-
 # Eden Crafters https://store.steampowered.com/app/2570210/Eden_Crafters/
 { "name": "EdenCrafters.exe", "type": "Game" }
 { "name": "EdenCrafters32.exe", "type": "Game" }
@@ -242,6 +239,9 @@
 # Empyrion - Galactic Survival https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
 { "name": "EmpyrionLauncher.exe", "type": "BG_CPUIO" }
 { "name": "Empyrion.exe", "type": "Game" }
+
+# ENA: Dream BBQ https://store.steampowered.com/app/2134320/ENA_Dream_BBQ/
+{ "name": "ENA-4-DreamBBQ.exe", "type": "Game" }
 
 # Encased https://store.steampowered.com/app/921800/Encased_A_SciFi_PostApocalyptic_RPG/
 { "name": "Encased.exe", "type": "Game" }

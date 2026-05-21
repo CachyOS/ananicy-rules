@@ -35,9 +35,6 @@
 { "name": "kAGEd", "type": "Game" }
 { "name": "kAGE", "type": "Game" }
 
-# The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
-{ "name": "TheSpellBrigade.x86_64", "type": "Game" }
-
 # The Bridge https://store.steampowered.com/app/204240/The_Bridge/
 { "name": "thebridge.x86_64", "type": "Game" }
 
@@ -211,6 +208,9 @@
 
 # The Sapling https://store.steampowered.com/app/997380/The_Sapling/
 { "name": "the_sapling.x86_64", "type": "Game" }
+
+# The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
+{ "name": "TheSpellBrigade.x86_64", "type": "Game" }
 
 # The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
 { "name": "stanley", "type": "Game" }

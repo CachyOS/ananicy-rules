@@ -17,10 +17,6 @@
 # Substance 3D Painter 2026 https://store.steampowered.com/app/4329260/Substance_3D_Painter_2026/
 { "name": "Adobe Substance 3D Painter", "type": "Game" }
 
-# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
-# FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
-{ "name": "FreshWomen", "type": "Game" }
-
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
@@ -104,6 +100,10 @@
 # Football Manager 2018 https://store.steampowered.com/app/624090/
 { "name": "fm", "type": "Game" }
 
+# FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
+# FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
+{ "name": "FreshWomen", "type": "Game" }
+
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
 # Everafter Falls https://store.steampowered.com/app/1416960/Everafter_Falls/
@@ -136,10 +136,6 @@
 # Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
 # Synergy https://store.steampowered.com/app/17520/Synergy/
 { "name": "hl2_linux", "type": "Game" }
-
-# The Adventures of Sir Kicksalot Demo https://store.steampowered.com/app/2820360/The_Adventures_of_Sir_Kicksalot/
-# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
-{ "name": "kicksalot.x86_64", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
 # Half-Life 2 https://store.steampowered.com/app/220/HalfLife_2/
@@ -174,6 +170,10 @@
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 { "name": "hltv", "type": "Game" }
+
+# The Adventures of Sir Kicksalot Demo https://store.steampowered.com/app/2820360/The_Adventures_of_Sir_Kicksalot/
+# The Adventures of Sir Kicksalot https://store.steampowered.com/app/2629230/The_Adventures_of_Sir_Kicksalot/
+{ "name": "kicksalot.x86_64", "type": "Game" }
 
 # Kindergarten https://store.steampowered.com/app/589590/Kindergarten/
 # Kindergarten 2 https://store.steampowered.com/app/1067850/Kindergarten_2/
