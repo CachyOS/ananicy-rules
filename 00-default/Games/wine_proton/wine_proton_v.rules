@@ -64,6 +64,10 @@
 { "name": "Tiger.exe", "type": "Game" }
 { "name": "Tiger-Win64-Shipping.exe", "type": "Game" }
 
+# VEIN Demo https://store.steampowered.com/app/2082470/VEIN/
+{ "name": "VeinDemo.exe", "type": "Game" }
+{ "name": "VeinDemo-Win64-Test.exe", "type": "Game" }
+
 # Vampire: The Masquerade - Bloodlines https://store.steampowered.com/app/2600/Vampire_The_Masquerade__Bloodlines/
 { "name": "vampire.exe", "type": "Game" }
 
