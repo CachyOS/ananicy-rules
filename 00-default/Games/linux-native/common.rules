@@ -345,7 +345,7 @@
 { "name": "crashwatcher", "type": "BG_CPUIO" }
 { "name": "ErrorReporter", "type": "BG_CPUIO" }
 { "name": "createdump", "type": "BG_CPUIO" }
-
+{ "name": "crashpad_handler", "type": "BG_CPUIO" }
 
 
 # The following games are shipped with the DOSBox emulator ("dosbox"), which is declared in emulators.rules
