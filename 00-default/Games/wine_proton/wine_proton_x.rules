@@ -5,9 +5,6 @@
 
 ### X ###
 
-# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
-{ "name": "X3TC.exe", "type": "Game" }
-
 # X4: Foundations https://store.steampowered.com/app/392160/X4_Foundations/
 { "name": "X4.exe", "type": "Game" }
 
@@ -57,5 +54,4 @@
 
 # X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
 { "name": "x3ap.exe", "type": "Game" }
-{ "name": "X3TC.exe", "type": "Game" }
 { "name": "X3AP.exe", "type": "Game" }

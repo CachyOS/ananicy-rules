@@ -9,6 +9,10 @@
 # Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
 { "name": "Adobe Substance 3D Designer", "type": "Game" }
 
+# Alabaster Dawn Demo https://store.steampowered.com/app/3900710/Alabaster_Dawn_Demo/
+# Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
+{ "name": "alabaster_dawn", "type": "Game" }
+
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
 # Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
@@ -26,9 +30,16 @@
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks", "type": "Game" }
 
+# Dead Island https://store.steampowered.com/app/91310/
+# Dead Island Definitive Edition https://store.steampowered.com/app/383150/
+{ "name": "DeadIslandGame", "type": "Game" }
+
 # Vending Machine Co. https://store.steampowered.com/app/3622640/Vending_Machine_Co/
 # Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
 # Lost But Found https://store.steampowered.com/app/3204250/Lost_But_Found/
+# Ship, Inc. https://store.steampowered.com/app/3496000/Ship_Inc/
+# Cats & Cups https://store.steampowered.com/app/3521410/Cats__Cups/
+# Agrivore https://store.steampowered.com/app/4045540/Agrivore_Incremental_Farming/
 { "name": "app.x86_64", "type": "Game" }
 
 # Baldi's Basics Classic Remastered https://store.steampowered.com/app/1712830/Baldis_Basics_Classic_Remastered/
@@ -135,6 +146,7 @@
 # Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
 # Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
 # Synergy https://store.steampowered.com/app/17520/Synergy/
+# Half-Life 2: Update https://store.steampowered.com/app/290930/HalfLife_2_Update/
 { "name": "hl2_linux", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
@@ -163,7 +175,14 @@
 # Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
 # Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
 # Deathmatch Classic https://store.steampowered.com/app/40/Deathmatch_Classic/
+# Half-Life: MMod https://store.steampowered.com/app/1761270/HalfLife_MMod/
+# Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/100/CounterStrike_Condition_Zero/
 { "name": "hl_linux", "type": "Game" }
+
+# Portal Reloaded https://store.steampowered.com/app/1255980/Portal_Reloaded/
+# Portal 2 https://store.steampowered.com/app/620/Portal_2/
+# Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
+{ "name": "portal2_linux", "type": "Game" }
 
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
@@ -262,6 +281,8 @@
 # RONIN https://store.steampowered.com/app/274230/RONIN/
 # UBERMOSH:WRAITH https://store.steampowered.com/app/586350/UBERMOSHWRAITH/
 # UBERMOSH Vol.3 https://store.steampowered.com/app/515570/UBERMOSH_Vol3/
+# UBERMOSH Vol.5 https://store.steampowered.com/app/640380/UBERMOSH_Vol5/
+# Trip to Vinelands https://store.steampowered.com/app/546090/Trip_to_Vinelands/
 { "name": "runner", "type": "Game" }
 
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
@@ -301,9 +322,17 @@
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "start", "type": "Game" }
 
+# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+# X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
+{ "name": "X3TC_main", "type": "Game" }
+
 # Stoneshard https://store.steampowered.com/app/625960/Stoneshard/
 # Stoneshard: Prologue https://store.steampowered.com/app/869760/Stoneshard_Prologue/
 { "name": "StoneShard", "type": "Game" }
+
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
+{ "name": "WL2", "type": "Game" }
 
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/
@@ -311,6 +340,7 @@
 
 # X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+# X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
 { "name": "testandlaunch", "type": "Game" }
 
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/

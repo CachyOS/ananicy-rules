@@ -154,9 +154,6 @@
 # POOLS https://store.steampowered.com/app/2663530/POOLS/
 { "name": "POOLS.x86_64", "type": "Game" }
 
-# Portal 2 https://store.steampowered.com/app/620/Portal_2/
-{ "name": "portal2_linux", "type": "Game" }
-
 # POSTAL https://store.steampowered.com/app/232770/POSTAL/
 { "name": "postal1", "type": "Game" }
 
@@ -232,9 +229,3 @@
 
 # POOP https://store.steampowered.com/app/3060300/POOP/
 { "name": "POOP.x86_64", "type": "Game" }
-
-# Portal Reloaded https://store.steampowered.com/app/1255980/Portal_Reloaded/
-{ "name": "portal2_linux", "type": "Game" }
-
-# Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
-{ "name": "portal2_linux", "type": "Game" }
