@@ -38,6 +38,10 @@
 # Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
 { "name": "Airships.exe", "type": "Game" }
 
+# Alabaster Dawn Demo https://store.steampowered.com/app/3900710/Alabaster_Dawn_Demo/
+# Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
+{ "name": "alabaster_dawn.exe", "type": "Game" }
+
 # Alien Shooter https://store.steampowered.com/app/33100/Alien_Shooter/
 # Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
 { "name": "AlienShooter.exe", "type": "Game" }
@@ -157,6 +161,10 @@
 # DARK SOULS II https://store.steampowered.com/app/236430/DARK_SOULS_II/
 # DARK SOULS II: Scholar of the First Sin https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/
 { "name": "DarkSoulsII.exe", "type": "Game" }
+
+# Dead Island https://store.steampowered.com/app/91310/
+# Dead Island Definitive Edition https://store.steampowered.com/app/383150/Dead_Island_Definitive_Edition/
+{ "name": "DeadIslandGame.exe", "type": "Game" }
 
 # Dead Space https://store.steampowered.com/app/1693980/Dead_Space/
 # Dead Space (2008) https://store.steampowered.com/app/17470/Dead_Space_2008/
@@ -496,6 +504,7 @@
 # Dàqiān shìjiè 2 The Stupendous World Demo 大千世界2 The Stupendous World Demo https://store.steampowered.com/app/4062070/2_The_Stupendous_World_Demo/
 # Treasure of Nadia https://store.steampowered.com/app/1737100/
 # The Genesis Order https://store.steampowered.com/app/2553870/
+# MARVEL Cosmic Invasion https://store.steampowered.com/app/2753970/MARVEL_Cosmic_Invasion/
 { "name": "Game.exe", "type": "Game" }
 
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
@@ -578,12 +587,15 @@
 # Source SDK Base 2007 https://store.steampowered.com/app/218/
 # Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
 # Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
+# Half-Life 2: Update https://store.steampowered.com/app/290930/HalfLife_2_Update/
 { "name": "hl2.exe", "type": "Game" }
 
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Half-Life: MMod https://store.steampowered.com/app/1761270/HalfLife_MMod/
+# Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/100/CounterStrike_Condition_Zero/
 { "name": "hlds.exe", "type": "Game" }
 
 # Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
@@ -594,13 +606,17 @@
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Ricochet https://store.steampowered.com/app/60/Ricochet/
 # Team Fortress Classic https://store.steampowered.com/app/20/Team_Fortress_Classic/
+# Half-Life: MMod https://store.steampowered.com/app/1761270/HalfLife_MMod/
 # Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
+# Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/100/CounterStrike_Condition_Zero/
 { "name": "hl.exe", "type": "Game" }
 
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
+# Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/100/CounterStrike_Condition_Zero/
+# Half-Life: MMod https://store.steampowered.com/app/1761270/HalfLife_MMod/
 { "name": "hltv.exe", "type": "Game" }
 
 # Hammerwatch II https://store.steampowered.com/app/1538970/Hammerwatch_II/
@@ -627,12 +643,14 @@
 # WAKFU https://store.steampowered.com/app/215080/WAKFU/
 # Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
 # Downfall - A Slay the Spire Fan Expansion https://store.steampowered.com/app/1865780/Downfall__A_Slay_the_Spire_Fan_Expansion/
+# Haven & Hearth https://store.steampowered.com/app/3051280/Haven__Hearth/
 { "name": "java.exe", "type": "Game" }
 
 # Spiral Knights https://store.steampowered.com/app/99900/Spiral_Knights/
 # Puzzle Pirates https://store.steampowered.com/app/99910/Puzzle_Pirates/
 # Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
 # Downfall - A Slay the Spire Fan Expansion https://store.steampowered.com/app/1865780/Downfall__A_Slay_the_Spire_Fan_Expansion/
+# Haven & Hearth https://store.steampowered.com/app/3051280/Haven__Hearth/
 { "name": "javaw.exe", "type": "Game" }
 
 # Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
@@ -976,6 +994,11 @@
 # Pool 2D - Poolians https://store.steampowered.com/app/891040/Pool_2D__Poolians/
 { "name": "Poolians.exe", "type": "Game" }
 
+# Portal Reloaded https://store.steampowered.com/app/1255980/Portal_Reloaded/
+# Portal 2 https://store.steampowered.com/app/620/Portal_2/
+# Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
+{ "name": "portal2.exe", "type": "Game" }
+
 # Primal Carnage: Extinction https://store.steampowered.com/app/321360/Primal_Carnage_Extinction/
 # Primal Carnage https://store.steampowered.com/app/215470/Primal_Carnage/
 { "name": "PrimalCarnageGame.exe", "type": "Game" }
@@ -1146,6 +1169,7 @@
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 # Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
 # Star Control: Origins https://store.steampowered.com/app/271260/Star_Control_Origins/
+# Elemental: Reforged https://store.steampowered.com/app/3796960/Elemental_Reforged/
 { "name": "StardockLauncher.exe", "type": "Game" }
 
 # City Car Driving https://store.steampowered.com/app/493490/City_Car_Driving/
@@ -1420,6 +1444,10 @@
 # Windrose Dedicated Server https://store.steampowered.com/app/4129620/
 { "name": "WindroseServer-Win64-Shipping.exe", "type": "BG_CPUIO" }
 
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
+{ "name": "WL2.exe", "type": "Game" }
+
 # Wolfenstein: The New Order https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/
 # Wolfenstein: The New Order German Edition https://store.steampowered.com/app/288570/
 { "name": "WolfNewOrder_x64.exe", "type": "Game" }
@@ -1427,6 +1455,10 @@
 # Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 { "name": "Workshop.exe", "type": "Game" }
+
+# X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
+# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+{ "name": "X3TC.exe", "type": "Game" }
 
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
 # XCOM: Chimera Squad https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/

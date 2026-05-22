@@ -132,6 +132,10 @@
 { "name": "Vein.exe", "type": "Game" }
 { "name": "Vein-Win64-Test.exe", "type": "Game" }
 
+# VEIN Demo https://store.steampowered.com/app/2082470/VEIN/
+{ "name": "VeinDemo.exe", "type": "Game" }
+{ "name": "VeinDemo-Win64-Test.exe", "type": "Game" }
+
 # Vellum https://store.steampowered.com/app/917950/Vellum/
 { "name": "Vellum.exe", "type": "Game" }
 

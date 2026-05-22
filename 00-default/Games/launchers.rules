@@ -59,6 +59,9 @@
 # https://github.com/ElyPrismLauncher/ElyPrismLauncher
 { "name": "elyprismlauncher", "type": "Game" }
 
+# Fjord Launcher https://github.com/unmojang/FjordLauncher
+{ "name": "fjordlauncher", "type": "Game" }
+
 # integrated web engine
 { "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
 

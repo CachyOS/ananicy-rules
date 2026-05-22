@@ -42,9 +42,6 @@
 { "name": "Dead In Vinland.x86", "type": "Game" }
 { "name": "Dead In Vinland.x86_64", "type": "Game" }
 
-# Dead Island Definitive Edition https://store.steampowered.com/app/383150/
-{ "name": "DeadIslandGame", "type": "Game" }
-
 # Dead Island: Riptide Definitive Edition https://store.steampowered.com/app/383180/Dead_Island_Riptide_Definitive_Edition/
 { "name": "DeadIslandRiptideGame", "type": "Game" }
 
@@ -130,6 +127,9 @@
 
 # Devil Daggers https://store.steampowered.com/app/422970/Devil_Daggers/
 { "name": "devildaggers", "type": "Game" }
+
+# Devil Spire Falls https://store.steampowered.com/app/3646460/Devil_Spire_Falls/
+{ "name": "Devil Spire Falls.x86_64", "type": "Game" }
 
 # devilutionx https://github.com/diasurgical/devilutionX/
 { "name": "devilutionx", "type": "Game" }
