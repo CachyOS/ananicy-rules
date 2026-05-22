@@ -129,9 +129,6 @@
 { "name": "JUMP_FORCE.exe", "type": "Game" }
 { "name": "JUMP_FORCE-Win64-Shipping.exe", "type": "Game" }
 
-# Just Pizza https://store.steampowered.com/app/3077280/Just_Pizza/
-{ "name": "Just Pizza.exe", "type": "Game" }
-
 # Jump King https://store.steampowered.com/app/1061090/Jump_King/
 { "name": "JumpKing.exe", "type": "Game" }
 
@@ -190,6 +187,9 @@
 # Just Ignore Them https://store.steampowered.com/app/561770/Just_Ignore_Them/
 { "name": "JustIgnoreThemRemake.exe", "type": "Game" }
 { "name": "justignorethem.exe", "type": "Game" }
+
+# Just Pizza https://store.steampowered.com/app/3077280/Just_Pizza/
+{ "name": "Just Pizza.exe", "type": "Game" }
 
 # Just Shapes & Beats https://store.steampowered.com/app/531510/Just_Shapes__Beats/
 { "name": "JSB.exe", "type": "Game" }

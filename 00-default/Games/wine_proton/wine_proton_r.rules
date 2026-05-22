@@ -17,6 +17,9 @@
 # RACE 07 https://store.steampowered.com/app/8600/RACE_07/
 { "name": "Race_Steam.exe", "type": "Game" }
 
+# Race of Life - Act 1 https://store.steampowered.com/app/2454570/
+{ "name": "RaceOfLife.exe", "type": "Game" }
+
 # Racer 8 https://store.steampowered.com/app/292380/Racer_8/
 { "name": "Racer8.exe", "type": "Game" }
 
@@ -137,6 +140,9 @@
 
 # Ratz Instagib https://store.steampowered.com/app/338170/Ratz_Instagib/
 { "name": "RatzInstagib.exe", "type": "Game" }
+
+# Ravager https://store.steampowered.com/app/1683560/
+{ "name": "Ravager.exe", "type": "Game" }
 
 # Ravenfield https://store.steampowered.com/app/636480/Ravenfield/
 { "name": "ravenfield.exe", "type": "Game" }
@@ -729,12 +735,6 @@
 # Rock Simulator 2 https://store.steampowered.com/app/1949770/Rock_Simulator_2/
 { "name": "RockSimulator2.exe", "type": "Game" }
 { "name": "RockSimulator2-Win64-Shipping.exe", "type": "Game" }
-
-# Race of Life - Act 1 https://store.steampowered.com/app/2454570/
-{ "name": "RaceOfLife.exe", "type": "Game" }
-
-# Ravager https://store.steampowered.com/app/1683560/
-{ "name": "Ravager.exe", "type": "Game" }
 
 # Rocksmith https://store.steampowered.com/app/205190/Rocksmith/
 { "name": "Rocksmith.exe", "type": "Game" }

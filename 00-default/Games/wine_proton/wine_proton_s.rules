@@ -767,6 +767,9 @@
 { "name": "ShipGraveyard2.exe", "type": "Game" }
 { "name": "ShipGraveyard2-Win64-Shipping.exe", "type": "Game" }
 
+# Ship, Inc. https://store.steampowered.com/app/3496000/Ship_Inc/
+{ "name": "Ship Inc.exe", "type": "Game" }
+
 # Ship of Fools https://store.steampowered.com/app/1286580/Ship_of_Fools/
 { "name": "ShipOfFools.exe", "type": "Game" }
 
@@ -1166,6 +1169,9 @@
 # Smart Game Booster https://store.steampowered.com/app/1278480/Smart_Game_Booster/
 { "name": "SgbMain.exe", "type": "Game" }
 
+# Smashing Simulator Idle https://store.steampowered.com/app/3066060/Smashing_Simulator_Idle/
+{ "name": "SmashingSimulatorIdle.exe", "type": "Game" }
+
 # Smash it Wild https://store.steampowered.com/app/2432240/Smash_it_Wild_Tactical_Volleyball_Roguelike/
 { "name": "Smash it Wild.exe", "type": "Game" }
 
@@ -1408,6 +1414,9 @@
 # Sons Of The Forest https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/
 { "name": "SonsOfTheForest.exe", "type": "Game" }
 
+# Sophie: The Girl From The Zone https://store.steampowered.com/app/3224840/
+{ "name": "SophieTheGirlFromTheZone.exe", "type": "Game" }
+
 # SOS OPS! https://store.steampowered.com/app/2475460/SOS_OPS/
 { "name": "SOS OPS.exe", "type": "Game" }
 
@@ -1545,6 +1554,11 @@
 
 # Space Station 14 Playtest https://store.steampowered.com/app/1482520/Space_Station_14/
 { "name": "Space Station 14 Launcher.exe", "type": "Game" }
+
+# Space Station: Beyond https://store.steampowered.com/app/3731580/Space_Station_Beyond/
+{ "name": "SimpleStation14 Launcher.exe", "type": "Game" }
+{ "name": "SS14.Loader.exe", "type": "Game" }
+{ "name": "SS14.Launcher.exe", "type": "Game" }
 
 # Space Travel Idle https://store.steampowered.com/app/1407860/Space_Travel_Idle/
 { "name": "SpaceTravelIdle.exe", "type": "Game" }
@@ -2757,20 +2771,6 @@
 
 # System Shock 2 https://store.steampowered.com/app/238210/System_Shock_2_1999/
 { "name": "SS2.exe", "type": "Game" }
-
-# Ship, Inc. https://store.steampowered.com/app/3496000/Ship_Inc/
-{ "name": "Ship Inc.exe", "type": "Game" }
-
-# Smashing Simulator Idle https://store.steampowered.com/app/3066060/Smashing_Simulator_Idle/
-{ "name": "SmashingSimulatorIdle.exe", "type": "Game" }
-
-# Sophie: The Girl From The Zone https://store.steampowered.com/app/3224840/
-{ "name": "SophieTheGirlFromTheZone.exe", "type": "Game" }
-
-# Space Station: Beyond https://store.steampowered.com/app/3731580/Space_Station_Beyond/
-{ "name": "SimpleStation14 Launcher.exe", "type": "Game" }
-{ "name": "SS14.Loader.exe", "type": "Game" }
-{ "name": "SS14.Launcher.exe", "type": "Game" }
 
 # System Shock 2: 25th Anniversary Remaster https://store.steampowered.com/app/866570/
 { "name": "hathor_Shipping_PlayFab_Steam_x64.exe", "type": "Game" }

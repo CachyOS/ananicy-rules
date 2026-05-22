@@ -52,9 +52,15 @@
 # Party Hard https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.x86_64", "type": "Game" }
 
+# Party Quiz https://store.steampowered.com/app/2024070/Party_Quiz/
+{ "name": "Party Quiz.x86_64", "type": "Game" }
+
 # Passpartout: The Starving Artist https://store.steampowered.com/app/582550/Passpartout_The_Starving_Artist/
 { "name": "Passpartout.x86", "type": "Game" }
 { "name": "Passpartout.x86_64", "type": "Game" }
+
+# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
+{ "name": "pathogenic.x86_64", "type": "Game" }
 
 # Patrick's Parabox https://store.steampowered.com/app/1260520/Patricks_Parabox/
 { "name": "Patrick's Parabox.x86_64", "type": "Game" }
@@ -119,6 +125,9 @@
 # Pix the Cat https://store.steampowered.com/app/330180/Pix_the_Cat/
 { "name": "PixtheCat", "type": "Game" }
 
+# Pizzeria https://store.steampowered.com/app/3062410/Pizzeria/
+{ "name": "Pizzeria", "type": "Game" }
+
 # Plague Inc: Evolved https://store.steampowered.com/app/246620/Plague_Inc_Evolved/
 { "name": "PlagueIncEvolved.x86_64", "type": "Game" }
 
@@ -153,6 +162,9 @@
 
 # POOLS https://store.steampowered.com/app/2663530/POOLS/
 { "name": "POOLS.x86_64", "type": "Game" }
+
+# POOP https://store.steampowered.com/app/3060300/POOP/
+{ "name": "POOP.x86_64", "type": "Game" }
 
 # POSTAL https://store.steampowered.com/app/232770/POSTAL/
 { "name": "postal1", "type": "Game" }
@@ -217,15 +229,3 @@
 
 # PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
 { "name": "pyramidlauncher", "type": "Game" }
-
-# Party Quiz https://store.steampowered.com/app/2024070/Party_Quiz/
-{ "name": "Party Quiz.x86_64", "type": "Game" }
-
-# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
-{ "name": "pathogenic.x86_64", "type": "Game" }
-
-# Pizzeria https://store.steampowered.com/app/3062410/Pizzeria/
-{ "name": "Pizzeria", "type": "Game" }
-
-# POOP https://store.steampowered.com/app/3060300/POOP/
-{ "name": "POOP.x86_64", "type": "Game" }

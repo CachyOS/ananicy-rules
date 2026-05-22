@@ -5,6 +5,9 @@
 
 ### W ###
 
+# Wagotabi https://store.steampowered.com/app/2701720/Wagotabi_A_Japanese_Journey/
+{ "name": "Wagotabi.x86_64", "type": "Game" }
+
 # Waking Mars https://store.steampowered.com/app/227200/Waking_Mars/
 { "name": "wakingmars", "type": "Game" }
 
@@ -43,9 +46,6 @@
 
 # Wasteland 3 https://store.steampowered.com/app/719040/Wasteland_3/
 { "name": "Wasteland 3.x86_64", "type": "Game" }
-
-# Wagotabi https://store.steampowered.com/app/2701720/Wagotabi_A_Japanese_Journey/
-{ "name": "Wagotabi.x86_64", "type": "Game" }
 
 # Waveform https://store.steampowered.com/app/204180/Waveform/
 { "name": "Waveform", "type": "Game" }

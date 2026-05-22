@@ -5,6 +5,9 @@
 
 ### R ###
 
+# Race of Life - Act 1 https://store.steampowered.com/app/2454570/
+{ "name": "RaceOfLife", "type": "Game" }
+
 # Race The Sun https://store.steampowered.com/app/253030/Race_The_Sun/
 { "name": "RaceTheSun.x86", "type": "Game" }
 
@@ -16,6 +19,9 @@
 
 # Rakuen https://store.steampowered.com/app/559210/Rakuen/
 { "name": "Rakuen.amd64", "type": "Game" }
+
+# Ravager https://store.steampowered.com/app/1683560/
+{ "name": "Ravager", "type": "Game" }
 
 # Ravenfield https://store.steampowered.com/app/636480/Ravenfield/
 { "name": "ravenfield.x86_64", "type": "Game" }
@@ -184,9 +190,3 @@
 
 # Rust https://store.steampowered.com/app/252490/Rust/
 { "name": "rust", "type": "Game" }
-
-# Race of Life - Act 1 https://store.steampowered.com/app/2454570/
-{ "name": "RaceOfLife", "type": "Game" }
-
-# Ravager https://store.steampowered.com/app/1683560/
-{ "name": "Ravager", "type": "Game" }

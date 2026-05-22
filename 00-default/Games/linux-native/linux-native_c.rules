@@ -39,6 +39,9 @@
 { "name": "CattleCountry", "type": "Game" }
 { "name": "CattleCountry.bin.aarch64", "type": "Game" }
 
+# Caveman World: Mountains of Unga Boonga https://store.steampowered.com/app/462960/Caveman_World_Mountains_of_Unga_Boonga/
+{ "name": "Caveman World.x86", "type": "Game" }
+
 # Caves of Qud https://store.steampowered.com/app/333640/Caves_of_Qud/
 { "name": "CoQ.x86_64", "type": "Game" }
 { "name": "CoQ.x86", "type": "Game" }
@@ -173,6 +176,10 @@
 # Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name" : "CompanyOfHeroes2","type": "Game"}
 
+# Conan Exiles Dedicated Server https://store.steampowered.com/app/443030/
+{ "name": "ConanSandboxServer", "type": "Game" }
+{ "name": "ConanSandboxServer-Linux-Shipping", "type": "Game" }
+
 # Conquest of Elysium 5 https://store.steampowered.com/app/1606340/Conquest_of_Elysium_5/
 { "name": "coe5", "type": "Game" }
 
@@ -228,21 +235,14 @@
 { "name": "CW3.x86", "type": "Game" }
 { "name": "CW3.x86_64", "type": "Game" }
 
-# Caveman World: Mountains of Unga Boonga https://store.steampowered.com/app/462960/Caveman_World_Mountains_of_Unga_Boonga/
-{ "name": "Caveman World.x86", "type": "Game" }
-
-# Conan Exiles Dedicated Server https://store.steampowered.com/app/443030/
-{ "name": "ConanSandboxServer", "type": "Game" }
-{ "name": "ConanSandboxServer-Linux-Shipping", "type": "Game" }
-
-# Crisis in the Kremlin: The Cold War https://store.steampowered.com/app/1922740/Crisis_in_the_Kremlin_The_Cold_War/
-{ "name": "CitK2.x86_64", "type": "Game" }
-
 # Crimsonland https://store.steampowered.com/app/262830/Crimsonland/
 { "name": "crimsonland", "type": "Game" }
 
 # Crisis in the Kremlin https://store.steampowered.com/app/599750/Crisis_in_the_Kremlin/
 { "name": "Crisis.x86_64", "type": "Game" }
+
+# Crisis in the Kremlin: The Cold War https://store.steampowered.com/app/1922740/Crisis_in_the_Kremlin_The_Cold_War/
+{ "name": "CitK2.x86_64", "type": "Game" }
 
 # Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos", "type": "Game" }

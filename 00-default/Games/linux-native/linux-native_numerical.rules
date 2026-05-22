@@ -15,6 +15,9 @@
 # 140 https://store.steampowered.com/app/242820/140/
 { "name": "140Linux.x86", "type": "Game" }
 
+# 1492: A New World https://store.steampowered.com/app/3861100/
+{ "name": "1492.x86_64", "type": "Game" }
+
 # 2 Ship 2 Harkinian https://github.com/HarbourMasters/2ship2harkinian
 { "name": "2ship.appimage", "type": "Game" }
 
@@ -32,15 +35,12 @@
 { "name": "7DaysToDie.x86_64", "type": "Game" }
 { "name": "7DaysToDie_EAC", "type": "Game" }
 
+# 7 Days to Die Dedicated Server https://store.steampowered.com/app/294420/
+{ "name": "7DaysToDieServer.x86_64", "type": "Game" }
+
 # 911 Operator https://store.steampowered.com/app/503560/911_Operator/
 { "name": "911OperatorLinux.x86", "type": "Game" }
 
 # 9 Clues: The Secret of Serpent Creek https://store.steampowered.com/app/284870/9_Clues_The_Secret_of_Serpent_Creek/
 { "name": "NineClues_amd64", "type": "Game" }
 { "name": "NineClues_i386", "type": "Game" }
-
-# 1492: A New World https://store.steampowered.com/app/3861100/
-{ "name": "1492.x86_64", "type": "Game" }
-
-# 7 Days to Die Dedicated Server https://store.steampowered.com/app/294420/
-{ "name": "7DaysToDieServer.x86_64", "type": "Game" }

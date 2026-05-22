@@ -38,6 +38,10 @@
 # Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
 { "name": "Airships.exe", "type": "Game" }
 
+# Alabaster Dawn Demo https://store.steampowered.com/app/3900710/Alabaster_Dawn_Demo/
+# Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
+{ "name": "alabaster_dawn.exe", "type": "Game" }
+
 # Alien Shooter https://store.steampowered.com/app/33100/Alien_Shooter/
 # Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
 { "name": "AlienShooter.exe", "type": "Game" }
@@ -157,6 +161,10 @@
 # DARK SOULS II https://store.steampowered.com/app/236430/DARK_SOULS_II/
 # DARK SOULS II: Scholar of the First Sin https://store.steampowered.com/app/335300/DARK_SOULS_II_Scholar_of_the_First_Sin/
 { "name": "DarkSoulsII.exe", "type": "Game" }
+
+# Dead Island https://store.steampowered.com/app/91310/
+# Dead Island Definitive Edition https://store.steampowered.com/app/383150/Dead_Island_Definitive_Edition/
+{ "name": "DeadIslandGame.exe", "type": "Game" }
 
 # Dead Space https://store.steampowered.com/app/1693980/Dead_Space/
 # Dead Space (2008) https://store.steampowered.com/app/17470/Dead_Space_2008/
@@ -638,11 +646,6 @@
 # Haven & Hearth https://store.steampowered.com/app/3051280/Haven__Hearth/
 { "name": "java.exe", "type": "Game" }
 
-# Portal Reloaded https://store.steampowered.com/app/1255980/Portal_Reloaded/
-# Portal 2 https://store.steampowered.com/app/620/Portal_2/
-# Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
-{ "name": "portal2.exe", "type": "Game" }
-
 # Spiral Knights https://store.steampowered.com/app/99900/Spiral_Knights/
 # Puzzle Pirates https://store.steampowered.com/app/99910/Puzzle_Pirates/
 # Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
@@ -991,6 +994,11 @@
 # Pool 2D - Poolians https://store.steampowered.com/app/891040/Pool_2D__Poolians/
 { "name": "Poolians.exe", "type": "Game" }
 
+# Portal Reloaded https://store.steampowered.com/app/1255980/Portal_Reloaded/
+# Portal 2 https://store.steampowered.com/app/620/Portal_2/
+# Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
+{ "name": "portal2.exe", "type": "Game" }
+
 # Primal Carnage: Extinction https://store.steampowered.com/app/321360/Primal_Carnage_Extinction/
 # Primal Carnage https://store.steampowered.com/app/215470/Primal_Carnage/
 { "name": "PrimalCarnageGame.exe", "type": "Game" }
@@ -1148,10 +1156,6 @@
 # SPORE Galactic Adventures https://store.steampowered.com/app/24720/SPORE_Galactic_Adventures/
 { "name": "SporeApp.exe", "type": "Game" }
 
-# Dead Island https://store.steampowered.com/app/91310/
-# Dead Island Definitive Edition https://store.steampowered.com/app/383150/Dead_Island_Definitive_Edition/
-{ "name": "DeadIslandGame.exe", "type": "Game" }
-
 # Supremacy: 1914 https://store.steampowered.com/app/979920/Supremacy_1914/
 # Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
 { "name": "Squirrel.exe", "type": "Game" }
@@ -1161,18 +1165,6 @@
 # Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
 # Synergy https://store.steampowered.com/app/17520/Synergy/
 { "name": "srcds.exe", "type": "Service" }
-
-# X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
-# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
-{ "name": "X3TC.exe", "type": "Game" }
-
-# Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
-# Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
-{ "name": "WL2.exe", "type": "Game" }
-
-# Alabaster Dawn Demo https://store.steampowered.com/app/3900710/Alabaster_Dawn_Demo/
-# Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
-{ "name": "alabaster_dawn.exe", "type": "Game" }
 
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
 # Sins of a Solar Empire II https://store.steampowered.com/app/1575940/Sins_of_a_Solar_Empire_II/
@@ -1452,6 +1444,10 @@
 # Windrose Dedicated Server https://store.steampowered.com/app/4129620/
 { "name": "WindroseServer-Win64-Shipping.exe", "type": "BG_CPUIO" }
 
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
+{ "name": "WL2.exe", "type": "Game" }
+
 # Wolfenstein: The New Order https://store.steampowered.com/app/201810/Wolfenstein_The_New_Order/
 # Wolfenstein: The New Order German Edition https://store.steampowered.com/app/288570/
 { "name": "WolfNewOrder_x64.exe", "type": "Game" }
@@ -1459,6 +1455,10 @@
 # Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 { "name": "Workshop.exe", "type": "Game" }
+
+# X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
+# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+{ "name": "X3TC.exe", "type": "Game" }
 
 # XCOM 2 https://store.steampowered.com/app/268500/XCOM_2/
 # XCOM: Chimera Squad https://store.steampowered.com/app/882100/XCOM_Chimera_Squad/

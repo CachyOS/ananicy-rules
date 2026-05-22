@@ -9,10 +9,6 @@
 # Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
 { "name": "Adobe Substance 3D Designer", "type": "Game" }
 
-# Alabaster Dawn Demo https://store.steampowered.com/app/3900710/Alabaster_Dawn_Demo/
-# Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
-{ "name": "alabaster_dawn", "type": "Game" }
-
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
 # Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
@@ -26,13 +22,13 @@
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "Airfoil Maker-x86_64", "type": "Game" }
 
+# Alabaster Dawn Demo https://store.steampowered.com/app/3900710/Alabaster_Dawn_Demo/
+# Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
+{ "name": "alabaster_dawn", "type": "Game" }
+
 # American Truck Simulator Demo https://store.steampowered.com/app/441960/American_Truck_Simulator/
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks", "type": "Game" }
-
-# Dead Island https://store.steampowered.com/app/91310/
-# Dead Island Definitive Edition https://store.steampowered.com/app/383150/
-{ "name": "DeadIslandGame", "type": "Game" }
 
 # Vending Machine Co. https://store.steampowered.com/app/3622640/Vending_Machine_Co/
 # Dice & Fold https://store.steampowered.com/app/2693930/Dice__Fold/
@@ -72,6 +68,10 @@
 # Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
 # Warhammer 40,000: Dawn of War II - Chaos Rising https://store.steampowered.com/app/20570/Warhammer_40000_Dawn_of_War_II_Chaos_Rising/
 { "name": "DawnOfWar2", "type": "Game" }
+
+# Dead Island https://store.steampowered.com/app/91310/
+# Dead Island Definitive Edition https://store.steampowered.com/app/383150/
+{ "name": "DeadIslandGame", "type": "Game" }
 
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
@@ -179,11 +179,6 @@
 # Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/100/CounterStrike_Condition_Zero/
 { "name": "hl_linux", "type": "Game" }
 
-# Portal Reloaded https://store.steampowered.com/app/1255980/Portal_Reloaded/
-# Portal 2 https://store.steampowered.com/app/620/Portal_2/
-# Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
-{ "name": "portal2_linux", "type": "Game" }
-
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
@@ -247,6 +242,11 @@
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "Plane Maker-x86_64", "type": "Game" }
+
+# Portal Reloaded https://store.steampowered.com/app/1255980/Portal_Reloaded/
+# Portal 2 https://store.steampowered.com/app/620/Portal_2/
+# Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
+{ "name": "portal2_linux", "type": "Game" }
 
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 # Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
@@ -322,17 +322,9 @@
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "start", "type": "Game" }
 
-# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
-# X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
-{ "name": "X3TC_main", "type": "Game" }
-
 # Stoneshard https://store.steampowered.com/app/625960/Stoneshard/
 # Stoneshard: Prologue https://store.steampowered.com/app/869760/Stoneshard_Prologue/
 { "name": "StoneShard", "type": "Game" }
-
-# Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
-# Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
-{ "name": "WL2", "type": "Game" }
 
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/
@@ -352,9 +344,17 @@
 # Wargame: European Escalation https://store.steampowered.com/app/58610/Wargame_European_Escalation/
 { "name": "Wargame", "type": "Game" }
 
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
+# Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
+{ "name": "WL2", "type": "Game" }
+
 # Wurm Online https://store.steampowered.com/app/1179680/Wurm_Online/
 # Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/
 { "name": "WurmLauncher", "type": "Game" }
+
+# X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
+# X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
+{ "name": "X3TC_main", "type": "Game" }
 
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
