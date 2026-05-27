@@ -1,5 +1,9 @@
 # Ordered based on executable name
 
+# 3DMark Demo https://store.steampowered.com/app/231350/3DMark/
+# 3DMark https://store.steampowered.com/app/223850/3DMark/
+{ "name": "3DMark.exe", "type": "Game" }
+
 # Assassin's Creed III https://store.steampowered.com/app/208480/Assassins_Creed_III/
 # Assassin's Creed III Remastered https://store.steampowered.com/app/911400/Assassins_Creed_III_Remastered/
 { "name": "AC3SP.exe", "type": "Game" }
@@ -12,18 +16,10 @@
 # Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
 { "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
 
-# Call of Duty: Modern Warfare 2 (2009) - Multiplayer https://store.steampowered.com/app/10190/Call_of_Duty_Modern_Warfare_2_2009/
-# Call of Duty: Modern Warfare 2 (2009) https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
-{ "name": "iw4mp.exe", "type": "Game" }
-
 # Substance 3D Designer 2022 https://store.steampowered.com/app/1775400/Substance_3D_Designer_2022/
 # Substance 3D Designer 2023 https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/
 # Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
 { "name": "Adobe Substance 3D Designer.exe", "type": "Game" }
-
-# Call of Duty: Modern Warfare 3 (2011) https://store.steampowered.com/app/42680/
-# Call of Duty: Modern Warfare 3 (2011) https://store.steampowered.com/app/115300/
-{ "name": "iw5sp.exe", "type": "Game" }
 
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
@@ -58,6 +54,10 @@
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks.exe", "type": "Game" }
 
+# Anno 1404 https://store.steampowered.com/app/33250/Dawn_of_Discovery/
+# Anno 1404: Venice https://store.steampowered.com/app/33350/Dawn_of_Discovery_Venice/
+{ "name": "Anno4.exe", "type": "Game" }
+
 # Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
 # AMEDAMA https://store.steampowered.com/app/2411980/AMEDAMA/
 # SaveSync https://store.steampowered.com/app/3832010/SaveSync_Coop_Save_Sharing_Made_Easy/
@@ -66,9 +66,33 @@
 # Crazy Taxi https://store.steampowered.com/app/71230/Crazy_Taxi/
 { "name": "AppLauncher.exe", "type": "Game" }
 
+# Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
+# Arma Reforger Experimental https://store.steampowered.com/app/1890860/
+{ "name": "ArmaReforger_BE.exe", "type": "Game" }
+
+# Arma Reforger Experimental https://store.steampowered.com/app/1890860/
+# Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
+{ "name": "ArmaReforgerSteam.exe", "type": "Game" }
+
 # DRAGON BALL Z: KAKAROT https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
 # Airline Tycoon Deluxe https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 { "name": "AT.exe", "type": "Game" }
+
+# Atlantica Global https://store.steampowered.com/app/1232420/Atlantica_Global/
+# Atlantica Europe https://store.steampowered.com/app/1563940/Atlantica_Europe/
+{ "name": "AtlanticaRun.exe", "type": "Game" }
+
+# Backpack Battles Demo https://store.steampowered.com/app/2444170/Backpack_Battles/
+# Backpack Battles https://store.steampowered.com/app/2427700/Backpack_Battles/
+{ "name": "BackpackBattles.exe", "type": "Game" }
+
+# BACKROOMS: APPREHENSION https://store.steampowered.com/app/2234150/BACKROOMS_APPREHENSION/
+# Escape the Backrooms https://store.steampowered.com/app/1943950/Escape_the_Backrooms/
+{ "name": "Backrooms.exe", "type": "Game" }
+
+# Escape the Backrooms https://store.steampowered.com/app/1943950/Escape_the_Backrooms/
+# BACKROOMS: APPREHENSION https://store.steampowered.com/app/2234150/BACKROOMS_APPREHENSION/
+{ "name": "Backrooms-Win64-Shipping.exe", "type": "Game" }
 
 # Baldi's Basics Classic Remastered https://store.steampowered.com/app/1712830/Baldis_Basics_Classic_Remastered/
 # Baldi's Basics Plus https://store.steampowered.com/app/1275890/Baldis_Basics_Plus/
@@ -92,8 +116,28 @@
 # Go! Go! Nippon! ~My First Trip to Japan~ https://store.steampowered.com/app/251870/Go_Go_Nippon_My_First_Trip_to_Japan/
 { "name": "BGI.exe", "type": "Game" }
 
+# Call of Duty: Black Ops - Multiplayer https://store.steampowered.com/app/42710/
+# Call of Duty: Black Ops https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
+{ "name": "BlackOpsMP.exe", "type": "Game" }
+
+# BlackShot Revolution https://steamdb.info/app/895970/
+# BlackShot: Mercenary Warfare FPS https://store.steampowered.com/app/433350/BlackShot_Mercenary_Warfare_FPS/
+{ "name": "blackshot_BE.exe", "type": "Game" }
+
+# Blades of Fire https://store.steampowered.com/app/2091020/Blades_of_Fire/
+# Blades of Fire Demo https://store.steampowered.com/app/4335780/Blades_of_Fire/
+{ "name": "BladesOfFire.exe", "type": "Game" }
+
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
+
+# Bopl Battle https://store.steampowered.com/app/1686940/Bopl_Battle/
+# Bopl Battle Demo https://store.steampowered.com/app/2494960/Bopl_Battle/
+{ "name": "BoplBattle.exe", "type": "Game" }
+
+# Borderlands 2 https://store.steampowered.com/app/49520/Borderlands_2/
+# Borderlands 2 RU https://store.steampowered.com/app/217490/
+{ "name": "Borderlands2.exe", "type": "Game" }
 
 # Borderlands Game of the Year https://store.steampowered.com/app/8980/Borderlands_Game_of_the_Year/
 # Tales from the Borderlands https://store.steampowered.com/app/330830/
@@ -119,6 +163,14 @@
 # Call to Arms - Gates of Hell: Ostfront https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
 { "name": "call_to_arms_server.exe", "type": "Game" }
 
+# Car Dealer Simulator Demo https://store.steampowered.com/app/3413480/Car_Dealer_Simulator/
+# Car Dealer Simulator: Prologue - Early Days https://store.steampowered.com/app/3115010/Car_Dealer_Simulator_Prologue__Early_Days/
+{ "name": "CarDealerSim.exe", "type": "Game" }
+
+# Car Dealer Simulator Demo https://store.steampowered.com/app/3413480/Car_Dealer_Simulator/
+# Car Dealer Simulator: Prologue - Early Days https://store.steampowered.com/app/3115010/Car_Dealer_Simulator_Prologue__Early_Days/
+{ "name": "CarDealerSim-Win64-Shipping.exe", "type": "Game" }
+
 # Cataclismo https://store.steampowered.com/app/1422440/Cataclismo/
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
 { "name": "Castle.exe", "type": "Game" }
@@ -138,6 +190,10 @@
 # teuli obeu seibieo 트리 오브 세이비어 https://store.steampowered.com/app/2178420/
 { "name": "Client_tos_x64.exe", "type": "Game" }
 
+# Coconut (10 Jul, 2024) https://store.steampowered.com/app/3065860/Coconut/
+# Coconut (1 Aug, 2024) https://store.steampowered.com/app/3063130/Coconut/
+{ "name": "Coconut.exe", "type": "Game" }
+
 # SAO Utils: Beta https://store.steampowered.com/app/786520/SAO_Utils_Beta/
 # Copa Petrobras de Marcas https://store.steampowered.com/app/359800/Copa_Petrobras_de_Marcas/
 # Sword and Fairy 4 https://steamdb.info/app/681820/
@@ -146,6 +202,14 @@
 # Contraband Police https://store.steampowered.com/app/756800/Contraband_Police/
 # Contraband Police: Prologue https://store.steampowered.com/app/1396240/Contraband_Police_Prologue/
 { "name": "ContrabandPolice.exe", "type": "Game"}
+
+# Cricket Captain 2024 https://store.steampowered.com/app/2900670/Cricket_Captain_2024/
+# Cricket Captain 2025 https://store.steampowered.com/app/3637540/Cricket_Captain_2025/
+{ "name": "CricketCaptain.exe", "type": "Game" }
+
+# Crime Scene Cleaner https://store.steampowered.com/app/1040200/Crime_Scene_Cleaner/
+# Crime Scene Cleaner: Prologue https://store.steampowered.com/app/2540100/Crime_Scene_Cleaner_Prologue/
+{ "name": "CrimeCleaner.exe", "type": "Game"}
 
 # Crysis https://store.steampowered.com/app/17300/Crysis/
 # Crysis Warhead https://store.steampowered.com/app/17330/Crysis_Warhead/
@@ -363,6 +427,10 @@
 # Starborne: Frontiers https://store.steampowered.com/app/3021540/Starborne_Frontiers/
 { "name": "Frontiers.exe", "type": "Game" }
 
+# Conan Exiles https://store.steampowered.com/app/440900/Conan_Exiles/
+# Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
+{ "name": "FuncomLauncher.exe", "type": "Game" }
+
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
@@ -519,12 +587,12 @@
 # Crown Champion: Legends of the Arena https://store.steampowered.com/app/527710/Crown_Champion_Legends_of_the_Arena/
 { "name": "Game.exe", "type": "Game" }
 
+# SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
+{ "name": "GameLauncher.exe", "type": "Game" }
+
 # Command & Conquer Generals Zero Hour https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/
 # Command & Conquer: Generals https://store.steampowered.com/app/2229870/Command__Conquer_Generals/
 { "name": "Generals.exe", "type": "Game" }
-
-# SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
-{ "name": "GameLauncher.exe", "type": "Game" }
 
 # Green Hell https://store.steampowered.com/app/815370/Green_Hell/
 # Gloomhaven https://store.steampowered.com/app/780290/Gloomhaven/
@@ -651,13 +719,17 @@
 # It Takes Two Friend's Pass https://store.steampowered.com/app/1504980/It_Takes_Two_Friends_Pass/
 { "name": "ItTakesTwo.exe", "type": "Game" }
 
+# Call of Duty: Modern Warfare 2 (2009) - Multiplayer https://store.steampowered.com/app/10190/Call_of_Duty_Modern_Warfare_2_2009/
+# Call of Duty: Modern Warfare 2 (2009) https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
+{ "name": "iw4mp.exe", "type": "Game" }
+
+# Call of Duty: Modern Warfare 3 (2011) https://store.steampowered.com/app/42680/
+# Call of Duty: Modern Warfare 3 (2011) https://store.steampowered.com/app/115300/
+{ "name": "iw5sp.exe", "type": "Game" }
+
 # Què hún májiàng (MahjongSoul) 雀魂麻将(MahjongSoul) https://store.steampowered.com/app/1329410/
 # Mahjong Soul https://store.steampowered.com/app/2739990/Mahjong_Soul/
 { "name": "Jantama_MahjongSoul.exe", "type": "Game" }
-
-# Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
-# Age of History II Definitive Edition https://store.steampowered.com/app/3381680/Age_of_History_2_Definitive_Edition/
-{ "name": "javaws.exe", "type": "Game" }
 
 # Puzzle Pirates https://store.steampowered.com/app/99910/Puzzle_Pirates/
 # WAKFU https://store.steampowered.com/app/215080/WAKFU/
@@ -674,6 +746,10 @@
 # Haven & Hearth https://store.steampowered.com/app/3051280/Haven__Hearth/
 # Age of History II Definitive Edition https://store.steampowered.com/app/3381680/Age_of_History_2_Definitive_Edition/
 { "name": "javaw.exe", "type": "Game" }
+
+# Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
+# Age of History II Definitive Edition https://store.steampowered.com/app/3381680/Age_of_History_2_Definitive_Edition/
+{ "name": "javaws.exe", "type": "Game" }
 
 # Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
 # Dungeon Village 2 https://store.steampowered.com/app/1983710/Dungeon_Village_2/
@@ -898,10 +974,6 @@
 # fēng líng dàng àn 封灵档案 https://store.steampowered.com/app/1520470/Soul_Dossier/
 { "name": "NotesOfSoul-Win64-Shipping.exe", "type": "Game" }
 
-# Barro GT https://store.steampowered.com/app/1990740/Barro_GT/
-# Barro https://store.steampowered.com/app/618140/Barro/
-{ "name": "SC Jogos Launcher.exe", "type": "Game" }
-
 # Aviary Attorney https://store.steampowered.com/app/384630/Aviary_Attorney/
 # Angvik https://store.steampowered.com/app/278890/Angvik/
 # Ghostly Matter https://store.steampowered.com/app/800240/Ghostly_Matter/
@@ -916,14 +988,6 @@
 # Sentience: The Android's Tale https://store.steampowered.com/app/635850/Sentience_The_Androids_Tale/
 # Crown Champion: Legends of the Arena https://store.steampowered.com/app/527710/Crown_Champion_Legends_of_the_Arena/
 { "name": "nw.exe", "type": "Game" }
-
-# Call of Duty: WWII - Multiplayer https://store.steampowered.com/app/476620/
-# Call of Duty: WWII https://store.steampowered.com/app/476600/Call_of_Duty_WWII/
-{ "name": "s2_mp64_ship.exe", "type": "Game" }
-
-# Defiance https://store.steampowered.com/app/224600/Defiance/
-# BlackShot: Mercenary Warfare FPS https://store.steampowered.com/app/433350/BlackShot_Mercenary_Warfare_FPS/
-{ "name": "Patcher.exe", "type": "Game" }
 
 # Vindictus https://store.steampowered.com/app/212160/Vindictus/
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
@@ -952,6 +1016,10 @@
 # ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
 # PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
+
+# Defiance https://store.steampowered.com/app/224600/Defiance/
+# BlackShot: Mercenary Warfare FPS https://store.steampowered.com/app/433350/BlackShot_Mercenary_Warfare_FPS/
+{ "name": "Patcher.exe", "type": "Game" }
 
 # Path of Exile https://store.steampowered.com/app/238960/Path_of_Exile/
 # Path of Exile 2 https://store.steampowered.com/app/2694490/Path_of_Exile_2/
@@ -1093,6 +1161,10 @@
 # Rise of the Ronin https://store.steampowered.com/app/1340990/Rise_of_the_Ronin/
 { "name": "Ronin.exe", "type": "Game" }
 
+# Call of Duty: WWII - Multiplayer https://store.steampowered.com/app/476620/
+# Call of Duty: WWII https://store.steampowered.com/app/476600/Call_of_Duty_WWII/
+{ "name": "s2_mp64_ship.exe", "type": "Game" }
+
 # Sacred 2 Gold https://store.steampowered.com/app/225640/Sacred_2_Gold/
 # Sacred 2 Remaster https://store.steampowered.com/app/3906660/
 { "name": "sacred2.exe", "type": "Game" }
@@ -1108,6 +1180,10 @@
 # Stellar Blade https://store.steampowered.com/app/3489700/Stellar_Blade/
 # Stellar Blade Demo https://store.steampowered.com/app/3564860/
 { "name": "SB-Win64-Shipping.exe", "type": "Game" }
+
+# Barro GT https://store.steampowered.com/app/1990740/Barro_GT/
+# Barro https://store.steampowered.com/app/618140/Barro/
+{ "name": "SC Jogos Launcher.exe", "type": "Game" }
 
 # Scribblenauts Unmasked: A DC Comics Adventure https://store.steampowered.com/app/249870/Scribblenauts_Unmasked_A_DC_Comics_Adventure/
 # Scribblenauts Unlimited https://store.steampowered.com/app/218680/Scribblenauts_Unlimited/
@@ -1208,84 +1284,8 @@
 # Elemental: Reforged https://store.steampowered.com/app/3796960/Elemental_Reforged/
 { "name": "StardockLauncher.exe", "type": "Game" }
 
-# Crime Scene Cleaner https://store.steampowered.com/app/1040200/Crime_Scene_Cleaner/
-# Crime Scene Cleaner: Prologue https://store.steampowered.com/app/2540100/Crime_Scene_Cleaner_Prologue/
-{ "name": "CrimeCleaner.exe", "type": "Game"}
-
-# Conan Exiles https://store.steampowered.com/app/440900/Conan_Exiles/
-# Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
-{ "name": "FuncomLauncher.exe", "type": "Game" }
-
-# Coconut (10 Jul, 2024) https://store.steampowered.com/app/3065860/Coconut/
-# Coconut (1 Aug, 2024) https://store.steampowered.com/app/3063130/Coconut/
-{ "name": "Coconut.exe", "type": "Game" }
-
-# Cricket Captain 2024 https://store.steampowered.com/app/2900670/Cricket_Captain_2024/
-# Cricket Captain 2025 https://store.steampowered.com/app/3637540/Cricket_Captain_2025/
-{ "name": "CricketCaptain.exe", "type": "Game" }
-
-# Car Dealer Simulator Demo https://store.steampowered.com/app/3413480/Car_Dealer_Simulator/
-# Car Dealer Simulator: Prologue - Early Days https://store.steampowered.com/app/3115010/Car_Dealer_Simulator_Prologue__Early_Days/
-{ "name": "CarDealerSim-Win64-Shipping.exe", "type": "Game" }
-
-# Blades of Fire https://store.steampowered.com/app/2091020/Blades_of_Fire/
-# Blades of Fire Demo https://store.steampowered.com/app/4335780/Blades_of_Fire/
-{ "name": "BladesOfFire.exe", "type": "Game" }
-
-# Car Dealer Simulator Demo https://store.steampowered.com/app/3413480/Car_Dealer_Simulator/
-# Car Dealer Simulator: Prologue - Early Days https://store.steampowered.com/app/3115010/Car_Dealer_Simulator_Prologue__Early_Days/
-{ "name": "CarDealerSim.exe", "type": "Game" }
-
-# Borderlands 2 https://store.steampowered.com/app/49520/Borderlands_2/
-# Borderlands 2 RU https://store.steampowered.com/app/217490/
-{ "name": "Borderlands2.exe", "type": "Game" }
-
-# Bopl Battle https://store.steampowered.com/app/1686940/Bopl_Battle/
-# Bopl Battle Demo https://store.steampowered.com/app/2494960/Bopl_Battle/
-{ "name": "BoplBattle.exe", "type": "Game" }
-
-# BlackShot Revolution https://steamdb.info/app/895970/
-# BlackShot: Mercenary Warfare FPS https://store.steampowered.com/app/433350/BlackShot_Mercenary_Warfare_FPS/
-{ "name": "blackshot_BE.exe", "type": "Game" }
-
-# Call of Duty: Black Ops - Multiplayer https://store.steampowered.com/app/42710/
-# Call of Duty: Black Ops https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
-{ "name": "BlackOpsMP.exe", "type": "Game" }
-
-# Escape the Backrooms https://store.steampowered.com/app/1943950/Escape_the_Backrooms/
-# BACKROOMS: APPREHENSION https://store.steampowered.com/app/2234150/BACKROOMS_APPREHENSION/
-{ "name": "Backrooms-Win64-Shipping.exe", "type": "Game" }
-
-# BACKROOMS: APPREHENSION https://store.steampowered.com/app/2234150/BACKROOMS_APPREHENSION/
-# Escape the Backrooms https://store.steampowered.com/app/1943950/Escape_the_Backrooms/
-{ "name": "Backrooms.exe", "type": "Game" }
-
-# Backpack Battles Demo https://store.steampowered.com/app/2444170/Backpack_Battles/
-# Backpack Battles https://store.steampowered.com/app/2427700/Backpack_Battles/
-{ "name": "BackpackBattles.exe", "type": "Game" }
-
-# Atlantica Global https://store.steampowered.com/app/1232420/Atlantica_Global/
-# Atlantica Europe https://store.steampowered.com/app/1563940/Atlantica_Europe/
-{ "name": "AtlanticaRun.exe", "type": "Game" }
-
 # City Car Driving https://store.steampowered.com/app/493490/City_Car_Driving/
 { "name": "Starter.exe", "type": "Game" }
-
-# Arma Reforger Experimental https://store.steampowered.com/app/1890860/
-# Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
-{ "name": "ArmaReforgerSteam.exe", "type": "Game" }
-
-# Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
-# Arma Reforger Experimental https://store.steampowered.com/app/1890860/
-{ "name": "ArmaReforger_BE.exe", "type": "Game" }
-
-# Anno 1404 https://store.steampowered.com/app/33250/Dawn_of_Discovery/
-# Anno 1404: Venice https://store.steampowered.com/app/33350/Dawn_of_Discovery_Venice/
-{ "name": "Anno4.exe", "type": "Game" }
-
-# 3DMark Demo https://store.steampowered.com/app/231350/3DMark/
-# 3DMark https://store.steampowered.com/app/223850/3DMark/
-{ "name": "3DMark.exe", "type": "Game" }
 
 # Power & Revolution 2023 Edition https://store.steampowered.com/app/2392520/Power__Revolution_2023_Edition/
 # Power & Revolution 2022 Edition https://store.steampowered.com/app/1823600/Power__Revolution_2022_Edition/
@@ -1306,29 +1306,13 @@
 # Yakuza Kiwami 2 https://store.steampowered.com/app/3717340/
 { "name": "startup.exe", "type": "Game" }
 
-# Command & Conquer: Generals https://store.steampowered.com/app/2229870/Command__Conquer_Generals/
-# Command & Conquer Generals Zero Hour https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/
-{ "name": "WorldBuilder.exe", "type": "Game" }
-
-# Championship Manager 2008 https://store.steampowered.com/app/8060/
-# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
-{ "name": "testapp.exe", "type": "Game" }
-
 # State of Decay https://store.steampowered.com/app/241540/State_of_Decay/
 # State of Decay: YOSE https://store.steampowered.com/app/329430/State_of_Decay_YOSE/
 { "name": "StateOfDecay.exe", "type": "Game" }
 
-# Call of Duty: Black Ops II - Zombies https://store.steampowered.com/app/212910/
-# Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
-{ "name": "t6zm.exe", "type": "Game" }
-
 # Haydee 2 https://store.steampowered.com/app/1444650/Haydee_2/
 # Haydee 3 https://store.steampowered.com/app/3508770/Haydee_3/
 { "name": "SteamGame.exe", "type": "Game" }
-
-# Call of Duty: Black Ops II - Multiplayer https://store.steampowered.com/app/202990/
-# Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
-{ "name": "t6mp.exe", "type": "Game" }
 
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
@@ -1361,6 +1345,14 @@
 # Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
 { "name": "SyxWithout.exe", "type": "Game" }
 
+# Call of Duty: Black Ops II - Multiplayer https://store.steampowered.com/app/202990/
+# Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
+{ "name": "t6mp.exe", "type": "Game" }
+
+# Call of Duty: Black Ops II - Zombies https://store.steampowered.com/app/212910/
+# Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
+{ "name": "t6zm.exe", "type": "Game" }
+
 # TaleSpire https://store.steampowered.com/app/720620/TaleSpire/
 # TaleSpire - Guest Edition https://store.steampowered.com/app/2881860/TaleSpire__Guest_Edition/
 { "name": "TaleSpire.exe", "type": "Game" }
@@ -1372,6 +1364,10 @@
 # Tour de France 2025 https://store.steampowered.com/app/2511320/Tour_de_France_2025/
 # Tour de France 2024 https://store.steampowered.com/app/2494340/Tour_de_France_2024/
 { "name": "TDF-Win64-Shipping.exe", "type": "Game" }
+
+# Championship Manager 2008 https://store.steampowered.com/app/8060/
+# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
+{ "name": "testapp.exe", "type": "Game" }
 
 # The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
@@ -1584,6 +1580,10 @@
 # Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 { "name": "Workshop.exe", "type": "Game" }
+
+# Command & Conquer: Generals https://store.steampowered.com/app/2229870/Command__Conquer_Generals/
+# Command & Conquer Generals Zero Hour https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/
+{ "name": "WorldBuilder.exe", "type": "Game" }
 
 # X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
