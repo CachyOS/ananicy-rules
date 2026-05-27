@@ -68,7 +68,6 @@
 
 # Call of Duty: Black Ops https://store.steampowered.com/app/42700/Call_of_Duty_Black_Ops/
 { "name": "BlackOps.exe", "type": "Game" }
-{ "name": "BlackOpsMP.exe", "type": "Game" }
 
 # Call of Duty: Black Ops 4 https://us.shop.battle.net/en-us/family/call-of-duty-black-ops-4
 { "name": "BlackOps4.exe", "type": "Game" }
@@ -77,9 +76,7 @@
 { "name": "BlackOpsColdWar.exe", "type": "Game" }
 
 # Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
-{ "name": "t6mp.exe", "type": "Game" }
 { "name": "t6sp.exe", "type": "Game" }
-{ "name": "t6zm.exe", "type": "Game" }
 
 # Call of Duty: Black Ops III https://store.steampowered.com/app/311210/Call_of_Duty_Black_Ops_III/
 { "name": "BlackOps3.exe", "type": "Game" }
@@ -95,13 +92,9 @@
 
 # Call of Duty: Modern Warfare 2 (2009) https://store.steampowered.com/app/10180/Call_of_Duty_Modern_Warfare_2_2009/
 { "name": "iw4sp.exe", "type": "Game" }
-{ "name": "iw4mp.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare 2 Campaign Remastered https://us.shop.battle.net/en-us/product/call-of-duty-modern-warfare-2-campaign-remastered
 { "name": "MW2CR.exe", "type": "Game" }
-
-# Call of Duty: Modern Warfare 3 (2011) https://store.steampowered.com/app/115300/
-{ "name": "iw5sp.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare II https://store.steampowered.com/app/3595230/Call_of_Duty_Modern_Warfare_II/
 { "name": "cod22-cod.exe", "type": "Game" }
@@ -125,7 +118,6 @@
 
 # Call of Duty: WWII https://store.steampowered.com/app/476600/Call_of_Duty_WWII/
 { "name": "s2_sp64_ship.exe", "type": "Game" }
-{ "name": "s2_mp64_ship.exe", "type": "Game" }
 
 # Call of Juarez https://store.steampowered.com/app/3020/Call_of_Juarez/
 { "name": "CoJ.exe", "type": "Game" }
@@ -138,10 +130,6 @@
 
 # Call of Juarez: Gunslinger https://store.steampowered.com/app/204450/Call_of_Juarez_Gunslinger/
 { "name": "CoJGunslinger.exe", "type": "Game" }
-
-# Call of the Elder Gods https://store.steampowered.com/app/2174380/Call_of_the_Elder_Gods/
-{ "name": "COTEG.exe", "type": "Game" }
-{ "name": "COTEG-Win64-Shipping.exe", "type": "Game" }
 
 # Call of the Sea https://store.steampowered.com/app/1042490/Call_of_the_Sea/
 { "name": "COTS.exe", "type": "Game"}
@@ -659,10 +647,6 @@
 # Clock Tower: Rewind https://store.steampowered.com/app/2794770/Clock_Tower_Rewind/
 { "name": "ClockTower.exe", "type": "Game" }
 
-# Clockwork Ambrosia https://store.steampowered.com/app/896010/Clockwork_Ambrosia/
-{ "name": "Ambrosia.exe", "type": "Game" }
-{ "name": "AmbrosiaD.exe", "type": "Game" }
-
 # Clockwork Tales: Of Glass and Ink https://store.steampowered.com/app/284830/Clockwork_Tales_Of_Glass_and_Ink/
 { "name": "ClockworkTales_OfGlassAndInk.exe", "type": "Game" }
 
@@ -844,9 +828,6 @@
 { "name": "compound.exe", "type": "Game" }
 { "name": "COMPOUND.exe", "type": "Game" }
 
-# Conan Exiles https://store.steampowered.com/app/440900/Conan_Exiles/
-{ "name": "FuncomLauncher.exe", "type": "Game" }
-
 # Conan Exiles Dedicated Server https://store.steampowered.com/app/443030/
 { "name": "ConanSandboxServer.exe", "type": "Game" }
 { "name": "ConanSandboxServer-Win64-Shipping.exe", "type": "Game" }
@@ -995,9 +976,6 @@
 { "name": "csgo_legacy_app.exe", "type": "Game" }
 { "name": "csgocfg.exe", "type": "Game" }
 
-# Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
-{ "name": "testapp.exe", "type": "Game" }
-
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
 { "name": "cstrike.exe", "type": "Game" }
 { "name": "cstrike_win64.exe", "type": "Game" }
@@ -1030,23 +1008,8 @@
 { "name": "Radiant_modtools.exe", "type": "Game" }
 { "name": "cod2map64.exe", "type": "Game" }
 
-# Call of Duty: Black Ops II - Multiplayer https://store.steampowered.com/app/202990/
-{ "name": "t6mp.exe", "type": "Game" }
-
-# Call of Duty: Black Ops II - Zombies https://store.steampowered.com/app/212910/
-{ "name": "t6zm.exe", "type": "Game" }
-
-# Call of Duty: Black Ops - Multiplayer https://store.steampowered.com/app/42710/
-{ "name": "BlackOpsMP.exe", "type": "Game" }
-
 # Call of Duty: Ghosts - Multiplayer https://store.steampowered.com/app/209170/
 { "name": "iw6mp64_ship.exe", "type": "Game" }
-
-# Call of Duty: Modern Warfare 2 (2009) - Multiplayer https://store.steampowered.com/app/10190/Call_of_Duty_Modern_Warfare_2_2009/
-{ "name": "iw4mp.exe", "type": "Game" }
-
-# Call of Duty: Modern Warfare 3 (2011) https://store.steampowered.com/app/42680/
-{ "name": "iw5sp.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare 3 (2011) - Multiplayer https://store.steampowered.com/app/42690/
 { "name": "iw5mp.exe", "type": "Game" }
@@ -1056,9 +1019,6 @@
 
 # Call of Duty: Modern Warfare Remastered - Multiplayer https://store.steampowered.com/app/393100/
 { "name": "h1_mp64_ship.exe", "type": "Game" }
-
-# Call of Duty: WWII - Multiplayer https://store.steampowered.com/app/476620/
-{ "name": "s2_mp64_ship.exe", "type": "Game" }
 
 # Call of the Elder Gods https://store.steampowered.com/app/2174380/Call_of_the_Elder_Gods/
 { "name": "COTEG.exe", "type": "Game" }
@@ -1073,18 +1033,6 @@
 
 # Car Dealership Simulator 2 https://store.steampowered.com/app/3616550/Car_Dealership_Simulator_2/
 { "name": "Car Dealership Simulator 2.exe", "type": "Game" }
-
-# Car Dealer Simulator Demo https://store.steampowered.com/app/3413480/Car_Dealer_Simulator/
-{ "name": "CarDealerSim.exe", "type": "Game" }
-{ "name": "CarDealerSim-Win64-Shipping.exe", "type": "Game" }
-
-# Car Dealer Simulator: Prologue - Early Days https://store.steampowered.com/app/3115010/Car_Dealer_Simulator_Prologue__Early_Days/
-{ "name": "CarDealerSim.exe", "type": "Game" }
-{ "name": "CarDealerSim-Win64-Shipping.exe", "type": "Game" }
-
-# Caribbean Legend: Age of Pirates https://store.steampowered.com/app/3549020/Caribbean_Legend_Age_of_Pirates/
-{ "name": "StormWorkshopTool.exe", "type": "Game" }
-{ "name": "Launcher.exe", "type": "Game" }
 
 # Car Mechanic Simulator 2026 - Single Player Demo https://store.steampowered.com/app/4307740/Car_Mechanic_Simulator_2026/
 { "name": "Car Mechanic Simulator 2026 Demo.exe", "type": "Game" }
@@ -1130,7 +1078,6 @@
 
 # Championship Manager 2008 https://store.steampowered.com/app/8060/
 { "name": "CM2008.exe", "type": "Game" }
-{ "name": "testapp.exe", "type": "Game" }
 
 # CHAOS;HEAD NOAH https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/
 { "name": "Game_Steam.exe", "type": "Game" }
@@ -1161,12 +1108,6 @@
 # Cloud Meadow https://store.steampowered.com/app/1223750/
 { "name": "Cloud Meadow.exe", "type": "Game" }
 
-# Coconut (10 Jul, 2024) https://store.steampowered.com/app/3065860/Coconut/
-{ "name": "Coconut.exe", "type": "Game" }
-
-# Coconut (1 Aug, 2024) https://store.steampowered.com/app/3063130/Coconut/
-{ "name": "Coconut.exe", "type": "Game" }
-
 # Coconut Simulator 2 https://store.steampowered.com/app/3880190/Coconut_Simulator_2/
 { "name": "CoconutSimulator2.exe", "type": "Game" }
 { "name": "CoconutSimulator2-Win64-Shipping.exe", "type": "Game" }
@@ -1180,19 +1121,10 @@
 # Colony 37 https://store.steampowered.com/app/3869630/Colony_37/
 { "name": "Colony 37.exe", "type": "Game" }
 
-# Command & Conquer: Generals https://store.steampowered.com/app/2229870/Command__Conquer_Generals/
-{ "name": "Generals.exe", "type": "Game" }
-{ "name": "WorldBuilder.exe", "type": "Game" }
-
-# Command & Conquer Generals Zero Hour https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/
-{ "name": "Generals.exe", "type": "Game" }
-{ "name": "WorldBuilder.exe", "type": "Game" }
-
 # Command & Conquer: Red Alert 2 and Yuri’s Revenge https://store.steampowered.com/app/2229850/Command__Conquer_Red_Alert_2_and_Yuris_Revenge/
 { "name": "RA2MD.exe", "type": "Game" }
 { "name": "Ra2.exe", "type": "Game" }
 { "name": "FinalAlert2YR.exe", "type": "Game" }
-{ "name": "game.exe", "type": "Game" }
 { "name": "gamemd.exe", "type": "Game" }
 
 # Command & Conquer: Red Alert, Counterstrike and The Aftermath https://store.steampowered.com/app/2229840/Command__Conquer_Red_Alert_Counterstrike_and_The_Aftermath/
@@ -1204,14 +1136,12 @@
 # Command & Conquer Tiberian Sun and Firestorm https://store.steampowered.com/app/2229880/
 { "name": "SUN.EXE", "type": "Game" }
 { "name": "FinalSun.exe", "type": "Game" }
-{ "name": "Game.exe", "type": "Game" }
 
 # Company of Heroes: Eastern Front https://store.steampowered.com/app/317600/Company_of_Heroes_Eastern_Front/
 { "name": "CoHEF.exe", "type": "Game" }
 { "name": "EFDaemon.exe", "type": "Game" }
 
 # Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
-{ "name": "FuncomLauncher.exe", "type": "Game" }
 { "name": "ConanSandbox.exe", "type": "Game" }
 { "name": "ConanSandbox_BE.exe", "type": "Game" }
 
@@ -1248,21 +1178,11 @@
 # Creepy Tale: Snow Child https://store.steampowered.com/app/3529690/Creepy_Tale_Snow_Child/
 { "name": "CreepyTale5.exe", "type": "Game" }
 
-# Cricket Captain 2025 https://store.steampowered.com/app/3637540/Cricket_Captain_2025/
-{ "name": "CricketCaptain.exe", "type": "Game" }
-
-# Crime Scene Cleaner: Prologue https://store.steampowered.com/app/2540100/Crime_Scene_Cleaner_Prologue/
-{ "name": "CrimeCleaner.exe", "type": "Game" }
-
 # Crosshair V2 https://store.steampowered.com/app/2250040/Crosshair_V2/
 { "name": "Crosshair.exe", "type": "BG_CPUIO" }
 
 # Crown and Adventure https://store.steampowered.com/app/3098140/Crown_and_Adventure/
 { "name": "CrownAndAdventure.exe", "type": "Game" }
-
-# Crown Champion: Legends of the Arena https://store.steampowered.com/app/527710/Crown_Champion_Legends_of_the_Arena/
-{ "name": "Game.exe", "type": "Game" }
-{ "name": "nw.exe", "type": "Game" }
 
 # Crusaders Quest : Hero Town https://store.steampowered.com/app/4126220/Crusaders_Quest__Hero_Town/
 { "name": "CQ Hero Town.exe", "type": "Game" }
@@ -1378,14 +1298,8 @@
 # Cricket 26 - The Official Game of the Ashes https://store.steampowered.com/app/3468650/Cricket_26__The_Official_Game_of_the_Ashes/
 { "name": "cricket26.exe", "type": "Game" }
 
-# Cricket Captain 2024 https://store.steampowered.com/app/2900670/Cricket_Captain_2024/
-{ "name": "CricketCaptain.exe", "type": "Game" }
-
 # Crime Boss: Rockay City https://store.steampowered.com/app/2933080/Crime_Boss_Rockay_City/
 { "name": "CrimeBoss.exe", "type": "Game" }
-
-# Crime Scene Cleaner https://store.steampowered.com/app/1040200/Crime_Scene_Cleaner/
-{ "name": "CrimeCleaner.exe", "type": "Game"}
 
 # Crime Simulator https://store.steampowered.com/app/2737070/Crime_Simulator/
 { "name": "Crime Simulator.exe", "type": "Game"}

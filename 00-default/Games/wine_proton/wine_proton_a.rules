@@ -194,9 +194,6 @@
 # Age of Empires IV: Anniversary Edition https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition/
 { "name": "RelicCardinal.exe", "type": "Game" }
 
-# Age of History 3 https://store.steampowered.com/app/2772750/Age_of_History_3/
-{ "name": "javaws.exe", "type": "Game" }
-
 # Age of History II https://store.steampowered.com/app/603850/Age_of_History_II/
 { "name": "AoC2.exe", "type": "Game" }
 { "name": "AoC2_Old.exe", "type": "Game" }
@@ -622,9 +619,6 @@
 # Adventure  Jam https://store.steampowered.com/app/3772820/Adventure__Jam/
 { "name": "aj.exe", "type": "Game" }
 
-# Adventurer Liena: The Targeted Girl and Her Boyfriend https://store.steampowered.com/app/4093190/
-{ "name": "Game.exe", "type": "Game" }
-
 # Aeons Echo https://store.steampowered.com/app/2832330/
 { "name": "AEONS_ECHO.exe", "type": "Game" }
 
@@ -639,11 +633,6 @@
 
 # A Gentlemen's Dispute https://store.steampowered.com/app/2820700/A_Gentlemens_Dispute/
 { "name": "A Gentlemen's Dispute.exe", "type": "Game" }
-
-# Age of History II Definitive Edition https://store.steampowered.com/app/3381680/Age_of_History_2_Definitive_Edition/
-{ "name": "javaw.exe", "type": "Game" }
-{ "name": "javaws.exe", "type": "Game" }
-{ "name": "java.exe", "type": "Game" }
 
 # AION Free-to-Play https://store.steampowered.com/app/261430/AION_MMO/
 { "name": "NCLauncher.exe", "type": "Game" }
@@ -689,12 +678,8 @@
 # An Eggstremely Hard Game: Demo https://store.steampowered.com/app/4154710/An_Eggstremely_Hard_Game_Demo/
 { "name": "An Eggstremely Hard Game Demo.exe", "type": "Game" }
 
-# Anno 1404 https://store.steampowered.com/app/33250/Dawn_of_Discovery/
-{ "name": "Anno4.exe", "type": "Game" }
-
 # Anno 1404: Venice https://store.steampowered.com/app/33350/Dawn_of_Discovery_Venice/
 { "name": "Addon.exe", "type": "Game" }
-{ "name": "Anno4.exe", "type": "Game" }
 
 # Anomalous Coffee Machine https://store.steampowered.com/app/3173560/
 { "name": "ACM_windows.exe", "type": "Game" }
@@ -722,10 +707,8 @@
 { "name": "Ark ReCode.exe", "type": "Game" }
 
 # Arma Reforger Experimental https://store.steampowered.com/app/1890860/
-{ "name": "ArmaReforger_BE.exe", "type": "Game" }
 { "name": "ArmaReforgerSteamDiag.exe", "type": "Game" }
 { "name": "ArmaReforgerSteam_Experimental.exe", "type": "Game" }
-{ "name": "ArmaReforgerSteam.exe", "type": "Game" }
 
 # Arma Reforger Tools https://store.steampowered.com/app/1874910/
 { "name": "ArmaReforgerWorkbenchSteamDiag.exe", "type": "Game" }
@@ -750,9 +733,6 @@
 
 # Atelier Resleriana https://store.steampowered.com/app/2586520/
 { "name": "AtelierResleriana.exe", "type": "Game" }
-
-# Atlantica Europe https://store.steampowered.com/app/1563940/Atlantica_Europe/
-{ "name": "AtlanticaRun.exe", "type": "Game" }
 
 # Auto Chess https://store.steampowered.com/app/1530300/Auto_Chess/
 { "name": "ACPhoenix.exe", "type": "Game" }
@@ -965,10 +945,6 @@
 
 # ARMA: Cold War Assault https://store.steampowered.com/app/65790/ARMA_Cold_War_Assault/
 { "name": "ColdWarAssault.exe", "type": "Game" }
-
-# Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
-{ "name": "ArmaReforger_BE.exe", "type": "Game" }
-{ "name": "ArmaReforgerSteam.exe", "type": "Game" }
 
 # ARMED SEVEN https://store.steampowered.com/app/349690/ARMED_SEVEN/
 { "name": "armed7.exe", "type": "Game" }
@@ -1234,7 +1210,6 @@
 { "name": "Atelier_Yumia.exe", "type": "Game" }
 
 # Atlantica Global https://store.steampowered.com/app/1232420/Atlantica_Global/
-{ "name": "AtlanticaRun.exe", "type": "Game" }
 { "name": "Atlantica.exe", "type": "Game" }
 
 # Atlantic Fleet https://store.steampowered.com/app/420440/Atlantic_Fleet/
