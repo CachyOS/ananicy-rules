@@ -46,6 +46,12 @@
 # 1954 Alcatraz https://store.steampowered.com/app/255280/1954_Alcatraz/
 { "name": "Alcatraz.exe", "type": "Game" }
 
+# 2024: Mosaic Retrospective https://store.steampowered.com/app/3380760/2024_Mosaic_Retrospective/
+{ "name": "Retrospective 2024.exe", "type": "Game" }
+
+# 2025: Mosaic Retrospective https://store.steampowered.com/app/4266120/2025_Mosaic_Retrospective/
+{ "name": "Retrospective 2025.exe", "type": "Game" }
+
 # 20 Minutes Till Dawn https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/
 { "name": "MinutesTillDawn.exe", "type": "Game" }
 
@@ -59,11 +65,11 @@
 { "name": "30XX.exe", "type": "Game" }
 { "name": "Editor30XX.exe", "type": "Game" }
 
+# 33 Immortals Demo https://store.steampowered.com/app/4191960/33_Immortals_Demo/
+{ "name": "33Immortals.exe", "type": "Game" }
+
 # 3D Aim Trainer https://store.steampowered.com/app/1600530/3D_Aim_Trainer/
 { "name": "3dat.exe", "type": "Game" }
-
-# 3DMark https://store.steampowered.com/app/223850/3DMark/
-{ "name": "3DMark.exe", "type": "Game" }
 
 # 3on3 FreeStyle: Rebound https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/
 { "name": "xldr_3on3FreeStyle_ST_loader_x64.exe", "type": "Game" }
@@ -104,6 +110,10 @@
 
 # '83 https://store.steampowered.com/app/1059220/83/
 { "name": "XV83.exe", "type": "Game" }
+
+# 8AM https://store.steampowered.com/app/2835590/8AM/
+{ "name": "am.exe", "type": "Game" }
+{ "name": "am-Win64-Shipping.exe", "type": "Game" }
 
 # 8Doors: Arum's Afterlife Adventure https://store.steampowered.com/app/668550/8Doors_Arums_Afterlife_Adventure/
 { "name": "8Doors.exe", "type": "Game" }
