@@ -20,12 +20,22 @@
 # Race of Life - Act 1 https://store.steampowered.com/app/2454570/
 { "name": "RaceOfLife.exe", "type": "Game" }
 
+# Race Max Pro https://store.steampowered.com/app/3042650/Race_Max_Pro/
+{ "name": "RaceMaxPro.exe", "type": "Game" }
+
 # Racer 8 https://store.steampowered.com/app/292380/Racer_8/
 { "name": "Racer8.exe", "type": "Game" }
+
+# RACE On - Demo: Dedicated Server https://store.steampowered.com/app/8770/
+{ "name": "RaceOn_Demo_Dedicated_Steam.exe", "type": "BG_CPUIO" }
+{ "name": "RaceOn_Demo_Steam.exe", "type": "Game" }
 
 # RaceRoom Racing Experience https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
 { "name": "RRREWebBrowser.exe", "type": "Game" }
+
+# RaceRoom Dedicated Server https://store.steampowered.com/app/354060/
+{ "name": "RRRE_dedicated.exe", "type": "BG_CPUIO }
 
 # Race The Sun https://store.steampowered.com/app/253030/Race_The_Sun/
 { "name": "RaceTheSun.exe", "type": "Game" }
@@ -61,11 +71,20 @@
 { "name": "Rag2.exe", "type": "Game" }
 { "name": "RO2Client.exe", "type": "Game" }
 
+# Ragnarok X: Next Generation https://store.steampowered.com/app/4279820/
+# Ragnarok X: Next Generation https://store.steampowered.com/app/4007140/
+# Ragnarok X: Next Generation EU https://store.steampowered.com/app/4073870/
+{ "name": "rox.exe", "type": "Game" }
+{ "name": "Ragnarok X.exe", "type": "Game" }
+
 # RAIDOU Remastered: The Mystery of the Soulless Army https://store.steampowered.com/app/2288350/RAIDOU_Remastered_The_Mystery_of_the_Soulless_Army/
 { "name": "Raidou TMOTSA.exe", "type": "Game" }
 
 # RAID: Shadow Legends https://store.steampowered.com/app/2333480/RAID_Shadow_Legends/
 { "name": "Raid.exe", "type": "Game" }
+
+# Raiders of Blackveil https://store.steampowered.com/app/3352240/Raiders_of_Blackveil/
+{ "name": "RoB.exe", "type": "Game" }
 
 # Railbound https://store.steampowered.com/app/1967510/Railbound/
 { "name": "Railbound.exe", "type": "Game" }
@@ -123,8 +142,15 @@
 { "name": "Ranch_Simulator.exe", "type": "Game" }
 { "name": "Ranch_Simulator-Win64-Shipping.exe", "type": "Game" }
 
+# Ranger’s Path: National Park Simulator https://store.steampowered.com/app/2502780/Rangers_Path_National_Park_Simulator/
+{ "name": "Bear.exe", "type": "Game" }
+{ "name": "Bear-Win64-Shipping.exe", "type": "Game" }
+
 # Randal's Monday https://store.steampowered.com/app/314810/Randals_Monday/
 { "name": "Randals.exe", "type": "Game" }
+
+# Rana Card https://store.steampowered.com/app/3177890/Rana_Card/
+{ "name": "RanaCard.exe", "type": "Game" }
 
 # Ratchet & Clank: Rift Apart https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
 { "name": "RiftApart.exe", "type": "Game" }
@@ -156,6 +182,10 @@
 
 # R.A.W. Realms of Ancient War https://store.steampowered.com/app/209730/RAW_Realms_of_Ancient_War/
 { "name": "Realms Of Ancient War.exe", "type": "Game" }
+
+# R.I.P. - Reincarnation Insurance Program https://store.steampowered.com/app/3985950/RIP__Reincarnation_Insurance_Program/
+{ "name": "AKA_RIP.exe", "type": "Game" }
+{ "name": "AKA_RIP-Win64-Shipping.exe", "type": "Game" }
 
 # Rayman: 30th Anniversary Edition https://store.steampowered.com/app/4094670/Rayman_30th_Anniversary_Edition/
 { "name": "rayman30th.exe", "type": "Game" }
@@ -191,6 +221,12 @@
 # Real Horror Stories Ultimate Edition https://store.steampowered.com/app/281370/Real_Horror_Stories_Ultimate_Edition/
 { "name": "Real Horror Stories.exe", "type": "Game" }
 
+# RealRTCW https://store.steampowered.com/app/1379630/RealRTCW/
+{ "name": "RTCWCoop.x64.exe", "type": "Game" }
+{ "name": "ioWolfMP.x86.exe", "type": "Game" }
+{ "name": "RealRTCW.x64.exe", "type": "Game" }
+{ "name": "RTCWCoopDED.x64.exe", "type": "Game" }
+
 # Really Big Sky https://store.steampowered.com/app/201570/Really_Big_Sky/
 { "name": "Really Big Sky.exe", "type": "Game" }
 
@@ -207,6 +243,7 @@
 { "name": "realMyst.exe", "type": "Game" }
 
 # REANIMAL https://store.steampowered.com/app/2129530/REANIMAL/
+# REANIMAL Demo https://store.steampowered.com/app/4019420/
 { "name": "REANIMAL.exe", "type": "Game" }
 
 # Rebel Galaxy https://store.steampowered.com/app/290300/Rebel_Galaxy/
@@ -287,8 +324,14 @@
 { "name": "survivors.exe", "type": "Game" }
 { "name": "TwinStick-Win64-Shipping.exe", "type": "Game" }
 
+# Redmatch 2 https://store.steampowered.com/app/1280770/Redmatch_2/
+{ "name": "Redmatch 2.exe", "type": "Game" }
+
 # Refence https://store.steampowered.com/app/3427090/Refence/
 { "name": "Refence.exe", "type": "Game" }
+
+# Reentry - A Space Flight Simulator https://store.steampowered.com/app/882140/Reentry__A_Space_Flight_Simulator/
+{ "name": "ReEntry.exe", "type": "Game" }
 
 # Regiments https://store.steampowered.com/app/1109680/Regiments/
 { "name": "Regiments.exe", "type": "Game" }
@@ -317,6 +360,9 @@
 # REKA https://store.steampowered.com/app/1737870/REKA/
 { "name": "Reka.exe", "type": "Game" }
 
+# Relic Arena https://store.steampowered.com/app/2654490/Relic_Arena/
+{ "name": "Relic Arena.exe", "type": "Game" }
+
 # Relic Guardian - Tower Defense https://store.steampowered.com/app/2064610/Relic_Guardian__Tower_Defense/
 { "name": "RelicGuardian.exe", "type": "Game" }
 
@@ -326,8 +372,16 @@
 # Relooted https://store.steampowered.com/app/3255890/Relooted/
 { "name": "Relooted-Win64-Shipping.exe", "type": "Game" }
 
+# Requiem https://store.steampowered.com/app/289780/Requiem_Desiderium_Mortis/
+{ "name": "Requiem.exe", "type": "Game" }
+{ "name": "WPLauncher.exe", "type": "BG_CPUIO" }
+
 # Remember Me https://store.steampowered.com/app/228300/Remember_Me/
 { "name": "RememberMe.exe", "type": "Game" }
+
+# REMATCH https://store.steampowered.com/app/2138720/REMATCH/
+{ "name": "RuntimeClient.exe", "type": "Game" }
+{ "name": "RuntimeClient-Win64-Shipping.exe", "type": "Game" }
 
 # Remnant: From the Ashes https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/
 { "name": "Remnant-Win64-Shipping.exe", "type": "Game" }
@@ -351,6 +405,7 @@
 { "name": "Rento.exe", "type": "Game" }
 
 # REPLACED https://store.steampowered.com/app/1663850/REPLACED/
+# REPLACED Demo https://store.steampowered.com/app/4261860/REPLACED_Demo/
 { "name": "Replaced.exe", "type": "Game" }
 
 # Replicube https://store.steampowered.com/app/3401490/Replicube/
@@ -362,20 +417,32 @@
 # Resident Evil https://store.steampowered.com/app/304240/Resident_Evil/
 { "name": "bhd.exe", "type": "Game" }
 
+# Resident Evil (1996) https://store.steampowered.com/app/4249100/
+{ "name": "4249100_Launcher.exe", "type": "Game" }
+
 # Resident Evil 0 https://store.steampowered.com/app/339340/Resident_Evil_0/
 { "name": "re0hd.exe", "type": "Game" }
 
 # Resident Evil 2 https://store.steampowered.com/app/883710/Resident_Evil_2/
 { "name": "re2.exe", "type": "Game" }
 
+# Resident Evil 2 (1998) https://store.steampowered.com/app/4249110/
+{ "name": "4249110_Launcher.exe", "type": "Game" }
+
 # Resident Evil 3 https://store.steampowered.com/app/952060/Resident_Evil_3/
 { "name": "re3.exe", "type": "Game" }
+
+# Resident Evil 3 Nemesis (1999) https://store.steampowered.com/app/4249120/
+{ "name": "4249120_Launcher.exe", "type": "Game" }
 
 # Resident Evil 4 https://store.steampowered.com/app/2050650/Resident_Evil_4/
 { "name": "re4.exe", "type": "Game" }
 
 # Resident Evil 4 (2005) https://store.steampowered.com/app/254700/Resident_Evil_4_2005/
 { "name": "bio4.exe", "type": "Game" }
+
+# Resident Evil 4 Chainsaw Demo https://store.steampowered.com/app/2231770/
+{ "name": "re4demo.exe", "type": "Game" }
 
 # Resident Evil 5 https://store.steampowered.com/app/21690/Resident_Evil_5/
 { "name": "re5dx9.exe", "type": "Game" }
@@ -413,8 +480,25 @@
 # Resolutiion https://store.steampowered.com/app/975150/Resolutiion/
 { "name": "Resolutiion.exe", "type": "Game" }
 
+# Resonite https://store.steampowered.com/app/2519830/Resonite/
+{ "name": "Resonite.exe", "type": "Game" }
+
 # Restaurant Owner: A Restaurant Simulator https://store.steampowered.com/app/3177280/Restaurant_Owner_A_Restaurant_Simulator/
 { "name": "Restaurant Owner - A Restaurant Simulator.exe", "type": "Game" }
+
+# Rest Area Simulator https://store.steampowered.com/app/3732960/Rest_Area_Simulator/
+{ "name": "RestAreaSimulator.exe", "type": "Game" }
+{ "name": "RestAreaSimulator-Win64-Shipping.exe", "type": "Game" }
+
+# ReStory Playtest https://store.steampowered.com/app/4146670/ReStory_Chill_Electronics_Repairs/
+{ "name": "Restory.exe", "type": "Game" }
+
+# Restore Your Island https://store.steampowered.com/app/2698420/Restore_Your_Island/
+{ "name": "RestoreYourIsland.exe", "type": "Game" }
+{ "name": "RestoreYourIsland-Win64-Shipping.exe", "type": "Game" }
+
+# Restitched: Wardrobe Demo https://store.steampowered.com/app/4649960/Restitched_Wardrobe_Demo/
+{ "name": "Restitched Wardrobe Demo.exe", "type": "Game" }
 
 # Restaurats https://store.steampowered.com/app/2870920/Restaurats/
 { "name": "Restaurats.exe", "type": "Game" }
@@ -430,6 +514,7 @@
 { "name": "retrocityrampage.exe", "type": "Game" }
 
 # Retro Rewind - Video Store Simulator https://store.steampowered.com/app/3552140/Retro_Rewind__Video_Store_Simulator/
+# Retro Rewind - Video Store Simulator Demo https://store.steampowered.com/app/3858710/Retro_Rewind__Video_Store_Simulator_Demo/
 { "name": "RetroRewind.exe", "type": "Game" }
 { "name": "RetroRewind-Win64-Shipping.exe", "type": "Game" }
 
@@ -438,6 +523,9 @@
 
 # Returnal https://store.steampowered.com/app/1649240/Returnal/
 { "name": "Returnal.exe", "type": "Game" }
+
+# Returns Outlet Simulator https://store.steampowered.com/app/3589510/Returns_Outlet_Simulator/
+{ "name": "Returns Outlet Simulator.exe", "type": "Game" }
 
 # Return of the Obra Dinn https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/
 { "name": "ObraDinn.exe", "type": "Game" }
@@ -458,11 +546,18 @@
 # Revenge of the Titans https://store.steampowered.com/app/93200/Revenge_of_the_Titans/
 { "name": "RevengeOfTheTitans.exe", "type": "Game" }
 
+# Revenge of the Savage Planet https://store.steampowered.com/app/2787320/Revenge_of_the_Savage_Planet/
+{ "name": "Towers.exe", "type": "Game" }
+{ "name": "Towers-Win64-Shipping.exe", "type": "Game" }
+
 # Reverse: 1999 https://store.steampowered.com/app/3092660/Reverse_1999/
 { "name": "reverse1999.exe", "type": "Game" }
 
 # Reverse Collapse: Code Name Bakery https://store.steampowered.com/app/1127700/Reverse_Collapse_Code_Name_Bakery/
 { "name": "ReverseCollapse.exe", "type": "Game" }
+
+# Reventure https://store.steampowered.com/app/900270/Reventure/
+{ "name": "Reventure.exe", "type": "Game" }
 
 # Reversion - The Escape (1st Chapter) https://store.steampowered.com/app/270570/Reversion__The_Escape_1st_Chapter/
 { "name": "Reversion.exe", "type": "Game" }
@@ -675,6 +770,9 @@
 # RoadCraft https://store.steampowered.com/app/2104890/RoadCraft/
 { "name": "Roadcraft.exe", "type": "Game" }
 
+# RoadCraft Demo https://store.steampowered.com/app/3456580/RoadCraft/
+{ "name": "Roadcraft - Retail.exe", "type": "Game" }
+
 # Road Redemption https://store.steampowered.com/app/300380/Road_Redemption/
 { "name": "RoadRedemption.exe", "type": "Game" }
 
@@ -682,7 +780,14 @@
 { "name": "Roadside Research.exe", "type": "Game" }
 
 # Road to Vostok https://store.steampowered.com/app/1963610/Road_to_Vostok/
+# Road to Vostok Demo https://store.steampowered.com/app/2141300/Road_to_Vostok/
 { "name": "RTV.exe", "type": "Game" }
+
+# Road to Vostok Demo https://store.steampowered.com/app/2141300/Road_to_Vostok/
+{ "name": "RTV.exe", "type": "Game" }
+
+# Road to Empress I https://store.steampowered.com/app/3478050/Road_to_Empress_I/
+{ "name": "sstx.exe", "type": "Game" }
 
 # Roadwarden https://store.steampowered.com/app/1155970/Roadwarden/
 { "name": "Roadwarden.exe", "type": "Game" }
@@ -719,6 +824,9 @@
 # Rochard https://store.steampowered.com/app/107800/Rochard/
 { "name": "Rochard.exe", "type": "Game" }
 
+# Rocket Boots Mania https://store.steampowered.com/app/942200/Rocket_Boots_Mania/
+{ "name": "Rocket Boots Mania.exe", "type": "Game" }
+
 # Rocket League http://store.steampowered.com/app/252950/Rocket_League/
 { "name": "RocketLeague.exe", "type": "Game" }
 
@@ -736,17 +844,29 @@
 { "name": "RockSimulator2.exe", "type": "Game" }
 { "name": "RockSimulator2-Win64-Shipping.exe", "type": "Game" }
 
+# Rocky Idle https://store.steampowered.com/app/3852250/Rocky_Idle/
+{ "name": "Rocky Idle.exe", "type": "Game" }
+
 # Rocksmith https://store.steampowered.com/app/205190/Rocksmith/
 { "name": "Rocksmith.exe", "type": "Game" }
 
 # Rocksmith 2014 Edition REMASTERED LEARN & PLAY https://store.steampowered.com/app/221680/Rocksmith_2014_Edition_REMASTERED_LEARN__PLAY/
 { "name": "Rocksmith2014.exe", "type": "Game" }
 
+# Rod Roll https://store.steampowered.com/app/3064610/Rods__Rod_Roll/
+{ "name": "Rod Roll.exe", "type": "Game" }
+
 # Roguebook https://store.steampowered.com/app/1076200/Roguebook/
 { "name": "Roguebook.exe", "type": "Game" }
 
+# Rogue Agent https://store.steampowered.com/app/843660/Rogue_Agent/
+{ "name": "Rogue Agent.exe", "type": "Game" }
+
 # Rogue Company https://store.steampowered.com/app/872200/Rogue_Company/
 { "name": "RogueCompany.exe", "type": "Game" }
+
+# Rogue Command https://store.steampowered.com/app/1461910/Rogue_Command/
+{ "name": "Rogue Command.exe", "type": "Game" }
 
 # Rogue Fable IV https://store.steampowered.com/app/2720010/Rogue_Fable_IV/
 { "name": "RogueFableIV.exe", "type": "Game" }
@@ -805,6 +925,13 @@
 # Rolling Line https://store.steampowered.com/app/754150/Rolling_Line/
 { "name": "RollingLine.exe", "type": "Game" }
 
+# Romance Club https://store.steampowered.com/app/2433470/Romance_Club__Stories_I_Play/
+{ "name": "Romance Club.exe", "type": "Game" }
+
+# Romance of the Three Kingdoms Hadou [JP] https://store.steampowered.com/app/1790310/
+{ "name": "SAN_HADOU_Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "SAN_HADOU.exe", "type": "Game" }
+
 # ROMANCE OF THE THREE KINGDOMS 8 REMAKE https://store.steampowered.com/app/2288150/ROMANCE_OF_THE_THREE_KINGDOMS_8_REMAKE/
 { "name": "SAN8R.exe", "type": "Game" }
 { "name": "San8rWER.exe", "type": "Game" }
@@ -852,6 +979,9 @@
 # Roman Triumph: Survival City Builder https://store.steampowered.com/app/1864880/Roman_Triumph_Survival_City_Builder/
 { "name": "Roman Triumph Survival City Builder.exe", "type": "Game" }
 
+# Romans: Age of Caesar https://store.steampowered.com/app/872570/Romans_Age_of_Caesar/
+{ "name": "RomansAOC.exe", "type": "Game" }
+
 # ROMEO IS A DEAD MAN https://store.steampowered.com/app/3050900/ROMEO_IS_A_DEAD_MAN/
 { "name": "SevGame.exe", "type": "Game" }
 { "name": "SevGame-Win64-Shipping.exe", "type": "Game" }
@@ -863,6 +993,10 @@
 # Rooftops & Alleys: The Parkour Game https://store.steampowered.com/app/2703850/Rooftops__Alleys_The_Parkour_Game/
 { "name": "RooftopsandAlleys.exe", "type": "Game" }
 
+# Rosalie https://store.steampowered.com/app/4268470/Rosalie/
+{ "name": "Rosalie.exe", "type": "Game" }
+{ "name": "Rosalie-Win64-Shipping.exe", "type": "Game" }
+
 # Room Planner - Design Home 3D https://store.steampowered.com/app/1066110/Home_Planner__Design_Room_3D__Pro/
 { "name": "RoomPlanner64.exe", "type": "Game" }
 
@@ -871,6 +1005,13 @@
 
 # Roots of Pacha https://store.steampowered.com/app/1245560/Roots_of_Pacha/
 { "name": "Roots of Pacha.exe", "type": "Game" }
+
+# Royal Revolt II https://store.steampowered.com/app/1571190/Royal_Revolt_II/
+{ "name": "rr-tournament.exe", "type": "Game" }
+
+# Royal Quest Online https://store.steampowered.com/app/2962300/Royal_Quest_Online/
+{ "name": "basesl.exe", "type": "Game" }
+{ "name": "rqmain.exe", "type": "Game" }
 
 # Ropuka's Idle Island https://store.steampowered.com/app/3416070/Ropukas_Idle_Island/
 { "name": "RopukaIdleIsland.exe", "type": "Game" }
@@ -945,6 +1086,9 @@
 
 # Rune Classic https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
+
+# Rune Dice Demo https://store.steampowered.com/app/3989510/Rune_Dice_Demo/
+{ "name": "Rune Dice Demo.exe", "type": "Game" }
 
 # Rune Factory 3 Special https://store.steampowered.com/app/2243710/Rune_Factory_3_Special/
 { "name": "RF3S_Launcher.exe", "type": "BG_CPUIO" }
