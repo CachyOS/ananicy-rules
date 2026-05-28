@@ -47,10 +47,6 @@
 # Half Minute Hero: Super Mega Neo Climax Ultimate Boy https://store.steampowered.com/app/214830/Half_Minute_Hero_Super_Mega_Neo_Climax_Ultimate_Boy/
 { "name": "HMH.exe", "type": "Game" }
 
-# Half Sword https://store.steampowered.com/app/2397300/Half_Sword/
-{ "name": "HalfSwordUE5.exe", "type": "Game" }
-{ "name": "HalfSwordUE5-Win64-Shipping.exe", "type": "Game" }
-
 # Halls of Torment https://store.steampowered.com/app/2218750/Halls_of_Torment/
 { "name": "HallsOfTorment.exe", "type": "Game" }
 
@@ -300,9 +296,6 @@
 # Heretic's Fork https://store.steampowered.com/app/2181610/Heretics_Fork/
 { "name": "Heretics Fork.exe", "type": "Game" }
 
-# Heretic: Shadow of the Serpent Riders https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/
-{ "name": "HERETIC.EXE", "type": "Game" }
-
 # Hermit and Pig https://store.steampowered.com/app/2408350/Hermit_and_Pig/
 { "name": "hermit_and_pig.exe", "type": "Game" }
 
@@ -446,9 +439,6 @@
 
 # Hitman: Contracts https://store.steampowered.com/app/247430/Hitman_Contracts/
 { "name": "HitmanContracts.exe", "type": "Game" }
-
-# HITMAN World of Assassination https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
-{ "name": "HITMAN3.exe", "type": "Game" }
 
 # Hmmsim Metro https://store.steampowered.com/app/1591420/Hmmsim_Metro/
 { "name": "HmmsimMetro.exe", "type": "Game" }
@@ -702,7 +692,6 @@
 { "name": "HurtworldClient.exe", "type": "Game" }
 
 # Hydroneer https://store.steampowered.com/app/1106840/Hydroneer/
-{ "name": "Mining.exe", "type": "Game" }
 { "name": "Mining-Win64-Shipping.exe", "type": "Game" }
 
 # Hydrophobia: Prophecy https://store.steampowered.com/app/92000/Hydrophobia_Prophecy/
@@ -735,9 +724,6 @@
 # HER TREES : THE PUZZLE HOUSE https://store.steampowered.com/app/2725090/HER_TREES__THE_PUZZLE_HOUSE/
 { "name": "HerTrees-ThePuzzleHouse.exe", "type": "Game" }
 
-# HITMAN WOA Free Demo https://store.steampowered.com/app/1847520/
-{ "name": "HITMAN3.exe", "type": "Game" }
-
 # Habbo Hotel: Origins https://store.steampowered.com/app/3809900/Habbo_Hotel_Origins/
 { "name": "HabboHotel-obr.exe", "type": "Game" }
 { "name": "HabboHotel-ous-xl.exe", "type": "Game" }
@@ -749,13 +735,8 @@
 # Halcyon Days at Taoyuan https://store.steampowered.com/app/2678830/Halcyon_Days_at_Taoyuan/
 { "name": "-X-.exe", "type": "Game" }
 
-# Half Sword Demo https://store.steampowered.com/app/2642680/Half_Sword/
-{ "name": "HalfSwordUE5.exe", "type": "Game" }
-{ "name": "HalfSwordUE5-Win64-Shipping.exe", "type": "Game" }
-
 # Half-Life 2: VR Mod https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/
 { "name": "hl2vr.exe", "type": "Game" }
-{ "name": "hl2.exe", "type": "Game" }
 
 # Hamster https://store.steampowered.com/app/3046430/Hamster/
 { "name": "Hamster.exe", "type": "Game" }
@@ -788,13 +769,9 @@
 { "name": "HelloNeighbor3.exe", "type": "Game" }
 { "name": "HelloNeighbor3-Win64-Shipping.exe", "type": "Game" }
 
-# Hello Neighbor Alpha 2 https://store.steampowered.com/app/1092720/Hello_Neighbor_Alpha_2/
-{ "name": "HelloNeighborReborn.exe", "type": "Game" }
-
 # Heretic + Hexen https://store.steampowered.com/app/3286930/
 { "name": "heretic.exe", "type": "Game" }
 { "name": "HEXEN.EXE", "type": "Game" }
-{ "name": "HERETIC.EXE", "type": "Game" }
 
 # Heroes of Might and Magic: Olden Era Demo https://store.steampowered.com/app/3241970/Heroes_of_Might_and_Magic_Olden_Era_Demo/
 { "name": "HeroesOE.exe", "type": "Game" }

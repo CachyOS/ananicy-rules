@@ -59,9 +59,6 @@
 # Last Call BBS https://store.steampowered.com/app/1511780/Last_Call_BBS/
 { "name": "Last Call BBS.exe", "type": "Game" }
 
-# LastCloudiaTc https://steamdb.info/app/1499560/
-{ "name": "LastCloudia.exe", "type": "Game" }
-
 # Last Day of June https://store.steampowered.com/app/635320/Last_Day_of_June/
 { "name": "LastDayOfJune.exe", "type": "Game" }
 
@@ -126,9 +123,6 @@
 # Leaving DNA https://store.steampowered.com/app/2415240/
 { "name": "LeavingDNA.exe", "type": "Game" }
 
-# Left 4 Dead https://store.steampowered.com/app/500/Left_4_Dead/
-{ "name": "left4dead.exe", "type": "Game" }
-
 # Left 4 Dead 2 https://store.steampowered.com/app/550/Left_4_Dead_2/
 { "name": "left4dead2.exe", "type": "Game" }
 
@@ -172,9 +166,6 @@
 # Legend of Keepers https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/
 { "name": "LegendOfKeepers.exe", "type": "Game" }
 
-# LAST CLOUDIA https://store.steampowered.com/app/1687670/
-{ "name": "LastCloudia.exe", "type": "Game" }
-
 # LEGO Party! https://store.steampowered.com/app/1969370/LEGO_Party/
 { "name": "LEGO Party.exe", "type": "Game" }
 
@@ -192,10 +183,6 @@
 
 # Landlord's Super https://store.steampowered.com/app/1127840/Landlords_Super/
 { "name": "LandlordsSuper.exe", "type": "Game" }
-
-# Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
-{ "name": "left4dead.exe", "type": "Game" }
-{ "name": "srcds.exe", "type": "Game" }
 
 # Left to Survive https://store.steampowered.com/app/1702140/
 { "name": "LeftToSurviveSteamLoader.exe", "type": "Game" }
@@ -231,7 +218,6 @@
 { "name": "Azure-Win64-Shipping.exe", "type": "Game" }
 
 # Life is Feudal: Arden https://store.steampowered.com/app/3285700/Life_is_Feudal_Arden/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "LauncherHost.exe", "type": "Game" }
 
 # Limitless Survivor Demo https://store.steampowered.com/app/4624540/Limitless_Survivor_Demo/
@@ -260,7 +246,6 @@
 { "name": "LossPrevention.exe", "type": "Game" }
 
 # Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
-{ "name": "launcher.exe", "type": "Game" }
 { "name": "Game_x64r.exe", "type": "Game" }
 
 # Lost Rift https://store.steampowered.com/app/3494520/Lost_Rift/

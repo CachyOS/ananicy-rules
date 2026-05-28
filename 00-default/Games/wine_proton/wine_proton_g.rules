@@ -51,14 +51,9 @@
 
 # GameMaker Studio 2 Desktop https://store.steampowered.com/app/585410/Unsupported_GameMaker_Studio_2_Desktop/
 { "name": "GameMakerStudio.exe", "type": "Game" }
-{ "name": "GameMaker.exe", "type": "Game" }
 
 # Game of Thrones https://store.steampowered.com/app/208730/Game_of_Thrones/
 { "name": "ShippingPC-AGOTGame.exe", "type": "Game" }
-
-# Game of Thrones: Kingsroad https://store.steampowered.com/app/3183280/Game_of_Thrones_Kingsroad/
-{ "name": "GameOfThrones-Kingsroad.exe", "type": "Game" }
-{ "name": "ProjectT-Win64-Shipping.exe", "type": "Game" }
 
 # Game of Thrones Winter is Coming https://store.steampowered.com/app/1105420/Game_of_Thrones_Winter_is_Coming/
 { "name": "GotPC.exe", "type": "Game" }
@@ -279,14 +274,8 @@
 # GIGANTIC ARMY https://store.steampowered.com/app/278930/GIGANTIC_ARMY/
 { "name": "GIGANTIC ARMY.exe", "type": "Game" }
 
-# GIRLS' FRONTLINE 2: EXILIUM https://store.steampowered.com/app/3347400/GIRLS_FRONTLINE_2_EXILIUM/
-{ "name": "GF2_Exilium.exe", "type": "Game" }
-
 # Gladiator Guild Manager https://store.steampowered.com/app/1043260/Gladiator_Guild_Manager/
 { "name": "Gladiator Manager.exe", "type": "Game" }
-
-# Gladio Mori https://store.steampowered.com/app/2689120/Gladio_Mori/
-{ "name": "Gladio Mori.exe", "type": "Game" }
 
 # Global Rescue https://store.steampowered.com/app/2873660/Global_Rescue/
 { "name": "GR.exe", "type": "Game" }
@@ -477,12 +466,6 @@
 # Gourdlets https://store.steampowered.com/app/2013730/Gourdlets/
 { "name": "windows.exe", "type": "Game" }
 
-# GIRLS' FRONTLINE 2: EXILIUM https://store.steampowered.com/app/3308670/
-{ "name": "GF2_Exilium.exe", "type": "Game" }
-
-# GLORY DESTINY - REBORN 晴空物語 https://store.steampowered.com/app/3352180/GLORY_DESTINY__REBORN/
-{ "name": "launcher.exe", "type": "Game" }
-
 # GOD EATER RESURRECTION https://store.steampowered.com/app/460870/
 { "name": "GER.exe", "type": "Game" }
 
@@ -497,13 +480,6 @@
 # Galaxy Idle Clicker https://store.steampowered.com/app/2962810/Galaxy_Idle_Clicker/
 { "name": "GalaxyIdleClicker.exe", "type": "Game" }
 
-# Game of Thrones Kingsroad https://store.steampowered.com/app/4214820/
-{ "name": "GameOfThrones-Kingsroad.exe", "type": "Game" }
-{ "name": "ProjectT-Win64-Shipping.exe", "type": "Game" }
-
-# GameMaker https://store.steampowered.com/app/1670460/GameMaker/
-{ "name": "GameMaker.exe", "type": "Game" }
-
 # Garten of Banban 0 https://store.steampowered.com/app/3300410/Garten_of_Banban_0/
 { "name": "Garten of Banban 0.exe", "type": "Game" }
 { "name": "Clay_0-Win64-Shipping.exe", "type": "Game" }
@@ -511,17 +487,11 @@
 # Gedonia 2 https://store.steampowered.com/app/2566340/Gedonia_2/
 { "name": "Gedonia 2.exe", "type": "Game" }
 
-# Geo-Political Simulator 2026 Edition https://store.steampowered.com/app/4021780/GeoPolitical_Simulator_2026_Edition/
-{ "name": "_start.exe", "type": "Game" }
-
 # Girls' Frontline https://store.steampowered.com/app/3887700/Girls_Frontline/
 { "name": "GirlsFrontLine.exe", "type": "Game" }
 
 # Gladiators: Survival in Rome https://store.steampowered.com/app/2295520/Gladiators_Survival_in_Rome/
 { "name": "Gladiators.exe", "type": "Game" }
-
-# Gladio Mori Demo https://store.steampowered.com/app/2908480/Gladio_Mori/
-{ "name": "Gladio Mori.exe", "type": "Game" }
 
 # Global City https://store.steampowered.com/app/1731270/Global_City/
 { "name": "City64.exe", "type": "Game" }
@@ -539,9 +509,6 @@
 # Goblin Vyke: The Thief Tycoon https://store.steampowered.com/app/3794610/Goblin_Vyke_The_Thief_Tycoon/
 { "name": "GoblinVyke.exe", "type": "Game" }
 
-# GodsArena Online https://store.steampowered.com/app/3754990/GodsArena_Online/
-{ "name": "Game.exe", "type": "Game" }
-
 # Godsbane Idle https://store.steampowered.com/app/1565140/Godsbane_Idle/
 { "name": "Godsbane.exe", "type": "Game" }
 
@@ -556,13 +523,6 @@
 
 # Granblue Fantasy https://store.steampowered.com/app/767320/Granblue_Fantasy/
 { "name": "GranblueFantasy.exe", "type": "Game" }
-
-# Granblue Fantasy Versus: Rising Free Edition https://store.steampowered.com/app/2667960/Granblue_Fantasy_Versus_Rising_Free_Edition/
-{ "name": "GBVSR.exe", "type": "Game" }
-{ "name": "GBVSR-Win64-Shipping.exe", "type": "Game" }
-
-# Grand Fantasia：ORIGIN https://store.steampowered.com/app/3010230/Grand_Fantasia__ORIGIN/
-{ "name": "Launcher.exe", "type": "Game" }
 
 # Grapples Galore https://store.steampowered.com/app/2239140/Grapples_Galore/
 { "name": "Grapples Galore.exe", "type": "Game" }
@@ -597,10 +557,6 @@
 # Granblue Fantasy: Versus https://store.steampowered.com/app/1090630/Granblue_Fantasy_Versus/
 { "name": "GBVS.exe", "type": "Game" }
 { "name": "GBVS-Win64-Shipping.exe", "type": "Game" }
-
-# Granblue Fantasy Versus: Rising https://store.steampowered.com/app/2157560/Granblue_Fantasy_Versus_Rising/
-{ "name": "GBVSR.exe", "type": "Game" }
-{ "name": "GBVSR-Win64-Shipping.exe", "type": "Game" }
 
 # GrandChase https://store.steampowered.com/app/985810/GrandChase/
 { "name": "GrandChase.exe", "type": "Game" }

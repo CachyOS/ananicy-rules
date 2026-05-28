@@ -31,7 +31,7 @@
 { "name": "Racer8.exe", "type": "Game" }
 
 # RaceRoom Dedicated Server https://store.steampowered.com/app/354060/
-{ "name": "RRRE_dedicated.exe", "type": "BG_CPUIO }
+{ "name": "RRRE_dedicated.exe", "type": "BG_CPUIO" }
 
 # RaceRoom Racing Experience https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
@@ -415,7 +415,6 @@
 { "name": "REPO.exe", "type": "Game" }
 
 # Requiem https://store.steampowered.com/app/289780/Requiem_Desiderium_Mortis/
-{ "name": "Requiem.exe", "type": "Game" }
 { "name": "WPLauncher.exe", "type": "BG_CPUIO" }
 
 # Resident Evil https://store.steampowered.com/app/304240/Resident_Evil/
@@ -548,10 +547,6 @@
 
 # Reus 2 https://store.steampowered.com/app/1875060/Reus_2/
 { "name": "Reus 2.exe", "type": "Game" }
-
-# Revenge of the Savage Planet https://store.steampowered.com/app/2787320/Revenge_of_the_Savage_Planet/
-{ "name": "Towers.exe", "type": "Game" }
-{ "name": "Towers-Win64-Shipping.exe", "type": "Game" }
 
 # Revenge of the Titans https://store.steampowered.com/app/93200/Revenge_of_the_Titans/
 { "name": "RevengeOfTheTitans.exe", "type": "Game" }
