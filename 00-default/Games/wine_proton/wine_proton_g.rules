@@ -29,6 +29,9 @@
 # Galaxy Burger https://store.steampowered.com/app/2749770/Galaxy_Burger/
 { "name": "Galaxy Burger.exe", "type": "Game" }
 
+# Galaxy Idle Clicker https://store.steampowered.com/app/2962810/Galaxy_Idle_Clicker/
+{ "name": "GalaxyIdleClicker.exe", "type": "Game" }
+
 # Galaxy Life https://store.steampowered.com/app/1927780/Galaxy_Life/
 { "name": "GalaxyLifeUE5.exe", "type": "Game" }
 { "name": "Galaxy Life.exe", "type": "Game" }
@@ -105,6 +108,10 @@
 { "name": "Garten_of_Banban_VR.exe", "type": "Game" }
 { "name": "Clay-Win64-Shipping.exe", "type": "Game" }
 
+# Garten of Banban 0 https://store.steampowered.com/app/3300410/Garten_of_Banban_0/
+{ "name": "Garten of Banban 0.exe", "type": "Game" }
+{ "name": "Clay_0-Win64-Shipping.exe", "type": "Game" }
+
 # Gary Grigsby's War in the East https://store.steampowered.com/app/370540/Gary_Grigsbys_War_in_the_East/
 { "name": "WarInTheEast.exe", "type": "Game" }
 
@@ -161,6 +168,9 @@
 
 # Gedonia https://store.steampowered.com/app/1114220/Gedonia/
 { "name": "Gedonia.exe", "type": "Game" }
+
+# Gedonia 2 https://store.steampowered.com/app/2566340/Gedonia_2/
+{ "name": "Gedonia 2.exe", "type": "Game" }
 
 # GemCraft - Chasing Shadows https://store.steampowered.com/app/296490/GemCraft__Chasing_Shadows/
 { "name": "GemCraft Chasing Shadows.exe", "type": "Game" }
@@ -274,11 +284,27 @@
 # GIGANTIC ARMY https://store.steampowered.com/app/278930/GIGANTIC_ARMY/
 { "name": "GIGANTIC ARMY.exe", "type": "Game" }
 
+# Girls' Frontline https://store.steampowered.com/app/3887700/Girls_Frontline/
+{ "name": "GirlsFrontLine.exe", "type": "Game" }
+
 # Gladiator Guild Manager https://store.steampowered.com/app/1043260/Gladiator_Guild_Manager/
 { "name": "Gladiator Manager.exe", "type": "Game" }
 
+# Gladiators: Survival in Rome https://store.steampowered.com/app/2295520/Gladiators_Survival_in_Rome/
+{ "name": "Gladiators.exe", "type": "Game" }
+
+# Global City https://store.steampowered.com/app/1731270/Global_City/
+{ "name": "City64.exe", "type": "Game" }
+{ "name": "City.exe", "type": "Game" }
+
 # Global Rescue https://store.steampowered.com/app/2873660/Global_Rescue/
 { "name": "GR.exe", "type": "Game" }
+
+# Global Rescue Demo https://store.steampowered.com/app/3939070/Global_Rescue_Demo/
+{ "name": "GR_Demo.exe", "type": "Game" }
+
+# Global Strike https://store.steampowered.com/app/2322660/Global_Strike/
+{ "name": "WDlauncher.exe", "type": "Game" }
 
 # Gloomwood https://store.steampowered.com/app/1150760/Gloomwood/
 { "name": "Gloomwood.exe", "type": "Game" }
@@ -318,11 +344,24 @@
 # Goblin Cleanup https://store.steampowered.com/app/2748340/Goblin_Cleanup/
 { "name": "Goblin Cleanup.exe", "type": "Game" }
 
+# Goblin Nest https://store.steampowered.com/app/3782910/
+{ "name": "GoblinNest.exe", "type": "Game" }
+
+# Goblin Vyke: The Thief Tycoon https://store.steampowered.com/app/3794610/Goblin_Vyke_The_Thief_Tycoon/
+{ "name": "GoblinVyke.exe", "type": "Game" }
+
+# GODBREAKERS https://store.steampowered.com/app/2687400/GODBREAKERS/
+{ "name": "Godbreakers.exe", "type": "Game" }
+{ "name": "Godbreakers_Steam-Win64-Shipping.exe", "type": "Game" }
+
 # GOD EATER 2 Rage Burst https://store.steampowered.com/app/438490/GOD_EATER_2_Rage_Burst/
 { "name": "GE2RB.exe", "type": "Game" }
 
 # GOD EATER 3 https://store.steampowered.com/app/899440/GOD_EATER_3/
 { "name": "ge3.exe", "type": "Game" }
+
+# GOD EATER RESURRECTION https://store.steampowered.com/app/460870/
+{ "name": "GER.exe", "type": "Game" }
 
 # God Mode https://store.steampowered.com/app/227480/God_Mode/
 { "name": "GodMode.exe", "type": "Game" }
@@ -339,6 +378,9 @@
 # Godot Engine https://store.steampowered.com/app/404790/Godot_Engine/
 { "name": "godot.windows.opt.tools.64.exe", "type": "Game" }
 { "name": "godot.windows.opt.tools.32.exe", "type": "Game" }
+
+# Godsbane Idle https://store.steampowered.com/app/1565140/Godsbane_Idle/
+{ "name": "Godsbane.exe", "type": "Game" }
 
 # Gods Will Be Watching https://store.steampowered.com/app/274290/Gods_Will_Be_Watching/
 { "name": "gwbw.exe", "type": "Game" }
@@ -372,6 +414,9 @@
 # Golden Light https://store.steampowered.com/app/1245430/Golden_Light/
 { "name": "Golden Light.exe", "type": "Game" }
 
+# Gold Gold Adventure Gold https://store.steampowered.com/app/3133650/Gold_Gold_Adventure_Gold/
+{ "name": "GoldGoldAdventureGold.exe", "type": "Game" }
+
 # Gold Mining Simulator https://store.steampowered.com/app/451340/Gold_Mining_Simulator/
 { "name": "GoldMiningSimulator.exe", "type": "Game" }
 { "name": "GoldRushTheGame.exe", "type": "Game" }
@@ -404,6 +449,9 @@
 
 # Goodbye Deponia https://store.steampowered.com/app/241910/Goodbye_Deponia/
 { "name": "Deponia3.exe", "type": "Game" }
+
+# Good Company https://store.steampowered.com/app/911430/Good_Company/
+{ "name": "GoodCompany.exe", "type": "Game" }
 
 # Good Pizza, Great Pizza - Cooking Simulator Game https://store.steampowered.com/app/770810/Good_Pizza_Great_Pizza__Cooking_Simulator_Game/
 { "name": "PizzaBusiness.exe", "type": "Game" }
@@ -460,84 +508,14 @@
 # Gothic 3: Forsaken Gods Enhanced Edition https://store.steampowered.com/app/65600/Gothic_3_Forsaken_Gods_Enhanced_Edition/
 { "name": "Gothic III Forsaken Gods.exe", "type": "Game" }
 
+# Gothic Clicker https://store.steampowered.com/app/3055250/Gothic_Clicker/
+{ "name": "gothic.exe", "type": "Game" }
+
 # Gothic Playable Teaser https://store.steampowered.com/app/950670/Gothic_Playable_Teaser/
 { "name": "GothicRemake.exe", "type": "Game" }
 
 # Gourdlets https://store.steampowered.com/app/2013730/Gourdlets/
 { "name": "windows.exe", "type": "Game" }
-
-# GOD EATER RESURRECTION https://store.steampowered.com/app/460870/
-{ "name": "GER.exe", "type": "Game" }
-
-# GODBREAKERS https://store.steampowered.com/app/2687400/GODBREAKERS/
-{ "name": "Godbreakers.exe", "type": "Game" }
-{ "name": "Godbreakers_Steam-Win64-Shipping.exe", "type": "Game" }
-
-# GRID 2 https://store.steampowered.com/app/44350/GRID_2/
-{ "name": "grid2.exe", "type": "Game" }
-{ "name": "grid2_avx.exe", "type": "Game" }
-
-# Galaxy Idle Clicker https://store.steampowered.com/app/2962810/Galaxy_Idle_Clicker/
-{ "name": "GalaxyIdleClicker.exe", "type": "Game" }
-
-# Garten of Banban 0 https://store.steampowered.com/app/3300410/Garten_of_Banban_0/
-{ "name": "Garten of Banban 0.exe", "type": "Game" }
-{ "name": "Clay_0-Win64-Shipping.exe", "type": "Game" }
-
-# Gedonia 2 https://store.steampowered.com/app/2566340/Gedonia_2/
-{ "name": "Gedonia 2.exe", "type": "Game" }
-
-# Girls' Frontline https://store.steampowered.com/app/3887700/Girls_Frontline/
-{ "name": "GirlsFrontLine.exe", "type": "Game" }
-
-# Gladiators: Survival in Rome https://store.steampowered.com/app/2295520/Gladiators_Survival_in_Rome/
-{ "name": "Gladiators.exe", "type": "Game" }
-
-# Global City https://store.steampowered.com/app/1731270/Global_City/
-{ "name": "City64.exe", "type": "Game" }
-{ "name": "City.exe", "type": "Game" }
-
-# Global Rescue Demo https://store.steampowered.com/app/3939070/Global_Rescue_Demo/
-{ "name": "GR_Demo.exe", "type": "Game" }
-
-# Global Strike https://store.steampowered.com/app/2322660/Global_Strike/
-{ "name": "WDlauncher.exe", "type": "Game" }
-
-# Goblin Nest https://store.steampowered.com/app/3782910/
-{ "name": "GoblinNest.exe", "type": "Game" }
-
-# Goblin Vyke: The Thief Tycoon https://store.steampowered.com/app/3794610/Goblin_Vyke_The_Thief_Tycoon/
-{ "name": "GoblinVyke.exe", "type": "Game" }
-
-# Godsbane Idle https://store.steampowered.com/app/1565140/Godsbane_Idle/
-{ "name": "Godsbane.exe", "type": "Game" }
-
-# Gold Gold Adventure Gold https://store.steampowered.com/app/3133650/Gold_Gold_Adventure_Gold/
-{ "name": "GoldGoldAdventureGold.exe", "type": "Game" }
-
-# Good Company https://store.steampowered.com/app/911430/Good_Company/
-{ "name": "GoodCompany.exe", "type": "Game" }
-
-# Gothic Clicker https://store.steampowered.com/app/3055250/Gothic_Clicker/
-{ "name": "gothic.exe", "type": "Game" }
-
-# Granblue Fantasy https://store.steampowered.com/app/767320/Granblue_Fantasy/
-{ "name": "GranblueFantasy.exe", "type": "Game" }
-
-# Grapples Galore https://store.steampowered.com/app/2239140/Grapples_Galore/
-{ "name": "Grapples Galore.exe", "type": "Game" }
-
-# Grind Hero https://store.steampowered.com/app/3882310/Grind_Hero_MMORPG/
-{ "name": "Grind Hero.exe", "type": "Game" }
-
-# Growtopia https://store.steampowered.com/app/866020/Growtopia/
-{ "name": "Growtopia.exe", "type": "Game" }
-
-# GunboundM https://store.steampowered.com/app/991710/GunboundM/
-{ "name": "GunboundM.exe", "type": "Game" }
-
-# Gunship Battle Total Warfare https://store.steampowered.com/app/3029540/Gunship_Battle_Total_Warfare/
-{ "name": "GW_Live_STEAM.exe", "type": "Game" }
 
 # Governor of Poker 3 https://store.steampowered.com/app/436150/Governor_of_Poker_3/
 { "name": "GOP3.exe", "type": "Game" }
@@ -550,6 +528,9 @@
 
 # Granado Espada https://store.steampowered.com/app/663090/Granado_Espada/
 { "name": "ge.exe", "type": "Game" }
+
+# Granblue Fantasy https://store.steampowered.com/app/767320/Granblue_Fantasy/
+{ "name": "GranblueFantasy.exe", "type": "Game" }
 
 # Granblue Fantasy: Relink https://store.steampowered.com/app/881020/Granblue_Fantasy_Relink/
 { "name": "granblue_fantasy_relink.exe", "type": "Game" }
@@ -618,6 +599,9 @@
 { "name": "GrannyEscapeTogether-Win64-Shipping.exe", "type": "Game" }
 { "name": "GrannyEscapeTogether.exe", "type": "Game" }
 
+# Grapples Galore https://store.steampowered.com/app/2239140/Grapples_Galore/
+{ "name": "Grapples Galore.exe", "type": "Game" }
+
 # Gravel https://store.steampowered.com/app/558260/Gravel/
 { "name": "gravel.exe", "type": "Game" }
 { "name": "gravel-Win64-Shipping.exe", "type": "Game" }
@@ -654,6 +638,10 @@
 
 # Grey Hack https://store.steampowered.com/app/605230/Grey_Hack/
 { "name": "Grey Hack.exe", "type": "Game" }
+
+# GRID 2 https://store.steampowered.com/app/44350/GRID_2/
+{ "name": "grid2.exe", "type": "Game" }
+{ "name": "grid2_avx.exe", "type": "Game" }
 
 # GRID (2019) https://store.steampowered.com/app/703860/GRID/
 { "name": "Grid_win64_do.exe", "type": "Game" }
@@ -698,6 +686,9 @@
 
 # Grimshire https://store.steampowered.com/app/2238470/Grimshire/
 { "name": "Grimshire.exe", "type": "Game" }
+
+# Grind Hero https://store.steampowered.com/app/3882310/Grind_Hero_MMORPG/
+{ "name": "Grind Hero.exe", "type": "Game" }
 
 # Grind Survivors https://store.steampowered.com/app/3816930/Grind_Survivors/
 { "name": "GrindSurvivors.exe", "type": "Game" }
@@ -748,6 +739,9 @@
 # Grow: Song of the Evertree https://store.steampowered.com/app/1380420/Grow_Song_of_the_Evertree/
 { "name": "Grow.exe", "type": "Game" }
 
+# Growtopia https://store.steampowered.com/app/866020/Growtopia/
+{ "name": "Growtopia.exe", "type": "Game" }
+
 # G String https://store.steampowered.com/app/1224600/G_String/
 { "name": "gstring.exe", "type": "Game" }
 
@@ -790,6 +784,9 @@
 # Gunboat God https://store.steampowered.com/app/2511210/Gunboat_God/
 { "name": "GunboatGod.exe", "type": "Game" }
 
+# GunboundM https://store.steampowered.com/app/991710/GunboundM/
+{ "name": "GunboundM.exe", "type": "Game" }
+
 # Guncraft https://store.steampowered.com/app/241720/Guncraft/
 { "name": "GunCraft.exe", "type": "Game" }
 { "name": "Guncraft.exe", "type": "Game" }
@@ -825,6 +822,9 @@
 
 # Guns, Gore & Cannoli https://store.steampowered.com/app/322210/Guns_Gore__Cannoli/
 { "name": "ggc.exe", "type": "Game" }
+
+# Gunship Battle Total Warfare https://store.steampowered.com/app/3029540/Gunship_Battle_Total_Warfare/
+{ "name": "GW_Live_STEAM.exe", "type": "Game" }
 
 # Gunsmith Simulator https://store.steampowered.com/app/1101120/Gunsmith_Simulator/
 { "name": "Gunsmith Simulator.exe", "type": "Game" }
