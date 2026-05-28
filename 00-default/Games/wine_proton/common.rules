@@ -1913,7 +1913,7 @@
 # Self explanatory it gets system info...
 { "name": "SystemInfoGetter.exe", "type": "BG_CPUIO" }
 
-# Model viewer
+# Half-Life Model Viewer
 { "name": "hlmv.exe", "type": "Doc-View" }
 
 # some sort of godot process/program idk
