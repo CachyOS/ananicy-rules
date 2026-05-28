@@ -31,14 +31,28 @@
 { "name": "Madden24.exe", "type": "Game" }
 { "name": "Madden24_Trial.exe", "type": "Game" }
 
+# Made in Abyss: Binary Star Falling into Darkness https://store.steampowered.com/app/1324340/Made_in_Abyss_Binary_Star_Falling_into_Darkness/
+{ "name": "MadeInAbyss.exe", "type": "Game" }
+{ "name": "MadeInAbyss-Win64-Shipping.exe", "type": "Game" }
+
 # Mad Games Tycoon 2 https://store.steampowered.com/app/1342330/Mad_Games_Tycoon_2/
 { "name": "Mad Games Tycoon 2.exe", "type": "Game" }
+
+# Mad Island https://store.steampowered.com/app/2739590/
+{ "name": "Mad Island.exe", "type": "Game" }
 
 # Mad Max https://store.steampowered.com/app/234140/Mad_Max/
 { "name": "MadMax.exe", "type": "Game" }
 
 # MADNESS: Project Nexus https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/
 { "name": "Madness Project Nexus.exe", "type": "Game" }
+
+# Madoka Magica Magia Exedra https://store.steampowered.com/app/2987800/
+{ "name": "MadokaExedra.exe", "type": "Game" }
+
+# Mad Television Tycoon https://store.steampowered.com/app/3565020/Mad_Television_Tycoon/
+{ "name": "MadTelevisionTycoon.exe", "type": "Game" }
+{ "name": "MadTelevisionTycoon-Win64-Shipping.exe", "type": "Game" }
 
 # Mafia: Definitive Edition https://store.steampowered.com/app/1030840/Mafia_Definitive_Edition/
 { "name": "mafiadefinitiveedition.exe", "type": "Game" }
@@ -67,6 +81,15 @@
 
 # Magical Diary: Horse Hall https://store.steampowered.com/app/211340/Magical_Diary_Horse_Hall/
 { "name": "MagicalDiary.exe", "type": "Game" }
+
+# Magical Girl Witch Trials (魔法少女ノ魔女裁判) https://store.steampowered.com/app/3101040/Magical_Girl_Witch_Trials/
+{ "name": "manosaba.exe", "type": "Game" }
+
+# Magical Princess https://store.steampowered.com/app/3562120/Magical_Princess/
+{ "name": "MagicalPrincess.exe", "type": "Game" }
+
+# Magic Archery https://store.steampowered.com/app/2905170/Magic_Archery/
+{ "name": "Magic Archery.exe", "type": "Game" }
 
 # Magic Borderless https://store.steampowered.com/app/1022230/Magic_Borderless/
 { "name": "MagicBorderless.exe", "type": "Game" }
@@ -144,6 +167,15 @@
 # Maktala https://store.steampowered.com/app/4005560/Maktala_Slime_Lootfest/
 { "name": "Maktala.exe", "type": "Game" }
 
+# Mall Rivals https://store.steampowered.com/app/4090330/Mall_Rivals/
+{ "name": "MallRivals.exe", "type": "Game" }
+
+# Mall Simulator https://store.steampowered.com/app/3180150/Mall_Simulator/
+{ "name": "Mall Simulator.exe", "type": "Game" }
+
+# Mall Simulator: Prologue https://store.steampowered.com/app/3502270/Mall_Simulator_Prologue/
+{ "name": "Mall Simulator 2025 Prologue.exe", "type": "Game" }
+
 # Malody V https://store.steampowered.com/app/1512940/Malody_V/
 { "name": "Malody V.exe", "type": "Game" }
 
@@ -172,11 +204,17 @@
 { "name": "ManorLords.exe", "type": "Game" }
 { "name": "ManorLords-Win64-Shipping.exe", "type": "Game" }
 
+# Mansions of Madness https://store.steampowered.com/app/478980/Mansions_of_Madness/
+{ "name": "Mansions of Madness.exe", "type": "Game" }
+
 # Manual Samuel - Last Tuesday Edition https://store.steampowered.com/app/504130/Manual_Samuel__Last_Tuesday_Edition/
 { "name": "Manual Samuel.exe", "type": "Game" }
 
 # MapleStory https://store.steampowered.com/app/216150/MapleStory/
 { "name": "MapleStory.exe", "type": "Game" }
+
+# MapleStory M https://store.steampowered.com/app/3969080/MapleStory_M/
+{ "name": "MapleStoryM.exe", "type": "Game" }
 
 # Marathon https://store.steampowered.com/app/3065800/Marathon/
 { "name": "Marathon.exe", "type": "Game" }
@@ -228,6 +266,12 @@
 # Martha Is Dead https://store.steampowered.com/app/515960/
 { "name": "MID.exe", "type": "Game" }
 { "name": "MID-Win64-Shipping.exe", "type": "Game" }
+
+# Marvel Contest of Champions https://store.steampowered.com/app/3127280/Marvel_Contest_of_Champions/
+{ "name": "Champions.exe", "type": "Game" }
+
+# Marvel Heroes Omega https://store.steampowered.com/app/226320/
+{ "name": "MarvelHeroesOmega.exe", "type": "Game" }
 
 # MARVEL Puzzle Quest https://store.steampowered.com/app/234330/MARVEL_Puzzle_Quest/
 { "name": "Marvel Puzzle Quest.exe", "type": "Game" }
@@ -299,6 +343,9 @@
 { "name": "RainCodePlus.exe", "type": "Game" }
 { "name": "RainCodePlus-Win64-Shipping.exe", "type": "Game" }
 
+# Master Healer Kale with useless party Demo https://store.steampowered.com/app/4727000/Master_Healer_Kale_with_useless_party/
+{ "name": "MasterHealerKale.exe", "type": "Game" }
+
 # Master of Command https://store.steampowered.com/app/2878450/Master_of_Command/
 { "name": "Master Of Command.exe", "type": "Game" }
 
@@ -323,6 +370,9 @@
 
 # Masters of Anima https://store.steampowered.com/app/606890/Masters_of_Anima/
 { "name": "Masters of Anima.exe", "type": "Game" }
+
+# MaSzyna https://store.steampowered.com/app/1033030/MaSzyna/
+{ "name": "eu07.exe", "type": "Game" }
 
 # Matchmaking Inc. https://store.steampowered.com/app/2103130/Matchmaking_Inc/
 { "name": "ChineseDating.exe", "type": "Game" }
@@ -355,6 +405,12 @@
 # Mayhemers https://store.steampowered.com/app/2536260/Mayhemers/
 { "name": "Mayhemers.exe", "type": "Game" }
 
+# Mayor May Knott https://store.steampowered.com/app/2377450/Mayor_May_Knott/
+{ "name": "Mayor May Knott.exe", "type": "Game" }
+
+# Mazebound https://store.steampowered.com/app/3616260/MAZEBOUND_Hunt_Gather_Run/
+{ "name": "MAZEBOUND - Hunt, Gather, Run!.exe", "type": "Game" }
+
 # McOsu https://store.steampowered.com/app/607260/McOsu/
 { "name": "McEngine.exe", "type": "Game" }
 { "name": "McEngine_dx11.exe", "type": "Game" }
@@ -374,6 +430,9 @@
 
 # Mecha BREAK https://store.steampowered.com/app/2452280/Mecha_BREAK/
 { "name": "MechaBREAK.exe", "type": "Game" }
+
+# Mecharashi https://store.steampowered.com/app/3446920/Mecharashi/
+{ "name": "Mecharashi.exe", "type": "Game" }
 
 # Medal of Honor https://store.steampowered.com/app/47790/Medal_of_Honor/
 { "name": "moh.exe", "type": "Game" }
@@ -436,11 +495,24 @@
 # Megaquarium https://store.steampowered.com/app/600480/Megaquarium/
 { "name": "Megaquarium.exe", "type": "Game" }
 
+# Megastore Simulator https://store.steampowered.com/app/3819640/Megastore_Simulator/
+{ "name": "Megastore Simulator.exe", "type": "Game" }
+
+# Meh https://store.steampowered.com/app/3065090/203_MEH/
+{ "name": "Meh.exe", "type": "Game" }
+{ "name": "Meh-Win64-Shipping.exe", "type": "Game" }
+
 # Melatonin https://store.steampowered.com/app/1585220/Melatonin/
 { "name": "Melatonin.exe", "type": "Game" }
 
+# MELIGO Creator https://store.steampowered.com/app/2138250/MELIGO_Creator/
+{ "name": "MELIGO Creator.exe", "type": "Game" }
+
 # Melody's Escape https://store.steampowered.com/app/270210/Melodys_Escape/
 { "name": "MelodysEscape.exe", "type": "Game" }
+
+# Melon https://store.steampowered.com/app/3050630/Melon/
+{ "name": "Melon.exe", "type": "Game" }
 
 # Meltopia https://store.steampowered.com/app/3601800/Meltopia/
 { "name": "Meltopia.exe", "type": "Game" }
@@ -462,6 +534,9 @@
 
 # Meme Mayhem https://store.steampowered.com/app/2719030/Meme_Mayhem/
 { "name": "Meme Mayhem.exe", "type": "Game" }
+
+# MementoMori: AFKRPG https://store.steampowered.com/app/2302530/MementoMori/
+{ "name": "MementoMori-Steam.exe", "type": "Game" }
 
 # MEMORIA POLIS https://store.steampowered.com/app/2228280/MEMORIAPOLIS/
 { "name": "Memoriapolis.exe", "type": "Game" }
@@ -494,6 +569,12 @@
 { "name": "Vietnam Editor.exe", "type": "Game" }
 { "name": "Vietnam.exe", "type": "Game" }
 
+# Meowgic Demo https://store.steampowered.com/app/4265360/Meowgic_Demo/
+{ "name": "Meowgic.exe", "type": "Game" }
+
+# Meow My Crop! https://store.steampowered.com/app/4201710/Meow_My_Crop/
+{ "name": "MeowMyCrop.exe", "type": "Game" }
+
 # Mercenaries Lament Requiem of the Silver Wolf https://store.steampowered.com/app/2321040/Mercenaries_Lament_Requiem_of_the_Silver_Wolf/
 { "name": "MercenariesLament.exe", "type": "Game" }
 
@@ -502,6 +583,9 @@
 
 # Merge Adventure: Magic Dragons https://store.steampowered.com/app/2495050/Merge_Adventure_Magic_Dragons/
 { "name": "Merge Adventure.exe", "type": "Game" }
+
+# MergeCrafter https://store.steampowered.com/app/1964220/MergeCrafter/
+{ "name": "MergeCrafter.exe", "type": "Game" }
 
 # Mesen N******* multi-emulator via wine for SDL2 mouse keys https://www.mesen.ca/
 { "name": "Mesen.exe", "type": "Game" }
@@ -548,6 +632,10 @@
 { "name": "MSAR_steam.exe", "type": "Game" }
 { "name": "MSAR-Win64-Shipping.exe", "type": "Game" }
 
+# Metal Slug: Awakening https://store.steampowered.com/app/2963870/Metal_Slug_Awakening/
+{ "name": "metal_slug_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "MSGame.exe", "type": "Game" }
+
 # Metal Slug Tactics https://store.steampowered.com/app/1590760/Metal_Slug_Tactics/
 { "name": "Metal Slug Tactics.exe", "type": "Game" }
 
@@ -579,6 +667,9 @@
 { "name": "Impact-Win64-Shipping.exe", "type": "Game" }
 
 # Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
+
+
+# Metro Exodus Enhanced Edition https://store.steampowered.com/app/1449560/Metro_Exodus/
 { "name": "MetroExodus.exe", "type": "Game" }
 { "name": "Benchmark.exe", "type": "Game" }
 
@@ -588,6 +679,10 @@
 
 # Mewgenics https://store.steampowered.com/app/686060/Mewgenics/
 { "name": "Mewgenics.exe", "type": "Game" }
+
+# Miasma Chronicles https://store.steampowered.com/app/1649010/
+{ "name": "Miasma.exe", "type": "Game" }
+{ "name": "Miasma-Win64-Shipping.exe", "type": "Game" }
 
 # Miasmata https://store.steampowered.com/app/223510/Miasmata/
 { "name": "miasmata.exe", "type": "Game" }
@@ -610,6 +705,10 @@
 # Microtopia https://store.steampowered.com/app/2750000/Microtopia/
 { "name": "Microtopia.exe", "type": "Game" }
 
+# MICROVOLTS: Recharged https://store.steampowered.com/app/1426440/MICROVOLTS_Recharged/
+{ "name": "RunMicrovolts.exe", "type": "Game" }
+{ "name": "Microvolts.exe", "type": "Game" }
+
 # MicroWorks https://store.steampowered.com/app/1233410/MicroWorks/
 { "name": "MicroWorks.exe", "type": "Game" }
 
@@ -627,6 +726,9 @@
 
 # Might & Magic: Clash of Heroes https://store.steampowered.com/app/61700/Might__Magic_Clash_of_Heroes/
 { "name": "ClashOfHeroes.exe", "type": "Game" }
+
+# Might & Magic Fates TCG https://store.steampowered.com/app/3918850/Might__Magic_Fates__Heroes_TCG/
+{ "name": "fates.exe", "type": "Game" }
 
 # Might & Magic: Heroes VI https://store.steampowered.com/app/48220/Might__Magic_Heroes_VI/
 { "name": "Might & Magic Heroes VI.exe", "type": "Game" }
@@ -655,12 +757,18 @@
 # Military Conflict: Vietnam https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
 { "name": "mcv_x64.exe", "type": "Game" }
 
+# Military Incremental Complex https://store.steampowered.com/app/3469750/Military_Incremental_Complex/
+{ "name": "MilitaryIncrementalComplex.exe", "type": "Game" }
+
 # Milk inside a bag of milk inside a bag of milk https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/
 { "name": "PMKM-32.exe", "type": "Game" }
 { "name": "PMKM.exe", "type": "Game" }
 
 # Milk outside a bag of milk outside a bag of milk https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/
 { "name": "PMKM2.exe", "type": "Game" }
+
+# Milky Way Idle https://store.steampowered.com/app/3224420/Milky_Way_Idle/
+{ "name": "milkywayidle.exe", "type": "Game" }
 
 # Millennia https://store.steampowered.com/app/1268590/Millennia/
 { "name": "Millennia.exe", "type": "Game" }
@@ -693,6 +801,9 @@
 # MineMogul https://store.steampowered.com/app/3846120/MineMogul/
 { "name": "MineMogul.exe", "type": "Game" }
 
+# Mineral Mining Simulator https://store.steampowered.com/app/3972190/Mineral_Mining_Simulator/
+{ "name": "Mineral Mining Simulator.exe", "type": "Game" }
+
 # Mini Airways https://store.steampowered.com/app/2289650/Mini_Airways__ATC_simulator/
 { "name": "MiniAirways.exe", "type": "Game" }
 
@@ -716,8 +827,14 @@
 { "name": "Minimum.exe", "type": "Game" }
 { "name": "MinimumLauncher.exe", "type": "Game" }
 
+# Mining https://store.steampowered.com/app/3347520/Mining/
+{ "name": "Mining.exe", "type": "Game" }
+
 # Mining Mechs https://store.steampowered.com/app/1603180/Mining_Mechs/
 { "name": "Mining Mechs.exe", "type": "Game" }
+
+# Mining Merchant https://store.steampowered.com/app/3744080/Mining_Merchant/
+{ "name": "Mining Merchant.exe", "type": "Game" }
 
 # Mini Ninjas https://store.steampowered.com/app/35000/Mini_Ninjas/
 { "name": "ninja.exe", "type": "Game" }
@@ -730,6 +847,9 @@
 
 # Mini Royale https://store.steampowered.com/app/1657090/Mini_Royale/
 { "name": "MiniRoyale.exe", "type": "Game" }
+
+# Mini Settlers https://store.steampowered.com/app/2521630/Mini_Settlers/
+{ "name": "Mini Settlers.exe", "type": "Game" }
 
 # Minishoot' Adventures https://store.steampowered.com/app/1634860/Minishoot_Adventures/
 { "name": "Minishoot.exe", "type": "Game" }
@@ -779,8 +899,14 @@
 { "name": "MISERY.exe", "type": "Game" }
 { "name": "MISERY-Win64-Shipping.exe", "type": "Game" }
 
+# MISHA https://store.steampowered.com/app/3868850/MISHA/
+{ "name": "MISHA.exe", "type": "Game" }
+
 # MiSide https://store.steampowered.com/app/2527500/MiSide/
 { "name": "MiSideFull.exe", "type": "Game" }
+
+# MiSide Demo https://store.steampowered.com/app/2527520/MiSide/
+{ "name": "MiSide.exe", "type": "Game" }
 
 # Missing Banban https://store.steampowered.com/app/3113680/Missing_Banban/
 { "name": "MissingBanban.exe", "type": "Game" }
@@ -812,8 +938,17 @@
 { "name": "Mixtape.exe", "type": "Game" }
 { "name": "Mixtape-Win64-Shipping.exe", "type": "Game" }
 
+# MLB 9 Innings Rivals 26 https://store.steampowered.com/app/2569510/MLB_9_Innings_Rivals_26/
+{ "name": "MLBRIVALS.exe", "type": "Game" }
+
 # MMORPG Tycoon 2 https://store.steampowered.com/app/486860/MMORPG_Tycoon_2/
 { "name": "MT2.exe", "type": "Game" }
+
+# MOANera https://store.steampowered.com/app/3070830/MOANera/
+{ "name": "MOANera.exe", "type": "Game" }
+
+# Mobile Dungeon https://store.steampowered.com/app/707710/Mobile_Dungeon/
+{ "name": "mobiledungeon.exe", "type": "Game" }
 
 # MOBILE SUIT GUNDAM BATTLE OPERATION 2 https://store.steampowered.com/app/1367080/MOBILE_SUIT_GUNDAM_BATTLE_OPERATION_2/
 { "name": "MSGBO2.exe", "type": "Game" }
@@ -827,11 +962,17 @@
 # Modulus: Factory Automation https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/
 { "name": "Modulus.exe", "type": "Game" }
 
+# Molili AI Friends: Your AI Desk Pal https://store.steampowered.com/app/4141770/Molili_AI_Friends_Your_AI_Desk_Pal/
+{ "name": "Molili.exe", "type": "BG_CPUIO" }
+
 # Momentum Mod Playtest https://store.steampowered.com/app/1802710/Momentum_Mod/
 { "name": "momentum.exe", "type": "Game" }
 
 # Momodora III https://store.steampowered.com/app/302790/Momodora_III/
 { "name": "Momodora3.exe", "type": "Game" }
+
+# Momodora: Moonlit Farewell https://store.steampowered.com/app/1747760/Momodora_Moonlit_Farewell/
+{ "name": "MomodoraMoonlitFarewell.exe", "type": "Game" }
 
 # Momodora: Reverie Under The Moonlight https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/
 { "name": "MomodoraRUtM.exe", "type": "Game" }
@@ -849,6 +990,12 @@
 # Monday Night Combat https://store.steampowered.com/app/63200/Monday_Night_Combat/
 { "name": "mnc.exe", "type": "Game" }
 
+# Monday Night Combat Dedicated Server https://store.steampowered.com/app/63220/
+{ "name": "MNCDS.exe", "type": "BG_CPUIO" }
+
+# Money Simulator: Brokeville https://store.steampowered.com/app/3555430/Money_Simulator_Brokeville_Free_Prologue/
+{ "name": "Money Simulator - Brokeville.exe", "type": "Game" }
+
 # Monkey Island 2 Special Edition: LeChuck’s Revenge https://store.steampowered.com/app/32460/Monkey_Island_2_Special_Edition_LeChucks_Revenge/
 { "name": "Monkey2.exe", "type": "Game" }
 
@@ -857,6 +1004,9 @@
 
 # MONOPOLY PLUS https://store.steampowered.com/app/562810/MONOPOLY_PLUS/
 { "name": "Monopoly.exe", "type": "Game" }
+
+# MONOPOLY Poker https://store.steampowered.com/app/1474700/
+{ "name": "MONOPOLY Poker.exe", "type": "Game" }
 
 # Monster Battles: Autobattler https://store.steampowered.com/app/3141720/Monster_Battles/
 { "name": "MonsterBattle.exe", "type": "Game" }
@@ -869,6 +1019,9 @@
 
 # Monster Care Simulator https://store.steampowered.com/app/3288270/Monster_Care_Simulator/
 { "name": "Monster Care Simulator.exe", "type": "Game" }
+
+# Monster Crown: Sin Eater https://store.steampowered.com/app/3388410/Monster_Crown_Sin_Eater/
+{ "name": "Monster Crown SE.exe", "type": "Game" }
 
 # Monster Energy Supercross 25 - The Official Video Game https://store.steampowered.com/app/2581370/Monster_Energy_Supercross_25__The_Official_Video_Game/
 { "name": "supercross7.exe", "type": "Game" }
@@ -982,6 +1135,9 @@
 # Moonscars https://store.steampowered.com/app/1374970/Moonscars/
 { "name": "Moonscars.exe", "type": "Game" }
 
+# Moonshiner Simulator Demo https://store.steampowered.com/app/4371080/Moonshiner_Simulator_Demo/
+{ "name": "MoonshinerSimulator.exe", "type": "Game" }
+
 # Moonstone Island https://store.steampowered.com/app/1658150/Moonstone_Island/
 { "name": "Moonstone Island.exe", "type": "Game" }
 
@@ -997,6 +1153,9 @@
 # Mordheim: City of the Damned https://store.steampowered.com/app/276810/Mordheim_City_of_the_Damned/
 { "name": "mordheim.exe", "type": "Game" }
 
+# Morimens https://store.steampowered.com/app/3052450/Morimens/
+{ "name": "Morimens.exe", "type": "Game" }
+
 # Mortal Kombat 1 https://store.steampowered.com/app/1971870/Mortal_Kombat_1/
 { "name": "MK12.exe", "type": "Game" }
 
@@ -1007,6 +1166,9 @@
 # Mortal Kombat Komplete Edition https://store.steampowered.com/app/237110/Mortal_Kombat_Komplete_Edition/
 { "name": "MKKE.exe", "type": "Game" }
 { "name": "MKLauncher.exe", "type": "Game" }
+
+# Mortal Kombat: Legacy Kollection https://store.steampowered.com/app/3454980/Mortal_Kombat_Legacy_Kollection/
+{ "name": "mk_legacy_kollection.exe", "type": "Game" }
 
 # Mortal Kombat X https://store.steampowered.com/app/307780/Mortal_Kombat_X/
 { "name": "MK10.exe", "type": "Game" }
@@ -1105,6 +1267,9 @@
 { "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
 
 # Motor Town: Behind The Wheel https://store.steampowered.com/app/1369670/Motor_Town_Behind_The_Wheel/
+
+
+# Motor Town: Behind The Wheel Beta Demo https://store.steampowered.com/app/1737040/Motor_Town_Behind_The_Wheel/
 { "name": "MotorTown-Win64-Shipping.exe", "type": "Game" }
 
 # Mountain https://store.steampowered.com/app/313340/Mountain/
@@ -1145,6 +1310,9 @@
 # Movavi Video Suite 2025 Steam Edition https://store.steampowered.com/app/3276070/Movavi_Video_Suite_2025__Steam_Edition/
 { "name": "MovaviSuite.exe", "type": "Game" }
 
+# Moventure https://store.steampowered.com/app/3826060/Moventure/
+{ "name": "Moventure.exe", "type": "Game" }
+
 # Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
 { "name": "MoveOrDie.exe", "type": "Game" }
 
@@ -1180,6 +1348,13 @@
 
 # Mud and Blood https://store.steampowered.com/app/1391530/Mud_and_Blood/
 { "name": "mnb.exe", "type": "Game" }
+
+# MU: Dark Epoch https://store.steampowered.com/app/3953520/MU_Dark_Epoch/
+{ "name": "MU Dark Epoch.exe", "type": "Game" }
+
+# MudBlood Prologue https://store.steampowered.com/app/3209970/
+{ "name": "MudBlood.exe", "type": "Game" }
+{ "name": "MudBlood-Win64-Shipping.exe", "type": "Game" }
 
 # Mudborne https://store.steampowered.com/app/2355150/Mudborne_Frog_Management_Sim/
 { "name": "Mudborne.exe", "type": "Game" }
@@ -1285,6 +1460,15 @@
 # MX vs. ATV Reflex https://store.steampowered.com/app/55140/MX_vs_ATV_Reflex/
 { "name": "MXReflex.exe", "type": "Game" }
 
+# My Auto Clicker https://store.steampowered.com/app/3796350/My_Auto_Clicker/
+{ "name": "My Auto Clicker.exe", "type": "Game" }
+
+# My Card Is Better Than Your Card! https://store.steampowered.com/app/3617620/My_Card_Is_Better_Than_Your_Card/
+{ "name": "MyCardIsBetterThanYourCard.exe", "type": "Game" }
+
+# Mycopunk https://store.steampowered.com/app/3247750/Mycopunk/
+{ "name": "Mycopunk.exe", "type": "Game" }
+
 # MyDockFinder https://store.steampowered.com/app/1787090/MyDockFinder/
 { "name": "dock_64.exe", "type": "BG_CPUIO" }
 { "name": "dock.exe", "type": "BG_CPUIO" }
@@ -1328,6 +1512,12 @@
 # My Little Universe https://store.steampowered.com/app/2328750/My_Little_Universe/
 { "name": "My Little Universe.exe", "type": "Game" }
 
+# My Sexy Neighbor 🔞 https://store.steampowered.com/app/2657120/
+{ "name": "My Sexy Neighbor.exe", "type": "Game" }
+
+# My sexy Neighbour 2 https://store.steampowered.com/app/3684710/
+{ "name": "My Sexy Neighbour 2.exe", "type": "Game" }
+
 # MySims https://store.steampowered.com/app/3328900/MySims/
 { "name": "MySims.exe", "type": "Game" }
 
@@ -1344,11 +1534,17 @@
 # Mysterious School https://store.steampowered.com/app/2084940/Mysterious_School/
 { "name": "MysteriousSchool.exe", "type": "Game" }
 
+# Mystery Manor: hidden objects https://store.steampowered.com/app/3077660/Mystery_Manor_hidden_objects/
+{ "name": "MHouseXGen.exe", "type": "Game" }
+
 # My Suika - Watermelon Game https://store.steampowered.com/app/2671970/My_Suika__Kyos_Fruit_Merge/
 { "name": "MySuika.exe", "type": "Game" }
 
 # My Summer Car https://store.steampowered.com/app/516750/My_Summer_Car/
 { "name": "mysummercar.exe", "type": "Game" }
+
+# Myth of Empires: Throne https://store.steampowered.com/app/4510830/Myth_of_Empires_Throne/
+{ "name": "MOE.exe", "type": "Game" }
 
 # My Time at Portia https://store.steampowered.com/app/666140/My_Time_at_Portia/
 { "name": "Portia.exe", "type": "Game" }
@@ -1359,6 +1555,9 @@
 
 # MyVoiceZoo https://store.steampowered.com/app/4015530/MyVoiceZoo/
 { "name": "MyVoiceZoo.exe", "type": "Game" }
+
+# My Wife Threw Out My Card Collection (So I Bought a Dump to Find Them All) ⭐ https://store.steampowered.com/app/3868310/My_Wife_Threw_Out_My_Card_Collection_So_I_Bought_a_Dump_to_Find_Them_All/
+{ "name": "TrashLover.exe", "type": "Game" }
 
 # My Winter Car https://store.steampowered.com/app/4164420/My_Winter_Car/
 { "name": "mywintercar.exe", "type": "Game" }

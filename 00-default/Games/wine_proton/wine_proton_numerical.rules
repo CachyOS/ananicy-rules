@@ -3,6 +3,9 @@
 # Get name of game from steam.
 # If not from any store add name you think it needs.
 
+# 007 First Light https://store.steampowered.com/agecheck/app/3768760/
+{ "name": "007FirstLight.exe", "type": "Game" }
+
 # 10,000,000 https://store.steampowered.com/app/227580/10000000/
 { "name": "10000000.exe", "type": "Game" }
 
