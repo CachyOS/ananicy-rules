@@ -1808,3 +1808,5 @@
 { "name": "vc_redist.arm64.exe", "type": "BG_CPUIO" }
 { "name": "EpicOnlineServicesInstaller.exe", "type": "BG_CPUIO" }
 { "name": "UE3Redist.exe", "type": "BG_CPUIO" }
+
+# FiveM (Shared depot to Steamworks Common Redistributables(228980)) https://store.steampowered.com/app/2676230/

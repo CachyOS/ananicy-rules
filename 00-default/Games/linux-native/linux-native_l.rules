@@ -129,6 +129,10 @@
 # lsfg-vk https://github.com/PancakeTAS/lsfg-vk
 { "name": "lsfg-vk-ui ", "type": "Game" }
 
+# Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
+{ "name": "srcds_linux", "type": "Game" }
+{ "name": "srcds_run", "type": "Game" }
+
 # Luanti http://www.luanti.org/
 { "name": "luanti", "type": "Game" }
 { "name": "luanti.bin", "type": "Game" }
