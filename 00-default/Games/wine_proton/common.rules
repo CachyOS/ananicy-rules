@@ -1486,6 +1486,48 @@
 # Nocturnal Quest: An Idle RPG Adventure https://store.steampowered.com/app/2330930/Nocturnal_Quest_An_Idle_RPG_Adventure/
 { "name": "Squirrel.exe", "type": "Game" }
 
+# Motor Town: Behind The Wheel https://store.steampowered.com/app/1369670/Motor_Town_Behind_The_Wheel/
+# Motor Town: Behind The Wheel Beta Demo https://store.steampowered.com/app/1737040/Motor_Town_Behind_The_Wheel/
+{ "name": "MotorTown-Win64-Shipping.exe", "type": "Game" }
+
+# REPLACED https://store.steampowered.com/app/1663850/REPLACED/
+# REPLACED Demo https://store.steampowered.com/app/4261860/REPLACED_Demo/
+{ "name": "Replaced.exe", "type": "Game" }
+
+# Road to Vostok https://store.steampowered.com/app/1963610/Road_to_Vostok/
+# Road to Vostok Demo https://store.steampowered.com/app/2141300/Road_to_Vostok/
+{ "name": "RTV.exe", "type": "Game" }
+
+# REANIMAL https://store.steampowered.com/app/2129530/REANIMAL/
+# REANIMAL Demo https://store.steampowered.com/app/4019420/
+{ "name": "REANIMAL.exe", "type": "Game" }
+
+# Pantheon: Rise of the Fallen https://store.steampowered.com/app/3107230/Pantheon_Rise_of_the_Fallen/
+# Pantheon: Rise of the Fallen (Public Test Realm) https://store.steampowered.com/app/4709660/Pantheon_Rise_of_the_Fallen/
+{ "name": "Pantheon.exe", "type": "Game" }
+
+# Retro Rewind - Video Store Simulator https://store.steampowered.com/app/3552140/Retro_Rewind__Video_Store_Simulator/
+# Retro Rewind - Video Store Simulator Demo https://store.steampowered.com/app/3858710/Retro_Rewind__Video_Store_Simulator_Demo/
+{ "name": "RetroRewind.exe", "type": "Game" }
+
+# Retro Rewind - Video Store Simulator https://store.steampowered.com/app/3552140/Retro_Rewind__Video_Store_Simulator/
+# Retro Rewind - Video Store Simulator Demo https://store.steampowered.com/app/3858710/Retro_Rewind__Video_Store_Simulator_Demo/
+{ "name": "RetroRewind-Win64-Shipping.exe", "type": "Game" }
+
+# Ragnarok X: Next Generation https://store.steampowered.com/app/4279820/
+# Ragnarok X: Next Generation EU https://store.steampowered.com/app/4073870/
+# Ragnarok X: Next Generation (otherversion) https://store.steampowered.com/app/4007140/
+{ "name": "rox.exe", "type": "Game" }
+
+# Ragnarok X: Next Generation https://store.steampowered.com/app/4279820/
+# Ragnarok X: Next Generation EU https://store.steampowered.com/app/4073870/
+# Ragnarok X: Next Generation (otherversion) https://store.steampowered.com/app/4007140/
+{ "name": "Ragnarok X.exe", "type": "Game" }
+
+# Persona 3 Reload https://store.steampowered.com/app/2161700/Persona_3_Reload/
+# Persona 3 Reload Demo https://store.steampowered.com/app/3358440/Persona_3_Reload_Demo/
+{ "name": "P3R.exe", "type": "Game" }
+
 # Synergy Dedicated Server https://store.steampowered.com/app/17525/
 # Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
 # Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
@@ -1493,6 +1535,14 @@
 # Dino D-Day - Dedicated Server https://store.steampowered.com/app/70010/
 # Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
 { "name": "srcds.exe", "type": "Service" }
+
+# Operation: Tango https://store.steampowered.com/app/1335790/Operation_Tango/
+# Operation: Tango - Demo https://store.steampowered.com/app/1377150/Operation_Tango__Friend_Pass/
+{ "name": "Operation Tango.exe", "type": "Game" }
+
+# Nova Roma https://store.steampowered.com/app/2426530/Nova_Roma/
+# Nova Roma Demo https://store.steampowered.com/app/2426560/Nova_Roma_Demo/
+{ "name": "NovaRoma.exe", "type": "Game" }
 
 # Journey To The Savage Planet https://store.steampowered.com/app/973810/Journey_To_The_Savage_Planet/
 # Revenge of the Savage Planet https://store.steampowered.com/app/2787320/Revenge_of_the_Savage_Planet/

@@ -666,9 +666,6 @@
 { "name": "Impact.exe", "type": "Game" }
 { "name": "Impact-Win64-Shipping.exe", "type": "Game" }
 
-# Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
-
-
 # Metro Exodus Enhanced Edition https://store.steampowered.com/app/1449560/Metro_Exodus/
 { "name": "MetroExodus.exe", "type": "Game" }
 { "name": "Benchmark.exe", "type": "Game" }
@@ -1262,12 +1259,6 @@
 # MOTORSLICE Demo https://steamdb.info/app/3910170/
 { "name": "MotorSliceDemo.exe", "type": "Game" }
 { "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
-
-# Motor Town: Behind The Wheel https://store.steampowered.com/app/1369670/Motor_Town_Behind_The_Wheel/
-
-
-# Motor Town: Behind The Wheel Beta Demo https://store.steampowered.com/app/1737040/Motor_Town_Behind_The_Wheel/
-{ "name": "MotorTown-Win64-Shipping.exe", "type": "Game" }
 
 # Mountain https://store.steampowered.com/app/313340/Mountain/
 { "name": "Mountain.exe", "type": "Game" }
