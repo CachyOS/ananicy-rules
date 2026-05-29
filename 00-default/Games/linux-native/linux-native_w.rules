@@ -66,6 +66,12 @@
 { "name": "West of Loathing.x86", "type": "Game" }
 { "name": "West of Loathing.x86_64", "type": "Game" }
 
+# Watermelon https://store.steampowered.com/app/2373450/Watermelon/
+{ "name": "linux.x86_64", "type": "Game" }
+
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+{ "name": "WreckRunners-Linux-Shipping", "type": "Game" }
+
 # We Were Here Too https://store.steampowered.com/app/677160/We_Were_Here_Too/
 { "name": "We Were Here Too.x86", "type": "Game" }
 { "name": "We Were Here Too.x86_64", "type": "Game" }
