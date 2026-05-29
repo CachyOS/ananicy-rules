@@ -3,6 +3,7 @@
 # this script can sort rules in wine_proton and linux-native folders
 # don't use this script to sort non-latin rules
 # use it to sort files "from a to z", "the", numerical and "common"
+# for more information run ./sort-games.sh --help
 
 is_header_line() {
     local l="$1"

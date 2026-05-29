@@ -31,7 +31,7 @@
 { "name": "Racer8.exe", "type": "Game" }
 
 # RaceRoom Dedicated Server https://store.steampowered.com/app/354060/
-{ "name": "RRRE_dedicated.exe", "type": "BG_CPUIO }
+{ "name": "RRRE_dedicated.exe", "type": "BG_CPUIO" }
 
 # RaceRoom Racing Experience https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
@@ -70,16 +70,6 @@
 { "name": "cabarc.exe", "type": "Game" }
 { "name": "Rag2.exe", "type": "Game" }
 { "name": "RO2Client.exe", "type": "Game" }
-
-# Ragnarok X: Next Generation https://store.steampowered.com/app/4279820/
-
-
-# Ragnarok X: Next Generation EU https://store.steampowered.com/app/4073870/
-{ "name": "rox.exe", "type": "Game" }
-{ "name": "Ragnarok X.exe", "type": "Game" }
-
-# Ragnarok X: Next Generation (otherversion) https://store.steampowered.com/app/4007140/
-
 
 # Raiders of Blackveil https://store.steampowered.com/app/3352240/Raiders_of_Blackveil/
 { "name": "RoB.exe", "type": "Game" }
@@ -242,12 +232,6 @@
 { "name": "RealRTCW.x64.exe", "type": "Game" }
 { "name": "RTCWCoopDED.x64.exe", "type": "Game" }
 
-# REANIMAL https://store.steampowered.com/app/2129530/REANIMAL/
-
-
-# REANIMAL Demo https://store.steampowered.com/app/4019420/
-{ "name": "REANIMAL.exe", "type": "Game" }
-
 # Rebel Galaxy https://store.steampowered.com/app/290300/Rebel_Galaxy/
 { "name": "RebelGalaxySteam.exe", "type": "Game" }
 
@@ -402,12 +386,6 @@
 { "name": "MapEditor.exe", "type": "Game" }
 { "name": "Rento.exe", "type": "Game" }
 
-# REPLACED https://store.steampowered.com/app/1663850/REPLACED/
-
-
-# REPLACED Demo https://store.steampowered.com/app/4261860/REPLACED_Demo/
-{ "name": "Replaced.exe", "type": "Game" }
-
 # Replicube https://store.steampowered.com/app/3401490/Replicube/
 { "name": "Replicube.exe", "type": "Game" }
 
@@ -415,7 +393,6 @@
 { "name": "REPO.exe", "type": "Game" }
 
 # Requiem https://store.steampowered.com/app/289780/Requiem_Desiderium_Mortis/
-{ "name": "Requiem.exe", "type": "Game" }
 { "name": "WPLauncher.exe", "type": "BG_CPUIO" }
 
 # Resident Evil https://store.steampowered.com/app/304240/Resident_Evil/
@@ -517,13 +494,6 @@
 # Retro City Rampage DX https://store.steampowered.com/app/204630/Retro_City_Rampage_DX/
 { "name": "retrocityrampage.exe", "type": "Game" }
 
-# Retro Rewind - Video Store Simulator https://store.steampowered.com/app/3552140/Retro_Rewind__Video_Store_Simulator/
-
-
-# Retro Rewind - Video Store Simulator Demo https://store.steampowered.com/app/3858710/Retro_Rewind__Video_Store_Simulator_Demo/
-{ "name": "RetroRewind.exe", "type": "Game" }
-{ "name": "RetroRewind-Win64-Shipping.exe", "type": "Game" }
-
 # Retrowave https://store.steampowered.com/app/1239690/Retrowave/
 { "name": "Retrowave.exe", "type": "Game" }
 
@@ -548,10 +518,6 @@
 
 # Reus 2 https://store.steampowered.com/app/1875060/Reus_2/
 { "name": "Reus 2.exe", "type": "Game" }
-
-# Revenge of the Savage Planet https://store.steampowered.com/app/2787320/Revenge_of_the_Savage_Planet/
-{ "name": "Towers.exe", "type": "Game" }
-{ "name": "Towers-Win64-Shipping.exe", "type": "Game" }
 
 # Revenge of the Titans https://store.steampowered.com/app/93200/Revenge_of_the_Titans/
 { "name": "RevengeOfTheTitans.exe", "type": "Game" }
@@ -791,12 +757,6 @@
 
 # Road to Empress I https://store.steampowered.com/app/3478050/Road_to_Empress_I/
 { "name": "sstx.exe", "type": "Game" }
-
-# Road to Vostok https://store.steampowered.com/app/1963610/Road_to_Vostok/
-
-
-# Road to Vostok Demo https://store.steampowered.com/app/2141300/Road_to_Vostok/
-{ "name": "RTV.exe", "type": "Game" }
 
 # Roadwarden https://store.steampowered.com/app/1155970/Roadwarden/
 { "name": "Roadwarden.exe", "type": "Game" }

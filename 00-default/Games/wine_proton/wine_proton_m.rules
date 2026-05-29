@@ -666,13 +666,6 @@
 { "name": "Impact.exe", "type": "Game" }
 { "name": "Impact-Win64-Shipping.exe", "type": "Game" }
 
-# Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
-
-
-# Metro Exodus Enhanced Edition https://store.steampowered.com/app/1449560/Metro_Exodus/
-{ "name": "MetroExodus.exe", "type": "Game" }
-{ "name": "Benchmark.exe", "type": "Game" }
-
 # Metro: Last Light Complete Edition https://steamdb.info/app/43160/
 { "name": "MetroLL.exe", "type": "Game" }
 { "name": "MetroLLbenchmark.exe", "type": "Game" }
@@ -826,9 +819,6 @@
 { "name": "MinGame.exe", "type": "Game" }
 { "name": "Minimum.exe", "type": "Game" }
 { "name": "MinimumLauncher.exe", "type": "Game" }
-
-# Mining https://store.steampowered.com/app/3347520/Mining/
-{ "name": "Mining.exe", "type": "Game" }
 
 # Mining Mechs https://store.steampowered.com/app/1603180/Mining_Mechs/
 { "name": "Mining Mechs.exe", "type": "Game" }
@@ -1266,12 +1256,6 @@
 { "name": "MotorSliceDemo.exe", "type": "Game" }
 { "name": "MotorSliceSteamDemo-Win64-Shipping.exe", "type": "Game" }
 
-# Motor Town: Behind The Wheel https://store.steampowered.com/app/1369670/Motor_Town_Behind_The_Wheel/
-
-
-# Motor Town: Behind The Wheel Beta Demo https://store.steampowered.com/app/1737040/Motor_Town_Behind_The_Wheel/
-{ "name": "MotorTown-Win64-Shipping.exe", "type": "Game" }
-
 # Mountain https://store.steampowered.com/app/313340/Mountain/
 { "name": "Mountain.exe", "type": "Game" }
 
@@ -1542,9 +1526,6 @@
 
 # My Summer Car https://store.steampowered.com/app/516750/My_Summer_Car/
 { "name": "mysummercar.exe", "type": "Game" }
-
-# Myth of Empires: Throne https://store.steampowered.com/app/4510830/Myth_of_Empires_Throne/
-{ "name": "MOE.exe", "type": "Game" }
 
 # My Time at Portia https://store.steampowered.com/app/666140/My_Time_at_Portia/
 { "name": "Portia.exe", "type": "Game" }

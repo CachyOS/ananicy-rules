@@ -26,10 +26,6 @@
 # Occupy Mars: The Game https://store.steampowered.com/app/758690/Occupy_Mars_The_Game/
 { "name": "OccupyMars.exe", "type": "Game" }
 
-# Ocean World: Eden Crafters Prologue https://store.steampowered.com/app/2811830/Ocean_World_Eden_Crafters_Prologue/
-{ "name": "EdenCrafters.exe", "type": "Game" }
-{ "name": "EdenCrafters32.exe", "type": "Game" }
-
 # Octodad: Dadliest Catch https://store.steampowered.com/app/224480/Octodad_Dadliest_Catch/
 { "name": "OctodadDadliestCatch.exe", "type": "Game" }
 { "name": "OctodadEditor.exe", "type": "Game" }
@@ -271,12 +267,6 @@
 
 # Operation: New Earth https://store.steampowered.com/app/528740/Operation_New_Earth/
 { "name": "OpNewEarth.exe", "type": "Game" }
-
-# Operation: Tango https://store.steampowered.com/app/1335790/Operation_Tango/
-
-
-# Operation: Tango - Demo https://store.steampowered.com/app/1377150/Operation_Tango__Friend_Pass/
-{ "name": "Operation Tango.exe", "type": "Game" }
 
 # Oppidum https://store.steampowered.com/app/2115760/Oppidum/
 { "name": "Oppidum.exe", "type": "Game" }

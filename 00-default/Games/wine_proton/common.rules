@@ -74,6 +74,14 @@
 # Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
 { "name": "ArmaReforgerSteam.exe", "type": "Game" }
 
+# Jusant https://store.steampowered.com/app/1977170/Jusant/
+# Formula Legends https://store.steampowered.com/app/3194360/Formula_Legends/
+{ "name": "ASC.exe", "type": "Game" }
+
+# Jusant https://store.steampowered.com/app/1977170/Jusant/
+# Formula Legends https://store.steampowered.com/app/3194360/Formula_Legends/
+{ "name": "ASC-Win64-Shipping.exe", "type": "Game" }
+
 # DRAGON BALL Z: KAKAROT https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
 # Airline Tycoon Deluxe https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 { "name": "AT.exe", "type": "Game" }
@@ -106,6 +114,10 @@
 # Batman: Arkham City - Game of the Year Edition https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/
 # Batman: Arkham City https://steamdb.info/app/57400/
 { "name": "BatmanAC.exe", "type": "Game" }
+
+# Metro Exodus Enhanced Edition https://store.steampowered.com/app/1449560/Metro_Exodus/
+# Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
+{ "name": "Benchmark.exe", "type": "Game" }
 
 # Football Manager Series
 # Football Manager 26 https://store.steampowered.com/app/3551340/Football_Manager_26/
@@ -174,6 +186,10 @@
 # Cataclismo https://store.steampowered.com/app/1422440/Cataclismo/
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
 { "name": "Castle.exe", "type": "Game" }
+
+# Poker Night at the Inventory https://store.steampowered.com/app/3897800/Poker_Night_at_the_Inventory/
+# Poker Night at the Inventory (2010 Original Version) https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
+{ "name": "CelebrityPoker.exe", "type": "Game" }
 
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
@@ -407,9 +423,19 @@
 # The Legend of Heroes: Kuro no Kiseki Ⅱ -CRIMSON SiN- https://store.steampowered.com/app/2113920/The_Legend_of_Heroes_Kuro_no_Kiseki_II_CRIMSON_SiN/
 { "name": "ed9.exe", "type": "Game" }
 
+# Ocean World: Eden Crafters Prologue https://store.steampowered.com/app/2811830/Ocean_World_Eden_Crafters_Prologue/
+# Eden Crafters https://store.steampowered.com/app/2570210/Eden_Crafters/
+{ "name": "EdenCrafters32.exe", "type": "Game" }
+
+# Eden Crafters https://store.steampowered.com/app/2570210/Eden_Crafters/
+# Ocean World: Eden Crafters Prologue https://store.steampowered.com/app/2811830/Ocean_World_Eden_Crafters_Prologue/
+{ "name": "EdenCrafters.exe", "type": "Game" }
+
 # Craft The World https://store.steampowered.com/app/248390/Craft_The_World/
 # Barony https://store.steampowered.com/app/371970/Barony/
 # Nebuchadnezzar https://store.steampowered.com/app/1157220/Nebuchadnezzar/
+# Football Manager 2024 Editor https://store.steampowered.com/app/2252590/
+# Football Manager 26 Pre-Game Editor https://store.steampowered.com/app/3551390/
 { "name": "editor.exe", "type": "Game" }
 
 # Enderal: Forgotten Stories (Special Edition) https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/
@@ -488,6 +514,10 @@
 # EA SPORTS FC 26 https://store.steampowered.com/app/3405690/EA_SPORTS_FC_26/
 { "name": "FC26_Trial.exe", "type": "Game" }
 
+# Fish https://store.steampowered.com/app/3073680/Fish/
+# Fish https://store.steampowered.com/app/3088770/Fish/
+{ "name": "Fish.exe", "type": "Game" }
+
 # Football Manager 26 https://store.steampowered.com/app/3551340/Football_Manager_26/
 # Football Manager 2024 https://store.steampowered.com/app/2252570/Football_Manager_2024/
 # Football Manager 2023 https://store.steampowered.com/app/1904540/Football_Manager_2023/
@@ -505,6 +535,12 @@
 # Football Manager 2015 https://store.steampowered.com/app/295270/
 # Football Manager 2016 https://store.steampowered.com/app/378120/
 # Football Manager 2018 https://store.steampowered.com/app/624090/
+# Football Manager 2009 https://store.steampowered.com/app/10540/
+# Football Manager 2010 https://store.steampowered.com/app/34000/
+# Football Manager 2011 https://store.steampowered.com/app/34220/Football_Manager_2011/
+# Football Manager 2012 https://store.steampowered.com/app/71270/
+# Football Manager 2013 https://store.steampowered.com/app/207890/
+# Football Manager 26 Demo https://store.steampowered.com/app/3551360/Football_Manager_26/
 { "name": "fm.exe", "type": "Game" }
 
 # Football Manager 26 https://store.steampowered.com/app/3551340/Football_Manager_26/
@@ -594,6 +630,7 @@
 # Zhèn xié Ⅱ 镇邪Ⅱ https://store.steampowered.com/app/3399780/HexBreaker_II/
 # Command & Conquer: Red Alert 2 and Yuri’s Revenge https://store.steampowered.com/app/2229850/Command__Conquer_Red_Alert_2_and_Yuris_Revenge/
 # Ratatan https://store.steampowered.com/app/2949320/Ratatan/
+# Idol Party 2 https://store.steampowered.com/app/3798230/Idol_Party_2__Love_Vibe/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -685,14 +722,37 @@
 # Daemon X Machina: Titanic Scion https://store.steampowered.com/app/1342490/Daemon_X_Machina_Titanic_Scion/
 # Embers of the Gods https://store.steampowered.com/app/4513840/Embers_of_the_Gods/
 # Exposed Livestream https://store.steampowered.com/app/3304770/Exposed_Livestream/
+# Jackpot Crash Course https://store.steampowered.com/app/3639010/Jackpot_Crash_Course/
+# GodsArena Online https://store.steampowered.com/app/3754990/GodsArena_Online/
+# Fear & Hunger 2: Termina https://store.steampowered.com/app/2171440/
 { "name": "Game.exe", "type": "Game" }
 
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
 { "name": "GameLauncher.exe", "type": "Game" }
 
+# GameMaker https://store.steampowered.com/app/1670460/GameMaker/
+# GameMaker Studio 2 Desktop https://store.steampowered.com/app/585410/Unsupported_GameMaker_Studio_2_Desktop/
+{ "name": "GameMaker.exe", "type": "Game" }
+
+# Game of Thrones Kingsroad https://store.steampowered.com/app/4214820/
+# Game of Thrones: Kingsroad https://store.steampowered.com/app/3183280/Game_of_Thrones_Kingsroad/
+{ "name": "GameOfThrones-Kingsroad.exe", "type": "Game" }
+
+# Granblue Fantasy Versus: Rising https://store.steampowered.com/app/2157560/Granblue_Fantasy_Versus_Rising/
+# Granblue Fantasy Versus: Rising Free Edition https://store.steampowered.com/app/2667960/Granblue_Fantasy_Versus_Rising_Free_Edition/
+{ "name": "GBVSR.exe", "type": "Game" }
+
+# Granblue Fantasy Versus: Rising https://store.steampowered.com/app/2157560/Granblue_Fantasy_Versus_Rising/
+# Granblue Fantasy Versus: Rising Free Edition https://store.steampowered.com/app/2667960/Granblue_Fantasy_Versus_Rising_Free_Edition/
+{ "name": "GBVSR-Win64-Shipping.exe", "type": "Game" }
+
 # Command & Conquer Generals Zero Hour https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/
 # Command & Conquer: Generals https://store.steampowered.com/app/2229870/Command__Conquer_Generals/
 { "name": "Generals.exe", "type": "Game" }
+
+# GIRLS' FRONTLINE 2: EXILIUM https://store.steampowered.com/app/3308670/
+# GIRLS' FRONTLINE 2: EXILIUM https://store.steampowered.com/app/3347400/GIRLS_FRONTLINE_2_EXILIUM/
+{ "name": "GF2_Exilium.exe", "type": "Game" }
 
 # Green Hell https://store.steampowered.com/app/815370/Green_Hell/
 # Gloomhaven https://store.steampowered.com/app/780290/Gloomhaven/
@@ -705,6 +765,10 @@
 # Xuan-Yuan Sword: The Scar of Sky https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/
 # SpongeBob SquarePants: Titans of the Tide https://store.steampowered.com/app/2479650/SpongeBob_SquarePants_Titans_of_the_Tide/
 { "name": "Ghost.exe", "type": "Game" }
+
+# Gladio Mori Demo https://store.steampowered.com/app/2908480/Gladio_Mori/
+# Gladio Mori https://store.steampowered.com/app/2689120/Gladio_Mori/
+{ "name": "Gladio Mori.exe", "type": "Game" }
 
 # The Incredible Adventures of Van Helsing: Final Cut https://store.steampowered.com/app/400170/The_Incredible_Adventures_of_Van_Helsing_Final_Cut/
 # The Incredible Adventures of Van Helsing https://store.steampowered.com/app/215530/The_Incredible_Adventures_of_Van_Helsing/
@@ -739,6 +803,14 @@
 # Heroes of Might & Magic V: Hammers of Fate https://store.steampowered.com/app/15380/Heroes_of_Might__Magic_V_Hammers_of_Fate/
 { "name": "H5_MapEditor.exe", "type": "Game" }
 
+# Half Sword Demo https://store.steampowered.com/app/2642680/Half_Sword/
+# Half Sword https://store.steampowered.com/app/2397300/Half_Sword/
+{ "name": "HalfSwordUE5.exe", "type": "Game" }
+
+# Half Sword https://store.steampowered.com/app/2397300/Half_Sword/
+# Half Sword Demo https://store.steampowered.com/app/2642680/Half_Sword/
+{ "name": "HalfSwordUE5-Win64-Shipping.exe", "type": "Game" }
+
 # Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
 # Source SDK Base tools
 # Hammer map editor
@@ -755,12 +827,21 @@
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
 # Hello Neighbor Alpha 1 https://store.steampowered.com/app/1092710/Hello_Neighbor_Alpha_1/
 # Hello Neighbor Alpha 4 https://store.steampowered.com/app/1096710/Hello_Neighbor_Alpha_4/
+# Hello Neighbor Alpha 2 https://store.steampowered.com/app/1092720/Hello_Neighbor_Alpha_2/
 { "name": "HelloNeighborReborn.exe", "type": "Game" }
 
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
 # Hello Neighbor Alpha 1 https://store.steampowered.com/app/1092710/Hello_Neighbor_Alpha_1/
 # Hello Neighbor Alpha 4 https://store.steampowered.com/app/1096710/Hello_Neighbor_Alpha_4/
 { "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
+
+# Heretic: Shadow of the Serpent Riders https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/
+# Heretic + Hexen https://store.steampowered.com/app/3286930/
+{ "name": "HERETIC.EXE", "type": "Game" }
+
+# HITMAN WOA Free Demo https://store.steampowered.com/app/1847520/
+# HITMAN World of Assassination https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
+{ "name": "HITMAN3.exe", "type": "Game" }
 
 # Fistful of Frags https://store.steampowered.com/app/265630/Fistful_of_Frags/
 # General rule for some Source-based mods, like Fortress Forever, Entropy: Zero, etc.
@@ -773,6 +854,7 @@
 # Entropy : Zero 2 https://store.steampowered.com/app/1583720/Entropy__Zero_2/
 # Half-Life 2: Update https://store.steampowered.com/app/290930/HalfLife_2_Update/
 # Portal with RTX https://store.steampowered.com/app/2012840/Portal_with_RTX/
+# Half-Life 2: VR Mod https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/
 { "name": "hl2.exe", "type": "Game" }
 
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
@@ -852,6 +934,10 @@
 # Age of History II Definitive Edition https://store.steampowered.com/app/3381680/Age_of_History_2_Definitive_Edition/
 { "name": "javaws.exe", "type": "Game" }
 
+# Jigsaw Puzzle Dreams https://store.steampowered.com/app/1653970/Jigsaw_Puzzle_Dreams/
+# Jigsaw Puzzles Infinite https://store.steampowered.com/app/1946140/Jigsaw_Puzzles_Infinite/
+{ "name": "Jigsaw.exe", "type": "Game" }
+
 # Cavern Adventurers https://store.steampowered.com/app/2848360/Cavern_Adventurers/
 # Dungeon Village 2 https://store.steampowered.com/app/1983710/Dungeon_Village_2/
 # High Sea Saga DX https://store.steampowered.com/app/2431880/High_Sea_Saga_DX/
@@ -880,6 +966,10 @@
 # Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
 { "name": "Kingdom.exe", "type": "Game" }
 
+# LAST CLOUDIA https://store.steampowered.com/app/1687670/
+# LastCloudiaTc https://steamdb.info/app/1499560/
+{ "name": "LastCloudia.exe", "type": "Game" }
+
 # DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
 { "name": "Launch_EA.exe", "type": "Game" }
 
@@ -894,6 +984,8 @@
 # Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
 # Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
 # Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
+# Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
+# GLORY DESTINY - REBORN 晴空物語 https://store.steampowered.com/app/3352180/GLORY_DESTINY__REBORN/
 { "name": "launcher.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
@@ -923,6 +1015,8 @@
 # Shadow Empire https://store.steampowered.com/app/1154840/Shadow_Empire/
 # Sword of Convallaria https://store.steampowered.com/app/2526380/Sword_of_Convallaria/
 # Caribbean Legend: Age of Pirates https://store.steampowered.com/app/3549020/Caribbean_Legend_Age_of_Pirates/
+# Life is Feudal: Arden https://store.steampowered.com/app/3285700/Life_is_Feudal_Arden/
+# Grand Fantasia：ORIGIN https://store.steampowered.com/app/3010230/Grand_Fantasia__ORIGIN/
 { "name": "Launcher.exe", "type": "Game" }
 
 # Closers https://store.steampowered.com/app/215830/Closers/
@@ -958,6 +1052,10 @@
 # Sānguó qúnyīng chuán 5 三国群英传5 https://store.steampowered.com/app/1437860/Heroes_of_the_Three_Kingdoms_5/
 # Sānguó qúnyīng chuán 6 三国群英传6 https://store.steampowered.com/app/1437870/Heroes_of_the_Three_Kingdoms_6/
 { "name": "LaunchSango.exe", "type": "Game" }
+
+# Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
+# Left 4 Dead https://store.steampowered.com/app/500/Left_4_Dead/
+{ "name": "left4dead.exe", "type": "Game" }
 
 # Xué yuán gòuxiǎng jiā Demo 学园构想家 Demo https://store.steampowered.com/app/2259970/Lets_School/
 # Let's School https://store.steampowered.com/app/1937500/Lets_School/
@@ -1011,9 +1109,17 @@
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 { "name": "metro.exe", "type": "Game" }
 
+# Metro Exodus Enhanced Edition https://store.steampowered.com/app/1449560/Metro_Exodus/
+# Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
+{ "name": "MetroExodus.exe", "type": "Game" }
+
 # 14 Minesweeper Variants https://store.steampowered.com/app/1865060/14_Minesweeper_Variants/
 # 14 Minesweeper Variants 2 https://store.steampowered.com/app/2631960/14_Minesweeper_Variants_2/
 { "name": "MineVar.exe", "type": "Game" }
+
+# Mining https://store.steampowered.com/app/3347520/Mining/
+# Hydroneer https://store.steampowered.com/app/1106840/Hydroneer/
+{ "name": "Mining.exe", "type": "Game" }
 
 # Motorsport Manager https://store.steampowered.com/app/415200/Motorsport_Manager/
 # Promise Mascot Agency https://store.steampowered.com/app/2585830/Promise_Mascot_Agency/
@@ -1021,11 +1127,16 @@
 
 # Myth of Empires https://store.steampowered.com/app/1371580/Myth_of_Empires/
 # March of Empires https://store.steampowered.com/app/702320/March_of_Empires/
+# Myth of Empires: Throne https://store.steampowered.com/app/4510830/Myth_of_Empires_Throne/
 { "name": "MOE.exe", "type": "Game" }
 
 # MorphVOX Pro 4 - Voice Changer https://store.steampowered.com/app/269470/MorphVOX_Pro_4__Voice_Changer_Old/
 # MorphVOX Pro 5 - Voice Changer https://store.steampowered.com/app/1529570/MorphVOX_Pro_5__Voice_Changer/
 { "name": "MorphVOXPro.exe", "type": "Game" }
+
+# Motor Town: Behind The Wheel https://store.steampowered.com/app/1369670/Motor_Town_Behind_The_Wheel/
+# Motor Town: Behind The Wheel Beta Demo https://store.steampowered.com/app/1737040/Motor_Town_Behind_The_Wheel/
+{ "name": "MotorTown-Win64-Shipping.exe", "type": "Game" }
 
 # MechWarrior Online Legends https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
 # MechWarrior Online Solaris 7 https://store.steampowered.com/app/342200/MechWarrior_Online_Legends/
@@ -1075,6 +1186,10 @@
 # fēng líng dàng àn 封灵档案 https://store.steampowered.com/app/1520470/Soul_Dossier/
 { "name": "NotesOfSoul-Win64-Shipping.exe", "type": "Game" }
 
+# Nova Roma https://store.steampowered.com/app/2426530/Nova_Roma/
+# Nova Roma Demo https://store.steampowered.com/app/2426560/Nova_Roma_Demo/
+{ "name": "NovaRoma.exe", "type": "Game" }
+
 # Aviary Attorney https://store.steampowered.com/app/384630/Aviary_Attorney/
 # Angvik https://store.steampowered.com/app/278890/Angvik/
 # Ghostly Matter https://store.steampowered.com/app/800240/Ghostly_Matter/
@@ -1088,6 +1203,7 @@
 # Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
 # Sentience: The Android's Tale https://store.steampowered.com/app/635850/Sentience_The_Androids_Tale/
 # Crown Champion: Legends of the Arena https://store.steampowered.com/app/527710/Crown_Champion_Legends_of_the_Arena/
+# Karryn's Prison https://store.steampowered.com/app/1619750/
 { "name": "nw.exe", "type": "Game" }
 
 # Vindictus https://store.steampowered.com/app/212160/Vindictus/
@@ -1106,6 +1222,10 @@
 # Obscure https://store.steampowered.com/app/254460/Obscure/
 { "name": "Obscure.exe", "type": "Game" }
 
+# Operation: Tango https://store.steampowered.com/app/1335790/Operation_Tango/
+# Operation: Tango - Demo https://store.steampowered.com/app/1377150/Operation_Tango__Friend_Pass/
+{ "name": "Operation Tango.exe", "type": "Game" }
+
 # OPERATOR https://store.steampowered.com/app/1913370/OPERATOR/
 # The Operator https://store.steampowered.com/app/1771980/The_Operator/
 { "name": "OPERATOR.exe", "type": "Game" }
@@ -1114,6 +1234,10 @@
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
 { "name": "Overlord.exe", "type": "Game" }
 
+# Persona 3 Reload https://store.steampowered.com/app/2161700/Persona_3_Reload/
+# Persona 3 Reload Demo https://store.steampowered.com/app/3358440/Persona_3_Reload_Demo/
+{ "name": "P3R.exe", "type": "Game" }
+
 # ARCADE GAME SERIES: PAC-MAN https://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/
 # PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
@@ -1121,6 +1245,10 @@
 # Dead as Disco Demo https://store.steampowered.com/app/3763830/Dead_as_Disco_Demo/
 # Dead as Disco https://store.steampowered.com/app/3404260/Dead_as_Disco/
 { "name": "Pagoda.exe", "type": "Game" }
+
+# Pantheon: Rise of the Fallen https://store.steampowered.com/app/3107230/Pantheon_Rise_of_the_Fallen/
+# Pantheon: Rise of the Fallen (Public Test Realm) https://store.steampowered.com/app/4709660/Pantheon_Rise_of_the_Fallen/
+{ "name": "Pantheon.exe", "type": "Game" }
 
 # Defiance https://store.steampowered.com/app/224600/Defiance/
 # BlackShot: Mercenary Warfare FPS https://store.steampowered.com/app/433350/BlackShot_Mercenary_Warfare_FPS/
@@ -1158,6 +1286,7 @@
 # Pro Cycling Manager 2022 https://store.steampowered.com/app/1767560/Pro_Cycling_Manager_2022/
 # Pro Cycling Manager 2023 https://store.steampowered.com/app/2063610/Pro_Cycling_Manager_2023/
 # Pro Cycling Manager 2024 https://store.steampowered.com/app/2494350/Pro_Cycling_Manager_2024/
+# Pro Cycling Manager 2018 https://store.steampowered.com/app/704230/Pro_Cycling_Manager_2018/
 { "name": "PCM64.exe", "type": "Game" }
 
 # Penumbra: Black Plague Gold Edition https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
@@ -1213,6 +1342,10 @@
 # Primal Carnage https://store.steampowered.com/app/215470/Primal_Carnage/
 { "name": "PrimalCarnageGame.exe", "type": "Game" }
 
+# Game of Thrones: Kingsroad https://store.steampowered.com/app/3183280/Game_of_Thrones_Kingsroad/
+# Game of Thrones Kingsroad https://store.steampowered.com/app/4214820/
+{ "name": "ProjectT-Win64-Shipping.exe", "type": "Game" }
+
 # Puroyagu supirittsu 2024 - 2025 プロ野球スピリッツ2024-2025 https://store.steampowered.com/app/2051010/
 # eBaseball: PRO SPIRIT https://store.steampowered.com/app/4128400/eBaseball_PRO_SPIRIT/
 { "name": "prospi.exe", "type": "Game" }
@@ -1224,6 +1357,11 @@
 # Mega Man Legacy Collection https://store.steampowered.com/app/363440/Mega_Man_Legacy_Collection/
 # Proteus https://store.steampowered.com/app/219680/Proteus/
 { "name": "Proteus.exe", "type": "Game" }
+
+# Ragnarok X: Next Generation https://store.steampowered.com/app/4279820/
+# Ragnarok X: Next Generation EU https://store.steampowered.com/app/4073870/
+# Ragnarok X: Next Generation (otherversion) https://store.steampowered.com/app/4007140/
+{ "name": "Ragnarok X.exe", "type": "Game" }
 
 # Tom Clancy's Rainbow Six Siege - Test Server https://store.steampowered.com/app/623990/
 # Tom Clancy's Rainbow Six Siege https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
@@ -1237,6 +1375,10 @@
 # Red Dead Online https://store.steampowered.com/app/1404210/Red_Dead_Online/
 { "name": "RDR2.exe", "type": "Game" }
 
+# REANIMAL https://store.steampowered.com/app/2129530/REANIMAL/
+# REANIMAL Demo https://store.steampowered.com/app/4019420/
+{ "name": "REANIMAL.exe", "type": "Game" }
+
 # Cyberpunk 2077 https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 # GWENT: The Witcher Card Game https://store.steampowered.com/app/1284410/GWENT_The_Witcher_Card_Game/
 { "name": "REDprelauncher.exe", "type": "BG_CPUIO" }
@@ -1247,9 +1389,22 @@
 # Company of Heroes: Tales of Valor https://store.steampowered.com/app/20540/Company_of_Heroes_Tales_of_Valor/
 { "name": "RelicCOH.exe", "type": "Game"}
 
+# REPLACED https://store.steampowered.com/app/1663850/REPLACED/
+# REPLACED Demo https://store.steampowered.com/app/4261860/REPLACED_Demo/
+{ "name": "Replaced.exe", "type": "Game" }
+
 # Penumbra: Black Plague Gold Edition https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
 # Penumbra: Requiem https://store.steampowered.com/app/22140/Penumbra_Requiem/
+# Requiem https://store.steampowered.com/app/289780/Requiem_Desiderium_Mortis/
 { "name": "Requiem.exe", "type": "Game" }
+
+# Retro Rewind - Video Store Simulator https://store.steampowered.com/app/3552140/Retro_Rewind__Video_Store_Simulator/
+# Retro Rewind - Video Store Simulator Demo https://store.steampowered.com/app/3858710/Retro_Rewind__Video_Store_Simulator_Demo/
+{ "name": "RetroRewind.exe", "type": "Game" }
+
+# Retro Rewind - Video Store Simulator https://store.steampowered.com/app/3552140/Retro_Rewind__Video_Store_Simulator/
+# Retro Rewind - Video Store Simulator Demo https://store.steampowered.com/app/3858710/Retro_Rewind__Video_Store_Simulator_Demo/
+{ "name": "RetroRewind-Win64-Shipping.exe", "type": "Game" }
 
 # RV There Yet? https://store.steampowered.com/app/3949040/RV_There_Yet/
 # RIDE https://store.steampowered.com/app/345660/RIDE/
@@ -1266,6 +1421,15 @@
 # RONIN https://store.steampowered.com/app/274230/RONIN/
 # Rise of the Ronin https://store.steampowered.com/app/1340990/Rise_of_the_Ronin/
 { "name": "Ronin.exe", "type": "Game" }
+
+# Ragnarok X: Next Generation https://store.steampowered.com/app/4279820/
+# Ragnarok X: Next Generation EU https://store.steampowered.com/app/4073870/
+# Ragnarok X: Next Generation (otherversion) https://store.steampowered.com/app/4007140/
+{ "name": "rox.exe", "type": "Game" }
+
+# Road to Vostok https://store.steampowered.com/app/1963610/Road_to_Vostok/
+# Road to Vostok Demo https://store.steampowered.com/app/2141300/Road_to_Vostok/
+{ "name": "RTV.exe", "type": "Game" }
 
 # Call of Duty: WWII - Multiplayer https://store.steampowered.com/app/476620/
 # Call of Duty: WWII https://store.steampowered.com/app/476600/Call_of_Duty_WWII/
@@ -1377,6 +1541,7 @@
 
 # Supremacy: 1914 https://store.steampowered.com/app/979920/Supremacy_1914/
 # Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
+# Nocturnal Quest: An Idle RPG Adventure https://store.steampowered.com/app/2330930/Nocturnal_Quest_An_Idle_RPG_Adventure/
 { "name": "Squirrel.exe", "type": "Game" }
 
 # Synergy Dedicated Server https://store.steampowered.com/app/17525/
@@ -1384,6 +1549,7 @@
 # Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
 # Synergy https://store.steampowered.com/app/17520/Synergy/
 # Dino D-Day - Dedicated Server https://store.steampowered.com/app/70010/
+# Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
 { "name": "srcds.exe", "type": "Service" }
 
 # Offworld Trading Company https://store.steampowered.com/app/271240/Offworld_Trading_Company/
@@ -1398,6 +1564,7 @@
 # Power & Revolution 2023 Edition https://store.steampowered.com/app/2392520/Power__Revolution_2023_Edition/
 # Power & Revolution 2022 Edition https://store.steampowered.com/app/1823600/Power__Revolution_2022_Edition/
 # Geo-Political Simulator 5 https://store.steampowered.com/app/3107770/GeoPolitical_Simulator_5/
+# Geo-Political Simulator 2026 Edition https://store.steampowered.com/app/4021780/GeoPolitical_Simulator_2026_Edition/
 { "name": "_start.exe", "type": "Game" }
 
 # DRAGON BALL XENOVERSE 2 https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
@@ -1510,6 +1677,14 @@
 # A Tower Full of Cats https://store.steampowered.com/app/2179170/A_Tower_Full_of_Cats/
 # Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
 { "name": "Tower.exe", "type": "Game" }
+
+# Journey To The Savage Planet https://store.steampowered.com/app/973810/Journey_To_The_Savage_Planet/
+# Revenge of the Savage Planet https://store.steampowered.com/app/2787320/Revenge_of_the_Savage_Planet/
+{ "name": "Towers.exe", "type": "Game" }
+
+# Journey To The Savage Planet https://store.steampowered.com/app/973810/Journey_To_The_Savage_Planet/
+# Revenge of the Savage Planet https://store.steampowered.com/app/2787320/Revenge_of_the_Savage_Planet/
+{ "name": "Towers-Win64-Shipping.exe", "type": "Game" }
 
 # Train Sim World 4 https://store.steampowered.com/app/2362300/Train_Sim_World_4/
 # Train Sim World 5 https://store.steampowered.com/app/2967990/Train_Sim_World_5/
@@ -1808,3 +1983,5 @@
 { "name": "vc_redist.arm64.exe", "type": "BG_CPUIO" }
 { "name": "EpicOnlineServicesInstaller.exe", "type": "BG_CPUIO" }
 { "name": "UE3Redist.exe", "type": "BG_CPUIO" }
+
+# FiveM (Shared depot to Steamworks Common Redistributables(228980)) https://store.steampowered.com/app/2676230/

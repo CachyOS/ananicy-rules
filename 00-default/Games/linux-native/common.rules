@@ -307,7 +307,8 @@
 # Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
 # Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
 # Synergy https://store.steampowered.com/app/17520/Synergy/
-{ "name": "srcds_linux", "type": "Game" }
+# Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
+{ "name": "srcds_linux", "type": "Service" }
 
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
@@ -317,7 +318,8 @@
 # Zombie Panic! Source Dedicated Server https://store.steampowered.com/app/17505/
 # Counter-Strike Global Offensive - Dedicated Server https://store.steampowered.com/app/740/
 # Synergy https://store.steampowered.com/app/17520/Synergy/
-{ "name": "srcds_run", "type": "Game" }
+# Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
+{ "name": "srcds_run", "type": "Service" }
 
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 # Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
