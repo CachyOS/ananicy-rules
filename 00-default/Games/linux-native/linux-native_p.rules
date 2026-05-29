@@ -71,6 +71,9 @@
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
 { "name": "payday2_release", "type": "Game" }
 
+# Peach https://store.steampowered.com/app/3060080/Peach/
+{ "name": "Peach.x86_64", "type": "Game" }
+
 # Penumbra: Black Plague Gold Edition https://store.steampowered.com/app/22120/Penumbra_Black_Plague_Gold_Edition/
 { "name": "blackplague", "type": "Game" }
 
@@ -229,6 +232,3 @@
 
 # PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
 { "name": "pyramidlauncher", "type": "Game" }
-
-# Peach https://store.steampowered.com/app/3060080/Peach/
-{ "name": "Peach.x86_64", "type": "Game" }

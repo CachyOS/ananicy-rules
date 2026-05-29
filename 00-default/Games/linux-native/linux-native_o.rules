@@ -27,6 +27,9 @@
 # Old World https://store.steampowered.com/app/597180/Old_World/
 { "name": "OldWorld", "type": "Game" }
 
+# OMON Simulator https://store.steampowered.com/app/1140440/OMON_Simulator/
+{ "name": "OMON_Simulator.x86_64", "type": "Game" }
+
 # OneShot https://store.steampowered.com/app/420530/OneShot/
 { "name": "oneshot", "type": "Game" }
 
@@ -101,6 +104,3 @@
 
 # Oxygen Not Included https://store.steampowered.com/app/457140/Oxygen_Not_Included/
 { "name": "OxygenNotIncluded", "type": "Game" }
-
-# OMON Simulator https://store.steampowered.com/app/1140440/OMON_Simulator/
-{ "name": "OMON_Simulator.x86_64", "type": "Game" }

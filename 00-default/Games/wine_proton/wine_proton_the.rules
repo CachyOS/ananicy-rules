@@ -695,6 +695,9 @@
 # The Messenger https://store.steampowered.com/app/764790/The_Messenger/
 { "name": "TheMessenger.exe", "type": "Game" }
 
+# The Meter is Running https://store.steampowered.com/app/4333460/The_Meter_is_Running/
+{ "name": "TMiR.exe", "type": "Game" }
+
 # The Midnight Walk https://store.steampowered.com/app/2863640/The_Midnight_Walk/
 { "name": "TheMidnightWalk.exe", "type": "Game" }
 { "name": "TheMidnightWalk-Win64-Shipping.exe", "type": "Game" }
@@ -936,9 +939,6 @@
 
 # The Surge 2 https://store.steampowered.com/app/644830/The_Surge_2/
 { "name": "TheSurge2.exe", "type": "Game" }
-
-# The Meter is Running https://store.steampowered.com/app/4333460/The_Meter_is_Running/
-{ "name": "TMiR.exe", "type": "Game" }
 
 # The Survivalists https://store.steampowered.com/app/897450/The_Survivalists/
 { "name": "The Survivalists.exe", "type": "Game" }

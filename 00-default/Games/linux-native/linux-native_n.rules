@@ -49,9 +49,6 @@
 { "name": "Night in the Woods.x86_64", "type": "Game" }
 { "name": "Night in the Woods.x86", "type": "Game" }
 
-# Not A Banana: Capybara https://store.steampowered.com/app/3097670/Not_A_Banana_Capybara/
-{ "name": "Not A Banana.x86_64", "type": "Game" }
-
 # Nightmares from the Deep: The Cursed Heart https://store.steampowered.com/app/259740/Nightmares_from_the_Deep_The_Cursed_Heart/
 { "name": "NightmaresFromTheDeep_TheCursedHeart_amd64", "type": "Game" }
 { "name": "NightmaresFromTheDeep_TheCursedHeart_i386", "type": "Game" }
@@ -73,6 +70,9 @@
 
 # Nordic Ashes: Survivors of Ragnarok https://store.steampowered.com/app/2068280/Nordic_Ashes_Survivors_of_Ragnarok/
 { "name": "NordicAshes.x86_64", "type": "Game" }
+
+# Not A Banana: Capybara https://store.steampowered.com/app/3097670/Not_A_Banana_Capybara/
+{ "name": "Not A Banana.x86_64", "type": "Game" }
 
 # No Time https://store.steampowered.com/app/1043340/No_Time/
 { "name": "NoTime64.x86_64", "type": "Game" }

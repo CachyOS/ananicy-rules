@@ -45,6 +45,9 @@
 # Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
 { "name": "SR2_pc.exe", "type": "Game" }
 
+# Saints Row: Gat out of Hell https://store.steampowered.com/app/301910/Saints_Row_Gat_out_of_Hell/
+{ "name": "SaintsRowGatOutOfHell.exe", "type": "Game" }
+
 # Saints Row IV Inauguration Station https://store.steampowered.com/app/242590/
 { "name": "SaintsRowIV_InaugurationStation.exe", "type": "Game" }
 
@@ -254,6 +257,9 @@
 # School Labyrinth https://store.steampowered.com/app/2423300/School_Labyrinth/
 { "name": "UI_Test.exe", "type": "Game" }
 { "name": "UI_Test-Win64-Shipping.exe", "type": "Game" }
+
+# Schrodinger's Cat Burglar https://store.steampowered.com/app/2111550/Schrodingers_Cat_Burglar/
+{ "name": "SCB.exe", "type": "Game" }
 
 # Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
 { "name": "YGOnline.exe", "type": "Game" }
@@ -1137,6 +1143,9 @@
 # Slime Rancher 2 https://store.steampowered.com/app/1657630/Slime_Rancher_2/
 { "name": "SlimeRancher2.exe", "type": "Game" }
 
+# SlimeVR https://store.steampowered.com/app/3245490/SlimeVR/
+{ "name": "SlimeVR.exe", "type": "Game" }
+
 # Slimeward https://store.steampowered.com/app/3913270/Slimeward/
 { "name": "SlimeWard.exe", "type": "Game" }
 
@@ -2012,6 +2021,12 @@
 # Stationeers https://store.steampowered.com/app/544550/Stationeers/
 { "name": "rocketstation.exe", "type": "Game" }
 
+# Staxel https://store.steampowered.com/app/405710/Staxel/
+{ "name": "Staxel.ModManager.exe", "type": "Game" }
+{ "name": "StaxelCE.exe", "type": "Game" }
+{ "name": "Staxel.SteamLauncher.exe", "type": "Game" }
+{ "name": "Staxel.ServerWizard.exe", "type": "Game" }
+
 # Stay Out https://store.steampowered.com/app/1180380/Stay_Out/
 { "name": "sogame.exe", "type": "Game" }
 { "name": "sogame.host.exe", "type": "Game" }
@@ -2757,21 +2772,6 @@
 
 # SYNTHETIK Arena https://store.steampowered.com/app/984110/SYNTHETIK_Arena/
 { "name": "SYNTHETIK Arena.exe", "type": "Game" }
-
-# Saints Row: Gat out of Hell https://store.steampowered.com/app/301910/Saints_Row_Gat_out_of_Hell/
-{ "name": "SaintsRowGatOutOfHell.exe", "type": "Game" }
-
-# Schrodinger's Cat Burglar https://store.steampowered.com/app/2111550/Schrodingers_Cat_Burglar/
-{ "name": "SCB.exe", "type": "Game" }
-
-# SlimeVR https://store.steampowered.com/app/3245490/SlimeVR/
-{ "name": "SlimeVR.exe", "type": "Game" }
-
-# Staxel https://store.steampowered.com/app/405710/Staxel/
-{ "name": "Staxel.ModManager.exe", "type": "Game" }
-{ "name": "StaxelCE.exe", "type": "Game" }
-{ "name": "Staxel.SteamLauncher.exe", "type": "Game" }
-{ "name": "Staxel.ServerWizard.exe", "type": "Game" }
 
 # SYNTHETIK: Legion Rising https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/
 { "name": "SYNTHETIK.exe", "type": "Game" }

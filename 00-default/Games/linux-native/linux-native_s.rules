@@ -9,6 +9,9 @@
 { "name": "saintsrow2", "type": "Game" }
 { "name": "saintsrow2.i386", "type": "Game" }
 
+# Saints Row: Gat out of Hell https://store.steampowered.com/app/301910/Saints_Row_Gat_out_of_Hell/
+{ "name": "saintsrowgooh", "type": "Game" }
+
 # Saints Row IV: Re-Elected http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
 { "name": "SaintsRow4.i386", "type": "Game" }
 
@@ -52,6 +55,9 @@
 
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow", "type": "Game" }
+
+# Schrodinger's Cat Burglar https://store.steampowered.com/app/2111550/Schrodingers_Cat_Burglar/
+{ "name": "SCB_Linux.x86_64", "type": "Game" }
 
 # ScourgeBringer https://store.steampowered.com/app/1037020/ScourgeBringer/
 { "name": "ScourgeBringer", "type": "Game" }
@@ -274,6 +280,9 @@
 { "name": "SlimeRancher.x86", "type": "Game" }
 { "name": "SlimeRancher.x86_64", "type": "Game" }
 
+# SlimeVR https://store.steampowered.com/app/3245490/SlimeVR/
+{ "name": "slimevr", "type": "Game" }
+
 # Small World https://store.steampowered.com/app/235620/Small_World/
 { "name": "Small World 2", "type": "Game" }
 
@@ -416,6 +425,9 @@
 # STAR WARS Knights of the Old Republic II - The Sith Lords https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/
 { "name": "KOTOR2", "type": "Game" }
 
+# Staxel https://store.steampowered.com/app/405710/Staxel/
+{ "name": "StaxelCE", "type": "Game" }
+
 # SteamWorld Dig https://store.steampowered.com/app/252410/SteamWorld_Dig/
 { "name": "SteamWorldDig", "type": "Game" }
 
@@ -546,18 +558,6 @@
 
 # Sword of the Stars: The Pit https://store.steampowered.com/app/233700/Sword_of_the_Stars_The_Pit/
 { "name": "ThePit", "type": "Game" }
-
-# Saints Row: Gat out of Hell https://store.steampowered.com/app/301910/Saints_Row_Gat_out_of_Hell/
-{ "name": "saintsrowgooh", "type": "Game" }
-
-# Schrodinger's Cat Burglar https://store.steampowered.com/app/2111550/Schrodingers_Cat_Burglar/
-{ "name": "SCB_Linux.x86_64", "type": "Game" }
-
-# SlimeVR https://store.steampowered.com/app/3245490/SlimeVR/
-{ "name": "slimevr", "type": "Game" }
-
-# Staxel https://store.steampowered.com/app/405710/Staxel/
-{ "name": "StaxelCE", "type": "Game" }
 
 # Symphony https://store.steampowered.com/app/207750/Symphony/
 { "name": "Symphony.bin.x86", "type": "Game" }

@@ -57,9 +57,6 @@
 { "name": "TheDeer.x86", "type": "Game" }
 { "name": "TheDeer.x86_64", "type": "Game" }
 
-# The Meter is Running https://store.steampowered.com/app/4333460/The_Meter_is_Running/
-{ "name": "TMiR", "type": "Game" }
-
 # The Dishwasher: Vampire Smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
 { "name": "VampireSmile", "type": "Game" }
 
@@ -174,6 +171,9 @@
 
 # The Mean Greens - Plastic Warfare https://store.steampowered.com/app/360940/The_Mean_Greens__Plastic_Warfare/
 { "name": "TheMeanGreens-Linux-Shipping", "type": "Game" }
+
+# The Meter is Running https://store.steampowered.com/app/4333460/The_Meter_is_Running/
+{ "name": "TMiR", "type": "Game" }
 
 # The Mooseman https://store.steampowered.com/app/574310/The_Mooseman/
 { "name": "Mooseman.x86", "type": "Game" }

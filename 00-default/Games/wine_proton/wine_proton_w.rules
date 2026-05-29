@@ -33,6 +33,9 @@
 { "name": "WallpaperAliveMenu.exe", "type": "BG_CPUIO" }
 { "name": "WallpaperAlive.exe", "type": "BG_CPUIO" }
 
+# Wallpaper Animator Demo https://store.steampowered.com/app/4671870/
+{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
+
 # Wallpaper Engine https://store.steampowered.com/app/431960/Wallpaper_Engine/
 { "name": "wallpaper64.exe", "type": "BG_CPUIO" }
 
@@ -613,13 +616,6 @@
 # Wizard And Minion Idle https://store.steampowered.com/app/1011510/Wizard_And_Minion_Idle/
 { "name": "Wizard and Minion Idle.exe", "type": "Game" }
 
-# Wallpaper Animator Demo https://store.steampowered.com/app/4671870/
-{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
-
-# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
-{ "name": "WreckRunners.exe", "type": "Game" }
-{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
-
 # Wizard of Legend https://store.steampowered.com/app/445980/Wizard_of_Legend/
 { "name": "WizardOfLegend.exe", "type": "Game" }
 
@@ -853,6 +849,10 @@
 
 # Wreckfest 2 https://store.steampowered.com/app/1203190/Wreckfest_2/
 { "name": "Wreckfest2.exe", "type": "Game" }
+
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+{ "name": "WreckRunners.exe", "type": "Game" }
+{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
 
 # Wrestling Empire https://store.steampowered.com/app/1620340/Wrestling_Empire/
 { "name": "WrestlingEmpireModLauncher.exe", "type": "Game" }
