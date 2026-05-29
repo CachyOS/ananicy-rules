@@ -283,6 +283,9 @@
 # PAYDAY The Heist https://store.steampowered.com/app/24240/PAYDAY_The_Heist/
 { "name": "payday_win32_release.exe", "type": "Game" }
 
+# PCBox, Emulator of PC-based machines based on 86Box via wine for SDL2 mouse keys https://pcbox-emu.xyz/
+{ "name": "PCBox.exe", "type": "Game" }
+
 # PC Building Simulator https://store.steampowered.com/app/621060/PC_Building_Simulator/
 { "name": "PCBS.exe", "type": "Game" }
 
