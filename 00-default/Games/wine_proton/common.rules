@@ -214,6 +214,10 @@
 # Coconut (1 Aug, 2024) https://store.steampowered.com/app/3063130/Coconut/
 { "name": "Coconut.exe", "type": "Game" }
 
+# Conan Exiles Enhanced https://store.steampowered.com/app/440900/Conan_Exiles/
+# Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
+{ "name": "ConanSandbox_BE.exe", "type": "Game" }
+
 # SAO Utils: Beta https://store.steampowered.com/app/786520/SAO_Utils_Beta/
 # Copa Petrobras de Marcas https://store.steampowered.com/app/359800/Copa_Petrobras_de_Marcas/
 # Sword and Fairy 4 https://steamdb.info/app/681820/
@@ -1548,6 +1552,10 @@
 # Soundpad Demo https://store.steampowered.com/app/632810/Soundpad/
 { "name": "SoundpadService.exe", "type": "BG_CPUIO" }
 
+# Warhammer 40,000: Space Marine - Anniversary Edition https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
+# Warhammer 40,000: Space Marine - Master Crafted Edition https://store.steampowered.com/app/3169520/Warhammer_40000_Space_Marine__Master_Crafted_Edition/
+{ "name": "SpaceMarine.exe", "type": "Game" }
+
 # SPORE https://store.steampowered.com/app/17390/SPORE/
 # SPORE Creepy & Cute Parts Pack https://store.steampowered.com/app/17440/SPORE_Creepy__Cute_Parts_Pack/
 # SPORE Galactic Adventures https://store.steampowered.com/app/24720/SPORE_Galactic_Adventures/
@@ -1609,6 +1617,10 @@
 # Caribbean Legend https://store.steampowered.com/app/2230980/Caribbean_Legend/
 # Caribbean Legend: Age of Pirates https://store.steampowered.com/app/3549020/Caribbean_Legend_Age_of_Pirates/
 { "name": "StormWorkshopTool.exe", "type": "Game" }
+
+# Subnautica https://store.steampowered.com/app/264710/Subnautica/
+# Subnautica: Below Zero https://store.steampowered.com/app/848450/Subnautica_Below_Zero/
+{ "name": "Subnautica32.exe", "type": "Game" }
 
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/

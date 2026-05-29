@@ -994,11 +994,9 @@
 
 # Conan Exiles Enhanced https://store.steampowered.com/app/440900/Conan_Exiles/
 { "name": "ConanSandbox-Win64-Shipping.exe", "type": "Game" }
-{ "name": "ConanSandbox_BE.exe", "type": "Game" }
 
 # Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
 { "name": "ConanSandbox.exe", "type": "Game" }
-{ "name": "ConanSandbox_BE.exe", "type": "Game" }
 
 # Concubine https://store.steampowered.com/app/2426120/Concubine/
 { "name": "Concubine.exe", "type": "Game" }
