@@ -49,6 +49,8 @@
 
 # RAGE https://store.steampowered.com/app/9200/RAGE/
 { "name": "rage.exe", "type": "Game" }
+{ "name": "Rage.exe", "type": "Game" }
+{ "name": "Rage64.exe", "type": "Game" }
 
 # RAGE 2 https://store.steampowered.com/app/548570/RAGE_2/
 { "name": "RAGE2.exe", "type": "Game" }

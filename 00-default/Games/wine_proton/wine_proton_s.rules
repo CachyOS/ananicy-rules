@@ -897,6 +897,7 @@
 
 # Sifu https://store.steampowered.com/app/2138710/Sifu/
 { "name": "Sifu.exe", "type": "Game" }
+{ "name": "Sifu-Win64-Shipping.exe", "type": "Game" }
 
 # SIGame https://store.steampowered.com/app/3553500/SIGame/
 { "name": "SIGame.exe", "type": "Game" }
@@ -998,6 +999,7 @@
 
 # Sin Spire https://store.steampowered.com/app/3221770/Sin_Spire/
 { "name": "SinSpire.exe", "type": "Game" }
+{ "name": "SinSpire-Win64-Shipping.exe", "type": "Game" }
 
 # Sintopia https://store.steampowered.com/app/2213700/Sintopia/
 { "name": "Sintopia.exe", "type": "Game" }
@@ -2200,6 +2202,8 @@
 
 # Strange Brigade https://store.steampowered.com/app/312670/Strange_Brigade/
 { "name": "StrangeBrigade.exe", "type": "Game" }
+{ "name": "StrangeBrigade_DX12.exe", "type": "Game" }
+{ "name": "StrangeBrigade_Vulkan.exe", "type": "Game" }
 
 # Strange Horticulture https://store.steampowered.com/app/1574580/Strange_Horticulture/
 { "name": "Strange Horticulture.exe", "type": "Game" }
@@ -2354,12 +2358,14 @@
 
 # Styx: Shards of Darkness https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/
 { "name": "Styx2.exe", "type": "Game" }
+{ "name": "Styx2-Win64-Shipping.exe", "type": "Game" }
 
 # Subliminal https://store.steampowered.com/app/2300840/Subliminal/
 { "name": "Subliminal.exe", "type": "Game" }
 
 # Subnautica https://store.steampowered.com/app/264710/Subnautica/
 { "name": "Subnautica.exe", "type": "Game" }
+{ "name": "Subnautica32.exe", "type": "Game" }
 
 # Subnautica 2 https://store.steampowered.com/app/1962700/Subnautica_2/
 { "name": "Subnautica2.exe", "type": "Game" }
@@ -2367,6 +2373,7 @@
 
 # Subnautica: Below Zero https://store.steampowered.com/app/848450/Subnautica_Below_Zero/
 { "name": "SubnauticaZero.exe", "type": "Game" }
+{ "name": "Subnautica32.exe", "type": "Game" }
 
 # Sub Rosa https://store.steampowered.com/app/272230/Sub_Rosa/
 { "name": "subrosa.exe", "type": "Game" }

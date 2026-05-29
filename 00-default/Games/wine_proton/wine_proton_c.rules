@@ -543,9 +543,11 @@
 
 # Chernobylite 2: Exclusion Zone https://store.steampowered.com/app/2075100/Chernobylite_2_Exclusion_Zone/
 { "name": "Chernobylite2.exe", "type": "Game" }
+{ "name": "Chernobylite2-Win64-Shipping.exe", "type": "Game" }
 
 # Chernobylite Complete Edition https://store.steampowered.com/app/1016800/Chernobylite_Complete_Edition/
 { "name": "ChernobylGame.exe", "type": "Game" }
+{ "name": "ChernobylGame-Win64-Shipping.exe", "type": "Game" }
 
 # ChessBase 16 Steam Edition https://store.steampowered.com/app/1497080/ChessBase_16_Steam_Edition/
 { "name": "CBase16.exe", "type": "Game" }
@@ -989,6 +991,10 @@
 # Conan Exiles Dedicated Server https://store.steampowered.com/app/443030/
 { "name": "ConanSandboxServer.exe", "type": "Game" }
 { "name": "ConanSandboxServer-Win64-Shipping.exe", "type": "Game" }
+
+# Conan Exiles Enhanced https://store.steampowered.com/app/440900/Conan_Exiles/
+{ "name": "ConanSandbox-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ConanSandbox_BE.exe", "type": "Game" }
 
 # Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
 { "name": "ConanSandbox.exe", "type": "Game" }

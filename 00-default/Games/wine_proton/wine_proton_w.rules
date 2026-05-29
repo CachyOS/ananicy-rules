@@ -110,6 +110,7 @@
 
 # Warhammer 40,000: Boltgun https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/
 { "name": "Warhammer 40,000 Boltgun.exe", "type": "Game" }
+{ "name": "Boltgun-Win64-Shipping.exe", "type": "Game" }
 
 # Warhammer 40,000: Boltgun - Words of Vengeance https://store.steampowered.com/app/3533730/Warhammer_40000_Boltgun__Words_of_Vengeance/
 { "name": "BoltgunWOV.exe", "type": "Game" }
@@ -165,6 +166,7 @@
 
 # Warhammer 40,000: Space Marine - Master Crafted Edition https://store.steampowered.com/app/3169520/Warhammer_40000_Space_Marine__Master_Crafted_Edition/
 { "name": "SpaceMarineBootstrapper.exe", "type": "Game" }
+{ "name": "SpaceMarine.exe", "type": "Game" }
 
 # Warhammer 40,000: Speed Freeks https://store.steampowered.com/app/2078450/Warhammer_40000_Speed_Freeks/
 { "name": "SpeedFreeks.exe", "type": "Game" }
