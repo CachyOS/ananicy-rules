@@ -117,6 +117,9 @@
 # '83 https://store.steampowered.com/app/1059220/83/
 { "name": "XV83.exe", "type": "Game" }
 
+# 86Box, an x86 emulator with Win9X via wine for SDL2 mouse keys https://www.86box.net/
+{ "name": "86Box.exe", "type": "Game" }
+
 # 8AM https://store.steampowered.com/app/2835590/8AM/
 { "name": "am.exe", "type": "Game" }
 { "name": "am-Win64-Shipping.exe", "type": "Game" }
