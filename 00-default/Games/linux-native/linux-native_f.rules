@@ -37,6 +37,9 @@
 # fault - milestone one https://store.steampowered.com/app/286260/fault__milestone_one/
 { "name": "faultms1", "type": "Game" }
 
+# FEED THE QUEEN https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
+{ "name": "feedthequeen.x86_64", "type": "Game" }
+
 # Fell Seal: Arbiter's Mark https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/
 { "name": "Fell Seal.x86_64", "type": "Game" }
 { "name": "Fell Seal.x86", "type": "Game" }
@@ -63,6 +66,9 @@
 
 # Firewatch https://store.steampowered.com/app/383870/Firewatch/
 { "name": "fw.x86_64", "type": "Game" }
+
+# First Day https://store.steampowered.com/app/1067810/First_Day/
+{ "name": "First Day.x86", "type": "Game" }
 
 # Fishing Planet https://store.steampowered.com/app/380600/Fishing_Planet/
 { "name": "FishingPlanet.X86_64", "type": "Game" }

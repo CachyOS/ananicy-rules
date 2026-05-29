@@ -543,9 +543,11 @@
 
 # Chernobylite 2: Exclusion Zone https://store.steampowered.com/app/2075100/Chernobylite_2_Exclusion_Zone/
 { "name": "Chernobylite2.exe", "type": "Game" }
+{ "name": "Chernobylite2-Win64-Shipping.exe", "type": "Game" }
 
 # Chernobylite Complete Edition https://store.steampowered.com/app/1016800/Chernobylite_Complete_Edition/
 { "name": "ChernobylGame.exe", "type": "Game" }
+{ "name": "ChernobylGame-Win64-Shipping.exe", "type": "Game" }
 
 # ChessBase 16 Steam Edition https://store.steampowered.com/app/1497080/ChessBase_16_Steam_Edition/
 { "name": "CBase16.exe", "type": "Game" }
@@ -849,6 +851,9 @@
 # Coin Pusher World https://store.steampowered.com/app/1697460/Coin_Pusher_World/
 { "name": "CoinPusherWorld.exe", "type": "Game" }
 
+# Coins https://store.steampowered.com/app/3083090/Coins/
+{ "name": "Coins.exe", "type": "Game" }
+
 # Cold Fear https://store.steampowered.com/app/15270/Cold_Fear/
 { "name": "coldfear_retail.exe", "type": "Game" }
 
@@ -857,6 +862,9 @@
 
 # Colin McRae Rally https://store.steampowered.com/app/287340/Colin_McRae_Rally/
 { "name": "CMR.exe", "type": "Game" }
+
+# Collectibles! https://store.steampowered.com/app/3071010/Collectibles/
+{ "name": "Collectibles.exe", "type": "Game" }
 
 # College Kings 2 - Episode 1 https://store.steampowered.com/app/1924480/
 { "name": "CollegeKings2.exe", "type": "Game" }
@@ -984,9 +992,11 @@
 { "name": "ConanSandboxServer.exe", "type": "Game" }
 { "name": "ConanSandboxServer-Win64-Shipping.exe", "type": "Game" }
 
+# Conan Exiles Enhanced https://store.steampowered.com/app/440900/Conan_Exiles/
+{ "name": "ConanSandbox-Win64-Shipping.exe", "type": "Game" }
+
 # Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
 { "name": "ConanSandbox.exe", "type": "Game" }
-{ "name": "ConanSandbox_BE.exe", "type": "Game" }
 
 # Concubine https://store.steampowered.com/app/2426120/Concubine/
 { "name": "Concubine.exe", "type": "Game" }
@@ -1467,6 +1477,9 @@
 # CURE - A Hospital Simulator https://store.steampowered.com/app/2786550/CURE__A_Hospital_Simulator/
 { "name": "Cure.exe", "type": "Game" }
 { "name": "Cure-Win64-Shipping.exe", "type": "Game" }
+
+# Curious Expedition https://store.steampowered.com/app/358130/Curious_Expedition/
+{ "name": "The Curious Expedition.exe", "type": "Game" }
 
 # Curious Expedition 2 https://store.steampowered.com/app/1040230/Curious_Expedition_2/
 { "name": "CE2.exe", "type": "Game" }

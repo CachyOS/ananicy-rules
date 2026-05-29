@@ -23,6 +23,12 @@
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 { "name": "dod_linux64", "type": "Game" }
 
+# Day of Infamy https://store.steampowered.com/app/447820/Day_of_Infamy/
+{ "name": "dayofinfamy_linux", "type": "Game" }
+
+# Day of the Tentacle Remastered https://store.steampowered.com/app/388210/Day_of_the_Tentacle_Remastered/
+{ "name": "Dott", "type": "Game" }
+
 # DDNet https://store.steampowered.com/app/412220/DDNet/
 { "name": "DDNet", "type": "Game" }
 
@@ -106,6 +112,9 @@
 
 # Desktop Dungeons https://store.steampowered.com/app/226620/Desktop_Dungeons/
 { "name": "DesktopDungeons.x86", "type": "Game" }
+
+# Desktop Nard: Dice Idle https://store.steampowered.com/app/4330860/Desktop_Nard_Dice_Idle/
+{ "name": "Desktop Nard.x86_64", "type": "Game" }
 
 # Desperados III https://store.steampowered.com/app/610370/Desperados_III/
 { "name": "Desperados III.x86_64", "type": "Game" }
@@ -289,6 +298,9 @@
 # Dustforce DX https://store.steampowered.com/app/65300/Dustforce_DX/
 { "name": "Dustforce.bin.x86", "type": "Game" }
 { "name": "Dustforce.bin.x86_64", "type": "Game" }
+
+# Dwarf Eats Mountain https://store.steampowered.com/app/4078200/Dwarf_Eats_Mountain/
+{ "name": "Mountain_Eaters", "type": "Game" }
 
 # Dwarf Fortress https://store.steampowered.com/app/975370/Dwarf_Fortress/
 { "name": "dwarfort", "type": "Game" }

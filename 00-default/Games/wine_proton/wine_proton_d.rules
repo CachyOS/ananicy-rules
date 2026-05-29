@@ -210,6 +210,13 @@
 { "name": "Dragons.exe", "type": "Game" }
 { "name": "Dragons-Win64-Shipping.exe", "type": "Game" }
 
+# Day of Infamy https://store.steampowered.com/app/447820/Day_of_Infamy/
+{ "name": "dayofinfamy_x64.exe", "type": "Game" }
+{ "name": "dayofinfamy.exe", "type": "Game" }
+
+# Day of the Tentacle Remastered https://store.steampowered.com/app/388210/Day_of_the_Tentacle_Remastered/
+{ "name": "Dott.exe", "type": "Game" }
+
 # Days Gone https://store.steampowered.com/app/1259420/Days_Gone/
 { "name": "DaysGone.exe", "type": "Game" }
 
@@ -606,6 +613,9 @@
 
 # Desktop Mate https://store.steampowered.com/app/3301060/Desktop_Mate/
 { "name": "DesktopMate.exe", "type": "BG_CPUIO" }
+
+# Desktop Nard: Dice Idle https://store.steampowered.com/app/4330860/Desktop_Nard_Dice_Idle/
+{ "name": "Desktop Nard.exe", "type": "Game" }
 
 # Desktop Pets https://store.steampowered.com/app/3077030/Desktop_Pets/
 { "name": "Pet.exe", "type": "BG_CPUIO" }
@@ -1514,6 +1524,9 @@
 # Dustland Delivery https://store.steampowered.com/app/2943280/Dustland_Delivery/
 { "name": "DustlandDelivery.exe", "type": "Game" }
 
+# Dwarf Eats Mountain https://store.steampowered.com/app/4078200/Dwarf_Eats_Mountain/
+{ "name": "Dwarf Eats Mountain.exe", "type": "Game" }
+
 # Dwarf Fortress https://store.steampowered.com/app/975370/Dwarf_Fortress/
 { "name": "Dwarf Fortress.exe", "type": "Game" }
 
@@ -1535,6 +1548,7 @@
 
 # Dying Light: The Beast https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/
 { "name": "DyingLightGame_TheBeast_x64_rwdi.exe", "type": "Game" }
+{ "name": "DyingLightGame_TheBeast_x64_rd.exe", "type": "Game" }
 
 # Dynamic Dungeons Editor https://store.steampowered.com/app/1694430/Dynamic_Dungeons_Editor/
 { "name": "Dynamic Dungeons Editor.exe", "type": "Game" }

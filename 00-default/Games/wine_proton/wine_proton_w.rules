@@ -33,6 +33,9 @@
 { "name": "WallpaperAliveMenu.exe", "type": "BG_CPUIO" }
 { "name": "WallpaperAlive.exe", "type": "BG_CPUIO" }
 
+# Wallpaper Animator Demo https://store.steampowered.com/app/4671870/
+{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
+
 # Wallpaper Engine https://store.steampowered.com/app/431960/Wallpaper_Engine/
 { "name": "wallpaper64.exe", "type": "BG_CPUIO" }
 
@@ -107,6 +110,7 @@
 
 # Warhammer 40,000: Boltgun https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/
 { "name": "Warhammer 40,000 Boltgun.exe", "type": "Game" }
+{ "name": "Boltgun-Win64-Shipping.exe", "type": "Game" }
 
 # Warhammer 40,000: Boltgun - Words of Vengeance https://store.steampowered.com/app/3533730/Warhammer_40000_Boltgun__Words_of_Vengeance/
 { "name": "BoltgunWOV.exe", "type": "Game" }
@@ -156,9 +160,6 @@
 
 # Warhammer 40,000: Space Marine 2 https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/
 { "name": "Warhammer 40000 Space Marine 2 - Retail.exe", "type": "Game" }
-
-# Warhammer 40,000: Space Marine - Anniversary Edition https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
-{ "name": "SpaceMarine.exe", "type": "Game" }
 
 # Warhammer 40,000: Space Marine - Master Crafted Edition https://store.steampowered.com/app/3169520/Warhammer_40000_Space_Marine__Master_Crafted_Edition/
 { "name": "SpaceMarineBootstrapper.exe", "type": "Game" }
@@ -299,9 +300,6 @@
 
 # Watchmen: The End is Nigh Part 2 https://store.steampowered.com/app/21030/Watchmen_The_End_is_Nigh_Part_2/
 { "name": "KapowMulti.exe", "type": "Game" }
-
-# Watermelon https://store.steampowered.com/app/3059220/Watermelon/
-{ "name": "Watermelon.exe", "type": "Game" }
 
 # Waveform https://store.steampowered.com/app/204180/Waveform/
 { "name": "Waveform.exe", "type": "Game" }
@@ -849,6 +847,10 @@
 
 # Wreckfest 2 https://store.steampowered.com/app/1203190/Wreckfest_2/
 { "name": "Wreckfest2.exe", "type": "Game" }
+
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+{ "name": "WreckRunners.exe", "type": "Game" }
+{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
 
 # Wrestling Empire https://store.steampowered.com/app/1620340/Wrestling_Empire/
 { "name": "WrestlingEmpireModLauncher.exe", "type": "Game" }
