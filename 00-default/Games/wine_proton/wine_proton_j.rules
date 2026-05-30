@@ -51,6 +51,9 @@
 # JDM: Japanese Drift Master https://store.steampowered.com/app/1153410/JDM_Japanese_Drift_Master/
 { "name": "JDM.exe", "type": "Game" }
 
+# JerezArena Ⅲ https://store.steampowered.com/app/2875610/
+{ "name": "jerezarena_3.exe", "type": "Game" }
+
 # Jet Lancer https://store.steampowered.com/app/913060/Jet_Lancer/
 { "name": "Jet Lancer.exe", "type": "Game" }
 
@@ -64,8 +67,8 @@
 # JIANGHU CHRONICLES https://store.steampowered.com/app/1909840/JIANGHU_CHRONICLES/
 { "name": "JHL.exe", "type": "Game" }
 
-# Jigsaw Puzzles Infinite https://store.steampowered.com/app/1946140/Jigsaw_Puzzles_Infinite/
-{ "name": "Jigsaw.exe", "type": "Game" }
+# Jigsaw Puzzle Dreams https://store.steampowered.com/app/1653970/Jigsaw_Puzzle_Dreams/
+{ "name": "Jigsaw-Win64-Shipping.exe", "type": "Game" }
 
 # Joana's Life https://store.steampowered.com/app/513740/Joanas_Life/
 { "name": "JohanasLife.exe", "type": "Game" }
@@ -96,12 +99,11 @@
 # Journey of a Roach https://store.steampowered.com/app/255300/Journey_of_a_Roach/
 { "name": "JoaR.exe", "type": "Game" }
 
+# Journey of Wrestling https://store.steampowered.com/app/2941580/Journey_of_Wrestling/
+{ "name": "Journey of Wrestling.exe", "type": "Game" }
+
 # Journey to Incrementalia https://store.steampowered.com/app/3147430/Journey_to_Incrementalia/
 { "name": "Journey to Incrementalia.exe", "type": "Game" }
-
-# Journey To The Savage Planet https://store.steampowered.com/app/973810/Journey_To_The_Savage_Planet/
-{ "name": "Towers.exe", "type": "Game" }
-{ "name": "Towers-Win64-Shipping.exe", "type": "Game" }
 
 # Joyquarium https://store.steampowered.com/app/3472890/Joyquarium/
 { "name": "YuGang.exe", "type": "Game" }
@@ -116,9 +118,6 @@
 { "name": "JudgeSim.exe", "type": "Game" }
 { "name": "JudgeSim-Win64-Shipping.exe", "type": "Game" }
 
-# Judgment https://store.steampowered.com/app/2058180/Judgment/
-{ "name": "startup.exe", "type": "Game" }
-
 # Juice Galaxy https://store.steampowered.com/app/1708150/Juice_Galaxy/
 { "name": "Juice Galaxy.exe", "type": "Game" }
 
@@ -127,6 +126,10 @@
 
 # Jujutsu Kaisen Cursed Clash https://store.steampowered.com/app/1877020/Jujutsu_Kaisen_Cursed_Clash/
 { "name": "Jujutsu Kaisen CC.exe", "type": "Game" }
+
+# Jujutsu Kaisen Phantom Parade https://store.steampowered.com/app/4224240/Jujutsu_Kaisen_Phantom_Parade/
+{ "name": "Jujutsu Kaisen Phantom Parade.exe", "type": "Game" }
+{ "name": "PCGamePlatform.exe", "type": "Game" }
 
 # JUMP FORCE https://store.steampowered.com/app/816020/JUMP_FORCE/
 { "name": "JUMP_FORCE.exe", "type": "Game" }
@@ -163,9 +166,8 @@
 # Jurassic World Evolution 3 https://store.steampowered.com/app/2958130/Jurassic_World_Evolution_3/
 { "name": "JWE3.exe", "type": "Game" }
 
-# Jusant https://store.steampowered.com/app/1977170/Jusant/
-{ "name": "ASC-Win64-Shipping.exe", "type": "Game" }
-{ "name": "ASC.exe", "type": "Game" }
+# Just Act Natural https://store.steampowered.com/app/1485080/Just_Act_Natural/
+{ "name": "JustActNatural.exe", "type": "Game" }
 
 # Just Cause https://store.steampowered.com/app/6880/Just_Cause/
 { "name": "JCSetup.exe", "type": "Game" }
@@ -189,6 +191,13 @@
 
 # Just Go https://store.steampowered.com/app/1862520/Just_Go/
 { "name": "JustGo.exe", "type": "Game" }
+
+# Just Ignore Them https://store.steampowered.com/app/561770/Just_Ignore_Them/
+{ "name": "JustIgnoreThemRemake.exe", "type": "Game" }
+{ "name": "justignorethem.exe", "type": "Game" }
+
+# Just Pizza https://store.steampowered.com/app/3077280/Just_Pizza/
+{ "name": "Just Pizza.exe", "type": "Game" }
 
 # Just Shapes & Beats https://store.steampowered.com/app/531510/Just_Shapes__Beats/
 { "name": "JSB.exe", "type": "Game" }

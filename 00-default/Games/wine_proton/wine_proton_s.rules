@@ -13,7 +13,6 @@
 { "name": "Sackboy.exe", "type": "Game" }
 
 # Sacred 2 Gold https://store.steampowered.com/app/225640/Sacred_2_Gold/
-{ "name": "sacred2.exe", "type": "Game" }
 { "name": "s2gs.exe", "type": "Game" }
 
 # Sacred 3 https://store.steampowered.com/app/247950/Sacred_3/
@@ -46,6 +45,12 @@
 # Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
 { "name": "SR2_pc.exe", "type": "Game" }
 
+# Saints Row: Gat out of Hell https://store.steampowered.com/app/301910/Saints_Row_Gat_out_of_Hell/
+{ "name": "SaintsRowGatOutOfHell.exe", "type": "Game" }
+
+# Saints Row IV Inauguration Station https://store.steampowered.com/app/242590/
+{ "name": "SaintsRowIV_InaugurationStation.exe", "type": "Game" }
+
 # Saints Row IV: Re-Elected http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
 { "name": "sr_hv.exe", "type": "Game" }
 { "name": "SaintsRowIV.exe", "type": "Game" }
@@ -69,11 +74,24 @@
 # Sally Face - Episode One https://store.steampowered.com/app/541570/Sally_Face__Episode_One/
 { "name": "Sally Face.exe", "type": "Game" }
 
+# Saloon Simulator https://store.steampowered.com/app/1876930/Saloon_Simulator/
+{ "name": "SaloonSimulator.exe", "type": "Game" }
+{ "name": "SaloonSimulator-Win64-Shipping.exe", "type": "Game" }
+
 # Salt https://store.steampowered.com/app/327860/Salt/
 { "name": "Salt.exe", "type": "Game" }
 
+# Salt 2 https://store.steampowered.com/app/1574900/Salt_2_Shores_of_Gold/
+{ "name": "Salt2.exe", "type": "Game" }
+
 # Salt and Sanctuary https://store.steampowered.com/app/283640/Salt_and_Sanctuary/
 { "name": "salt.exe", "type": "Game" }
+
+# Salt Player for Windows https://store.steampowered.com/app/3009140/Salt_Player_for_Windows/
+{ "name": "Salt Player for Windows.exe", "type": "Game" }
+
+# Salty Dogs Playtest https://store.steampowered.com/app/4460350/Salty_Dogs/
+{ "name": "salty-dogs.exe", "type": "Game" }
 
 # Samawa Idle https://store.steampowered.com/app/2562730/Samawa_Idle/
 { "name": "Samawa Idle.exe", "type": "Game" }
@@ -118,12 +136,18 @@
 # SANABI https://store.steampowered.com/app/1562700/SANABI/
 { "name": "SNB.exe", "type": "Game" }
 
+# Sandboxels https://store.steampowered.com/app/3664820/Sandboxels/
+{ "name": "Sandboxels.exe", "type": "Game" }
+
 # SAND LAND https://store.steampowered.com/app/1979440/SAND_LAND/
 { "name": "SANDLAND.exe", "type": "Game" }
 { "name": "SANDLAND-Win64-Shipping.exe", "type": "Game" }
 
 # Sands of Salzaar https://store.steampowered.com/app/1094520/Sands_of_Salzaar/
 { "name": "DesertLegend.exe", "type": "Game" }
+
+# SandTable War: Three Kingdoms https://store.steampowered.com/app/3885930/SandTable_War_Three_Kingdoms/
+{ "name": "tk.exe", "type": "Game" }
 
 # Sandwich Simulator https://store.steampowered.com/app/3445340/Sandwich_Simulator/
 { "name": "SandwichSimulator.exe", "type": "Game" }
@@ -144,15 +168,20 @@
 # Sapiens https://store.steampowered.com/app/1060230/Sapiens/
 { "name": "Sapiens.exe", "type": "Game" }
 
+# Sapphire Safari https://store.steampowered.com/app/1526900/
+{ "name": "Sapphire_Safari.exe", "type": "Game" }
+{ "name": "Sapphire_Safari-Win64-Shipping.exe", "type": "Game" }
+
 # SAS: Zombie Assault 4 https://store.steampowered.com/app/678800/SAS_Zombie_Assault_4/
 { "name": "SAS4-Win.exe", "type": "Game" }
 
 # Satellite Reign https://store.steampowered.com/app/268870/Satellite_Reign/
 { "name": "SatelliteReignWindows.exe", "type": "Game" }
 
-# Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
-{ "name": "FactoryGame-Win64-Shipping.exe", "type": "Game" }
-{ "name": "FactoryGame.exe", "type": "Game" }
+# Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
+{ "name": "FactoryServer.exe", "type": "Game" }
+{ "name": "FactoryServer-Win64-Shipping-Cmd.exe", "type": "Game" }
+{ "name": "FactoryServer-Win64-Shipping.exe", "type": "Game" }
 
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler.exe", "type": "Game" }
@@ -162,6 +191,10 @@
 
 # Save Jesus https://store.steampowered.com/app/509220/Save_Jesus/
 { "name": "Save Jesus.exe", "type": "Game" }
+
+# SaveSync https://store.steampowered.com/app/3832010/SaveSync_Coop_Save_Sharing_Made_Easy/
+{ "name": "SaveSync.exe", "type": "Game" }
+{ "name": "ludusavi.exe", "type": "Game" }
 
 # Say No! More https://store.steampowered.com/app/1191900/Say_No_More/
 { "name": "SNM.exe", "type": "Game" }
@@ -180,11 +213,17 @@
 { "name": "sbox-launcher.exe", "type": "BG_CPUIO" }
 { "name": "sbox-server.exe", "type": "BG_CPUIO" }
 
+# Scale the Depths Demo https://store.steampowered.com/app/3821770/Scale_the_Depths_Demo/
+{ "name": "Scale The Depths.exe", "type": "Game" }
+
 # Scam Line https://store.steampowered.com/app/2794590/Scam_Line/
 { "name": "Scam Line.exe", "type": "Game" }
 
 # Scania Truck Driving Simulator https://store.steampowered.com/app/258760/Scania_Truck_Driving_Simulator/
 { "name": "scania_truck_driving_simulator.exe", "type": "Game" }
+
+# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
+{ "name": "Scapewatch.exe", "type": "Game" }
 
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow.exe", "type": "Game" }
@@ -201,8 +240,14 @@
 { "name": "ScarsAbove.exe", "type": "Game" }
 { "name": "Project-Win64-Shipping.exe", "type": "Game" }
 
+# Scary Game 2: The Mad Shepherd https://store.steampowered.com/app/4479970/Scary_Game_2_The_Mad_Shepherd/
+{ "name": "Scary Game 2 The Mad Shepherd.exe", "type": "Game" }
+
 # Schedule I https://store.steampowered.com/app/3164500/Schedule_I/
 { "name": "Schedule I.exe", "type": "Game" }
+
+# Schedule I: Free Sample https://store.steampowered.com/app/3205720/Schedule_I_Free_Sample/
+{ "name": "Schedule I Free Sample.exe", "type": "Game" }
 
 # Scheming Through The Zombie Apocalypse: The Beginning https://store.steampowered.com/app/813540/Scheming_Through_The_Zombie_Apocalypse_The_Beginning/
 { "name": "Scheming Through Ep1.exe", "type": "Game" }
@@ -220,6 +265,9 @@
 # Schrödinger's Call https://store.steampowered.com/app/2090390/Schrdingers_Call/
 { "name": "SchrodingersCallAdv.exe", "type": "Game" }
 
+# Schrodinger's Cat Burglar https://store.steampowered.com/app/2111550/Schrodingers_Cat_Burglar/
+{ "name": "SCB.exe", "type": "Game" }
+
 # Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
 { "name": "YGOnline.exe", "type": "Game" }
 
@@ -235,6 +283,9 @@
 # ScootX https://store.steampowered.com/app/3800340/ScootX/
 { "name": "ScootX.exe", "type": "Game" }
 
+# Scope X https://store.steampowered.com/app/3477300/Scope_X/
+{ "name": "ScopeX.exe", "type": "BG_CPUIO" }
+
 # Scorn https://store.steampowered.com/app/698670/Scorn/
 { "name": "Scorn.exe", "type": "Game" }
 { "name": "Scorn-Win64-Shipping.exe", "type": "Game" }
@@ -248,6 +299,13 @@
 # SCP: 5K https://store.steampowered.com/app/872670/SCP_5K/
 { "name": "Pandemic.exe", "type": "Game" }
 
+# SCP – Containment Breach https://store.steampowered.com/app/2178380/SCP__Containment_Breach/
+{ "name": "SCP - Containment Breach.exe", "type": "Game" }
+
+# SCP: Containment Breach 2 https://store.steampowered.com/app/3257000/SCP_Containment_Breach_2/
+{ "name": "uerm.exe", "type": "Game" }
+{ "name": "uermdx9.exe", "type": "Game" }
+
 # SCP: Labrat https://store.steampowered.com/app/1402020/SCP_Labrat/
 { "name": "SCP Labrat.exe", "type": "Game" }
 
@@ -256,6 +314,9 @@
 
 # Scrap Mechanic https://store.steampowered.com/app/387990/Scrap_Mechanic/
 { "name": "ScrapMechanic.exe", "type": "Game" }
+
+# Scratch Inc. https://store.steampowered.com/app/3788420/Scratch_Inc/
+{ "name": "ScratchInc.exe", "type": "Game" }
 
 # Scream Collector https://store.steampowered.com/app/726390/Scream_Collector/
 { "name": "ScreamCollector.exe", "type": "Game" }
@@ -278,6 +339,9 @@
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 { "name": "screeps_server.exe", "type": "Service" }
 
+# Screw Drivers https://store.steampowered.com/app/1279510/Screw_Drivers/
+{ "name": "Screw Drivers.exe", "type": "Game" }
+
 # Scribble It! https://store.steampowered.com/app/1088150/Scribble_It/
 { "name": "ScribbleIt.exe", "type": "Game" }
 
@@ -286,6 +350,9 @@
 
 # Scritchy Scratchy https://store.steampowered.com/app/3948120/Scritchy_Scratchy/
 { "name": "ScritchyScratchy.exe", "type": "Game" }
+
+# Scritchy Scratchy Demo https://store.steampowered.com/app/4124780/Scritchy_Scratchy_Demo/
+{ "name": "Scritchy Scratchy.exe", "type": "Game" }
 
 # SCUM https://store.steampowered.com/app/513710/SCUM/
 { "name": "SCUM.exe", "type": "Game" }
@@ -301,6 +368,12 @@
 
 # Sea Dogs: To Each His Own https://store.steampowered.com/app/223330/Sea_Dogs_To_Each_His_Own/
 { "name": "ENGINE.exe", "type": "Game" }
+
+# Seafarer: The Ship Sim https://store.steampowered.com/app/2582140/Seafarer_The_Ship_Sim/
+{ "name": "OrcaCheats.exe", "type": "Game" }
+{ "name": "Orca_Ships.exe", "type": "Game" }
+{ "name": "Seafarer.exe", "type": "Game" }
+{ "name": "Orca-Win64-Shipping.exe", "type": "Game" }
 
 # SealChain: Call of Blood https://store.steampowered.com/app/2652600/SealChain_Call_of_Blood/
 { "name": "Sealchain.exe", "type": "Game" }
@@ -363,9 +436,15 @@
 # SEGA Bass Fishing https://store.steampowered.com/app/71240/SEGA_Bass_Fishing/
 { "name": "SEGA Bass Fishing.exe", "type": "Game" }
 
+# SEGA FOOTBALL CLUB CHAMPIONS https://store.steampowered.com/app/3271000/SEGA_FOOTBALL_CLUB_CHAMPIONS/
+{ "name": "FootballClubChampions.exe", "type": "Game" }
+
 # SEGA Mega Drive and Genesis Classics https://store.steampowered.com/app/34270/SEGA_Mega_Drive_and_Genesis_Classics/
 { "name": "SEGAGameRoom.exe", "type": "Game" }
 { "name": "SEGAGenesisClassics.exe", "type": "Game" }
+
+# Sejm The Game https://store.steampowered.com/app/2999060/Politics_The_Game/
+{ "name": "SejmTheGame.exe", "type": "Game" }
 
 # Sekiro: Shadows Die Twice - GOTY Edition https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/
 { "name": "sekiro.exe", "type": "Game" }
@@ -436,6 +515,10 @@
 # Serious Sam HD: The First Encounter https://store.steampowered.com/app/41000/Serious_Sam_HD_The_First_Encounter/
 { "name": "SamHD.exe", "type": "Game" }
 
+# Serious Sam HD: The Second Encounter https://store.steampowered.com/app/41010/
+{ "name": "SamHD_TSE_Unrestricted.exe", "type": "Game" }
+{ "name": "SamHD_TSE.exe", "type": "Game" }
+
 # Serious Sam II https://store.steampowered.com/app/204340/Serious_Sam_II/
 { "name": "Sam2.exe", "type": "Game" }
 
@@ -475,6 +558,18 @@
 # Sexorcism: Lust Confession https://store.steampowered.com/app/4039810/Sexorcism_Lust_Confession/
 { "name": "Sexorcism Lust Confession.exe", "type": "Game" }
 
+# Sex, Secrets & Used Tech Demo https://store.steampowered.com/app/3709920/
+{ "name": "ElectronicsThriftStore.exe", "type": "Game" }
+
+# Sexy Airlines EVO https://store.steampowered.com/app/1745200/
+{ "name": "SexyAirlines.exe", "type": "Game" }
+
+# ShaderGlass https://store.steampowered.com/app/3613770/ShaderGlass/
+{ "name": "ShaderGlass.exe", "type": "Game" }
+
+# Shadowbane: Resurgence https://store.steampowered.com/app/4371680/Shadowbane_Resurgence/
+{ "name": "SBOnline.exe", "type": "Game" }
+
 # Shadow Corridor https://store.steampowered.com/app/1025250/Shadow_Corridor/
 { "name": "ShadowCorridor.exe", "type": "Game" }
 
@@ -484,6 +579,9 @@
 
 # Shadow Empire https://store.steampowered.com/app/1154840/Shadow_Empire/
 { "name": "ShadowEmpire.exe", "type": "Game" }
+
+# Shadow Fight Arena https://store.steampowered.com/app/1446890/Shadow_Fight_Arena/
+{ "name": "SFA.exe", "type": "Game" }
 
 # Shadow Gambit: The Cursed Crew https://store.steampowered.com/app/1545560/Shadow_Gambit_The_Cursed_Crew/
 { "name": "ShadowGambit_TCC.exe", "type": "Game" }
@@ -582,6 +680,9 @@
 { "name": "Shatter.exe", "type": "Game" }
 { "name": "sh.exe", "type": "Game" }
 
+# Shattered Minds https://store.steampowered.com/app/2713690/
+{ "name": "Shattered_Minds.exe", "type": "Game" }
+
 # Shattered Pixel Dungeon https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/
 { "name": "Shattered Pixel Dungeon.exe", "type": "Game" }
 
@@ -591,6 +692,12 @@
 # sheepChat https://store.steampowered.com/app/944770/sheepChat/
 { "name": "sheepchat.exe", "type": "Game" }
 
+# Sheepy: A Short Adventure https://store.steampowered.com/app/1568400/Sheepy_A_Short_Adventure/
+{ "name": "SheepyAShortAdventure.exe", "type": "Game" }
+
+# Shelldiver https://store.steampowered.com/app/3862670/Shelldiver/
+{ "name": "Shelldiver.exe", "type": "Game" }
+
 # ShellShock Live https://store.steampowered.com/app/326460/ShellShock_Live/
 { "name": "ShellShockLive.exe", "type": "Game" }
 
@@ -599,6 +706,9 @@
 
 # Shelter 2 https://store.steampowered.com/app/275100/Shelter_2/
 { "name": "Shelter2.exe", "type": "Game" }
+
+# Shelter 69 https://store.steampowered.com/app/1905950/
+{ "name": "Shelter69.exe", "type": "Game" }
 
 # Sheltered https://store.steampowered.com/app/356040/Sheltered/
 { "name": "Sheltered.exe", "type": "Game" }
@@ -642,6 +752,12 @@
 # Shift 2 Unleashed https://store.steampowered.com/app/47920/Shift_2_Unleashed/
 { "name": "SHIFT2U.exe", "type": "Game" }
 
+# Shiftall VR Manager https://store.steampowered.com/app/3060770/Shiftall_VR_Manager/
+{ "name": "VRManager.exe", "type": "Game" }
+
+# Shift At Midnight Demo https://store.steampowered.com/app/4050060/Shift_At_Midnight_Multiplayer_Demo/
+{ "name": "ShiftAtMidnight.exe", "type": "Game" }
+
 # Shift Happens https://store.steampowered.com/app/359840/Shift_Happens/
 { "name": "Shift Happens.exe", "type": "Game" }
 
@@ -671,8 +787,14 @@
 { "name": "ShipGraveyard2.exe", "type": "Game" }
 { "name": "ShipGraveyard2-Win64-Shipping.exe", "type": "Game" }
 
+# Ship, Inc. https://store.steampowered.com/app/3496000/Ship_Inc/
+{ "name": "Ship Inc.exe", "type": "Game" }
+
 # Ship of Fools https://store.steampowered.com/app/1286580/Ship_of_Fools/
 { "name": "ShipOfFools.exe", "type": "Game" }
+
+# Shipping Manager https://store.steampowered.com/app/2445660/Shipping_Manager/
+{ "name": "sm_sdl_steam.exe", "type": "Game" }
 
 # Ships At Sea https://store.steampowered.com/app/1266540/Ships_At_Sea/
 { "name": "Sas.exe", "type": "Game" }
@@ -729,6 +851,12 @@
 # Shredders https://store.steampowered.com/app/1874170/Shredders/
 { "name": "Shredders.exe", "type": "Game" }
 
+# Shrimp https://store.steampowered.com/app/3054490/Shrimp/
+{ "name": "Shrimp.exe", "type": "Game" }
+
+# Shrimp.io https://store.steampowered.com/app/2782530/Shrimpio/
+{ "name": "Shrimp.io.exe", "type": "Game" }
+
 # Sid Meier's Alpha Centauri Planetary Pack https://store.steampowered.com/app/2204130/
 { "name": "terranx.exe", "type": "Game" }
 { "name": "terran.exe", "type": "Game" }
@@ -778,8 +906,15 @@
 # Siege Survival: Gloria Victis https://store.steampowered.com/app/1167140/Siege_Survival_Gloria_Victis/
 { "name": "SiegeSurvival.exe", "type": "Game" }
 
+# Siegeturtle https://store.steampowered.com/app/3959050/Siegeturtle/
+{ "name": "Siegeturtle.exe", "type": "Game" }
+
 # Sifu https://store.steampowered.com/app/2138710/Sifu/
 { "name": "Sifu.exe", "type": "Game" }
+{ "name": "Sifu-Win64-Shipping.exe", "type": "Game" }
+
+# SIGame https://store.steampowered.com/app/3553500/SIGame/
+{ "name": "SIGame.exe", "type": "Game" }
 
 # SIGNALIS https://store.steampowered.com/app/1262350/SIGNALIS/
 { "name": "SIGNALIS.exe", "type": "Game" }
@@ -807,6 +942,18 @@
 # Silica https://store.steampowered.com/app/1494420/Silica/
 { "name": "Silica.exe", "type": "Game" }
 
+# Sill Cats  https://store.steampowered.com/app/4641700/Sill_Cats/
+{ "name": "Sill Cats.exe", "type": "Game" }
+
+# Silly Linguine Cat Simulator Deluxe Online https://store.steampowered.com/app/4368350/Silly_Linguine_Cat_Simulator_Deluxe_Online/
+{ "name": "Silly Linguine Cat Simulator Deluxe Online.exe", "type": "Game" }
+
+# Silly Polly Beast https://store.steampowered.com/app/1598780/Silly_Polly_Beast/
+{ "name": "Silly Polly Beast.exe", "type": "Game" }
+
+# SILT https://store.steampowered.com/app/1325890/SILT/
+{ "name": "Silt.exe", "type": "Game" }
+
 # Silverfall https://store.steampowered.com/app/4420/Silverfall/
 { "name": "Silverfall.exe", "type": "Game" }
 
@@ -823,8 +970,17 @@
 # SimCity 4 Deluxe Edition https://store.steampowered.com/app/24780/SimCity_4_Deluxe_Edition/
 { "name": "SimCity 4.exe", "type": "Game" }
 
+# Sim Companies https://store.steampowered.com/app/2253720/Sim_Companies/
+{ "name": "Sim Companies.exe", "type": "Game" }
+
 # SimplePlanes https://store.steampowered.com/app/397340/SimplePlanes/
 { "name": "SimplePlanes.exe", "type": "Game" }
+
+# SimplePlanes 2 https://store.steampowered.com/app/2840470/SimplePlanes_2/
+{ "name": "SimplePlanes 2.exe", "type": "Game" }
+
+# Simple Sight - Crosshair Overlay https://store.steampowered.com/app/3256420/Simple_Sight__Crosshair_Overlay/
+{ "name": "Simple Sight - Crosshair Overlay.exe", "type": "BG_CPUIO" }
 
 # SimRail - The Railway Simulator https://store.steampowered.com/app/1422130/SimRail__The_Railway_Simulator/
 { "name": "SimRail.exe", "type": "Game" }
@@ -841,6 +997,9 @@
 # Singularity https://store.steampowered.com/app/42670/Singularity/
 { "name": "Singularity.exe", "type": "Game" }
 
+# SiNiSistar 2 https://store.steampowered.com/app/4466620/SiNiSistar_2/
+{ "name": "SiNiSistar2.exe", "type": "Game" }
+
 # Sinister Night 2 https://store.steampowered.com/app/2761670/Sinister_Night_2/
 { "name": "Project_X.exe", "type": "Game" }
 { "name": "Project_X-Win64-Shipping.exe", "type": "Game" }
@@ -854,6 +1013,7 @@
 
 # Sin Spire https://store.steampowered.com/app/3221770/Sin_Spire/
 { "name": "SinSpire.exe", "type": "Game" }
+{ "name": "SinSpire-Win64-Shipping.exe", "type": "Game" }
 
 # Sintopia https://store.steampowered.com/app/2213700/Sintopia/
 { "name": "Sintopia.exe", "type": "Game" }
@@ -862,8 +1022,15 @@
 # Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
 { "name": "SiralimUltimate.exe", "type": "Game" }
 
+# Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
+{ "name": "swhaop_playtest.exe", "type": "Game" }
+
 # Sir, You Are Being Hunted https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/
 { "name": "sir.exe", "type": "Game" }
+
+# Sister’s Secrecy: Arcanum Bloodlines - Premium Edition https://store.steampowered.com/app/373870/Sisters_Secrecy_Arcanum_Bloodlines__Premium_Edition/
+{ "name": "SistersSecrecy_ArcanumBloodlines_Premium.exe", "type": "Game" }
+{ "name": "SistersSecrecy_ArcanumBloodlines_Pr_cheat.exe", "type": "Game" }
 
 # Six Days in Fallujah https://store.steampowered.com/app/1548850/Six_Days_in_Fallujah/
 { "name": "SixDays.exe", "type": "Game" }
@@ -872,11 +1039,17 @@
 { "name": "Skald Data Editor.exe", "type": "Game" }
 { "name": "SKALD Against the Black Priory.exe", "type": "Game" }
 
+# skate. https://store.steampowered.com/app/3354750/skate/
+{ "name": "Skate.exe", "type": "Game" }
+
 # Skater XL https://store.steampowered.com/app/962730/Skater_XL__The_Ultimate_Skateboarding_Game/
 { "name": "SkaterXL.exe", "type": "Game" }
 
 # Skate Story https://store.steampowered.com/app/1263240/Skate_Story/
 { "name": "SkateStory.exe", "type": "Game" }
+
+# Skeleseller https://store.steampowered.com/app/3226210/Skeleseller/
+{ "name": "skeleseller.exe", "type": "Game" }
 
 # Sker Ritual https://store.steampowered.com/app/1492070/Sker_Ritual/
 { "name": "SkerRitual.exe", "type": "Game" }
@@ -884,6 +1057,9 @@
 # Sketchy's Contract https://store.steampowered.com/app/2823080/Sketchys_Contract/
 { "name": "LootWorthy.exe", "type": "Game" }
 { "name": "LootWorthy-Win64-Shipping.exe", "type": "Game" }
+
+# Skill Legends Royale https://store.steampowered.com/app/3114410/Skill_Legends_Royale/
+{ "name": "SkillLegendsRoyale.exe", "type": "Game" }
 
 # Skillshot City https://store.steampowered.com/app/308600/Skillshot_City/
 { "name": "SkillshotCity.exe", "type": "Game" }
@@ -919,6 +1095,9 @@
 # Sky Clash: Lords of Clans 3D https://store.steampowered.com/app/630140/Sky_Clash_Lords_of_Clans_3D/
 { "name": "SkyClash.exe", "type": "Game" }
 
+# Skydimo https://store.steampowered.com/app/4257800/Skydimo/
+{ "name": "Skydimo.exe", "type": "Game" }
+
 # SkyDrift https://store.steampowered.com/app/91100/SkyDrift/
 { "name": "SkyDrift.exe", "type": "Game" }
 
@@ -937,8 +1116,17 @@
 # SkyInFlames https://store.steampowered.com/app/4031360/SkyInFlames/
 { "name": "SkyInFlames.exe", "type": "Game" }
 
+# Skyrim Special Edition: Creation Kit https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/
+{ "name": "CreationKit.exe", "type": "Game" }
+
 # Slackers - Carts of Glory https://store.steampowered.com/app/2354000/Slackers__Carts_of_Glory/
 { "name": "CartOfGlory.exe", "type": "Game" }
+
+# Slap 'em UP! https://store.steampowered.com/app/3703520/Slap_em_UP/
+{ "name": "Slap 'em Up!.exe", "type": "Game" }
+
+# Slapshot: Rebound https://store.steampowered.com/app/1173370/Slapshot_Rebound/
+{ "name": "Slapshot.exe", "type": "Game" }
 
 # Slasher's Keep https://store.steampowered.com/app/598060/Slashers_Keep/
 { "name": "SlashersKeep.exe", "type": "Game" }
@@ -981,12 +1169,24 @@
 # Slime Rancher 2 https://store.steampowered.com/app/1657630/Slime_Rancher_2/
 { "name": "SlimeRancher2.exe", "type": "Game" }
 
+# SlimeVR https://store.steampowered.com/app/3245490/SlimeVR/
+{ "name": "SlimeVR.exe", "type": "Game" }
+
+# Slimeward https://store.steampowered.com/app/3913270/Slimeward/
+{ "name": "SlimeWard.exe", "type": "Game" }
+
 # Slitterhead https://store.steampowered.com/app/2631250/Slitterhead/
 { "name": "YKS.exe", "type": "Game" }
 { "name": "YKS-Win64-Shipping.exe", "type": "Game" }
 
 # Slot or Not https://store.steampowered.com/app/3496890/Slot_or_Not/
 { "name": "son.exe", "type": "Game" }
+
+# Slots & Daggers https://store.steampowered.com/app/3631290/Slots__Daggers/
+{ "name": "Slots and Daggers.exe", "type": "Game" }
+
+# Slut Squad https://store.steampowered.com/app/3554940/
+{ "name": "SlutSquad.exe", "type": "Game" }
 
 # Smalland: Survive the Wilds https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/
 { "name": "SMALLAND.exe", "type": "Game" }
@@ -1000,11 +1200,21 @@
 { "name": "SW2Executable.exe", "type": "Game" }
 { "name": "SmallWorld.exe", "type": "Game" }
 
+# Smart Factory Tycoon https://store.steampowered.com/app/1755300/Smart_Factory_Tycoon/
+{ "name": "ToysWorkshop.exe", "type": "Game" }
+{ "name": "ToysWorkshop-Win64-Shipping.exe", "type": "Game" }
+
 # Smart Game Booster https://store.steampowered.com/app/1278480/Smart_Game_Booster/
 { "name": "SgbMain.exe", "type": "Game" }
 
+# Smashing Simulator Idle https://store.steampowered.com/app/3066060/Smashing_Simulator_Idle/
+{ "name": "SmashingSimulatorIdle.exe", "type": "Game" }
+
 # Smash it Wild https://store.steampowered.com/app/2432240/Smash_it_Wild_Tactical_Volleyball_Roguelike/
 { "name": "Smash it Wild.exe", "type": "Game" }
+
+# SMASH LEGENDS https://store.steampowered.com/app/1352080/SMASH_LEGENDS/
+{ "name": "Smash_Legends.exe", "type": "Game" }
 
 # SMITE https://store.steampowered.com/app/386360/SMITE/
 { "name": "SmiteEAC.exe", "type": "BG_CPUIO" }
@@ -1018,12 +1228,18 @@
 # Smushi Come Home https://store.steampowered.com/app/1740300/Smushi_Come_Home/
 { "name": "Smushi Come Home.exe", "type": "Game" }
 
+# Smutstone https://store.steampowered.com/app/3330500/
+{ "name": "Smutstone.exe", "type": "Game" }
+
 # Snacko https://store.steampowered.com/app/1125510/Snacko/
 { "name": "snacko.exe", "type": "Game" }
 { "name": "snacko-Win64-Shipping.exe", "type": "Game" }
 
 # Sneak Out https://store.steampowered.com/app/2410490/Sneak_Out/
 { "name": "Sneak Out.exe", "type": "Game" }
+
+# Snakecremental https://store.steampowered.com/app/3570430/Snakecremental/
+{ "name": "Snakecremental.exe", "type": "Game" }
 
 # Sniper 3D Assassin: Shoot to Kill https://store.steampowered.com/app/922320/Sniper_3D_Assassin_Free_to_Play/
 { "name": "Sniper3D.exe", "type": "Game" }
@@ -1100,6 +1316,9 @@
 # Soccer Manager 2022 https://store.steampowered.com/app/1777760/Soccer_Manager_2022/
 { "name": "SM22.exe", "type": "Game" }
 
+# Soccer Manager 2026 https://store.steampowered.com/app/3217240/Soccer_Manager_2026/
+{ "name": "sm.exe", "type": "Game" }
+
 # Soccer Online: Ball 3D https://store.steampowered.com/app/485610/Soccer_Online_Ball_3D/
 { "name": "Ball 3D.exe", "type": "Game" }
 
@@ -1117,6 +1336,10 @@
 
 # Solar Expanse - Space Exploration Manager https://store.steampowered.com/app/1369700/Solar_Expanse__Space_Exploration_Manager/
 { "name": "Solar Expanse.exe", "type": "Game" }
+
+# Solargene https://store.steampowered.com/app/1638300/Solargene/
+{ "name": "solar.exe", "type": "Game" }
+{ "name": "solar-Win64-Shipping.exe", "type": "Game" }
 
 # Solasta: Crown of the Magister https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/
 { "name": "Solasta.exe", "type": "Game" }
@@ -1169,10 +1392,6 @@
 
 # Songs of Silence https://store.steampowered.com/app/2195410/Songs_of_Silence/
 { "name": "SongsOfSilence.exe", "type": "Game" }
-
-# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
-{ "name": "SongsOfSyx.exe", "type": "Game" }
-{ "name": "SyxWithout.exe", "type": "Game" }
 
 # Sonic Adventure 2 https://store.steampowered.com/app/213610/Sonic_Adventure_2/
 { "name": "sonic2app.exe", "type": "Game" }
@@ -1236,6 +1455,9 @@
 # Sons Of The Forest https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/
 { "name": "SonsOfTheForest.exe", "type": "Game" }
 
+# Sophie: The Girl From The Zone https://store.steampowered.com/app/3224840/
+{ "name": "SophieTheGirlFromTheZone.exe", "type": "Game" }
+
 # SOS OPS! https://store.steampowered.com/app/2475460/SOS_OPS/
 { "name": "SOS OPS.exe", "type": "Game" }
 
@@ -1267,11 +1489,15 @@
 # Soulstone Survivors https://store.steampowered.com/app/2066020/Soulstone_Survivors/
 { "name": "Soulstone Survivors.exe", "type": "Game" }
 
-# Soulworker https://store.steampowered.com/app/1377580/Soulworker/
-{ "name": "SoulWorker.exe", "type": "Game" }
+# Source Filmmaker https://store.steampowered.com/app/1840/Source_Filmmaker/
+{ "name": "sfm.exe", "type": "Game" }
+{ "name": "qsdklauncher.exe", "type": "Game" }
 
-# Soundpad https://store.steampowered.com/app/629520/Soundpad/
-{ "name": "Soundpad.exe", "type": "Game" }
+# Source SDK https://store.steampowered.com/app/211/
+{ "name": "SDKLauncher.exe", "type": "Game" }
+
+# Source SDK Base 2013 Multiplayer https://store.steampowered.com/app/243750/
+{ "name": "hl2_win64.exe", "type": "Game" }
 
 # South of Midnight https://store.steampowered.com/app/1934570/South_of_Midnight/
 { "name": "SouthOfMidnight.exe", "type": "Game" }
@@ -1286,12 +1512,21 @@
 # South Park: The Stick of Truth https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/
 { "name": "South Park - The Stick of Truth.exe", "type": "Game" }
 
+# SOVL https://store.steampowered.com/app/1870300/SOVL_Fantasy_Warfare/
+{ "name": "SOVL.exe", "type": "Game" }
+
+# Space Aces https://store.steampowered.com/app/4220440/Space_Aces/
+{ "name": "SpaceAces.exe", "type": "Game" }
+
 # Spacebase DF-9 https://store.steampowered.com/app/246090/Spacebase_DF9/
 { "name": "Space.exe", "type": "Game" }
 { "name": "NewHB_Space.exe", "type": "Game" }
 
 # SpaceBourne 2 https://store.steampowered.com/app/1646850/SpaceBourne_2/
 { "name": "SpaceBourne2.exe", "type": "Game" }
+
+# Space Calibrator https://store.steampowered.com/app/3368750/Space_Calibrator/
+{ "name": "SpaceCalibrator.exe", "type": "Game" }
 
 # Space Channel 5: Part 2 https://store.steampowered.com/app/71260/Space_Channel_5_Part_2/
 { "name": "Space Channel 5 Part 2.exe", "type": "Game" }
@@ -1300,6 +1535,7 @@
 { "name": "SpaceChem.exe", "type": "Game" }
 
 # SpaceCraft Demo https://store.steampowered.com/app/4328020/
+# SpaceCraft Beta https://store.steampowered.com/app/4011220/SpaceCraft/
 { "name": "SpaceCraft.exe", "type": "Game" }
 
 # Space Crew: Legendary Edition https://store.steampowered.com/app/1176710/Space_Crew_Legendary_Edition/
@@ -1349,11 +1585,22 @@
 # Space Rangers HD: A War Apart https://store.steampowered.com/app/214730/Space_Rangers_HD_A_War_Apart/
 { "name": "Rangers.exe", "type": "Game" }
 
+# Space Rock Breaker https://store.steampowered.com/app/4035270/Space_Rock_Breaker/
+{ "name": "SPACEROCKBREAKER.exe", "type": "Game" }
+
 # Space Run https://store.steampowered.com/app/275670/Space_Run/
 { "name": "oSpaceGame.exe", "type": "Game" }
 
 # Space Run Galaxy https://store.steampowered.com/app/355800/Space_Run_Galaxy/
 { "name": "oSRGalaxyGame.exe", "type": "Game" }
+
+# Space Station 14 Playtest https://store.steampowered.com/app/1482520/Space_Station_14/
+{ "name": "Space Station 14 Launcher.exe", "type": "Game" }
+
+# Space Station: Beyond https://store.steampowered.com/app/3731580/Space_Station_Beyond/
+{ "name": "SimpleStation14 Launcher.exe", "type": "Game" }
+{ "name": "SS14.Loader.exe", "type": "Game" }
+{ "name": "SS14.Launcher.exe", "type": "Game" }
 
 # Space Travel Idle https://store.steampowered.com/app/1407860/Space_Travel_Idle/
 { "name": "SpaceTravelIdle.exe", "type": "Game" }
@@ -1380,8 +1627,14 @@
 # SpedV https://store.steampowered.com/app/839200/SpedV/
 { "name": "FPH SpedV.exe", "type": "Game" }
 
+# Speed Kills https://store.steampowered.com/app/284930/Speed_Kills/
+{ "name": "SKGame.exe", "type": "Game" }
+
 # SpeedRunners https://store.steampowered.com/app/207140/SpeedRunners/
 { "name": "SpeedRunners.exe", "type": "Game" }
+
+# Speedway Challenge 2026 https://store.steampowered.com/app/4321720/Speedway_Challenge_2026/
+{ "name": "SC26.exe", "type": "Game" }
 
 # Spellcasters Chronicles https://store.steampowered.com/app/2458470/Spellcasters_Chronicles/
 { "name": "SpellcastersChronicles.exe", "type": "Game" }
@@ -1464,6 +1717,9 @@
 # SPITE: Taking the Boss's Wife, Sister and Mother https://store.steampowered.com/app/4242290/
 { "name": "spite.exe", "type": "Game" }
 
+# SpiritVale Playtest https://store.steampowered.com/app/3918510/SpiritVale/
+{ "name": "SpiritVale.exe", "type": "Game" }
+
 # Splatter - Zombiecalypse Now https://store.steampowered.com/app/281920/Splatter__Zombiecalypse_Now/
 { "name": "Splatter_Steam.exe", "type": "Game" }
 
@@ -1496,6 +1752,12 @@
 # SpongeBob SquarePants: The Cosmic Shake https://store.steampowered.com/app/1282150/SpongeBob_SquarePants_The_Cosmic_Shake/
 { "name": "CosmicShake.exe", "type": "Game" }
 { "name": "CosmicShake-Win64-Shipping.exe", "type": "Game" }
+
+# SpongeBob SquarePants: Titans of the Tide https://store.steampowered.com/app/2479650/SpongeBob_SquarePants_Titans_of_the_Tide/
+{ "name": "Ghost-Win64-Shipping.exe", "type": "Game" }
+
+# SpookyMilkLife https://store.steampowered.com/app/1621540/
+{ "name": "Spooky Milk Life.exe", "type": "Game" }
 
 # Spooky's Jump Scare Mansion https://store.steampowered.com/app/356670/Spookys_Jump_Scare_Mansion/
 { "name": "SPOOKY.exe", "type": "Game" }
@@ -1533,6 +1795,9 @@
 # Square Brawl https://store.steampowered.com/app/394850/Square_Brawl/
 { "name": "Square Brawl.exe", "type": "Game" }
 
+# Squeakross: Home Squeak Home https://store.steampowered.com/app/2871440/Squeakross_Home_Squeak_Home/
+{ "name": "Squeakross.exe", "type": "Game" }
+
 # Squirrel with a Gun https://store.steampowered.com/app/2067050/Squirrel_with_a_Gun/
 { "name": "SquirrelGun.exe", "type": "Game" }
 
@@ -1545,6 +1810,9 @@
 
 # Stacklands https://store.steampowered.com/app/1948280/Stacklands/
 { "name": "Stacklands.exe", "type": "Game" }
+
+# Stack to Ascension https://store.steampowered.com/app/3612130/Stack_to_Ascension/
+{ "name": "StackToAscension_PC.exe", "type": "Game" }
 
 # Staffer Case: A Supernatural Mystery Adventure https://store.steampowered.com/app/2128480/Staffer_Case_A_Supernatural_Mystery_Adventure/
 { "name": "StafferCase.exe", "type": "Game" }
@@ -1593,6 +1861,9 @@
 
 # StarBreak https://store.steampowered.com/app/420790/StarBreak/
 { "name": "mvmmoclient.exe", "type": "Game" }
+
+# Star Chef 2: Cooking Game https://store.steampowered.com/app/1612810/Star_Chef_2_Cooking_Game/
+{ "name": "Star Chef 2.exe", "type": "Game" }
 
 # Star Chef: Cooking & Restaurant Game https://store.steampowered.com/app/1028860/Star_Chef_Cooking__Restaurant_Game/
 { "name": "Star Chef.exe", "type": "Game" }
@@ -1669,6 +1940,9 @@
 
 # Starsand Island https://store.steampowered.com/app/2966320/Starsand_Island/
 { "name": "StarsandIsland.exe", "type": "Game" }
+
+# StarSavior https://store.steampowered.com/app/3609080/StarSavior/
+{ "name": "StarSavior.exe", "type": "Game" }
 
 # Starship EVO https://store.steampowered.com/app/711980/Starship_EVO/
 { "name": "Starship EVO.exe", "type": "Game" }
@@ -1813,12 +2087,24 @@
 { "name": "StationToStation.exe", "type": "Game" }
 { "name": "StationToStation-Win64-Shipping.exe", "type": "Game" }
 
+# Staxel https://store.steampowered.com/app/405710/Staxel/
+{ "name": "Staxel.ModManager.exe", "type": "Game" }
+{ "name": "StaxelCE.exe", "type": "Game" }
+{ "name": "Staxel.SteamLauncher.exe", "type": "Game" }
+{ "name": "Staxel.ServerWizard.exe", "type": "Game" }
+
 # Stay Out https://store.steampowered.com/app/1180380/Stay_Out/
 { "name": "sogame.exe", "type": "Game" }
 { "name": "sogame.host.exe", "type": "Game" }
 
+# STCC - The Game Demo Dedicated Server https://store.steampowered.com/app/8710/
+{ "name": "STCC_Demo_Dedicated_Steam.exe", "type": "Game" }
+
 # Stealth Bastard Deluxe https://store.steampowered.com/app/209190/Stealth_Bastard_Deluxe/
 { "name": "StealthBastard[Steam].exe", "type": "Game" }
+
+# Steam Engine Simulator https://store.steampowered.com/app/2381620/Steam_Engine_Simulator/
+{ "name": "atg-steam-engine-demo.exe", "type": "Game" }
 
 # SteamWorld Build https://store.steampowered.com/app/2134770/SteamWorld_Build/
 { "name": "SteamWorld Build.exe", "type": "Game" }
@@ -1838,11 +2124,18 @@
 # SteamWorld Quest: Hand of Gilgamech https://store.steampowered.com/app/804010/SteamWorld_Quest_Hand_of_Gilgamech/
 { "name": "Quest.exe", "type": "Game" }
 
+# Steel Artery: Train City Builder https://store.steampowered.com/app/3602030/Steel_Artery_Train_City_Builder/
+{ "name": "Steel Artery Train City Builder.exe", "type": "Game" }
+
 # Steel Division 2 https://store.steampowered.com/app/919640/Steel_Division_2/
 { "name": "SteelDivision2.exe", "type": "Game" }
 
 # Steel Division: Normandy 44 https://store.steampowered.com/app/572410/Steel_Division_Normandy_44/
 { "name": "SteelDivision.exe", "type": "Game" }
+
+# Steel Rats https://store.steampowered.com/app/619700/Steel_Rats/
+{ "name": "SteelRats.exe", "type": "Game" }
+{ "name": "SteelRats-Win64-Shipping.exe", "type": "Game" }
 
 # Steelrising https://store.steampowered.com/app/1283400/Steelrising/
 { "name": "Steelrising.exe", "type": "Game" }
@@ -1876,8 +2169,14 @@
 # Stephen's Sausage Roll https://store.steampowered.com/app/353540/Stephens_Sausage_Roll/
 { "name": "Sausage.exe", "type": "Game" }
 
+# Steps of Debauchery https://store.steampowered.com/app/2649970/
+{ "name": "StepsofDebauchery.exe", "type": "Game" }
+
 # Stick Fight: The Game https://store.steampowered.com/app/674940/Stick_Fight_The_Game/
 { "name": "StickFight.exe", "type": "Game" }
+
+# Stick It to the Stickman https://store.steampowered.com/app/2085540/Stick_It_to_the_Stickman/
+{ "name": "Stick It To The Stickman.exe", "type": "Game" }
 
 # Stickman Strikes: Conquer Fantasy World https://store.steampowered.com/app/2924170/Stickman_Strikes_Conquer_Fantasy_World/
 { "name": "speak.exe", "type": "Game" }
@@ -1896,6 +2195,9 @@
 
 # Stolen Realm https://store.steampowered.com/app/1330000/Stolen_Realm/
 { "name": "Stolen Realm.exe", "type": "Game" }
+
+# Stolen Realm Survivors https://store.steampowered.com/app/3228580/Stolen_Realm_Survivors/
+{ "name": "Stolen Realm Survivors.exe", "type": "Game" }
 
 # Stonehearth https://store.steampowered.com/app/253250/Stonehearth/
 { "name": "Stonehearth.exe", "type": "Game" }
@@ -1952,12 +2254,19 @@
 { "name": "STORY OF SEASONS Friends of Mineral Town.exe", "type": "Game" }
 { "name": "STORY OF SEASONS Friends of Mineral Town_Compatibility.exe", "type": "Game" }
 
+# STORY OF SEASONS: Grand Bazaar https://store.steampowered.com/app/2508780/STORY_OF_SEASONS_Grand_Bazaar/
+{ "name": "SOSGrandBazaar.exe", "type": "Game" }
+{ "name": "FO.exe", "type": "Game" }
+
 # STORY OF SEASONS: Pioneers of Olive Town https://store.steampowered.com/app/1392960/STORY_OF_SEASONS_Pioneers_of_Olive_Town/
 { "name": "SOSPoOTLauncher.exe", "type": "Game" }
 { "name": "STORY OF SEASONS Pioneers of Olive Town.exe", "type": "Game" }
 
 # Storyteller https://store.steampowered.com/app/1624540/Storyteller/
 { "name": "Storyteller.exe", "type": "Game" }
+
+# STRAFTAT https://store.steampowered.com/app/2386720/STRAFTAT/
+{ "name": "STRAFTAT.exe", "type": "Game" }
 
 # Stranded: Alien Dawn https://store.steampowered.com/app/1324130/Stranded_Alien_Dawn/
 { "name": "StrandedSteam.exe", "type": "Game" }
@@ -1975,6 +2284,8 @@
 
 # Strange Brigade https://store.steampowered.com/app/312670/Strange_Brigade/
 { "name": "StrangeBrigade.exe", "type": "Game" }
+{ "name": "StrangeBrigade_DX12.exe", "type": "Game" }
+{ "name": "StrangeBrigade_Vulkan.exe", "type": "Game" }
 
 # Strange Horticulture https://store.steampowered.com/app/1574580/Strange_Horticulture/
 { "name": "Strange Horticulture.exe", "type": "Game" }
@@ -1988,11 +2299,24 @@
 # Strategic Command WWII: War in Europe https://store.steampowered.com/app/593030/Strategic_Command_WWII_War_in_Europe/
 { "name": "SC3-WWII War in Europe.exe", "type": "Game" }
 
+# Strategic Command WWII: World at War https://store.steampowered.com/app/957720/Strategic_Command_WWII_World_at_War/
+{ "name": "SC3-WWII World at War.exe", "type": "Game" }
+
+# Strategic War in Europe https://store.steampowered.com/app/283000/Strategic_War_in_Europe/
+{ "name": "setup_swie.exe", "type": "Game" }
+{ "name": "swie.exe", "type": "Game" }
+
 # Stray https://store.steampowered.com/app/1332010/Stray/
 { "name": "Stray.exe", "type": "Game" }
 
+# Strayed https://store.steampowered.com/app/2359470/Strayed/
+{ "name": "Strayed.exe", "type": "Game" }
+
 # Stray Gods: The Roleplaying Musical https://store.steampowered.com/app/1920780/Stray_Gods_The_Roleplaying_Musical/
 { "name": "StrayGods.exe", "type": "Game" }
+
+# Stray Path https://store.steampowered.com/app/2531940/Stray_Path/
+{ "name": "Stray Path.exe", "type": "Game" }
 
 # Stream Avatars https://store.steampowered.com/app/665300/Stream_Avatars/
 { "name": "StreamAvatars.exe", "type": "Game" }
@@ -2061,6 +2385,9 @@
 # Strinova https://store.steampowered.com/app/1282270/Strinova/
 { "name": "Strinova.exe", "type": "Game" }
 
+# Strongblade https://store.steampowered.com/app/2430830/Strongblade__Puzzle_Quest_and_Match3_Adventure/
+{ "name": "RoE.exe", "type": "Game" }
+
 # Stronghold 2: Steam Edition https://store.steampowered.com/app/40960/Stronghold_2_Steam_Edition/
 { "name": "Stronghold2.exe", "type": "Game" }
 
@@ -2072,6 +2399,9 @@
 
 # Stronghold Crusader: Definitive Edition https://store.steampowered.com/app/3024040/Stronghold_Crusader_Definitive_Edition/
 { "name": "Stronghold Crusader Definitive Edition.exe", "type": "Game" }
+
+# Stronghold Crusader Extreme HD https://store.steampowered.com/app/16700/
+{ "name": "Stronghold_Crusader_Extreme.exe", "type": "Game" }
 
 # Stronghold Crusader HD (2012) https://store.steampowered.com/app/40970/Stronghold_Crusader_HD_2012/
 { "name": "Stronghold Crusader.exe", "type": "Game" }
@@ -2116,12 +2446,17 @@
 
 # Styx: Shards of Darkness https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/
 { "name": "Styx2.exe", "type": "Game" }
+{ "name": "Styx2-Win64-Shipping.exe", "type": "Game" }
 
 # Subliminal https://store.steampowered.com/app/2300840/Subliminal/
 { "name": "Subliminal.exe", "type": "Game" }
 
 # Subnautica https://store.steampowered.com/app/264710/Subnautica/
 { "name": "Subnautica.exe", "type": "Game" }
+
+# Subnautica 2 https://store.steampowered.com/app/1962700/Subnautica_2/
+{ "name": "Subnautica2.exe", "type": "Game" }
+{ "name": "Subnautica2-Win64-Shipping.exe", "type": "Game" }
 
 # Subnautica: Below Zero https://store.steampowered.com/app/848450/Subnautica_Below_Zero/
 { "name": "SubnauticaZero.exe", "type": "Game" }
@@ -2135,9 +2470,16 @@
 # Subspace Continuum https://store.steampowered.com/app/352700/Subspace_Continuum/
 { "name": "Continuum.exe", "type": "Game" }
 
+# Substance 3D Painter 2026 https://store.steampowered.com/app/4329260/Substance_3D_Painter_2026/
+{ "name": "Adobe Substance 3D Painter Beta.exe", "type": "Game" }
+
 # Subverse https://store.steampowered.com/app/1034140/Subverse/
 { "name": "Subverse.exe", "type": "Game" }
 { "name": "Subverse-Win64-Shipping.exe", "type": "Game" }
+
+# SubwaySim 2 https://store.steampowered.com/app/2707070/SubwaySim_2/
+{ "name": "SubwaySim2.exe", "type": "Game" }
+{ "name": "SubwaySim2-Win64-Shipping.exe", "type": "Game" }
 
 # SUCCUBUS https://store.steampowered.com/app/985830/SUCCUBUS/
 { "name": "Succubus.exe", "type": "Game" }
@@ -2173,6 +2515,10 @@
 # Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars https://store.steampowered.com/app/1932640/Suikoden_III_HD_Remaster_Gate_Rune_and_Dunan_Unification_Wars/
 { "name": "Suikoden I and II HD Remaster.exe", "type": "Game" }
 
+# Suit for Hire https://store.steampowered.com/app/1612420/Suit_for_Hire/
+{ "name": "ThinWick.exe", "type": "Game" }
+{ "name": "ThinWick-Win64-Shipping.exe", "type": "Game" }
+
 # SULFUR https://store.steampowered.com/app/2124120/SULFUR/
 { "name": "Sulfur.exe", "type": "Game" }
 
@@ -2182,11 +2528,20 @@
 # Summa Expeditionis https://store.steampowered.com/app/2056200/Summa_Expeditionis/
 { "name": "Summa Expeditionis.exe", "type": "Game" }
 
+# Summer Clover https://store.steampowered.com/app/2458860/
+{ "name": "SummerClover.exe", "type": "Game" }
+
 # SUMMERHOUSE https://store.steampowered.com/app/2533960/SUMMERHOUSE/
 { "name": "SUMMERHOUSE.exe", "type": "Game" }
 
 # Summoners War https://store.steampowered.com/app/2426960/Summoners_War/
 { "name": "SummonersWar.exe", "type": "Game" }
+
+# Summoners War: Chronicles https://store.steampowered.com/app/2167580/Summoners_War_Chronicles/
+{ "name": "Chronicles.exe", "type": "Game" }
+
+# Summoners War: RUSH https://store.steampowered.com/app/3813590/Summoners_War_RUSH/
+{ "name": "RUSH.exe", "type": "Game" }
 
 # Sunderfolk https://store.steampowered.com/app/2414270/Sunderfolk/
 { "name": "Sunderfolk.exe", "type": "Game" }
@@ -2212,6 +2567,9 @@
 # Super Animal Royale https://store.steampowered.com/app/843380/Super_Animal_Royale/
 { "name": "Super Animal Royale.exe", "type": "Game" }
 
+# Super Auto Pets https://store.steampowered.com/app/1714040/Super_Auto_Pets/
+{ "name": "Super Auto Pets.exe", "type": "Game" }
+
 # Super Battle Golf https://store.steampowered.com/app/4069520/Super_Battle_Golf/
 { "name": "Super Battle Golf.exe", "type": "Game" }
 
@@ -2223,6 +2581,9 @@
 
 # Super Bunny Man https://store.steampowered.com/app/673750/Super_Bunny_Man/
 { "name": "Super Bunny Man.exe", "type": "Game" }
+
+# Supercar Collection Simulator https://store.steampowered.com/app/3453600/Supercar_Collection_Simulator/
+{ "name": "Supercar Collection Simulator.exe", "type": "Game" }
 
 # Super Chicken Jumper https://store.steampowered.com/app/584640/SUPER_CHICKEN_JUMPER/
 { "name": "Super Chicken Jumper.exe", "type": "Game" }
@@ -2276,6 +2637,9 @@
 # Supermarket Simulator https://store.steampowered.com/app/2670630/Supermarket_Simulator/
 { "name": "Supermarket Simulator.exe", "type": "Game" }
 
+# Supermarket Simulator: Prologue https://store.steampowered.com/app/2772560/Supermarket_Simulator_Prologue/
+{ "name": "Supermarket Simulator Prologue.exe", "type": "Game" }
+
 # Supermarket Together https://store.steampowered.com/app/2709570/Supermarket_Together/
 { "name": "Supermarket Together.exe", "type": "Game" }
 
@@ -2291,17 +2655,29 @@
 { "name": "SuperMeatBoyForever.exe", "type": "Game" }
 { "name": "MBS.exe", "type": "Game" }
 
+# Super Mining Mechs https://store.steampowered.com/app/2830150/Super_Mining_Mechs/
+{ "name": "Super Mining Mechs.exe", "type": "Game" }
+
 # SuperPower 2 Steam Edition https://store.steampowered.com/app/282400/SuperPower_2_Steam_Edition/
 { "name": "joshua.exe", "type": "Game" }
 
 # Super Robot Wars 30 https://store.steampowered.com/app/898750/Super_Robot_Wars_30/
 { "name": "srw30.exe", "type": "Game" }
 
+# SUPER ROBOT WARS V https://store.steampowered.com/app/1031500/
+{ "name": "SRWV.EXE", "type": "Game" }
+
+# SUPER ROBOT WARS X https://store.steampowered.com/app/1031510/
+{ "name": "SRWX.EXE", "type": "Game" }
+
 # SUPER ROBOT WARS Y https://store.steampowered.com/app/1909950/SUPER_ROBOT_WARS_Y/
 { "name": "SUPER ROBOT WARS Y.exe", "type": "Game" }
 
 # Super Sanctum TD https://store.steampowered.com/app/235250/Super_Sanctum_TD/
 { "name": "SuperSanctumTD.exe", "type": "Game" }
+
+# Super Sus https://store.steampowered.com/app/2920270/Super_Sus/
+{ "name": "Super Sus.exe", "type": "Game" }
 
 # Supraland https://store.steampowered.com/app/813630/Supraland/
 { "name": "Supraland.exe", "type": "Game" }
@@ -2310,6 +2686,10 @@
 # Supraland Six Inches Under https://store.steampowered.com/app/1522870/Supraland_Six_Inches_Under/
 { "name": "SupralandSIU.exe", "type": "Game" }
 { "name": "SupralandSIU-Win64-Shipping.exe", "type": "Game" }
+
+# Supraworld https://store.steampowered.com/app/1869290/Supraworld/
+{ "name": "Supraworld.exe", "type": "Game" }
+{ "name": "Supraworld-Win64-Shipping.exe", "type": "Game" }
 
 # Supremacy: 1914 https://store.steampowered.com/app/979920/Supremacy_1914/
 { "name": "Supremacy 1914.exe", "type": "Game" }
@@ -2372,6 +2752,10 @@
 # SWAT 3: Tactical Game of the Year Edition https://store.steampowered.com/app/560370/SWAT_3_Tactical_Game_of_the_Year_Edition/
 { "name": "swat.exe", "type": "Game" }
 
+# SWAT Commander: Prologue https://store.steampowered.com/app/2428730/SWAT_Commander_Prologue/
+{ "name": "SWATCommanderPrologue.exe", "type": "Game" }
+{ "name": "SWATCommanderPrologue-Win64-Shipping.exe", "type": "Game" }
+
 # Swaying Girl https://store.steampowered.com/app/1393350/Swaying_Girl/
 { "name": "SwayingGirl.exe", "type": "Game" }
 
@@ -2422,6 +2806,9 @@
 # Sword Art Online Re: Hollow Fragment https://store.steampowered.com/app/638650/Sword_Art_Online_Re_Hollow_Fragment/
 { "name": "SAOHF.exe", "type": "Game" }
 
+# SWORDHAVEN https://store.steampowered.com/app/2108180/Swordhaven_Iron_Conspiracy/
+{ "name": "Swordhaven.exe", "type": "Game" }
+
 # Sword of the Sea https://store.steampowered.com/app/2453160/Sword_of_the_Sea/
 { "name": "SwordOfTheSea.exe", "type": "Game" }
 
@@ -2456,6 +2843,9 @@
 # Syberia II https://store.steampowered.com/app/46510/Syberia_II/
 { "name": "Syberia2.exe", "type": "Game" }
 
+# Syberia - Remastered https://store.steampowered.com/app/3660220/Syberia__Remastered/
+{ "name": "SyberiaHD.exe", "type": "Game" }
+
 # Syberia: The World Before https://store.steampowered.com/app/1410640/Syberia_The_World_Before/
 { "name": "SyberiaTWB.exe", "type": "Game" }
 
@@ -2469,7 +2859,13 @@
 { "name": "SINClient.exe", "type": "Game" }
 { "name": "SINClient-Win64-Shipping.exe", "type": "Game" }
 
-# Synergy https://store.steampowered.com/app/1989070/Synergy/
+# Synergism https://store.steampowered.com/app/3552310/Synergism/
+{ "name": "Synergism-win-x64.exe", "type": "Game" }
+
+# Synergy (2005) https://store.steampowered.com/app/17520/Synergy/
+{ "name": "synergy.exe", "type": "Game" }
+
+# Synergy (2025) https://store.steampowered.com/app/1989070/Synergy/
 { "name": "Synergy.exe", "type": "Game" }
 
 # SYNTHETIK 2 https://store.steampowered.com/app/1471410/SYNTHETIK_2/
@@ -2491,3 +2887,7 @@
 
 # System Shock 2 https://store.steampowered.com/app/238210/System_Shock_2_1999/
 { "name": "SS2.exe", "type": "Game" }
+
+# System Shock 2: 25th Anniversary Remaster https://store.steampowered.com/app/866570/
+{ "name": "hathor_Shipping_PlayFab_Steam_x64.exe", "type": "Game" }
+{ "name": "SystemShock2Remastered.exe", "type": "Game" }

@@ -23,6 +23,12 @@
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 { "name": "dod_linux64", "type": "Game" }
 
+# Day of Infamy https://store.steampowered.com/app/447820/Day_of_Infamy/
+{ "name": "dayofinfamy_linux", "type": "Game" }
+
+# Day of the Tentacle Remastered https://store.steampowered.com/app/388210/Day_of_the_Tentacle_Remastered/
+{ "name": "Dott", "type": "Game" }
+
 # DDNet https://store.steampowered.com/app/412220/DDNet/
 { "name": "DDNet", "type": "Game" }
 
@@ -41,9 +47,6 @@
 # Dead In Vinland https://store.steampowered.com/app/573120/Dead_In_Vinland/
 { "name": "Dead In Vinland.x86", "type": "Game" }
 { "name": "Dead In Vinland.x86_64", "type": "Game" }
-
-# Dead Island Definitive Edition https://store.steampowered.com/app/383150/
-{ "name": "DeadIslandGame", "type": "Game" }
 
 # Dead Island: Riptide Definitive Edition https://store.steampowered.com/app/383180/Dead_Island_Riptide_Definitive_Edition/
 { "name": "DeadIslandRiptideGame", "type": "Game" }
@@ -82,6 +85,9 @@
 # Defense Grid 2 https://store.steampowered.com/app/221540/DG2_Defense_Grid_2/
 { "name": "DefenseGrid2", "type": "Game" }
 
+# Delivery & Beyond https://store.steampowered.com/app/3376480/Delivery__Beyond/
+{ "name": "delivery-beyond.x86_64", "type": "Game" }
+
 # Democracy 3 https://store.steampowered.com/app/245470/Democracy_3/
 { "name": "Democracy3.bin.x86", "type": "Game" }
 { "name": "Democracy3.bin.x86_64", "type": "Game" }
@@ -101,8 +107,14 @@
 # Descenders https://store.steampowered.com/app/681280/Descenders/
 { "name": "Descenders.x86_64", "type": "Game" }
 
+# Desert Stalker https://store.steampowered.com/app/2899050/
+{ "name": "DesertStalker", "type": "Game" }
+
 # Desktop Dungeons https://store.steampowered.com/app/226620/Desktop_Dungeons/
 { "name": "DesktopDungeons.x86", "type": "Game" }
+
+# Desktop Nard: Dice Idle https://store.steampowered.com/app/4330860/Desktop_Nard_Dice_Idle/
+{ "name": "Desktop Nard.x86_64", "type": "Game" }
 
 # Desperados III https://store.steampowered.com/app/610370/Desperados_III/
 { "name": "Desperados III.x86_64", "type": "Game" }
@@ -125,11 +137,17 @@
 # Devil Daggers https://store.steampowered.com/app/422970/Devil_Daggers/
 { "name": "devildaggers", "type": "Game" }
 
+# Devil Spire Falls https://store.steampowered.com/app/3646460/Devil_Spire_Falls/
+{ "name": "Devil Spire Falls.x86_64", "type": "Game" }
+
 # devilutionx https://github.com/diasurgical/devilutionX/
 { "name": "devilutionx", "type": "Game" }
 
 # Dex https://store.steampowered.com/app/269650/Dex/
 { "name": "Dex.x86", "type": "Game" }
+
+# DFHack - Dwarf Fortress Modding Engine https://store.steampowered.com/app/2346660/DFHack__Dwarf_Fortress_Modding_Engine/
+{ "name": "dfhack", "type": "Game" }
 
 # dhewm3 https://dhewm3.org/
 { "name": "dhewm3", "type": "Game" }
@@ -174,6 +192,9 @@
 { "name": "dnftm.x86", "type": "Game" }
 { "name": "dnftm.x86_64", "type": "Game" }
 
+# Doodle Empires https://store.steampowered.com/app/3438800/Doodle_Empires/
+{ "name": "Doodle Empires.x86_64", "type": "Game" }
+
 # Doodle God https://store.steampowered.com/app/348360/Doodle_God/
 { "name": "DoodleGame", "type": "Game" }
 
@@ -188,6 +209,9 @@
 
 # Dota Underlords https://store.steampowered.com/app/1046930/Dota_Underlords/
 { "name": "underlords", "type": "Game" }
+
+# Down with the Ship https://store.steampowered.com/app/3523750/Down_with_the_Ship/
+{ "name": "down-with-the-ship", "type": "Game" }
 
 # Dragons and Titans https://store.steampowered.com/app/263500/Dragons_and_Titans/
 { "name": "dnt.x86", "type": "Game" }
@@ -212,6 +236,9 @@
 
 # Dreaming Isles https://store.steampowered.com/app/2258320/Dreaming_Isles/
 { "name": "Dreaming_Isles", "type": "Game" }
+
+# Drift Legends 2 https://store.steampowered.com/app/3664010/Drift_Legends_2/
+{ "name": "DL2_Linux.x86_64", "type": "Game" }
 
 # Dropsy https://store.steampowered.com/app/274350/Dropsy/
 { "name": "Dropsy.x86", "type": "Game" }
@@ -271,6 +298,9 @@
 # Dustforce DX https://store.steampowered.com/app/65300/Dustforce_DX/
 { "name": "Dustforce.bin.x86", "type": "Game" }
 { "name": "Dustforce.bin.x86_64", "type": "Game" }
+
+# Dwarf Eats Mountain https://store.steampowered.com/app/4078200/Dwarf_Eats_Mountain/
+{ "name": "Mountain_Eaters", "type": "Game" }
 
 # Dwarf Fortress https://store.steampowered.com/app/975370/Dwarf_Fortress/
 { "name": "dwarfort", "type": "Game" }

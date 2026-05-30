@@ -8,6 +8,9 @@
 # Hacker Evolution https://store.steampowered.com/app/70100/Hacker_Evolution/
 { "name": "HackerEvolution", "type": "Game" }
 
+# Hacker Evolution - Untold https://store.steampowered.com/app/70110/Hacker_Evolution_Untold/
+{ "name": "Hacker Evolution Untold", "type": "Game" }
+
 # Hacknet https://store.steampowered.com/app/365450/Hacknet/
 { "name": "Hacknet", "type": "Game" }
 
@@ -35,8 +38,14 @@
 # Hammerwatch https://store.steampowered.com/app/239070/Hammerwatch/
 { "name": "RunHammerwatch", "type": "Game" }
 
+# Hamster Combat https://store.steampowered.com/app/2376170/Hamster_Combat/
+{ "name": "Hamster Combat.x86_64", "type": "Game" }
+
 # Hamster Hunter https://store.steampowered.com/app/2726490/Hamster_Hunter/
 { "name": "hh.x86_64", "type": "Game" }
+
+# Hamsteria Demo https://store.steampowered.com/app/4440600/Hamsteria_Demo/
+{ "name": "HamsteriaDemoLinux.x86_64", "type": "Game" }
 
 # Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
 { "name": "Hand of Fate.x86", "type": "Game" }
@@ -64,6 +73,9 @@
 
 # Hearts of Iron IV https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 { "name": "hoi4", "type": "Game" }
+
+# Heatwave: Sam's Stay https://store.steampowered.com/app/4103530/
+{ "name": "Heatwave", "type": "Game" }
 
 # Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
 { "name": "heliborne.x86_64", "type": "Game" }
@@ -156,14 +168,24 @@
 { "name": "HorizonChase.x86_64", "type": "Game" }
 { "name": "HorizonChase.x86", "type": "Game" }
 
+# Horny Villa https://store.steampowered.com/app/2903690/
+{ "name": "HornyVilla.x86_64", "type": "Game" }
+{ "name": "HornyVilla-linux-prod.x86_64", "type": "Game" }
+
 # Horripilant https://store.steampowered.com/app/3525970/Horripilant/
 { "name": "Horripilant.x86_64", "type": "Game" }
+
+# Horses of Hoofprint Bay Demo https://store.steampowered.com/app/4335510/Horses_of_Hoofprint_Bay_Demo/
+{ "name": "Horses-of-Hoofprint-Bay_Linux.x86_64", "type": "Game" }
 
 # Hotline Miami https://store.steampowered.com/app/219150/Hotline_Miami/
 { "name": "Hotline", "type": "Game" }
 
 # Hotline Miami 2 Wrong Number https://store.steampowered.com/app/274170/Hotline_Miami_2_Wrong_Number/
 { "name": "HotlineMiami2", "type": "Game" }
+
+# House of Lizards https://store.steampowered.com/app/2230070/House_of_Lizards/
+{ "name": "HouseOfLizards.x86_64", "type": "Game" }
 
 # Hover https://store.steampowered.com/app/280180/Hover/
 { "name": "Hover.x86", "type": "Game" }

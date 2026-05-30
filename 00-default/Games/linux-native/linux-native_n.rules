@@ -14,6 +14,9 @@
 # Natural Selection 2 http://store.steampowered.com/app/4920/Natural_Selection_2/
 { "name": "ns2_linux", "type": "Game" }
 
+# Natural Selection 2 Dedicated Server https://store.steampowered.com/app/4940/
+{ "name": "server_linux", "type": "Game" }
+
 # Nebuchadnezzar https://store.steampowered.com/app/1157220/Nebuchadnezzar/
 { "name": "nebuchadnezzar", "type": "Game" }
 
@@ -29,8 +32,14 @@
 # Neverending Nightmares https://store.steampowered.com/app/253330/Neverending_Nightmares/
 { "name": "nightmare", "type": "Game" }
 
+# Neverway https://store.steampowered.com/app/2318330/Neverway/
+{ "name": "Neverway", "type": "Game" }
+
 # Neverwinter Nights: Enhanced Edition https://store.steampowered.com/app/704450/Neverwinter_Nights_Enhanced_Edition/
 { "name": "nwmain-linux", "type": "Game" }
+
+# NEXT JUMP: Shmup Tactics https://store.steampowered.com/app/624690/NEXT_JUMP_Shmup_Tactics/
+{ "name": "NEXT JUMP Shmup Tactics", "type": "Game" }
 
 # Niche - a genetics survival game https://store.steampowered.com/app/440650/Niche__a_genetics_survival_game/
 { "name": "Niche.x86", "type": "Game" }
@@ -61,6 +70,12 @@
 
 # Nordic Ashes: Survivors of Ragnarok https://store.steampowered.com/app/2068280/Nordic_Ashes_Survivors_of_Ragnarok/
 { "name": "NordicAshes.x86_64", "type": "Game" }
+
+# Not A Banana: Capybara https://store.steampowered.com/app/3097670/Not_A_Banana_Capybara/
+{ "name": "Not A Banana.x86_64", "type": "Game" }
+
+# No Time https://store.steampowered.com/app/1043340/No_Time/
+{ "name": "NoTime64.x86_64", "type": "Game" }
 
 # NSFW Solitaire & Puzzles https://store.steampowered.com/app/2274120/NSFW_Solitaire/
 { "name": "NSFWSolitaire.x86_64", "type": "Game" }

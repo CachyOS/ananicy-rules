@@ -43,6 +43,10 @@
 { "name": "TryGame-Win32-Shipping.exe", "type": "Game" }
 { "name": "CookerSync.exe", "type": "Game" }
 
+# Quarantine Zone: The Last Check https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/
+{ "name": "QZSim.exe", "type": "Game" }
+{ "name": "QZSim-Win64-Shipping.exe", "type": "Game" }
+
 # Quasimorph https://store.steampowered.com/app/2059170/Quasimorph/
 { "name": "Quasimorph.exe", "type": "Game" }
 

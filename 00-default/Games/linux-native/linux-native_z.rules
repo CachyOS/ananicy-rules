@@ -8,6 +8,9 @@
 # Zaccaria Pinball https://store.steampowered.com/app/444930/Zaccaria_Pinball/
 { "name": "ZaccariaPinball", "type": "Game" }
 
+# Z.A.T.O. // I Love the World and Everything In It https://store.steampowered.com/app/4122860/ZATO__I_Love_the_World_and_Everything_In_It/
+{ "name": "ZATO", "type": "Game" }
+
 # zdoom https://zdoom.org/
 { "name": "gzdoom", "type": "Game" }
 { "name": "zdoom", "type": "Game" }
@@ -28,3 +31,6 @@
 
 # Zombie Panic! Source https://store.steampowered.com/app/17500/Zombie_Panic_Source/
 { "name": "zps_linux", "type": "Game" }
+
+# Zomcats Invasion https://store.steampowered.com/app/2699240/Zomcats_Invasion/
+{ "name": "ZomcatsInvasionLinux.x86_64", "type": "Game" }

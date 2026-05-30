@@ -3,6 +3,9 @@
 # Get name of game from steam.
 # If not from any store add name you think it needs.
 
+# 007 First Light https://store.steampowered.com/agecheck/app/3768760/
+{ "name": "007FirstLight.exe", "type": "Game" }
+
 # 10,000,000 https://store.steampowered.com/app/227580/10000000/
 { "name": "10000000.exe", "type": "Game" }
 
@@ -25,6 +28,9 @@
 # 112 Operator https://store.steampowered.com/app/793460/112_Operator/
 { "name": "Operator 112.exe", "type": "Game" }
 
+# 12 is Better Than 6 https://store.steampowered.com/app/410110/12_is_Better_Than_6/
+{ "name": "12ibt6.exe", "type": "Game" }
+
 # 1348 Ex Voto https://store.steampowered.com/app/1895900/1348_Ex_Voto/
 { "name": "1348.exe", "type": "Game" }
 { "name": "P1348-Win64-Shipping.exe", "type": "Game" }
@@ -32,8 +38,8 @@
 # 140 https://store.steampowered.com/app/242820/140/
 { "name": "140.exe", "type": "Game" }
 
-# 14 Minesweeper Variants 2 https://store.steampowered.com/app/2631960/14_Minesweeper_Variants_2/
-{ "name": "MineVar.exe", "type": "Game" }
+# 1492: A New World https://store.steampowered.com/app/3861100/
+{ "name": "1492.exe", "type": "Game" }
 
 # 171 https://store.steampowered.com/app/1269370/171/
 { "name": "BGG.exe", "type": "Game" }
@@ -45,6 +51,12 @@
 
 # 1954 Alcatraz https://store.steampowered.com/app/255280/1954_Alcatraz/
 { "name": "Alcatraz.exe", "type": "Game" }
+
+# 2024: Mosaic Retrospective https://store.steampowered.com/app/3380760/2024_Mosaic_Retrospective/
+{ "name": "Retrospective 2024.exe", "type": "Game" }
+
+# 2025: Mosaic Retrospective https://store.steampowered.com/app/4266120/2025_Mosaic_Retrospective/
+{ "name": "Retrospective 2025.exe", "type": "Game" }
 
 # 20 Minutes Till Dawn https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/
 { "name": "MinutesTillDawn.exe", "type": "Game" }
@@ -59,11 +71,11 @@
 { "name": "30XX.exe", "type": "Game" }
 { "name": "Editor30XX.exe", "type": "Game" }
 
+# 33 Immortals Demo https://store.steampowered.com/app/4191960/33_Immortals_Demo/
+{ "name": "33Immortals.exe", "type": "Game" }
+
 # 3D Aim Trainer https://store.steampowered.com/app/1600530/3D_Aim_Trainer/
 { "name": "3dat.exe", "type": "Game" }
-
-# 3DMark https://store.steampowered.com/app/223850/3DMark/
-{ "name": "3DMark.exe", "type": "Game" }
 
 # 3on3 FreeStyle: Rebound https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/
 { "name": "xldr_3on3FreeStyle_ST_loader_x64.exe", "type": "Game" }
@@ -96,11 +108,18 @@
 { "name": "7DaysToDie.exe", "type": "Game" }
 { "name": "7DaysToDie_EAC.exe", "type": "Game" }
 
+# 7 Days to Die Dedicated Server https://store.steampowered.com/app/294420/
+{ "name": "7DaysToDieServer.exe", "type": "Game" }
+
 # 7 Days to End with You https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/
 { "name": "Seven Days to End with You.exe", "type": "Game" }
 
 # '83 https://store.steampowered.com/app/1059220/83/
 { "name": "XV83.exe", "type": "Game" }
+
+# 8AM https://store.steampowered.com/app/2835590/8AM/
+{ "name": "am.exe", "type": "Game" }
+{ "name": "am-Win64-Shipping.exe", "type": "Game" }
 
 # 8Doors: Arum's Afterlife Adventure https://store.steampowered.com/app/668550/8Doors_Arums_Afterlife_Adventure/
 { "name": "8Doors.exe", "type": "Game" }

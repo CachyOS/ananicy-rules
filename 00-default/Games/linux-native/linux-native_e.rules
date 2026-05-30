@@ -50,8 +50,18 @@
 # Emperor of the Fading Suns https://store.steampowered.com/app/2799350/Emperor_of_the_Fading_Suns_Enhanced/
 { "name": "efs", "type": "Game" }
 
+# Empire Deluxe Combined Edition https://store.steampowered.com/app/742700/Empire_Deluxe_Combined_Edition/
+{ "name": "EmpireCombined.x86_64", "type": "Game" }
+{ "name": "EmpireCombined.x86", "type": "Game" }
+
 # Empires of the Undergrowth https://store.steampowered.com/app/463530/Empires_of_the_Undergrowth/
 { "name": "EotU-Linux-Shipping", "type": "Game" }
+
+# EMUUROM https://store.steampowered.com/app/1634360/EMUUROM/
+{ "name": "emuurom.file", "type": "Game" }
+
+# ENA: Dream BBQ https://store.steampowered.com/app/2134320/ENA_Dream_BBQ/
+{ "name": "ENA-4-DreamBBQ.x86_64", "type": "Game" }
 
 # Encased https://store.steampowered.com/app/921800/Encased_A_SciFi_PostApocalyptic_RPG/
 { "name": "Encased.x86_64", "type": "Game" }
@@ -96,9 +106,6 @@
 
 # Europa Universalis IV https://store.steampowered.com/app/236850/Europa_Universalis_IV/
 { "name": "eu4", "type": "Game" }
-
-# Euro Truck Simulator 2 https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
-{ "name": "eurotrucks2", "type": "Game" }
 
 # Everlasting Summer https://store.steampowered.com/app/331470/Everlasting_Summer/
 { "name": "Everlasting Summer", "type": "Game" }

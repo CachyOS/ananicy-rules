@@ -25,14 +25,14 @@ Please also add the name of the game next to the url, which you get the name of 
 
 If not from any store add name you think it needs.
 
-#### 1. [Example rule for Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/Games/wine_proton/wine_proton_j.rules)
+#### 1. [Example rule for Just Cause 2](https://github.com/CachyOS/ananicy-rules/blob/b3bf685c267cdc817a7067c6c16c9725cd5c5250/00-default/Games/wine_proton/wine_proton_j.rules#L168)
 
 ```
 # Just Cause 2 https://store.steampowered.com/app/8190/Just_Cause_2/
 { "name": "JustCause2.exe", "type": "Game" }
 ```
 
-#### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/Games/wine_proton/wine_proton_the.rules)
+#### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/b3bf685c267cdc817a7067c6c16c9725cd5c5250/00-default/Games/wine_proton/wine_proton_the.rules#L759)
 
 ```
 # The Outer Worlds https://store.steampowered.com/app/578650/The_Outer_Worlds/
@@ -40,7 +40,7 @@ If not from any store add name you think it needs.
 { "name": "TheOuterWorlds.exe", "type": "Game" }
 ```
 
-#### 3. [Example rules for Portal 2 which is Linux native game](https://github.com/CachyOS/ananicy-rules/blob/master/00-default/Games/linux-native/linux-native_p.rules)
+#### 3. [Example rules for Portal 2 which is Linux native game](https://github.com/CachyOS/ananicy-rules/blob/b3bf685c267cdc817a7067c6c16c9725cd5c5250/00-default/Games/linux-native/linux-native_p.rules#L157)
 
 ```
 # Portal 2 https://store.steampowered.com/app/620/Portal_2/
@@ -49,7 +49,7 @@ If not from any store add name you think it needs.
 
 Duplicate entries can be detected with this command: ```grep -rhoP --include='*.rules' '"name"\s*:\s*"\K[^"]+' . | sort | uniq -d```
 
-Games can be sorted with sort-games.sh (make sure to read the comments)
+Games can be sorted with sort-games.sh, for more information run this in terminal ```./sort-games.sh --help```
 
 ### <u>You can also contribute by opening an [issue](https://github.com/CachyOS/ananicy-rules/issues) and providing information about the application </u>
 **Make sure the app is not already in the repository before opening an issue.**

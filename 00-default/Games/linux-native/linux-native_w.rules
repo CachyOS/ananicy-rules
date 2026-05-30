@@ -5,6 +5,9 @@
 
 ### W ###
 
+# Wagotabi https://store.steampowered.com/app/2701720/Wagotabi_A_Japanese_Journey/
+{ "name": "Wagotabi.x86_64", "type": "Game" }
+
 # Waking Mars https://store.steampowered.com/app/227200/Waking_Mars/
 { "name": "wakingmars", "type": "Game" }
 
@@ -16,6 +19,9 @@
 
 # Warhammer 40,000: Dawn of War III https://store.steampowered.com/app/285190/Warhammer_40000_Dawn_of_War_III/
 { "name": "DawnOfWar3", "type": "Game" }
+
+# Warhammer 40,000: Dawn of War II - Retribution https://store.steampowered.com/app/56400/
+{ "name": "DawnOfWar2Retribution", "type": "Game" }
 
 # Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
 { "name": "Gladius", "type": "BG_CPUIO" }
@@ -37,9 +43,6 @@
 
 # Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland", "type": "Game" }
-
-# Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
-{ "name": "WL2", "type": "Game" }
 
 # Wasteland 3 https://store.steampowered.com/app/719040/Wasteland_3/
 { "name": "Wasteland 3.x86_64", "type": "Game" }
@@ -118,6 +121,9 @@
 # Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
 { "name": "WorldsOfMagic", "type": "Game" }
 
+# World War Legion https://store.steampowered.com/app/3577060/World_War_Legion/
+{ "name": "WorldWarLegion.x86_64", "type": "Game" }
+
 # Worms Clan Wars https://store.steampowered.com/app/233840/Worms_Clan_Wars/
 { "name": "WormsClanWars.bin.x86", "type": "Game" }
 
@@ -129,3 +135,6 @@
 
 # WRATH: Aeon of Ruin https://store.steampowered.com/app/1000410/WRATH_Aeon_of_Ruin/
 { "name": "wrath-steam", "type": "Game" }
+
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+{ "name": "WreckRunners-Linux-Shipping", "type": "Game" }

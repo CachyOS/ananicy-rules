@@ -31,6 +31,9 @@
 # Making History II: The War of the World https://store.steampowered.com/app/46770/Making_History_II_The_War_of_the_World/
 { "name": "mh2", "type": "Game" }
 
+# Maktala https://store.steampowered.com/app/4005560/Maktala_Slime_Lootfest/
+{ "name": "Maktala.x86_64", "type": "Game" }
+
 # Maniac https://store.steampowered.com/app/1482380/Maniac/
 { "name": "maniac", "type": "Game" }
 
@@ -50,6 +53,9 @@
 
 # Mark of the Ninja: Remastered https://store.steampowered.com/app/860950/
 { "name": "Ninja", "type": "Game" }
+
+# MARVEL Cosmic Invasion https://store.steampowered.com/app/2753970/MARVEL_Cosmic_Invasion/
+{ "name": "Game.bin.x86_64", "type": "Game" }
 
 # MASSIVE CHALICE https://store.steampowered.com/app/246110/MASSIVE_CHALICE/
 { "name": "MC", "type": "Game" }
@@ -84,6 +90,9 @@
 # Melvor Idle https://store.steampowered.com/app/1267910/Melvor_Idle/
 { "name": "Melvor Idle", "type": "Game" }
 
+# Melvor Idle 2 Playtest https://store.steampowered.com/app/3794500/Melvor_Idle_2/
+{ "name": "MelvorIdle2.x86_64", "type": "Game" }
+
 # Men of War II https://store.steampowered.com/app/1128860/Men_of_War_II/
 { "name": "mow2_editor", "type": "Game" }
 { "name": "mow2", "type": "Game" }
@@ -98,14 +107,29 @@
 # Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
 { "name": "MetroExodus", "type": "Game" }
 
+# Metro: Last Light Complete Edition https://steamdb.info/app/43160/
+{ "name": "MetroLL", "type": "Game" }
+
 # Middle-earth: Shadow of Mordor https://store.steampowered.com/app/241930/Middleearth_Shadow_of_Mordor/
 { "name": "ShadowOfMordor", "type": "Game" }
+
+# Midnight Paradise https://store.steampowered.com/app/2485270/
+{ "name": "MidnightParadise", "type": "Game" }
 
 # Mighty No. 9 https://store.steampowered.com/app/314710/Mighty_No_9/
 { "name": "MN9Game.bin.x86_64", "type": "Game" }
 
+# MILFs of Sunville - Season 2 https://store.steampowered.com/app/2294730/
+{ "name": "MilfsOfSunville2", "type": "Game" }
+
+# MILF's Plaza https://store.steampowered.com/app/2706300/
+{ "name": "MilfsPlaza", "type": "Game" }
+
 # Military Conflict: Vietnam https://store.steampowered.com/app/1012110/Military_Conflict_Vietnam/
 { "name": "mcv_linux64", "type": "Game" }
+
+# Milk inside a bag of milk inside a bag of milk https://store.steampowered.com/app/1392820/Milk_inside_a_bag_of_milk_inside_a_bag_of_milk/
+{ "name": "PMKM", "type": "Game" }
 
 # Milk outside a bag of milk outside a bag of milk https://store.steampowered.com/app/1604000/Milk_outside_a_bag_of_milk_outside_a_bag_of_milk/
 { "name": "PMKM2", "type": "Game" }
@@ -129,11 +153,20 @@
 # Mini Thief https://store.steampowered.com/app/481870/Mini_Thief/
 { "name": "Mini_Thief", "type": "Game" }
 
+# Miscrits: World of Creatures https://store.steampowered.com/app/3628960/Miscrits_World_of_Creatures/
+{ "name": "Miscrits_Linux", "type": "Game" }
+
+# Mist Legacy https://store.steampowered.com/app/1259440/Mist_Legacy/
+{ "name": "mistlegacy.x86_64", "type": "Game" }
+
 # MMORPG Tycoon 2 https://store.steampowered.com/app/486860/MMORPG_Tycoon_2/
 { "name": "MT2", "type": "Game" }
 
 # Mobmod https://gamebanana.com/mods/464620/
 { "name": "Mobbos", "type": "Game" }
+
+# Momentum Mod Playtest https://store.steampowered.com/app/1802710/Momentum_Mod/
+{ "name": "momentum", "type": "Game" }
 
 # Momodora: Reverie Under The Moonlight https://store.steampowered.com/app/428550/Momodora_Reverie_Under_The_Moonlight/
 { "name": "MomodoraRUtM.out", "type": "Game" }
@@ -186,6 +219,9 @@
 # Mosa Lina https://store.steampowered.com/app/2477090/Mosa_Lina/
 { "name": "Mosa Lina", "type": "Game" }
 
+# MoSimulator https://store.steampowered.com/app/4398690/MoSimulator/
+{ "name": "MoSimulator.x86_64", "type": "Game" }
+
 # Mother Russia Bleeds https://store.steampowered.com/app/361300/Mother_Russia_Bleeds/
 { "name": "Mother Russia Bleeds.x86_64", "type": "Game" }
 
@@ -199,6 +235,9 @@
 # Mount & Blade: Warband https://store.steampowered.com/app/48700/Mount__Blade_Warband/
 { "name": "mb_warband_linux", "type": "Game" }
 
+# MR FARMBOY https://store.steampowered.com/app/2795090/MR_FARMBOY/
+{ "name": "mrfarmboyLinux.x86_64", "type": "Game" }
+
 # Mr Shifty https://store.steampowered.com/app/489140/Mr_Shifty/
 { "name": "MrShifty.x86_64", "type": "Game" }
 
@@ -210,3 +249,6 @@
 
 # MXGP3 - The Official Motocross Videogame https://store.steampowered.com/app/561600/MXGP3__The_Official_Motocross_Videogame/
 { "name": "mxgp3.x86_64", "type": "Game" }
+
+# My Bimbo Dream https://store.steampowered.com/app/2579730/
+{ "name": "MyBimboDream", "type": "Game" }

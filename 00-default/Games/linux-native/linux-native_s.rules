@@ -9,6 +9,9 @@
 { "name": "saintsrow2", "type": "Game" }
 { "name": "saintsrow2.i386", "type": "Game" }
 
+# Saints Row: Gat out of Hell https://store.steampowered.com/app/301910/Saints_Row_Gat_out_of_Hell/
+{ "name": "saintsrowgooh", "type": "Game" }
+
 # Saints Row IV: Re-Elected http://store.steampowered.com/app/206420/Saints_Row_IV_ReElected/
 { "name": "SaintsRow4.i386", "type": "Game" }
 
@@ -40,11 +43,21 @@
 { "name": "FactoryGame", "type": "Game" }
 { "name": "FactoryGameSteam", "type": "Game" }
 
+# Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
+{ "name": "FactoryServer-Linux-Shipping", "type": "Game" }
+{ "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Game" }
+
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
 
+# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
+{ "name": "scapewatch", "type": "Game" }
+
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow", "type": "Game" }
+
+# Schrodinger's Cat Burglar https://store.steampowered.com/app/2111550/Schrodingers_Cat_Burglar/
+{ "name": "SCB_Linux.x86_64", "type": "Game" }
 
 # ScourgeBringer https://store.steampowered.com/app/1037020/ScourgeBringer/
 { "name": "ScourgeBringer", "type": "Game" }
@@ -132,6 +145,9 @@
 # Shatter https://store.steampowered.com/app/20820/Shatter/
 { "name": "Shatter.bin.x86", "type": "Game" }
 
+# Shattered Minds https://store.steampowered.com/app/2713690/
+{ "name": "Shattered_Minds", "type": "Game" }
+
 # Shattered Pixel Dungeon https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/
 { "name": "Shattered Pixel Dungeon", "type": "Game" }
 
@@ -166,6 +182,9 @@
 # Ship of Harkinian https://www.shipofharkinian.com/
 { "name": "soh.appimage", "type": "Game" }
 
+# Shipping Manager https://store.steampowered.com/app/2445660/Shipping_Manager/
+{ "name": "sm_sdl_steam", "type": "Game" }
+
 # Shogun Showdown https://store.steampowered.com/app/2084000/Shogun_Showdown/
 { "name": "ShogunShowdown.x86_64", "type": "Game" }
 
@@ -194,9 +213,18 @@
 # Sid Meier's Civilization VII https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/
 { "name": "Civ7_linux_Vulkan_FinalRelease", "type": "Game" }
 
+# Siegeturtle https://store.steampowered.com/app/3959050/Siegeturtle/
+{ "name": "Siegeturtle", "type": "Game" }
+
+# Silly Polly Beast https://store.steampowered.com/app/1598780/Silly_Polly_Beast/
+{ "name": "Silly Polly Beast.x86_64", "type": "Game" }
+
 # SimAirport https://store.steampowered.com/app/598330/SimAirport/
 { "name": "SimAirport.x86_64", "type": "Game" }
 { "name": "SimAirport.x86", "type": "Game" }
+
+# Sim Companies https://store.steampowered.com/app/2253720/Sim_Companies/
+{ "name": "Sim Companies", "type": "Game" }
 
 # Simutrans https://store.steampowered.com/app/434520/Simutrans/
 { "name": "simutrans", "type": "Game" }
@@ -204,8 +232,14 @@
 # Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
 { "name": "SiralimUltimate", "type": "Game" }
 
+# Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
+{ "name": "swhaop_playtest.x86_64", "type": "Game" }
+
 # Sir, You Are Being Hunted https://store.steampowered.com/app/242880/Sir_You_Are_Being_Hunted/
 { "name": "sir", "type": "Game" }
+
+# Skeleseller https://store.steampowered.com/app/3226210/Skeleseller/
+{ "name": "skeleseller", "type": "Game" }
 
 # Skillshot City https://store.steampowered.com/app/308600/Skillshot_City/
 { "name": "SkillshotCity", "type": "Game" }
@@ -246,8 +280,17 @@
 { "name": "SlimeRancher.x86", "type": "Game" }
 { "name": "SlimeRancher.x86_64", "type": "Game" }
 
+# SlimeVR https://store.steampowered.com/app/3245490/SlimeVR/
+{ "name": "slimevr", "type": "Game" }
+
 # Small World https://store.steampowered.com/app/235620/Small_World/
 { "name": "Small World 2", "type": "Game" }
+
+# Smashing Simulator Idle https://store.steampowered.com/app/3066060/Smashing_Simulator_Idle/
+{ "name": "SmashingSimulatorIdle.x86_64", "type": "Game" }
+
+# Snakecremental https://store.steampowered.com/app/3570430/Snakecremental/
+{ "name": "Snakecremental.x86_64", "type": "Game" }
 
 # Sober : Roblox game launcher https://sober.vinegarhq.org/
 { "name": "sober", "type": "Game" }
@@ -277,11 +320,11 @@
 # Songs for a Hero - Definitive Edition https://store.steampowered.com/app/389170/Songs_for_a_Hero__Definitive_Edition/
 { "name": "DumaLegend.bin.x86_64", "type": "Game" }
 
-# Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
-{ "name": "songsofsyx", "type": "Game" }
-
 # Sonic Unleashed Recompiled https://github.com/hedge-dev/UnleashedRecomp/
 { "name": "UnleashedRecomp", "type": "Game" }
+
+# Sophie: The Girl From The Zone https://store.steampowered.com/app/3224840/
+{ "name": "SophieTheGirlFromTheZone", "type": "Game" }
 
 # Soulstone Survivors https://store.steampowered.com/app/2066020/Soulstone_Survivors/
 { "name": "Soulstone-Survivors.x86_64", "type": "Game" }
@@ -309,6 +352,9 @@
 
 # Space Run https://store.steampowered.com/app/275670/Space_Run/
 { "name": "oSpaceGameMerged", "type": "Game" }
+
+# Space Station 14 Playtest https://store.steampowered.com/app/1482520/Space_Station_14/
+{ "name": "SS14.Launcher", "type": "Game" }
 
 # Sparkle 2 Evo https://store.steampowered.com/app/253650/Sparkle_2_Evo/
 { "name": "sparkle2evo.x86", "type": "Game" }
@@ -379,6 +425,9 @@
 # STAR WARS Knights of the Old Republic II - The Sith Lords https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/
 { "name": "KOTOR2", "type": "Game" }
 
+# Staxel https://store.steampowered.com/app/405710/Staxel/
+{ "name": "StaxelCE", "type": "Game" }
+
 # SteamWorld Dig https://store.steampowered.com/app/252410/SteamWorld_Dig/
 { "name": "SteamWorldDig", "type": "Game" }
 
@@ -390,6 +439,9 @@
 
 # SteamWorld Quest: Hand of Gilgamech https://store.steampowered.com/app/804010/SteamWorld_Quest_Hand_of_Gilgamech/
 { "name": "Quest", "type": "Game" }
+
+# Steel Rats https://store.steampowered.com/app/619700/Steel_Rats/
+{ "name": "SteelRats-Linux-Shipping", "type": "Game" }
 
 # Steel Storm: Burning Retribution https://store.steampowered.com/app/96200/Steel_Storm_Burning_Retribution/
 { "name": "steelstorm64", "type": "Game" }
@@ -404,8 +456,14 @@
 { "name": "Sausage.x86", "type": "Game" }
 { "name": "Sausage.x86_64", "type": "Game" }
 
+# Steps of Debauchery https://store.steampowered.com/app/2649970/
+{ "name": "StepsofDebauchery", "type": "Game" }
+
 # STONKS-9800: Stock Market Simulator https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/
 { "name": "STONKS_9800", "type": "Game" }
+
+# STRAFTAT https://store.steampowered.com/app/2386720/STRAFTAT/
+{ "name": "STRAFTAT.x86_64", "type": "Game" }
 
 # Stranded Deep https://store.steampowered.com/app/313120/Stranded_Deep/
 { "name": "Stranded_Deep", "type": "Game" }
@@ -435,6 +493,9 @@
 # Sub Rosa https://store.steampowered.com/app/272230/Sub_Rosa/
 { "name": "subrosa.x64", "type": "Game" }
 
+# Substance 3D Painter 2026 https://store.steampowered.com/app/4329260/Substance_3D_Painter_2026/
+{ "name": "Adobe Substance 3D Painter Beta", "type": "Game" }
+
 # Sudden Strike 4 https://store.steampowered.com/app/373930/Sudden_Strike_4/
 { "name": "SuddenStrike4.x86_64", "type": "Game" }
 
@@ -455,6 +516,9 @@
 # Sunless Skies https://store.steampowered.com/app/596970/Sunless_Skies_Sovereign_Edition/
 { "name": "Sunless Skies.x86", "type": "Game" }
 { "name": "Sunless Skies.x86_64", "type": "Game" }
+
+# Super Auto Pets https://store.steampowered.com/app/1714040/Super_Auto_Pets/
+{ "name": "superautopets.x86_64", "type": "Game" }
 
 # Superbrothers: Sword & Sworcery EP https://store.steampowered.com/app/204060/Superbrothers_Sword__Sworcery_EP/
 { "name": "swordandsworcery_pc", "type": "Game" }
@@ -489,9 +553,15 @@
 # Sven Co-op https://store.steampowered.com/app/225840/Sven_Coop/
 { "name": "svencoop_linux", "type": "Game" }
 
+# SWORDHAVEN https://store.steampowered.com/app/2108180/Swordhaven_Iron_Conspiracy/
+{ "name": "Swordhaven.x86_64", "type": "Game" }
+
 # Sword of the Stars: The Pit https://store.steampowered.com/app/233700/Sword_of_the_Stars_The_Pit/
 { "name": "ThePit", "type": "Game" }
 
 # Symphony https://store.steampowered.com/app/207750/Symphony/
 { "name": "Symphony.bin.x86", "type": "Game" }
 { "name": "Symphony.bin.x86_64", "type": "Game" }
+
+# Synergism https://store.steampowered.com/app/3552310/Synergism/
+{ "name": "synergismofficial", "type": "Game" }
