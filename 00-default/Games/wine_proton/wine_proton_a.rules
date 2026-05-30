@@ -26,6 +26,9 @@
 # A Building Full of Cats https://store.steampowered.com/app/1969080/A_Building_Full_of_Cats/
 { "name": "Building.exe", "type": "Game" }
 
+# A Few Quick Matches https://store.steampowered.com/app/3805420/A_Few_Quick_Matches/
+{ "name": "A Few Quick Matches.exe", "type": "Game" }
+
 # Abyss Odyssey https://store.steampowered.com/app/255070/Abyss_Odyssey/
 { "name": "AO.exe", "type": "Game" }
 
@@ -76,6 +79,10 @@
 # Action Taimanin https://store.steampowered.com/app/1335200/Action_Taimanin/
 { "name": "ActionTaimanin.exe", "type": "Game" }
 
+# Act of Aggression https://store.steampowered.com/app/318020/Act_of_Aggression__Reboot_Edition/
+{ "name": "ActOfAggression.exe", "type": "Game" }
+{ "name": "ActOfAggressionRE.exe", "type": "Game" }
+
 # A Dance of Fire and Ice https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 { "name": "A Dance of Fire and Ice.exe", "type": "Game" }
 
@@ -104,6 +111,9 @@
 
 # AdventureQuest 3D https://store.steampowered.com/app/429790/AdventureQuest_3D/
 { "name": "aq3d.exe", "type": "Game" }
+
+# AdventureQuest Worlds: Infinity Playtest https://store.steampowered.com/app/2094530/
+{ "name": "AdventureQuest Worlds Infinity.exe", "type": "Game" }
 
 # Adventures of Shuggy https://store.steampowered.com/app/211440/Adventures_of_Shuggy/
 { "name": "Shuggy.exe", "type": "Game" }
@@ -162,6 +172,9 @@
 
 # Ageless https://store.steampowered.com/app/1210150/Ageless/
 { "name": "Ageless.exe", "type": "Game" }
+
+# Agent Awesome https://store.steampowered.com/app/345220/Agent_Awesome/
+{ "name": "Agent Awesome.exe", "type": "Game" }
 
 # Age of Conan: Unchained https://store.steampowered.com/app/217750/Age_of_Conan_Unchained/
 { "name": "ConanPatcher.exe", "type": "Game" }
@@ -263,6 +276,9 @@
 # AI Roguelite https://store.steampowered.com/app/1889620/AI_Roguelite/
 { "name": "AI Roguelite.exe", "type": "Game" }
 
+# Airport Baggage Simulator https://store.steampowered.com/app/3887090/Airport_Baggage_Simulator/
+{ "name": "Airport Baggage Simulator.exe", "type": "Game" }
+
 # Airport CEO https://store.steampowered.com/app/673610/Airport_CEO/
 { "name": "Airport CEO.exe", "type": "Game" }
 
@@ -318,6 +334,9 @@
 
 # Ale & Tale Tavern https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/
 { "name": "Ale and Tale Tavern.exe", "type": "Game" }
+
+# Ale Abbey https://store.steampowered.com/app/2789460/Ale_Abbey__Monastery_Brewery_Tycoon/
+{ "name": "AleAbbey.exe", "type": "Game" }
 
 # Alice: Madness Returns https://store.steampowered.com/app/19680/Alice_Madness_Returns/
 { "name": "AliceMadnessReturns.exe", "type": "Game" }
@@ -417,6 +436,10 @@
 
 # Amberspire https://store.steampowered.com/app/3350750/Amberspire/
 { "name": "Amberspire.exe", "type": "Game" }
+
+# Ambulance Life: A Paramedic Simulator https://store.steampowered.com/app/1926520/
+{ "name": "Sanka.exe", "type": "Game" }
+{ "name": "Sanka-Win64-Shipping.exe", "type": "Game" }
 
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks.exe", "type": "Game" }
@@ -523,6 +546,9 @@
 # Animalia Survival https://store.steampowered.com/app/1364290/Animalia_Survival/
 { "name": "AnimaliaSurvival.exe", "type": "Game" }
 
+# Animal Company https://store.steampowered.com/app/4551040/Animal_Company/
+{ "name": "AnimalCompany.exe", "type": "Game" }
+
 # Animal Jam https://store.steampowered.com/app/822240/Animal_Jam/
 { "name": "Play Wild.exe", "type": "Game" }
 
@@ -602,8 +628,15 @@
 # Anomaly Zone https://store.steampowered.com/app/1157250/Anomaly_Zone/
 { "name": "AnomalyZone.exe", "type": "Game" }
 
+# Anonymous Hacker Simulator https://store.steampowered.com/app/2487060/Anonymous_Hacker_Simulator/
+{ "name": "HackerLifeSimulator.exe", "type": "Game" }
+{ "name": "HackerLifeSimulator-Win64-Shipping.exe", "type": "Game" }
+
 # Another Crab's Treasure https://store.steampowered.com/app/1887840/Another_Crabs_Treasure/
 { "name": "AnotherCrabsTreasure.exe", "type": "Game" }
+
+# Another Farm Roguelike: Rebirth https://store.steampowered.com/app/2760790/Another_Farm_Roguelike_Rebirth/
+{ "name": "AFR Rebirth.exe", "type": "Game" }
 
 # ANOTHER EDEN https://store.steampowered.com/app/1252600/ANOTHER_EDEN/
 { "name": "AnotherEden.exe", "type": "Game" }
@@ -750,6 +783,10 @@
 # Arknights: Endfield https://endfield.gryphline.com/
 { "name": "Endfield.exe", "type": "Game" }
 
+# Arkheron Playtest https://store.steampowered.com/app/3401450/
+{ "name": "arkheron-launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Arkheron.exe", "type": "Game" }
+
 # Ark Nova https://store.steampowered.com/app/2438990/Ark_Nova/
 { "name": "ArkNova.exe", "type": "Game" }
 
@@ -762,6 +799,7 @@
 { "name": "arma.exe", "type": "Game" }
 
 # Arma 2 https://store.steampowered.com/app/33900/Arma_2/
+# Arma 2 (other) https://store.steampowered.com/app/33910/ARMA_2/
 { "name": "arma2.exe", "type": "Game" }
 
 # Arma 2: Operation Arrowhead https://store.steampowered.com/app/33930/Arma_2_Operation_Arrowhead/
@@ -936,6 +974,10 @@
 { "name": "acr.exe", "type": "Game" }
 { "name": "GameThread.exe", "type": "Game" }
 
+# Asterigos: Curse of the Stars https://store.steampowered.com/app/1731070/Asterigos_Curse_of_the_Stars/
+{ "name": "Asterigos.exe", "type": "Game" }
+{ "name": "Genesis-Win64-Shipping.exe", "type": "Game" }
+
 # Astebreed: Definitive Edition https://store.steampowered.com/app/283680/Astebreed_Definitive_Edition/
 { "name": "Astebreed.exe", "type": "Game" }
 
@@ -961,6 +1003,9 @@
 
 # ASTROBOTANICA https://store.steampowered.com/app/2720920/ASTROBOTANICA/
 { "name": "Astrobotanica.exe", "type": "Game" }
+
+# Astrobuilder https://store.steampowered.com/app/3105960/Astrobuilder/
+{ "name": "WA.exe", "type": "Game" }
 
 # Astro Colony https://store.steampowered.com/app/1614550/Astro_Colony/
 { "name": "AstroColony.exe", "type": "Game" }
@@ -1183,6 +1228,9 @@
 
 # Avorion https://store.steampowered.com/app/445220/Avorion/
 { "name": "Avorion.exe", "type": "Game" }
+
+# Avocado https://store.steampowered.com/app/3062580/Avocado/
+{ "name": "Avocado.exe", "type": "Game" }
 
 # Avowed https://store.steampowered.com/app/2457220/Avowed/
 { "name": "Avowed.exe", "type": "Game" }

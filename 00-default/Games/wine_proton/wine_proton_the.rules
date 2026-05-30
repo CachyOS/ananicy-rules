@@ -13,6 +13,10 @@
 { "name": "AoD.exe", "type": "Game" }
 { "name": "AoD64.exe", "type": "Game" }
 
+# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
+{ "name": "Elliot.exe", "type": "Game" }
+{ "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
+
 # The Alters https://store.steampowered.com/app/1601570/The_Alters/
 { "name": "TheAlters.exe", "type": "Game" }
 { "name": "TheAlters-Win64-Shipping.exe", "type": "Game" }
@@ -104,6 +108,10 @@
 # The Bus https://store.steampowered.com/app/491540/The_Bus/
 { "name": "TheBus.exe", "type": "Game" }
 
+# The Campaign Series: Fall Weiss https://store.steampowered.com/app/283020/The_Campaign_Series_Fall_Weiss/
+{ "name": "fw_setup.exe", "type": "Game" }
+{ "name": "fw.exe", "type": "Game" }
+
 # The Cabin Factory https://store.steampowered.com/app/3311740/The_Cabin_Factory/
 { "name": "TheCabinFactory.exe", "type": "Game" }
 
@@ -135,6 +143,10 @@
 
 # The Chronicles of Riddick: Escape from Butcher Bay https://www.gog.com/dreamlist/game/the-chronicles-of-riddick-escape-from-butcher-bay
 { "name": "SbzEngine.exe", "type": "Game" }
+
+# The Circle Move https://store.steampowered.com/app/4713700/The_Circle_Move/
+{ "name": "TheCircleMove.exe", "type": "Game" }
+{ "name": "TheCircleMove-Win64-Shipping.exe", "type": "Game" }
 
 # The Citadel https://store.steampowered.com/app/1378290/The_Citadel/
 { "name": "the_citadel.exe", "type": "Game" }

@@ -5,11 +5,17 @@
 
 ### T ###
 
+# TBH: Task Bar Hero https://store.steampowered.com/app/3678970/TBH_Task_Bar_Hero/
+{ "name": "TaskBarHero.exe", "type": "Game" }
+
 # Tabletopia https://store.steampowered.com/app/402560/Tabletopia/
 { "name": "Tabletopia.exe", "type": "Game" }
 
 # Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.exe", "type": "Game" }
+
+# Tabletop Game Shop Simulator https://store.steampowered.com/app/3524750/Tabletop_Game_Shop_Simulator/
+{ "name": "Tabletop.exe", "type": "Game" }
 
 # Tactical Assault VR https://store.steampowered.com/app/2314160/Tactical_Assault_VR/
 { "name": "Tactical Assault VR.exe", "type": "Game" }
@@ -19,6 +25,9 @@
 
 # Tactics Ogre: Reborn https://store.steampowered.com/app/1451090/Tactics_Ogre_Reborn/
 { "name": "Tactics Ogre Reborn.exe", "type": "Game" }
+
+# Taffy Tales Redux : The Morning After https://store.steampowered.com/app/4040840/
+{ "name": "Taffy Tales Redux The Morning After.exe", "type": "Game" }
 
 # Taiji https://store.steampowered.com/app/1141580/Taiji/
 { "name": "Taiji.exe", "type": "Game" }
@@ -77,6 +86,10 @@
 # Tales of ARISE https://store.steampowered.com/app/740130/Tales_of_ARISE/
 { "name": "Tales of Arise.exe", "type": "Game" }
 
+# Tales of Rein Ravine https://store.steampowered.com/app/2299740/Tales_of_Rein_Ravine/
+{ "name": "HorseGame.exe", "type": "Game" }
+{ "name": "HorseGame-Win64-Shipping.exe", "type": "Game" }
+
 # Tales of Berseria https://store.steampowered.com/app/429660/Tales_of_Berseria/
 { "name": "Tales of Berseria.exe", "type": "Game" }
 
@@ -125,6 +138,10 @@
 
 # Tametsi https://store.steampowered.com/app/709920/Tametsi/
 { "name": "tametsi.exe", "type": "Game" }
+
+# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
+{ "name": "Tamer.exe", "type": "Game" }
+{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
 
 # Tangle Tower https://store.steampowered.com/app/359510/Tangle_Tower/
 { "name": "Tangle Tower.exe", "type": "Game" }
@@ -235,8 +252,12 @@
 { "name": "TME-Win64-Shipping.exe", "type": "Game" }
 
 # Tempest Rising https://store.steampowered.com/app/1486920/Tempest_Rising/
+# Tempest Rising: Veti Multiplayer Public Beta https://store.steampowered.com/app/2488530/
 { "name": "Tempest.exe", "type": "Game" }
 { "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
+
+# Temple Maker 64 Demo https://store.steampowered.com/app/4705140/
+{ "name": "Temple Maker 64.exe", "type": "Game" }
 
 # Temtem https://store.steampowered.com/app/745920/Temtem/
 { "name": "Temtem.exe", "type": "Game" }
@@ -303,6 +324,10 @@
 # TerraTech Legion https://store.steampowered.com/app/3596700/TerraTech_Legion/
 { "name": "TerraTech_LegionEOS.exe", "type": "Game" }
 { "name": "TerraTech_LegionEOS-Win64-Shipping.exe", "type": "Game" }
+
+# TerraTech Legion Demo https://store.steampowered.com/app/3729960/TerraTech_Legion_Demo/
+{ "name": "TerraTech_Legion_Demo.exe", "type": "Game" }
+{ "name": "TerraTech_Legion_Demo-Win64-Shipping.exe", "type": "Game" }
 
 # TerraTech Worlds https://store.steampowered.com/app/2313330/TerraTech_Worlds/
 { "name": "TT2EOS.exe", "type": "Game" }

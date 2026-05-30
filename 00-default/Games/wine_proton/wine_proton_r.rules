@@ -385,6 +385,9 @@
 # Resident Evil Requiem https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/
 { "name": "re9.exe", "type": "Game" }
 
+# Resident Evil Requiem - Demo https://store.steampowered.com/app/4459100/
+{ "name": "re9demo.exe", "type": "Game" }
+
 # RESIDENT EVIL RESISTANCE https://store.steampowered.com/app/952070/RESIDENT_EVIL_RESISTANCE/
 { "name": "REResistance.exe", "type": "Game" }
 
@@ -412,6 +415,10 @@
 # Retail Company Simulator https://store.steampowered.com/app/3089130/Retail_Company_Simulator/
 { "name": "RetailCompanySim.exe", "type": "Game" }
 { "name": "RetailCompanySim-Win64-Shipping.exe", "type": "Game" }
+
+# Retail Hell https://store.steampowered.com/app/4174310/Retail_Hell/
+{ "name": "RetailHell.exe", "type": "Game" }
+{ "name": "HorrorMarket-Win64-Shipping.exe", "type": "Game" }
 
 # RetroArch https://store.steampowered.com/app/1118310/RetroArch/
 { "name": "retroarch.exe", "type": "Game" }
@@ -712,6 +719,9 @@
 # Rock 'N' Roll Defense https://store.steampowered.com/app/438480/Rock_N_Roll_Defense/
 { "name": "Rock 'N' Roll Defense.exe", "type": "Game" }
 
+# Rock the Islands https://store.steampowered.com/app/2987860/Rock_the_Islands/
+{ "name": "RockTheIslands.exe", "type": "Game" }
+
 # Rock of Ages https://store.steampowered.com/app/22230/Rock_of_Ages/
 { "name": "RoA.exe", "type": "Game" }
 
@@ -839,6 +849,9 @@
 # Roman Triumph: Survival City Builder https://store.steampowered.com/app/1864880/Roman_Triumph_Survival_City_Builder/
 { "name": "Roman Triumph Survival City Builder.exe", "type": "Game" }
 
+# Romestead https://store.steampowered.com/app/1805320/Romestead/
+{ "name": "Romestead.exe", "type": "Game" }
+
 # ROMEO IS A DEAD MAN https://store.steampowered.com/app/3050900/ROMEO_IS_A_DEAD_MAN/
 { "name": "SevGame.exe", "type": "Game" }
 { "name": "SevGame-Win64-Shipping.exe", "type": "Game" }
@@ -896,6 +909,9 @@
 # R-Type Dimensions EX https://store.steampowered.com/app/928390/RType_Dimensions_EX/
 { "name": "R-Type_Dimensions.exe", "type": "Game" }
 
+# Rugby League 26 https://store.steampowered.com/app/3468660/Rugby_League_26/
+{ "name": "rugbyleague1.exe", "type": "Game" }
+
 # RUBATO https://store.steampowered.com/app/2244030/RUBATO/
 { "name": "RUBATO.exe", "type": "Game" }
 
@@ -927,6 +943,9 @@
 # Runaway, The Dream of The Turtle https://store.steampowered.com/app/7220/Runaway_The_Dream_of_The_Turtle/
 { "name": "RunawayTDOTT.exe", "type": "Game" }
 
+# Rune Dice https://store.steampowered.com/app/3542380/Rune_Dice/
+{ "name": "Rune Dice.exe", "type": "Game" }
+
 # Rune Classic https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
 
@@ -952,6 +971,10 @@
 # Runes of Magic https://store.steampowered.com/app/808290/Runes_of_Magic/
 { "name": "RoMLauncher.exe", "type": "Game" }
 { "name": "Runes of Magic.exe", "type": "Game" }
+
+# RUNNING TRAIN https://store.steampowered.com/app/4630570/RUNNING_TRAIN/
+{ "name": "RunningTrain.exe", "type": "Game" }
+{ "name": "RunningTrain-Win64-Shipping.exe", "type": "Game" }
 
 # RUNNING WITH RIFLES https://store.steampowered.com/app/270150/RUNNING_WITH_RIFLES/
 { "name": "rwr_config.exe", "type": "Game" }

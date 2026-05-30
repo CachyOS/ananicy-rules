@@ -54,6 +54,9 @@
 # F1 Manager 2024 https://store.steampowered.com/app/2591280/F1_Manager_2024/
 { "name": "F1Manager24.exe", "type": "Game" }
 
+# Family Crush https://store.steampowered.com/app/2600150/
+{ "name": "fc.exe", "type": "Game" }
+
 # Fable Anniversary https://store.steampowered.com/app/288470/Fable_Anniversary/
 { "name": "Fable Anniversary.exe", "type": "Game" }
 
@@ -379,10 +382,17 @@
 # Feed the Cups https://store.steampowered.com/app/2336220/Feed_the_Cups/
 { "name": "Feed the Cups.exe", "type": "Game" }
 
+# Feed the Reactor https://store.steampowered.com/app/4009730/Feed_the_Reactor/
+{ "name": "Feed the Reactor.exe", "type": "Game" }
+
 # Feign https://store.steampowered.com/app/1436990/Feign/
 { "name": "Feign.exe", "type": "Game" }
 
 # Fellowship (By Chief Rebel Games. Not to be confused with Fellowship by Elraim Studio.) https://store.steampowered.com/app/2352620/Fellowship/
+{ "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
+
+# Fellowship Playtest https://store.steampowered.com/app/3165720/
+{ "name": "fellowship.exe", "type": "Game" }
 { "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
 
 # Fell Seal: Arbiter's Mark https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/
@@ -556,6 +566,10 @@
 
 # First Cut: Samurai Duel https://store.steampowered.com/app/2193490/First_Cut_Samurai_Duel/
 { "name": "FirstCutv2.exe", "type": "Game" }
+
+# First Class Trouble https://store.steampowered.com/app/953880/First_Class_Trouble/
+{ "name": "FCTClient.exe", "type": "Game" }
+{ "name": "FCTClient-Win64-Shipping.exe", "type": "Game" }
 
 # Fishbowl https://store.steampowered.com/app/1638070/Fishbowl/
 { "name": "fishbowl.exe", "type": "Game" }
@@ -876,6 +890,10 @@
 # Front Office Football Eight https://store.steampowered.com/app/547900/Front_Office_Football_Eight/
 { "name": "Front Office Football Eight.exe", "type": "Game" }
 
+# FrostBound https://store.steampowered.com/app/3649580/FrostBound/
+{ "name": "Card.exe", "type": "Game" }
+{ "name": "Card-Win64-Shipping.exe", "type": "Game" }
+
 # Frostpunk https://store.steampowered.com/app/323190/Frostpunk/
 { "name": "Frostpunk.exe", "type": "Game" }
 
@@ -888,6 +906,9 @@
 
 # Fruitbus https://store.steampowered.com/app/2484130/Fruitbus/
 { "name": "Fruitbus.exe", "type": "Game" }
+
+# Fruit Stand Fortune https://store.steampowered.com/app/3306030/Fruit_Stand_Fortune/
+{ "name": "Fruit Stand Fortune.exe", "type": "Game" }
 
 # FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
 { "name": "FTLGame.exe", "type": "Game" }

@@ -25,6 +25,10 @@
 { "name": "BetGame.exe", "type": "Game" }
 { "name": "BETGameSteam-Win64-Shipping.exe", "type": "Game" }
 
+# Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
+{ "name": "BackroomsLostRunners.exe", "type": "Game" }
+{ "name": "BackroomsLostRunners-Win64-Shipping.exe", "type": "Game" }
+
 # Backrooms Rec. https://store.steampowered.com/app/2275020/Backrooms_Rec/
 { "name": "SCPExperiences.exe", "type": "Game" }
 { "name": "SCPExperiences-Win64-Shipping.exe", "type": "Game" }
@@ -82,8 +86,14 @@
 # Banana https://store.steampowered.com/app/2923300/Banana/
 { "name": "Banana.exe", "type": "Game" }
 
+# Banana Cat https://store.steampowered.com/app/3058700/Banana_Cat/
+{ "name": "Banana Cat.exe", "type": "Game" }
+
 # Banana Hell: Mountain of Madness https://store.steampowered.com/app/2068520/Banana_Hell_Mountain_of_Madness/
 { "name": "banana_hell2.exe", "type": "Game" }
+
+# Bang Bang Barrage https://store.steampowered.com/app/3003460/Bang_Bang_Barrage/
+{ "name": "Bang Bang Barrage.exe", "type": "Game" }
 
 # Bandit Kings of Ancient China https://store.steampowered.com/app/521680/Bandit_Kings_of_Ancient_China/
 { "name": "Suikoden1_Launcher.exe", "type": "BG_CPUIO" }
@@ -98,6 +108,9 @@
 
 # Banner of the Maid https://store.steampowered.com/app/994730/Banner_of_the_Maid/
 { "name": "banner.exe", "type": "Game" }
+
+# Banners of Ruin https://store.steampowered.com/app/1075740/Banners_of_Ruin/
+{ "name": "BannersOfRuin.exe", "type": "Game" }
 
 # Banquet for Fools https://store.steampowered.com/app/3172700/Banquet_for_Fools/
 { "name": "Banquet for Fools.exe", "type": "Game" }
@@ -172,6 +185,9 @@
 
 # Battle Brothers https://store.steampowered.com/app/365360/Battle_Brothers/
 { "name": "BattleBrothers.exe", "type": "Game" }
+
+# Battle Islands https://store.steampowered.com/app/305260/Battle_Islands/
+{ "name": "BattleIslands.exe", "type": "Game" }
 
 # Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
 { "name": "BC.exe", "type": "Game" }
@@ -419,6 +435,9 @@
 # Bigscreen Beta https://store.steampowered.com/app/457550/Bigscreen_Beta/
 { "name": "Bigscreen.exe", "type": "Game" }
 
+# Bigscreen Beyond Utility https://store.steampowered.com/app/2467050/
+{ "name": "BeyondHID.exe", "type": "Game" }
+
 # Binary Domain https://store.steampowered.com/app/203750/Binary_Domain/
 { "name": "BinaryDomain.exe", "type": "Game" }
 { "name": "BinaryDomainConfiguration.exe", "type": "Game" }
@@ -607,6 +626,9 @@
 
 # Blitzkrieg 3 https://store.steampowered.com/app/235380/Blitzkrieg_3/
 { "name": "b3.exe", "type": "Game" }
+
+# Blind Box Shop Simulator https://store.steampowered.com/app/4284570/Blind_Box_Shop_Simulator/
+{ "name": "BlindBoxShopSimulator.exe", "type": "Game" }
 
 # BLOCKADE https://store.steampowered.com/app/1049800/BLOCKADE/
 { "name": "BlockadeEAC.exe", "type": "Game" }
@@ -837,6 +859,9 @@
 # Bound By Flame https://store.steampowered.com/app/243930/Bound_By_Flame/
 { "name": "BoundByFlame.exe", "type": "Game" }
 
+# Bounty Brawl: Most Wanted https://store.steampowered.com/app/3097510/Bounty_Brawl_Most_Wanted/
+{ "name": "Bounty Brawl Most Wanted.exe", "type": "Game" }
+
 # Bounty: Drag Racing https://store.steampowered.com/app/1803390/Bounty_Drag_Racing/
 { "name": "Bounty Drag Racing Drag Racing Evolved.exe", "type": "Game" }
 
@@ -977,14 +1002,28 @@
 # Buckshot Roulette https://store.steampowered.com/app/2835570/Buckshot_Roulette/
 { "name": "Buckshot Roulette.exe", "type": "Game" }
 
+# Bubsy 4D https://store.steampowered.com/app/3237970/Bubsy_4D/
+{ "name": "Bubsy 4D.exe", "type": "Game" }
+
 # Buddy Simulator 1984 https://store.steampowered.com/app/1269950/Buddy_Simulator_1984/
 { "name": "Buddy Simulator 1984.exe", "type": "Game" }
+
+# Budgie's Bug Shop https://store.steampowered.com/app/4279120/Budgies_Bug_Shop/
+{ "name": "Budgie's Bug Shop.exe", "type": "Game" }
 
 # Bugsnax https://store.steampowered.com/app/674140/Bugsnax/
 { "name": "Bugsnax.exe", "type": "Game" }
 
 # Bugtopia https://store.steampowered.com/app/2988300/Bugtopia/
 { "name": "Bugtopia.exe", "type": "Game" }
+
+# Bunny Guys! https://store.steampowered.com/app/2218460/Bunny_Guys/
+{ "name": "BunnyGuys.exe", "type": "Game" }
+{ "name": "BunnyGuys-Win64-Shipping.exe", "type": "Game" }
+
+# Bunny Hurling https://store.steampowered.com/app/3515620/Bunny_Hurling/
+{ "name": "BunnyHurling.exe", "type": "Game" }
+{ "name": "BunnyHurling-Win64-Shipping.exe", "type": "Game" }
 
 # Builder Simulator https://store.steampowered.com/app/1120320/Builder_Simulator/
 { "name": "Builder Simulator.exe", "type": "Game" }
@@ -1003,6 +1042,9 @@
 
 # Burger Shop 3 https://store.steampowered.com/app/2505570/Burger_Shop_3/
 { "name": "BurgerShop3.exe", "type": "Game" }
+
+# Burger Kombat https://store.steampowered.com/app/2487680/Burger_Kombat/
+{ "name": "Burger.exe", "type": "Game" }
 
 # Burnout Paradise Remastered https://store.steampowered.com/app/1238080/Burnout_Paradise_Remastered/
 { "name": "BurnoutPR.exe", "type": "Game" }

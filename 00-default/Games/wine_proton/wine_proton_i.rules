@@ -75,6 +75,10 @@
 # Idle Space Raider https://store.steampowered.com/app/933540/Idle_Space_Raider/
 { "name": "isr.exe", "type": "Game" }
 
+# Idlequarium https://store.steampowered.com/app/3689560/Idlequarium/
+{ "name": "IdlequariumLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Idlequarium.exe", "type": "Game" }
+
 # Idle Tower Defense https://store.steampowered.com/app/3054090/Idle_Tower_Defense/
 { "name": "Idle Tower Defense.exe", "type": "Game" }
 
@@ -251,6 +255,10 @@
 # Injustice: Gods Among Us Ultimate Edition https://store.steampowered.com/app/242700/Injustice_Gods_Among_Us_Ultimate_Edition/
 { "name": "Injustice.exe", "type": "Game" }
 
+# Inkwellers https://store.steampowered.com/app/3061390/Inkwellers/
+{ "name": "TwoToo.exe", "type": "Game" }
+{ "name": "TwoToo-Win64-Shipping.exe", "type": "Game" }
+
 # Inkbound https://store.steampowered.com/app/1062810/Inkbound/
 { "name": "Inkbound.exe", "type": "Game" }
 
@@ -319,6 +327,10 @@
 
 # Into the Breach https://store.steampowered.com/app/590380/Into_the_Breach/
 { "name": "Breach.exe", "type": "Game" }
+
+# Into the Fire Playtest https://store.steampowered.com/app/4651230/
+{ "name": "ProjectTwo.exe", "type": "Game" }
+{ "name": "ProjectTwo-Win64-Test.exe", "type": "Game" }
 
 # Into the Dead: Our Darkest Days https://store.steampowered.com/app/2239710/Into_the_Dead_Our_Darkest_Days/
 { "name": "IntoTheDeadOurDarkestDays.exe", "type": "Game" }
@@ -396,6 +408,9 @@
 
 # Iron Snout https://store.steampowered.com/app/424280/Iron_Snout/
 { "name": "IronSnout.exe", "type": "Game" }
+
+# Isekai Big Dick https://store.steampowered.com/app/3825660/
+{ "name": "IsekaiBigDick.exe", "type": "Game" }
 
 # ISLANDERS https://store.steampowered.com/app/1046030/ISLANDERS/
 { "name": "ISLANDERS.exe", "type": "Game" }
