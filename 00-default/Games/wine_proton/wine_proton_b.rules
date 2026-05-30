@@ -92,12 +92,12 @@
 # Banana Hell: Mountain of Madness https://store.steampowered.com/app/2068520/Banana_Hell_Mountain_of_Madness/
 { "name": "banana_hell2.exe", "type": "Game" }
 
-# Bang Bang Barrage https://store.steampowered.com/app/3003460/Bang_Bang_Barrage/
-{ "name": "Bang Bang Barrage.exe", "type": "Game" }
-
 # Bandit Kings of Ancient China https://store.steampowered.com/app/521680/Bandit_Kings_of_Ancient_China/
 { "name": "Suikoden1_Launcher.exe", "type": "BG_CPUIO" }
 { "name": "Suikoden1.exe", "type": "Game" }
+
+# Bang Bang Barrage https://store.steampowered.com/app/3003460/Bang_Bang_Barrage/
+{ "name": "Bang Bang Barrage.exe", "type": "Game" }
 
 # Banished https://store.steampowered.com/app/242920/Banished/
 { "name": "Application-steam-x32.exe", "type": "Game" }
@@ -186,9 +186,6 @@
 # Battle Brothers https://store.steampowered.com/app/365360/Battle_Brothers/
 { "name": "BattleBrothers.exe", "type": "Game" }
 
-# Battle Islands https://store.steampowered.com/app/305260/Battle_Islands/
-{ "name": "BattleIslands.exe", "type": "Game" }
-
 # Battle Chasers: Nightwar https://store.steampowered.com/app/451020/Battle_Chasers_Nightwar/
 { "name": "BC.exe", "type": "Game" }
 
@@ -230,6 +227,9 @@
 # Battle for Wesnoth https://store.steampowered.com/app/599390/Battle_for_Wesnoth/
 { "name": "wesnoth.exe", "type": "Game" }
 { "name": "wesnothd.exe", "type": "Game" }
+
+# Battle Islands https://store.steampowered.com/app/305260/Battle_Islands/
+{ "name": "BattleIslands.exe", "type": "Game" }
 
 # Battle Nations https://store.steampowered.com/app/251670/Battle_Nations/
 { "name": "BattleNations.exe", "type": "Game" }
@@ -624,11 +624,11 @@
 { "name": "Bless.exe", "type": "Game" }
 { "name": "BlessUnleashedLauncher.exe", "type": "BG_CPUIO" }
 
-# Blitzkrieg 3 https://store.steampowered.com/app/235380/Blitzkrieg_3/
-{ "name": "b3.exe", "type": "Game" }
-
 # Blind Box Shop Simulator https://store.steampowered.com/app/4284570/Blind_Box_Shop_Simulator/
 { "name": "BlindBoxShopSimulator.exe", "type": "Game" }
+
+# Blitzkrieg 3 https://store.steampowered.com/app/235380/Blitzkrieg_3/
+{ "name": "b3.exe", "type": "Game" }
 
 # BLOCKADE https://store.steampowered.com/app/1049800/BLOCKADE/
 { "name": "BlockadeEAC.exe", "type": "Game" }
@@ -999,11 +999,11 @@
 # Brutal Orchestra https://store.steampowered.com/app/1734320/Brutal_Orchestra/
 { "name": "BrutalOrchestra.exe", "type": "Game" }
 
-# Buckshot Roulette https://store.steampowered.com/app/2835570/Buckshot_Roulette/
-{ "name": "Buckshot Roulette.exe", "type": "Game" }
-
 # Bubsy 4D https://store.steampowered.com/app/3237970/Bubsy_4D/
 { "name": "Bubsy 4D.exe", "type": "Game" }
+
+# Buckshot Roulette https://store.steampowered.com/app/2835570/Buckshot_Roulette/
+{ "name": "Buckshot Roulette.exe", "type": "Game" }
 
 # Buddy Simulator 1984 https://store.steampowered.com/app/1269950/Buddy_Simulator_1984/
 { "name": "Buddy Simulator 1984.exe", "type": "Game" }
@@ -1017,14 +1017,6 @@
 # Bugtopia https://store.steampowered.com/app/2988300/Bugtopia/
 { "name": "Bugtopia.exe", "type": "Game" }
 
-# Bunny Guys! https://store.steampowered.com/app/2218460/Bunny_Guys/
-{ "name": "BunnyGuys.exe", "type": "Game" }
-{ "name": "BunnyGuys-Win64-Shipping.exe", "type": "Game" }
-
-# Bunny Hurling https://store.steampowered.com/app/3515620/Bunny_Hurling/
-{ "name": "BunnyHurling.exe", "type": "Game" }
-{ "name": "BunnyHurling-Win64-Shipping.exe", "type": "Game" }
-
 # Builder Simulator https://store.steampowered.com/app/1120320/Builder_Simulator/
 { "name": "Builder Simulator.exe", "type": "Game" }
 
@@ -1037,14 +1029,22 @@
 # Bum Simulator https://store.steampowered.com/app/855740/Bum_Simulator/
 { "name": "BumSim.exe", "type": "Game" }
 
+# Bunny Guys! https://store.steampowered.com/app/2218460/Bunny_Guys/
+{ "name": "BunnyGuys.exe", "type": "Game" }
+{ "name": "BunnyGuys-Win64-Shipping.exe", "type": "Game" }
+
+# Bunny Hurling https://store.steampowered.com/app/3515620/Bunny_Hurling/
+{ "name": "BunnyHurling.exe", "type": "Game" }
+{ "name": "BunnyHurling-Win64-Shipping.exe", "type": "Game" }
+
 # Burden of Command https://store.steampowered.com/app/887490/Burden_of_Command/
 { "name": "BoC.exe", "type": "Game" }
 
-# Burger Shop 3 https://store.steampowered.com/app/2505570/Burger_Shop_3/
-{ "name": "BurgerShop3.exe", "type": "Game" }
-
 # Burger Kombat https://store.steampowered.com/app/2487680/Burger_Kombat/
 { "name": "Burger.exe", "type": "Game" }
+
+# Burger Shop 3 https://store.steampowered.com/app/2505570/Burger_Shop_3/
+{ "name": "BurgerShop3.exe", "type": "Game" }
 
 # Burnout Paradise Remastered https://store.steampowered.com/app/1238080/Burnout_Paradise_Remastered/
 { "name": "BurnoutPR.exe", "type": "Game" }

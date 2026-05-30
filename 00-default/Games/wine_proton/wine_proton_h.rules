@@ -387,9 +387,6 @@
 { "name": "Launch_H-Hour.exe", "type": "Game" }
 { "name": "HHourGame-Win64-Shipping.exe", "type": "Game" }
 
-# Hive Blight https://store.steampowered.com/app/2886620/Hive_Blight/
-{ "name": "HiveBlight.exe", "type": "Game" }
-
 # Hidden Deep https://store.steampowered.com/app/976890/Hidden_Deep/
 { "name": "hdeep.exe", "type": "Game" }
 { "name": "hdeep_NG.exe", "type": "Game" }
@@ -445,6 +442,9 @@
 
 # HITMAN World of Assassination https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
 { "name": "HITMAN3.exe", "type": "Game" }
+
+# Hive Blight https://store.steampowered.com/app/2886620/Hive_Blight/
+{ "name": "HiveBlight.exe", "type": "Game" }
 
 # Hmmsim Metro https://store.steampowered.com/app/1591420/Hmmsim_Metro/
 { "name": "HmmsimMetro.exe", "type": "Game" }

@@ -5,17 +5,14 @@
 
 ### T ###
 
-# TBH: Task Bar Hero https://store.steampowered.com/app/3678970/TBH_Task_Bar_Hero/
-{ "name": "TaskBarHero.exe", "type": "Game" }
+# Tabletop Game Shop Simulator https://store.steampowered.com/app/3524750/Tabletop_Game_Shop_Simulator/
+{ "name": "Tabletop.exe", "type": "Game" }
 
 # Tabletopia https://store.steampowered.com/app/402560/Tabletopia/
 { "name": "Tabletopia.exe", "type": "Game" }
 
 # Tabletop Simulator https://store.steampowered.com/app/286160/Tabletop_Simulator/
 { "name": "Tabletop Simulator.exe", "type": "Game" }
-
-# Tabletop Game Shop Simulator https://store.steampowered.com/app/3524750/Tabletop_Game_Shop_Simulator/
-{ "name": "Tabletop.exe", "type": "Game" }
 
 # Tactical Assault VR https://store.steampowered.com/app/2314160/Tactical_Assault_VR/
 { "name": "Tactical Assault VR.exe", "type": "Game" }
@@ -86,10 +83,6 @@
 # Tales of ARISE https://store.steampowered.com/app/740130/Tales_of_ARISE/
 { "name": "Tales of Arise.exe", "type": "Game" }
 
-# Tales of Rein Ravine https://store.steampowered.com/app/2299740/Tales_of_Rein_Ravine/
-{ "name": "HorseGame.exe", "type": "Game" }
-{ "name": "HorseGame-Win64-Shipping.exe", "type": "Game" }
-
 # Tales of Berseria https://store.steampowered.com/app/429660/Tales_of_Berseria/
 { "name": "Tales of Berseria.exe", "type": "Game" }
 
@@ -105,6 +98,10 @@
 
 # Tales of Maj'Eyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
 { "name": "t-engine.exe", "type": "Game" }
+
+# Tales of Rein Ravine https://store.steampowered.com/app/2299740/Tales_of_Rein_Ravine/
+{ "name": "HorseGame.exe", "type": "Game" }
+{ "name": "HorseGame-Win64-Shipping.exe", "type": "Game" }
 
 # Tales of Seikyu https://store.steampowered.com/app/2340520/Tales_of_Seikyu/
 { "name": "Tales Of Seikyu.exe", "type": "Game" }
@@ -136,12 +133,12 @@
 # TAMASHIKA https://store.steampowered.com/app/2996080/TAMASHIKA/
 { "name": "TAMASHIKA.exe", "type": "Game" }
 
-# Tametsi https://store.steampowered.com/app/709920/Tametsi/
-{ "name": "tametsi.exe", "type": "Game" }
-
 # Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
 { "name": "Tamer.exe", "type": "Game" }
 { "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
+
+# Tametsi https://store.steampowered.com/app/709920/Tametsi/
+{ "name": "tametsi.exe", "type": "Game" }
 
 # Tangle Tower https://store.steampowered.com/app/359510/Tangle_Tower/
 { "name": "Tangle Tower.exe", "type": "Game" }
@@ -201,6 +198,9 @@
 { "name": "TaxiLife.exe", "type": "Game" }
 { "name": "TaxiLife-Win64-Shipping.exe", "type": "Game" }
 
+# TBH: Task Bar Hero https://store.steampowered.com/app/3678970/TBH_Task_Bar_Hero/
+{ "name": "TaskBarHero.exe", "type": "Game" }
+
 # TCG Card Shop Simulator https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
 { "name": "Card Shop Simulator.exe", "type": "Game" }
 
@@ -252,6 +252,8 @@
 { "name": "TME-Win64-Shipping.exe", "type": "Game" }
 
 # Tempest Rising https://store.steampowered.com/app/1486920/Tempest_Rising/
+
+
 # Tempest Rising: Veti Multiplayer Public Beta https://store.steampowered.com/app/2488530/
 { "name": "Tempest.exe", "type": "Game" }
 { "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
@@ -1164,11 +1166,11 @@
 { "name": "Turmoil.exe", "type": "Game" }
 { "name": "Turmoil_PC_Full.exe", "type": "Game" }
 
-# Turnip Boy Commits Tax Evasion https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/
-{ "name": "Turnip Boy Commits Tax Evasion.exe", "type": "Game" }
-
 # Turnbound https://store.steampowered.com/app/3802470/Turnbound/
 { "name": "Turnbound.exe", "type": "Game" }
+
+# Turnip Boy Commits Tax Evasion https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/
+{ "name": "Turnip Boy Commits Tax Evasion.exe", "type": "Game" }
 
 # TurnSignal https://store.steampowered.com/app/689580/TurnSignal/
 { "name": "TurnSignal.exe", "type": "Game" }

@@ -54,9 +54,6 @@
 # F1 Manager 2024 https://store.steampowered.com/app/2591280/F1_Manager_2024/
 { "name": "F1Manager24.exe", "type": "Game" }
 
-# Family Crush https://store.steampowered.com/app/2600150/
-{ "name": "fc.exe", "type": "Game" }
-
 # Fable Anniversary https://store.steampowered.com/app/288470/Fable_Anniversary/
 { "name": "Fable Anniversary.exe", "type": "Game" }
 
@@ -160,6 +157,9 @@
 
 # Fallout Tactics: Brotherhood of Steel https://store.steampowered.com/app/38420/Fallout_Tactics_Brotherhood_of_Steel/
 { "name": "FalloutTacticsLauncher.exe", "type": "Game" }
+
+# Family Crush https://store.steampowered.com/app/2600150/
+{ "name": "fc.exe", "type": "Game" }
 
 # Fantasy Aquarium https://store.steampowered.com/app/3183350/Fantasy_Aquarium/
 { "name": "Fantasy Aquarium.exe", "type": "Game" }
@@ -564,12 +564,12 @@
 # Fireworks Mania https://store.steampowered.com/app/1079260/Fireworks_Mania__An_Explosive_Simulator/
 { "name": "Fireworks Mania.exe", "type": "Game" }
 
-# First Cut: Samurai Duel https://store.steampowered.com/app/2193490/First_Cut_Samurai_Duel/
-{ "name": "FirstCutv2.exe", "type": "Game" }
-
 # First Class Trouble https://store.steampowered.com/app/953880/First_Class_Trouble/
 { "name": "FCTClient.exe", "type": "Game" }
 { "name": "FCTClient-Win64-Shipping.exe", "type": "Game" }
+
+# First Cut: Samurai Duel https://store.steampowered.com/app/2193490/First_Cut_Samurai_Duel/
+{ "name": "FirstCutv2.exe", "type": "Game" }
 
 # Fishbowl https://store.steampowered.com/app/1638070/Fishbowl/
 { "name": "fishbowl.exe", "type": "Game" }

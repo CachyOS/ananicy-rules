@@ -167,9 +167,6 @@
 # Capcom Arcade 2nd Stadium https://store.steampowered.com/app/1755910/Capcom_Arcade_2nd_Stadium/
 { "name": "CapcomArcade2ndStadium.exe", "type": "Game" }
 
-# Capybara: The story of Sisyphus https://store.steampowered.com/app/2732980/Capybara_The_story_of_Sisyphus/
-{ "name": "CapybaraStorySishyphus.exe", "type": "Game" }
-
 # Capcom Arcade Stadium https://store.steampowered.com/app/1515950/Capcom_Arcade_Stadium/
 { "name": "CapcomArcadeStadium.exe", "type": "Game" }
 
@@ -191,6 +188,9 @@
 # Captain Tsubasa: Rise of New Champions https://store.steampowered.com/app/1163550/Captain_Tsubasa_Rise_of_New_Champions/
 { "name": "CAPTAIN TSUBASA RISE OF NEW CHAMPIONS.exe", "type": "Game"}
 
+# Capybara: The story of Sisyphus https://store.steampowered.com/app/2732980/Capybara_The_story_of_Sisyphus/
+{ "name": "CapybaraStorySishyphus.exe", "type": "Game" }
+
 # Caravan SandWitch https://store.steampowered.com/app/1582650/Caravan_SandWitch/
 { "name": "CaravanSandWitch.exe", "type": "Game"}
 { "name": "CaravanSandWitch-Win64-Shipping.exe", "type": "Game"}
@@ -198,11 +198,11 @@
 # Carcassonne - Tiles & Tactics https://store.steampowered.com/app/598810/Carcassonne__Tiles__Tactics/
 { "name": "Carcassonne.exe", "type": "Game" }
 
-# Card Creator https://store.steampowered.com/app/523600/Card_Creator/
-{ "name": "CardCreator.exe", "type": "Game" }
-
 # Car Clicker https://store.steampowered.com/app/3059840/Car_Clicker/
 { "name": "Car Clicker.exe", "type": "Game" }
+
+# Card Creator https://store.steampowered.com/app/523600/Card_Creator/
+{ "name": "CardCreator.exe", "type": "Game" }
 
 # Car Dealer Simulator https://store.steampowered.com/app/2404880/Car_Dealer_Simulator/
 { "name": "CarDealerSimulator.exe", "type": "Game"}
@@ -416,12 +416,12 @@
 { "name": "ChainedTogether.exe", "type": "Game"}
 { "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
 
+# Championship Manager 2010 https://store.steampowered.com/app/35030/
+{ "name": "CMLauncher.exe", "type": "Game" }
+
 # Champions of Regnum https://store.steampowered.com/app/222520/Champions_of_Regnum/
 { "name": "rolaunchersteam.exe", "type": "Game" }
 { "name": "ROLauncherSteam.exe", "type": "Game" }
-
-# Championship Manager 2010 https://store.steampowered.com/app/35030/
-{ "name": "CMLauncher.exe", "type": "Game" }
 
 # Champions Online https://store.steampowered.com/app/9880/Champions_Online/
 { "name": "Champions Online.exe", "type": "Game" }
@@ -511,14 +511,14 @@
 # Choice of Life: Middle Ages https://store.steampowered.com/app/1337890/Choice_of_Life_Middle_Ages/
 { "name": "The Choice of Life - Middle Ages.exe", "type": "Game" }
 
-# Chop Chop Inc. Demo https://store.steampowered.com/app/4707740/
-{ "name": "ChopChopIncDemo.exe", "type": "Game" }
-
 # Chonkers https://store.steampowered.com/app/3244210/Chonkers/
 { "name": "chonkers.exe", "type": "Game" }
 
 # Choo-Choo Charles https://store.steampowered.com/app/1766740/ChooChoo_Charles/
 { "name": "Obscure-Win64-Shipping.exe", "type": "Game" }
+
+# Chop Chop Inc. Demo https://store.steampowered.com/app/4707740/
+{ "name": "ChopChopIncDemo.exe", "type": "Game" }
 
 # ChromaGun 2: Dye Hard https://store.steampowered.com/app/2982340/ChromaGun_2_Dye_Hard/
 { "name": "ChromaGun2.exe", "type": "Game"}
@@ -637,11 +637,11 @@
 # Class of '09: The Re-Up https://store.steampowered.com/app/2318310/Class_of_09_The_ReUp/
 { "name": "C09RU.exe", "type": "Game" }
 
-# Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
-{ "name": "ClearedHot.exe", "type": "Game"}
-
 # Clean Up Earth https://store.steampowered.com/app/3402720/Clean_Up_Earth/
 { "name": "Clean Up Earth.exe", "type": "Game" }
+
+# Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
+{ "name": "ClearedHot.exe", "type": "Game"}
 
 # Clicker Heroes https://store.steampowered.com/app/363970/Clicker_Heroes/
 { "name": "Clicker Heroes.exe", "type": "Game"}
@@ -649,14 +649,14 @@
 # Clicker Heroes 2 https://store.steampowered.com/app/629910/Clicker_Heroes_2/
 { "name": "ClickerHeroes2.exe", "type": "Game"}
 
-# Click the Chick https://store.steampowered.com/app/3074090/Click_the_Chick/
-{ "name": "clickthechick.exe", "type": "Game" }
-
 # CLICKOLDING https://store.steampowered.com/app/3011440/CLICKOLDING/
 { "name": "Clickold.exe", "type": "Game" }
 
 # Clickteam Fusion 2.5 https://store.steampowered.com/app/248170/Clickteam_Fusion_25/
 { "name": "mmf2u.exe", "type": "Game" }
+
+# Click the Chick https://store.steampowered.com/app/3074090/Click_the_Chick/
+{ "name": "clickthechick.exe", "type": "Game" }
 
 # Climber Animals: Together https://store.steampowered.com/app/2744880/Climber_Animals_Together/
 { "name": "Climber Animals Together.exe", "type": "Game"}
@@ -696,14 +696,14 @@
 # Clustertruck https://store.steampowered.com/app/397950/Clustertruck/
 { "name": "Clustertruck.exe", "type": "Game" }
 
-# Cock https://store.steampowered.com/app/3059750/Cock/
-{ "name": "Cock.exe", "type": "Game" }
-
 # Coal LLC https://store.steampowered.com/app/3361510/Coal_LLC/
 { "name": "Coal LLC.exe", "type": "Game"}
 
 # Cobalt Core https://store.steampowered.com/app/2179850/Cobalt_Core/
 { "name": "CobaltCore.exe", "type": "Game" }
+
+# Cock https://store.steampowered.com/app/3059750/Cock/
+{ "name": "Cock.exe", "type": "Game" }
 
 # Codename CURE http://store.steampowered.com/app/355180/Codename_CURE/
 { "name": "cure.exe", "type": "Game" }
@@ -725,11 +725,11 @@
 # Coffee Talk https://store.steampowered.com/app/914800/Coffee_Talk/
 { "name": "CoffeeTalk.exe", "type": "Game"}
 
-# Coffee Talk Tokyo https://store.steampowered.com/app/3161220/Coffee_Talk_Tokyo/
-{ "name": "CTT.exe", "type": "Game" }
-
 # Coffee Talk Episode 2: Hibiscus & Butterfly https://store.steampowered.com/app/1663220/Coffee_Talk_Episode_2_Hibiscus__Butterfly/
 { "name": "CTHB.exe", "type": "Game"}
+
+# Coffee Talk Tokyo https://store.steampowered.com/app/3161220/Coffee_Talk_Tokyo/
+{ "name": "CTT.exe", "type": "Game" }
 
 # Cogmind https://store.steampowered.com/app/722730/Cogmind/
 { "name": "COGMIND.exe", "type": "Game" }
@@ -847,9 +847,6 @@
 # Conan Exiles https://store.steampowered.com/app/440900/Conan_Exiles/
 { "name": "FuncomLauncher.exe", "type": "Game" }
 
-# CONVRGENCE https://store.steampowered.com/app/2609610/CONVRGENCE/
-{ "name": "CONVRGENCE.exe", "type": "Game" }
-
 # Condemned: Criminal Origins https://store.steampowered.com/app/4720/Condemned_Criminal_Origins/
 { "name": "Condemned.exe", "type": "Game" }
 
@@ -907,16 +904,19 @@
 # Contrast https://store.steampowered.com/app/224460/Contrast/
 { "name": "ContrastGame.exe", "type": "Game" }
 
-# Controller Companion https://store.steampowered.com/app/367670/Controller_Companion/
-{ "name": "ControllerCompanion.exe", "type": "Game" }
-
 # Control Craft 2 https://store.steampowered.com/app/439930/Control_Craft_2/
 { "name": "ControlCraft2.exe", "type": "Game" }
+
+# Controller Companion https://store.steampowered.com/app/367670/Controller_Companion/
+{ "name": "ControllerCompanion.exe", "type": "Game" }
 
 # Control Ultimate Edition https://store.steampowered.com/app/870780/Control_Ultimate_Edition/
 { "name": "Control.exe", "type": "Game" }
 { "name": "Control_DX11.exe", "type": "Game" }
 { "name": "Control_DX12.exe", "type": "Game" }
+
+# CONVRGENCE https://store.steampowered.com/app/2609610/CONVRGENCE/
+{ "name": "CONVRGENCE.exe", "type": "Game" }
 
 # Cookie Clicker https://store.steampowered.com/app/1454400/Cookie_Clicker/
 { "name": "Cookie Clicker.exe", "type": "Game"}
@@ -950,9 +950,6 @@
 { "name": "ProjectCoral-Win64-Shipping.exe", "type": "Game"}
 { "name": "ProjectCoral.exe", "type": "Game"}
 
-# Corsair Cove Demo https://store.steampowered.com/app/3858730/Corsair_Cove_Demo/
-{ "name": "CorsairCoveDemo.exe", "type": "Game" }
-
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper.exe", "type": "Game" }
 
@@ -964,6 +961,9 @@
 
 # Coromon https://store.steampowered.com/app/1218210/Coromon/
 { "name": "coromon.exe", "type": "Game" }
+
+# Corsair Cove Demo https://store.steampowered.com/app/3858730/Corsair_Cove_Demo/
+{ "name": "CorsairCoveDemo.exe", "type": "Game" }
 
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "Cortex Command.exe", "type": "Game" }
@@ -1032,9 +1032,6 @@
 { "name": "Cralon.exe", "type": "Game" }
 { "name": "Cralon-Win64-Shipping.exe", "type": "Game" }
 
-# Crashout Crew https://store.steampowered.com/app/3583210/Crashout_Crew/
-{ "name": "CrashoutCrew.exe", "type": "Game" }
-
 # Crash Bandicoot 4: It’s About Time https://store.steampowered.com/app/1378990/Crash_Bandicoot_4_Its_About_Time/
 { "name": "CrashBandicoot4.exe", "type": "Game" }
 
@@ -1046,6 +1043,9 @@
 
 # Crashlands 2 https://store.steampowered.com/app/1401730/Crashlands_2/
 { "name": "Crashlands2.exe", "type": "Game" }
+
+# Crashout Crew https://store.steampowered.com/app/3583210/Crashout_Crew/
+{ "name": "CrashoutCrew.exe", "type": "Game" }
 
 # Crashphalt https://store.steampowered.com/app/921700/Crashphalt/
 { "name": "Crashphalt.exe", "type": "Game" }
@@ -1193,11 +1193,11 @@
 # Crush Crush https://store.steampowered.com/app/459820/Crush_Crush/
 { "name": "CrushCrush.exe", "type": "Game" }
 
-# CRYO https://store.steampowered.com/app/2564910/CRYO/
-{ "name": "Cryo.exe", "type": "Game" }
-
 # Crying Suns https://store.steampowered.com/app/873940/
 { "name": "cs.exe", "type": "Game" }
+
+# CRYO https://store.steampowered.com/app/2564910/CRYO/
+{ "name": "Cryo.exe", "type": "Game" }
 
 # CryoFall https://store.steampowered.com/app/829590/CryoFall/
 { "name": "CryoFall_Client.exe", "type": "Game" }
@@ -1206,17 +1206,17 @@
 # Cry of Fear https://store.steampowered.com/app/223710/Cry_of_Fear/
 { "name": "CoFLaunchApp.exe", "type": "Game" }
 
-# Cryptmaster https://store.steampowered.com/app/1885110/Cryptmaster/
-{ "name": "CryptMaster.exe", "type": "Game" }
-
-# Crypto Skoof Tycoon https://store.steampowered.com/app/3066230/Crypto_Skoof_Tycoon/
-{ "name": "CryptoScoofTycoon.exe", "type": "Game" }
-
 # Crypt Custodian https://store.steampowered.com/app/2394650/Crypt_Custodian/
 { "name": "CryptCustodian.exe", "type": "Game" }
 
+# Cryptmaster https://store.steampowered.com/app/1885110/Cryptmaster/
+{ "name": "CryptMaster.exe", "type": "Game" }
+
 # Crypt of the NecroDancer https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/
 { "name": "NecroDancer.exe", "type": "Game" }
+
+# Crypto Skoof Tycoon https://store.steampowered.com/app/3066230/Crypto_Skoof_Tycoon/
+{ "name": "CryptoScoofTycoon.exe", "type": "Game" }
 
 # Crysis 2 - Maximum Edition https://store.steampowered.com/app/108800/Crysis_2__Maximum_Edition/
 { "name": "Crysis2.exe", "type": "Game" }

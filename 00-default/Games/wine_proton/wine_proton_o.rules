@@ -141,11 +141,11 @@
 # One Finger Death Punch 2 https://store.steampowered.com/app/980300/One_Finger_Death_Punch_2/
 { "name": "One Finger Death Punch 2.exe", "type": "Game" }
 
-# One Move Away https://store.steampowered.com/app/3172440/One_Move_Away/
-{ "name": "One Move Away.exe", "type": "Game" }
-
 # One Hour One Life https://store.steampowered.com/app/595690/One_Hour_One_Life/
 { "name": "OneLife.exe", "type": "Game" }
+
+# One Move Away https://store.steampowered.com/app/3172440/One_Move_Away/
+{ "name": "One Move Away.exe", "type": "Game" }
 
 # ONE PIECE Bounty Rush https://store.steampowered.com/app/2918150/ONE_PIECE_Bounty_Rush/
 { "name": "BountyRush.exe", "type": "Game" }
@@ -392,17 +392,19 @@
 { "name": "U01-Win64-Shipping.exe", "type": "Game" }
 
 # OUTRIDERS https://store.steampowered.com/app/680420/OUTRIDERS/
+
+
 # OUTRIDERS Demo https://store.steampowered.com/app/1435990/
 { "name": "OUTRIDERS-Win64-Shipping.exe", "type": "Game" }
 
 # Out There Somewhere https://store.steampowered.com/app/263980/Out_There_Somewhere/
 { "name": "ots.exe", "type": "Game" }
 
-# Outward Definitive Edition https://store.steampowered.com/app/794260/Outward_Definitive_Edition/
-{ "name": "Outward.exe", "type": "Game" }
-
 # Outward 2 Playtest https://store.steampowered.com/app/3995540/
 { "name": "otw2_ue.exe", "type": "Game" }
+
+# Outward Definitive Edition https://store.steampowered.com/app/794260/Outward_Definitive_Edition/
+{ "name": "Outward.exe", "type": "Game" }
 
 # Outworld Station https://store.steampowered.com/app/3242950/Outworld_Station/
 { "name": "OutworldStation.exe", "type": "Game" }

@@ -30,11 +30,11 @@
 # Lakeview Cabin Collection https://store.steampowered.com/app/361990/Lakeview_Cabin_Collection/
 { "name": "Lakeview Cabin Collection.exe", "type": "Game" }
 
-# La-Mulana https://store.steampowered.com/app/230700/LaMulana/
-{ "name": "LaMulanaWin.exe", "type": "Game" }
-
 # Lambda Wars https://store.steampowered.com/app/270370/Lambda_Wars/
 { "name": "lambdawars.exe", "type": "Game" }
+
+# La-Mulana https://store.steampowered.com/app/230700/LaMulana/
+{ "name": "LaMulanaWin.exe", "type": "Game" }
 
 # Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
 { "name": "Airships 2.exe", "type": "Game" }
@@ -58,9 +58,6 @@
 # Last Call BBS https://store.steampowered.com/app/1511780/Last_Call_BBS/
 { "name": "Last Call BBS.exe", "type": "Game" }
 
-# Last Pirates: Die Together Demo https://store.steampowered.com/app/4530130/Last_Pirates_Die_Together_Demo/
-{ "name": "Last Pirates Die Together.exe", "type": "Game" }
-
 # LastCloudiaTc https://steamdb.info/app/1499560/
 { "name": "LastCloudia.exe", "type": "Game" }
 
@@ -82,6 +79,9 @@
 { "name": "MistClient.exe", "type": "Game" }
 { "name": "MistClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "OasisLauncher.exe", "type": "BG_CPUIO" }
+
+# Last Pirates: Die Together Demo https://store.steampowered.com/app/4530130/Last_Pirates_Die_Together_Demo/
+{ "name": "Last Pirates Die Together.exe", "type": "Game" }
 
 # Last Train Home https://store.steampowered.com/app/1469610/Last_Train_Home/
 { "name": "Train.exe", "type": "Game" }
@@ -121,9 +121,6 @@
 
 # Leaf it Alone https://store.steampowered.com/app/3981100/Leaf_it_Alone/
 { "name": "Leaf it Alone.exe", "type": "Game" }
-
-# Lewd Dungeon Manager 🔞 Demo https://store.steampowered.com/app/4693310/
-{ "name": "Lewd Dungeon Manager DEMO.exe", "type": "Game" }
 
 # League of Angels-Heaven's Fury https://store.steampowered.com/app/1379130/League_of_AngelsHeavens_Fury/
 { "name": "loa-hf-steam.exe", "type": "Game" }
@@ -201,12 +198,12 @@
 { "name": "LEGOBatman3.exe", "type": "Game" }
 { "name": "LEGOBatman3_DX11.exe", "type": "Game" }
 
-# LEGO Batman: The Videogame https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/
-{ "name": "LEGOBatman.exe", "type": "Game" }
-
 # LEGO Batman™: Legacy of the Dark Knight https://store.steampowered.com/app/2215200/LEGO_Batman_Legacy_of_the_Dark_Knight/
 { "name": "LEGOBatmanLotDK.exe", "type": "Game" }
 { "name": "LEGOBatmanLotDK-Win64-Shipping.exe", "type": "Game" }
+
+# LEGO Batman: The Videogame https://store.steampowered.com/app/21000/LEGO_Batman_The_Videogame/
+{ "name": "LEGOBatman.exe", "type": "Game" }
 
 # LEGO Bricktales https://store.steampowered.com/app/1898290/LEGO_Bricktales/
 { "name": "LEGO_Bricktales.exe", "type": "Game" }
@@ -322,6 +319,9 @@
 # Levelhead https://store.steampowered.com/app/792710/Levelhead/
 { "name": "Levelhead_Steam.exe", "type": "Game" }
 
+# Lewd Dungeon Manager 🔞 Demo https://store.steampowered.com/app/4693310/
+{ "name": "Lewd Dungeon Manager DEMO.exe", "type": "Game" }
+
 # Liar's Bar https://store.steampowered.com/app/3097560/Liars_Bar/
 { "name": "Liar's Bar.exe", "type": "Game" }
 
@@ -400,11 +400,11 @@
 # Like a Dragon: Pirate Yakuza in Hawaii https://store.steampowered.com/app/3061810/Like_a_Dragon_Pirate_Yakuza_in_Hawaii/
 { "name": "likeadragonpirates.exe", "type": "Game" }
 
-# Lilly and Sasha: Guardian Angels https://store.steampowered.com/app/383520/Lilly_and_Sasha_Guardian_Angels/
-{ "name": "GuardianAngels.exe", "type": "Game" }
-
 # Lil Gator Game https://store.steampowered.com/app/1586800/Lil_Gator_Game/
 { "name": "Lil Gator Game.exe", "type": "Game" }
+
+# Lilly and Sasha: Guardian Angels https://store.steampowered.com/app/383520/Lilly_and_Sasha_Guardian_Angels/
+{ "name": "GuardianAngels.exe", "type": "Game" }
 
 # LIMBO https://store.steampowered.com/app/48000/LIMBO/
 { "name": "limbo.exe", "type": "Game" }
@@ -526,11 +526,11 @@
 { "name": "Longvinter.exe", "type": "Game" }
 { "name": "Longvinter-Win64-Shipping.exe", "type": "Game" }
 
-# Loot Box https://store.steampowered.com/app/3121070/Loot_Box/
-{ "name": "Loot Box.exe", "type": "Game" }
-
 # Loop Hero https://store.steampowered.com/app/1282730/Loop_Hero/
 { "name": "Loop Hero.exe", "type": "Game" }
+
+# Loot Box https://store.steampowered.com/app/3121070/Loot_Box/
+{ "name": "Loot Box.exe", "type": "Game" }
 
 # LOOTPLOT https://store.steampowered.com/app/3057190/LOOTPLOT/
 { "name": "umg.exe", "type": "Game" }
@@ -666,14 +666,14 @@
 # Luma Island https://store.steampowered.com/app/2408820/Luma_Island/
 { "name": "Luma Island.exe", "type": "Game" }
 
-# LumenTale: Memories of Trey https://store.steampowered.com/app/2261430/LumenTale_Memories_of_Trey/
-{ "name": "LumenTale Memories of Trey.exe", "type": "Game" }
-
 # Lumberjacked https://store.steampowered.com/app/3593780/Lumberjacked/
 { "name": "Lumberjacked.exe", "type": "Game" }
 
 # Lumberjack's Dynasty https://store.steampowered.com/app/968970/Lumberjacks_Dynasty/
 { "name": "LumberjacksDynasty.exe", "type": "Game" }
+
+# LumenTale: Memories of Trey https://store.steampowered.com/app/2261430/LumenTale_Memories_of_Trey/
+{ "name": "LumenTale Memories of Trey.exe", "type": "Game" }
 
 # LUMINES REMASTERED https://store.steampowered.com/app/851670/LUMINES_REMASTERED/
 { "name": "Lumines-remastered.exe", "type": "Game" }

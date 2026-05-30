@@ -9,13 +9,13 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39steps.exe", "type": "Game" }
 
-# The Age of Decadence https://store.steampowered.com/app/230070/The_Age_of_Decadence/
-{ "name": "AoD.exe", "type": "Game" }
-{ "name": "AoD64.exe", "type": "Game" }
-
 # The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
 { "name": "Elliot.exe", "type": "Game" }
 { "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
+
+# The Age of Decadence https://store.steampowered.com/app/230070/The_Age_of_Decadence/
+{ "name": "AoD.exe", "type": "Game" }
+{ "name": "AoD64.exe", "type": "Game" }
 
 # The Alters https://store.steampowered.com/app/1601570/The_Alters/
 { "name": "TheAlters.exe", "type": "Game" }
@@ -108,16 +108,16 @@
 # The Bus https://store.steampowered.com/app/491540/The_Bus/
 { "name": "TheBus.exe", "type": "Game" }
 
-# The Campaign Series: Fall Weiss https://store.steampowered.com/app/283020/The_Campaign_Series_Fall_Weiss/
-{ "name": "fw_setup.exe", "type": "Game" }
-{ "name": "fw.exe", "type": "Game" }
-
 # The Cabin Factory https://store.steampowered.com/app/3311740/The_Cabin_Factory/
 { "name": "TheCabinFactory.exe", "type": "Game" }
 
 # The Callisto Protocol https://store.steampowered.com/app/1544020/The_Callisto_Protocol/
 { "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheCallistoProtocol.exe", "type": "Game" }
+
+# The Campaign Series: Fall Weiss https://store.steampowered.com/app/283020/The_Campaign_Series_Fall_Weiss/
+{ "name": "fw_setup.exe", "type": "Game" }
+{ "name": "fw.exe", "type": "Game" }
 
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "The Case of the Golden Idol.exe", "type": "Game" }

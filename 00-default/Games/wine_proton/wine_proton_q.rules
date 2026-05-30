@@ -5,6 +5,9 @@
 
 ### Q ###
 
+# QPet https://store.steampowered.com/app/1093890/QPet/
+{ "name": "QPet.exe", "type": "Game" }
+
 # Quake https://store.steampowered.com/app/2310/Quake/
 { "name": "Quake_x64_steam.exe", "type": "Game" }
 { "name": "glquake.exe", "type": "Game" }
@@ -60,6 +63,3 @@
 
 # Quiplash 2 InterLASHional https://store.steampowered.com/app/1111940/Quiplash_2_InterLASHional/
 { "name": "Quiplash 2 InterLASHional.exe", "type": "Game" }
-
-# QPet https://store.steampowered.com/app/1093890/QPet/
-{ "name": "QPet.exe", "type": "Game" }
