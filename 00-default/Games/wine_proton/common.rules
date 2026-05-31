@@ -50,9 +50,25 @@
 # Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
 { "name": "AlienShooter.exe", "type": "Game" }
 
+# Cairn https://store.steampowered.com/app/1588550/Cairn/
+# Cairn Demo https://store.steampowered.com/app/3170150/
+{ "name": "Cairn.exe", "type": "Game" }
+
+# Decktamer Demo https://store.steampowered.com/app/2870360/Decktamer_Demo/
+# Decktamer https://store.steampowered.com/app/2870340/Decktamer/
+{ "name": "Decktamer.exe", "type": "Game" }
+
+# Scarlet Idol Demo https://store.steampowered.com/app/3513700/
+# Nǚ diào 女吊 https://store.steampowered.com/app/3513600/Scarlet_Idol/
+{ "name": "Date-Win64-Shipping.exe", "type": "Game" }
+
 # American Truck Simulator Demo https://store.steampowered.com/app/441960/American_Truck_Simulator/
 # American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
 { "name": "amtrucks.exe", "type": "Game" }
+
+# Nǚ diào 女吊 https://store.steampowered.com/app/3513600/Scarlet_Idol/
+# Scarlet Idol Demo https://store.steampowered.com/app/3513700/
+{ "name": "Date.exe", "type": "Game" }
 
 # Anno 1404 https://store.steampowered.com/app/33250/Dawn_of_Discovery/
 # Anno 1404: Venice https://store.steampowered.com/app/33350/Dawn_of_Discovery_Venice/
@@ -62,9 +78,6 @@
 # AMEDAMA https://store.steampowered.com/app/2411980/AMEDAMA/
 # SaveSync https://store.steampowered.com/app/3832010/SaveSync_Coop_Save_Sharing_Made_Easy/
 { "name": "app.exe", "type": "Game" }
-
-# Crazy Taxi https://store.steampowered.com/app/71230/Crazy_Taxi/
-{ "name": "AppLauncher.exe", "type": "Game" }
 
 # Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
 # Arma Reforger Experimental https://store.steampowered.com/app/1890860/
@@ -151,9 +164,6 @@
 # Blades of Fire https://store.steampowered.com/app/2091020/Blades_of_Fire/
 # Blades of Fire Demo https://store.steampowered.com/app/4335780/Blades_of_Fire/
 { "name": "BladesOfFire.exe", "type": "Game" }
-
-# Call of Duty Launcher
-{ "name": "bootstrapper.exe", "type": "BG_CPUIO" }
 
 # Bopl Battle https://store.steampowered.com/app/1686940/Bopl_Battle/
 # Bopl Battle Demo https://store.steampowered.com/app/2494960/Bopl_Battle/
@@ -250,9 +260,6 @@
 # Counter-Strike 2 https://store.steampowered.com/app/730/CounterStrike_2/
 # Counter-Strike: Global Offensive https://store.steampowered.com/app/4465480/CounterStrikeGlobal_Offensive/
 { "name": "cs2.exe", "type": "Game" }
-
-# Counter-Strike Nexon: Studio https://store.steampowered.com/app/273110/CounterStrike_Nexon/
-{ "name": "cstrike-online.exe", "type": "Game" }
 
 # Recettear: An Item Shop's Tale https://store.steampowered.com/app/70400/Recettear_An_Item_Shops_Tale/
 # Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
@@ -410,6 +417,10 @@
 # DEATH STRANDING DIRECTOR'S CUT https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT/
 { "name": "ds.exe", "type": "Game" }
 
+# Fellowship Playtest https://store.steampowered.com/app/3165720/
+# Fellowship https://store.steampowered.com/app/2352620/Fellowship/
+{ "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
+
 # Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
 # Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
 { "name": "DunDefGame.exe", "type": "Game" }
@@ -462,9 +473,6 @@
 # Enderal: Forgotten Stories (Special Edition) https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/
 # Enderal: Forgotten Stories https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/
 { "name": "Enderal Launcher.exe", "type": "Game" }
-
-# Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
-{ "name": "engine.exe", "type": "Game" }
 
 # Gotham City Impostors Free to Play https://store.steampowered.com/app/206210/Gotham_City_Impostors_Free_to_Play/
 # COMBAT ARMS: THE CLASSIC https://steamdb.info/app/1263550/
@@ -588,9 +596,6 @@
 # Conan Exiles Enhanced https://store.steampowered.com/app/440900/Conan_Exiles_Enhanced/
 # Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
 { "name": "FuncomLauncher.exe", "type": "Game" }
-
-# Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
-{ "name": "GameClient.exe", "type": "Game" }
 
 # Dragon Cliff https://store.steampowered.com/app/758190/Dragon_Cliff/
 # Fish Idle 2: Underwater Mystery https://store.steampowered.com/app/3037410/Fish_Idle_2_Underwater_Mystery/
@@ -759,9 +764,6 @@
 # Fear & Hunger 2: Termina https://store.steampowered.com/app/2171440/
 # The Imperial Gatekeeper https://store.steampowered.com/app/1933650/The_Imperial_Gatekeeper/
 { "name": "Game.exe", "type": "Game" }
-
-# SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
-{ "name": "GameLauncher.exe", "type": "Game" }
 
 # GameMaker https://store.steampowered.com/app/1670460/GameMaker/
 # GameMaker Studio 2 Desktop https://store.steampowered.com/app/585410/Unsupported_GameMaker_Studio_2_Desktop/
@@ -1011,13 +1013,25 @@
 # LastCloudiaTc https://steamdb.info/app/1499560/
 { "name": "LastCloudia.exe", "type": "Game" }
 
-# DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
-{ "name": "Launch_EA.exe", "type": "Game" }
+# Monsters https://store.steampowered.com/app/3062260/Monsters/
+# PixelJunk Monsters Ultimate https://store.steampowered.com/app/243780/PixelJunk_Monsters_Ultimate/
+{ "name": "Monsters.exe", "type": "Game" }
+
+# The Powder Toy https://store.steampowered.com/app/1148350/The_Powder_Toy/
+# Powder https://store.steampowered.com/app/1794970/Powder/
+{ "name": "Powder.exe", "type": "Game" }
+
+# Pro Evolution Soccer 2016 myClub https://store.steampowered.com/app/407250/
+# Pro Evolution Soccer 2016 https://store.steampowered.com/app/375960/
+{ "name": "PES2016.exe", "type": "Game" }
 
 # OUTRIDERS https://store.steampowered.com/app/680420/OUTRIDERS/
 # OUTRIDERS Demo https://store.steampowered.com/app/1435990/
 { "name": "OUTRIDERS-Win64-Shipping.exe", "type": "Game" }
 
+# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
+# Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
+# GLORY DESTINY - REBORN 晴空物語 https://store.steampowered.com/app/3352180/GLORY_DESTINY__REBORN/
 # CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
 # A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
 # Haydee https://store.steampowered.com/app/530890/Haydee/
@@ -1028,9 +1042,7 @@
 # Live2DViewerEX https://store.steampowered.com/app/616720/Live2DViewerEX/
 # Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
 # Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
-# Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
-# Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
-# GLORY DESTINY - REBORN 晴空物語 https://store.steampowered.com/app/3352180/GLORY_DESTINY__REBORN/
+# Life is Feudal: MMO https://store.steampowered.com/app/700030/Life_is_Feudal_MMO/
 { "name": "launcher.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
@@ -1064,22 +1076,6 @@
 # Grand Fantasia：ORIGIN https://store.steampowered.com/app/3010230/Grand_Fantasia__ORIGIN/
 { "name": "Launcher.exe", "type": "Game" }
 
-# Closers https://store.steampowered.com/app/215830/Closers/
-{ "name": "LAUNCHER.exe", "type": "Game" }
-
-# CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
-# A Total War Saga: THRONES OF BRITANNIA https://store.steampowered.com/app/712100/A_Total_War_Saga_THRONES_OF_BRITANNIA/
-# Haydee https://store.steampowered.com/app/530890/Haydee/
-# METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version https://store.steampowered.com/app/2131640/METAL_GEAR_SOLID_2_Sons_of_Liberty__Master_Collection_Version/
-# X-Blades https://store.steampowered.com/app/7510/XBlades/
-# theHunter: Primal https://store.steampowered.com/app/322920/theHunter_Primal/
-# Ironsight https://store.steampowered.com/app/783770/Ironsight/
-# Live2DViewerEX https://store.steampowered.com/app/616720/Live2DViewerEX/
-# Worlds of Magic https://store.steampowered.com/app/265970/Worlds_of_Magic/
-# Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
-# Life is Feudal: MMO https://store.steampowered.com/app/700030/Life_is_Feudal_MMO/
-{ "name": "launcher.exe", "type": "Game" }
-
 # King's Bounty: Warriors of the North https://store.steampowered.com/app/203350/Kings_Bounty_Warriors_of_the_North/
 # Faces of War https://store.steampowered.com/app/289300/Faces_of_War/
 { "name": "launcher-x64.exe", "type": "Game" }
@@ -1094,9 +1090,6 @@
 # Dynasty Warriors 8 Empires https://store.steampowered.com/app/322520/DYNASTY_WARRIORS_8_Empires/
 # SAO Utils: Beta https://store.steampowered.com/app/786520/SAO_Utils_Beta/
 { "name": "Launch.exe", "type": "Game" }
-
-# DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
-{ "name": "Launch_JP.exe", "type": "Game" }
 
 # EverQuest https://store.steampowered.com/app/205710/EverQuest/
 # EverQuest II https://store.steampowered.com/app/201230/EverQuest_II/
@@ -1553,6 +1546,14 @@
 # Wreck Runners Playtest https://store.steampowered.com/app/3542410/
 { "name": "Saturn.exe", "type": "Game" }
 
+# Worms Armageddon https://store.steampowered.com/app/217200/Worms_Armageddon/
+# Astrobuilder https://store.steampowered.com/app/3105960/Astrobuilder/
+{ "name": "WA.exe", "type": "Game" }
+
+# Desolate https://store.steampowered.com/app/671510/DESOLATE/
+# SUPERHOT https://store.steampowered.com/app/322500/SUPERHOT/
+{ "name": "SH.exe", "type": "Game" }
+
 # Stellar Blade https://store.steampowered.com/app/3489700/Stellar_Blade/
 # Stellar Blade Demo https://store.steampowered.com/app/3564860/
 { "name": "SB.exe", "type": "Game" }
@@ -1702,9 +1703,6 @@
 # Haydee 2 https://store.steampowered.com/app/1444650/Haydee_2/
 # Haydee 3 https://store.steampowered.com/app/3508770/Haydee_3/
 { "name": "SteamGame.exe", "type": "Game" }
-
-# Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
-{ "name": "SteamWorksExample.exe", "type": "Service" }
 
 # Caribbean Legend https://store.steampowered.com/app/2230980/Caribbean_Legend/
 # Caribbean Legend: Age of Pirates https://store.steampowered.com/app/3549020/Caribbean_Legend_Age_of_Pirates/
@@ -1915,9 +1913,6 @@
 # The Incredible Adventures of Van Helsing II https://store.steampowered.com/app/272470/The_Incredible_Adventures_of_Van_Helsing_II/
 { "name": "VanHelsing_x86_win10.exe", "type": "Game" }
 
-# source2 background process https://www.source2.wiki/EngineTools/VConsole
-{ "name": "vconsole2.exe", "type": "BG_CPUIO" }
-
 # Victory: The Age of Racing https://store.steampowered.com/app/264120/Victory_The_Age_of_Racing/
 # The Culling https://store.steampowered.com/app/437220/The_Culling/
 { "name": "Victory.exe", "type": "Game" }
@@ -2030,6 +2025,9 @@
 
 ### Other (no sorting required) ### 
 
+# Call of Duty Launcher
+{ "name": "bootstrapper.exe", "type": "BG_CPUIO" }
+
 # 3D audio rendering library
 { "name": "oalinst.exe", "type": "BG_CPUIO" }
 
@@ -2051,8 +2049,14 @@
 # Adobe Integrated Runtime binary 
 { "name": "CaptiveAppEntry.exe", "type": "BG_CPUIO" }
 
+# source2 background process https://www.source2.wiki/EngineTools/VConsole
+{ "name": "vconsole2.exe", "type": "BG_CPUIO" }
+
 # AVIcodec is a free multimedia file analyser for Windows http://avicodec.duby.info/
 { "name": "avicodec.exe", "type": "BG_CPUIO" }
+
+# Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
+{ "name": "SteamWorksExample.exe", "type": "Service" }
 
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }

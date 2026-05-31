@@ -453,14 +453,8 @@
 { "name": "DeckOfHaunts.exe", "type": "Game" }
 { "name": "DeckOfHaunts-Win64-Shipping.exe", "type": "Game" }
 
-# Decktamer Demo https://store.steampowered.com/app/2870360/Decktamer_Demo/
-{ "name": "Decktamer.exe", "type": "Game" }
-
 # Deep Corp https://store.steampowered.com/app/4033080/Deep_Corp/
 { "name": "Deep Corp.exe", "type": "Game" }
-
-# Decktamer https://store.steampowered.com/app/2870340/Decktamer/
-{ "name": "Decktamer.exe", "type": "Game" }
 
 # Deduce Together https://store.steampowered.com/app/3023190/Deduce_Together/
 { "name": "quiz-app.exe", "type": "Game" }
@@ -644,11 +638,14 @@
 { "name": "DS98_OpenGL.exe", "type": "Game" }
 
 # Desolate https://store.steampowered.com/app/671510/DESOLATE/
-{ "name": "SH.exe", "type": "Game" }
 { "name": "SH-Win64-Shipping.exe", "type": "Game" }
 
 # Deskworm https://store.steampowered.com/app/4044170/Deskworm/
 { "name": "Deskworm.exe", "type": "BG_CPUIO" }
+
+# DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
+{ "name": "Launch_EA.exe", "type": "Game" }
+{ "name": "Launch_JP.exe", "type": "Game" }
 
 # DESORDRE : A Puzzle Game Adventure https://store.steampowered.com/app/2097490/DESORDRE__A_Puzzle_Game_Adventure/
 { "name": "Desordre.exe", "type": "Game" }
@@ -1452,11 +1449,6 @@
 
 # Dummynation https://store.steampowered.com/app/1892030/Dummynation/
 { "name": "Dummynation.exe", "type": "Game" }
-
-# Dune: Awakening https://store.steampowered.com/app/1172710/Dune_Awakening/
-{ "name": "DuneSandbox.exe", "type": "Game" }
-{ "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
-{ "name": "DuneSandbox_BE.exe", "type": "Game" }
 
 # DuneCrawl https://store.steampowered.com/app/1833200/DuneCrawl/
 { "name": "DuneCrawl.exe", "type": "Game" }

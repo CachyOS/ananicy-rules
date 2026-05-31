@@ -520,9 +520,6 @@
 { "name": "Sanka.exe", "type": "Game" }
 { "name": "Sanka-Win64-Shipping.exe", "type": "Game" }
 
-# American Truck Simulator https://store.steampowered.com/app/270880/American_Truck_Simulator/
-{ "name": "amtrucks.exe", "type": "Game" }
-
 # America's Army 3 https://store.steampowered.com/app/13140/Americas_Army_3/
 { "name": "AA3Loader.exe", "type": "Game" }
 { "name": "AA3Game.exe", "type": "Game" }
@@ -1142,9 +1139,6 @@
 
 # ASTROBOTANICA https://store.steampowered.com/app/2720920/ASTROBOTANICA/
 { "name": "Astrobotanica.exe", "type": "Game" }
-
-# Astrobuilder https://store.steampowered.com/app/3105960/Astrobuilder/
-{ "name": "WA.exe", "type": "Game" }
 
 # Astro Colony https://store.steampowered.com/app/1614550/Astro_Colony/
 { "name": "AstroColony.exe", "type": "Game" }

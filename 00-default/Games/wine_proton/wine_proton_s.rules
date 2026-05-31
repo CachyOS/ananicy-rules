@@ -228,10 +228,6 @@
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow.exe", "type": "Game" }
 
-# Scarlet Idol Demo https://store.steampowered.com/app/3513700/
-{ "name": "Date.exe", "type": "Game" }
-{ "name": "Date-Win64-Shipping.exe", "type": "Game" }
-
 # SCARLET NEXUS https://store.steampowered.com/app/775500/SCARLET_NEXUS/
 { "name": "ScarletNexus.exe", "type": "Game" }
 { "name": "ScarletNexus-Win64-Shipping.exe", "type": "Game" }
@@ -2138,10 +2134,6 @@
 # Steep https://store.steampowered.com/app/460920/Steep/
 { "name": "steep.exe", "type": "Game" }
 
-# Stellar Blade https://store.steampowered.com/app/3489700/Stellar_Blade/
-{ "name": "SB.exe", "type": "Game" }
-{ "name": "SB-Win64-Shipping.exe", "type": "Game" }
-
 # StellarHub https://store.steampowered.com/app/672860/StellarHub/
 { "name": "StellarHub.exe", "type": "Game" }
 
@@ -2588,7 +2580,6 @@
 
 # SUPERHOT https://store.steampowered.com/app/322500/SUPERHOT/
 { "name": "SUPERHOT.exe", "type": "Game" }
-{ "name": "SH.exe", "type": "Game" }
 
 # SUPERHOT: MIND CONTROL DELETE https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
 { "name": "SUPERHOTMCD.exe", "type": "Game" }
@@ -2596,6 +2587,12 @@
 
 # SUPERHOT VR https://store.steampowered.com/app/617830/SUPERHOT_VR/
 { "name": "SUPERHOTVR.exe", "type": "Game" }
+
+# SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
+{ "name": "GameLauncher.exe", "type": "Game" }
+
+# Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
+{ "name": "GameClient.exe", "type": "Game" }
 
 # Super House of Dead Ninjas https://store.steampowered.com/app/224820/Super_House_of_Dead_Ninjas/
 { "name": "SHODN.exe", "type": "Game" }
