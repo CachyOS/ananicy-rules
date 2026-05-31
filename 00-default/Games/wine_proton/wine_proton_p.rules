@@ -158,6 +158,9 @@
 # Paranoia: Happiness is Mandatory https://store.steampowered.com/app/858030/Paranoia_Happiness_is_Mandatory/
 { "name": "PARANOIA.exe", "type": "Game" }
 
+# PARANOIA PLACE https://store.steampowered.com/app/1592290/PARANOIA_PLACE/
+{ "name": "Paranoia Place.exe", "type": "Game" }
+
 # Paranormal Cleanup https://store.steampowered.com/app/2197890/Paranormal_Cleanup/
 { "name": "aCleaningHorror.exe", "type": "Game" }
 { "name": "aCleaningHorror-Win64-Shipping.exe", "type": "Game" }
@@ -520,6 +523,9 @@
 # Pipistrello and the Cursed Yoyo https://store.steampowered.com/app/2870350/Pipistrello_and_the_Cursed_Yoyo/
 { "name": "Pipistrello.exe", "type": "Game" }
 
+# Pirate Ships https://store.steampowered.com/app/4011110/Pirate_Ships/
+{ "name": "PirateShips.exe", "type": "Game" }
+
 # Pirates, Vikings, and Knights II https://store.steampowered.com/app/17570/Pirates_Vikings__Knights_II/
 { "name": "pvkii_win32.exe", "type": "Game" }
 { "name": "pvkii_win64.exe", "type": "Game" }
@@ -674,6 +680,10 @@
 # PlayClaw 7 https://store.steampowered.com/app/1141530/PlayClaw_7__Game_Overlays_Recording_and_Streaming/
 { "name": "PlayClawApp64.exe", "type": "Game" }
 
+# PlayStation®VR2 App https://store.steampowered.com/app/2580190/PlayStationVR2_App/
+{ "name": "PlayStationVR2App.exe", "type": "Game" }
+{ "name": "PlayAreaSetup-Win64-Shipping.exe", "type": "Game" }
+
 # Play Together https://store.steampowered.com/app/3198850/Play_Together/
 { "name": "PlayTogether.exe", "type": "Game" }
 
@@ -682,6 +692,15 @@
 
 # Plebby Quest: The Crusades https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/
 { "name": "PQTC.exe", "type": "Game" }
+
+# PngTuber Maker https://store.steampowered.com/app/2266940/PngTuber_Maker/
+{ "name": "PngTuber Maker.exe", "type": "Game" }
+
+# PNGTuber Plus https://store.steampowered.com/app/2596880/PNGTuber_Plus/
+{ "name": "PNGTUBER PLUS 1.4.5 STEAM.exe", "type": "Game" }
+
+# Pocket Waifu: Desktop Pet https://store.steampowered.com/app/2989820/Pocket_Waifu_Desktop_Pet/
+{ "name": "PocketWaifu.exe", "type": "BG_CPUIO" }
 
 # Poco https://store.steampowered.com/app/3454610/Poco/
 { "name": "Poco.exe", "type": "Game" }
@@ -989,25 +1008,6 @@
 
 # Professional Lumberjack 2015 https://store.steampowered.com/app/316240/Professional_Lumberjack_2015/
 { "name": "WoodCutter2015.exe", "type": "Game" }
-
-# PARANOIA PLACE https://store.steampowered.com/app/1592290/PARANOIA_PLACE/
-{ "name": "Paranoia Place.exe", "type": "Game" }
-
-# Pirate Ships https://store.steampowered.com/app/4011110/Pirate_Ships/
-{ "name": "PirateShips.exe", "type": "Game" }
-
-# PlayStation®VR2 App https://store.steampowered.com/app/2580190/PlayStationVR2_App/
-{ "name": "PlayStationVR2App.exe", "type": "Game" }
-{ "name": "PlayAreaSetup-Win64-Shipping.exe", "type": "Game" }
-
-# PngTuber Maker https://store.steampowered.com/app/2266940/PngTuber_Maker/
-{ "name": "PngTuber Maker.exe", "type": "Game" }
-
-# PNGTuber Plus https://store.steampowered.com/app/2596880/PNGTuber_Plus/
-{ "name": "PNGTUBER PLUS 1.4.5 STEAM.exe", "type": "Game" }
-
-# Pocket Waifu: Desktop Pet https://store.steampowered.com/app/2989820/Pocket_Waifu_Desktop_Pet/
-{ "name": "PocketWaifu.exe", "type": "BG_CPUIO" }
 
 # Professor Simulator Demo  https://store.steampowered.com/app/4066760/
 { "name": "ProfessorSimulatorDemo.exe", "type": "Game" }

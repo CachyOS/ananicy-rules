@@ -69,6 +69,9 @@
 # Battle Ranch https://store.steampowered.com/app/340070/Battle_Ranch_Pigs_vs_Plants/
 { "name": "Battle Ranch", "type": "Game" }
 
+# Battle Simulator: Counter Terrorist https://store.steampowered.com/app/4172560/Battle_Simulator_Counter_Terrorist/
+{ "name": "BattleSimulatorCounterTerrorist.x86_64", "type": "Game" }
+
 # Battle Tanks: World War II https://store.steampowered.com/app/782670/Battle_Tanks_World_War_II/
 { "name": "Battle Tanks.x86_64", "type": "Game" }
 
@@ -114,12 +117,6 @@
 # BioShock Infinite https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "bioshock", "type": "Game" }
 { "name": "bioshock.i386", "type": "Game" }
-
-# Battle Simulator: Counter Terrorist https://store.steampowered.com/app/4172560/Battle_Simulator_Counter_Terrorist/
-{ "name": "BattleSimulatorCounterTerrorist.x86_64", "type": "Game" }
-
-# Broken Dreams https://store.steampowered.com/app/444480/Broken_Dreams/
-{ "name": "BrokenDreamsLinux", "type": "Game" }
 
 # Bitburner https://store.steampowered.com/app/1812820/Bitburner/
 { "name": "bitburner", "type": "Game" }
@@ -218,6 +215,9 @@
 
 # Broken Age https://store.steampowered.com/app/232790/Broken_Age/
 { "name": "BrokenAge", "type": "Game" }
+
+# Broken Dreams https://store.steampowered.com/app/444480/Broken_Dreams/
+{ "name": "BrokenDreamsLinux", "type": "Game" }
 
 # Broken Sword 2 - the Smoking Mirror: Remastered (2010) https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered_2010/
 { "name": "BS2", "type": "Game" }

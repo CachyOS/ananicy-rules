@@ -8,6 +8,11 @@
 # X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
 { "name": "X3AP_main", "type": "Game" }
 
+# X3: Farnham's Legacy https://store.steampowered.com/app/483330/X3_Farnhams_Legacy/
+{ "name": "X3FL_main", "type": "Game" }
+{ "name": "test_X3FL_main", "type": "Game" }
+{ "name": "test_X3TC_main", "type": "Game" }
+
 # X4: Foundations https://store.steampowered.com/app/392160/X4_Foundations/
 { "name": "X4", "type": "Game" }
 
@@ -32,8 +37,3 @@
 
 # X Rebirth https://store.steampowered.com/app/2870/X_Rebirth/
 { "name": "XRebirth", "type": "Game" }
-
-# X3: Farnham's Legacy https://store.steampowered.com/app/483330/X3_Farnhams_Legacy/
-{ "name": "X3FL_main", "type": "Game" }
-{ "name": "test_X3FL_main", "type": "Game" }
-{ "name": "test_X3TC_main", "type": "Game" }

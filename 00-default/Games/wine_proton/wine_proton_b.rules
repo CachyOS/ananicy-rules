@@ -18,9 +18,17 @@
 { "name": "Backpack Hero.exe", "type": "Game" }
 { "name": "Lunar.exe", "type": "Game" }
 
+# Backroom Company https://store.steampowered.com/app/3010460/Backroom_Company/
+{ "name": "BackroomCompany.exe", "type": "Game" }
+{ "name": "BackroomCompany-Win64-DebugGame.exe", "type": "Game" }
+
 # Backrooms: Escape Together https://store.steampowered.com/app/2141730/Backrooms_Escape_Together/
 { "name": "BetGame.exe", "type": "Game" }
 { "name": "BETGameSteam-Win64-Shipping.exe", "type": "Game" }
+
+# Backrooms: Extractions https://store.steampowered.com/app/2835530/Backrooms_Extractions/
+{ "name": "BackroomsExtractions.exe", "type": "Game" }
+{ "name": "BackroomsExtractions-Win64-Shipping.exe", "type": "Game" }
 
 # Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
 { "name": "BackroomsLostRunners.exe", "type": "Game" }
@@ -45,6 +53,9 @@
 
 # Backyard Baseball '97 https://store.steampowered.com/app/3170540/Backyard_Baseball_97/
 { "name": "BASEBALL.exe", "type": "Game" }
+
+# Backyard Baseball Demo https://store.steampowered.com/app/4301450/
+{ "name": "Backyard Derby HD.exe", "type": "Game" }
 
 # Bad 2 Bad: Apocalypse https://store.steampowered.com/app/2782610/Bad_2_Bad_Apocalypse/
 { "name": "B2B Apocalypse.exe", "type": "Game" }
@@ -167,6 +178,9 @@
 # Barro GT https://store.steampowered.com/app/1990740/Barro_GT/
 { "name": "Barro GT.exe", "type": "Game" }
 
+# Barro Racing https://store.steampowered.com/app/1307090/Barro_Racing/
+{ "name": "Barro Racing.exe", "type": "Game" }
+
 # BASED Demo https://store.steampowered.com/app/4437400/BASED/
 { "name": "BASED.exe", "type": "Game" }
 
@@ -288,6 +302,9 @@
 # Battle Simulator: Counter Stickman https://store.steampowered.com/app/2623090/Battle_Simulator_Counter_Stickman/
 { "name": "Battle Simulator Counter Stickman.exe", "type": "Game" }
 
+# Battle Simulator: Counter Terrorist https://store.steampowered.com/app/4172560/Battle_Simulator_Counter_Terrorist/
+{ "name": "BattleSimulatorCounterTerrorist.exe", "type": "Game" }
+
 # Battlesmiths: Blade & Forge https://store.steampowered.com/app/2583940/Battlesmiths_Blade_and_Forge/
 { "name": "Battlesmiths.exe", "type": "Game" }
 
@@ -407,35 +424,6 @@
 # Bellwright https://store.steampowered.com/app/1812450/Bellwright/
 { "name": "BellwrightGame.exe", "type": "Game" }
 { "name": "BellwrightGame-Win64-Shipping.exe", "type": "Game" }
-
-# Backroom Company https://store.steampowered.com/app/3010460/Backroom_Company/
-{ "name": "BackroomCompany.exe", "type": "Game" }
-{ "name": "BackroomCompany-Win64-DebugGame.exe", "type": "Game" }
-
-# Backrooms: Extractions https://store.steampowered.com/app/2835530/Backrooms_Extractions/
-{ "name": "BackroomsExtractions.exe", "type": "Game" }
-{ "name": "BackroomsExtractions-Win64-Shipping.exe", "type": "Game" }
-
-# Backyard Baseball Demo https://store.steampowered.com/app/4301450/
-{ "name": "Backyard Derby HD.exe", "type": "Game" }
-
-# Barro Racing https://store.steampowered.com/app/1307090/Barro_Racing/
-{ "name": "Barro Racing.exe", "type": "Game" }
-
-# Battle Simulator: Counter Terrorist https://store.steampowered.com/app/4172560/Battle_Simulator_Counter_Terrorist/
-{ "name": "BattleSimulatorCounterTerrorist.exe", "type": "Game" }
-
-# Biped 2 https://store.steampowered.com/app/2560240/Biped_2/
-{ "name": "Biped2.exe", "type": "Game" }
-
-# Brainrot Online https://store.steampowered.com/app/4233550/Brainrot_Online/
-{ "name": "Brainrot Online.exe", "type": "Game" }
-
-# Buggos 2 https://store.steampowered.com/app/2908500/Buggos_2/
-{ "name": "Buggos2.exe", "type": "Game" }
-
-# BURIED STARS https://store.steampowered.com/app/1025960/BURIED_STARS/
-{ "name": "BuriedStars.exe", "type": "Game" }
 
 # Beltmatic https://store.steampowered.com/app/2674590/Beltmatic/
 { "name": "Beltmatic.exe", "type": "Game" }
@@ -567,6 +555,9 @@
 
 # Biped https://store.steampowered.com/app/1071870/Biped/
 { "name": "Biped.exe", "type": "Game" }
+
+# Biped 2 https://store.steampowered.com/app/2560240/Biped_2/
+{ "name": "Biped2.exe", "type": "Game" }
 
 # Birth https://store.steampowered.com/app/1889040/Birth/
 { "name": "birth.exe", "type": "Game" }
@@ -1045,6 +1036,9 @@
 # BrainBread 2 https://store.steampowered.com/app/346330/BrainBread_2/
 { "name": "bb2.exe", "type": "Game" }
 
+# Brainrot Online https://store.steampowered.com/app/4233550/Brainrot_Online/
+{ "name": "Brainrot Online.exe", "type": "Game" }
+
 # Bramble: The Mountain King https://store.steampowered.com/app/1623940/Bramble_The_Mountain_King/
 { "name": "Bramble_TMK.exe", "type": "Game" }
 { "name": "Bramble_TMK-Win64-Shipping.exe", "type": "Game" }
@@ -1205,6 +1199,9 @@
 # Bug Fables: The Everlasting Sapling https://store.steampowered.com/app/1082710/Bug_Fables_The_Everlasting_Sapling/
 { "name": "Bug Fables.exe", "type": "Game" }
 
+# Buggos 2 https://store.steampowered.com/app/2908500/Buggos_2/
+{ "name": "Buggos2.exe", "type": "Game" }
+
 # Bugsnax https://store.steampowered.com/app/674140/Bugsnax/
 { "name": "Bugsnax.exe", "type": "Game" }
 
@@ -1262,6 +1259,9 @@
 
 # Burglin' Gnomes Demo https://store.steampowered.com/app/4356080/Burglin_Gnomes/
 { "name": "Gnomium.exe", "type": "Game" }
+
+# BURIED STARS https://store.steampowered.com/app/1025960/BURIED_STARS/
+{ "name": "BuriedStars.exe", "type": "Game" }
 
 # Burning Boundaries Part 1 https://store.steampowered.com/app/4006400/
 { "name": "BurningBoundaries.exe", "type": "Game" }

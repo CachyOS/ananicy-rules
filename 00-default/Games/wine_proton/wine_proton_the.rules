@@ -41,6 +41,10 @@
 # The Baby in Yellow https://store.steampowered.com/app/2291340/The_Baby_In_Yellow/
 { "name": "GameSteam-Win64-Shipping.exe", "type": "Game" }
 
+# The Backrooms Deluxe 2 https://store.steampowered.com/app/4066790/The_Backrooms_Deluxe_2/
+{ "name": "Deluxe2.exe", "type": "Game" }
+{ "name": "Deluxe2-Win64-Shipping.exe", "type": "Game" }
+
 # The Ball https://store.steampowered.com/app/35460/The_Ball/
 { "name": "TheBall.exe", "type": "Game" }
 
@@ -93,6 +97,9 @@
 
 # The Book of Unwritten Tales https://store.steampowered.com/app/215160/The_Book_of_Unwritten_Tales/
 { "name": "bout.exe", "type": "Game" }
+
+# The Boss Gangster: Criminal Empire https://store.steampowered.com/app/2774040/The_Boss_Gangster_Criminal_Empire/
+{ "name": "TheBossGangsters.exe", "type": "Game" }
 
 # The Braves https://store.steampowered.com/app/2479830/The_Braves/
 { "name": "The Braves.exe", "type": "Game" }
@@ -265,6 +272,10 @@
 # The Dungeon Of Naheulbeuk: The Amulet Of Chaos https://store.steampowered.com/app/970830/The_Dungeon_Of_Naheulbeuk_The_Amulet_Of_Chaos/
 { "name": "Naheulbeuk.exe", "type": "Game" }
 
+# The Elder Scrolls II: Daggerfall https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/
+{ "name": "FALL.EXE", "type": "Game" }
+{ "name": "DAGGER.EXE", "type": "Game" }
+
 # The Elder Scrolls III: Morrowind Game of the Year Edition https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/
 { "name": "Morrowind.exe", "type": "Game" }
 
@@ -292,6 +303,9 @@
 
 # The Entropy Centre https://store.steampowered.com/app/1730590/The_Entropy_Centre/
 { "name": "EntropyCentre.exe", "type": "Game" }
+
+# The Escape: Together https://store.steampowered.com/app/2242760/The_Escape_Together/
+{ "name": "The Escape Together.exe", "type": "Game" }
 
 # The Escapists https://store.steampowered.com/app/298630/The_Escapists/
 { "name": "TheEscapists.exe", "type": "Game" }
@@ -799,6 +813,9 @@
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "TOTClient.exe", "type": "Game" }
 
+# The Painscreek Killings https://store.steampowered.com/app/624270/The_Painscreek_Killings/
+{ "name": "Painscreek.exe", "type": "Game" }
+
 # The Past Within https://store.steampowered.com/app/1515210/The_Past_Within/
 { "name": "The Past Within.exe", "type": "Game" }
 
@@ -851,23 +868,6 @@
 
 # The Room https://store.steampowered.com/app/288160/The_Room/
 { "name": "TheRoom.exe", "type": "Game" }
-
-# The Backrooms Deluxe 2 https://store.steampowered.com/app/4066790/The_Backrooms_Deluxe_2/
-{ "name": "Deluxe2.exe", "type": "Game" }
-{ "name": "Deluxe2-Win64-Shipping.exe", "type": "Game" }
-
-# The Boss Gangster: Criminal Empire https://store.steampowered.com/app/2774040/The_Boss_Gangster_Criminal_Empire/
-{ "name": "TheBossGangsters.exe", "type": "Game" }
-
-# The Elder Scrolls II: Daggerfall https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/
-{ "name": "FALL.EXE", "type": "Game" }
-{ "name": "DAGGER.EXE", "type": "Game" }
-
-# The Escape: Together https://store.steampowered.com/app/2242760/The_Escape_Together/
-{ "name": "The Escape Together.exe", "type": "Game" }
-
-# The Painscreek Killings https://store.steampowered.com/app/624270/The_Painscreek_Killings/
-{ "name": "Painscreek.exe", "type": "Game" }
 
 # The Room 4: Old Sins https://store.steampowered.com/app/1361320/The_Room_4_Old_Sins/
 { "name": "OldSins.exe", "type": "Game" }

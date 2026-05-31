@@ -88,6 +88,10 @@
 # Echoes of Elysium https://store.steampowered.com/app/2644050/Echoes_of_Elysium/
 { "name": "Elysium.exe", "type": "Game" }
 
+# Echoes of the End: Enhanced Edition https://store.steampowered.com/app/2821610/Echoes_of_the_End_Enhanced_Edition/
+{ "name": "TheDarken.exe", "type": "Game" }
+{ "name": "TheDarken-Win64-Shipping.exe", "type": "Game" }
+
 # Echoes of the Plum Grove https://store.steampowered.com/app/1536090/Echoes_of_the_Plum_Grove/
 { "name": "Echoes of the Plum Grove.exe", "type": "Game" }
 
@@ -200,6 +204,9 @@
 { "name": "ESSTEAM.exe", "type": "Game" }
 { "name": "elsword.exe", "type": "Game" }
 
+# Elsword Free-to-Play https://store.steampowered.com/app/558230/
+{ "name": "steam_launcher.exe", "type": "Game" }
+
 # Emberbane https://store.steampowered.com/app/2085310/Emberbane/
 { "name": "Emberbane.exe", "type": "Game" }
 
@@ -242,6 +249,10 @@
 
 # Emperor of the Fading Suns https://store.steampowered.com/app/2799350/Emperor_of_the_Fading_Suns_Enhanced/
 { "name": "EFS.exe", "type": "Game" }
+
+# Empire City https://store.steampowered.com/app/3076620/Empire_City_Simulator/
+{ "name": "Antique64.exe", "type": "Game" }
+{ "name": "Antique.exe", "type": "Game" }
 
 # Empire Deluxe Combined Edition https://store.steampowered.com/app/742700/Empire_Deluxe_Combined_Edition/
 { "name": "EmpireCombined.exe", "type": "Game" }
@@ -343,6 +354,9 @@
 # Energy Engine PC Live Wallpaper https://store.steampowered.com/app/1055010/Energy_Engine_PC_Live_Wallpaper/
 { "name": "EnergyEngine.exe", "type": "Game" }
 { "name": "EnergyWallpaper.exe", "type": "Game" }
+
+# Enginefall Playtest https://store.steampowered.com/app/2651270/
+{ "name": "ColtraneClient-Win64-Shipping.exe", "type": "Game" }
 
 # Enigma do Medo (Enigma of Fear) https://store.steampowered.com/app/1507580/Enigma_do_Medo/
 { "name": "Enigma.exe", "type": "Game" }
@@ -566,20 +580,6 @@
 
 # Everything is Crab https://store.steampowered.com/app/3526710/Everything_is_Crab_The_Animal_Evolution_Roguelite/
 { "name": "Everything is Crab.exe", "type": "Game" }
-
-# Echoes of the End: Enhanced Edition https://store.steampowered.com/app/2821610/Echoes_of_the_End_Enhanced_Edition/
-{ "name": "TheDarken.exe", "type": "Game" }
-{ "name": "TheDarken-Win64-Shipping.exe", "type": "Game" }
-
-# Elsword Free-to-Play https://store.steampowered.com/app/558230/
-{ "name": "steam_launcher.exe", "type": "Game" }
-
-# Empire City https://store.steampowered.com/app/3076620/Empire_City_Simulator/
-{ "name": "Antique64.exe", "type": "Game" }
-{ "name": "Antique.exe", "type": "Game" }
-
-# Enginefall Playtest https://store.steampowered.com/app/2651270/
-{ "name": "ColtraneClient-Win64-Shipping.exe", "type": "Game" }
 
 # EVGA Precision X1 https://store.steampowered.com/app/268850/EVGA_Precision_X1/
 { "name": "PrecisionX_x64.exe", "type": "Game" }

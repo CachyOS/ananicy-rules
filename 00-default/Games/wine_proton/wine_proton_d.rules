@@ -31,6 +31,9 @@
 # Damned https://store.steampowered.com/app/251170/Damned/
 { "name": "Damned.exe", "type": "Game" }
 
+# Dancing Line https://store.steampowered.com/app/4395300/Dancing_Line/
+{ "name": "Dancing Line.exe", "type": "Game" }
+
 # Dandy Ace https://store.steampowered.com/app/1037130/Dandy_Ace/
 { "name": "DandyAce.exe", "type": "Game" }
 
@@ -463,6 +466,9 @@
 { "name": "Deep Despair.exe", "type": "Game" }
 { "name": "Deep Despair Remastered.exe", "type": "Game" }
 
+# Deep Dish Dungeon - Demo https://store.steampowered.com/app/3618740/Deep_Dish_Dungeon_Demo/
+{ "name": "Deep Dish Dungeon - Demo.exe", "type": "Game" }
+
 # Deep Eclipse https://store.steampowered.com/app/326990/Deep_Eclipse_New_Space_Odyssey/
 { "name": "DeepEclipse.exe", "type": "Game" }
 
@@ -479,6 +485,10 @@
 
 # Deep Rock Galactic: Survivor https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/
 { "name": "DRG Survivor.exe", "type": "Game" }
+
+# Deep Snow Delivery Demo https://store.steampowered.com/app/4357090/
+{ "name": "DeepSnowDelivery.exe", "type": "Game" }
+{ "name": "DeepSnowDelivery-Win64-Shipping.exe", "type": "Game" }
 
 # DeerHunterFan.com TV - The Season https://store.steampowered.com/app/2128140/Deer_Hunting__The_Season/
 { "name": "DeerHunterFan.com TV - The Season.exe", "type": "Game" }
@@ -502,6 +512,9 @@
 
 # Defy Gravity https://store.steampowered.com/app/96100/Defy_Gravity_Extended/
 { "name": "DefyGravity.exe", "type": "Game" }
+
+# DEG Demo https://store.steampowered.com/app/4062610/DEG_Demo/
+{ "name": "DEG.exe", "type": "Game" }
 
 # Degrees of Separation https://store.steampowered.com/app/809880/Degrees_of_Separation/
 { "name": "dofs.exe", "type": "Game" }
@@ -658,34 +671,6 @@
 
 # Despot's Game: Dystopian Battle Simulator https://store.steampowered.com/app/1227280/Despots_Game_Dystopian_Battle_Simulator/
 { "name": "Despot's Game.exe", "type": "Game" }
-
-# Dancing Line https://store.steampowered.com/app/4395300/Dancing_Line/
-{ "name": "Dancing Line.exe", "type": "Game" }
-
-# Deep Dish Dungeon - Demo https://store.steampowered.com/app/3618740/Deep_Dish_Dungeon_Demo/
-{ "name": "Deep Dish Dungeon - Demo.exe", "type": "Game" }
-
-# Deep Snow Delivery Demo https://store.steampowered.com/app/4357090/
-{ "name": "DeepSnowDelivery.exe", "type": "Game" }
-{ "name": "DeepSnowDelivery-Win64-Shipping.exe", "type": "Game" }
-
-# DEG Demo https://store.steampowered.com/app/4062610/DEG_Demo/
-{ "name": "DEG.exe", "type": "Game" }
-
-# DRAGON QUEST BUILDERS 2 JUMBO DEMO https://store.steampowered.com/app/1168460/
-{ "name": "DQB2_AS_TRIAL.exe", "type": "Game" }
-{ "name": "DQB2_EU_TRIAL.exe", "type": "Game" }
-{ "name": "DQB2_TRIAL.exe", "type": "Game" }
-
-# Dreamcore https://store.steampowered.com/app/2453060/Dreamcore/
-{ "name": "Dreamcore-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Dreamcore.exe", "type": "Game" }
-
-# Drifter Star: Evolution https://store.steampowered.com/app/4067130/Drifter_Star_Evolution/
-{ "name": "Drifter Star.exe", "type": "Game" }
-
-# Dungeons & Furries Demo https://store.steampowered.com/app/4719810/
-{ "name": "Dungeons & Furries.exe", "type": "Game" }
 
 # Destiny 2 https://store.steampowered.com/app/1085660/Destiny_2/
 { "name": "destiny2.exe", "type": "Game" }
@@ -1247,6 +1232,11 @@
 { "name": "DQB2_AS.exe", "type": "Game" }
 { "name": "DQB2_EU.exe", "type": "Game" }
 
+# DRAGON QUEST BUILDERS 2 JUMBO DEMO https://store.steampowered.com/app/1168460/
+{ "name": "DQB2_AS_TRIAL.exe", "type": "Game" }
+{ "name": "DQB2_EU_TRIAL.exe", "type": "Game" }
+{ "name": "DQB2_TRIAL.exe", "type": "Game" }
+
 # DRAGON QUEST HEROES II https://store.steampowered.com/app/574050/DRAGON_QUEST_HEROES_II/
 { "name": "DQH2.exe", "type": "Game" }
 
@@ -1341,6 +1331,10 @@
 { "name": "dreadout.exe", "type": "Game" }
 { "name": "dreadout32.exe", "type": "Game" }
 
+# Dreamcore https://store.steampowered.com/app/2453060/Dreamcore/
+{ "name": "Dreamcore-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Dreamcore.exe", "type": "Game" }
+
 # Dream Daddy: A Dad Dating Simulator https://store.steampowered.com/app/654880/Dream_Daddy_A_Dad_Dating_Simulator/
 { "name": "ddadds.exe", "type": "Game" }
 
@@ -1365,6 +1359,9 @@
 
 # Drift86 https://store.steampowered.com/app/1070580/Drift86/
 { "name": "Drift86 V3.exe", "type": "Game" }
+
+# Drifter Star: Evolution https://store.steampowered.com/app/4067130/Drifter_Star_Evolution/
+{ "name": "Drifter Star.exe", "type": "Game" }
 
 # Driftland: The Magic Revival https://store.steampowered.com/app/718650/Driftland_The_Magic_Revival/
 { "name": "Driftland.exe", "type": "Game" }
@@ -1551,6 +1548,9 @@
 
 # Dungeon Settlers Demo https://store.steampowered.com/app/4663910/Dungeon_Settlers_Demo/
 { "name": "Dungeon Settlers(Beta).exe", "type": "Game" }
+
+# Dungeons & Furries Demo https://store.steampowered.com/app/4719810/
+{ "name": "Dungeons & Furries.exe", "type": "Game" }
 
 # Dungeon Siege https://store.steampowered.com/app/39190/Dungeon_Siege/
 { "name": "DungeonSiege.exe", "type": "Game" }

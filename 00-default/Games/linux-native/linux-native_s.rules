@@ -62,11 +62,18 @@
 # ScourgeBringer https://store.steampowered.com/app/1037020/ScourgeBringer/
 { "name": "ScourgeBringer", "type": "Game" }
 
+# SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
+{ "name": "SCPSL.x86_64", "type": "Game" }
+{ "name": "LocalAdmin", "type": "Game" }
+
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 { "name": "screeps_server", "type": "Service" }
 
 # Scribble It! https://store.steampowered.com/app/1088150/Scribble_It/
 { "name": "ScribbleIt-Linux-Shipping", "type": "Game" }
+
+# Seablip https://store.steampowered.com/app/1471270/Seablip/
+{ "name": "Seablip.x86_64", "type": "Game" }
 
 # Seasons after Fall https://store.steampowered.com/app/366320/Seasons_after_Fall/
 { "name": "Seasons after Fall.x86", "type": "Game" }
@@ -111,6 +118,9 @@
 
 # Shadowgate https://store.steampowered.com/app/294440/Shadowgate/
 { "name": "Shadowgate.x86", "type": "Game" }
+
+# Shadow Island: Part I - DEMO https://store.steampowered.com/app/4094320/
+{ "name": "ShadowIsland", "type": "Game" }
 
 # Shadow of the Tomb Raider: Definitive Edition https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
 { "name": "ShadowOfTheTombRaider", "type": "Game" }
@@ -215,6 +225,10 @@
 
 # Siegeturtle https://store.steampowered.com/app/3959050/Siegeturtle/
 { "name": "Siegeturtle", "type": "Game" }
+
+# Silicone-2 https://store.steampowered.com/app/343690/Silicone2/
+{ "name": "Silicone-2.x86", "type": "Game" }
+{ "name": "Silicone-2.x86_64", "type": "Game" }
 
 # Silly Polly Beast https://store.steampowered.com/app/1598780/Silly_Polly_Beast/
 { "name": "Silly Polly Beast.x86_64", "type": "Game" }
@@ -558,20 +572,6 @@
 
 # Sword of the Stars: The Pit https://store.steampowered.com/app/233700/Sword_of_the_Stars_The_Pit/
 { "name": "ThePit", "type": "Game" }
-
-# SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
-{ "name": "SCPSL.x86_64", "type": "Game" }
-{ "name": "LocalAdmin", "type": "Game" }
-
-# Seablip https://store.steampowered.com/app/1471270/Seablip/
-{ "name": "Seablip.x86_64", "type": "Game" }
-
-# Shadow Island: Part I - DEMO https://store.steampowered.com/app/4094320/
-{ "name": "ShadowIsland", "type": "Game" }
-
-# Silicone-2 https://store.steampowered.com/app/343690/Silicone2/
-{ "name": "Silicone-2.x86", "type": "Game" }
-{ "name": "Silicone-2.x86_64", "type": "Game" }
 
 # Symphony https://store.steampowered.com/app/207750/Symphony/
 { "name": "Symphony.bin.x86", "type": "Game" }

@@ -8,6 +8,9 @@
 # Oaken Tower https://store.steampowered.com/app/3400960/Oaken_Tower/
 { "name": "oakenTower.exe", "type": "Game" }
 
+# Oasis Driver for Windows Mixed Reality https://store.steampowered.com/app/3824490/Oasis_Driver_for_Windows_Mixed_Reality/
+{ "name": "unlock_wmr.exe", "type": "Game" }
+
 # Obenseuer https://store.steampowered.com/app/951240/Obenseuer/
 { "name": "Obenseuer.exe", "type": "Game" }
 
@@ -233,12 +236,6 @@
 # Only Up! https://store.steampowered.com/app/2381590/not_available/
 { "name": "OnlyUP.exe", "type": "Game" }
 
-# Oasis Driver for Windows Mixed Reality https://store.steampowered.com/app/3824490/Oasis_Driver_for_Windows_Mixed_Reality/
-{ "name": "unlock_wmr.exe", "type": "Game" }
-
-# Orc Incremental Demo https://store.steampowered.com/app/4736550/Orc_Incremental_Demo/
-{ "name": "Orc Incremental.exe", "type": "Game" }
-
 # Onmyoji https://store.steampowered.com/app/551170/Onmyoji/
 { "name": "onmyoji.exe", "type": "Game" }
 
@@ -294,6 +291,9 @@
 
 # Orb of Creation https://store.steampowered.com/app/1910680/Orb_of_Creation/
 { "name": "Orb Of Creation.exe", "type": "Game" }
+
+# Orc Incremental Demo https://store.steampowered.com/app/4736550/Orc_Incremental_Demo/
+{ "name": "Orc Incremental.exe", "type": "Game" }
 
 # Orcs Must Die! https://store.steampowered.com/app/102600/Orcs_Must_Die/
 { "name": "orcsmustdie.exe", "type": "Game" }
