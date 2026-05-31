@@ -437,6 +437,10 @@
 # They Bleed Pixels https://store.steampowered.com/app/211260/They_Bleed_Pixels/
 { "name": "They Bleed Pixels PC.exe", "type": "Game" }
 
+# Thick As Thieves https://store.steampowered.com/app/3341000/Thick_As_Thieves/
+{ "name": "TAT.exe", "type": "Game" }
+{ "name": "TAT-Win64-Shipping.exe", "type": "Game" }
+
 # Thief https://store.steampowered.com/app/239160/Thief/
 { "name": "Shipping-ThiefGame.exe", "type": "Game" }
 
@@ -601,6 +605,10 @@
 # Tiny and Big: Grandpa's Leftovers https://store.steampowered.com/app/205910/Tiny_and_Big_Grandpas_Leftovers/
 { "name": "tinyandbig.exe", "type": "Game" }
 
+# Tiny Shop Playtest https://store.steampowered.com/app/3771140/
+{ "name": "Tiny_shop_demo.exe", "type": "Game" }
+{ "name": "Tiny_shop_demo-Win64-Shipping.exe", "type": "Game" }
+
 # Tiny Aquarium https://store.steampowered.com/app/2581950/Tiny_Aquarium_Social_Fishkeeping/
 { "name": "Tiny Aquarium.exe", "type": "Game" }
 
@@ -631,6 +639,9 @@
 
 # Tiny Tina's Wonderlands https://store.steampowered.com/app/1286680/Tiny_Tinas_Wonderlands/
 { "name": "Wonderlands.exe", "type": "Game" }
+
+# Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure https://store.steampowered.com/app/1712840/Tiny_Tinas_Assault_on_Dragon_Keep_A_Wonderlands_Oneshot_Adventure/
+{ "name": "TinyTina.exe", "type": "Game" }
 
 # Tiny Troopers https://store.steampowered.com/app/216110/Tiny_Troopers/
 { "name": "TinyTroopers.exe", "type": "Game" }
@@ -1058,6 +1069,9 @@
 # TRAIN CREW https://store.steampowered.com/app/1618290/TRAIN_CREW/
 { "name": "TrainCrew.exe", "type": "Game" }
 
+# Trainatic https://store.steampowered.com/app/3208560/Trainatic/
+{ "name": "trainatic.exe", "type": "Game" }
+
 # Train Driver 2 https://store.steampowered.com/app/3660700/Train_Driver_2/
 { "name": "TrainDriver2.exe", "type": "Game" }
 
@@ -1195,6 +1209,9 @@
 
 # Trophy Fishing 2 https://store.steampowered.com/app/645260/Trophy_Fishing_2/
 { "name": "Trophy Fishing 2.exe", "type": "Game" }
+
+# Tropical Resort Simulator (Paradise Beach Simulator) https://store.steampowered.com/app/2936190/Tropical_Resort_Simulator/
+{ "name": "PBS.exe", "type": "Game" }
 
 # Tropico 3 https://store.steampowered.com/app/23490/Tropico_3/
 { "name": "tropico3.exe", "type": "Game" }
