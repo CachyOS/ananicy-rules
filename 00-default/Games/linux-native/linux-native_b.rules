@@ -115,6 +115,12 @@
 { "name": "bioshock", "type": "Game" }
 { "name": "bioshock.i386", "type": "Game" }
 
+# Battle Simulator: Counter Terrorist https://store.steampowered.com/app/4172560/Battle_Simulator_Counter_Terrorist/
+{ "name": "BattleSimulatorCounterTerrorist.x86_64", "type": "Game" }
+
+# Broken Dreams https://store.steampowered.com/app/444480/Broken_Dreams/
+{ "name": "BrokenDreamsLinux", "type": "Game" }
+
 # Bitburner https://store.steampowered.com/app/1812820/Bitburner/
 { "name": "bitburner", "type": "Game" }
 

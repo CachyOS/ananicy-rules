@@ -559,6 +559,20 @@
 # Sword of the Stars: The Pit https://store.steampowered.com/app/233700/Sword_of_the_Stars_The_Pit/
 { "name": "ThePit", "type": "Game" }
 
+# SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
+{ "name": "SCPSL.x86_64", "type": "Game" }
+{ "name": "LocalAdmin", "type": "Game" }
+
+# Seablip https://store.steampowered.com/app/1471270/Seablip/
+{ "name": "Seablip.x86_64", "type": "Game" }
+
+# Shadow Island: Part I - DEMO https://store.steampowered.com/app/4094320/
+{ "name": "ShadowIsland", "type": "Game" }
+
+# Silicone-2 https://store.steampowered.com/app/343690/Silicone2/
+{ "name": "Silicone-2.x86", "type": "Game" }
+{ "name": "Silicone-2.x86_64", "type": "Game" }
+
 # Symphony https://store.steampowered.com/app/207750/Symphony/
 { "name": "Symphony.bin.x86", "type": "Game" }
 { "name": "Symphony.bin.x86_64", "type": "Game" }
