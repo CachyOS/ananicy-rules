@@ -106,6 +106,10 @@
 # IdleOn https://store.steampowered.com/app/1476970/IdleOn/
 { "name": "LegendsOfIdleon.exe", "type": "Game" }
 
+# Idlequarium https://store.steampowered.com/app/3689560/Idlequarium/
+{ "name": "IdlequariumLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Idlequarium.exe", "type": "Game" }
+
 # Idle Pins https://store.steampowered.com/app/1709920/Idle_Pins/
 { "name": "Idle Pins.exe", "type": "Game" }
 
@@ -356,6 +360,10 @@
 # inKONBINI: One Store. Many Stories https://store.steampowered.com/app/2723430/inKONBINI_One_Store_Many_Stories/
 { "name": "inKONBINI.exe", "type": "Game" }
 
+# Inkwellers https://store.steampowered.com/app/3061390/Inkwellers/
+{ "name": "TwoToo.exe", "type": "Game" }
+{ "name": "TwoToo-Win64-Shipping.exe", "type": "Game" }
+
 # Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
 { "name": "fcengine.exe", "type": "Game" }
 
@@ -427,6 +435,10 @@
 
 # Into the Dead: Our Darkest Days https://store.steampowered.com/app/2239710/Into_the_Dead_Our_Darkest_Days/
 { "name": "IntoTheDeadOurDarkestDays.exe", "type": "Game" }
+
+# Into the Fire Playtest https://store.steampowered.com/app/4651230/
+{ "name": "ProjectTwo.exe", "type": "Game" }
+{ "name": "ProjectTwo-Win64-Test.exe", "type": "Game" }
 
 # Into The Flames https://store.steampowered.com/app/1222300/Into_The_Flames/
 { "name": "Project_Flames.exe", "type": "Game" }
@@ -515,6 +527,9 @@
 
 # Iron Snout https://store.steampowered.com/app/424280/Iron_Snout/
 { "name": "IronSnout.exe", "type": "Game" }
+
+# Isekai Big Dick https://store.steampowered.com/app/3825660/
+{ "name": "IsekaiBigDick.exe", "type": "Game" }
 
 # ISLANDERS https://store.steampowered.com/app/1046030/ISLANDERS/
 { "name": "ISLANDERS.exe", "type": "Game" }

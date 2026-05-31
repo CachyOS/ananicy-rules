@@ -445,6 +445,9 @@
 # Resident Evil Requiem https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/
 { "name": "re9.exe", "type": "Game" }
 
+# Resident Evil Requiem - Demo https://store.steampowered.com/app/4459100/
+{ "name": "re9demo.exe", "type": "Game" }
+
 # RESIDENT EVIL RESISTANCE https://store.steampowered.com/app/952070/RESIDENT_EVIL_RESISTANCE/
 { "name": "REResistance.exe", "type": "Game" }
 
@@ -489,6 +492,10 @@
 # Retail Company Simulator https://store.steampowered.com/app/3089130/Retail_Company_Simulator/
 { "name": "RetailCompanySim.exe", "type": "Game" }
 { "name": "RetailCompanySim-Win64-Shipping.exe", "type": "Game" }
+
+# Retail Hell https://store.steampowered.com/app/4174310/Retail_Hell/
+{ "name": "RetailHell.exe", "type": "Game" }
+{ "name": "HorrorMarket-Win64-Shipping.exe", "type": "Game" }
 
 # RetroArch https://store.steampowered.com/app/1118310/RetroArch/
 { "name": "retroarch.exe", "type": "Game" }
@@ -821,6 +828,9 @@
 # Rocksmith 2014 Edition REMASTERED LEARN & PLAY https://store.steampowered.com/app/221680/Rocksmith_2014_Edition_REMASTERED_LEARN__PLAY/
 { "name": "Rocksmith2014.exe", "type": "Game" }
 
+# Rock the Islands https://store.steampowered.com/app/2987860/Rock_the_Islands/
+{ "name": "RockTheIslands.exe", "type": "Game" }
+
 # Rocky Idle https://store.steampowered.com/app/3852250/Rocky_Idle/
 { "name": "Rocky Idle.exe", "type": "Game" }
 
@@ -957,6 +967,9 @@
 { "name": "SevGame.exe", "type": "Game" }
 { "name": "SevGame-Win64-Shipping.exe", "type": "Game" }
 
+# Romestead https://store.steampowered.com/app/1805320/Romestead/
+{ "name": "Romestead.exe", "type": "Game" }
+
 # Rome: Total War - Collection https://store.steampowered.com/app/4760/Rome_Total_War__Collection/
 { "name": "RomeTW-BI.exe", "type": "Game" }
 { "name": "RomeTW.exe", "type": "Game" }
@@ -1033,6 +1046,9 @@
 # Rue Valley https://store.steampowered.com/app/2126190/Rue_Valley/
 { "name": "Rue Valley.exe", "type": "Game" }
 
+# Rugby League 26 https://store.steampowered.com/app/3468660/Rugby_League_26/
+{ "name": "rugbyleague1.exe", "type": "Game" }
+
 # Ruined King: A League of Legends Story https://store.steampowered.com/app/1276790/Ruined_King_A_League_of_Legends_Story/
 { "name": "RuinedKing.exe", "type": "Game" }
 
@@ -1057,6 +1073,9 @@
 
 # Rune Classic https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
+
+# Rune Dice https://store.steampowered.com/app/3542380/Rune_Dice/
+{ "name": "Rune Dice.exe", "type": "Game" }
 
 # Rune Dice Demo https://store.steampowered.com/app/3989510/Rune_Dice_Demo/
 { "name": "Rune Dice Demo.exe", "type": "Game" }
@@ -1086,6 +1105,10 @@
 # Runes of Magic https://store.steampowered.com/app/808290/Runes_of_Magic/
 { "name": "RoMLauncher.exe", "type": "Game" }
 { "name": "Runes of Magic.exe", "type": "Game" }
+
+# RUNNING TRAIN https://store.steampowered.com/app/4630570/RUNNING_TRAIN/
+{ "name": "RunningTrain.exe", "type": "Game" }
+{ "name": "RunningTrain-Win64-Shipping.exe", "type": "Game" }
 
 # RUNNING WITH RIFLES https://store.steampowered.com/app/270150/RUNNING_WITH_RIFLES/
 { "name": "rwr_config.exe", "type": "Game" }

@@ -9,6 +9,10 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39steps.exe", "type": "Game" }
 
+# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
+{ "name": "Elliot.exe", "type": "Game" }
+{ "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
+
 # The Age of Decadence https://store.steampowered.com/app/230070/The_Age_of_Decadence/
 { "name": "AoD.exe", "type": "Game" }
 { "name": "AoD64.exe", "type": "Game" }
@@ -119,6 +123,10 @@
 { "name": "TheCallistoProtocol-Win64-Shipping.exe", "type": "Game" }
 { "name": "TheCallistoProtocol.exe", "type": "Game" }
 
+# The Campaign Series: Fall Weiss https://store.steampowered.com/app/283020/The_Campaign_Series_Fall_Weiss/
+{ "name": "fw_setup.exe", "type": "Game" }
+{ "name": "fw.exe", "type": "Game" }
+
 # The Caribou Trail https://store.steampowered.com/app/3065030/The_Caribou_Trail/
 { "name": "Caribou.exe", "type": "Game" }
 { "name": "Caribou-Win64-Shipping.exe", "type": "Game" }
@@ -150,6 +158,10 @@
 
 # The Chronicles of Riddick: Escape from Butcher Bay https://www.gog.com/dreamlist/game/the-chronicles-of-riddick-escape-from-butcher-bay
 { "name": "SbzEngine.exe", "type": "Game" }
+
+# The Circle Move https://store.steampowered.com/app/4713700/The_Circle_Move/
+{ "name": "TheCircleMove.exe", "type": "Game" }
+{ "name": "TheCircleMove-Win64-Shipping.exe", "type": "Game" }
 
 # The Citadel https://store.steampowered.com/app/1378290/The_Citadel/
 { "name": "the_citadel.exe", "type": "Game" }
@@ -420,6 +432,9 @@
 # The Hungry Lamb: Traveling in the Late Ming Dynasty https://store.steampowered.com/app/2593370/The_Hungry_Lamb_Traveling_in_the_Late_Ming_Dynasty/
 { "name": "The Hungry Lamb.exe", "type": "Game" }
 
+# The Imaginary Kingdom https://store.steampowered.com/app/4380400/Imaginary_Kingdom/
+{ "name": "second_year.exe", "type": "Game" }
+
 # The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
 { "name": "ImpossibleGame.exe", "type": "Game" }
 
@@ -493,6 +508,9 @@
 { "name": "TJoC_SM.exe", "type": "Game" }
 { "name": "TJoC_SM-Win64-Shipping.exe", "type": "Game" }
 { "name": "TJoC_R.exe", "type": "Game" }
+
+# The Karters 2: Turbo Charged https://store.steampowered.com/app/2269950/The_Karters_2_Turbo_Charged/
+{ "name": "TheKarters2.exe", "type": "Game" }
 
 # The Killing Antidote https://store.steampowered.com/app/2254890/The_Killing_Antidote/
 { "name": "TheKillingAntidote.exe", "type": "Game" }
@@ -735,6 +753,9 @@
 { "name": "rabbit.exe", "type": "Game" }
 { "name": "rabbit_64.exe", "type": "Game" }
 
+# The NOexistenceN of Morphean Paradox : The Forest of Silver Shallots https://store.steampowered.com/app/3942480/The_NOexistenceN_of_Morphean_Paradox__The_Forest_of_Silver_Shallots/
+{ "name": "project_nonmp.exe", "type": "Game" }
+
 # The NOexistenceN of you AND me https://store.steampowered.com/app/2873080/The_NOexistenceN_of_you_AND_me/
 { "name": "TheNOexistenceNofyouANDme.exe", "type": "Game" }
 
@@ -824,6 +845,9 @@
 
 # The Red Pearls Of Borneo https://store.steampowered.com/app/4488860/The_Red_Pearls_Of_Borneo/
 { "name": "The Red Pearls of Borneo.exe", "type": "Game" }
+
+# The Remake of the End of the Greatest RPG of All Time https://store.steampowered.com/app/2809660/The_Remake_of_the_End_of_the_Greatest_RPG_of_All_Time/
+{ "name": "The Remake the End of the Greatest RPG of All Time.exe", "type": "Game" }
 
 # The Rogue Prince of Persia https://store.steampowered.com/app/2717880/The_Rogue_Prince_of_Persia/
 { "name": "The Rogue Prince of Persia.exe", "type": "Game" }
@@ -964,6 +988,9 @@
 
 # The Technomancer https://store.steampowered.com/app/338390/The_Technomancer/
 { "name": "TheTechnomancer.exe", "type": "Game" }
+
+# The Temple of Elemental Evil https://store.steampowered.com/app/3843520/The_Temple_of_Elemental_Evil/
+{ "name": "temple.exe", "type": "Game" }
 
 # The Tenants https://store.steampowered.com/app/1009560/The_Tenants/
 { "name": "The Tenants.exe", "type": "Game" }

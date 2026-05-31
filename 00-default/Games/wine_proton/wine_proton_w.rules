@@ -112,12 +112,19 @@
 { "name": "Warhammer 40,000 Boltgun.exe", "type": "Game" }
 { "name": "Boltgun-Win64-Shipping.exe", "type": "Game" }
 
+# Warhammer 40,000: Boltgun 2 Demo https://store.steampowered.com/app/4338410/
+{ "name": "Boltgun2Demo.exe", "type": "Game" }
+{ "name": "Boltgun2Demo-Win64-Shipping.exe", "type": "Game" }
+
 # Warhammer 40,000: Boltgun - Words of Vengeance https://store.steampowered.com/app/3533730/Warhammer_40000_Boltgun__Words_of_Vengeance/
 { "name": "BoltgunWOV.exe", "type": "Game" }
 { "name": "BoltgunWOV-Win64-Shipping.exe", "type": "Game" }
 
 # Warhammer 40,000: Chaos Gate - Daemonhunters https://store.steampowered.com/app/1611910/Warhammer_40000_Chaos_Gate__Daemonhunters/
 { "name": "ChaosGate.exe", "type": "Game" }
+
+# Warhammer 40,000: Dark Heresy Playtest https://store.steampowered.com/app/3989130/
+{ "name": "WH40KDH.exe", "type": "Game" }
 
 # Warhammer 40,000: Darktide https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/
 { "name": "Darktide.exe", "type": "Game" }
@@ -148,6 +155,9 @@
 
 # Warhammer 40,000: Mechanicus https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
 { "name": "Mechanicus.exe", "type": "Game" }
+
+# Warhammer 40,000: Mechanicus II https://store.steampowered.com/app/2532480/Warhammer_40000_Mechanicus_II/
+{ "name": "Mechanicus2.exe", "type": "Game" }
 
 # Warhammer 40,000: Rogue Trader https://store.steampowered.com/app/2186680/Warhammer_40000_Rogue_Trader/
 { "name": "WH40KRT.exe", "type": "Game" }
@@ -188,6 +198,9 @@
 
 # Warhammer Quest: Silver Tower https://store.steampowered.com/app/1584980/Warhammer_Quest_Silver_Tower/
 { "name": "Silver Tower.exe", "type": "Game" }
+
+# Warhammer Survivors Demo https://store.steampowered.com/app/4499200/
+{ "name": "WarhammerSurvivors.exe", "type": "Game" }
 
 # Warhammer The Horus Heresy: Legions https://store.steampowered.com/app/1031140/Warhammer_The_Horus_Heresy_Legions/
 { "name": "HorusHeresyLegions.exe", "type": "Game" }
@@ -349,6 +362,10 @@
 # Wednesdays https://store.steampowered.com/app/2747770/Wednesdays/
 { "name": "Wednesdays.exe", "type": "Game" }
 
+# WEEB https://store.steampowered.com/app/3058030/WEEB/
+{ "name": "ThirdPersonTemplate.exe", "type": "Game" }
+{ "name": "ThirdPersonTemplate-Win64-Shipping.exe", "type": "Game" }
+
 # Weed Shop 3 https://store.steampowered.com/app/1182110/Weed_Shop_3/
 { "name": "Weed Shop 3.exe", "type": "Game" }
 
@@ -390,6 +407,9 @@
 
 # Westerado: Double Barreled https://store.steampowered.com/app/275200/Westerado_Double_Barreled/
 { "name": "WesteradoDB.exe", "type": "Game" }
+
+# West Hunt https://store.steampowered.com/app/1570330/West_Hunt/
+{ "name": "West Hunt.exe", "type": "Game" }
 
 # Westland Survival https://store.steampowered.com/app/2730970/Westland_Survival/
 { "name": "Westland Survival.exe", "type": "Game" }
@@ -735,6 +755,9 @@
 
 # World of Tanks Blitz https://store.steampowered.com/app/444200/World_of_Tanks_Blitz/
 { "name": "wotblitz.exe", "type": "BG_CPUIO" }
+
+# World of Tanks: HEAT https://store.steampowered.com/app/2100280/World_of_Tanks_HEAT/
+{ "name": "wgcs_api.exe", "type": "Game" }
 
 # World of Warcraft https://worldofwarcraft.blizzard.com/en-us/
 { "name": "Wow.exe", "type": "Game" }

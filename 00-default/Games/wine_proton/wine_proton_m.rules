@@ -31,6 +31,9 @@
 { "name": "Madden24.exe", "type": "Game" }
 { "name": "Madden24_Trial.exe", "type": "Game" }
 
+# Mad Digger https://store.steampowered.com/app/584100/Mad_Digger/
+{ "name": "mad_digger.exe", "type": "Game" }
+
 # Made in Abyss: Binary Star Falling into Darkness https://store.steampowered.com/app/1324340/Made_in_Abyss_Binary_Star_Falling_into_Darkness/
 { "name": "MadeInAbyss.exe", "type": "Game" }
 { "name": "MadeInAbyss-Win64-Shipping.exe", "type": "Game" }
@@ -112,6 +115,9 @@
 # Magic Rampage https://store.steampowered.com/app/704920/Magic_Rampage/
 { "name": "MagicRampage.exe", "type": "Game" }
 
+# Magic Research https://store.steampowered.com/app/2311680/Magic_Research/
+{ "name": "Magic Research.exe", "type": "Game" }
+
 # Magic Research 2 https://store.steampowered.com/app/2864890/Magic_Research_2/
 { "name": "Magic Research 2.exe", "type": "Game" }
 
@@ -145,6 +151,10 @@
 { "name": "lol7.exe", "type": "Game" }
 { "name": "KissMeEveryday.exe", "type": "Game" }
 { "name": "KissMeEveryday-HD.exe", "type": "Game" }
+
+# Main Sequence Demo https://store.steampowered.com/app/3640620/Main_Sequence_Demo/
+{ "name": "MainSequence.exe", "type": "Game" }
+{ "name": "MainSequence-Win64-Shipping.exe", "type": "Game" }
 
 # Maitetsu:Last Run!! https://store.steampowered.com/app/1434480/MaitetsuLast_Run/
 { "name": "MaitetsuLastRun.exe", "type": "Game" }
@@ -199,6 +209,9 @@
 
 # Maniac https://store.steampowered.com/app/1482380/Maniac/
 { "name": "maniac.exe", "type": "Game" }
+
+# Man of the House https://store.steampowered.com/app/1148150/
+{ "name": "Man of the house.exe", "type": "Game" }
 
 # Manor Lords https://store.steampowered.com/app/1363080/Manor_Lords/
 { "name": "ManorLords.exe", "type": "Game" }
@@ -347,6 +360,9 @@
 { "name": "MasterHealerKale.exe", "type": "Game" }
 
 # Master of Command https://store.steampowered.com/app/2878450/Master_of_Command/
+
+
+# Master of Command Demo https://store.steampowered.com/app/4092780/
 { "name": "Master Of Command.exe", "type": "Game" }
 
 # Master of Magic https://store.steampowered.com/app/1623070/Master_of_Magic/
@@ -584,6 +600,9 @@
 # Merge Adventure: Magic Dragons https://store.steampowered.com/app/2495050/Merge_Adventure_Magic_Dragons/
 { "name": "Merge Adventure.exe", "type": "Game" }
 
+# Merge Donut https://store.steampowered.com/app/3114470/Merge_Donut/
+{ "name": "Merge Donut.exe", "type": "Game" }
+
 # MergeCrafter https://store.steampowered.com/app/1964220/MergeCrafter/
 { "name": "MergeCrafter.exe", "type": "Game" }
 
@@ -715,6 +734,9 @@
 # Middle-earth: Shadow of War https://store.steampowered.com/app/356190/Middleearth_Shadow_of_War/
 { "name": "ShadowOfWar.exe", "type": "Game" }
 
+# Midnight Sin https://store.steampowered.com/app/3877070/
+{ "name": "Midnight Sin.exe", "type": "Game" }
+
 # Midnight Paradise https://store.steampowered.com/app/2485270/
 { "name": "MidnightParadise.exe", "type": "Game" }
 
@@ -741,6 +763,10 @@
 
 # Mighty Party https://store.steampowered.com/app/575720/Mighty_Party/
 { "name": "Mighty_party.exe", "type": "Game" }
+
+# Milfy City - Final Edition https://store.steampowered.com/app/2544090/
+{ "name": "MilfyCity.exe", "type": "Game" }
+{ "name": "MilfyCity-32.exe", "type": "Game" }
 
 # MILFs of Sunville - Season 2 https://store.steampowered.com/app/2294730/
 { "name": "MilfsOfSunville2.exe", "type": "Game" }
@@ -781,6 +807,9 @@
 
 # Minds Beneath Us https://store.steampowered.com/app/1610440/Minds_Beneath_Us/
 { "name": "MindsBeneathUs.exe", "type": "Game" }
+
+# Mind Scanners https://store.steampowered.com/app/1389550/Mind_Scanners/
+{ "name": "Mind Scanners.exe", "type": "Game" }
 
 # MindsEye https://store.steampowered.com/app/3265250/MindsEye/
 { "name": "MindsEye.exe", "type": "Game" }
@@ -953,6 +982,13 @@
 # Mobmod https://gamebanana.com/mods/464620/
 { "name": "Mobbos.exe", "type": "Game" }
 
+# Mob Trader https://store.steampowered.com/app/3061500/Mob_Trader/
+{ "name": "MobTraderFinal.exe", "type": "Game" }
+{ "name": "MobTraderFinal-Win64-Shipping.exe", "type": "Game" }
+
+# Modern Naval Warfare https://store.steampowered.com/app/1816640/Modern_Naval_Warfare/
+{ "name": "mnw.exe", "type": "Game" }
+
 # Modulus: Factory Automation https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/
 { "name": "Modulus.exe", "type": "Game" }
 
@@ -992,6 +1028,9 @@
 
 # Monkey Island 2 Special Edition: LeChuck’s Revenge https://store.steampowered.com/app/32460/Monkey_Island_2_Special_Edition_LeChucks_Revenge/
 { "name": "Monkey2.exe", "type": "Game" }
+
+# Monkeys https://store.steampowered.com/app/3104570/Monkeys/
+{ "name": "Monkeys.exe", "type": "Game" }
 
 # Monochrome Echoes - white - https://store.steampowered.com/app/3399400/Monochrome_Echoes__white/
 { "name": "M_Echoes.exe", "type": "Game" }
@@ -1057,6 +1096,9 @@
 # Monster Hunter Stories 3: Twisted Reflection https://store.steampowered.com/app/2852190/Monster_Hunter_Stories_3_Twisted_Reflection/
 { "name": "MONSTER_HUNTER_STORIES_3_TWISTED_REFLECTION.exe", "type": "Game" }
 
+# Monster Hunter Stories 3: Twisted Reflection Trial Version https://store.steampowered.com/app/3470630/Monster_Hunter_Stories_3_Twisted_Reflection_Trial_Version/
+{ "name": "MONSTER_HUNTER_STORIES_3_TWISTED_REFLECTION_TRIAL.exe", "type": "Game" }
+
 # Monster Hunter Wilds https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/
 { "name": "MonsterHunterWilds.exe", "type": "Game" }
 
@@ -1088,6 +1130,9 @@
 # Monster Rancher 1 & 2 DX https://store.steampowered.com/app/1716120/Monster_Rancher_1__2_DX/
 { "name": "MF.exe", "type": "Game" }
 { "name": "MF2.exe", "type": "Game" }
+
+# Monsters https://store.steampowered.com/app/3062260/Monsters/
+{ "name": "Monsters.exe", "type": "Game" }
 
 # Monster Sanctuary https://store.steampowered.com/app/814370/Monster_Sanctuary/
 { "name": "Monster Sanctuary.exe", "type": "Game" }
@@ -1128,9 +1173,6 @@
 
 # Moonscars https://store.steampowered.com/app/1374970/Moonscars/
 { "name": "Moonscars.exe", "type": "Game" }
-
-# Moonshiner Simulator Demo https://store.steampowered.com/app/4371080/Moonshiner_Simulator_Demo/
-{ "name": "MoonshinerSimulator.exe", "type": "Game" }
 
 # Moonstone Island https://store.steampowered.com/app/1658150/Moonstone_Island/
 { "name": "Moonstone Island.exe", "type": "Game" }
@@ -1328,6 +1370,9 @@
 # Mr. Pumpkin 2: Kowloon walled city https://store.steampowered.com/app/1182090/Mr_Pumpkin_2_Kowloon_walled_city/
 { "name": "Pumpkin2.exe", "type": "Game" }
 
+# Mr Right Simulator https://store.steampowered.com/app/3332830/Mr_Right_Simulator/
+{ "name": "MrRightiSimulator.exe", "type": "Game" }
+
 # Mr Shifty https://store.steampowered.com/app/489140/Mr_Shifty/
 { "name": "MrShifty.exe", "type": "Game" }
 
@@ -1397,6 +1442,9 @@
 
 # Muse Dash https://store.steampowered.com/app/774171/Muse_Dash/
 { "name": "MuseDash.exe", "type": "Game" }
+
+# Mushi https://store.steampowered.com/app/4192770/Mushi/
+{ "name": "mushi.exe", "type": "Game" }
 
 # MUSYNX https://store.steampowered.com/app/952040/MUSYNX/
 { "name": "musynx.exe", "type": "Game" }
@@ -1527,6 +1575,9 @@
 
 # Mysterious School https://store.steampowered.com/app/2084940/Mysterious_School/
 { "name": "MysteriousSchool.exe", "type": "Game" }
+
+# Mystwood Manor https://store.steampowered.com/app/1863670/
+{ "name": "Mystwood Manor.exe", "type": "Game" }
 
 # Mystery Manor: hidden objects https://store.steampowered.com/app/3077660/Mystery_Manor_hidden_objects/
 { "name": "MHouseXGen.exe", "type": "Game" }
