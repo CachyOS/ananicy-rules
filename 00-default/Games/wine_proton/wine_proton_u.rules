@@ -8,11 +8,11 @@
 # UBERMOSH https://store.steampowered.com/app/357070/UBERMOSH/
 { "name": "UBERMOSH.exe", "type": "Game" }
 
-# UBERMOSH:OMEGA https://store.steampowered.com/app/1181000/UBERMOSHOMEGA/
-{ "name": "UBERMOSH OMEGA.exe", "type": "Game" }
-
 # UBERMOSH:BLACK https://store.steampowered.com/app/444940/UBERMOSHBLACK/
 { "name": "UBERMOSH BLACK.exe", "type": "Game" }
+
+# UBERMOSH:OMEGA https://store.steampowered.com/app/1181000/UBERMOSHOMEGA/
+{ "name": "UBERMOSH OMEGA.exe", "type": "Game" }
 
 # UBERMOSH Vol.3 https://store.steampowered.com/app/515570/UBERMOSH_Vol3/
 { "name": "UBERMOSH vol3.exe", "type": "Game" }
@@ -28,9 +28,6 @@
 
 # UBOAT https://store.steampowered.com/app/494840/UBOAT/
 { "name": "UBOAT.exe", "type": "Game" }
-
-# Utawarerumono: Past and Present Rediscovered https://store.steampowered.com/app/4264260/Utawarerumono_Past_and_Present_Rediscovered/
-{ "name": "Utawarerumono Past and Present Rediscovered.exe", "type": "Game" }
 
 # UFO 50 https://store.steampowered.com/app/1147860/UFO_50/
 { "name": "ufo50.exe", "type": "Game" }
@@ -322,3 +319,6 @@
 
 # Used Cars Simulator https://store.steampowered.com/app/2637940/Used_Cars_Simulator/
 { "name": "Used Cars Simulator.exe", "type": "Game" }
+
+# Utawarerumono: Past and Present Rediscovered https://store.steampowered.com/app/4264260/Utawarerumono_Past_and_Present_Rediscovered/
+{ "name": "Utawarerumono Past and Present Rediscovered.exe", "type": "Game" }

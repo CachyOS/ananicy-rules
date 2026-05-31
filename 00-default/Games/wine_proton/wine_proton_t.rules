@@ -605,10 +605,6 @@
 # Tiny and Big: Grandpa's Leftovers https://store.steampowered.com/app/205910/Tiny_and_Big_Grandpas_Leftovers/
 { "name": "tinyandbig.exe", "type": "Game" }
 
-# Tiny Shop Playtest https://store.steampowered.com/app/3771140/
-{ "name": "Tiny_shop_demo.exe", "type": "Game" }
-{ "name": "Tiny_shop_demo-Win64-Shipping.exe", "type": "Game" }
-
 # Tiny Aquarium https://store.steampowered.com/app/2581950/Tiny_Aquarium_Social_Fishkeeping/
 { "name": "Tiny Aquarium.exe", "type": "Game" }
 
@@ -634,14 +630,18 @@
 # Tiny Rogues https://store.steampowered.com/app/2088570/Tiny_Rogues/
 { "name": "Tiny Rogues.exe", "type": "Game" }
 
+# Tiny Shop Playtest https://store.steampowered.com/app/3771140/
+{ "name": "Tiny_shop_demo.exe", "type": "Game" }
+{ "name": "Tiny_shop_demo-Win64-Shipping.exe", "type": "Game" }
+
 # Tiny Terraces https://store.steampowered.com/app/3136330/Tiny_Terraces/
 { "name": "Tiny Terraces.exe", "type": "Game" }
 
-# Tiny Tina's Wonderlands https://store.steampowered.com/app/1286680/Tiny_Tinas_Wonderlands/
-{ "name": "Wonderlands.exe", "type": "Game" }
-
 # Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure https://store.steampowered.com/app/1712840/Tiny_Tinas_Assault_on_Dragon_Keep_A_Wonderlands_Oneshot_Adventure/
 { "name": "TinyTina.exe", "type": "Game" }
+
+# Tiny Tina's Wonderlands https://store.steampowered.com/app/1286680/Tiny_Tinas_Wonderlands/
+{ "name": "Wonderlands.exe", "type": "Game" }
 
 # Tiny Troopers https://store.steampowered.com/app/216110/Tiny_Troopers/
 { "name": "TinyTroopers.exe", "type": "Game" }
@@ -1066,11 +1066,11 @@
 { "name": "TrailOut-Win64-Shipping.exe", "type": "Game" }
 { "name": "TrailOut.exe", "type": "Game" }
 
-# TRAIN CREW https://store.steampowered.com/app/1618290/TRAIN_CREW/
-{ "name": "TrainCrew.exe", "type": "Game" }
-
 # Trainatic https://store.steampowered.com/app/3208560/Trainatic/
 { "name": "trainatic.exe", "type": "Game" }
+
+# TRAIN CREW https://store.steampowered.com/app/1618290/TRAIN_CREW/
+{ "name": "TrainCrew.exe", "type": "Game" }
 
 # Train Driver 2 https://store.steampowered.com/app/3660700/Train_Driver_2/
 { "name": "TrainDriver2.exe", "type": "Game" }
