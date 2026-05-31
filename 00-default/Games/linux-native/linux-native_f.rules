@@ -24,10 +24,6 @@
 # Fake Lay https://store.steampowered.com/app/1191420/
 { "name": "fakelay", "type": "Game" }
 
-# Fantasy Grounds VTT https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/
-{ "name": "FGUSteamLauncher", "type": "Game" }
-{ "name": "FGUWebInstall.bin", "type": "BG_CPUIO" }
-
 # Fantasy Online 2 https://store.steampowered.com/app/2957110/Fantasy_Online_2/
 { "name": "fov4-steam", "type": "Game" }
 
@@ -130,9 +126,6 @@
 
 # Frozen Synapse https://store.steampowered.com/app/98200/Frozen_Synapse/
 { "name": "FrozenSynapse", "type": "Game" }
-
-# Fantasy Grounds VTT Demo https://store.steampowered.com/app/1406180/
-{ "name": "FGUSteamLauncher", "type": "Game" }
 
 # FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
 { "name": "FTL", "type": "Game" }

@@ -662,10 +662,6 @@
 # Dancing Line https://store.steampowered.com/app/4395300/Dancing_Line/
 { "name": "Dancing Line.exe", "type": "Game" }
 
-# Data Hacker: Initiation https://store.steampowered.com/app/311860/Data_Hacker_Initiation/
-{ "name": "game.exe", "type": "Game" }
-{ "name": "Game.exe", "type": "Game" }
-
 # Deep Dish Dungeon - Demo https://store.steampowered.com/app/3618740/Deep_Dish_Dungeon_Demo/
 { "name": "Deep Dish Dungeon - Demo.exe", "type": "Game" }
 
@@ -677,14 +673,9 @@
 { "name": "DEG.exe", "type": "Game" }
 
 # DRAGON QUEST BUILDERS 2 JUMBO DEMO https://store.steampowered.com/app/1168460/
-{ "name": "GameLauncher.exe", "type": "BG_CPUIO" }
 { "name": "DQB2_AS_TRIAL.exe", "type": "Game" }
 { "name": "DQB2_EU_TRIAL.exe", "type": "Game" }
 { "name": "DQB2_TRIAL.exe", "type": "Game" }
-
-# DrainSim Demo https://store.steampowered.com/app/4075050/DrainSim_Demo/
-{ "name": "DrainSim.exe", "type": "Game" }
-{ "name": "DrainSim-Win64-Shipping.exe", "type": "Game" }
 
 # Dreamcore https://store.steampowered.com/app/2453060/Dreamcore/
 { "name": "Dreamcore-Win64-Shipping.exe", "type": "Game" }
@@ -1311,10 +1302,6 @@
 
 # Dragon Traveler https://store.steampowered.com/app/4104440/Dragon_Traveler/
 { "name": "DragonTraveler.exe", "type": "Game" }
-
-# DrainSim https://store.steampowered.com/app/2963800/DrainSim/
-{ "name": "DrainSim.exe", "type": "Game" }
-{ "name": "DrainSim-Win64-Shipping.exe", "type": "Game" }
 
 # Drakensang Online https://store.steampowered.com/app/2067850/Drakensang_Online/
 { "name": "thinclient.exe", "type": "Game" }

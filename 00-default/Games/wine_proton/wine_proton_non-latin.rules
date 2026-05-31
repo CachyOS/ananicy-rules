@@ -30,11 +30,9 @@
 { "name": "Subzero.exe", "type": "Game" }
 
 # Huànxiǎng shényù - yuán shén qǐdòng 幻想神域 - 源神啟動 https://store.steampowered.com/app/3473500/Aura_Kingdom__Impact/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "xldr_aurakingdom_gl_loader_x64.exe", "type": "Game" }
 
 # Wàngquè qiányè 忘却前夜 https://store.steampowered.com/app/4226130/
-{ "name": "Morimens.exe", "type": "Game" }
 { "name": "hpatchz.exe", "type": "Game" }
 
 # Shíguāng cāntīng Playtest 时光餐厅 Playtest https://store.steampowered.com/app/4600390/
@@ -45,7 +43,6 @@
 
 # Měinǚ, qǐng bié yǐngxiǎng wǒ chéng xiān 美女，请别影响我成仙 https://store.steampowered.com/app/3545990/_/
 { "name": "LSP2Game.exe", "type": "Game" }
-{ "name": "Game_Win.exe", "type": "Game" }
 { "name": "LSP2Launcher.exe", "type": "Game" }
 
 # Yǐnxíng shǒuhù zhě The Invisible Guardian 隐形守护者 The Invisible Guardian https://store.steampowered.com/app/998940/
@@ -132,9 +129,6 @@
 
 # Guàjī yītiáo jiē 挂机一条街 https://store.steampowered.com/app/1476360/Hang_up_Street/
 { "name": "mini_guaji.exe", "type": "Game" }
-
-# Guān niǎo bǐjì Demo 观鸟笔记 Demo https://store.steampowered.com/app/4209250/Birdwatching_Notebook_Demo/
-{ "name": "Birdwatching Notebook.exe", "type": "Game" }
 
 # guǐ gǔ bā huāng 鬼谷八荒 Tale of Immortal https://store.steampowered.com/app/1468810/_Tale_of_Immortal/
 { "name": "guigubahuang.exe", "type": "Game" }
@@ -229,7 +223,6 @@
 
 # Měinǚ, qǐng bié yǐngxiǎng wǒ xuéxí 美女，请别影响我学习 https://store.steampowered.com/app/2786680/Knowledge_or_know_Lady/
 { "name": "LSPGame.exe", "type": "Game" }
-{ "name": "Game_Win.exe", "type": "Game" }
 
 # mì cháng shēng 觅长生 https://store.steampowered.com/app/1189490/_/
 { "name": "觅长生.exe", "type": "Game" }
@@ -507,9 +500,6 @@
 
 # Kanmuri o motsu kami no te 冠を持つ神の手 https://store.steampowered.com/app/4045680/The_Hand_of_the_Crownbearer/
 { "name": "The_Hand_of_the_Crownbearer.exe", "type": "Game" }
-
-# Hōkai 3 rd 崩壊3rd https://store.steampowered.com/app/1672740/
-{ "name": "BH3.exe", "type": "Game" }
 
 # Burūpurotokoru: Sutārezonansu ブループロトコル：スターレゾナンス https://store.steampowered.com/app/4073960/
 { "name": "StarASIA_STEAM.exe", "type": "Game" }

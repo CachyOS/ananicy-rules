@@ -213,9 +213,6 @@
 { "name": "sbox-launcher.exe", "type": "BG_CPUIO" }
 { "name": "sbox-server.exe", "type": "BG_CPUIO" }
 
-# Scale the Depths Demo https://store.steampowered.com/app/3821770/Scale_the_Depths_Demo/
-{ "name": "Scale The Depths.exe", "type": "Game" }
-
 # Scam Line https://store.steampowered.com/app/2794590/Scam_Line/
 { "name": "Scam Line.exe", "type": "Game" }
 
@@ -304,9 +301,6 @@
 
 # SCP: Labrat https://store.steampowered.com/app/1402020/SCP_Labrat/
 { "name": "SCP Labrat.exe", "type": "Game" }
-
-# SCP: Secret Laboratory https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/
-{ "name": "SCPSL.exe", "type": "Game" }
 
 # Scrap Mechanic https://store.steampowered.com/app/387990/Scrap_Mechanic/
 { "name": "ScrapMechanic.exe", "type": "Game" }
@@ -1303,9 +1297,6 @@
 # SnowRunner https://store.steampowered.com/app/1465360/SnowRunner/
 { "name": "SnowRunner.exe", "type": "Game" }
 
-# SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
-{ "name": "GameLauncher.exe", "type": "Game" }
-
 # Snufkin: Melody of Moominvalley https://store.steampowered.com/app/1808680/Snufkin_Melody_of_Moominvalley/
 { "name": "Snufkin.exe", "type": "Game" }
 
@@ -1982,9 +1973,6 @@
 # Star Valor https://store.steampowered.com/app/833360/Star_Valor/
 { "name": "Star Valor.exe", "type": "Game" }
 
-# Starvester Demo https://store.steampowered.com/app/4265550/
-{ "name": "Starvester.exe", "type": "Game" }
-
 # STAR WARS Battlefront https://store.steampowered.com/app/1237980/STAR_WARS_Battlefront/
 { "name": "starwarsbattlefronttrial.exe", "type": "Game" }
 { "name": "starwarsbattlefront.exe", "type": "Game" }
@@ -2215,7 +2203,6 @@
 
 # Storm over the Pacific https://store.steampowered.com/app/302320/Storm_over_the_Pacific/
 { "name": "sop_setup.exe", "type": "Game" }
-{ "name": "sop.exe", "type": "Game" }
 
 # Stormworks: Build and Rescue https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/
 { "name": "stormworks64.exe", "type": "Game" }
@@ -2615,19 +2602,11 @@
 # SatomiChat https://store.steampowered.com/app/4245350/SatomiChat/
 { "name": "satomi-chat.exe", "type": "Game" }
 
-# Scale the Depths https://store.steampowered.com/app/3198890/Scale_the_Depths/
-{ "name": "Scale The Depths.exe", "type": "Game" }
-
 # SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
 { "name": "LocalAdmin.exe", "type": "Game" }
-{ "name": "SCPSL.exe", "type": "Game" }
 
 # Seablip https://store.steampowered.com/app/1471270/Seablip/
 { "name": "Seablip.exe", "type": "Game" }
-
-# Secret Of Magia https://store.steampowered.com/app/396160/Secret_Of_Magia/
-{ "name": "EQLauncher.exe", "type": "Game" }
-{ "name": "Game.exe", "type": "Game" }
 
 # Sensual Adventures - Treasure Island https://store.steampowered.com/app/2757820/
 { "name": "TreasureIsland.exe", "type": "Game" }
@@ -2644,10 +2623,6 @@
 # Simson Tuningwerkstatt 3D https://store.steampowered.com/app/956240/Simson_Tuningwerkstatt_3D/
 { "name": "Tuningwerkstatt.exe", "type": "Game" }
 
-# Space Pilgrim Episode I: Alpha Centauri https://store.steampowered.com/app/429470/Space_Pilgrim_Episode_I_Alpha_Centauri/
-{ "name": "game.exe", "type": "Game" }
-{ "name": "Game.exe", "type": "Game" }
-
 # Space Survival https://store.steampowered.com/app/465190/Space_Survival/
 { "name": "SpaceSurvival.exe", "type": "Game" }
 
@@ -2662,12 +2637,6 @@
 
 # Stars of Icarus Playtest https://store.steampowered.com/app/2623220/
 { "name": "StarsOfIcarus.exe", "type": "Game" }
-
-# Starvester https://store.steampowered.com/app/4194800/Starvester/
-{ "name": "Starvester.exe", "type": "Game" }
-
-# States of Power Demo https://store.steampowered.com/app/4400250/States_of_Power_Demo/
-{ "name": "sop.exe", "type": "Game" }
 
 # Svarog's Dream https://store.steampowered.com/app/2004640/Svarogs_Dream/
 { "name": "Svarog's Dream.exe", "type": "Game" }
