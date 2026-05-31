@@ -1782,15 +1782,14 @@
 { "name": "Spyro.exe", "type": "Game" }
 
 # Squad https://store.steampowered.com/app/393380/Squad/
-
+{ "name": "SquadGame-Win64-Shipping.exe", "type": "Game" }
+{ "name": "squad_launcher.exe", "type": "BG_CPUIO" }
 
 # Squad 44 https://store.steampowered.com/app/736220/Squad_44/
 { "name": "PostScriptum.exe", "type": "Game" }
 
 # Squad - Public Testing https://store.steampowered.com/app/774941/
-{ "name": "squad_launcher.exe", "type": "BG_CPUIO" }
 { "name": "SquadGame.exe", "type": "Game" }
-{ "name": "SquadGame-Win64-Shipping.exe", "type": "Game" }
 
 # Square Brawl https://store.steampowered.com/app/394850/Square_Brawl/
 { "name": "Square Brawl.exe", "type": "Game" }
@@ -2332,12 +2331,6 @@
 
 # Street Fighter 30th Anniversary Collection https://store.steampowered.com/app/586200/Street_Fighter_30th_Anniversary_Collection/
 { "name": "SF30thAnniversaryCollection.exe", "type": "Game" }
-
-# Street Fighter 6 https://store.steampowered.com/app/1364780/Street_Fighter_6/
-
-
-# Street Fighter 6 Demo https://store.steampowered.com/app/2154900/
-{ "name": "StreetFighter6.exe", "type": "Game" }
 
 # Street Fighter IV https://store.steampowered.com/app/21660/Street_Fighter_IV/
 { "name": "StreetFighterIV.exe", "type": "Game" }

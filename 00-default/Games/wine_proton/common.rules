@@ -74,6 +74,10 @@
 # Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
 { "name": "ArmaReforgerSteam.exe", "type": "Game" }
 
+# Arma other 2 https://store.steampowered.com/app/33910/ARMA_2/
+# Arma 2 https://store.steampowered.com/app/33900/Arma_2/
+{ "name": "arma2.exe", "type": "Game" }
+
 # Jusant https://store.steampowered.com/app/1977170/Jusant/
 # Formula Legends https://store.steampowered.com/app/3194360/Formula_Legends/
 { "name": "ASC.exe", "type": "Game" }
@@ -85,6 +89,10 @@
 # DRAGON BALL Z: KAKAROT https://store.steampowered.com/app/851850/DRAGON_BALL_Z_KAKAROT/
 # Airline Tycoon Deluxe https://store.steampowered.com/app/331920/Airline_Tycoon_Deluxe/
 { "name": "AT.exe", "type": "Game" }
+
+# Demon Bluff Demo https://store.steampowered.com/app/3803820/Demon_Bluff_Demo/
+# Demon Bluff Playtest https://store.steampowered.com/app/3749680/Demon_Bluff/
+{ "name": "Demon Bluff.exe", "type": "Game" }
 
 # Atlantica Global https://store.steampowered.com/app/1232420/Atlantica_Global/
 # Atlantica Europe https://store.steampowered.com/app/1563940/Atlantica_Europe/
@@ -314,6 +322,10 @@
 # S.K.I.L.L. - Special Force 2 (Shooter) https://store.steampowered.com/app/286940/SKILL__Special_Force_2_Shooter/
 { "name": "DFUFG.exe", "type": "Game" }
 
+# Street Fighter 6 https://store.steampowered.com/app/1364780/Street_Fighter_6/
+# Street Fighter 6 Demo https://store.steampowered.com/app/2154900/
+{ "name": "StreetFighter6.exe", "type": "Game" }
+
 # Destroy All Humans! https://store.steampowered.com/app/803330/Destroy_All_Humans/
 # Destroy All Humans! 2 - Reprobed https://store.steampowered.com/app/1266700/Destroy_All_Humans_2__Reprobed/
 { "name": "DH.exe", "type": "Game" }
@@ -490,6 +502,11 @@
 # Tainted Grail: The Fall of Avalon https://store.steampowered.com/app/1466060/Tainted_Grail_The_Fall_of_Avalon/
 # Tainted Grail: The Fall of Avalon Demo https://store.steampowered.com/app/2346630/Tainted_Grail_The_Fall_of_Avalon_Demo/
 { "name": "Fall of Avalon.exe", "type": "Game" }
+
+# Tempest Rising https://store.steampowered.com/app/1486920/Tempest_Rising/
+# Tempest Rising: Veti Multiplayer Public Beta https://store.steampowered.com/app/2488530/
+{ "name": "Tempest.exe", "type": "Game" }
+{ "name": "Tempest-Win64-Shipping.exe", "type": "Game" }
 
 # Fallout 3 https://store.steampowered.com/app/22300/Fallout_3/
 # Fallout 3: Game of the Year Edition https://store.steampowered.com/app/22370/Fallout_3_Game_of_the_Year_Edition/
