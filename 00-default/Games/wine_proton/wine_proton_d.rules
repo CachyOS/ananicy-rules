@@ -453,11 +453,11 @@
 { "name": "DeckOfHaunts.exe", "type": "Game" }
 { "name": "DeckOfHaunts-Win64-Shipping.exe", "type": "Game" }
 
-# Deep Corp https://store.steampowered.com/app/4033080/Deep_Corp/
-{ "name": "Deep Corp.exe", "type": "Game" }
-
 # Deduce Together https://store.steampowered.com/app/3023190/Deduce_Together/
 { "name": "quiz-app.exe", "type": "Game" }
+
+# Deep Corp https://store.steampowered.com/app/4033080/Deep_Corp/
+{ "name": "Deep Corp.exe", "type": "Game" }
 
 # Deep Despair https://store.steampowered.com/app/1241040/Deep_Despair/
 { "name": "Deep Despair.exe", "type": "Game" }
@@ -602,11 +602,11 @@
 # Descenders https://store.steampowered.com/app/681280/Descenders/
 { "name": "Descenders.exe", "type": "Game" }
 
-# Desk Garden https://store.steampowered.com/app/3575790/Desk_Garden/
-{ "name": "DeskGarden.exe", "type": "Game" }
-
 # Desert Stalker https://store.steampowered.com/app/2899050/
 { "name": "DesertStalker.exe", "type": "Game" }
+
+# Desk Garden https://store.steampowered.com/app/3575790/Desk_Garden/
+{ "name": "DeskGarden.exe", "type": "Game" }
 
 # Desktop+ https://store.steampowered.com/app/1494460/Desktop/
 { "name": "DesktopPlus.exe", "type": "Game" }
@@ -637,15 +637,11 @@
 { "name": "DS98.exe", "type": "Game" }
 { "name": "DS98_OpenGL.exe", "type": "Game" }
 
-# Desolate https://store.steampowered.com/app/671510/DESOLATE/
-{ "name": "SH-Win64-Shipping.exe", "type": "Game" }
-
 # Deskworm https://store.steampowered.com/app/4044170/Deskworm/
 { "name": "Deskworm.exe", "type": "BG_CPUIO" }
 
-# DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
-{ "name": "Launch_EA.exe", "type": "Game" }
-{ "name": "Launch_JP.exe", "type": "Game" }
+# Desolate https://store.steampowered.com/app/671510/DESOLATE/
+{ "name": "SH-Win64-Shipping.exe", "type": "Game" }
 
 # DESORDRE : A Puzzle Game Adventure https://store.steampowered.com/app/2097490/DESORDRE__A_Puzzle_Game_Adventure/
 { "name": "Desordre.exe", "type": "Game" }
@@ -753,12 +749,12 @@
 # Diablo IV https://store.steampowered.com/app/2344520/Diablo_IV/
 { "name": "Diablo IV.exe", "type": "Game" }
 
-# Dice https://store.steampowered.com/app/3077710/Dice/
-{ "name": "Dice.exe", "type": "Game" }
-
 # Diamond https://store.steampowered.com/app/3058790/Diamond/
 { "name": "Diamond.exe", "type": "Game" }
 { "name": "GemClicker.exe", "type": "Game" }
+
+# Dice https://store.steampowered.com/app/3077710/Dice/
+{ "name": "Dice.exe", "type": "Game" }
 
 # Dice A Million https://store.steampowered.com/app/3430340/Dice_A_Million/
 { "name": "dice a million.exe", "type": "Game" }
@@ -993,11 +989,11 @@
 { "name": "Dogfight1942.exe", "type": "Game" }
 { "name": "Dogfight_1942_Launcher.exe", "type": "Game" }
 
-# Dogs https://store.steampowered.com/app/3083270/Dogs/
-{ "name": "Dogs.exe", "type": "Game" }
-
 # Dogpile https://store.steampowered.com/app/3839300/Dogpile/
 { "name": "dogpile.exe", "type": "Game" }
+
+# Dogs https://store.steampowered.com/app/3083270/Dogs/
+{ "name": "Dogs.exe", "type": "Game" }
 
 # Dogs of War Online https://store.steampowered.com/app/219700/Dogs_of_War_Online/
 { "name": "DogsOfWar.exe", "type": "Game" }
@@ -1613,6 +1609,10 @@
 # DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition https://store.steampowered.com/app/968790/DYNASTY_WARRIORS_7_Xtreme_Legends_Definitive_Edition/
 { "name": "SM6EN.exe", "type": "Game" }
 { "name": "SM6JP.exe", "type": "Game" }
+
+# DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
+{ "name": "Launch_EA.exe", "type": "Game" }
+{ "name": "Launch_JP.exe", "type": "Game" }
 
 # DYNASTY WARRIORS 9 https://store.steampowered.com/app/730310/DYNASTY_WARRIORS_9/
 { "name": "DW9.exe", "type": "Game" }

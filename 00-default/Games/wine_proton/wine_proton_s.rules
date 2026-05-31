@@ -1231,11 +1231,11 @@
 { "name": "snacko.exe", "type": "Game" }
 { "name": "snacko-Win64-Shipping.exe", "type": "Game" }
 
-# Sneak Out https://store.steampowered.com/app/2410490/Sneak_Out/
-{ "name": "Sneak Out.exe", "type": "Game" }
-
 # Snakecremental https://store.steampowered.com/app/3570430/Snakecremental/
 { "name": "Snakecremental.exe", "type": "Game" }
+
+# Sneak Out https://store.steampowered.com/app/2410490/Sneak_Out/
+{ "name": "Sneak Out.exe", "type": "Game" }
 
 # Sniper 3D Assassin: Shoot to Kill https://store.steampowered.com/app/922320/Sniper_3D_Assassin_Free_to_Play/
 { "name": "Sniper3D.exe", "type": "Game" }
@@ -1302,6 +1302,9 @@
 
 # SnowRunner https://store.steampowered.com/app/1465360/SnowRunner/
 { "name": "SnowRunner.exe", "type": "Game" }
+
+# SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
+{ "name": "GameLauncher.exe", "type": "Game" }
 
 # Snufkin: Melody of Moominvalley https://store.steampowered.com/app/1808680/Snufkin_Melody_of_Moominvalley/
 { "name": "Snufkin.exe", "type": "Game" }
@@ -1699,11 +1702,11 @@
 { "name": "X_Game-Win64-Shipping.exe", "type": "Game" }
 { "name": "SpiritRealmWorkShop-Win64-Shipping.exe", "type": "Game" }
 
-# SPITE: Taking the Boss's Wife, Sister and Mother https://store.steampowered.com/app/4242290/
-{ "name": "spite.exe", "type": "Game" }
-
 # SpiritVale Playtest https://store.steampowered.com/app/3918510/SpiritVale/
 { "name": "SpiritVale.exe", "type": "Game" }
+
+# SPITE: Taking the Boss's Wife, Sister and Mother https://store.steampowered.com/app/4242290/
+{ "name": "spite.exe", "type": "Game" }
 
 # Splatter - Zombiecalypse Now https://store.steampowered.com/app/281920/Splatter__Zombiecalypse_Now/
 { "name": "Splatter_Steam.exe", "type": "Game" }
@@ -1956,6 +1959,9 @@
 # Star Trek: Infinite https://store.steampowered.com/app/1622900/Star_Trek_Infinite/
 { "name": "hornblower_RD.exe", "type": "Game" }
 { "name": "infinite.exe", "type": "Game" }
+
+# Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
+{ "name": "GameClient.exe", "type": "Game" }
 
 # Star Trek Timelines https://store.steampowered.com/app/600750/Star_Trek_Timelines/
 { "name": "Timelines.exe", "type": "Game" }
@@ -2587,12 +2593,6 @@
 
 # SUPERHOT VR https://store.steampowered.com/app/617830/SUPERHOT_VR/
 { "name": "SUPERHOTVR.exe", "type": "Game" }
-
-# SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
-{ "name": "GameLauncher.exe", "type": "Game" }
-
-# Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
-{ "name": "GameClient.exe", "type": "Game" }
 
 # Super House of Dead Ninjas https://store.steampowered.com/app/224820/Super_House_of_Dead_Ninjas/
 { "name": "SHODN.exe", "type": "Game" }

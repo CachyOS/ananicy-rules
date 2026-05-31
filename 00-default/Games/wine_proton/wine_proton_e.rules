@@ -130,11 +130,11 @@
 # eFootball PES 2021 SEASON UPDATE https://store.steampowered.com/app/1259970/eFootball_PES_2021_SEASON_UPDATE/
 { "name": "PES2021.exe", "type": "Game" }
 
-# Eggz - Collectible Eggs Clicker https://store.steampowered.com/app/3077360/Eggz__Collectible_Eggs_Clicker/
-{ "name": "Eggz.exe", "type": "Game" }
-
 # EGG https://store.steampowered.com/app/2784840/Egg/
 { "name": "Egg.exe", "type": "Game" }
+
+# Eggz - Collectible Eggs Clicker https://store.steampowered.com/app/3077360/Eggz__Collectible_Eggs_Clicker/
+{ "name": "Eggz.exe", "type": "Game" }
 
 # Eiyuden Chronicle: Hundred Heroes https://store.steampowered.com/app/1658280/Eiyuden_Chronicle_Hundred_Heroes/
 { "name": "EiyudenChronicle.exe", "type": "Game" }
@@ -230,19 +230,21 @@
 # Emily is Away https://store.steampowered.com/app/417860/Emily_is_Away/
 { "name": "emily is away.exe", "type": "Game" }
 
-# Emoji Clicker https://store.steampowered.com/app/3056880/Emoji_Clicker/
-{ "name": "emojicc.exe", "type": "Game" }
-
 # Emissary Zero https://store.steampowered.com/app/3176060/Emissary_Zero/
 { "name": "Project_F.exe", "type": "Game" }
-
 { "name": "Project_F-Win64-Shipping.exe", "type": "Game" }
+
+# Emoji Clicker https://store.steampowered.com/app/3056880/Emoji_Clicker/
+{ "name": "emojicc.exe", "type": "Game" }
 
 # EmoteLab https://store.steampowered.com/app/4301100/EmoteLab/
 { "name": "EmoteLab.exe", "type": "Game" }
 
 # Emperor of the Fading Suns https://store.steampowered.com/app/2799350/Emperor_of_the_Fading_Suns_Enhanced/
 { "name": "EFS.exe", "type": "Game" }
+
+# Empire Deluxe Combined Edition https://store.steampowered.com/app/742700/Empire_Deluxe_Combined_Edition/
+{ "name": "EmpireCombined.exe", "type": "Game" }
 
 # Empire Earth Gold Edition https://store.steampowered.com/app/254760/Empire_Earth_Gold_Edition/
 { "name": "Empire Earth.exe", "type": "Game" }
@@ -251,9 +253,6 @@
 # Empire Earth II Gold Edition https://store.steampowered.com/app/254780/Empire_Earth_II_Gold_Edition/
 { "name": "EE2.exe", "type": "Game" }
 { "name": "EE2X.exe", "type": "Game" }
-
-# Empire Deluxe Combined Edition https://store.steampowered.com/app/742700/Empire_Deluxe_Combined_Edition/
-{ "name": "EmpireCombined.exe", "type": "Game" }
 
 # Empire of Sin https://store.steampowered.com/app/604540/Empire_of_Sin/
 { "name": "EmpireOfSin.exe", "type": "Game" }
