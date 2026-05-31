@@ -20,6 +20,9 @@
 # Bēng jìng huíshōu zhàn 嘣境回收战 https://store.steampowered.com/app/2411910/miniBONG/
 { "name": "miniBONG.exe", "type": "Game" }
 
+# Bīngdiǎn zhī xià 冰点之下 https://store.steampowered.com/app/3711170/SubZero/
+{ "name": "Subzero.exe", "type": "Game" }
+
 # Bù sīyì mígōng 不思议迷宫 https://store.steampowered.com/app/3112010/Gumballs__Dungeons/
 { "name": "slime.exe", "type": "Game" }
 
@@ -102,9 +105,6 @@
 # Guàjī yītiáo jiē 挂机一条街 https://store.steampowered.com/app/1476360/Hang_up_Street/
 { "name": "mini_guaji.exe", "type": "Game" }
 
-# Guān niǎo bǐjì Demo 观鸟笔记 Demo https://store.steampowered.com/app/4209250/Birdwatching_Notebook_Demo/
-{ "name": "Birdwatching Notebook.exe", "type": "Game" }
-
 # guǐ gǔ bā huāng 鬼谷八荒 Tale of Immortal https://store.steampowered.com/app/1468810/_Tale_of_Immortal/
 { "name": "guigubahuang.exe", "type": "Game" }
 
@@ -132,6 +132,9 @@
 
 # Huāng yù qí tán (Legends of Wasteland) 荒域奇谭(Legends of Wasteland) https://store.steampowered.com/app/4007300/Legends_of_Wasteland/
 { "name": "TalesofWasteLand.exe", "type": "Game" }
+
+# Huànxiǎng shényù - yuán shén qǐdòng 幻想神域 - 源神啟動 https://store.steampowered.com/app/3473500/Aura_Kingdom__Impact/
+{ "name": "xldr_aurakingdom_gl_loader_x64.exe", "type": "Game" }
 
 # Huáxià shǐshī: Zhànguó 华夏史诗：战国 https://store.steampowered.com/app/2389170/Huaxia_Warring_States/
 { "name": "hxss.exe", "type": "Game" }
@@ -196,9 +199,12 @@
 # Mèi jū wùyǔ Demo 妹居物语 Demo https://store.steampowered.com/app/4027870/_Demo/
 { "name": "妹居物语.exe", "type": "Game" }
 
+# Měinǚ, qǐng bié yǐngxiǎng wǒ chéng xiān 美女，请别影响我成仙 https://store.steampowered.com/app/3545990/_/
+{ "name": "LSP2Game.exe", "type": "Game" }
+{ "name": "LSP2Launcher.exe", "type": "Game" }
+
 # Měinǚ, qǐng bié yǐngxiǎng wǒ xuéxí 美女，请别影响我学习 https://store.steampowered.com/app/2786680/Knowledge_or_know_Lady/
 { "name": "LSPGame.exe", "type": "Game" }
-{ "name": "Game_Win.exe", "type": "Game" }
 
 # mì cháng shēng 觅长生 https://store.steampowered.com/app/1189490/_/
 { "name": "觅长生.exe", "type": "Game" }
@@ -224,15 +230,14 @@
 # Nǐ de lǎopó 你的老婆 https://store.steampowered.com/app/3339420/your_wife/
 { "name": "YourWife.exe", "type": "Game" }
 
+# Nǐ líkāi zhīhòu Demo 你离开之后 Demo https://store.steampowered.com/app/4475680/
+{ "name": "AfterYouLeft_Demo.exe", "type": "Game" }
+
 # Nìshuǐ hán 逆水寒 https://store.steampowered.com/app/2782500/SWORD_OF_JUSTICE/
 { "name": "nshm.exe", "type": "Game" }
 
 # nuǎn xuě 暖雪 Warm Snow https://store.steampowered.com/app/1296830/_Warm_Snow/
 { "name": "WarmSnow.exe", "type": "Game" }
-
-# Nǚ diào 女吊 https://store.steampowered.com/app/3513600/Scarlet_Idol/
-{ "name": "Date.exe", "type": "Game" }
-{ "name": "Date-Win64-Shipping.exe", "type": "Game" }
 
 # Piāoliú huànjìng 飄流幻境 https://store.steampowered.com/app/1481340/M/
 { "name": "WLM.exe", "type": "Game" }
@@ -302,6 +307,9 @@
 # Shén yǔn zhī dì Shattered Divinities 神陨之地 Shattered Divinities https://store.steampowered.com/app/3418990/Shattered_Divinities/
 { "name": "Shattered Divinities.exe", "type": "Game" }
 
+# Shíguāng cāntīng Playtest 时光餐厅 Playtest https://store.steampowered.com/app/4600390/
+{ "name": "TimeRestaurant.exe", "type": "Game" }
+
 # Shíguāng chāoshì 时光超市 https://store.steampowered.com/app/3687810/_/
 { "name": "TimeSupermarket.exe", "type": "Game" }
 
@@ -361,6 +369,9 @@
 # Wándàn! Wǒ bèi měinǚ bāowéile! 2 完蛋！我被美女包围了！ 2 https://store.steampowered.com/app/3282390/Love_is_All_Around_2/
 { "name": "WDHD6.exe", "type": "Game" }
 
+# Wàngquè qiányè 忘却前夜 https://store.steampowered.com/app/4226130/
+{ "name": "hpatchz.exe", "type": "Game" }
+
 # Wǒ de wénzì xiūxiān shìjiè 我的文字修仙世界 https://store.steampowered.com/app/4226370/_/
 { "name": "App.exe", "type": "Game" }
 
@@ -372,6 +383,9 @@
 
 # Wǒ zì chéng dào 我自成道 https://store.steampowered.com/app/4264340/I_AM_THE_DAO/
 { "name": "IAmTheDao.exe", "type": "Game" }
+
+# Wūhézhīzhòng 乌合之众 Demo https://store.steampowered.com/app/3227590/_Demo/
+{ "name": "MIDA.exe", "type": "Game" }
 
 # Wú zuì zhī tíng/Trials of Innocence 无罪之庭/Trials of Innocence https://store.steampowered.com/app/2983140/Trials_of_Innocence/
 { "name": "Trials of Innocence.exe", "type": "Game" }
@@ -431,6 +445,9 @@
 # Yīnghún zhī rèn 英魂之刃 https://store.steampowered.com/app/1591600/
 { "name": "CosClient.exe", "type": "Game" }
 
+# Yǐnxíng shǒuhù zhě The Invisible Guardian 隐形守护者 The Invisible Guardian https://store.steampowered.com/app/998940/
+{ "name": "TheInvisibleGuardian.exe", "type": "Game" }
+
 # Yǒnggǎn de hā kè (HAAK) 勇敢的哈克（HAAK） https://store.steampowered.com/app/1352930/HAAK/
 { "name": "haak.exe", "type": "Game" }
 
@@ -445,6 +462,9 @@
 
 # Zhǎn yāo xíng 斩妖行 Eastern Exorcist https://store.steampowered.com/app/1120810/Eastern_Exorcist/
 { "name": "Exorcist.exe", "type": "Game" }
+
+# Zhāolù: Jìngjiè lǚchéng 朝露：境界旅程 https://store.steampowered.com/app/2678640/Journey_of_RealmDawn_Dew/
+{ "name": "Journey of Realm Dawn Dew.exe", "type": "Game" }
 
 # zhèn xié  镇邪 https://store.steampowered.com/app/1939560/_/
 { "name": "ZX.exe", "type": "Game" }
@@ -478,6 +498,9 @@
 # Burūpurotokoru: Sutārezonansu ブループロトコル：スターレゾナンス https://store.steampowered.com/app/4073960/
 { "name": "StarASIA_STEAM.exe", "type": "Game" }
 
+# Doragonkuesuto X mezameshi itsutsu no shuzoku ofurain ドラゴンクエストＸ　目覚めし五つの種族　オフライン https://store.steampowered.com/app/1358750/
+{ "name": "DQXOffline.exe", "type": "Game" }
+
 # Dōruzufurontorain ドールズフロントライン https://store.steampowered.com/app/3907240/
 { "name": "DollsFrontLine.exe", "type": "Game" }
 
@@ -501,6 +524,9 @@
 
 # Kanji de GO! Shūeisha manga-sai 漢字でGO! 集英社マンガ祭 https://store.steampowered.com/app/3350140/GO/
 { "name": "集英社マンガ祭.exe", "type": "Game" }
+
+# Kanmuri o motsu kami no te 冠を持つ神の手 https://store.steampowered.com/app/4045680/The_Hand_of_the_Crownbearer/
+{ "name": "The_Hand_of_the_Crownbearer.exe", "type": "Game" }
 
 # Koikatsu/ Koikatsu pātī コイカツ / Koikatsu Party https://store.steampowered.com/app/1073440/
 { "name": "Koikatsu Party.exe", "type": "Game" }

@@ -14,6 +14,9 @@
 # UBERMOSH:OMEGA https://store.steampowered.com/app/1181000/UBERMOSHOMEGA/
 { "name": "UBERMOSH OMEGA.exe", "type": "Game" }
 
+# UBERMOSH:SANTICIDE https://store.steampowered.com/app/898450/UBERMOSHSANTICIDE/
+{ "name": "UBERMOSH_SANTICIDE.exe", "type": "Game" }
+
 # UBERMOSH Vol.3 https://store.steampowered.com/app/515570/UBERMOSH_Vol3/
 { "name": "UBERMOSH vol3.exe", "type": "Game" }
 
@@ -102,7 +105,7 @@
 { "name": "UnboxingTheCrypticKiller.exe", "type": "Game" }
 
 # Unbridled: That Horse Game https://store.steampowered.com/app/1938050/Unbridled_That_Horse_Game/
-{ "name": "UnbridledTHG", "type": "Game" }
+{ "name": "UnbridledTHG.exe", "type": "Game" }
 { "name": "UnbridledTHG-Win64-Shipping.exe", "type": "Game" }
 
 # UNCHARTED: Legacy of Thieves Collection https://store.steampowered.com/app/1659420/UNCHARTED_Legacy_of_Thieves_Collection/
@@ -322,3 +325,6 @@
 
 # Utawarerumono: Past and Present Rediscovered https://store.steampowered.com/app/4264260/Utawarerumono_Past_and_Present_Rediscovered/
 { "name": "Utawarerumono Past and Present Rediscovered.exe", "type": "Game" }
+
+# Utawarerumono: Prelude to the Fallen https://store.steampowered.com/app/1151450/Utawarerumono_Prelude_to_the_Fallen/
+{ "name": "Utawarerumono Prelude to the Fallen.exe", "type": "Game" }

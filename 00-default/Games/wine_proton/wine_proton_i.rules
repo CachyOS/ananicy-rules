@@ -106,15 +106,15 @@
 # IdleOn https://store.steampowered.com/app/1476970/IdleOn/
 { "name": "LegendsOfIdleon.exe", "type": "Game" }
 
-# Idlequarium https://store.steampowered.com/app/3689560/Idlequarium/
-{ "name": "IdlequariumLauncher.exe", "type": "BG_CPUIO" }
-{ "name": "Idlequarium.exe", "type": "Game" }
-
 # Idle Pins https://store.steampowered.com/app/1709920/Idle_Pins/
 { "name": "Idle Pins.exe", "type": "Game" }
 
 # Idle Pixel Fantasy https://store.steampowered.com/app/3916620/Idle_Pixel_Fantasy/
 { "name": "Idle Pixel Fantasy.exe", "type": "Game" }
+
+# Idlequarium https://store.steampowered.com/app/3689560/Idlequarium/
+{ "name": "IdlequariumLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "Idlequarium.exe", "type": "Game" }
 
 # Idle Quest Simulator https://store.steampowered.com/app/4243380/Idle_Quest_Simulator/
 { "name": "Idle Quest Simulator.exe", "type": "Game" }
@@ -364,6 +364,9 @@
 { "name": "TwoToo.exe", "type": "Game" }
 { "name": "TwoToo-Win64-Shipping.exe", "type": "Game" }
 
+# Innocent Girl https://store.steampowered.com/app/1349030/
+{ "name": "Innocent Girl.exe", "type": "Game" }
+
 # Insanely Twisted Shadow Planet https://store.steampowered.com/app/205730/Insanely_Twisted_Shadow_Planet/
 { "name": "fcengine.exe", "type": "Game" }
 
@@ -491,6 +494,9 @@
 
 # IOSoccer https://store.steampowered.com/app/673560/IOSoccer/
 { "name": "iosoccer.exe", "type": "Game" }
+
+# IQ Under Construction https://store.steampowered.com/app/3771740/IQ_Under_Construction/
+{ "name": "IQ Under Construction.exe", "type": "Game" }
 
 # iRacing https://store.steampowered.com/app/266410/iRacing/
 { "name": "iRacingSim64DX11.exe", "type": "Game" }

@@ -74,10 +74,6 @@
 { "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
 { "name": "Palworld.exe", "type": "Game" }
 
-# PANELKI https://store.steampowered.com/app/1836160/PANELKI/
-{ "name": "PanelkiProject-Win64-Shipping.exe", "type": "Game" }
-{ "name": "PanelkiProject.exe", "type": "Game" }
-
 # Palworld Dedicated Server https://store.steampowered.com/app/2394010/
 { "name": "PalServer.exe", "type": "Game" }
 { "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Game" }
@@ -85,6 +81,10 @@
 
 # Pandora's Toybox https://store.steampowered.com/app/3030190/Pandoras_Toybox/
 { "name": "Pandora's Toybox.exe", "type": "Game" }
+
+# PANELKI https://store.steampowered.com/app/1836160/PANELKI/
+{ "name": "PanelkiProject-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PanelkiProject.exe", "type": "Game" }
 
 # PANICORE https://store.steampowered.com/app/2695940/PANICORE/
 { "name": "Panicore.exe", "type": "Game" }
@@ -143,11 +143,11 @@
 # Paradise Killer https://store.steampowered.com/app/1160220/Paradise_Killer/
 { "name": "ParadiseKiller.exe", "type": "Game" }
 
-# Paralives https://store.steampowered.com/app/1118520/Paralives/
-{ "name": "Paralives.exe", "type": "Game" }
-
 # Paragnosia https://store.steampowered.com/app/3017580/Paragnosia/
 { "name": "Paragnosia.exe", "type": "Game" }
+
+# Paralives https://store.steampowered.com/app/1118520/Paralives/
+{ "name": "Paralives.exe", "type": "Game" }
 
 # Parallel Experiment https://store.steampowered.com/app/2012320/Parallel_Experiment/
 { "name": "Parallel Experiment.exe", "type": "Game" }
@@ -157,6 +157,9 @@
 
 # Paranoia: Happiness is Mandatory https://store.steampowered.com/app/858030/Paranoia_Happiness_is_Mandatory/
 { "name": "PARANOIA.exe", "type": "Game" }
+
+# PARANOIA PLACE https://store.steampowered.com/app/1592290/PARANOIA_PLACE/
+{ "name": "Paranoia Place.exe", "type": "Game" }
 
 # Paranormal Cleanup https://store.steampowered.com/app/2197890/Paranormal_Cleanup/
 { "name": "aCleaningHorror.exe", "type": "Game" }
@@ -189,11 +192,11 @@
 # Particle Fleet: Emergence https://store.steampowered.com/app/422900/Particle_Fleet_Emergence/
 { "name": "ParticleFleet.exe", "type": "Game" }
 
-# Particula https://store.steampowered.com/app/343360/Particula/
-{ "name": "Particula.exe", "type": "Game" }
-
 # Particul https://store.steampowered.com/app/4273120/Particul/
 { "name": "particul.exe", "type": "Game" }
+
+# Particula https://store.steampowered.com/app/343360/Particula/
+{ "name": "Particula.exe", "type": "Game" }
 
 # Partisans 1941 https://store.steampowered.com/app/1227530/Partisans_1941/
 { "name": "Partisans.exe", "type": "Game" }
@@ -513,12 +516,15 @@
 # Pioneers of Pagonia https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/
 { "name": "Pioneers of Pagonia.exe", "type": "Game" }
 
-# Pipistrello and the Cursed Yoyo https://store.steampowered.com/app/2870350/Pipistrello_and_the_Cursed_Yoyo/
-{ "name": "Pipistrello.exe", "type": "Game" }
-
 # PIONER https://store.steampowered.com/app/3105890/PIONER/
 { "name": "Pioner.exe", "type": "Game" }
 { "name": "Pioner-Win64-Shipping.exe", "type": "Game" }
+
+# Pipistrello and the Cursed Yoyo https://store.steampowered.com/app/2870350/Pipistrello_and_the_Cursed_Yoyo/
+{ "name": "Pipistrello.exe", "type": "Game" }
+
+# Pirate Ships https://store.steampowered.com/app/4011110/Pirate_Ships/
+{ "name": "PirateShips.exe", "type": "Game" }
 
 # Pirates, Vikings, and Knights II https://store.steampowered.com/app/17570/Pirates_Vikings__Knights_II/
 { "name": "pvkii_win32.exe", "type": "Game" }
@@ -541,9 +547,6 @@
 
 # Pixel Gun 3D: PC Edition https://store.steampowered.com/app/2524890/Pixel_Gun_3D_PC_Edition/
 { "name": "Pixel Gun 3D.exe", "type": "Game" }
-
-# PixelJunk Monsters Ultimate https://store.steampowered.com/app/243780/PixelJunk_Monsters_Ultimate/
-{ "name": "Monsters.exe", "type": "Game" }
 
 # PixelJunk Nom Nom Galaxy https://store.steampowered.com/app/226100/PixelJunk_Nom_Nom_Galaxy/
 { "name": "NomNomGalaxy.exe", "type": "Game" }
@@ -677,6 +680,10 @@
 # PlayClaw 7 https://store.steampowered.com/app/1141530/PlayClaw_7__Game_Overlays_Recording_and_Streaming/
 { "name": "PlayClawApp64.exe", "type": "Game" }
 
+# PlayStation®VR2 App https://store.steampowered.com/app/2580190/PlayStationVR2_App/
+{ "name": "PlayStationVR2App.exe", "type": "Game" }
+{ "name": "PlayAreaSetup-Win64-Shipping.exe", "type": "Game" }
+
 # Play Together https://store.steampowered.com/app/3198850/Play_Together/
 { "name": "PlayTogether.exe", "type": "Game" }
 
@@ -685,6 +692,15 @@
 
 # Plebby Quest: The Crusades https://store.steampowered.com/app/334310/Plebby_Quest_The_Crusades/
 { "name": "PQTC.exe", "type": "Game" }
+
+# PngTuber Maker https://store.steampowered.com/app/2266940/PngTuber_Maker/
+{ "name": "PngTuber Maker.exe", "type": "Game" }
+
+# PNGTuber Plus https://store.steampowered.com/app/2596880/PNGTuber_Plus/
+{ "name": "PNGTUBER PLUS 1.4.5 STEAM.exe", "type": "Game" }
+
+# Pocket Waifu: Desktop Pet https://store.steampowered.com/app/2989820/Pocket_Waifu_Desktop_Pet/
+{ "name": "PocketWaifu.exe", "type": "BG_CPUIO" }
 
 # Poco https://store.steampowered.com/app/3454610/Poco/
 { "name": "Poco.exe", "type": "Game" }
@@ -844,9 +860,6 @@
 # Potion Permit https://store.steampowered.com/app/1337760/Potion_Permit/
 { "name": "Potion Permit.exe", "type": "Game" }
 
-# Powder https://store.steampowered.com/app/1794970/Powder/
-{ "name": "Powder.exe", "type": "Game" }
-
 # Power Fantasy https://store.steampowered.com/app/2482190/Power_Fantasy/
 { "name": "Power Fantasy.exe", "type": "Game" }
 
@@ -969,22 +982,11 @@
 # Pro Cycling Manager 2020 https://store.steampowered.com/app/1178400/Pro_Cycling_Manager_2020/
 { "name": "PCM64Beta_protect.exe", "type": "Game" }
 
-# Pro Cycling Manager 2021 https://store.steampowered.com/app/1453850/Pro_Cycling_Manager_2021/
-{ "name": "LaunchMultiRes.bat", "type": "Game" }
-{ "name": "LaunchBot.bat", "type": "Game" }
-{ "name": "LaunchMulti.bat", "type": "Game" }
-
 # Prodeus https://store.steampowered.com/app/964800/Prodeus/
 { "name": "Prodeus.exe", "type": "Game" }
 
 # Pro Evolution Soccer 2013 https://steamdb.info/app/221430/
 { "name": "pes2013.exe", "type": "Game" }
-
-# Pro Evolution Soccer 2016 myClub https://store.steampowered.com/app/407250/
-{ "name": "PES2016.exe", "type": "Game" }
-
-# Pro Evolution Soccer 2016 https://store.steampowered.com/app/375960/
-{ "name": "PES2016.exe", "type": "Game" }
 
 # Pro Evolution Soccer 2017 https://store.steampowered.com/app/456610/
 { "name": "PES2017.exe", "type": "Game" }
@@ -1155,11 +1157,11 @@
 { "name": "TslGame_BE.exe", "type": "Game" }
 { "name": "TslGame_ZK.exe", "type": "Game" }
 
-# Pug'llector https://store.steampowered.com/app/3067050/Pugllector/
-{ "name": "Pugllector.exe", "type": "Game" }
-
 # Puck https://store.steampowered.com/app/2994020/Puck/
 { "name": "Puck.exe", "type": "Game" }
+
+# Pug'llector https://store.steampowered.com/app/3067050/Pugllector/
+{ "name": "Pugllector.exe", "type": "Game" }
 
 # PULSAR: Lost Colony https://store.steampowered.com/app/252870/PULSAR_Lost_Colony/
 { "name": "PULSAR_LostColony.exe", "type": "Game" }
@@ -1179,14 +1181,14 @@
 # Punch Club 2: Fast Forward https://store.steampowered.com/app/1161590/Punch_Club_2_Fast_Forward/
 { "name": "Punch Club 2 Fast Forward.exe", "type": "Game" }
 
-# Pupa https://store.steampowered.com/app/3077780/Pupa/
-{ "name": "PUPA.exe", "type": "Game" }
-
 # Punishing: Gray Raven https://store.steampowered.com/app/4125930/Punishing_Gray_Raven/
 { "name": "PGR.exe", "type": "Game" }
 
 # PUNK Playtest https://store.steampowered.com/app/2850470/PUNK/
 { "name": "Punk.exe", "type": "Game" }
+
+# Pupa https://store.steampowered.com/app/3077780/Pupa/
+{ "name": "PUPA.exe", "type": "Game" }
 
 # Pure Farming 2018 https://store.steampowered.com/app/534370/Pure_Farming_2018/
 { "name": "PureFarming.exe", "type": "Game" }

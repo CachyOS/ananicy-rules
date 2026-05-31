@@ -73,6 +73,9 @@
 { "name": "Rag2.exe", "type": "Game" }
 { "name": "RO2Client.exe", "type": "Game" }
 
+# Raiders! Forsaken Earth https://store.steampowered.com/app/972010/Raiders_Forsaken_Earth/
+{ "name": "Raiders.exe", "type": "Game" }
+
 # Raiders of Blackveil https://store.steampowered.com/app/3352240/Raiders_of_Blackveil/
 { "name": "RoB.exe", "type": "Game" }
 
@@ -360,6 +363,9 @@
 # Relooted https://store.steampowered.com/app/3255890/Relooted/
 { "name": "Relooted-Win64-Shipping.exe", "type": "Game" }
 
+# Remains https://store.steampowered.com/app/3908900/FoE_Remains/
+{ "name": "adl64.exe", "type": "Game" }
+
 # REMATCH https://store.steampowered.com/app/2138720/REMATCH/
 { "name": "RuntimeClient.exe", "type": "Game" }
 { "name": "RuntimeClient-Win64-Shipping.exe", "type": "Game" }
@@ -384,6 +390,10 @@
 # Renegade Ops https://store.steampowered.com/app/99300/Renegade_Ops/
 { "name": "RenegadeOps.exe", "type": "Game" }
 
+# RENNSPORT https://store.steampowered.com/app/2077750/RENNSPORT/
+{ "name": "Rennsport.exe", "type": "Game" }
+{ "name": "Rennsport-Win64-Shipping.exe", "type": "Game" }
+
 # Rento Fortune: Online Dice Board Game (大富翁) https://store.steampowered.com/app/663390/Rento_Fortune_Online_Dice_Board_Game/
 { "name": "MapEditor.exe", "type": "Game" }
 { "name": "Rento.exe", "type": "Game" }
@@ -405,9 +415,6 @@
 
 # Resident Evil (1996) https://store.steampowered.com/app/4249100/
 { "name": "4249100_Launcher.exe", "type": "Game" }
-
-# Resident Evil 2 https://store.steampowered.com/app/883710/Resident_Evil_2/
-{ "name": "re2.exe", "type": "Game" }
 
 # Resident Evil 2 (1998) https://store.steampowered.com/app/4249110/
 { "name": "4249110_Launcher.exe", "type": "Game" }
@@ -807,6 +814,9 @@
 
 # Rocket League http://store.steampowered.com/app/252950/Rocket_League/
 { "name": "RocketLeague.exe", "type": "Game" }
+
+# Rock Island https://store.steampowered.com/app/3561030/Rock_Island/
+{ "name": "RockIslandGame.exe", "type": "Game" }
 
 # Rock 'N' Roll Defense https://store.steampowered.com/app/438480/Rock_N_Roll_Defense/
 { "name": "Rock 'N' Roll Defense.exe", "type": "Game" }

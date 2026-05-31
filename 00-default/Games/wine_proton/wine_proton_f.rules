@@ -183,10 +183,6 @@
 # Fantasy Grounds Classic https://store.steampowered.com/app/252690/Fantasy_Grounds_Classic/
 { "name": "FGSteamLauncher.exe", "type": "Game" }
 
-# Fantasy Grounds VTT https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/
-{ "name": "FGUSteamLauncher.exe", "type": "Game" }
-{ "name": "FGUWebInstall.exe", "type": "BG_CPUIO" }
-
 # Fantasy Idle Dungeon https://store.steampowered.com/app/3424610/Fantasy_Idle_Dungeon/
 { "name": "Fantasy Idle Dungeon.exe", "type": "Game" }
 
@@ -365,6 +361,9 @@
 # Fate/EXTELLA LINK https://store.steampowered.com/app/622220/FateEXTELLA_LINK/
 { "name": "fateextellalink.exe", "type": "Game" }
 
+# Fate/hollow ataraxia REMASTERED https://store.steampowered.com/app/2396990/Fatehollow_ataraxia_REMASTERED/
+{ "name": "hollow-win64vc14-release.exe", "type": "Game" }
+
 # FATE: Reawakened https://store.steampowered.com/app/3030720/FATE_Reawakened/
 { "name": "FateReawakened.exe", "type": "Game" }
 
@@ -417,21 +416,17 @@
 # Feed the Cups https://store.steampowered.com/app/2336220/Feed_the_Cups/
 { "name": "Feed the Cups.exe", "type": "Game" }
 
-# Feed the Reactor https://store.steampowered.com/app/4009730/Feed_the_Reactor/
-{ "name": "Feed the Reactor.exe", "type": "Game" }
-
 # FEED THE QUEEN https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
 { "name": "feedthequeen.exe", "type": "Game" }
+
+# Feed the Reactor https://store.steampowered.com/app/4009730/Feed_the_Reactor/
+{ "name": "Feed the Reactor.exe", "type": "Game" }
 
 # Feign https://store.steampowered.com/app/1436990/Feign/
 { "name": "Feign.exe", "type": "Game" }
 
-# Fellowship (By Chief Rebel Games. Not to be confused with Fellowship by Elraim Studio.) https://store.steampowered.com/app/2352620/Fellowship/
-{ "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
-
 # Fellowship Playtest https://store.steampowered.com/app/3165720/
 { "name": "fellowship.exe", "type": "Game" }
-{ "name": "fellowship-Win64-Shipping.exe", "type": "Game" }
 
 # Fell Seal: Arbiter's Mark https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/
 { "name": "Fell Seal.exe", "type": "Game" }
@@ -800,6 +795,9 @@
 { "name": "Fobia.exe", "type": "Game" }
 { "name": "Fobia-Win64-Shipping.exe", "type": "Game" }
 
+# Focus Grove Demo https://store.steampowered.com/app/4124020/Focus_Grove_Demo/
+{ "name": "Focus Grove.exe", "type": "Game" }
+
 # Folk Tale https://store.steampowered.com/app/224440/Folk_Tale/
 { "name": "Folk Tale.exe", "type": "Game" }
 
@@ -1055,11 +1053,11 @@
 # Fruitbus https://store.steampowered.com/app/2484130/Fruitbus/
 { "name": "Fruitbus.exe", "type": "Game" }
 
-# Fruit Stand Fortune https://store.steampowered.com/app/3306030/Fruit_Stand_Fortune/
-{ "name": "Fruit Stand Fortune.exe", "type": "Game" }
-
 # Fruits https://store.steampowered.com/app/1587070/Fruits/
 { "name": "Fruits.exe", "type": "Game" }
+
+# Fruit Stand Fortune https://store.steampowered.com/app/3306030/Fruit_Stand_Fortune/
+{ "name": "Fruit Stand Fortune.exe", "type": "Game" }
 
 # FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
 { "name": "FTLGame.exe", "type": "Game" }
@@ -1104,7 +1102,6 @@
 { "name": "Fury of Dracula.exe", "type": "Game" }
 
 # Fury Unleashed https://store.steampowered.com/app/465200/Fury_Unleashed/
-{ "name": "FuryUnleashed.exe", "type": "Game" }
 { "name": "FuryUnleashed.exe", "type": "Game" }
 
 # Futa Fucks Femboys https://store.steampowered.com/app/3989810/

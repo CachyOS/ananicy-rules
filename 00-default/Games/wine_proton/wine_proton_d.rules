@@ -31,6 +31,9 @@
 # Damned https://store.steampowered.com/app/251170/Damned/
 { "name": "Damned.exe", "type": "Game" }
 
+# Dancing Line https://store.steampowered.com/app/4395300/Dancing_Line/
+{ "name": "Dancing Line.exe", "type": "Game" }
+
 # Dandy Ace https://store.steampowered.com/app/1037130/Dandy_Ace/
 { "name": "DandyAce.exe", "type": "Game" }
 
@@ -453,21 +456,18 @@
 { "name": "DeckOfHaunts.exe", "type": "Game" }
 { "name": "DeckOfHaunts-Win64-Shipping.exe", "type": "Game" }
 
-# Decktamer Demo https://store.steampowered.com/app/2870360/Decktamer_Demo/
-{ "name": "Decktamer.exe", "type": "Game" }
+# Deduce Together https://store.steampowered.com/app/3023190/Deduce_Together/
+{ "name": "quiz-app.exe", "type": "Game" }
 
 # Deep Corp https://store.steampowered.com/app/4033080/Deep_Corp/
 { "name": "Deep Corp.exe", "type": "Game" }
 
-# Decktamer https://store.steampowered.com/app/2870340/Decktamer/
-{ "name": "Decktamer.exe", "type": "Game" }
-
-# Deduce Together https://store.steampowered.com/app/3023190/Deduce_Together/
-{ "name": "quiz-app.exe", "type": "Game" }
-
 # Deep Despair https://store.steampowered.com/app/1241040/Deep_Despair/
 { "name": "Deep Despair.exe", "type": "Game" }
 { "name": "Deep Despair Remastered.exe", "type": "Game" }
+
+# Deep Dish Dungeon - Demo https://store.steampowered.com/app/3618740/Deep_Dish_Dungeon_Demo/
+{ "name": "Deep Dish Dungeon - Demo.exe", "type": "Game" }
 
 # Deep Eclipse https://store.steampowered.com/app/326990/Deep_Eclipse_New_Space_Odyssey/
 { "name": "DeepEclipse.exe", "type": "Game" }
@@ -485,6 +485,10 @@
 
 # Deep Rock Galactic: Survivor https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/
 { "name": "DRG Survivor.exe", "type": "Game" }
+
+# Deep Snow Delivery Demo https://store.steampowered.com/app/4357090/
+{ "name": "DeepSnowDelivery.exe", "type": "Game" }
+{ "name": "DeepSnowDelivery-Win64-Shipping.exe", "type": "Game" }
 
 # DeerHunterFan.com TV - The Season https://store.steampowered.com/app/2128140/Deer_Hunting__The_Season/
 { "name": "DeerHunterFan.com TV - The Season.exe", "type": "Game" }
@@ -508,6 +512,9 @@
 
 # Defy Gravity https://store.steampowered.com/app/96100/Defy_Gravity_Extended/
 { "name": "DefyGravity.exe", "type": "Game" }
+
+# DEG Demo https://store.steampowered.com/app/4062610/DEG_Demo/
+{ "name": "DEG.exe", "type": "Game" }
 
 # Degrees of Separation https://store.steampowered.com/app/809880/Degrees_of_Separation/
 { "name": "dofs.exe", "type": "Game" }
@@ -608,11 +615,11 @@
 # Descenders https://store.steampowered.com/app/681280/Descenders/
 { "name": "Descenders.exe", "type": "Game" }
 
-# Desk Garden https://store.steampowered.com/app/3575790/Desk_Garden/
-{ "name": "DeskGarden.exe", "type": "Game" }
-
 # Desert Stalker https://store.steampowered.com/app/2899050/
 { "name": "DesertStalker.exe", "type": "Game" }
+
+# Desk Garden https://store.steampowered.com/app/3575790/Desk_Garden/
+{ "name": "DeskGarden.exe", "type": "Game" }
 
 # Desktop+ https://store.steampowered.com/app/1494460/Desktop/
 { "name": "DesktopPlus.exe", "type": "Game" }
@@ -643,12 +650,11 @@
 { "name": "DS98.exe", "type": "Game" }
 { "name": "DS98_OpenGL.exe", "type": "Game" }
 
-# Desolate https://store.steampowered.com/app/671510/DESOLATE/
-{ "name": "SH.exe", "type": "Game" }
-{ "name": "SH-Win64-Shipping.exe", "type": "Game" }
-
 # Deskworm https://store.steampowered.com/app/4044170/Deskworm/
 { "name": "Deskworm.exe", "type": "BG_CPUIO" }
+
+# Desolate https://store.steampowered.com/app/671510/DESOLATE/
+{ "name": "SH-Win64-Shipping.exe", "type": "Game" }
 
 # DESORDRE : A Puzzle Game Adventure https://store.steampowered.com/app/2097490/DESORDRE__A_Puzzle_Game_Adventure/
 { "name": "Desordre.exe", "type": "Game" }
@@ -756,12 +762,12 @@
 # Diablo IV https://store.steampowered.com/app/2344520/Diablo_IV/
 { "name": "Diablo IV.exe", "type": "Game" }
 
-# Dice https://store.steampowered.com/app/3077710/Dice/
-{ "name": "Dice.exe", "type": "Game" }
-
 # Diamond https://store.steampowered.com/app/3058790/Diamond/
 { "name": "Diamond.exe", "type": "Game" }
 { "name": "GemClicker.exe", "type": "Game" }
+
+# Dice https://store.steampowered.com/app/3077710/Dice/
+{ "name": "Dice.exe", "type": "Game" }
 
 # Dice A Million https://store.steampowered.com/app/3430340/Dice_A_Million/
 { "name": "dice a million.exe", "type": "Game" }
@@ -996,11 +1002,11 @@
 { "name": "Dogfight1942.exe", "type": "Game" }
 { "name": "Dogfight_1942_Launcher.exe", "type": "Game" }
 
-# Dogs https://store.steampowered.com/app/3083270/Dogs/
-{ "name": "Dogs.exe", "type": "Game" }
-
 # Dogpile https://store.steampowered.com/app/3839300/Dogpile/
 { "name": "dogpile.exe", "type": "Game" }
+
+# Dogs https://store.steampowered.com/app/3083270/Dogs/
+{ "name": "Dogs.exe", "type": "Game" }
 
 # Dogs of War Online https://store.steampowered.com/app/219700/Dogs_of_War_Online/
 { "name": "DogsOfWar.exe", "type": "Game" }
@@ -1226,6 +1232,11 @@
 { "name": "DQB2_AS.exe", "type": "Game" }
 { "name": "DQB2_EU.exe", "type": "Game" }
 
+# DRAGON QUEST BUILDERS 2 JUMBO DEMO https://store.steampowered.com/app/1168460/
+{ "name": "DQB2_AS_TRIAL.exe", "type": "Game" }
+{ "name": "DQB2_EU_TRIAL.exe", "type": "Game" }
+{ "name": "DQB2_TRIAL.exe", "type": "Game" }
+
 # DRAGON QUEST HEROES II https://store.steampowered.com/app/574050/DRAGON_QUEST_HEROES_II/
 { "name": "DQH2.exe", "type": "Game" }
 
@@ -1282,10 +1293,6 @@
 # Dragon Traveler https://store.steampowered.com/app/4104440/Dragon_Traveler/
 { "name": "DragonTraveler.exe", "type": "Game" }
 
-# DrainSim https://store.steampowered.com/app/2963800/DrainSim/
-{ "name": "DrainSim.exe", "type": "Game" }
-{ "name": "DrainSim-Win64-Shipping.exe", "type": "Game" }
-
 # Drakensang Online https://store.steampowered.com/app/2067850/Drakensang_Online/
 { "name": "thinclient.exe", "type": "Game" }
 
@@ -1324,6 +1331,10 @@
 { "name": "dreadout.exe", "type": "Game" }
 { "name": "dreadout32.exe", "type": "Game" }
 
+# Dreamcore https://store.steampowered.com/app/2453060/Dreamcore/
+{ "name": "Dreamcore-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Dreamcore.exe", "type": "Game" }
+
 # Dream Daddy: A Dad Dating Simulator https://store.steampowered.com/app/654880/Dream_Daddy_A_Dad_Dating_Simulator/
 { "name": "ddadds.exe", "type": "Game" }
 
@@ -1348,6 +1359,9 @@
 
 # Drift86 https://store.steampowered.com/app/1070580/Drift86/
 { "name": "Drift86 V3.exe", "type": "Game" }
+
+# Drifter Star: Evolution https://store.steampowered.com/app/4067130/Drifter_Star_Evolution/
+{ "name": "Drifter Star.exe", "type": "Game" }
 
 # Driftland: The Magic Revival https://store.steampowered.com/app/718650/Driftland_The_Magic_Revival/
 { "name": "Driftland.exe", "type": "Game" }
@@ -1453,11 +1467,6 @@
 # Dummynation https://store.steampowered.com/app/1892030/Dummynation/
 { "name": "Dummynation.exe", "type": "Game" }
 
-# Dune: Awakening https://store.steampowered.com/app/1172710/Dune_Awakening/
-{ "name": "DuneSandbox.exe", "type": "Game" }
-{ "name": "DuneSandbox-Win64-Shipping.exe", "type": "Game" }
-{ "name": "DuneSandbox_BE.exe", "type": "Game" }
-
 # DuneCrawl https://store.steampowered.com/app/1833200/DuneCrawl/
 { "name": "DuneCrawl.exe", "type": "Game" }
 
@@ -1540,6 +1549,9 @@
 # Dungeon Settlers Demo https://store.steampowered.com/app/4663910/Dungeon_Settlers_Demo/
 { "name": "Dungeon Settlers(Beta).exe", "type": "Game" }
 
+# Dungeons & Furries Demo https://store.steampowered.com/app/4719810/
+{ "name": "Dungeons & Furries.exe", "type": "Game" }
+
 # Dungeon Siege https://store.steampowered.com/app/39190/Dungeon_Siege/
 { "name": "DungeonSiege.exe", "type": "Game" }
 
@@ -1621,6 +1633,10 @@
 # DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition https://store.steampowered.com/app/968790/DYNASTY_WARRIORS_7_Xtreme_Legends_Definitive_Edition/
 { "name": "SM6EN.exe", "type": "Game" }
 { "name": "SM6JP.exe", "type": "Game" }
+
+# DYNASTY WARRIORS 8: Xtreme Legends Complete Edition https://store.steampowered.com/app/278080/DYNASTY_WARRIORS_8_Xtreme_Legends_Complete_Edition/
+{ "name": "Launch_EA.exe", "type": "Game" }
+{ "name": "Launch_JP.exe", "type": "Game" }
 
 # DYNASTY WARRIORS 9 https://store.steampowered.com/app/730310/DYNASTY_WARRIORS_9/
 { "name": "DW9.exe", "type": "Game" }

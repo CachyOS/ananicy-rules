@@ -33,12 +33,6 @@
 # Café Stella and the Reaper's Butterflies https://store.steampowered.com/app/1829980/Caf_Stella_and_the_Reapers_Butterflies/
 { "name": "CafeStella.exe", "type": "Game" }
 
-# Cairn https://store.steampowered.com/app/1588550/Cairn/
-{ "name": "Cairn.exe", "type": "Game" }
-
-# Cairn Demo https://store.steampowered.com/app/3170150/
-{ "name": "Cairn.exe", "type": "Game" }
-
 # Cakey's Twisted Bakery https://store.steampowered.com/app/3028500/Cakeys_Twisted_Bakery/
 { "name": "Cakey's Twisted Bakery.exe", "type": "Game" }
 
@@ -188,6 +182,9 @@
 # Calyx https://store.steampowered.com/app/3211850/Calyx/
 { "name": "Calyx.exe", "type": "Game"}
 { "name": "Calyx-Win64-Shipping.exe", "type": "Game"}
+
+# Camper Van: Make it Home https://store.steampowered.com/app/2843190/Camper_Van_Make_it_Home/
+{ "name": "CamperVanMakeItHome.exe", "type": "Game" }
 
 # Campus Legends College Basketball https://store.steampowered.com/app/3126980/Campus_Legends_College_Basketball/
 { "name": "CLCB.exe", "type": "Game" }
@@ -483,6 +480,10 @@
 # Celeste https://store.steampowered.com/app/504230/Celeste/
 { "name": "Celeste.exe", "type": "Game" }
 
+# Celestial Empire https://store.steampowered.com/app/1330430/Celestial_Empire/
+{ "name": "China_Builder_06.exe", "type": "Game" }
+{ "name": "China_Builder_06-Win64-Shipping.exe", "type": "Game" }
+
 # Cell to Singularity - Evolution Never Ends https://store.steampowered.com/app/977400/Cell_to_Singularity__Evolution_Never_Ends/
 { "name": "CellToSingularity.exe", "type": "Game" }
 
@@ -496,6 +497,9 @@
 # Cepheus Protocol https://store.steampowered.com/app/979640/Cepheus_Protocol/
 { "name": "CepheusProtocol.exe", "type": "Game" }
 
+# Chained Beasts Demo https://store.steampowered.com/app/3978510/Chained_Beasts_Demo/
+{ "name": "ChainedBeasts.exe", "type": "Game" }
+
 # Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
 { "name": "Chained Echoes.exe", "type": "Game" }
 
@@ -503,15 +507,15 @@
 { "name": "ChainedTogether.exe", "type": "Game"}
 { "name": "ChainedTogether-Win64-Shipping.exe", "type": "Game"}
 
-# Championship Manager 2010 https://store.steampowered.com/app/35030/
-{ "name": "CMLauncher.exe", "type": "Game" }
-
 # Chained Wheels https://store.steampowered.com/app/4243690/Chained_Wheels/
 { "name": "ChainedVehiclesSteam.exe", "type": "Game" }
 { "name": "ChainedVehiclesSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Championship Manager 2008 https://store.steampowered.com/app/8060/
 { "name": "CM2008.exe", "type": "Game" }
+
+# Championship Manager 2010 https://store.steampowered.com/app/35030/
+{ "name": "CMLauncher.exe", "type": "Game" }
 
 # Champions of Regnum https://store.steampowered.com/app/222520/Champions_of_Regnum/
 { "name": "rolaunchersteam.exe", "type": "Game" }
@@ -625,11 +629,11 @@
 # Choo-Choo Charles https://store.steampowered.com/app/1766740/ChooChoo_Charles/
 { "name": "Obscure-Win64-Shipping.exe", "type": "Game" }
 
-# Chop Chop Inc. Demo https://store.steampowered.com/app/4707740/
-{ "name": "ChopChopIncDemo.exe", "type": "Game" }
-
 # Chop Chains https://store.steampowered.com/app/4139720/Chop_Chains/
 { "name": "Chop Chains.exe", "type": "Game" }
+
+# Chop Chop Inc. Demo https://store.steampowered.com/app/4707740/
+{ "name": "ChopChopIncDemo.exe", "type": "Game" }
 
 # ChromaGun 2: Dye Hard https://store.steampowered.com/app/2982340/ChromaGun_2_Dye_Hard/
 { "name": "ChromaGun2.exe", "type": "Game"}
@@ -710,6 +714,9 @@
 # City Life 2008 https://store.steampowered.com/app/4460/City_Life_2008/
 { "name": "cld.exe", "type": "Game"}
 
+# City Lights Love Bites Season 0 https://store.steampowered.com/app/3011560/
+{ "name": "CityLightsandLoveBites.exe", "type": "Game" }
+
 # City of Gangsters https://store.steampowered.com/app/1386780/City_of_Gangsters/
 { "name": "CoG.exe", "type": "Game" }
 
@@ -770,6 +777,9 @@
 # Clicker Heroes 2 https://store.steampowered.com/app/629910/Clicker_Heroes_2/
 { "name": "ClickerHeroes2.exe", "type": "Game"}
 
+# Clicker Kids https://store.steampowered.com/app/4355950/Clicker_Kids/
+{ "name": "Clicker Kids.exe", "type": "Game" }
+
 # CLICKOLDING https://store.steampowered.com/app/3011440/CLICKOLDING/
 { "name": "Clickold.exe", "type": "Game" }
 
@@ -780,10 +790,14 @@
 { "name": "clickthechick.exe", "type": "Game" }
 
 # Click To Continue https://store.steampowered.com/app/3636440/Click_To_Continue/
-{ "name": "PaperclipFactory", "type": "Game" }
+{ "name": "PaperclipFactory.exe", "type": "Game" }
 
 # Climber Animals: Together https://store.steampowered.com/app/2744880/Climber_Animals_Together/
 { "name": "Climber Animals Together.exe", "type": "Game"}
+
+# Climb The Backrooms https://store.steampowered.com/app/3575300/Climb_The_Backrooms/
+{ "name": "ClimbTheBackrooms.exe", "type": "Game" }
+{ "name": "ClimbTheBackrooms-Win64-Shipping.exe", "type": "Game" }
 
 # Clock Tower: Rewind https://store.steampowered.com/app/2794770/Clock_Tower_Rewind/
 { "name": "ClockTower.exe", "type": "Game" }
@@ -797,6 +811,9 @@
 
 # Clone Drone in the Danger Zone https://store.steampowered.com/app/597170/Clone_Drone_in_the_Danger_Zone/
 { "name": "Clone Drone in the Danger Zone.exe", "type": "Game" }
+
+# Closers https://store.steampowered.com/app/215830/Closers/
+{ "name": "LAUNCHER.exe", "type": "Game" }
 
 # Clothing https://store.steampowered.com/app/3070890/Clothing_Clicker/
 { "name": "Clothing.exe", "type": "Game" }
@@ -823,6 +840,9 @@
 
 # Cluckmech Oasis https://store.steampowered.com/app/2453360/Cluckmech_Oasis/
 { "name": "Cluckmech Oasis.exe", "type": "Game" }
+
+# Clue/Cluedo https://store.steampowered.com/app/2506480/ClueCluedo/
+{ "name": "ClueCluedo.exe", "type": "Game" }
 
 # Clue/Cluedo: Classic Edition https://store.steampowered.com/app/794800/ClueCluedo_Classic_Edition/
 { "name": "Cluedo.exe", "type": "Game" }
@@ -904,6 +924,10 @@
 
 # Collectibles! https://store.steampowered.com/app/3071010/Collectibles/
 { "name": "Collectibles.exe", "type": "Game" }
+
+# Collectors Cove https://store.steampowered.com/app/2867470/Collectors_Cove/
+{ "name": "CollectorsCove.exe", "type": "Game" }
+{ "name": "CollectorsCove-Win64-Shipping.exe", "type": "Game" }
 
 # College Kings 2 - Episode 1 https://store.steampowered.com/app/1924480/
 { "name": "CollegeKings2.exe", "type": "Game" }
@@ -1104,6 +1128,9 @@
 # Control Craft 2 https://store.steampowered.com/app/439930/Control_Craft_2/
 { "name": "ControlCraft2.exe", "type": "Game" }
 
+# Control, I'm Not Coming Back https://store.steampowered.com/app/4515660/Control_Im_Not_Coming_Back/
+{ "name": "HOPECORE.exe", "type": "Game" }
+
 # Controller Companion https://store.steampowered.com/app/367670/Controller_Companion/
 { "name": "ControllerCompanion.exe", "type": "Game" }
 
@@ -1169,14 +1196,14 @@
 # Coromon https://store.steampowered.com/app/1218210/Coromon/
 { "name": "coromon.exe", "type": "Game" }
 
-# Corsair Cove Demo https://store.steampowered.com/app/3858730/Corsair_Cove_Demo/
-{ "name": "CorsairCoveDemo.exe", "type": "Game" }
-
 # Corruption of Champions II https://store.steampowered.com/app/1292690/
 { "name": "CoC II.exe", "type": "Game" }
 
 # Corruption Town https://store.steampowered.com/app/2708950/
 { "name": "CorruptionTown.exe", "type": "Game" }
+
+# Corsair Cove Demo https://store.steampowered.com/app/3858730/Corsair_Cove_Demo/
+{ "name": "CorsairCoveDemo.exe", "type": "Game" }
 
 # Cortex Command https://store.steampowered.com/app/209670/Cortex_Command/
 { "name": "Cortex Command.exe", "type": "Game" }
@@ -1199,6 +1226,9 @@
 # Cossacks: European Wars https://store.steampowered.com/app/4880/Cossacks_European_Wars/
 { "name": "dmcr.exe", "type": "Game" }
 
+# Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
+{ "name": "engine.exe", "type": "Game" }
+
 # Costume Quest https://store.steampowered.com/app/115100/Costume_Quest/
 { "name": "Cq.exe", "type": "Game" }
 
@@ -1209,6 +1239,9 @@
 { "name": "csgo.exe", "type": "Game" }
 { "name": "csgo_legacy_app.exe", "type": "Game" }
 { "name": "csgocfg.exe", "type": "Game" }
+
+# Counter-Strike Nexon: Studio https://store.steampowered.com/app/273110/CounterStrike_Nexon/
+{ "name": "cstrike-online.exe", "type": "Game" }
 
 # Counter-Strike: Source https://store.steampowered.com/app/240/CounterStrike_Source/
 { "name": "cstrike.exe", "type": "Game" }
@@ -1279,11 +1312,14 @@
 # Crash Time 2 https://store.steampowered.com/app/11390/Crash_Time_2/
 { "name": "BurningWheels.exe", "type": "Game" }
 
+# Crazy Corn https://store.steampowered.com/app/3064950/Crazy_Corn/
+{ "name": "Crazy Corn.exe", "type": "Game" }
+
 # Crazy Oddballs: Idle RPG https://store.steampowered.com/app/4507620/Crazy_Oddballs_Idle_RPG/
 { "name": "lycq_eng.exe", "type": "Game" }
 
-# Crazy Corn https://store.steampowered.com/app/3064950/Crazy_Corn/
-{ "name": "Crazy Corn.exe", "type": "Game" }
+# Crazy Taxi https://store.steampowered.com/app/71230/Crazy_Taxi/
+{ "name": "AppLauncher.exe", "type": "Game" }
 
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "crea.exe", "type": "Game" }
@@ -1389,6 +1425,9 @@
 # Crossout https://store.steampowered.com/app/386180/Crossout/
 { "name": "Crossout_BE.exe", "type": "Game" }
 { "name": "Crossout-D3D12.exe", "type": "Game" }
+
+# Crowalt: Traces of the Lost Colony https://store.steampowered.com/app/1269500/Crowalt_Traces_of_the_Lost_Colony/
+{ "name": "Crowalt Traces of the Lost Colony.exe", "type": "Game" }
 
 # Crow Country https://store.steampowered.com/app/1996010/Crow_Country/
 { "name": "Crow Country.exe", "type": "Game" }

@@ -109,6 +109,10 @@
 # Factorio https://store.steampowered.com/app/427520/Factorio/
 { "name": "factorio", "type": "Game" }
 
+# Fantasy Grounds VTT Demo https://store.steampowered.com/app/1406180/
+# Fantasy Grounds VTT https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/
+{ "name": "FGUSteamLauncher", "type": "Game" }
+
 # Football Manager 2014 https://store.steampowered.com/app/231670/
 # Football Manager 2015 https://store.steampowered.com/app/295270/
 # Football Manager 2016 https://store.steampowered.com/app/378120/
@@ -368,6 +372,7 @@
 
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
 # X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
+# X3: Farnham's Legacy https://store.steampowered.com/app/483330/X3_Farnhams_Legacy/
 { "name": "X3TC_main", "type": "Game" }
 
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
