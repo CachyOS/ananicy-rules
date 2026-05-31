@@ -1534,10 +1534,6 @@
 # SpaceChem https://store.steampowered.com/app/92800/SpaceChem/
 { "name": "SpaceChem.exe", "type": "Game" }
 
-# SpaceCraft Demo https://store.steampowered.com/app/4328020/
-# SpaceCraft Beta https://store.steampowered.com/app/4011220/SpaceCraft/
-{ "name": "SpaceCraft.exe", "type": "Game" }
-
 # Space Crew: Legendary Edition https://store.steampowered.com/app/1176710/Space_Crew_Legendary_Edition/
 { "name": "SpaceCrew.exe", "type": "Game" }
 
@@ -1610,13 +1606,6 @@
 
 # Sparkle 2 Evo https://store.steampowered.com/app/253650/Sparkle_2_Evo/
 { "name": "sparkle2evo.exe", "type": "Game" }
-
-# Species: Unknown https://store.steampowered.com/app/2747330/Species_Unknown/
-
-
-# Species: Unknown Demo https://store.steampowered.com/app/3851240/
-{ "name": "SpeciesUnknown.exe", "type": "Game" }
-{ "name": "SpeciesUnknown-Win64-Shipping.exe", "type": "Game" }
 
 # Spec Ops: The Line https://store.steampowered.com/app/50300/Spec_Ops_The_Line/
 { "name": "SpecOpsTheLine.exe", "type": "Game" }
@@ -2200,13 +2189,6 @@
 
 # Stonehearth https://store.steampowered.com/app/253250/Stonehearth/
 { "name": "Stonehearth.exe", "type": "Game" }
-
-# Stonemachia https://store.steampowered.com/app/2982610/Stonemachia/
-
-
-# Stonemachia Demo https://store.steampowered.com/app/3007250/Stonemachia_Demo/
-{ "name": "Stonemachia.exe", "type": "Game" }
-{ "name": "Stonemachia-Win64-Shipping.exe", "type": "Game" }
 
 # Stoneshard https://store.steampowered.com/app/625960/Stoneshard/
 { "name": "StoneShard.exe", "type": "Game" }
