@@ -586,6 +586,7 @@
 
 # Grand Theft Auto: San Andreas https://store.steampowered.com/app/12120/Grand_Theft_Auto_San_Andreas/
 { "name": "gta-sa.exe", "type": "Game" }
+{ "name": "gta_sa.exe", "type": "Game" }
 
 # Grand Theft Auto: San Andreas – The Definitive Edition https://store.steampowered.com/app/1547000/Grand_Theft_Auto_San_Andreas__The_Definitive_Edition/
 { "name": "PlayGTASanAndreas.exe", "type": "Game" }
@@ -597,6 +598,7 @@
 
 # Grand Theft Auto: Vice City https://store.steampowered.com/app/12110/Grand_Theft_Auto_Vice_City/
 { "name": "gta-vc.exe", "type": "Game" }
+{ "name": "gta_vc.exe", "type": "Game" }
 
 # Grand Theft Auto: Vice City – The Definitive Edition https://store.steampowered.com/app/1546990/Grand_Theft_Auto_Vice_City__The_Definitive_Edition/
 { "name": "PlayGTAViceCity.exe", "type": "Game" }
