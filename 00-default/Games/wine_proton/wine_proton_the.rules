@@ -865,8 +865,6 @@
 
 # The Legend of Heroes: Sen no Kiseki I KAI -Thors Military Academy 1204- https://store.steampowered.com/app/1450120/The_Legend_of_Heroes_Sen_no_Kiseki_I_KAI_Thors_Military_Academy_1204/
 { "name": "game_64.exe", "type": "Game" }
-{ "name": "launcher.exe", "type": "Game" }
-{ "name": "game.exe", "type": "Game" }
 { "name": "launcher_64.exe", "type": "Game" }
 
 # The Legend of Tianding https://store.steampowered.com/app/1406850/The_Legend_of_Tianding/
@@ -883,9 +881,6 @@
 
 # The Shell Part I: Inferno https://store.steampowered.com/app/2258770/The_Shell_Part_I_Inferno/
 { "name": "TheShell.exe", "type": "Game" }
-
-# The Shimmering Horizon and Cursed Blacksmith https://store.steampowered.com/app/1414910/The_Shimmering_Horizon_and_Cursed_Blacksmith/
-{ "name": "game.exe", "type": "Game" }
 
 # The Void Rains Upon Her Heart https://store.steampowered.com/app/790060/The_Void_Rains_Upon_Her_Heart/
 { "name": "The Void Rains Upon Her Heart.exe", "type": "Game" }
