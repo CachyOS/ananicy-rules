@@ -33,6 +33,9 @@
 { "name": "SteamLauncher", "type": "Game" }
 { "name": "GlyphEngine", "type": "Game" }
 
+# Warside https://store.steampowered.com/app/2368300/Warside/
+{ "name": "Warside.x86_64", "type": "Game" }
+
 # Warspear Online https://store.steampowered.com/app/326360/Warspear_Online/
 { "name": "warspear_32", "type": "Game" }
 { "name": "warspear_64", "type": "Game" }
@@ -52,6 +55,9 @@
 
 # Wax Heads https://store.steampowered.com/app/2769240/Wax_Heads/
 { "name": "wax_heads.x86_64", "type": "Game" }
+
+# Wayward https://store.steampowered.com/app/379210/Wayward/
+{ "name": "wayward", "type": "Game" }
 
 # Wedding Witch https://store.steampowered.com/app/2529820/Wedding_Witch/
 { "name": "Wedding Witch.x86_64", "type": "Game" }

@@ -110,6 +110,9 @@
 { "name": "AdInfinitum.exe", "type": "Game" }
 { "name": "AdInfinitum-Win64-Shipping.exe", "type": "Game" }
 
+# ADOM (Ancient Domains Of Mystery) https://store.steampowered.com/app/333300/ADOM_Ancient_Domains_Of_Mystery/
+{ "name": "adom.exe", "type": "Game" }
+
 # Adorable Adventures https://store.steampowered.com/app/3840230/Adorable_Adventures/
 { "name": "Adorable.exe", "type": "Game" }
 { "name": "Adorable-Win64-Shipping.exe", "type": "Game" }
@@ -401,9 +404,6 @@
 
 # Ale Abbey https://store.steampowered.com/app/2789460/Ale_Abbey__Monastery_Brewery_Tycoon/
 { "name": "AleAbbey.exe", "type": "Game" }
-
-# Ale & Tale Tavern https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/
-{ "name": "Ale and Tale Tavern.exe", "type": "Game" }
 
 # Alice: Madness Returns https://store.steampowered.com/app/19680/Alice_Madness_Returns/
 { "name": "AliceMadnessReturns.exe", "type": "Game" }
@@ -804,7 +804,6 @@
 { "name": "Planet.exe", "type": "Game" }
 
 # Apocalypse Party https://store.steampowered.com/app/2351560/Apocalypse_Party/
-{ "name": "TheLastSurvivor.exe", "type": "Game" }
 { "name": "TheLastSurvivor-Win64-Shipping.exe", "type": "Game" }
 
 # Apocalypse with Femboy https://store.steampowered.com/app/3913480/
@@ -1165,6 +1164,9 @@
 # Astro Colony https://store.steampowered.com/app/1614550/Astro_Colony/
 { "name": "AstroColony.exe", "type": "Game" }
 { "name": "AstroColony-Win64-Shipping.exe", "type": "Game" }
+
+# Astroloot https://store.steampowered.com/app/3498390/Astroloot/
+{ "name": "Astroloot.exe", "type": "Game" }
 
 # Astrometica https://store.steampowered.com/app/2353250/Astrometica/
 { "name": "Astrometica.exe", "type": "Game" }

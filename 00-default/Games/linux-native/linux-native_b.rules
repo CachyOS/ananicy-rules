@@ -81,6 +81,9 @@
 # BeamNG.drive https://store.steampowered.com/app/284160/BeamNGdrive/
 { "name": "BeamNG.drive.x64", "type": "Game" }
 
+# Beat Banger https://store.steampowered.com/app/1813430/
+{ "name": "beatbanger.x86_64", "type": "Game" }
+
 # Beatblock https://store.steampowered.com/app/3045200/Beatblock/
 { "name": "Beatblock", "type": "Game" }
 
@@ -114,12 +117,18 @@
 { "name": "Besiege.x86", "type": "Game" }
 { "name": "Besiege.x86_64", "type": "Game" }
 
+# Between Two Worlds https://store.steampowered.com/app/1975280/
+{ "name": "BetweenTwoWorlds", "type": "Game" }
+
 # BioShock Infinite https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "bioshock", "type": "Game" }
 { "name": "bioshock.i386", "type": "Game" }
 
 # Bitburner https://store.steampowered.com/app/1812820/Bitburner/
 { "name": "bitburner", "type": "Game" }
+
+# Bits & Bops https://store.steampowered.com/app/1929290/Bits__Bops/
+{ "name": "Bits & Bops.x86_64", "type": "Game" }
 
 # BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien https://store.steampowered.com/app/218060/BITTRIP_Presents_Runner2_Future_Legend_of_Rhythm_Alien/
 { "name": "runner2", "type": "Game" }
@@ -150,6 +159,9 @@
 
 # Blockstorm https://store.steampowered.com/app/263060/Blockstorm/
 { "name": "Blockstorm", "type": "Game" }
+
+# Bloodthief https://store.steampowered.com/app/2533600/Bloodthief/
+{ "name": "bloodthief.x86_64", "type": "Game" }
 
 # Blush Blush https://store.steampowered.com/app/777130/Blush_Blush/
 { "name": "BlushBlush.x86_64", "type": "Game" }
@@ -185,6 +197,10 @@
 # Braid https://store.steampowered.com/app/26800/Braid/
 { "name": "Braid.bin.x86", "type": "Game" }
 
+# Brass: Birmingham https://store.steampowered.com/app/1287920/Brass_Birmingham/
+{ "name": "BrassBirminghamUnity.x86", "type": "Game" }
+{ "name": "BrassBirminghamUnity.x86_64", "type": "Game" }
+
 # Braveland https://store.steampowered.com/app/285800/Braveland/
 { "name": "Braveland.x86_64", "type": "Game" }
 
@@ -196,6 +212,9 @@
 
 # Breakout 13 https://store.steampowered.com/app/2095300/Breakout_13/
 { "name": "Breakout13", "type": "Game" }
+
+# Breeze of Passion https://store.steampowered.com/app/2409780/
+{ "name": "BreezeOfPassion", "type": "Game" }
 
 # Brick Rigs https://store.steampowered.com/app/552100/Brick_Rigs/
 { "name": "BrickRigsSteam-Linux-Shipping", "type": "Game" }

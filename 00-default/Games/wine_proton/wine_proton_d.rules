@@ -83,9 +83,6 @@
 { "name": "ProjectNow.exe", "type": "Game" }
 { "name": "ProjectNow-Win64-Shipping.exe", "type": "Game" }
 
-# Darkest Dungeon https://store.steampowered.com/app/262060/Darkest_Dungeon/
-{ "name": "Darkest.exe", "type": "Game" }
-
 # Darkest Dungeon II https://store.steampowered.com/app/1940340/Darkest_Dungeon_II/
 { "name": "Darkest Dungeon II.exe", "type": "Game" }
 
@@ -577,6 +574,9 @@
 { "name": "Demonologist.exe", "type": "Game" }
 { "name": "Shivers-Win64-Shipping.exe", "type": "Game" }
 
+# Demonschool https://store.steampowered.com/app/1900250/Demonschool/
+{ "name": "Demonschool.exe", "type": "Game" }
+
 # Demon Slayer -Kimetsu no Yaiba- Sweep the Board! https://store.steampowered.com/app/2424110/Demon_Slayer_Kimetsu_no_Yaiba_Sweep_the_Board/
 { "name": "APT.exe", "type": "Game" }
 { "name": "APT-Win64-Shipping.exe", "type": "Game" }
@@ -597,6 +597,9 @@
 
 # Depersonalization https://store.steampowered.com/app/1477070/Depersonalization/
 { "name": "Depersonalization-Release.exe", "type": "Game" }
+
+# Deponia Doomsday https://store.steampowered.com/app/421050/Deponia_Doomsday/
+{ "name": "deponia4.exe", "type": "Game" }
 
 # Depraved https://store.steampowered.com/app/762650/Depraved/
 { "name": "DepravedLauncher.exe", "type": "Game" }
@@ -1161,6 +1164,9 @@
 
 # Double Dealers Demo https://store.steampowered.com/app/4750320/Double_Dealers__Demo/
 { "name": "Double Dealers - Demo.exe", "type": "Game" }
+
+# Double Dragon Gaiden: Rise of the Dragons https://store.steampowered.com/app/1967260/Double_Dragon_Gaiden_Rise_Of_The_Dragons/
+{ "name": "DoubleDragonGaiden_ROTD.exe", "type": "Game" }
 
 # Double Dragon: Neon https://store.steampowered.com/app/252350/Double_Dragon_Neon/
 { "name": "DoubleDragon.exe", "type": "Game" }

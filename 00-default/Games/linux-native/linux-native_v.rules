@@ -57,6 +57,9 @@
 # Virtual Cottage https://store.steampowered.com/app/1369320/Virtual_Cottage/
 { "name": "Virtual Cottage_LINUX.x86_64", "type": "Game" }
 
+# Vital Shell https://store.steampowered.com/app/3741860/Vital_Shell/
+{ "name": "VitalShell_Linux.exe.x86_64", "type": "Game" }
+
 # vkquake https://github.com/Novum/vkQuake/
 { "name": "vkquake", "type": "Game" }
 
@@ -74,6 +77,9 @@
 
 # VRCVideoCacher https://store.steampowered.com/app/4296960/VRCVideoCacher/
 { "name": "VRCVideoCacher", "type": "BG_CPUIO" }
+
+# VTOL VR Mod Loader https://store.steampowered.com/app/3018410/VTOL_VR_Mod_Loader/
+{ "name": "Mod Manager", "type": "BG_CPUIO" }
 
 # VVVVVV https://store.steampowered.com/app/70300/VVVVVV/
 { "name": "VVVVVV", "type": "Game" }

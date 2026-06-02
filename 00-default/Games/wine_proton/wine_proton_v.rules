@@ -47,9 +47,6 @@
 { "name": "MedievalRPG-Win64-Shipping.exe", "type": "Game" }
 { "name": "ValorbornLauncher.exe", "type": "BG_CPUIO" }
 
-# Vampire's Fall 2 https://store.steampowered.com/app/4264230/Vampires_Fall_2/
-{ "name": "Vampire's Fall 2.exe", "type": "Game" }
-
 # Vampire Hunters https://store.steampowered.com/app/2206270/Vampire_Hunters/
 { "name": "Vampire Hunters.exe", "type": "Game" }
 
@@ -160,6 +157,9 @@
 # VERGE:Lost chapter https://store.steampowered.com/app/400740/VERGELost_chapter/
 { "name": "VERGE.exe", "type": "Game" }
 
+# Verho - Curse of Faces https://store.steampowered.com/app/3017330/Verho__Curse_of_Faces/
+{ "name": "Verho.exe", "type": "Game" }
+
 # VGDD2 https://store.steampowered.com/app/2457540/Cardfight_Vanguard_Dear_Days_2/
 { "name": "VGDD2.exe", "type": "Game" }
 
@@ -243,6 +243,9 @@
 # Visseron Idle https://store.steampowered.com/app/4601670/Visseron_Idle/
 { "name": "Visseron Idle.exe", "type": "Game" }
 
+# Vital Shell https://store.steampowered.com/app/3741860/Vital_Shell/
+{ "name": "VitalShell.exe", "type": "Game" }
+
 # vivid/stasis https://store.steampowered.com/app/2093940/vividstasis/
 { "name": "VIVIDSTASIS.exe", "type": "Game" }
 
@@ -284,6 +287,9 @@
 
 # Void War https://store.steampowered.com/app/2853590/Void_War/
 { "name": "Void War.exe", "type": "Game" }
+
+# Voidwrought https://store.steampowered.com/app/2014550/Voidwrought/
+{ "name": "Voidwrought.exe", "type": "Game" }
 
 # VOIN https://store.steampowered.com/app/2464530/VOIN/
 { "name": "VOIN.exe", "type": "Game" }
@@ -366,6 +372,9 @@
 
 # VTOL VR https://store.steampowered.com/app/667970/VTOL_VR/
 { "name": "VTOLVR.exe", "type": "Game" }
+
+# VTOL VR Mod Loader https://store.steampowered.com/app/3018410/VTOL_VR_Mod_Loader/
+{ "name": "Mod Manager.exe", "type": "BG_CPUIO" }
 
 # VTube Studio https://store.steampowered.com/app/1325860/VTube_Studio/
 { "name": "VTube Studio.exe", "type": "BG_CPUIO" }

@@ -36,6 +36,7 @@
 # Ship, Inc. https://store.steampowered.com/app/3496000/Ship_Inc/
 # Cats & Cups https://store.steampowered.com/app/3521410/Cats__Cups/
 # Agrivore https://store.steampowered.com/app/4045540/Agrivore_Incremental_Farming/
+# Cardboard Town https://store.steampowered.com/app/2198070/Cardboard_Town/
 { "name": "app.x86_64", "type": "Game" }
 
 # Backpack Battles Demo https://store.steampowered.com/app/2444170/Backpack_Battles/
@@ -140,6 +141,7 @@
 
 # Northgard: Definitive Edition https://store.steampowered.com/app/466560/Northgard_Definitive_Edition/
 # Fraymakers https://store.steampowered.com/app/1420350/Fraymakers/
+# Evoland Legendary Edition https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/
 { "name": "hl", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
@@ -263,6 +265,10 @@
 # Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
 { "name": "portal2_linux", "type": "Game" }
 
+# Projekt: Passion https://store.steampowered.com/app/2173800/
+# Projekt: Passion - Season 2 https://store.steampowered.com/app/2863160/
+{ "name": "ProjektPassion", "type": "Game" }
+
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 # Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
 # Gorky 17 https://store.steampowered.com/app/253920/Gorky_17/
@@ -299,7 +305,13 @@
 # UBERMOSH Vol.5 https://store.steampowered.com/app/640380/UBERMOSH_Vol5/
 # Trip to Vinelands https://store.steampowered.com/app/546090/Trip_to_Vinelands/
 # 12 is Better Than 6 https://store.steampowered.com/app/410110/12_is_Better_Than_6/
+# WAVESHAPER https://store.steampowered.com/app/562260/WAVESHAPER/
+# TTV2 https://store.steampowered.com/app/701470/TTV2/
 { "name": "runner", "type": "Game" }
+
+# Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
+# Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
+{ "name": "Shadow Tactics", "type": "Game" }
 
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 # shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
@@ -397,8 +409,13 @@
 { "name": "crashpad_handler", "type": "BG_CPUIO" }
 
 
-# The following games are shipped with the DOSBox emulator ("dosbox"), which is declared in emulators.rules
+# The following games are shipped with the DOSBox emulator (dosbox), which is declared in emulators.rules
 
 # Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
 # Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
 # Sid Meier's Colonization (Classic) https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/
+
+
+# The following games are shipped with Adventure Game Engine ScummVM (scummvm), which is declared in emulators.rules
+
+# Putt-Putt Saves The Zoo https://store.steampowered.com/app/294660/PuttPutt_Saves_The_Zoo/
