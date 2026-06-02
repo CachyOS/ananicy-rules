@@ -1329,6 +1329,11 @@
 # Obscure https://store.steampowered.com/app/254460/Obscure/
 { "name": "Obscure.exe", "type": "Game" }
 
+# Rance 01 - Quest for Hikari https://store.steampowered.com/app/3867130/Rance_01__02/
+# Rance 02 - The Rebellious Maidens https://store.steampowered.com/app/3867130/Rance_01__02/
+# Dohna Dohna ~ Let’s Do Bad Things Together https://www.johren.games/games/download/dohna-dohna-en/
+{ "name": "OpenSaveFolder.exe", "type": "Game" }
+
 # Operation: Tango https://store.steampowered.com/app/1335790/Operation_Tango/
 # Operation: Tango - Demo https://store.steampowered.com/app/1377150/Operation_Tango__Friend_Pass/
 { "name": "Operation Tango.exe", "type": "Game" }
@@ -1528,6 +1533,9 @@
 # Penumbra: Requiem https://store.steampowered.com/app/22140/Penumbra_Requiem/
 # Requiem https://store.steampowered.com/app/289780/Requiem_Desiderium_Mortis/
 { "name": "Requiem.exe", "type": "Game" }
+
+# Dohna Dohna ~ Let’s Do Bad Things Together https://www.johren.games/games/download/dohna-dohna-en/
+{ "name": "ResetConfig.exe", "type": "Game" }
 
 # Retro Rewind - Video Store Simulator https://store.steampowered.com/app/3552140/Retro_Rewind__Video_Store_Simulator/
 # Retro Rewind - Video Store Simulator Demo https://store.steampowered.com/app/3858710/Retro_Rewind__Video_Store_Simulator_Demo/
