@@ -110,6 +110,9 @@
 { "name": "AdInfinitum.exe", "type": "Game" }
 { "name": "AdInfinitum-Win64-Shipping.exe", "type": "Game" }
 
+# ADOM (Ancient Domains Of Mystery) https://store.steampowered.com/app/333300/ADOM_Ancient_Domains_Of_Mystery/
+{ "name": "adom.exe", "type": "Game" }
+
 # Adorable Adventures https://store.steampowered.com/app/3840230/Adorable_Adventures/
 { "name": "Adorable.exe", "type": "Game" }
 { "name": "Adorable-Win64-Shipping.exe", "type": "Game" }
@@ -1162,14 +1165,11 @@
 { "name": "AstroColony.exe", "type": "Game" }
 { "name": "AstroColony-Win64-Shipping.exe", "type": "Game" }
 
-# Astrometica https://store.steampowered.com/app/2353250/Astrometica/
-{ "name": "Astrometica.exe", "type": "Game" }
-
-# ADOM (Ancient Domains Of Mystery) https://store.steampowered.com/app/333300/ADOM_Ancient_Domains_Of_Mystery/
-{ "name": "adom.exe", "type": "Game" }
-
 # Astroloot https://store.steampowered.com/app/3498390/Astroloot/
 { "name": "Astroloot.exe", "type": "Game" }
+
+# Astrometica https://store.steampowered.com/app/2353250/Astrometica/
+{ "name": "Astrometica.exe", "type": "Game" }
 
 # ASTRONEER https://store.steampowered.com/app/361420/ASTRONEER/
 { "name": "Astro-Win64-Shipping.exe", "type": "Game" }

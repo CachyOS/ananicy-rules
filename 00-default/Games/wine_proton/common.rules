@@ -46,6 +46,10 @@
 # Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
 { "name": "alabaster_dawn.exe", "type": "Game" }
 
+# Ale & Tale Tavern: First Pints https://store.steampowered.com/app/2870840/Ale__Tale_Tavern_First_Pints/
+# Ale & Tale Tavern https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/
+{ "name": "Ale and Tale Tavern.exe", "type": "Game" }
+
 # Alien Shooter https://store.steampowered.com/app/33100/Alien_Shooter/
 # Alien Shooter 2: Reloaded https://store.steampowered.com/app/33120/Alien_Shooter_2_Reloaded/
 { "name": "AlienShooter.exe", "type": "Game" }
@@ -270,6 +274,10 @@
 # Dragon Age: Origins https://store.steampowered.com/app/17450/Dragon_Age_Origins/
 # Dragon Age: Origins - Ultimate Edition https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
 { "name": "DAOrigins.exe", "type": "Game" }
+
+# Black Reliquary https://store.steampowered.com/app/2119270/Black_Reliquary/
+# Darkest Dungeon https://store.steampowered.com/app/262060/Darkest_Dungeon/
+{ "name": "Darkest.exe", "type": "Game" }
 
 # Dark Hours: Prologue https://store.steampowered.com/app/3064370/Dark_Hours_Prologue/
 # Dark Hours https://store.steampowered.com/app/2208570/Dark_Hours/
@@ -509,6 +517,10 @@
 # Euro Truck Simulator 2 https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
 # Euro Truck Simulator 2 Demo https://store.steampowered.com/app/231120/Euro_Truck_Simulator_2/
 { "name": "eurotrucks2.exe", "type": "Game" }
+
+# Evoland Legendary Edition https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/
+# Evoland https://store.steampowered.com/app/233470/Evoland/
+{ "name": "Evoland.exe", "type": "Game" }
 
 # Platform 8 https://store.steampowered.com/app/2903560/Platform_8/
 # The Exit 8 https://store.steampowered.com/app/2653790/The_Exit_8/
@@ -1048,18 +1060,6 @@
 # LastCloudiaTc https://steamdb.info/app/1499560/
 { "name": "LastCloudia.exe", "type": "Game" }
 
-# Shēn hóng shìyán 深红誓言 https://store.steampowered.com/app/3333250/Crimson_Oath/
-# Crimson Oath Demo https://store.steampowered.com/app/3647930/Crimson_Oath_Demo/
-{ "name": "RedSoul-Win64-Shipping.exe", "type": "Game" }
-
-# Crimson Oath Demo https://store.steampowered.com/app/3647930/Crimson_Oath_Demo/
-# Shēn hóng shìyán 深红誓言 https://store.steampowered.com/app/3333250/Crimson_Oath/
-{ "name": "RedSoul.exe", "type": "Game" }
-
-# Projekt: Passion https://store.steampowered.com/app/2173800/
-# Projekt: Passion - Season 2 https://store.steampowered.com/app/2863160/
-{ "name": "ProjektPassion.exe", "type": "Game" }
-
 # Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
 # Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
 # GLORY DESTINY - REBORN 晴空物語 https://store.steampowered.com/app/3352180/GLORY_DESTINY__REBORN/
@@ -1371,18 +1371,6 @@
 # PAC-MAN Championship Edition DX+ https://store.steampowered.com/app/236450/PACMAN_Championship_Edition_DX/
 { "name": "PAC-MAN.exe", "type": "Game" }
 
-# Ale & Tale Tavern: First Pints https://store.steampowered.com/app/2870840/Ale__Tale_Tavern_First_Pints/
-# Ale & Tale Tavern https://store.steampowered.com/app/2683150/Ale__Tale_Tavern/
-{ "name": "Ale and Tale Tavern.exe", "type": "Game" }
-
-# Black Reliquary https://store.steampowered.com/app/2119270/Black_Reliquary/
-# Darkest Dungeon https://store.steampowered.com/app/262060/Darkest_Dungeon/
-{ "name": "Darkest.exe", "type": "Game" }
-
-# Evoland Legendary Edition https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/
-# Evoland https://store.steampowered.com/app/233470/Evoland/
-{ "name": "Evoland.exe", "type": "Game" }
-
 # Dead as Disco Demo https://store.steampowered.com/app/3763830/Dead_as_Disco_Demo/
 # Dead as Disco https://store.steampowered.com/app/3404260/Dead_as_Disco/
 { "name": "Pagoda.exe", "type": "Game" }
@@ -1503,6 +1491,10 @@
 # Game of Thrones Kingsroad https://store.steampowered.com/app/4214820/
 { "name": "ProjectT-Win64-Shipping.exe", "type": "Game" }
 
+# Projekt: Passion https://store.steampowered.com/app/2173800/
+# Projekt: Passion - Season 2 https://store.steampowered.com/app/2863160/
+{ "name": "ProjektPassion.exe", "type": "Game" }
+
 # Puroyagu supirittsu 2024 - 2025 プロ野球スピリッツ2024-2025 https://store.steampowered.com/app/2051010/
 # eBaseball: PRO SPIRIT https://store.steampowered.com/app/4128400/eBaseball_PRO_SPIRIT/
 { "name": "prospi.exe", "type": "Game" }
@@ -1543,6 +1535,14 @@
 # Cyberpunk 2077 https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 # GWENT: The Witcher Card Game https://store.steampowered.com/app/1284410/GWENT_The_Witcher_Card_Game/
 { "name": "REDprelauncher.exe", "type": "BG_CPUIO" }
+
+# Crimson Oath Demo https://store.steampowered.com/app/3647930/Crimson_Oath_Demo/
+# Shēn hóng shìyán 深红誓言 https://store.steampowered.com/app/3333250/Crimson_Oath/
+{ "name": "RedSoul.exe", "type": "Game" }
+
+# Shēn hóng shìyán 深红誓言 https://store.steampowered.com/app/3333250/Crimson_Oath/
+# Crimson Oath Demo https://store.steampowered.com/app/3647930/Crimson_Oath_Demo/
+{ "name": "RedSoul-Win64-Shipping.exe", "type": "Game" }
 
 # Company of Heroes https://store.steampowered.com/app/228200/Company_of_Heroes/
 # Company of Heroes - Legacy Edition https://store.steampowered.com/app/4560/Company_of_Heroes__Legacy_Edition/
@@ -1620,22 +1620,6 @@
 # Scale the Depths Demo https://store.steampowered.com/app/3821770/Scale_the_Depths_Demo/
 { "name": "Scale The Depths.exe", "type": "Game" }
 
-# Last Train Home https://store.steampowered.com/app/1469610/Last_Train_Home/
-# Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
-{ "name": "Train-Win64-Shipping.exe", "type": "Game" }
-
-# Last Train Home https://store.steampowered.com/app/1469610/Last_Train_Home/
-# Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
-{ "name": "Train.exe", "type": "Game" }
-
-# Apocalypse Party https://store.steampowered.com/app/2351560/Apocalypse_Party/
-# Wēnyì qīng líng jìhuà Project Zero 瘟疫清零计划 Project Zero https://store.steampowered.com/app/2088250/_Project_Zero/
-{ "name": "TheLastSurvivor.exe", "type": "Game" }
-
-# Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
-# Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
-{ "name": "Shadow Tactics.exe", "type": "Game" }
-
 # Barro GT https://store.steampowered.com/app/1990740/Barro_GT/
 # Barro https://store.steampowered.com/app/618140/Barro/
 # Barro Racing https://store.steampowered.com/app/1307090/Barro_Racing/
@@ -1670,6 +1654,10 @@
 # SpellForce 3: Versus Edition https://store.steampowered.com/app/1416260/SpellForce_3_Versus_Edition/
 # SpellForce 3: Fallen God https://store.steampowered.com/app/1154040/SpellForce_3_Fallen_God/
 { "name": "SF3ClientFinal.exe", "type": "Game" }
+
+# Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
+# Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
+{ "name": "Shadow Tactics.exe", "type": "Game" }
 
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 # shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
@@ -1893,6 +1881,10 @@
 # Enderal: Forgotten Stories https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/
 { "name": "TESV.exe", "type": "Game" }
 
+# Apocalypse Party https://store.steampowered.com/app/2351560/Apocalypse_Party/
+# Wēnyì qīng líng jìhuà Project Zero 瘟疫清零计划 Project Zero https://store.steampowered.com/app/2088250/_Project_Zero/
+{ "name": "TheLastSurvivor.exe", "type": "Game" }
+
 # The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
 # The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
 { "name": "TheSpellBrigade.exe", "type": "Game" }
@@ -1930,10 +1922,18 @@
 # Revenge of the Savage Planet https://store.steampowered.com/app/2787320/Revenge_of_the_Savage_Planet/
 { "name": "Towers-Win64-Shipping.exe", "type": "Game" }
 
+# Last Train Home https://store.steampowered.com/app/1469610/Last_Train_Home/
+# Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
+{ "name": "Train.exe", "type": "Game" }
+
 # Train Sim World 4 https://store.steampowered.com/app/2362300/Train_Sim_World_4/
 # Train Sim World 5 https://store.steampowered.com/app/2967990/Train_Sim_World_5/
 # Train Sim World 6 https://store.steampowered.com/app/3656800/Train_Sim_World_6/
 { "name": "TrainSimWorld.exe", "type": "Game" }
+
+# Last Train Home https://store.steampowered.com/app/1469610/Last_Train_Home/
+# Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
+{ "name": "Train-Win64-Shipping.exe", "type": "Game" }
 
 # Trainz Plus https://store.steampowered.com/app/1904160/Trainz_Plus/
 # Trainz Railroad Simulator 2022 https://store.steampowered.com/app/1784570/Trainz_Railroad_Simulator_2022/

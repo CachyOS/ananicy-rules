@@ -9,10 +9,6 @@
 # Substance 3D Designer 2025 https://store.steampowered.com/app/3366300/Substance_3D_Designer_2025/
 { "name": "Adobe Substance 3D Designer", "type": "Game" }
 
-# Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
-# Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
-{ "name": "Shadow Tactics", "type": "Game" }
-
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance 3D Painter 2022 https://store.steampowered.com/app/1775390/Substance_3D_Painter_2022/
 # Substance 3D Painter 2023 https://store.steampowered.com/app/2199970/Substance_3D_Painter_2023/
@@ -143,10 +139,6 @@
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
 
-# Projekt: Passion https://store.steampowered.com/app/2173800/
-# Projekt: Passion - Season 2 https://store.steampowered.com/app/2863160/
-{ "name": "ProjektPassion", "type": "Game" }
-
 # Northgard: Definitive Edition https://store.steampowered.com/app/466560/Northgard_Definitive_Edition/
 # Fraymakers https://store.steampowered.com/app/1420350/Fraymakers/
 # Evoland Legendary Edition https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/
@@ -273,6 +265,10 @@
 # Portal Stories: Mel https://store.steampowered.com/app/317400/Portal_Stories_Mel/
 { "name": "portal2_linux", "type": "Game" }
 
+# Projekt: Passion https://store.steampowered.com/app/2173800/
+# Projekt: Passion - Season 2 https://store.steampowered.com/app/2863160/
+{ "name": "ProjektPassion", "type": "Game" }
+
 # Earth 2160 https://store.steampowered.com/app/1900/Earth_2160/
 # Knights and Merchants https://store.steampowered.com/app/253900/Knights_and_Merchants/
 # Gorky 17 https://store.steampowered.com/app/253920/Gorky_17/
@@ -312,6 +308,10 @@
 # WAVESHAPER https://store.steampowered.com/app/562260/WAVESHAPER/
 # TTV2 https://store.steampowered.com/app/701470/TTV2/
 { "name": "runner", "type": "Game" }
+
+# Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
+# Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
+{ "name": "Shadow Tactics", "type": "Game" }
 
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 # shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/

@@ -95,8 +95,14 @@
 # DemonCrawl https://store.steampowered.com/app/1141220/DemonCrawl/
 { "name": "demoncrawl", "type": "Game" }
 
+# Demonschool https://store.steampowered.com/app/1900250/Demonschool/
+{ "name": "Demonschool.x86_64", "type": "Game" }
+
 # Deponia https://store.steampowered.com/app/214340/Deponia/
 { "name": "Deponia", "type": "Game" }
+
+# Deponia Doomsday https://store.steampowered.com/app/421050/Deponia_Doomsday/
+{ "name": "Deponia4", "type": "Game" }
 
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 { "name": "deponia_tcj", "type": "Game" }
@@ -210,6 +216,9 @@
 # Dota Underlords https://store.steampowered.com/app/1046930/Dota_Underlords/
 { "name": "underlords", "type": "Game" }
 
+# Double Dragon Gaiden: Rise of the Dragons https://store.steampowered.com/app/1967260/Double_Dragon_Gaiden_Rise_Of_The_Dragons/
+{ "name": "DoubleDragonGaiden_ROTD", "type": "Game" }
+
 # Down with the Ship https://store.steampowered.com/app/3523750/Down_with_the_Ship/
 { "name": "down-with-the-ship", "type": "Game" }
 
@@ -314,15 +323,6 @@
 
 # Dying Light https://store.steampowered.com/app/239140/Dying_Light/
 { "name": "DyingLightGame", "type": "Game" }
-
-# Demonschool https://store.steampowered.com/app/1900250/Demonschool/
-{ "name": "Demonschool.x86_64", "type": "Game" }
-
-# Deponia Doomsday https://store.steampowered.com/app/421050/Deponia_Doomsday/
-{ "name": "Deponia4", "type": "Game" }
-
-# Double Dragon Gaiden: Rise of the Dragons https://store.steampowered.com/app/1967260/Double_Dragon_Gaiden_Rise_Of_The_Dragons/
-{ "name": "DoubleDragonGaiden_ROTD", "type": "Game" }
 
 # Dystopia https://store.steampowered.com/app/17580/Dystopia/
 { "name": "dystopia", "type": "Game" }

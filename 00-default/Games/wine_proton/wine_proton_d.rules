@@ -574,6 +574,9 @@
 { "name": "Demonologist.exe", "type": "Game" }
 { "name": "Shivers-Win64-Shipping.exe", "type": "Game" }
 
+# Demonschool https://store.steampowered.com/app/1900250/Demonschool/
+{ "name": "Demonschool.exe", "type": "Game" }
+
 # Demon Slayer -Kimetsu no Yaiba- Sweep the Board! https://store.steampowered.com/app/2424110/Demon_Slayer_Kimetsu_no_Yaiba_Sweep_the_Board/
 { "name": "APT.exe", "type": "Game" }
 { "name": "APT-Win64-Shipping.exe", "type": "Game" }
@@ -594,6 +597,9 @@
 
 # Depersonalization https://store.steampowered.com/app/1477070/Depersonalization/
 { "name": "Depersonalization-Release.exe", "type": "Game" }
+
+# Deponia Doomsday https://store.steampowered.com/app/421050/Deponia_Doomsday/
+{ "name": "deponia4.exe", "type": "Game" }
 
 # Depraved https://store.steampowered.com/app/762650/Depraved/
 { "name": "DepravedLauncher.exe", "type": "Game" }
@@ -681,15 +687,6 @@
 
 # DETOUR https://store.steampowered.com/app/92100/DETOUR/
 { "name": "DETOUR.exe", "type": "Game" }
-
-# Demonschool https://store.steampowered.com/app/1900250/Demonschool/
-{ "name": "Demonschool.exe", "type": "Game" }
-
-# Deponia Doomsday https://store.steampowered.com/app/421050/Deponia_Doomsday/
-{ "name": "deponia4.exe", "type": "Game" }
-
-# Double Dragon Gaiden: Rise of the Dragons https://store.steampowered.com/app/1967260/Double_Dragon_Gaiden_Rise_Of_The_Dragons/
-{ "name": "DoubleDragonGaiden_ROTD.exe", "type": "Game" }
 
 # Detroit Become Human via Proton https://store.steampowered.com/app/1222140/Detroit_Become_Human/
 { "name": "DetroitBecomeHuman.exe", "type": "Game" }
@@ -1167,6 +1164,9 @@
 
 # Double Dealers Demo https://store.steampowered.com/app/4750320/Double_Dealers__Demo/
 { "name": "Double Dealers - Demo.exe", "type": "Game" }
+
+# Double Dragon Gaiden: Rise of the Dragons https://store.steampowered.com/app/1967260/Double_Dragon_Gaiden_Rise_Of_The_Dragons/
+{ "name": "DoubleDragonGaiden_ROTD.exe", "type": "Game" }
 
 # Double Dragon: Neon https://store.steampowered.com/app/252350/Double_Dragon_Neon/
 { "name": "DoubleDragon.exe", "type": "Game" }

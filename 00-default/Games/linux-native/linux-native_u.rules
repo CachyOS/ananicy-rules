@@ -61,6 +61,9 @@
 { "name": "ut-bin-amd64", "type": "Game" }
 { "name": "ut-bin", "type": "Game" }
 
+# Unspottable https://store.steampowered.com/app/1243960/Unspottable/
+{ "name": "Unspottable", "type": "Game" }
+
 # Until Then https://store.steampowered.com/app/1574820/Until_Then/
 { "name": "UntilThen.x86_64", "type": "Game" }
 
@@ -80,15 +83,12 @@
 # Upload Labs https://store.steampowered.com/app/3606890/Upload_Labs/
 { "name": "Upload Labs.x86_64", "type": "Game" }
 
+# Urban Rivals https://store.steampowered.com/app/715310/Urban_Rivals/
+{ "name": "Urban Rivals.x86_64", "type": "Game" }
+
 # Urban Terror https://www.urbanterror.info/
 { "name": "Quake3-UrT.x86_64", "type": "Game" }
 { "name": "Quake3-UrT.i386", "type": "Game" }
 
 # Urtuk: The Desolation https://store.steampowered.com/app/1181830/Urtuk_The_Desolation/
 { "name": "urtuk", "type": "Game" }
-
-# Unspottable https://store.steampowered.com/app/1243960/Unspottable/
-{ "name": "Unspottable", "type": "Game" }
-
-# Urban Rivals https://store.steampowered.com/app/715310/Urban_Rivals/
-{ "name": "Urban Rivals.x86_64", "type": "Game" }

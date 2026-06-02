@@ -428,8 +428,14 @@
 # Eros Fantasy https://store.steampowered.com/app/1898210/
 { "name": "Eros Fantasy.exe", "type": "Game" }
 
+# ERROR143 https://store.steampowered.com/app/2066550/ERROR143/
+{ "name": "Error143.exe", "type": "Game" }
+
 # Erzurum https://store.steampowered.com/app/1392060/Erzurum/
 { "name": "MyProject.exe", "type": "Game" }
+
+# eSail Sailing Simulator https://store.steampowered.com/app/794860/eSail_Sailing_Simulator/
+{ "name": "eSail.exe", "type": "Game" }
 
 # Escape Academy https://store.steampowered.com/app/1812090/Escape_Academy/
 { "name": "Escape Academy.exe", "type": "Game" }
@@ -567,12 +573,6 @@
 { "name": "Everspace_32bit.exe", "type": "Game" }
 { "name": "RSG-Win32-Shipping.exe", "type": "Game" }
 { "name": "RSG-Win64-Shipping.exe", "type": "Game" }
-
-# ERROR143 https://store.steampowered.com/app/2066550/ERROR143/
-{ "name": "Error143.exe", "type": "Game" }
-
-# eSail Sailing Simulator https://store.steampowered.com/app/794860/eSail_Sailing_Simulator/
-{ "name": "eSail.exe", "type": "Game" }
 
 # EVERSPACE 2 https://store.steampowered.com/app/1128920/EVERSPACE_2/
 { "name": "Everspace2.exe", "type": "Game" }

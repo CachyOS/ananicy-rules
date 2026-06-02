@@ -619,9 +619,6 @@
 # Loot Box https://store.steampowered.com/app/3121070/Loot_Box/
 { "name": "Loot Box.exe", "type": "Game" }
 
-# Lust Theory Season 2 https://store.steampowered.com/app/1754870/
-{ "name": "LustTheory2.exe", "type": "Game" }
-
 # Loot Loop https://store.steampowered.com/app/3972320/Loot_Loop/
 { "name": "LootLoop.exe", "type": "Game" }
 { "name": "LootLoop-Win64-Shipping.exe", "type": "Game" }
@@ -837,6 +834,9 @@
 
 # Lust Theory https://store.steampowered.com/app/1607130/
 { "name": "LustTheoryS1.exe", "type": "Game" }
+
+# Lust Theory Season 2 https://store.steampowered.com/app/1754870/
+{ "name": "LustTheory2.exe", "type": "Game" }
 
 # Lyca https://store.steampowered.com/app/3421300/Lyca/
 { "name": "Lyca.exe", "type": "Game" }

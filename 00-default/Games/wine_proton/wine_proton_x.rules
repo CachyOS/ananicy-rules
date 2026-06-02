@@ -56,9 +56,9 @@
 { "name": "XSOverlay Process Manager.exe", "type": "BG_CPUIO" }
 { "name": "XSOverlay.exe", "type": "BG_CPUIO" }
 
-# Xuan-Yuan Sword: The Scar of Sky https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/
-{ "name": "swd3e.exe", "type": "Game" }
-
 # Xuan-Yuan Sword: Mists Beyond the Mountains https://store.steampowered.com/app/1638230/XuanYuan_Sword_Mists_Beyond_the_Mountains/
 { "name": "SWD3Works.exe", "type": "Game" }
 { "name": "swd3.exe", "type": "Game" }
+
+# Xuan-Yuan Sword: The Scar of Sky https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/
+{ "name": "swd3e.exe", "type": "Game" }

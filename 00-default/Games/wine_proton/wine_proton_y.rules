@@ -59,9 +59,6 @@
 # YAPYAP https://store.steampowered.com/app/3834090/YAPYAP/
 { "name": "yapyap.exe", "type": "Game" }
 
-# YKMET: Strade https://store.steampowered.com/app/3515380/
-{ "name": "YKMETStrade.exe", "type": "Game" }
-
 # Yargis - Space Melee - Dedicated Server https://store.steampowered.com/app/382030/
 { "name": "YargisServer.exe", "type": "Game" }
 { "name": "YargisServerConfig.exe", "type": "Game" }
@@ -97,6 +94,9 @@
 
 # Yi Xian: The Cultivation Card Game https://store.steampowered.com/app/1948800/Yi_Xian_The_Cultivation_Card_Game/
 { "name": "YiXianPai.exe", "type": "Game" }
+
+# YKMET: Strade https://store.steampowered.com/app/3515380/
+{ "name": "YKMETStrade.exe", "type": "Game" }
 
 # Ylands https://store.steampowered.com/app/298610/Ylands/
 { "name": "Ylands.exe", "type": "Game" }

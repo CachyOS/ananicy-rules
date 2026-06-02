@@ -5,6 +5,9 @@
 
 ### S ###
 
+# SAELIG https://store.steampowered.com/app/612720/SAELIG/
+{ "name": "SAELIG.x86_64", "type": "Game" }
+
 # Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
 { "name": "saintsrow2", "type": "Game" }
 { "name": "saintsrow2.i386", "type": "Game" }
@@ -34,6 +37,9 @@
 
 # Sanctum 2 https://store.steampowered.com/app/210770/Sanctum_2/
 { "name": "Sanctum2", "type": "Game" }
+
+# Sand:box https://store.steampowered.com/app/2179380/Sandbox/
+{ "name": "sandbox", "type": "Game" }
 
 # Satellite Reign https://store.steampowered.com/app/268870/Satellite_Reign/
 { "name": "SatelliteReignLinux.x86", "type": "Game" }
@@ -80,6 +86,9 @@
 
 # Secret of the Magic Crystals https://store.steampowered.com/app/45100/Secret_of_the_Magic_Crystals/
 { "name": "Secret of the Magic Crystal", "type": "Game" }
+
+# Seeds of Chaos https://store.steampowered.com/app/1205950/
+{ "name": "seeds-of-chaos", "type": "Game" }
 
 # SEGA Mega Drive and Genesis Classics https://store.steampowered.com/app/34270/SEGA_Mega_Drive_and_Genesis_Classics/
 { "name": "SEGAGameRoom", "type": "Game" }
@@ -307,6 +316,9 @@
 { "name": "sober", "type": "Game" }
 { "name": "sober_services", "type": "Game" }
 
+# Sodaman https://store.steampowered.com/app/2178990/Sodaman/
+{ "name": "Sodaman.x86_64", "type": "Game" }
+
 # Software Inc. https://store.steampowered.com/app/362620/Software_Inc/
 { "name": "Software Inc.x86", "type": "Game" }
 { "name": "Software Inc.x86_64", "type": "Game" }
@@ -471,6 +483,9 @@
 # Steps of Debauchery https://store.steampowered.com/app/2649970/
 { "name": "StepsofDebauchery", "type": "Game" }
 
+# Stone Story RPG https://store.steampowered.com/app/603390/Stone_Story_RPG/
+{ "name": "stone_story_linux.x86_64", "type": "Game" }
+
 # STONKS-9800: Stock Market Simulator https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/
 { "name": "STONKS_9800", "type": "Game" }
 
@@ -518,6 +533,9 @@
 { "name": "Sudoku Universe.x86_64", "type": "Game" }
 { "name": "Sudoku Universe.x86", "type": "Game" }
 
+# Suicide Guy https://store.steampowered.com/app/303610/Suicide_Guy/
+{ "name": "SuicideGuy.x86_64", "type": "Game" }
+
 # Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.x86_64", "type": "Game" }
 
@@ -556,32 +574,14 @@
 # SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play https://supertuxkart.net/
 { "name": "supertuxkart", "type": "Game" }
 
+# SurfsUp https://store.steampowered.com/app/3454830/SurfsUp/
+{ "name": "SurfsUp.x86_64", "type": "Game" }
+
 # Surgeon Simulator http://store.steampowered.com/app/233720/Surgeon_Simulator/
 { "name": "ss2013.bin", "type": "Game" }
 
 # Surviving Mars https://store.steampowered.com/app/464920/Surviving_Mars/
 { "name": "MarsSteam", "type": "Game" }
-
-# SAELIG https://store.steampowered.com/app/612720/SAELIG/
-{ "name": "SAELIG.x86_64", "type": "Game" }
-
-# Sand:box https://store.steampowered.com/app/2179380/Sandbox/
-{ "name": "sandbox", "type": "Game" }
-
-# Seeds of Chaos https://store.steampowered.com/app/1205950/
-{ "name": "seeds-of-chaos", "type": "Game" }
-
-# Sodaman https://store.steampowered.com/app/2178990/Sodaman/
-{ "name": "Sodaman.x86_64", "type": "Game" }
-
-# Stone Story RPG https://store.steampowered.com/app/603390/Stone_Story_RPG/
-{ "name": "stone_story_linux.x86_64", "type": "Game" }
-
-# Suicide Guy https://store.steampowered.com/app/303610/Suicide_Guy/
-{ "name": "SuicideGuy.x86_64", "type": "Game" }
-
-# SurfsUp https://store.steampowered.com/app/3454830/SurfsUp/
-{ "name": "SurfsUp.x86_64", "type": "Game" }
 
 # Sven Co-op https://store.steampowered.com/app/225840/Sven_Coop/
 { "name": "svencoop_linux", "type": "Game" }

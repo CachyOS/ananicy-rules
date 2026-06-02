@@ -325,6 +325,9 @@
 # The Evil Within 2 https://store.steampowered.com/app/601430/The_Evil_Within_2/
 { "name": "TEW2.exe", "type": "Game" }
 
+# The Executive - Movie Industry Tycoon https://store.steampowered.com/app/2315430/The_Executive__Movie_Industry_Tycoon/
+{ "name": "The Executive.exe", "type": "Game" }
+
 # The Exit 8 https://store.steampowered.com/app/2653790/The_Exit_8/
 { "name": "Exit8.exe", "type": "Game" }
 
@@ -403,6 +406,10 @@
 # The Greenening https://store.steampowered.com/app/3441280/The_Greenening/
 { "name": "TheGreenening.exe", "type": "Game" }
 
+# The Grey Dream https://store.steampowered.com/app/2497930/
+{ "name": "TheGreyDream.exe", "type": "Game" }
+{ "name": "TheGreyDream-32.exe", "type": "Game" }
+
 # The Guild 3 https://store.steampowered.com/app/311260/The_Guild_3/
 { "name": "Guild3.exe", "type": "Game" }
 { "name": "Guild3Editor.exe", "type": "Game" }
@@ -436,6 +443,9 @@
 
 # The House of Da Vinci 2 https://store.steampowered.com/app/1259840/The_House_of_Da_Vinci_2/
 { "name": "THODV2.exe", "type": "Game" }
+
+# The House of Tesla: Definitive Edition https://store.steampowered.com/app/2738230/The_House_of_Tesla_Definitive_Edition/
+{ "name": "The House of Tesla.exe", "type": "Game" }
 
 # THE HOUSE OF THE DEAD: Remake https://store.steampowered.com/app/1694600/THE_HOUSE_OF_THE_DEAD_Remake/
 { "name": "The House of the Dead Remake.exe", "type": "Game" }
@@ -603,6 +613,10 @@
 { "name": "Launcher_ED72.exe", "type": "BG_CPUIO" }
 { "name": "ed72_steam.exe", "type": "Game" }
 
+# The Legend of Heroes: Sen no Kiseki I KAI -Thors Military Academy 1204- https://store.steampowered.com/app/1450120/The_Legend_of_Heroes_Sen_no_Kiseki_I_KAI_Thors_Military_Academy_1204/
+{ "name": "game_64.exe", "type": "Game" }
+{ "name": "launcher_64.exe", "type": "Game" }
+
 # The Legend of Heroes: Sen no Kiseki IV -THE END OF SAGA- https://store.steampowered.com/app/1457510/The_Legend_of_Heroes_Sen_no_Kiseki_IV_THE_END_OF_SAGA/
 { "name": "ed8_4_PC.exe", "type": "Game" }
 { "name": "ed8_4_PC_KR.exe", "type": "Game" }
@@ -660,6 +674,9 @@
 { "name": "LegendOfKhiimori.exe", "type": "Game" }
 { "name": "LegendOfKhiimori-Win64-Shipping.exe", "type": "Game" }
 
+# The Legend of Tianding https://store.steampowered.com/app/1406850/The_Legend_of_Tianding/
+{ "name": "Zebra.exe", "type": "Game" }
+
 # The LEGO Movie 2 Videogame https://store.steampowered.com/app/881320/The_LEGO_Movie_2_Videogame/
 { "name": "LEGO The LEGO Movie 2_DX11.exe", "type": "Game" }
 
@@ -683,6 +700,9 @@
 # THE LONGING https://store.steampowered.com/app/893850/THE_LONGING/
 { "name": "The Longing.exe", "type": "Game" }
 
+# The Looker https://store.steampowered.com/app/1985690/The_Looker/
+{ "name": "The Looker.exe", "type": "Game" }
+
 # The Loopler Demo https://store.steampowered.com/app/4154070/The_Loopler_Demo/
 { "name": "The Loopler Demo.exe", "type": "Game" }
 
@@ -703,6 +723,9 @@
 # The Lord of the Rings: Return to Moria https://store.steampowered.com/app/2933130/The_Lord_of_the_Rings_Return_to_Moria/
 { "name": "Moria-Win64-Shipping.exe", "type": "Game" }
 { "name": "Moria.exe", "type": "Game" }
+
+# The Married Woman Nextdoor https://store.steampowered.com/app/4090250/
+{ "name": "Kinjo no Hitozuma.exe", "type": "Game" }
 
 # The Matchless Kungfu https://store.steampowered.com/app/1696440/The_Matchless_Kungfu/
 { "name": "HMS_00.exe", "type": "Game" }
@@ -853,38 +876,6 @@
 # The Quinfall https://store.steampowered.com/app/2294660/The_Quinfall/
 { "name": "TheQuinfall.exe", "type": "Game" }
 
-# The Executive - Movie Industry Tycoon https://store.steampowered.com/app/2315430/The_Executive__Movie_Industry_Tycoon/
-{ "name": "The Executive.exe", "type": "Game" }
-
-# The Grey Dream https://store.steampowered.com/app/2497930/
-{ "name": "TheGreyDream.exe", "type": "Game" }
-{ "name": "TheGreyDream-32.exe", "type": "Game" }
-
-# The House of Tesla: Definitive Edition https://store.steampowered.com/app/2738230/The_House_of_Tesla_Definitive_Edition/
-{ "name": "The House of Tesla.exe", "type": "Game" }
-
-# The Legend of Heroes: Sen no Kiseki I KAI -Thors Military Academy 1204- https://store.steampowered.com/app/1450120/The_Legend_of_Heroes_Sen_no_Kiseki_I_KAI_Thors_Military_Academy_1204/
-{ "name": "game_64.exe", "type": "Game" }
-{ "name": "launcher_64.exe", "type": "Game" }
-
-# The Legend of Tianding https://store.steampowered.com/app/1406850/The_Legend_of_Tianding/
-{ "name": "Zebra.exe", "type": "Game" }
-
-# The Looker https://store.steampowered.com/app/1985690/The_Looker/
-{ "name": "The Looker.exe", "type": "Game" }
-
-# The Married Woman Nextdoor https://store.steampowered.com/app/4090250/
-{ "name": "Kinjo no Hitozuma.exe", "type": "Game" }
-
-# Therian Saga https://store.steampowered.com/app/542480/Therian_Saga/
-{ "name": "Utopia.Steam.Launcher.exe", "type": "Game" }
-
-# The Shell Part I: Inferno https://store.steampowered.com/app/2258770/The_Shell_Part_I_Inferno/
-{ "name": "TheShell.exe", "type": "Game" }
-
-# The Void Rains Upon Her Heart https://store.steampowered.com/app/790060/The_Void_Rains_Upon_Her_Heart/
-{ "name": "The Void Rains Upon Her Heart.exe", "type": "Game" }
-
 # The Ranch of Rivershine https://store.steampowered.com/app/1559600/The_Ranch_of_Rivershine/
 { "name": "TheRanchOfRivershine.exe", "type": "Game" }
 { "name": "TheRanchOfRivershine-Win64-Shipping.exe", "type": "Game" }
@@ -894,6 +885,9 @@
 
 # The Remake of the End of the Greatest RPG of All Time https://store.steampowered.com/app/2809660/The_Remake_of_the_End_of_the_Greatest_RPG_of_All_Time/
 { "name": "The Remake the End of the Greatest RPG of All Time.exe", "type": "Game" }
+
+# Therian Saga https://store.steampowered.com/app/542480/Therian_Saga/
+{ "name": "Utopia.Steam.Launcher.exe", "type": "Game" }
 
 # The Rogue Prince of Persia https://store.steampowered.com/app/2717880/The_Rogue_Prince_of_Persia/
 { "name": "The Rogue Prince of Persia.exe", "type": "Game" }
@@ -953,6 +947,9 @@
 
 # The Shattering https://store.steampowered.com/app/596000/The_Shattering/
 { "name": "Shattering.exe", "type": "Game" }
+
+# The Shell Part I: Inferno https://store.steampowered.com/app/2258770/The_Shell_Part_I_Inferno/
+{ "name": "TheShell.exe", "type": "Game" }
 
 # The Ship: Murder Party https://store.steampowered.com/app/2400/The_Ship_Murder_Party/
 { "name": "ship.exe", "type": "Game" }
@@ -1078,6 +1075,9 @@
 # The Vanishing of Ethan Carter https://store.steampowered.com/app/258520/The_Vanishing_of_Ethan_Carter/
 { "name": "AstronautsGame-Win32-Shipping.exe", "type": "Game" }
 { "name": "AstronautsGame-Win64-Shipping.exe", "type": "Game" }
+
+# The Void Rains Upon Her Heart https://store.steampowered.com/app/790060/The_Void_Rains_Upon_Her_Heart/
+{ "name": "The Void Rains Upon Her Heart.exe", "type": "Game" }
 
 # The Walking Dead https://store.steampowered.com/app/207610/The_Walking_Dead/
 { "name": "WalkingDead101.exe", "type": "Game" }
