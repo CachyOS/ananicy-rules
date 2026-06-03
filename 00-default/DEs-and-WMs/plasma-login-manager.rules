@@ -1,0 +1,4 @@
+# KDE's Display Manager fork from SDDM (https://invent.kde.org/plasma/plasma-login-manager)
+
+{ "name": "plasmalogin", "type": "BG_CPUIO" }
+{ "name": "plasmalogin-helper", "type": "BG_CPUIO" }
