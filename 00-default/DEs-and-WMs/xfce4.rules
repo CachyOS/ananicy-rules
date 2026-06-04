@@ -1,3 +1,4 @@
+{ "name": "thunar", "type": "LowLatency_RT" }
 { "name": "xfwm4", "type": "LowLatency_RT" }
 { "name": "xfsettingsd", "type": "LowLatency_RT" }
 { "name": "xfce4-session", "type": "LowLatency_RT" }
