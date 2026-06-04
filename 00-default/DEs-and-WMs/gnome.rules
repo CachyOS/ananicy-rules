@@ -88,7 +88,7 @@
 # mutter-x11-frames
 { "name": "mutter-x11-frames", "type": "LowLatency_RT" }
 
-# GNOME image viewer: https://wiki.gnome.org/Apps/EyeOfGnome/
+# GNOME image viewer: https://gitlab.gnome.org/GNOME/eog
 { "name": "eog", "type": "Image-View" }
 
 # GNOME file manager: https://gitlab.gnome.org/GNOME/nautilus
