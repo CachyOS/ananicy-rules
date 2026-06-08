@@ -1,5 +1,7 @@
 # pnames started with `.` are NixOS specific
 
+# https://github.com/KDE/dolphin
+{ "name": "dolphin", "type": "LowLatency_RT" }
 # https://community.kde.org/Baloo
 # Baloo is the file indexing and file search framework for KDE.
 { "name": "baloo_file", "type": "BG_CPUIO" }
