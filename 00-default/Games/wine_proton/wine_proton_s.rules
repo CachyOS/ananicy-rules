@@ -667,9 +667,6 @@
 # SENRAN KAGURA Peach Beach Splash https://store.steampowered.com/app/696170/SENRAN_KAGURA_Peach_Beach_Splash/
 { "name": "SKPeachBeachSplash.exe", "type": "Game" }
 
-# Serious Sam Classic: The Second Encounter https://store.steampowered.com/app/41060/Serious_Sam_Classic_The_Second_Encounter/
-{ "name": "SeriousSam.exe", "type": "Game" }
-
 # ServiceIT: You can do IT https://store.steampowered.com/app/2194730/ServiceIT_You_can_do_IT/
 { "name": "SymulatorIT.exe", "type": "Game" }
 { "name": "SymulatorIT-Win64-Shipping.exe", "type": "Game" }
@@ -700,8 +697,6 @@
 # Soldiers: Heroes of World War II - Enhanced Edition https://store.steampowered.com/app/11480/Soldiers_Heroes_of_World_War_II__Enhanced_Edition/
 { "name": "Soldiers.exe", "type": "Game" }
 { "name": "soldiers_dev.exe", "type": "Game" }
-{ "name": "launcher-x64.exe", "type": "Game" }
-{ "name": "launcher-ia32.exe", "type": "Game" }
 { "name": "Soldiers_dev.exe", "type": "Game" }
 
 # Spin Hero https://store.steampowered.com/app/2917350/Spin_Hero/
@@ -716,12 +711,6 @@
 # State of War : Warmonger / 蓝色警戒 (Classic 2000) https://store.steampowered.com/app/748040/State_of_War__Warmonger___Classic_2000/
 { "name": "State of War.exe", "type": "Game" }
 { "name": "State of War Warmonger.exe", "type": "Game" }
-
-# STEINS;GATE: Linear Bounded Phenogram https://store.steampowered.com/app/930910/STEINSGATE_Linear_Bounded_Phenogram/
-{ "name": "Game.exe", "type": "Game" }
-
-# STEINS;GATE: My Darling's Embrace https://store.steampowered.com/app/970560/STEINSGATE_My_Darlings_Embrace/
-{ "name": "Game.exe", "type": "Game" }
 
 # Stone Simulator https://store.steampowered.com/app/1425980/Stone_Simulator__Just_Be_a_Rock/
 { "name": "StoneSimulator.exe", "type": "Game" }

@@ -75,7 +75,6 @@
 
 # Faces of War https://store.steampowered.com/app/289300/Faces_of_War/
 { "name": "fowed.exe", "type": "Game" }
-{ "name": "launcher-ia32.exe", "type": "Game" }
 
 # Factorio Demo https://store.steampowered.com/app/452280/Factorio/
 { "name": "factorio.exe", "type": "Game" }
@@ -471,9 +470,6 @@
 # Fields XY https://store.steampowered.com/app/552900/Fields_XY/
 { "name": "Fields XY.exe", "type": "Game" }
 
-# Fiesta Online NA https://store.steampowered.com/app/280620/Fiesta_Online/
-{ "name": "Fiesta.exe", "type": "Game" }
-
 # FIFA 22 https://store.steampowered.com/app/1506830/FIFA_22/
 { "name": "FIFA22_Trial.exe", "type": "Game" }
 { "name": "FIFA22.exe", "type": "Game" }
@@ -764,9 +760,6 @@
 
 # Fickle Card Legend https://store.steampowered.com/app/4087980/Fickle_Card_Legend/
 { "name": "FickleCardLegend.exe", "type": "Game" }
-
-# Fiesta Online NA https://store.steampowered.com/app/300970/
-{ "name": "Fiesta.exe", "type": "Game" }
 
 # Fireboy & Watergirl: Elements https://store.steampowered.com/app/1003480/Fireboy__Watergirl_Elements/
 { "name": "Fbwg.exe", "type": "Game" }

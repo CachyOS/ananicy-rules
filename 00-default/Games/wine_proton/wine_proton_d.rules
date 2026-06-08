@@ -111,14 +111,10 @@
 { "name": "malie.exe", "type": "Game" }
 
 # Digger: Galactic Treasures https://store.steampowered.com/app/3604430/Digger_Galactic_Treasures/
-{ "name": "Digger.exe", "type": "Game" }
 { "name": "Digger-Win64-Shipping.exe", "type": "Game" }
 
 # Diggles: The Myth of Fenris https://store.steampowered.com/app/1478650/Diggles_The_Myth_of_Fenris/
 { "name": "Diggles.exe", "type": "Game" }
-
-# Dragon Saga https://store.steampowered.com/app/381990/Dragon_Saga/
-{ "name": "WPLauncher.exe", "type": "BG_CPUIO" }
 
 # DREAD FLATS https://store.steampowered.com/app/3114900/Dread_Flats/
 { "name": "DREAD FLATS.exe", "type": "Game" }
@@ -826,9 +822,6 @@
 
 # DigDigDrill https://store.steampowered.com/app/2916770/DigDigDrill/
 { "name": "DigDigDrill.exe", "type": "Game" }
-
-# Digger Online https://store.steampowered.com/app/278970/Digger_Online/
-{ "name": "Digger.exe", "type": "Game" }
 
 # Digimon Masters Online https://steamdb.info/app/537180/
 { "name": "DMLauncher.exe", "type": "BG_CPUIO" }
