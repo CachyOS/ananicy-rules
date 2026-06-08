@@ -342,6 +342,10 @@
 # Regions of Ruin: Runegate https://store.steampowered.com/app/1375750/Regions_of_Ruin_Runegate/
 { "name": "Regions of Ruin Runegate.exe", "type": "Game" }
 
+# Reign of Guilds https://store.steampowered.com/app/716350/Reign_of_Guilds/
+{ "name": "SiLClient.exe", "type": "Game" }
+{ "name": "SiLClient-Win64-Shipping.exe", "type": "Game" }
+
 # Reign Of Kings https://store.steampowered.com/app/344760/Reign_Of_Kings/
 { "name": "Reign of Kings.exe", "type": "Game" }
 
@@ -415,37 +419,6 @@
 
 # Resident Evil https://store.steampowered.com/app/304240/Resident_Evil/
 { "name": "bhd.exe", "type": "Game" }
-
-# Reign of Guilds https://store.steampowered.com/app/716350/Reign_of_Guilds/
-{ "name": "SiLClient.exe", "type": "Game" }
-{ "name": "SiLClient-Win64-Shipping.exe", "type": "Game" }
-
-# Return to campus https://store.steampowered.com/app/3174480/Return_to_campus/
-{ "name": "BackToSchool.exe", "type": "Game" }
-{ "name": "BackToSchool-Win64-Shipping.exe", "type": "Game" }
-
-# Return to Shironagasu Island https://store.steampowered.com/app/1156990/Return_to_Shironagasu_Island/
-{ "name": "Shironagasu.exe", "type": "Game" }
-
-# Rewrite+ https://store.steampowered.com/app/1680000/Rewrite/
-{ "name": "SiglusEngine_SteamEN.exe", "type": "Game" }
-{ "name": "SiglusEngineEN.exe", "type": "Game" }
-
-# Rift Wizard 2 https://store.steampowered.com/app/2058570/Rift_Wizard_2/
-{ "name": "RiftWizard2.exe", "type": "Game" }
-
-# Robin Morningwood Adventure https://store.steampowered.com/app/1457220/
-{ "name": "Robin Morningwood Adventure.exe", "type": "Game" }
-
-# Rocksmith+ https://store.steampowered.com/app/2834910/Rocksmith/
-{ "name": "Rocksmith+.exe", "type": "Game" }
-
-# Rome: Total War - Alexander https://store.steampowered.com/app/4770/Rome_Total_War__Alexander/
-{ "name": "testappa.exe", "type": "Game" }
-{ "name": "RomeTW-ALX.exe", "type": "Game" }
-
-# Rusted Moss https://store.steampowered.com/app/1772830/Rusted_Moss/
-{ "name": "Rusted_Moss.exe", "type": "Game" }
 
 # Resident Evil 0 https://store.steampowered.com/app/339340/Resident_Evil_0/
 { "name": "re0hd.exe", "type": "Game" }
@@ -559,12 +532,19 @@
 # Returns Outlet Simulator https://store.steampowered.com/app/3589510/Returns_Outlet_Simulator/
 { "name": "Returns Outlet Simulator.exe", "type": "Game" }
 
+# Return to campus https://store.steampowered.com/app/3174480/Return_to_campus/
+{ "name": "BackToSchool.exe", "type": "Game" }
+{ "name": "BackToSchool-Win64-Shipping.exe", "type": "Game" }
+
 # Return to Castle Wolfenstein https://store.steampowered.com/app/9010/Return_to_Castle_Wolfenstein/
 { "name": "WolfMP.exe", "type": "Game" }
 { "name": "WolfSP.exe", "type": "Game" }
 
 # Return to Monkey Island https://store.steampowered.com/app/2060130/Return_to_Monkey_Island/
 { "name": "Return to Monkey Island.exe", "type": "Game" }
+
+# Return to Shironagasu Island https://store.steampowered.com/app/1156990/Return_to_Shironagasu_Island/
+{ "name": "Shironagasu.exe", "type": "Game" }
 
 # Reus https://store.steampowered.com/app/222730/Reus/
 { "name": "Reus.exe", "type": "Game" }
@@ -599,6 +579,10 @@
 # Rewind 99 https://store.steampowered.com/app/3977290/Rewind_99/
 { "name": "BusterBlock.exe", "type": "Game" }
 { "name": "BusterBlock-Win64-Shipping.exe", "type": "Game" }
+
+# Rewrite+ https://store.steampowered.com/app/1680000/Rewrite/
+{ "name": "SiglusEngine_SteamEN.exe", "type": "Game" }
+{ "name": "SiglusEngineEN.exe", "type": "Game" }
 
 # rFactor 2 https://store.steampowered.com/app/365960/rFactor_2/
 { "name": "Launch rFactor.exe", "type": "BG_CPUIO" }
@@ -664,6 +648,9 @@
 
 # Rift of the NecroDancer https://store.steampowered.com/app/2073250/Rift_of_the_NecroDancer/
 { "name": "RiftOfTheNecroDancer.exe", "type": "Game" }
+
+# Rift Wizard 2 https://store.steampowered.com/app/2058570/Rift_Wizard_2/
+{ "name": "RiftWizard2.exe", "type": "Game" }
 
 # Riichi City https://store.steampowered.com/app/1954420/Riichi_City_x_Date_A_LiveV/
 { "name": "Mahjong-JP.exe", "type": "Game" }
@@ -818,6 +805,9 @@
 # Robin Hood: The Legend of Sherwood https://store.steampowered.com/app/46560/Robin_Hood_The_Legend_of_Sherwood/
 { "name": "Robin Hood.exe", "type": "Game" }
 
+# Robin Morningwood Adventure https://store.steampowered.com/app/1457220/
+{ "name": "Robin Morningwood Adventure.exe", "type": "Game" }
+
 # RoboCop: Rogue City https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
 { "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
 { "name": "RoboCop.exe", "type": "Game" }
@@ -869,11 +859,14 @@
 { "name": "RockSimulator2.exe", "type": "Game" }
 { "name": "RockSimulator2-Win64-Shipping.exe", "type": "Game" }
 
-# Rocksmith https://store.steampowered.com/app/205190/Rocksmith/
+# Rocksmith (16 Oct, 2012) https://store.steampowered.com/app/205190/Rocksmith/
 { "name": "Rocksmith.exe", "type": "Game" }
 
 # Rocksmith 2014 Edition REMASTERED LEARN & PLAY https://store.steampowered.com/app/221680/Rocksmith_2014_Edition_REMASTERED_LEARN__PLAY/
 { "name": "Rocksmith2014.exe", "type": "Game" }
+
+# Rocksmith+ (6 Jun, 2024) https://store.steampowered.com/app/2834910/Rocksmith/
+{ "name": "Rocksmith+.exe", "type": "Game" }
 
 # Rock the Islands https://store.steampowered.com/app/2987860/Rock_the_Islands/
 { "name": "RockTheIslands.exe", "type": "Game" }
@@ -1016,6 +1009,10 @@
 
 # Romestead https://store.steampowered.com/app/1805320/Romestead/
 { "name": "Romestead.exe", "type": "Game" }
+
+# Rome: Total War - Alexander https://store.steampowered.com/app/4770/Rome_Total_War__Alexander/
+{ "name": "testappa.exe", "type": "Game" }
+{ "name": "RomeTW-ALX.exe", "type": "Game" }
 
 # Rome: Total War - Collection https://store.steampowered.com/app/4760/Rome_Total_War__Collection/
 { "name": "RomeTW-BI.exe", "type": "Game" }
@@ -1188,6 +1185,9 @@
 # Rust https://store.steampowered.com/app/252490/Rust/
 { "name": "Rust.exe", "type": "Game" }
 { "name": "RustClient.exe", "type": "Game" }
+
+# Rusted Moss https://store.steampowered.com/app/1772830/Rusted_Moss/
+{ "name": "Rusted_Moss.exe", "type": "Game" }
 
 # Rusted Warfare - RTS https://store.steampowered.com/app/647960/Rusted_Warfare__RTS/
 { "name": "Rusted Warfare - 64.exe", "type": "Game" }

@@ -182,6 +182,10 @@
 # Kuboom https://store.steampowered.com/app/513000/KUBOOM/
 { "name": "build.exe", "type": "Game" }
 
+# Burger Kombat https://store.steampowered.com/app/2487680/Burger_Kombat/
+# Burger https://store.steampowered.com/app/2976910/Burger/
+{ "name": "Burger.exe", "type": "Game" }
+
 # Blackout Z: Slaughterhouse Edition https://store.steampowered.com/app/729660/Blackout_Z_Slaughterhouse_Edition/
 # Cyberhunt https://store.steampowered.com/app/636150/Cyberhunt/
 { "name": "Burning Skies Neon.exe", "type": "Game" }
@@ -363,6 +367,10 @@
 # Destroy All Humans! 2 - Reprobed https://store.steampowered.com/app/1266700/Destroy_All_Humans_2__Reprobed/
 { "name": "DH-Win64-Shipping.exe", "type": "Game" }
 
+# Digger Online https://store.steampowered.com/app/278970/Digger_Online/
+# Digger: Galactic Treasures https://store.steampowered.com/app/3604430/Digger_Galactic_Treasures/
+{ "name": "Digger.exe", "type": "Game" }
+
 # DiRT 3 https://steamdb.info/app/44320/
 # DiRT 3 Complete Edition https://store.steampowered.com/app/321040/
 { "name": "dirt3_game.exe", "type": "Game" }
@@ -395,19 +403,11 @@
 # Sid Meier's Colonization (Classic) https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/
 { "name": "dosbox.exe", "type": "Game" }
 
-# Fiesta Online NA https://store.steampowered.com/app/300970/
-# Fiesta Online NA https://store.steampowered.com/app/280620/Fiesta_Online/
-{ "name": "Fiesta.exe", "type": "Game" }
-
 # DOSBox, an x86 emulator with DOS https://www.dosbox.com/
 # Master of Orion 1 https://store.steampowered.com/app/410970/Master_of_Orion_1/
 # Master of Orion 2 https://store.steampowered.com/app/410980/Master_of_Orion_2/
 # The Elder Scrolls: Arena https://store.steampowered.com/app/1812290/The_Elder_Scrolls_Arena/
 { "name": "DOSBox.exe", "type": "Game" }
-
-# Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
-# Cossacks II: Napoleonic Wars https://store.steampowered.com/app/115200/Cossacks_II_Napoleonic_Wars/
-{ "name": "engine.exe", "type": "Game" }
 
 # Warhammer 40,000: Dawn of War II - Anniversary Edition https://store.steampowered.com/app/15620/Warhammer_40000_Dawn_of_War_II__Anniversary_Edition/
 # Warhammer 40,000: Dawn of War II Chaos Rising https://store.steampowered.com/app/20570/Warhammer_40000_Dawn_of_War_II_Chaos_Rising/
@@ -509,6 +509,10 @@
 # Enderal: Forgotten Stories https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/
 { "name": "Enderal Launcher.exe", "type": "Game" }
 
+# Cossacks II: Battle for Europe https://store.steampowered.com/app/4890/Cossacks_II_Battle_for_Europe/
+# Cossacks II: Napoleonic Wars https://store.steampowered.com/app/115200/Cossacks_II_Napoleonic_Wars/
+{ "name": "engine.exe", "type": "Game" }
+
 # Gotham City Impostors Free to Play https://store.steampowered.com/app/206210/Gotham_City_Impostors_Free_to_Play/
 # COMBAT ARMS: THE CLASSIC https://steamdb.info/app/1263550/
 { "name": "Engine.exe", "type": "Game" }
@@ -590,6 +594,10 @@
 # Fantasy Grounds VTT Demo https://store.steampowered.com/app/1406180/
 # Fantasy Grounds VTT https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/
 { "name": "FGUSteamLauncher.exe", "type": "Game" }
+
+# Fiesta Online NA https://store.steampowered.com/app/300970/
+# Fiesta Online NA https://store.steampowered.com/app/280620/Fiesta_Online/
+{ "name": "Fiesta.exe", "type": "Game" }
 
 # Fish https://store.steampowered.com/app/3073680/Fish/
 # Fish https://store.steampowered.com/app/3088770/Fish/
@@ -969,14 +977,6 @@
 # Entropy : Zero https://store.steampowered.com/app/714070/Entropy__Zero/
 { "name": "hl2.exe", "type": "Game" }
 
-# Kill It With Fire https://store.steampowered.com/app/1179210/Kill_It_With_Fire/
-# KILL IT WITH FIRE! 2 https://store.steampowered.com/app/2357000/KILL_IT_WITH_FIRE_2/
-{ "name": "Kani.exe", "type": "Game" }
-
-# Kill It With Fire https://store.steampowered.com/app/1179210/Kill_It_With_Fire/
-# KILL IT WITH FIRE! 2 https://store.steampowered.com/app/2357000/KILL_IT_WITH_FIRE_2/
-{ "name": "Kani-Win64-Shipping.exe", "type": "Game" }
-
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
 # Half-Life https://store.steampowered.com/app/70/HalfLife/
 # Half-Life: Blue Shift https://store.steampowered.com/app/130/HalfLife_Blue_Shift/
@@ -1070,6 +1070,14 @@
 # Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
 # Sudden Strike 5 https://store.steampowered.com/app/2808550/Sudden_Strike_5/
 { "name": "KalypsoLauncher.exe", "type": "BG_CPUIO" }
+
+# Kill It With Fire https://store.steampowered.com/app/1179210/Kill_It_With_Fire/
+# KILL IT WITH FIRE! 2 https://store.steampowered.com/app/2357000/KILL_IT_WITH_FIRE_2/
+{ "name": "Kani.exe", "type": "Game" }
+
+# Kill It With Fire https://store.steampowered.com/app/1179210/Kill_It_With_Fire/
+# KILL IT WITH FIRE! 2 https://store.steampowered.com/app/2357000/KILL_IT_WITH_FIRE_2/
+{ "name": "Kani-Win64-Shipping.exe", "type": "Game" }
 
 # King's Bounty: The Legend https://store.steampowered.com/app/25900/Kings_Bounty_The_Legend/
 # King's Bounty: Armored Princess https://store.steampowered.com/app/3170/Kings_Bounty_Armored_Princess/
@@ -1580,14 +1588,6 @@
 # GWENT: The Witcher Card Game https://store.steampowered.com/app/1284410/GWENT_The_Witcher_Card_Game/
 { "name": "REDprelauncher.exe", "type": "BG_CPUIO" }
 
-# Digger Online https://store.steampowered.com/app/278970/Digger_Online/
-# Digger: Galactic Treasures https://store.steampowered.com/app/3604430/Digger_Galactic_Treasures/
-{ "name": "Digger.exe", "type": "Game" }
-
-# Burger Kombat https://store.steampowered.com/app/2487680/Burger_Kombat/
-# Burger https://store.steampowered.com/app/2976910/Burger/
-{ "name": "Burger.exe", "type": "Game" }
-
 # Crimson Oath Demo https://store.steampowered.com/app/3647930/Crimson_Oath_Demo/
 # Shēn hóng shìyán 深红誓言 https://store.steampowered.com/app/3333250/Crimson_Oath/
 { "name": "RedSoul.exe", "type": "Game" }
@@ -1702,10 +1702,6 @@
 # Serious Sam Classics: Revolution https://store.steampowered.com/app/227780/Serious_Sam_Classics_Revolution/
 # Serious Sam Classic: The Second Encounter https://store.steampowered.com/app/41060/Serious_Sam_Classic_The_Second_Encounter/
 { "name": "SeriousSam.exe", "type": "Game" }
-
-# Dragon Saga https://store.steampowered.com/app/381990/Dragon_Saga/
-# Requiem https://store.steampowered.com/app/289780/Requiem_Desiderium_Mortis/
-{ "name": "WPLauncher.exe", "type": "BG_CPUIO" }
 
 # SpellForce 3: Fallen God https://store.steampowered.com/app/1154040/SpellForce_3_Fallen_God/
 # SpellForce 3 Reforced https://store.steampowered.com/app/311290/SpellForce_3_Reforced/
@@ -2178,6 +2174,10 @@
 # Command & Conquer: Generals https://store.steampowered.com/app/2229870/Command__Conquer_Generals/
 # Command & Conquer Generals Zero Hour https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/
 { "name": "WorldBuilder.exe", "type": "Game" }
+
+# Dragon Saga https://store.steampowered.com/app/381990/Dragon_Saga/
+# Requiem https://store.steampowered.com/app/289780/Requiem_Desiderium_Mortis/
+{ "name": "WPLauncher.exe", "type": "BG_CPUIO" }
 
 # X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/

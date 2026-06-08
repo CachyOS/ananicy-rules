@@ -21,6 +21,9 @@
 # Daily Chthonicle: Editor's Edition https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/
 { "name": "DailyChthonicle.exe", "type": "Game" }
 
+# Daisho: Survival of a Samurai https://store.steampowered.com/app/2502650/Daisho_Survival_of_a_Samurai/
+{ "name": "Daisho.exe", "type": "Game" }
+
 # Dakar Desert Rally https://store.steampowered.com/app/1839940/Dakar_Desert_Rally/
 { "name": "Dakar2Game.exe", "type": "Game" }
 { "name": "Dakar2Game-Win64-Shipping.exe", "type": "Game" }
@@ -93,32 +96,6 @@
 # Darkest Hour: Europe '44-'45 https://store.steampowered.com/app/1280/Darkest_Hour_Europe_4445/
 { "name": "RedOrchestraLargeAddressAware.exe", "type": "Game" }
 { "name": "ROEdLAA.exe", "type": "Game" }
-
-# Daisho: Survival of a Samurai https://store.steampowered.com/app/2502650/Daisho_Survival_of_a_Samurai/
-{ "name": "Daisho.exe", "type": "Game" }
-
-# DCL - The Game https://store.steampowered.com/app/964570/DCL__The_Game/
-{ "name": "DCGame.exe", "type": "Game" }
-{ "name": "DCGame-Win64-Shipping.exe", "type": "Game" }
-
-# Depths Of Horror: Mushroom Day https://store.steampowered.com/app/1590840/Depths_Of_Horror_Mushroom_Day/
-{ "name": "Depths Of Horror Mushroom Day.exe", "type": "Game" }
-
-# Desk Paws https://store.steampowered.com/app/3586060/Desk_Paws/
-{ "name": "DeskPawsRelease.exe", "type": "Game" }
-
-# Dies irae ~Amantes amentes~ https://store.steampowered.com/app/644540/Dies_irae_Amantes_amentes/
-{ "name": "malie.exe", "type": "Game" }
-
-# Digger: Galactic Treasures https://store.steampowered.com/app/3604430/Digger_Galactic_Treasures/
-{ "name": "Digger-Win64-Shipping.exe", "type": "Game" }
-
-# Diggles: The Myth of Fenris https://store.steampowered.com/app/1478650/Diggles_The_Myth_of_Fenris/
-{ "name": "Diggles.exe", "type": "Game" }
-
-# DREAD FLATS https://store.steampowered.com/app/3114900/Dread_Flats/
-{ "name": "DREAD FLATS.exe", "type": "Game" }
-{ "name": "project_A-Win64-Shipping.exe", "type": "Game" }
 
 # Dark Future: Blood Red States https://store.steampowered.com/app/370870/Dark_Future_Blood_Red_States/
 { "name": "DarkFuture.exe", "type": "Game" }
@@ -256,6 +233,10 @@
 # DayZ Tools https://store.steampowered.com/app/830640/DayZ_Tools/
 { "name": "workbenchApp.exe", "type": "Game" }
 { "name": "DayZToolsLauncher.exe", "type": "Game" }
+
+# DCL - The Game https://store.steampowered.com/app/964570/DCL__The_Game/
+{ "name": "DCGame.exe", "type": "Game" }
+{ "name": "DCGame-Win64-Shipping.exe", "type": "Game" }
 
 # DCS World Steam Edition https://store.steampowered.com/app/223750/DCS_World_Steam_Edition/
 { "name": "DCS.exe", "type": "Game" }
@@ -638,6 +619,9 @@
 { "name": "DepthEd.exe", "type": "Game" }
 { "name": "DepthGame.exe", "type": "Game" }
 
+# Depths Of Horror: Mushroom Day https://store.steampowered.com/app/1590840/Depths_Of_Horror_Mushroom_Day/
+{ "name": "Depths Of Horror Mushroom Day.exe", "type": "Game" }
+
 # Derail Valley https://store.steampowered.com/app/588030/Derail_Valley/
 { "name": "DerailValley.exe", "type": "Game" }
 
@@ -649,6 +633,9 @@
 
 # Desk Garden https://store.steampowered.com/app/3575790/Desk_Garden/
 { "name": "DeskGarden.exe", "type": "Game" }
+
+# Desk Paws https://store.steampowered.com/app/3586060/Desk_Paws/
+{ "name": "DeskPawsRelease.exe", "type": "Game" }
 
 # Desktop+ https://store.steampowered.com/app/1494460/Desktop/
 { "name": "DesktopPlus.exe", "type": "Game" }
@@ -820,8 +807,17 @@
 { "name": "DieselBrothers.exe", "type": "Game" }
 { "name": "DieselBrothers-Win64-Shipping.exe", "type": "Game" }
 
+# Dies irae ~Amantes amentes~ https://store.steampowered.com/app/644540/Dies_irae_Amantes_amentes/
+{ "name": "malie.exe", "type": "Game" }
+
 # DigDigDrill https://store.steampowered.com/app/2916770/DigDigDrill/
 { "name": "DigDigDrill.exe", "type": "Game" }
+
+# Digger: Galactic Treasures https://store.steampowered.com/app/3604430/Digger_Galactic_Treasures/
+{ "name": "Digger-Win64-Shipping.exe", "type": "Game" }
+
+# Diggles: The Myth of Fenris https://store.steampowered.com/app/1478650/Diggles_The_Myth_of_Fenris/
+{ "name": "Diggles.exe", "type": "Game" }
 
 # Digimon Masters Online https://steamdb.info/app/537180/
 { "name": "DMLauncher.exe", "type": "BG_CPUIO" }
@@ -1355,6 +1351,10 @@
 
 # Dread Delusion https://store.steampowered.com/app/1574240/Dread_Delusion/
 { "name": "Dread Delusion.exe", "type": "Game" }
+
+# DREAD FLATS https://store.steampowered.com/app/3114900/Dread_Flats/
+{ "name": "DREAD FLATS.exe", "type": "Game" }
+{ "name": "project_A-Win64-Shipping.exe", "type": "Game" }
 
 # Dread Hunger https://store.steampowered.com/app/1418630/Dread_Hunger/
 { "name": "DreadHunger.exe", "type": "Game" }

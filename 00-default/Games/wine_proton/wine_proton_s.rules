@@ -87,6 +87,9 @@
 # Salt 2 https://store.steampowered.com/app/1574900/Salt_2_Shores_of_Gold/
 { "name": "Salt2.exe", "type": "Game" }
 
+# Salt and Sacrifice https://store.steampowered.com/app/1437400/Salt_and_Sacrifice/
+{ "name": "ProjectMage.exe", "type": "Game" }
+
 # Salt and Sanctuary https://store.steampowered.com/app/283640/Salt_and_Sanctuary/
 { "name": "salt.exe", "type": "Game" }
 
@@ -168,6 +171,9 @@
 # Sanitarium https://store.steampowered.com/app/284050/Sanitarium/
 { "name": "Asylum.exe", "type": "Game" }
 
+# Sani Yang's Laboratory https://store.steampowered.com/app/3464370/Sani_Yangs_Laboratory/
+{ "name": "sanyPlus.exe", "type": "Game" }
+
 # SAO Utils 2: Progressive https://store.steampowered.com/app/877280/SAO_Utils_2_Progressive/
 { "name": "NERvSteam.exe", "type": "Game" }
 
@@ -236,6 +242,9 @@
 
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow.exe", "type": "Game" }
+
+# Scarlet Maiden https://store.steampowered.com/app/1968840/
+{ "name": "ScarletMaiden.exe", "type": "Game" }
 
 # SCARLET NEXUS https://store.steampowered.com/app/775500/SCARLET_NEXUS/
 { "name": "ScarletNexus.exe", "type": "Game" }
@@ -466,6 +475,9 @@
 # Selene ~Apoptosis~ https://store.steampowered.com/app/1398210/Selene_Apoptosis/
 { "name": "Selene.exe", "type": "Game" }
 
+# Self Defense Dojo https://store.steampowered.com/app/2534120/
+{ "name": "Dojo NTR.exe", "type": "Game" }
+
 # SELINI https://store.steampowered.com/app/1434050/SELINI/
 { "name": "SELINI.exe", "type": "Game" }
 
@@ -473,8 +485,14 @@
 { "name": "SengokuDynasty.exe", "type": "Game" }
 { "name": "SengokuDynasty-Win64-Shipping.exe", "type": "Game" }
 
+# SENRAN KAGURA Burst Re:Newal https://store.steampowered.com/app/889510/SENRAN_KAGURA_Burst_ReNewal/
+{ "name": "SKBurstReNewal.exe", "type": "Game" }
+
 # SENRAN KAGURA ESTIVAL VERSUS https://store.steampowered.com/app/502800/SENRAN_KAGURA_ESTIVAL_VERSUS/
 { "name": "SKEstivalVersus.exe", "type": "Game" }
+
+# SENRAN KAGURA Peach Beach Splash https://store.steampowered.com/app/696170/SENRAN_KAGURA_Peach_Beach_Splash/
+{ "name": "SKPeachBeachSplash.exe", "type": "Game" }
 
 # SENRAN KAGURA SHINOVI VERSUS https://store.steampowered.com/app/411830/SENRAN_KAGURA_SHINOVI_VERSUS/
 { "name": "SKShinoviVersus.exe", "type": "Game" }
@@ -547,6 +565,10 @@
 { "name": "NinjaGarden.exe", "type": "Game" }
 { "name": "NinjaGarden-Win64-Shipping.exe", "type": "Game" }
 
+# ServiceIT: You can do IT https://store.steampowered.com/app/2194730/ServiceIT_You_can_do_IT/
+{ "name": "SymulatorIT.exe", "type": "Game" }
+{ "name": "SymulatorIT-Win64-Shipping.exe", "type": "Game" }
+
 # Session: Skate Sim https://store.steampowered.com/app/861650/Session_Skate_Sim/
 { "name": "SessionGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "SessionGame.exe", "type": "Game" }
@@ -571,6 +593,10 @@
 
 # Sexorcism: Lust Confession https://store.steampowered.com/app/4039810/Sexorcism_Lust_Confession/
 { "name": "Sexorcism Lust Confession.exe", "type": "Game" }
+
+# Sex, Please https://store.steampowered.com/app/2608620/
+{ "name": "SexPlease.exe", "type": "Game" }
+{ "name": "SexPlease-Win64-Shipping.exe", "type": "Game" }
 
 # Sex, Secrets & Used Tech Demo https://store.steampowered.com/app/3709920/
 { "name": "ElectronicsThriftStore.exe", "type": "Game" }
@@ -649,93 +675,6 @@
 # Shadow Warrior 2 https://store.steampowered.com/app/324800/Shadow_Warrior_2/
 { "name": "ShadowWarrior2.exe", "type": "Game" }
 
-# Salt and Sacrifice https://store.steampowered.com/app/1437400/Salt_and_Sacrifice/
-{ "name": "ProjectMage.exe", "type": "Game" }
-
-# Sani Yang's Laboratory https://store.steampowered.com/app/3464370/Sani_Yangs_Laboratory/
-{ "name": "sanyPlus.exe", "type": "Game" }
-
-# Scarlet Maiden https://store.steampowered.com/app/1968840/
-{ "name": "ScarletMaiden.exe", "type": "Game" }
-
-# Self Defense Dojo https://store.steampowered.com/app/2534120/
-{ "name": "Dojo NTR.exe", "type": "Game" }
-
-# SENRAN KAGURA Burst Re:Newal https://store.steampowered.com/app/889510/SENRAN_KAGURA_Burst_ReNewal/
-{ "name": "SKBurstReNewal.exe", "type": "Game" }
-
-# SENRAN KAGURA Peach Beach Splash https://store.steampowered.com/app/696170/SENRAN_KAGURA_Peach_Beach_Splash/
-{ "name": "SKPeachBeachSplash.exe", "type": "Game" }
-
-# ServiceIT: You can do IT https://store.steampowered.com/app/2194730/ServiceIT_You_can_do_IT/
-{ "name": "SymulatorIT.exe", "type": "Game" }
-{ "name": "SymulatorIT-Win64-Shipping.exe", "type": "Game" }
-
-# Sex, Please https://store.steampowered.com/app/2608620/
-{ "name": "SexPlease.exe", "type": "Game" }
-{ "name": "SexPlease-Win64-Shipping.exe", "type": "Game" }
-
-# Shard Squad https://store.steampowered.com/app/3363560/Shard_Squad/
-{ "name": "Shard Squad.exe", "type": "Game" }
-
-# SHUTEN ORDER https://store.steampowered.com/app/3216500/SHUTEN_ORDER/
-{ "name": "Shuten.exe", "type": "Game" }
-
-# Sickly Days and Summer Traces https://store.steampowered.com/app/3682050/Sickly_Days_and_Summer_Traces/
-{ "name": "sickly_days.exe", "type": "Game" }
-
-# Side Effects https://store.steampowered.com/app/3799100/SIDE_EFFECTS/
-{ "name": "Side Effects.exe", "type": "Game" }
-
-# Smack Studio https://store.steampowered.com/app/1739300/Smack_Studio/
-{ "name": "SmackStudio.exe", "type": "Game" }
-{ "name": "SmackStudio-Win64-Shipping.exe", "type": "Game" }
-
-# Solateria https://store.steampowered.com/app/2947280/Solateria/
-{ "name": "Solateria.exe", "type": "Game" }
-
-# Soldiers: Heroes of World War II - Enhanced Edition https://store.steampowered.com/app/11480/Soldiers_Heroes_of_World_War_II__Enhanced_Edition/
-{ "name": "Soldiers.exe", "type": "Game" }
-{ "name": "soldiers_dev.exe", "type": "Game" }
-{ "name": "Soldiers_dev.exe", "type": "Game" }
-
-# Spin Hero https://store.steampowered.com/app/2917350/Spin_Hero/
-{ "name": "Spin Hero.exe", "type": "Game" }
-
-# Spiral Clicker https://store.steampowered.com/app/950860/
-{ "name": "Spiral Clicker.exe", "type": "Game" }
-
-# Spirittea https://store.steampowered.com/app/1931010/Spirittea/
-{ "name": "Spirittea.exe", "type": "Game" }
-
-# State of War : Warmonger / 蓝色警戒 (Classic 2000) https://store.steampowered.com/app/748040/State_of_War__Warmonger___Classic_2000/
-{ "name": "State of War.exe", "type": "Game" }
-{ "name": "State of War Warmonger.exe", "type": "Game" }
-
-# Stone Simulator https://store.steampowered.com/app/1425980/Stone_Simulator__Just_Be_a_Rock/
-{ "name": "StoneSimulator.exe", "type": "Game" }
-{ "name": "StoneSImulator-Win64-Shipping.exe", "type": "Game" }
-
-# Stormbound https://store.steampowered.com/app/790600/Stormbound/
-{ "name": "Stormbound.exe", "type": "Game" }
-
-# Strange Jigsaws https://store.steampowered.com/app/2702170/Strange_Jigsaws/
-{ "name": "Strange Jigsaws.exe", "type": "Game" }
-
-# Sumerian Six https://store.steampowered.com/app/1429850/Sumerian_Six/
-{ "name": "SumerianSix.exe", "type": "Game" }
-{ "name": "SumerianSix-Win64-Shipping.exe", "type": "Game" }
-
-# Summer Pockets REFLECTION BLUE https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/
-{ "name": "SummerPocketsRB.exe", "type": "Game" }
-
-# Sword and Fairy 2 https://store.steampowered.com/app/1538460/Sword_and_Fairy_2/
-{ "name": "Pal2.exe", "type": "Game" }
-{ "name": "Pal2_x64.exe", "type": "Game" }
-
-# Sword and Fairy Inn 2 https://store.steampowered.com/app/1918680/Sword_and_Fairy_Inn_2/
-{ "name": "palinn2.exe", "type": "Game" }
-
 # Shadow Warrior 3: Definitive Edition https://store.steampowered.com/app/1036890/Shadow_Warrior_3_Definitive_Edition/
 { "name": "SW3.exe", "type": "Game" }
 
@@ -773,6 +712,9 @@
 
 # shapez https://store.steampowered.com/app/1318690/shapez/
 { "name": "shapezio.exe", "type": "Game" }
+
+# Shard Squad https://store.steampowered.com/app/3363560/Shard_Squad/
+{ "name": "Shard Squad.exe", "type": "Game" }
 
 # ShareX https://store.steampowered.com/app/400040/ShareX/
 { "name": "ShareX_Launcher.exe", "type": "BG_CPUIO" }
@@ -960,6 +902,15 @@
 
 # Shrimp.io https://store.steampowered.com/app/2782530/Shrimpio/
 { "name": "Shrimp.io.exe", "type": "Game" }
+
+# SHUTEN ORDER https://store.steampowered.com/app/3216500/SHUTEN_ORDER/
+{ "name": "Shuten.exe", "type": "Game" }
+
+# Sickly Days and Summer Traces https://store.steampowered.com/app/3682050/Sickly_Days_and_Summer_Traces/
+{ "name": "sickly_days.exe", "type": "Game" }
+
+# Side Effects https://store.steampowered.com/app/3799100/SIDE_EFFECTS/
+{ "name": "Side Effects.exe", "type": "Game" }
 
 # Sid Meier's Alpha Centauri Planetary Pack https://store.steampowered.com/app/2204130/
 { "name": "terranx.exe", "type": "Game" }
@@ -1298,6 +1249,10 @@
 # Slut Squad https://store.steampowered.com/app/3554940/
 { "name": "SlutSquad.exe", "type": "Game" }
 
+# Smack Studio https://store.steampowered.com/app/1739300/Smack_Studio/
+{ "name": "SmackStudio.exe", "type": "Game" }
+{ "name": "SmackStudio-Win64-Shipping.exe", "type": "Game" }
+
 # Smalland: Survive the Wilds https://store.steampowered.com/app/768200/Smalland_Survive_the_Wilds/
 { "name": "SMALLAND.exe", "type": "Game" }
 { "name": "SMALLAND-Win64-Shipping.exe", "type": "Game" }
@@ -1460,6 +1415,9 @@
 # Solasta II https://store.steampowered.com/app/2975950/Solasta_II/
 { "name": "Solasta_2.exe", "type": "Game" }
 
+# Solateria https://store.steampowered.com/app/2947280/Solateria/
+{ "name": "Solateria.exe", "type": "Game" }
+
 # Sol Cesto https://store.steampowered.com/app/2738490/Sol_Cesto/
 { "name": "SolCesto.exe", "type": "Game" }
 
@@ -1468,6 +1426,11 @@
 
 # Soldat 2 https://store.steampowered.com/app/474220/Soldat_2/
 { "name": "soldat2.exe", "type": "Game" }
+
+# Soldiers: Heroes of World War II - Enhanced Edition https://store.steampowered.com/app/11480/Soldiers_Heroes_of_World_War_II__Enhanced_Edition/
+{ "name": "Soldiers.exe", "type": "Game" }
+{ "name": "soldiers_dev.exe", "type": "Game" }
+{ "name": "Soldiers_dev.exe", "type": "Game" }
 
 # SolForge https://store.steampowered.com/app/232450/SolForge/
 { "name": "kusc.exe", "type": "Game" }
@@ -1783,6 +1746,9 @@
 # Spilled! https://store.steampowered.com/app/2240080/Spilled/
 { "name": "Spilled!.exe", "type": "Game" }
 
+# Spin Hero https://store.steampowered.com/app/2917350/Spin_Hero/
+{ "name": "Spin Hero.exe", "type": "Game" }
+
 # SPINNERS https://store.steampowered.com/app/3064160/SPINNERS/
 { "name": "SPINNERS.exe", "type": "Game" }
 
@@ -1791,6 +1757,9 @@
 
 # Spintires https://store.steampowered.com/app/263280/
 { "name": "SpinTires.exe", "type": "Game" }
+
+# Spiral Clicker https://store.steampowered.com/app/950860/
+{ "name": "Spiral Clicker.exe", "type": "Game" }
 
 # Spirit City: Lofi Sessions https://store.steampowered.com/app/2113850/Spirit_City_Lofi_Sessions/
 { "name": "SpiritCity.exe", "type": "Game" }
@@ -1821,6 +1790,9 @@
 { "name": "X_Game.exe", "type": "Game" }
 { "name": "X_Game-Win64-Shipping.exe", "type": "Game" }
 { "name": "SpiritRealmWorkShop-Win64-Shipping.exe", "type": "Game" }
+
+# Spirittea https://store.steampowered.com/app/1931010/Spirittea/
+{ "name": "Spirittea.exe", "type": "Game" }
 
 # SpiritVale Playtest https://store.steampowered.com/app/3918510/SpiritVale/
 { "name": "SpiritVale.exe", "type": "Game" }
@@ -2199,6 +2171,10 @@
 { "name": "StateOfDecay2.exe", "type": "Game" }
 { "name": "StateOfDecay2-Win64-Shipping.exe", "type": "Game" }
 
+# State of War : Warmonger / 蓝色警戒 (Classic 2000) https://store.steampowered.com/app/748040/State_of_War__Warmonger___Classic_2000/
+{ "name": "State of War.exe", "type": "Game" }
+{ "name": "State of War Warmonger.exe", "type": "Game" }
+
 # Stationeers https://store.steampowered.com/app/544550/Stationeers/
 { "name": "rocketstation.exe", "type": "Game" }
 
@@ -2323,6 +2299,10 @@
 # Stoneshard: Prologue https://store.steampowered.com/app/869760/Stoneshard_Prologue/
 { "name": "Stoneshard Prologue.exe", "type": "Game" }
 
+# Stone Simulator https://store.steampowered.com/app/1425980/Stone_Simulator__Just_Be_a_Rock/
+{ "name": "StoneSimulator.exe", "type": "Game" }
+{ "name": "StoneSImulator-Win64-Shipping.exe", "type": "Game" }
+
 # Stone Story RPG https://store.steampowered.com/app/603390/Stone_Story_RPG/
 { "name": "Stone Story.exe", "type": "Game" }
 
@@ -2340,6 +2320,9 @@
 # Storebound https://store.steampowered.com/app/3417410/Storebound/
 { "name": "Storebound.exe", "type": "Game" }
 { "name": "EmbersSauce-Win64-Shipping.exe", "type": "Game" }
+
+# Stormbound https://store.steampowered.com/app/790600/Stormbound/
+{ "name": "Stormbound.exe", "type": "Game" }
 
 # Stormgate https://store.steampowered.com/app/2012510/Stormgate/
 { "name": "Stormgate.exe", "type": "Game" }
@@ -2399,6 +2382,9 @@
 
 # Strange Horticulture https://store.steampowered.com/app/1574580/Strange_Horticulture/
 { "name": "Strange Horticulture.exe", "type": "Game" }
+
+# Strange Jigsaws https://store.steampowered.com/app/2702170/Strange_Jigsaws/
+{ "name": "Strange Jigsaws.exe", "type": "Game" }
 
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN https://store.steampowered.com/app/1358700/STRANGER_OF_PARADISE_FINAL_FANTASY_ORIGIN/
 { "name": "SOPFFO.exe", "type": "Game" }
@@ -2632,6 +2618,10 @@
 # Sultan's Game https://store.steampowered.com/app/3117820/Sultans_Game/
 { "name": "Sultan's Game.exe", "type": "Game" }
 
+# Sumerian Six https://store.steampowered.com/app/1429850/Sumerian_Six/
+{ "name": "SumerianSix.exe", "type": "Game" }
+{ "name": "SumerianSix-Win64-Shipping.exe", "type": "Game" }
+
 # Summa Expeditionis https://store.steampowered.com/app/2056200/Summa_Expeditionis/
 { "name": "Summa Expeditionis.exe", "type": "Game" }
 
@@ -2640,6 +2630,9 @@
 
 # SUMMERHOUSE https://store.steampowered.com/app/2533960/SUMMERHOUSE/
 { "name": "SUMMERHOUSE.exe", "type": "Game" }
+
+# Summer Pockets REFLECTION BLUE https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/
+{ "name": "SummerPocketsRB.exe", "type": "Game" }
 
 # Summoners War https://store.steampowered.com/app/2426960/Summoners_War/
 { "name": "SummonersWar.exe", "type": "Game" }
@@ -2877,6 +2870,10 @@
 # Sword and Fairy https://store.steampowered.com/app/1546570/Sword_and_Fairy/
 { "name": "PalWorks.exe", "type": "Game" }
 
+# Sword and Fairy 2 https://store.steampowered.com/app/1538460/Sword_and_Fairy_2/
+{ "name": "Pal2.exe", "type": "Game" }
+{ "name": "Pal2_x64.exe", "type": "Game" }
+
 # Sword and Fairy 3 https://store.steampowered.com/app/1536070/Sword_and_Fairy_3/
 { "name": "Pal3Works.exe", "type": "Game" }
 { "name": "PAL3.exe", "type": "Game" }
@@ -2891,6 +2888,9 @@
 # Sword and Fairy 7 https://store.steampowered.com/app/1543030/Sword_and_Fairy_7/
 { "name": "Pal7.exe", "type": "Game" }
 { "name": "Pal7-Win64-Shipping.exe", "type": "Game" }
+
+# Sword and Fairy Inn 2 https://store.steampowered.com/app/1918680/Sword_and_Fairy_Inn_2/
+{ "name": "palinn2.exe", "type": "Game" }
 
 # SWORD ART ONLINE Alicization Lycoris https://store.steampowered.com/app/1009290/SWORD_ART_ONLINE_Alicization_Lycoris/
 { "name": "sao_al.exe", "type": "Game" }

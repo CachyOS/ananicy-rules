@@ -105,6 +105,9 @@
 { "name": "ohm_studio_reporter.exe", "type": "Game" }
 { "name": "ohm_studio_guest.exe", "type": "Game" }
 
+# OHV https://store.steampowered.com/app/1783780/OHV/
+{ "name": "OHV.exe", "type": "Game" }
+
 # Okami HD https://store.steampowered.com/app/587620/Okami_HD/
 { "name": "okami.exe", "type": "Game" }
 
@@ -263,28 +266,6 @@
 # OpenTTD https://store.steampowered.com/app/1536610/OpenTTD/
 { "name": "openttd.exe", "type": "Game" }
 
-# OHV https://store.steampowered.com/app/1783780/OHV/
-{ "name": "OHV.exe", "type": "Game" }
-
-# Orc Massage https://store.steampowered.com/app/1129540/
-{ "name": "OrcMassage.exe", "type": "Game" }
-
-# Orion Sandbox Enhanced https://store.steampowered.com/app/929670/Orion_Sandbox_Enhanced/
-{ "name": "Orion Sandbox Enhanced.exe", "type": "Game" }
-
-# Otaku's Adventure https://store.steampowered.com/app/937170/Otakus_Adventure/
-{ "name": "play.exe", "type": "Game" }
-
-# Otome Riron to Sono Shuuhen -École de Paris- https://store.steampowered.com/app/2567190/Otome_Riron_to_Sono_Shuuhen_cole_de_Paris/
-{ "name": "otomeriron.exe", "type": "Game" }
-
-# Outbreak Island https://store.steampowered.com/app/1442530/Outbreak_Island/
-{ "name": "OI_World.exe", "type": "Game" }
-{ "name": "OI_World-Win64-Shipping.exe", "type": "Game" }
-
-# Overlewd https://store.steampowered.com/app/2308870/
-{ "name": "SteamWindows.exe", "type": "Game" }
-
 # Operation Flashpoint: Dragon Rising https://store.steampowered.com/app/12830/Operation_Flashpoint_Dragon_Rising/
 { "name": "OFDR.exe", "type": "Game" }
 
@@ -322,6 +303,9 @@
 
 # Orc Incremental Demo https://store.steampowered.com/app/4736550/Orc_Incremental_Demo/
 { "name": "Orc Incremental.exe", "type": "Game" }
+
+# Orc Massage https://store.steampowered.com/app/1129540/
+{ "name": "OrcMassage.exe", "type": "Game" }
 
 # Orcs Must Die! https://store.steampowered.com/app/102600/Orcs_Must_Die/
 { "name": "orcsmustdie.exe", "type": "Game" }
@@ -368,6 +352,9 @@
 # ORION: Prelude https://store.steampowered.com/app/104900/ORION_Prelude/
 { "name": "DinoHordeGame.exe", "type": "Game" }
 
+# Orion Sandbox Enhanced https://store.steampowered.com/app/929670/Orion_Sandbox_Enhanced/
+{ "name": "Orion Sandbox Enhanced.exe", "type": "Game" }
+
 # ORMOD: Directive Closed Playtest https://store.steampowered.com/app/3427780/ORMOD_Directive/
 { "name": "ORMOD Directive Playtest.exe", "type": "Game" }
 
@@ -390,11 +377,17 @@
 # osu! https://osu.ppy.sh
 { "name": "osu!.exe", "type": "Game" }
 
+# Otaku's Adventure https://store.steampowered.com/app/937170/Otakus_Adventure/
+{ "name": "play.exe", "type": "Game" }
+
 # Othercide https://store.steampowered.com/app/798490/Othercide/
 { "name": "Othercide.exe", "type": "Game" }
 
 # Otherworld Legends 战魂铭人 https://store.steampowered.com/app/1761380/Otherworld_Legends/
 { "name": "Otherworld Legends.exe", "type": "Game" }
+
+# Otome Riron to Sono Shuuhen -École de Paris- https://store.steampowered.com/app/2567190/Otome_Riron_to_Sono_Shuuhen_cole_de_Paris/
+{ "name": "otomeriron.exe", "type": "Game" }
 
 # OTXO https://store.steampowered.com/app/1608640/OTXO/
 { "name": "OTXO_Release.exe", "type": "Game" }
@@ -408,6 +401,10 @@
 
 # Outbound https://store.steampowered.com/app/2681030/Outbound/
 { "name": "Outbound.exe", "type": "Game" }
+
+# Outbreak Island https://store.steampowered.com/app/1442530/Outbreak_Island/
+{ "name": "OI_World.exe", "type": "Game" }
+{ "name": "OI_World-Win64-Shipping.exe", "type": "Game" }
 
 # OUTBRK https://store.steampowered.com/app/1107320/OUTBRK/
 { "name": "Outbrk.exe", "type": "Game" }
@@ -530,6 +527,9 @@
 
 # Overgrowth https://store.steampowered.com/app/25000/Overgrowth/
 { "name": "Overgrowth.exe", "type": "Game" }
+
+# Overlewd https://store.steampowered.com/app/2308870/
+{ "name": "SteamWindows.exe", "type": "Game" }
 
 # Overlooting https://store.steampowered.com/app/3410180/Overlooting/
 { "name": "Overlooting.exe", "type": "Game" }

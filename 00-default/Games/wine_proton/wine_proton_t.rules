@@ -217,19 +217,6 @@
 # TCG Card Shop Simulator https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/
 { "name": "Card Shop Simulator.exe", "type": "Game" }
 
-# Terminull Brigade https://store.steampowered.com/app/3104410/Terminull_Brigade/
-{ "name": "rs_launcher.exe", "type": "Game" }
-{ "name": "Rouge.exe", "type": "Game" }
-{ "name": "Rouge-Win64-Shipping.exe", "type": "Game" }
-{ "name": "TinyDL.exe", "type": "Game" }
-
-# TERPENIE https://store.steampowered.com/app/4028600/TERPENIE/
-{ "name": "TERPENIE.exe", "type": "Game" }
-{ "name": "TERPENIE-Win64-Shipping.exe", "type": "Game" }
-
-# Territory: Farming and Warfare https://store.steampowered.com/app/1455910/Territory_Farming_and_Warfare/
-{ "name": "Territory.exe", "type": "Game" }
-
 # TCG Card Shop Simulator: Prologue https://store.steampowered.com/app/3103840/TCG_Card_Shop_Simulator_Prologue/
 { "name": "Card Shop Simulator Prologue.exe", "type": "Game" }
 
@@ -339,8 +326,18 @@
 { "name": "Terminator.exe", "type": "Game" }
 { "name": "Terminator-Win64-Shipping.exe", "type": "Game" }
 
+# Terminull Brigade https://store.steampowered.com/app/3104410/Terminull_Brigade/
+{ "name": "rs_launcher.exe", "type": "Game" }
+{ "name": "Rouge.exe", "type": "Game" }
+{ "name": "Rouge-Win64-Shipping.exe", "type": "Game" }
+{ "name": "TinyDL.exe", "type": "Game" }
+
 # Terminus: Zombie Survivors https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/
 { "name": "Terminus.exe", "type": "Game" }
+
+# TERPENIE https://store.steampowered.com/app/4028600/TERPENIE/
+{ "name": "TERPENIE.exe", "type": "Game" }
+{ "name": "TERPENIE-Win64-Shipping.exe", "type": "Game" }
 
 # Terraformental https://store.steampowered.com/app/3762790/Terraformental/
 { "name": "Terraformental.exe", "type": "Game" }
@@ -378,6 +375,9 @@
 # TerraTech Worlds https://store.steampowered.com/app/2313330/TerraTech_Worlds/
 { "name": "TT2EOS.exe", "type": "Game" }
 { "name": "TT2EOS-Win64-Shipping.exe", "type": "Game" }
+
+# Territory: Farming and Warfare https://store.steampowered.com/app/1455910/Territory_Farming_and_Warfare/
+{ "name": "Territory.exe", "type": "Game" }
 
 # Terrors to Unveil - Day Off https://store.steampowered.com/app/3587490/Terrors_to_Unveil__Day_Off/
 { "name": "Terrors to Unveil - Day Off.exe", "type": "Game" }
