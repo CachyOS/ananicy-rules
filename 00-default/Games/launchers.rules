@@ -65,12 +65,20 @@
 # integrated web engine
 { "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
 
+# Rules for Steam
+# Steam client
+{ "name": "steam", "type": "BG_CPUIO" }
+{ "name": "steam.sh", "type": "BG_CPUIO" }
+
+# Steam integrated web browser
+{ "name": "steamwebhelper", "type": "Doc-View" }
+
 # Rules for Steam on Wine
 # Steam client
 { "name": "Steam.exe", "type": "BG_CPUIO" }
 
 # Steam integrated web browser
-{ "name": "steamwebhelper.exe", "type": "BG_CPUIO" }
+{ "name": "steamwebhelper.exe", "type": "Doc-View" }
 
 # Uplay is a Digital distribution, digital rights management, multiplayer and communications service developed by Ubisoft https://uplay.ubisoft.com/
 { "name": "UbisoftGameLaun", "type": "BG_CPUIO" }
