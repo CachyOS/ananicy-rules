@@ -5,6 +5,8 @@
 # https://community.kde.org/Baloo
 # Baloo is the file indexing and file search framework for KDE.
 { "name": "baloo_file", "type": "BG_CPUIO" }
+{ "name": "baloorunner", "type": "BG_CPUIO" }
+{ "name": "baloo_file_extractor", "type": "BG_CPUIO" }
 # https://github.com/KDE/kded
 { "name": "kded6", "type": "BG_CPUIO" }
 # https://lxr.kde.org/source/plasma/plasma-desktop/kaccess/
