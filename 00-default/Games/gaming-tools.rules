@@ -1,6 +1,9 @@
 # Fluffy Mod Manager https://www.nexusmods.com/site/mods/818
 { "name": "Modmanager.exe", "type": "BG_CPUIO" }
 
+# RimSort Mod Manager https://rimsort.github.io/RimSort/
+{ "name": "rimsort", "type": "BG_CPUIO" }
+
 # Cheat Engine https://www.cheatengine.org/
 { "name": "Cheat Engine.exe", "type": "BG_CPUIO" }
 { "name": "cheatengine-x86_64", "type": "BG_CPUIO" }
