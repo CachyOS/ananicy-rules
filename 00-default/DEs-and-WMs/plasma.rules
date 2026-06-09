@@ -15,7 +15,7 @@
 # https://lxr.kde.org/source/plasma/plasma-desktop/kaccess/
 { "name": "kaccess", "type": "BG_CPUIO" }
 # https://github.com/KDE/kclock
-{ "name": "kclockd", "type": "BG_CPUIO" }
+{ "name": "kclockd", "type": "Service" }
 # https://github.com/KDE/plasma-workspace/blob/master/ksmserver/README
 { "name": "ksmserver", "type": "BG_CPUIO" }
 { "name": "krunner", "type": "LowLatency_RT" }
