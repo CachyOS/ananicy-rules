@@ -79,6 +79,11 @@
 # gsd-a11y-settings
 { "name": "gsd-a11y-settings", "type": "Service" }
 
+# gvfs components
+{ "name": "gvfsd", "type": "Service" }
+{ "name": "gvfsd-fuse", "type": "Service" }
+{ "name": "gvfsd-metadata", "type": "Service" }
+
 # goa-daemon
 { "name": "goa-daemon", "type": "Service" }
 
