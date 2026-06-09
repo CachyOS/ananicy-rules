@@ -140,16 +140,8 @@
 # TAMASHIKA https://store.steampowered.com/app/2996080/TAMASHIKA/
 { "name": "TAMASHIKA.exe", "type": "Game" }
 
-# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
-{ "name": "Tamer.exe", "type": "Game" }
-{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
-
 # Tametsi https://store.steampowered.com/app/709920/Tametsi/
 { "name": "tametsi.exe", "type": "Game" }
-
-# Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
-{ "name": "Tamer.exe", "type": "Game" }
-{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
 
 # Tangle Tower https://store.steampowered.com/app/359510/Tangle_Tower/
 { "name": "Tangle Tower.exe", "type": "Game" }
@@ -939,9 +931,6 @@
 
 # Total War: ATTILA https://store.steampowered.com/app/325610/Total_War_ATTILA/
 { "name": "Attila.exe", "type": "Game" }
-
-# Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
-{ "name": "Empire.exe", "type": "Game" }
 
 # Total War: MEDIEVAL II – Definitive Edition https://store.steampowered.com/app/4700/Total_War_MEDIEVAL_II__Definitive_Edition/
 { "name": "medieval2.exe", "type": "Game" }

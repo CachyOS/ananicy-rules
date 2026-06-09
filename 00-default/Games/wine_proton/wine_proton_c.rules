@@ -274,14 +274,11 @@
 { "name": "VLauncher.exe", "type": "Game" }
 { "name": "CombatArms.exe", "type": "Game" }
 { "name": "CombatArmsLauncher.exe", "type": "Game" }
-{ "name": "Engine.exe", "type": "Game" }
 
 # Command & Conquer: Renegade https://store.steampowered.com/app/2229890/Command__Conquer_Renegade/
 { "name": "Renegade.exe", "type": "Game" }
-{ "name": "Game.exe", "type": "Game" }
 
 # Cultures - Northland https://store.steampowered.com/app/351860/Cultures__Northland/
-{ "name": "Game.exe", "type": "Game" }
 { "name": "GameMp.exe", "type": "Game" }
 
 # Car Detailing Simulator https://store.steampowered.com/app/1433570/Car_Detailing_Simulator/
@@ -1319,9 +1316,6 @@
 { "name": "ScenarioEditor.exe", "type": "Game" }
 { "name": "csbtw.exe", "type": "Game" }
 { "name": "cshlp.exe", "type": "Game" }
-
-# Cossacks: European Wars https://store.steampowered.com/app/4880/Cossacks_European_Wars/
-{ "name": "dmcr.exe", "type": "Game" }
 
 # Costume Quest https://store.steampowered.com/app/115100/Costume_Quest/
 { "name": "Cq.exe", "type": "Game" }
