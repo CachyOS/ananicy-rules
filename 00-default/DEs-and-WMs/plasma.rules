@@ -27,3 +27,4 @@
 { "name": "org_kde_powerdevil", "type": "Service" }
 # https://github.com/KDE/kwallet
 { "name": "kwalletd6", "type": "Service" }
+{ "name": "ksecretd", "type": "Service" }
