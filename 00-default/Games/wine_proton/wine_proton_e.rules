@@ -92,6 +92,10 @@
 { "name": "TheDarken.exe", "type": "Game" }
 { "name": "TheDarken-Win64-Shipping.exe", "type": "Game" }
 
+# Echoes of the Living https://store.steampowered.com/app/2173460/Echoes_of_the_Living/
+{ "name": "EOTL.exe", "type": "Game" }
+{ "name": "EOTL-Win64-Shipping.exe", "type": "Game" }
+
 # Echoes of the Plum Grove https://store.steampowered.com/app/1536090/Echoes_of_the_Plum_Grove/
 { "name": "Echoes of the Plum Grove.exe", "type": "Game" }
 
@@ -123,7 +127,6 @@
 
 # Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
 { "name": "Edna.exe", "type": "Game" }
-{ "name": "edna.exe", "type": "Game" }
 
 # eFootball https://store.steampowered.com/app/1665460/eFootball/
 { "name" : "eFootball.exe", "type": "Game" }
@@ -274,6 +277,9 @@
 # Empire of Sin https://store.steampowered.com/app/604540/Empire_of_Sin/
 { "name": "EmpireOfSin.exe", "type": "Game" }
 
+# Empire of the Ants https://store.steampowered.com/app/2287330/Empire_of_the_Ants/
+{ "name": "Empire-Win64-Shipping.exe", "type": "Game" }
+
 # Empires Mod https://store.steampowered.com/app/17740/Empires_Mod/
 { "name": "empires_win64.exe", "type": "Game" }
 
@@ -322,6 +328,9 @@
 { "name": "EndlessAlice.exe", "type": "Game" }
 { "name": "EndlessAlice-Win64-Shipping.exe", "type": "Game" }
 
+# Endless ATC https://store.steampowered.com/app/666610/Endless_ATC/
+{ "name": "Endless ATC.exe", "type": "Game" }
+
 # ENDLESS Dungeon - Definitive Edition https://store.steampowered.com/app/1485590/ENDLESS_Dungeon__Definitive_Edition/
 { "name": "ENDLESS Dungeon.exe", "type": "Game" }
 
@@ -339,6 +348,10 @@
 
 # ENDLESS Space - Definitive Edition https://store.steampowered.com/app/208140/ENDLESS_Space__Definitive_Edition/
 { "name": "EndlessSpace.exe", "type": "Game" }
+
+# Endling - Extinction is Forever https://store.steampowered.com/app/898890/Endling__Extinction_is_Forever/
+{ "name": "Endling.exe", "type": "Game" }
+{ "name": "Endling-Win64-Shipping.exe", "type": "Game" }
 
 # Endoparasitic https://store.steampowered.com/app/2124780/Endoparasitic/
 { "name": "Endoparasitic.exe", "type": "Game" }
@@ -506,11 +519,18 @@
 # Esports Manager 2026 Demo https://store.steampowered.com/app/4006000/Esports_Manager_2026_Demo/
 { "name": "EsportsManager.exe", "type": "Game" }
 
+# Espresso Tycoon https://store.steampowered.com/app/1543280/Espresso_Tycoon/
+{ "name": "Espresso Tycoon.exe", "type": "Game" }
+
 # Eternal Card Game https://store.steampowered.com/app/531640/Eternal_Card_Game/
 { "name": "Eternal.exe", "type": "Game" }
 
 # Eternal Return https://store.steampowered.com/app/1049590/Eternal_Return/
 { "name": "EternalReturn.exe", "type": "Game" }
+
+# Eternal Strands https://store.steampowered.com/app/1491410/Eternal_Strands/
+{ "name": "EternalStrands.exe", "type": "Game" }
+{ "name": "EternalStrandsSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Eternium https://store.steampowered.com/app/981600/Eternium/
 { "name": "MageAndMinions.exe", "type": "Game" }
@@ -557,6 +577,9 @@
 
 # Everholm https://store.steampowered.com/app/2312520/Everholm/
 { "name": "Everholm.exe", "type": "Game" }
+
+# Everhood https://store.steampowered.com/app/1229380/Everhood/
+{ "name": "Everhood.exe", "type": "Game" }
 
 # Everhood 2 https://store.steampowered.com/app/1984020/Everhood_2/
 { "name": "Everhood 2.exe", "type": "Game" }
@@ -637,6 +660,12 @@
 
 # Exile to Death https://store.steampowered.com/app/489240/Exile_to_Death/
 { "name": "ExiletoDeath.exe", "type": "Game" }
+
+# Exit the Gungeon https://store.steampowered.com/app/1209490/Exit_the_Gungeon/
+{ "name": "XTG.exe", "type": "Game" }
+
+# Exo One https://store.steampowered.com/app/773370/Exo_One/
+{ "name": "EXO ONE.exe", "type": "Game" }
 
 # Exotica 2: Pet Shop Simulator https://store.steampowered.com/app/2824380/Exotica_2_Pet_Shop_Simulator/
 { "name": "Exotica2.exe", "type": "Game" }

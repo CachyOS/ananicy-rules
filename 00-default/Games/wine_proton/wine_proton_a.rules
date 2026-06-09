@@ -294,11 +294,19 @@
 # Age of Wonders: Planetfall https://store.steampowered.com/app/718850/Age_of_Wonders_Planetfall/
 { "name": "AowPF.exe", "type": "Game" }
 
+# Age of Wonders: Shadow Magic https://store.steampowered.com/app/61520/Age_of_Wonders_Shadow_Magic/
+{ "name": "AoWSMEd.exe", "type": "Game" }
+{ "name": "AoWSMCompat.exe", "type": "Game" }
+{ "name": "AoWSM.exe", "type": "Game" }
+
 # Ages of Conflict: World War Simulator https://store.steampowered.com/app/2186320/Ages_of_Conflict_World_War_Simulator/
 { "name": "Ages of Conflict.exe", "type": "Game" }
 
 # Agrivore https://store.steampowered.com/app/4045540/Agrivore_Incremental_Farming/
 { "name": "Agrivore.exe", "type": "Game" }
+
+# Aground https://store.steampowered.com/app/876650/Aground/
+{ "name": "Aground.exe", "type": "Game" }
 
 # A Guidebook of Babel https://store.steampowered.com/app/1467920/A_Guidebook_of_Babel/
 { "name": "Babel.exe", "type": "Game" }
@@ -543,12 +551,25 @@
 # Amazons vs Zombies https://store.steampowered.com/app/4103710/
 { "name": "Amazons vs Zombies.exe", "type": "Game" }
 
+# Amber Isle https://store.steampowered.com/app/1663040/Amber_Isle/
+{ "name": "Amber Isle.exe", "type": "Game" }
+
 # Amberspire https://store.steampowered.com/app/3350750/Amberspire/
 { "name": "Amberspire.exe", "type": "Game" }
 
 # Ambulance Life: A Paramedic Simulator https://store.steampowered.com/app/1926520/
 { "name": "Sanka.exe", "type": "Game" }
 { "name": "Sanka-Win64-Shipping.exe", "type": "Game" }
+
+# American Arcadia https://store.steampowered.com/app/1249040/American_Arcadia/
+{ "name": "AArcadia.exe", "type": "Game" }
+{ "name": "AArcadia-Win64-Shipping.exe", "type": "Game" }
+
+# American Conquest https://store.steampowered.com/app/115210/American_Conquest/
+{ "name": "DMCR.EXE", "type": "Game" }
+
+# American Theft 80s https://store.steampowered.com/app/1321450/American_Theft_80s/
+{ "name": "American Theft 80s.exe", "type": "Game" }
 
 # America's Army 3 https://store.steampowered.com/app/13140/Americas_Army_3/
 { "name": "AA3Loader.exe", "type": "Game" }
@@ -560,6 +581,10 @@
 
 # AMID EVIL https://store.steampowered.com/app/673130/AMID_EVIL/
 { "name": "AmidEvil.exe", "type": "Game" }
+
+# Amnesia https://store.steampowered.com/app/1823380/
+{ "name": "amnesia-remaster.exe", "type": "Game" }
+{ "name": "amnesia-remaster-32.exe", "type": "Game" }
 
 # Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
 { "name": "aamfp.exe", "type": "Game" }
@@ -746,6 +771,9 @@
 # Anomaly Agent https://store.steampowered.com/app/2378620/Anomaly_Agent/
 { "name": "Anomaly Agent.exe", "type": "Game" }
 
+# Anomaly Exit https://store.steampowered.com/app/2232600/Anomaly_Exit/
+{ "name": "launchgame.exe", "type": "Game" }
+
 # Anomaly: Warzone Earth https://store.steampowered.com/app/91200/Anomaly_Warzone_Earth/
 { "name": "AnomalyWarzoneEarth.exe", "type": "Game" }
 
@@ -875,11 +903,11 @@
 # ARCADE GAME SERIES: Ms. PAC-MAN https://store.steampowered.com/app/403410/ARCADE_GAME_SERIES_Ms_PACMAN/
 { "name": "Ms. PAC-MAN.exe", "type": "Game" }
 
-# Arcadegeddon https://store.steampowered.com/app/1515640/Arcadegeddon/
-{ "name": "Arcade.exe", "type": "Game" }
-
 # Arcade Paradise https://store.steampowered.com/app/1388870/Arcade_Paradise/
 { "name": "ArcadeParadise.exe", "type": "Game" }
+
+# Arcadia Fallen https://store.steampowered.com/app/1174640/Arcadia_Fallen/
+{ "name": "Arcadia Fallen.exe", "type": "Game" }
 
 # Arcane Rush https://store.steampowered.com/app/3039040/Arcane_Rush/
 { "name": "ArcaneRush.exe", "type": "Game" }
@@ -1009,6 +1037,9 @@
 # Arsenal of Democracy https://store.steampowered.com/app/42850/Arsenal_of_Democracy_A_Hearts_of_Iron_Game/
 { "name": "AODGame.exe", "type": "Game" }
 { "name": "Arsenal.exe", "type": "Game" }
+
+# Artemis https://store.steampowered.com/app/1775530/
+{ "name": "_ARTEMIS.exe", "type": "Game" }
 
 # Artifact Classic https://store.steampowered.com/app/583950/Artifact/
 { "name": "dcg.exe", "type": "Game" }

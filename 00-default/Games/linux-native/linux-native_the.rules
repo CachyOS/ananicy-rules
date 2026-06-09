@@ -89,6 +89,10 @@
 { "name": "tfs.x86", "type": "Game" }
 { "name": "tfs.x86_64", "type": "Game" }
 
+# The Genesis Project https://store.steampowered.com/app/1610900/The_Genesis_Project/
+{ "name": "The Genesis Project", "type": "Game" }
+{ "name": "The Genesis Project.x86_64", "type": "Game" }
+
 # The Grey Dream https://store.steampowered.com/app/2497930/
 { "name": "TheGreyDream", "type": "Game" }
 

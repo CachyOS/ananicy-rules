@@ -134,10 +134,6 @@
 # TAMASHIKA https://store.steampowered.com/app/2996080/TAMASHIKA/
 { "name": "TAMASHIKA.exe", "type": "Game" }
 
-# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
-{ "name": "Tamer.exe", "type": "Game" }
-{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
-
 # Tametsi https://store.steampowered.com/app/709920/Tametsi/
 { "name": "tametsi.exe", "type": "Game" }
 
@@ -930,9 +926,6 @@
 # Total War: ATTILA https://store.steampowered.com/app/325610/Total_War_ATTILA/
 { "name": "Attila.exe", "type": "Game" }
 
-# Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
-{ "name": "Empire.exe", "type": "Game" }
-
 # Total War: MEDIEVAL II – Definitive Edition https://store.steampowered.com/app/4700/Total_War_MEDIEVAL_II__Definitive_Edition/
 { "name": "medieval2.exe", "type": "Game" }
 
@@ -1221,6 +1214,9 @@
 # Tribloos 2 https://store.steampowered.com/app/271550/Tribloos_2/
 { "name": "TheTribloos2.exe", "type": "Game" }
 
+# Tricking 0 https://store.steampowered.com/app/1925560/Tricking_0/
+{ "name": "TRICKING_0.exe", "type": "Game" }
+
 # Tricky Doors https://store.steampowered.com/app/2552850/Tricky_Doors/
 { "name": "trickydoors.exe", "type": "Game" }
 { "name": "TrickyDoors.exe", "type": "Game" }
@@ -1263,6 +1259,9 @@
 
 # Trophy Fishing 2 https://store.steampowered.com/app/645260/Trophy_Fishing_2/
 { "name": "Trophy Fishing 2.exe", "type": "Game" }
+
+# Tropical Monster Girls https://store.steampowered.com/app/3060250/
+{ "name": "Tropical.exe", "type": "Game" }
 
 # Tropical Resort Simulator (Paradise Beach Simulator) https://store.steampowered.com/app/2936190/Tropical_Resort_Simulator/
 { "name": "PBS.exe", "type": "Game" }

@@ -138,6 +138,10 @@
 # Higurashi When They Cry Hou - Ch.2 Watanagashi https://store.steampowered.com/app/410890/Higurashi_When_They_Cry_Hou__Ch2_Watanagashi/
 { "name": "HigurashiEp02.x86", "type": "Game" }
 
+# Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi https://store.steampowered.com/app/668350/Higurashi_When_They_Cry_Hou__Ch6_Tsumihoroboshi/
+{ "name": "HigurashiEp06.x86_64", "type": "Game" }
+{ "name": "HigurashiEp06.x86", "type": "Game" }
+
 # HITMAN https://store.steampowered.com/app/236870/HITMAN/
 { "name": "HitmanPro", "type": "Game" }
 
@@ -218,6 +222,9 @@
 # HuniePop https://store.steampowered.com/app/339800/HuniePop/
 { "name": "HuniePop.x86", "type": "Game" }
 { "name": "HuniePop.x86_64", "type": "Game" }
+
+# Hunt and Snare https://store.steampowered.com/app/944330/
+{ "name": "ruffleneck.x64", "type": "Game" }
 
 # HUNTDOWN https://store.steampowered.com/app/598550/HUNTDOWN/
 { "name": "Huntdown.x86_64", "type": "Game" }

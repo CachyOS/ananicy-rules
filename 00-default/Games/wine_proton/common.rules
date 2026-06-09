@@ -71,6 +71,10 @@
 # SaveSync https://store.steampowered.com/app/3832010/SaveSync_Coop_Save_Sharing_Made_Easy/
 { "name": "app.exe", "type": "Game" }
 
+# Arcadegeddon https://store.steampowered.com/app/1515640/Arcadegeddon/
+# An Arcade Full of Cats https://store.steampowered.com/app/2368470/An_Arcade_Full_of_Cats/
+{ "name": "Arcade.exe", "type": "Game" }
+
 # Arma other 2 https://store.steampowered.com/app/33910/ARMA_2/
 # Arma 2 https://store.steampowered.com/app/33900/Arma_2/
 { "name": "arma2.exe", "type": "Game" }
@@ -383,6 +387,10 @@
 # Dishonored RHCP https://store.steampowered.com/app/217980/
 { "name": "Dishonored.exe", "type": "Game" }
 
+# American Conquest - Fight Back https://store.steampowered.com/app/115220/American_Conquest_Fight_Back/
+# Cossacks: European Wars https://store.steampowered.com/app/4880/Cossacks_European_Wars/
+{ "name": "dmcr.exe", "type": "Game" }
+
 # Dog https://store.steampowered.com/app/3076520/Dog/
 # Dog https://store.steampowered.com/app/3069620/Dog/
 { "name": "Dog.exe", "type": "Game" }
@@ -401,6 +409,7 @@
 
 # DOSBox, an x86 emulator with DOS https://www.dosbox.com/
 # Sid Meier's Colonization (Classic) https://store.steampowered.com/app/327400/Sid_Meiers_Colonization_Classic/
+# X-COM: Apocalypse https://store.steampowered.com/app/7660/XCOM_Apocalypse/
 { "name": "dosbox.exe", "type": "Game" }
 
 # DOSBox, an x86 emulator with DOS https://www.dosbox.com/
@@ -505,6 +514,14 @@
 # Football Manager 26 Pre-Game Editor https://store.steampowered.com/app/3551390/
 { "name": "editor.exe", "type": "Game" }
 
+# Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
+# Edna & Harvey: The Breakout - Anniversary Edition https://store.steampowered.com/app/959000/Edna__Harvey_The_Breakout__Anniversary_Edition/
+{ "name": "edna.exe", "type": "Game" }
+
+# Empire of the Ants https://store.steampowered.com/app/2287330/Empire_of_the_Ants/
+# Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
+{ "name": "Empire.exe", "type": "Game" }
+
 # Enderal: Forgotten Stories (Special Edition) https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/
 # Enderal: Forgotten Stories https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/
 { "name": "Enderal Launcher.exe", "type": "Game" }
@@ -515,6 +532,7 @@
 
 # Gotham City Impostors Free to Play https://store.steampowered.com/app/206210/Gotham_City_Impostors_Free_to_Play/
 # COMBAT ARMS: THE CLASSIC https://steamdb.info/app/1263550/
+# CombatArms: Reloaded https://store.steampowered.com/app/905640/Combat_Arms_Reloaded/
 { "name": "Engine.exe", "type": "Game" }
 
 # Divinity: Original Sin - Enhanced Edition https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
@@ -729,6 +747,7 @@
 # Idol Party https://store.steampowered.com/app/2955300/Idol_Party/
 # Call of Girls https://store.steampowered.com/app/4128590/
 # Byakuya Museum https://store.steampowered.com/app/2399910/Byakuya_Museum/
+# Execute https://store.steampowered.com/app/3829620/Execute/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -824,6 +843,7 @@
 # GodsArena Online https://store.steampowered.com/app/3754990/GodsArena_Online/
 # Harem in Another World https://store.steampowered.com/app/2419800/Harem_in_Another_World/
 # Data Hacker: Initiation https://store.steampowered.com/app/311860/Data_Hacker_Initiation/
+# Natsu no Sagashimono ~What We Found That Summer~ https://store.steampowered.com/app/2997980/Natsu_no_Sagashimono_What_We_Found_That_Summer/
 # Fear & Hunger 2: Termina https://store.steampowered.com/app/2171440/
 # Kunugi's Life is a Mess! https://store.steampowered.com/app/4429950/Kunugis_Life_is_a_Mess/
 # The Imperial Gatekeeper https://store.steampowered.com/app/1933650/The_Imperial_Gatekeeper/
@@ -831,11 +851,15 @@
 # Space Pilgrim Episode I: Alpha Centauri https://store.steampowered.com/app/429470/Space_Pilgrim_Episode_I_Alpha_Centauri/
 # Huāhuǒ yǔ yōulíng shàonǚ - Hanabi and Ghost girl 花火与幽灵少女 - Hanabi and Ghost girl https://store.steampowered.com/app/2302540/__Hanabi_and_Ghost_girl/
 # Qī shén nòngguǐ 欺神弄鬼 https://store.steampowered.com/app/2697490/_/
+# Lust Epidemic https://store.steampowered.com/app/1008020/
 # Claire's Quest https://store.steampowered.com/app/1418760/
 # Half-Demon Shinobi https://store.steampowered.com/app/2460070/
 # Pray Game https://store.steampowered.com/app/1551530/Pray_Game/
 # STEINS;GATE: Linear Bounded Phenogram https://store.steampowered.com/app/930910/STEINSGATE_Linear_Bounded_Phenogram/
 # STEINS;GATE: My Darling's Embrace https://store.steampowered.com/app/970560/STEINSGATE_My_Darlings_Embrace/
+# Command & Conquer: Renegade https://store.steampowered.com/app/2229890/Command__Conquer_Renegade/
+# Cultures - Northland https://store.steampowered.com/app/351860/Cultures__Northland/
+# Hello Charlotte https://store.steampowered.com/app/557630/Hello_Charlotte_EP2_Requiem_Aeternam_Deo/
 { "name": "Game.exe", "type": "Game" }
 
 # DRAGON QUEST BUILDERS 2 JUMBO DEMO https://store.steampowered.com/app/1168460/
@@ -997,6 +1021,7 @@
 # Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
 # Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/100/CounterStrike_Condition_Zero/
 # Evoland Legendary Edition https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/
+# Half-Life Legacy https://store.steampowered.com/app/3619040/HalfLife_Legacy/
 { "name": "hl.exe", "type": "Game" }
 
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
@@ -1147,6 +1172,7 @@
 # Grand Fantasia：ORIGIN https://store.steampowered.com/app/3010230/Grand_Fantasia__ORIGIN/
 # Huànxiǎng shényù - yuán shén qǐdòng 幻想神域 - 源神啟動 https://store.steampowered.com/app/3473500/Aura_Kingdom__Impact/
 # Eden Eternal https://store.steampowered.com/app/2229260/Eden_Eternal/
+# Headquarters: World War II https://store.steampowered.com/app/1840800/Headquarters_World_War_II/
 { "name": "Launcher.exe", "type": "Game" }
 
 # 7,62 Hard Life https://store.steampowered.com/app/306290/762_Hard_Life/
@@ -1578,6 +1604,7 @@
 
 # BIOHAZARD RE:2 Z Version https://store.steampowered.com/app/895950/
 # Resident Evil 2 https://store.steampowered.com/app/883710/Resident_Evil_2/
+# Resident Evil 2 "R.P.D. Demo" https://store.steampowered.com/app/1168280/
 { "name": "re2.exe", "type": "Game" }
 
 # REANIMAL https://store.steampowered.com/app/2129530/REANIMAL/
@@ -1911,6 +1938,14 @@
 # TaleSpire https://store.steampowered.com/app/720620/TaleSpire/
 # TaleSpire - Guest Edition https://store.steampowered.com/app/2881860/TaleSpire__Guest_Edition/
 { "name": "TaleSpire.exe", "type": "Game" }
+
+# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
+# Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
+{ "name": "Tamer.exe", "type": "Game" }
+
+# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
+# Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
+{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
 
 # Tour de France 2025 https://store.steampowered.com/app/2511320/Tour_de_France_2025/
 # Tour de France 2024 https://store.steampowered.com/app/2494340/Tour_de_France_2024/
