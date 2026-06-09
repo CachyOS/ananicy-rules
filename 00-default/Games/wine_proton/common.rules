@@ -12,14 +12,6 @@
 # Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
 { "name": "Achilles.exe", "type": "Game" }
 
-# American Conquest - Fight Back https://store.steampowered.com/app/115220/American_Conquest_Fight_Back/
-# Cossacks: European Wars https://store.steampowered.com/app/4880/Cossacks_European_Wars/
-{ "name": "dmcr.exe", "type": "Game" }
-
-# Arcadegeddon https://store.steampowered.com/app/1515640/Arcadegeddon/
-# An Arcade Full of Cats https://store.steampowered.com/app/2368470/An_Arcade_Full_of_Cats/
-{ "name": "Arcade.exe", "type": "Game" }
-
 # Age of Darkness: Final Stand https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/
 # Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
 { "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
@@ -78,6 +70,10 @@
 # AMEDAMA https://store.steampowered.com/app/2411980/AMEDAMA/
 # SaveSync https://store.steampowered.com/app/3832010/SaveSync_Coop_Save_Sharing_Made_Easy/
 { "name": "app.exe", "type": "Game" }
+
+# Arcadegeddon https://store.steampowered.com/app/1515640/Arcadegeddon/
+# An Arcade Full of Cats https://store.steampowered.com/app/2368470/An_Arcade_Full_of_Cats/
+{ "name": "Arcade.exe", "type": "Game" }
 
 # Arma other 2 https://store.steampowered.com/app/33910/ARMA_2/
 # Arma 2 https://store.steampowered.com/app/33900/Arma_2/
@@ -391,17 +387,13 @@
 # Dishonored RHCP https://store.steampowered.com/app/217980/
 { "name": "Dishonored.exe", "type": "Game" }
 
-# Empire of the Ants https://store.steampowered.com/app/2287330/Empire_of_the_Ants/
-# Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
-{ "name": "Empire.exe", "type": "Game" }
+# American Conquest - Fight Back https://store.steampowered.com/app/115220/American_Conquest_Fight_Back/
+# Cossacks: European Wars https://store.steampowered.com/app/4880/Cossacks_European_Wars/
+{ "name": "dmcr.exe", "type": "Game" }
 
 # Dog https://store.steampowered.com/app/3076520/Dog/
 # Dog https://store.steampowered.com/app/3069620/Dog/
 { "name": "Dog.exe", "type": "Game" }
-
-# Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
-# Edna & Harvey: The Breakout - Anniversary Edition https://store.steampowered.com/app/959000/Edna__Harvey_The_Breakout__Anniversary_Edition/
-{ "name": "edna.exe", "type": "Game" }
 
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
@@ -521,6 +513,14 @@
 # Football Manager 2024 Editor https://store.steampowered.com/app/2252590/
 # Football Manager 26 Pre-Game Editor https://store.steampowered.com/app/3551390/
 { "name": "editor.exe", "type": "Game" }
+
+# Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
+# Edna & Harvey: The Breakout - Anniversary Edition https://store.steampowered.com/app/959000/Edna__Harvey_The_Breakout__Anniversary_Edition/
+{ "name": "edna.exe", "type": "Game" }
+
+# Empire of the Ants https://store.steampowered.com/app/2287330/Empire_of_the_Ants/
+# Total War: EMPIRE – Definitive Edition https://store.steampowered.com/app/10500/Total_War_EMPIRE__Definitive_Edition/
+{ "name": "Empire.exe", "type": "Game" }
 
 # Enderal: Forgotten Stories (Special Edition) https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/
 # Enderal: Forgotten Stories https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/
@@ -1590,14 +1590,6 @@
 # Ragnarok X: Next Generation (otherversion) https://store.steampowered.com/app/4007140/
 { "name": "Ragnarok X.exe", "type": "Game" }
 
-# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
-# Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
-{ "name": "Tamer.exe", "type": "Game" }
-
-# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
-# Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
-{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
-
 # Tom Clancy's Rainbow Six Siege - Test Server https://store.steampowered.com/app/623990/
 # Tom Clancy's Rainbow Six Siege https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
 { "name": "RainbowSix_BE.exe", "type": "Game" }
@@ -1946,6 +1938,14 @@
 # TaleSpire https://store.steampowered.com/app/720620/TaleSpire/
 # TaleSpire - Guest Edition https://store.steampowered.com/app/2881860/TaleSpire__Guest_Edition/
 { "name": "TaleSpire.exe", "type": "Game" }
+
+# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
+# Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
+{ "name": "Tamer.exe", "type": "Game" }
+
+# Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
+# Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
+{ "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
 
 # Tour de France 2025 https://store.steampowered.com/app/2511320/Tour_de_France_2025/
 # Tour de France 2024 https://store.steampowered.com/app/2494340/Tour_de_France_2024/

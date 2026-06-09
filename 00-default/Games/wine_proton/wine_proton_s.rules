@@ -444,6 +444,10 @@
 # SEDAP! A Culinary Adventure https://store.steampowered.com/app/2650730/SEDAP_A_Culinary_Adventure/
 { "name": "SEDAP! A Culinary Adventure.exe", "type": "Game" }
 
+# Seed of the Dead: Sweet Home https://store.steampowered.com/app/1566390/Seed_of_the_Dead_Sweet_Home/
+{ "name": "SoD_SH.exe", "type": "Game" }
+{ "name": "SoD2-Win64-Shipping.exe", "type": "Game" }
+
 # Seeds of Calamity https://store.steampowered.com/app/1780070/Seeds_of_Calamity/
 { "name": "Seeds_of_Calamity_Steam.exe", "type": "Game" }
 
@@ -468,6 +472,9 @@
 
 # Sekiro: Shadows Die Twice - GOTY Edition https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/
 { "name": "sekiro.exe", "type": "Game" }
+
+# Sektori https://store.steampowered.com/app/2105620/Sektori/
+{ "name": "Sektori.exe", "type": "Game" }
 
 # Selaco https://store.steampowered.com/app/1592280/Selaco/
 { "name": "SELACO.exe", "type": "Game" }
@@ -587,6 +594,10 @@
 # Severed Steel https://store.steampowered.com/app/1227690/Severed_Steel/
 { "name": "SeveredSteel.exe", "type": "Game" }
 
+# Sexbot https://store.steampowered.com/app/2178930/
+{ "name": "SexBot.exe", "type": "Game" }
+{ "name": "SexBot-32.exe", "type": "Game" }
+
 # Sex Chess https://store.steampowered.com/app/1948450/Sex_Chess/
 { "name": "BattleChess-Win64-Shipping.exe", "type": "Game" }
 { "name": "BattleChess.exe", "type": "Game" }
@@ -658,6 +669,9 @@
 # Shadows of Doubt https://store.steampowered.com/app/986130/Shadows_of_Doubt/
 { "name": "Shadows of Doubt.exe", "type": "Game" }
 
+# Shadows of Forbidden Gods https://store.steampowered.com/app/1741640/Shadows_of_Forbidden_Gods/
+{ "name": "ShadowsOfForbiddenGods.exe", "type": "Game" }
+
 # Shadows Over Loathing https://store.steampowered.com/app/1939160/Shadows_Over_Loathing/
 { "name": "Shadows Over Loathing.exe", "type": "Game" }
 
@@ -693,54 +707,6 @@
 # Shank 2 https://store.steampowered.com/app/102840/Shank_2/
 { "name": "shank2.exe", "type": "Game" }
 
-# Seed of the Dead: Sweet Home https://store.steampowered.com/app/1566390/Seed_of_the_Dead_Sweet_Home/
-{ "name": "SoD_SH.exe", "type": "Game" }
-{ "name": "SoD2-Win64-Shipping.exe", "type": "Game" }
-
-# Sektori https://store.steampowered.com/app/2105620/Sektori/
-{ "name": "Sektori.exe", "type": "Game" }
-
-# Sexbot https://store.steampowered.com/app/2178930/
-{ "name": "SexBot.exe", "type": "Game" }
-{ "name": "SexBot-32.exe", "type": "Game" }
-
-# Shadows of Forbidden Gods https://store.steampowered.com/app/1741640/Shadows_of_Forbidden_Gods/
-{ "name": "ShadowsOfForbiddenGods.exe", "type": "Game" }
-
-# Shards Of Solitude https://store.steampowered.com/app/4256690/Shards_Of_Solitude/
-{ "name": "Sos.exe", "type": "Game" }
-{ "name": "Project_Exorcism-Win64-Shipping.exe", "type": "Game" }
-
-# Slappyball https://store.steampowered.com/app/1482620/Slappyball/
-{ "name": "Smackball.exe", "type": "Game" }
-{ "name": "Smackball-Win64-Shipping.exe", "type": "Game" }
-
-# Slime 3K: Rise Against Despot https://store.steampowered.com/app/2348610/Slime_3K_Rise_Against_Despot/
-{ "name": "Slime3k.exe", "type": "Game" }
-
-# Song of Farca https://store.steampowered.com/app/1435670/Song_of_Farca/
-{ "name": "Song of Farca.exe", "type": "Game" }
-
-# Sorry We're Closed https://store.steampowered.com/app/1796580/Sorry_Were_Closed/
-{ "name": "Sorry We're Closed.exe", "type": "Game" }
-
-# Spirit Valley https://store.steampowered.com/app/2649480/
-{ "name": "SpiritValley.exe", "type": "Game" }
-
-# Starship Troopers: Ultimate Bug War! https://store.steampowered.com/app/2321780/Starship_Troopers_Ultimate_Bug_War/
-{ "name": "StarshipTroopers_UBW.exe", "type": "Game" }
-{ "name": "StarshipTroopers_UBW-Win64-Shipping.exe", "type": "Game" }
-
-# Static Dread: The Lighthouse https://store.steampowered.com/app/3298940/Static_Dread_The_Lighthouse/
-{ "name": "Static Dread.exe", "type": "Game" }
-
-# Super Woden: Rally Edge https://store.steampowered.com/app/3218630/Super_Woden_Rally_Edge/
-{ "name": "Super Woden Rally Edge.exe", "type": "Game" }
-
-# SWINE HD Remaster https://store.steampowered.com/app/944010/SWINE_HD_Remaster/
-{ "name": "swineHD.exe", "type": "Game" }
-{ "name": "swine.exe", "type": "Game" }
-
 # Shantae: Half-Genie Hero https://store.steampowered.com/app/253840/Shantae_HalfGenie_Hero/
 { "name": "ShantaeHero.exe", "type": "Game" }
 { "name": "ShantaeHero64.exe", "type": "Game" }
@@ -760,6 +726,10 @@
 
 # shapez https://store.steampowered.com/app/1318690/shapez/
 { "name": "shapezio.exe", "type": "Game" }
+
+# Shards Of Solitude https://store.steampowered.com/app/4256690/Shards_Of_Solitude/
+{ "name": "Sos.exe", "type": "Game" }
+{ "name": "Project_Exorcism-Win64-Shipping.exe", "type": "Game" }
 
 # Shard Squad https://store.steampowered.com/app/3363560/Shard_Squad/
 { "name": "Shard Squad.exe", "type": "Game" }
@@ -1234,6 +1204,10 @@
 # Slap 'em UP! https://store.steampowered.com/app/3703520/Slap_em_UP/
 { "name": "Slap 'em Up!.exe", "type": "Game" }
 
+# Slappyball https://store.steampowered.com/app/1482620/Slappyball/
+{ "name": "Smackball.exe", "type": "Game" }
+{ "name": "Smackball-Win64-Shipping.exe", "type": "Game" }
+
 # Slapshot: Rebound https://store.steampowered.com/app/1173370/Slapshot_Rebound/
 { "name": "Slapshot.exe", "type": "Game" }
 
@@ -1271,6 +1245,9 @@
 
 # Slice & Dice https://store.steampowered.com/app/1775490/Slice__Dice/
 { "name": "SliceAndDice.exe", "type": "Game" }
+
+# Slime 3K: Rise Against Despot https://store.steampowered.com/app/2348610/Slime_3K_Rise_Against_Despot/
+{ "name": "Slime3k.exe", "type": "Game" }
 
 # Slime Rancher https://store.steampowered.com/app/433340/Slime_Rancher/
 { "name": "SlimeRancher.exe", "type": "Game" }
@@ -1500,6 +1477,9 @@
 { "name": "Soma.exe", "type": "Game" }
 { "name": "Soma_NoSteam.exe", "type": "Game" }
 
+# Song of Farca https://store.steampowered.com/app/1435670/Song_of_Farca/
+{ "name": "Song of Farca.exe", "type": "Game" }
+
 # SONG OF HORROR COMPLETE EDITION https://store.steampowered.com/app/1096570/SONG_OF_HORROR_COMPLETE_EDITION/
 { "name": "SongOfHorror.exe", "type": "Game" }
 { "name": "SongOfHorror-Win64-Shipping.exe", "type": "Game" }
@@ -1581,6 +1561,9 @@
 
 # Sophie: The Girl From The Zone https://store.steampowered.com/app/3224840/
 { "name": "SophieTheGirlFromTheZone.exe", "type": "Game" }
+
+# Sorry We're Closed https://store.steampowered.com/app/1796580/Sorry_Were_Closed/
+{ "name": "Sorry We're Closed.exe", "type": "Game" }
 
 # SOS OPS! https://store.steampowered.com/app/2475460/SOS_OPS/
 { "name": "SOS OPS.exe", "type": "Game" }
@@ -1845,6 +1828,9 @@
 # SpiritVale Playtest https://store.steampowered.com/app/3918510/SpiritVale/
 { "name": "SpiritVale.exe", "type": "Game" }
 
+# Spirit Valley https://store.steampowered.com/app/2649480/
+{ "name": "SpiritValley.exe", "type": "Game" }
+
 # SPITE: Taking the Boss's Wife, Sister and Mother https://store.steampowered.com/app/4242290/
 { "name": "spite.exe", "type": "Game" }
 
@@ -2090,6 +2076,10 @@
 # Starship Troopers: Terran Command https://store.steampowered.com/app/1202130/Starship_Troopers_Terran_Command/
 { "name": "Starship Troopers.exe", "type": "Game" }
 
+# Starship Troopers: Ultimate Bug War! https://store.steampowered.com/app/2321780/Starship_Troopers_Ultimate_Bug_War/
+{ "name": "StarshipTroopers_UBW.exe", "type": "Game" }
+{ "name": "StarshipTroopers_UBW-Win64-Shipping.exe", "type": "Game" }
+
 # Stars in Shadow https://store.steampowered.com/app/464880/Stars_in_Shadow/
 { "name": "sis64.exe", "type": "Game" }
 { "name": "sis.exe", "type": "Game" }
@@ -2222,6 +2212,9 @@
 # State of War : Warmonger / 蓝色警戒 (Classic 2000) https://store.steampowered.com/app/748040/State_of_War__Warmonger___Classic_2000/
 { "name": "State of War.exe", "type": "Game" }
 { "name": "State of War Warmonger.exe", "type": "Game" }
+
+# Static Dread: The Lighthouse https://store.steampowered.com/app/3298940/Static_Dread_The_Lighthouse/
+{ "name": "Static Dread.exe", "type": "Game" }
 
 # Stationeers https://store.steampowered.com/app/544550/Stationeers/
 { "name": "rocketstation.exe", "type": "Game" }
@@ -2826,6 +2819,9 @@
 # Super Sus https://store.steampowered.com/app/2920270/Super_Sus/
 { "name": "Super Sus.exe", "type": "Game" }
 
+# Super Woden: Rally Edge https://store.steampowered.com/app/3218630/Super_Woden_Rally_Edge/
+{ "name": "Super Woden Rally Edge.exe", "type": "Game" }
+
 # Supraland https://store.steampowered.com/app/813630/Supraland/
 { "name": "Supraland.exe", "type": "Game" }
 { "name": "Supraland-Win64-Shipping.exe", "type": "Game" }
@@ -2914,6 +2910,10 @@
 
 # Sweet Transit https://store.steampowered.com/app/1612770/Sweet_Transit/
 { "name": "Sweet Transit.exe", "type": "Game" }
+
+# SWINE HD Remaster https://store.steampowered.com/app/944010/SWINE_HD_Remaster/
+{ "name": "swineHD.exe", "type": "Game" }
+{ "name": "swine.exe", "type": "Game" }
 
 # Sword and Fairy https://store.steampowered.com/app/1546570/Sword_and_Fairy/
 { "name": "PalWorks.exe", "type": "Game" }

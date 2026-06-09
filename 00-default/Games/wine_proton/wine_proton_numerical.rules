@@ -41,6 +41,9 @@
 # 1492: A New World https://store.steampowered.com/app/3861100/
 { "name": "1492.exe", "type": "Game" }
 
+# 1666: Amsterdam (Prologue) https://store.steampowered.com/app/4519690/1666_Amsterdam_Prologue/
+{ "name": "1666Amsterdam.exe", "type": "Game" }
+
 # 171 https://store.steampowered.com/app/1269370/171/
 { "name": "BGG.exe", "type": "Game" }
 { "name": "BGG-Win64-Shipping.exe", "type": "Game" }
@@ -73,9 +76,6 @@
 # 30XX https://store.steampowered.com/app/1029210/30XX/
 { "name": "30XX.exe", "type": "Game" }
 { "name": "Editor30XX.exe", "type": "Game" }
-
-# 1666: Amsterdam (Prologue) https://store.steampowered.com/app/4519690/1666_Amsterdam_Prologue/
-{ "name": "1666Amsterdam.exe", "type": "Game" }
 
 # 33 Immortals Demo https://store.steampowered.com/app/4191960/33_Immortals_Demo/
 { "name": "33Immortals.exe", "type": "Game" }

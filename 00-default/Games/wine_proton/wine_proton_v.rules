@@ -77,10 +77,6 @@
 # Vampire: The Masquerade - Coteries of New York https://store.steampowered.com/app/1096410/Vampire_The_Masquerade__Coteries_of_New_York/
 { "name": "VtM Coteries of New York.exe", "type": "Game" }
 
-# VLADiK BRUTAL https://store.steampowered.com/app/1316680/VLADiK_BRUTAL/
-{ "name": "VLADiK_BRUTAL.exe", "type": "Game" }
-{ "name": "VLADiK_BRUTAL-Win64-Shipping.exe", "type": "Game" }
-
 # Vampire: The Masquerade – Swansong https://store.steampowered.com/app/1299510/Vampire_The_Masquerade__Swansong/
 { "name": "Swansong.exe", "type": "Game" }
 { "name": "Swansong-Win64-Shipping.exe", "type": "Game" }
@@ -255,6 +251,10 @@
 
 # vivid/stasis https://store.steampowered.com/app/2093940/vividstasis/
 { "name": "VIVIDSTASIS.exe", "type": "Game" }
+
+# VLADiK BRUTAL https://store.steampowered.com/app/1316680/VLADiK_BRUTAL/
+{ "name": "VLADiK_BRUTAL.exe", "type": "Game" }
+{ "name": "VLADiK_BRUTAL-Win64-Shipping.exe", "type": "Game" }
 
 # V-LOVER! https://store.steampowered.com/app/3044740/
 { "name": "V-Lover.exe", "type": "Game" }

@@ -125,6 +125,9 @@
 # SEUM: Speedrunners from Hell https://store.steampowered.com/app/457210/SEUM_Speedrunners_from_Hell/
 { "name": "Seum", "type": "Game" }
 
+# Sexbot https://store.steampowered.com/app/2178930/
+{ "name": "SexBot", "type": "Game" }
+
 # Shadowgate https://store.steampowered.com/app/294440/Shadowgate/
 { "name": "Shadowgate.x86", "type": "Game" }
 
@@ -157,15 +160,6 @@
 
 # shapez https://store.steampowered.com/app/1318690/shapez/
 { "name": "shapezio", "type": "Game" }
-
-# Sexbot https://store.steampowered.com/app/2178930/
-{ "name": "SexBot", "type": "Game" }
-
-# Slime 3K: Rise Against Despot https://store.steampowered.com/app/2348610/Slime_3K_Rise_Against_Despot/
-{ "name": "Slime3k.x86_64", "type": "Game" }
-
-# Song of Farca https://store.steampowered.com/app/1435670/Song_of_Farca/
-{ "name": "Song of Farca", "type": "Game" }
 
 # Shatter https://store.steampowered.com/app/20820/Shatter/
 { "name": "Shatter.bin.x86", "type": "Game" }
@@ -305,6 +299,9 @@
 # Slice & Dice https://store.steampowered.com/app/1775490/Slice__Dice/
 { "name": "SliceAndDice", "type": "Game" }
 
+# Slime 3K: Rise Against Despot https://store.steampowered.com/app/2348610/Slime_3K_Rise_Against_Despot/
+{ "name": "Slime3k.x86_64", "type": "Game" }
+
 # Slime Rancher https://store.steampowered.com/app/433340/Slime_Rancher/
 { "name": "SlimeRancher.x86", "type": "Game" }
 { "name": "SlimeRancher.x86_64", "type": "Game" }
@@ -348,6 +345,9 @@
 # SOMA https://store.steampowered.com/app/282140/SOMA/
 { "name": "Soma_NoSteam.bin.x86_64", "type": "Game" }
 { "name": "Soma.bin.x86_64", "type": "Game" }
+
+# Song of Farca https://store.steampowered.com/app/1435670/Song_of_Farca/
+{ "name": "Song of Farca", "type": "Game" }
 
 # Songs for a Hero - Definitive Edition https://store.steampowered.com/app/389170/Songs_for_a_Hero__Definitive_Edition/
 { "name": "DumaLegend.bin.x86_64", "type": "Game" }

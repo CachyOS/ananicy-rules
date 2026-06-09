@@ -723,9 +723,6 @@
 { "name": "PlayStationVR2App.exe", "type": "Game" }
 { "name": "PlayAreaSetup-Win64-Shipping.exe", "type": "Game" }
 
-# Project Torque https://store.steampowered.com/app/1112400/Project_Torque__Free_2_Play_MMO_Racing_Game/
-{ "name": "ProjectTorque.exe", "type": "Game" }
-
 # Play Together https://store.steampowered.com/app/3198850/Play_Together/
 { "name": "PlayTogether.exe", "type": "Game" }
 
@@ -1129,6 +1126,9 @@
 # Project Silverfish https://store.steampowered.com/app/2941710/Project_Silverfish/
 { "name": "SilverFish.exe", "type": "Game" }
 { "name": "SilverFish-Win64-Shipping.exe", "type": "Game" }
+
+# Project Torque https://store.steampowered.com/app/1112400/Project_Torque__Free_2_Play_MMO_Racing_Game/
+{ "name": "ProjectTorque.exe", "type": "Game" }
 
 # Project Unknown https://store.steampowered.com/app/2115390/Project_Unknown/
 { "name": "ProjectUnknown.exe", "type": "Game" }

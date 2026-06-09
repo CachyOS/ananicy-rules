@@ -251,36 +251,6 @@
 { "name": "CarDealerSimulator.exe", "type": "Game"}
 { "name": "CarDealerSimulator-Win64-Shipping.exe", "type": "Game"}
 
-# Castle Clicker https://store.steampowered.com/app/704040/Castle_Clicker__Idle_City_Tycoon/
-{ "name": "CastleClicker.exe", "type": "Game" }
-
-# Chasing Sunsets https://store.steampowered.com/app/1783110/
-{ "name": "CS.exe", "type": "Game" }
-
-# Chef Knight https://store.steampowered.com/app/4304930/Chef_Knight/
-{ "name": "Chef Knight.exe", "type": "Game" }
-
-# Chess Ultra https://store.steampowered.com/app/518060/Chess_Ultra/
-{ "name": "Chess2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Chess2-Win32-Shipping.exe", "type": "Game" }
-{ "name": "Chess2.exe", "type": "Game" }
-
-# Chinese Frontiers https://store.steampowered.com/app/1640820/Chinese_Frontiers/
-{ "name": "ChineseFrontiers.exe", "type": "Game" }
-{ "name": "ChineseFrontiers-Win64-Shipping.exe", "type": "Game" }
-
-# CombatArms: Reloaded https://store.steampowered.com/app/905640/Combat_Arms_Reloaded/
-{ "name": "Engine_Launcher.exe", "type": "Game" }
-{ "name": "VLauncher.exe", "type": "Game" }
-{ "name": "CombatArms.exe", "type": "Game" }
-{ "name": "CombatArmsLauncher.exe", "type": "Game" }
-
-# Command & Conquer: Renegade https://store.steampowered.com/app/2229890/Command__Conquer_Renegade/
-{ "name": "Renegade.exe", "type": "Game" }
-
-# Cultures - Northland https://store.steampowered.com/app/351860/Cultures__Northland/
-{ "name": "GameMp.exe", "type": "Game" }
-
 # Car Detailing Simulator https://store.steampowered.com/app/1433570/Car_Detailing_Simulator/
 { "name": "Car Detailing Simulator.exe", "type": "Game" }
 
@@ -402,6 +372,9 @@
 
 # Caster https://store.steampowered.com/app/29800/Caster/
 { "name": "Caster.exe", "type": "Game" }
+
+# Castle Clicker https://store.steampowered.com/app/704040/Castle_Clicker__Idle_City_Tycoon/
+{ "name": "CastleClicker.exe", "type": "Game" }
 
 # Castle Crashers https://store.steampowered.com/app/204360/Castle_Crashers/
 { "name": "castle.exe", "type": "Game"}
@@ -590,6 +563,9 @@
 # Chaser https://store.steampowered.com/app/39670/Chaser/
 { "name": "Chaser.exe", "type": "Game" }
 
+# Chasing Sunsets https://store.steampowered.com/app/1783110/
+{ "name": "CS.exe", "type": "Game" }
+
 # Chasing Tails ~A Promise in the Snow~ https://store.steampowered.com/app/1555110/Chasing_Tails_A_Promise_in_the_Snow/
 { "name": "ChasingTails.exe", "type": "Game" }
 
@@ -607,6 +583,9 @@
 
 # Cheese Rolling https://store.steampowered.com/app/3809440/Cheese_Rolling/
 { "name": "CheeseRolling.exe", "type": "Game" }
+
+# Chef Knight https://store.steampowered.com/app/4304930/Chef_Knight/
+{ "name": "Chef Knight.exe", "type": "Game" }
 
 # Chef Life: A Restaurant Simulator https://store.steampowered.com/app/1122340/Chef_Life_A_Restaurant_Simulator/
 { "name": "Chef Life  A Restaurant Simulator.exe", "type": "Game"}
@@ -627,6 +606,11 @@
 
 # Chess Evolved Online https://store.steampowered.com/app/1064340/Chess_Evolved_Online/
 { "name": "CEO.exe", "type": "Game" }
+
+# Chess Ultra https://store.steampowered.com/app/518060/Chess_Ultra/
+{ "name": "Chess2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Chess2-Win32-Shipping.exe", "type": "Game" }
+{ "name": "Chess2.exe", "type": "Game" }
 
 # Chicken https://store.steampowered.com/app/3099520/Chicken/
 { "name": "ChickenClicker.exe", "type": "Game" }
@@ -657,6 +641,10 @@
 
 # Chill with You : Lo-Fi Story https://store.steampowered.com/app/3548580/Chill_with_You__LoFi_Story/
 { "name": "Chill With You.exe", "type": "Game"}
+
+# Chinese Frontiers https://store.steampowered.com/app/1640820/Chinese_Frontiers/
+{ "name": "ChineseFrontiers.exe", "type": "Game" }
+{ "name": "ChineseFrontiers-Win64-Shipping.exe", "type": "Game" }
 
 # Chinese Online Game https://store.steampowered.com/app/1416920/Chinese_Online_Game/
 { "name": "MMOSimulator.exe", "type": "Game" }
@@ -1035,6 +1023,12 @@
 # Colt Canyon https://store.steampowered.com/app/940710/Colt_Canyon/
 { "name": "ColtCanyon.exe", "type": "Game" }
 
+# CombatArms: Reloaded https://store.steampowered.com/app/905640/Combat_Arms_Reloaded/
+{ "name": "Engine_Launcher.exe", "type": "Game" }
+{ "name": "VLauncher.exe", "type": "Game" }
+{ "name": "CombatArms.exe", "type": "Game" }
+{ "name": "CombatArmsLauncher.exe", "type": "Game" }
+
 # COMBAT ARMS: THE CLASSIC https://steamdb.info/app/1263550/
 { "name": "Engine_BE.exe", "type": "Game" }
 { "name": "Engine2.exe", "type": "Game" }
@@ -1088,6 +1082,9 @@
 
 # Command & Conquer Remastered Collection https://store.steampowered.com/app/1213210/Command__Conquer_Remastered_Collection/
 { "name": "ClientG.exe", "type": "Game" }
+
+# Command & Conquer: Renegade https://store.steampowered.com/app/2229890/Command__Conquer_Renegade/
+{ "name": "Renegade.exe", "type": "Game" }
 
 # Command & Conquer Tiberian Sun and Firestorm https://store.steampowered.com/app/2229880/
 { "name": "SUN.EXE", "type": "Game" }
@@ -1665,6 +1662,9 @@
 
 # Cult of the Lamb https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/
 { "name": "Cult Of The Lamb.exe", "type": "Game" }
+
+# Cultures - Northland https://store.steampowered.com/app/351860/Cultures__Northland/
+{ "name": "GameMp.exe", "type": "Game" }
 
 # Cuphead https://store.steampowered.com/app/268910/Cuphead/
 { "name": "Cuphead.exe", "type": "Game" }

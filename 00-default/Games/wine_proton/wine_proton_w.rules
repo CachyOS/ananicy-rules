@@ -371,6 +371,9 @@
 { "name": "WOTH2.exe", "type": "Game" }
 { "name": "WOTH2-Win64-Shipping.exe", "type": "Game" }
 
+# Way of the Samurai 3 https://store.steampowered.com/app/427510/Way_of_the_Samurai_3/
+{ "name": "WayOfTheSamurai3.exe", "type": "Game" }
+
 # Way of the Samurai 4 https://store.steampowered.com/app/312780/Way_of_the_Samurai_4/
 { "name": "WayOfTheSamurai4.exe", "type": "Game" }
 
@@ -673,6 +676,9 @@
 # WITCH ON THE HOLY NIGHT https://store.steampowered.com/app/2052410/WITCH_ON_THE_HOLY_NIGHT/
 { "name": "WoH.exe", "type": "Game" }
 
+# Witch's Apocalyptic Journey https://store.steampowered.com/app/3709430/Witchs_Apocalyptic_Journey/
+{ "name": "Witch's Apocalyptic Journey.exe", "type": "Game" }
+
 # WitchSpring R - The Story of Pieberry https://store.steampowered.com/app/1958220/WitchSpring_R/
 { "name": "WitchSpringR.exe", "type": "Game" }
 
@@ -681,22 +687,6 @@
 
 # Without Within https://store.steampowered.com/app/345650/Without_Within/
 { "name": "without_within.exe", "type": "Game" }
-
-# Way of the Samurai 3 https://store.steampowered.com/app/427510/Way_of_the_Samurai_3/
-{ "name": "WayOfTheSamurai3.exe", "type": "Game" }
-
-# Witch's Apocalyptic Journey https://store.steampowered.com/app/3709430/Witchs_Apocalyptic_Journey/
-{ "name": "Witch's Apocalyptic Journey.exe", "type": "Game" }
-
-# WooLoop https://store.steampowered.com/app/1878910/WooLoop/
-{ "name": "WooLoop.exe", "type": "Game" }
-
-# Wrench https://store.steampowered.com/app/936720/Wrench/
-{ "name": "WrenchGame.exe", "type": "Game" }
-{ "name": "WrenchGame-Win64-Shipping.exe", "type": "Game" }
-
-# Wytchwood https://store.steampowered.com/app/729000/Wytchwood/
-{ "name": "Wytchwood.exe", "type": "Game" }
 
 # Wizard101 https://store.steampowered.com/app/799960/Wizard101/
 { "name": "Wizard101.exe", "type": "Game" }
@@ -785,6 +775,9 @@
 # Woolfe - The Red Hood Diaries https://store.steampowered.com/app/281940/Woolfe__The_Red_Hood_Diaries/
 { "name": "WoolfeLauncher.exe", "type": "BG_CPUIO" }
 { "name": "WoolfeGame.exe", "type": "Game" }
+
+# WooLoop https://store.steampowered.com/app/1878910/WooLoop/
+{ "name": "WooLoop.exe", "type": "Game" }
 
 # Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
 { "name": "wordle3.exe", "type": "Game" }
@@ -957,6 +950,10 @@
 { "name": "WreckRunners.exe", "type": "Game" }
 { "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
 
+# Wrench https://store.steampowered.com/app/936720/Wrench/
+{ "name": "WrenchGame.exe", "type": "Game" }
+{ "name": "WrenchGame-Win64-Shipping.exe", "type": "Game" }
+
 # Wrestling Empire https://store.steampowered.com/app/1620340/Wrestling_Empire/
 { "name": "WrestlingEmpireModLauncher.exe", "type": "Game" }
 { "name": "Wrestling Empire.exe", "type": "Game" }
@@ -1027,3 +1024,6 @@
 
 # Wyldheart Beta https://store.steampowered.com/app/3643050/Wyldheart/
 { "name": "UnrealGameSteam.exe", "type": "Game" }
+
+# Wytchwood https://store.steampowered.com/app/729000/Wytchwood/
+{ "name": "Wytchwood.exe", "type": "Game" }

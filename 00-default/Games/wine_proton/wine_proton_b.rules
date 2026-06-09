@@ -361,6 +361,9 @@
 # Bayonetta https://store.steampowered.com/app/460790/Bayonetta/
 { "name": "Bayonetta.exe", "type": "Game" }
 
+# Beach Buggy Racing 2 https://store.steampowered.com/app/1230800/Beach_Buggy_Racing_2_Island_Adventure/
+{ "name": "Game_x64.exe", "type": "Game" }
+
 # BEACHED https://store.steampowered.com/app/1412190/BEACHED/
 { "name": "Beached.exe", "type": "Game" }
 { "name": "Beached-Win64-Test.exe", "type": "Game" }
@@ -432,6 +435,9 @@
 # Beholder 2 https://store.steampowered.com/app/761620/Beholder_2/
 { "name": "Beholder2.exe", "type": "Game" }
 
+# Beholder 3 https://store.steampowered.com/app/1570070/Beholder_3/
+{ "name": "Beholder3.exe", "type": "Game" }
+
 # Beholder: Conductor https://store.steampowered.com/app/2825530/Beholder_Conductor/
 { "name": "BeholderConductor.exe", "type": "Game" }
 
@@ -492,34 +498,11 @@
 # Besiege https://store.steampowered.com/app/346010/Besiege/
 { "name": "Besiege.exe", "type": "Game" }
 
-# Betrayer https://store.steampowered.com/app/243120/Betrayer/
-{ "name": "Betrayer.exe", "type": "Game" }
-
-# Beach Buggy Racing 2 https://store.steampowered.com/app/1230800/Beach_Buggy_Racing_2_Island_Adventure/
-{ "name": "Game_x64.exe", "type": "Game" }
-
-# Beholder 3 https://store.steampowered.com/app/1570070/Beholder_3/
-{ "name": "Beholder3.exe", "type": "Game" }
-
 # Best Served Cold https://store.steampowered.com/app/3218530/Best_Served_Cold/
 { "name": "BestServedCold.exe", "type": "Game" }
 
-# Bioprototype https://store.steampowered.com/app/3689520/Bioprototype/
-{ "name": "Bioprototype.exe", "type": "Game" }
-
-# Blair Witch https://store.steampowered.com/app/1092660/
-{ "name": "Blairwitch.exe", "type": "Game" }
-{ "name": "Blairwitch-Win64-Shipping-Win7.exe", "type": "Game" }
-{ "name": "Blairwitch-Win64-Shipping.exe", "type": "Game" }
-
-# Blood: Refreshed Supply https://store.steampowered.com/app/3884520/
-{ "name": "anuket_Shipping_Playfab_Steam_x64.exe", "type": "Game" }
-{ "name": "BloodRefreshedSupply.exe", "type": "Game" }
-{ "name": "dosbox-staging.exe", "type": "Game" }
-
-# Brickadia https://store.steampowered.com/app/2199420/Brickadia/
-{ "name": "BrickadiaSteam-Win64-Shipping.exe", "type": "Game" }
-{ "name": "BrickadiaSteam-Win64-Test.exe", "type": "Game" }
+# Betrayer https://store.steampowered.com/app/243120/Betrayer/
+{ "name": "Betrayer.exe", "type": "Game" }
 
 # Better Mart https://store.steampowered.com/app/3498270/Better_Mart_Simulator/
 { "name": "BetterMart.exe", "type": "Game" }
@@ -600,6 +583,9 @@
 
 # Bionic Commando: Rearmed https://store.steampowered.com/app/21680/Bionic_Commando_Rearmed/
 { "name": "bcr.exe", "type": "Game" }
+
+# Bioprototype https://store.steampowered.com/app/3689520/Bioprototype/
+{ "name": "Bioprototype.exe", "type": "Game" }
 
 # BioShock https://store.steampowered.com/app/7670/BioShock/
 { "name": "Bioshock.exe", "type": "Game" }
@@ -764,6 +750,11 @@
 # Blade Symphony https://store.steampowered.com/app/225600/Blade_Symphony/
 { "name": "berimbau.exe", "type": "Game" }
 
+# Blair Witch https://store.steampowered.com/app/1092660/
+{ "name": "Blairwitch.exe", "type": "Game" }
+{ "name": "Blairwitch-Win64-Shipping-Win7.exe", "type": "Game" }
+{ "name": "Blairwitch-Win64-Shipping.exe", "type": "Game" }
+
 # Blasphemous https://store.steampowered.com/app/774361/Blasphemous/
 { "name": "Blasphemous.exe", "type": "Game" }
 
@@ -886,6 +877,11 @@
 
 # BloodRayne: Terminal Cut https://store.steampowered.com/app/1373510/BloodRayne_Terminal_Cut/
 { "name": "rayne1.exe", "type": "Game" }
+
+# Blood: Refreshed Supply https://store.steampowered.com/app/3884520/
+{ "name": "anuket_Shipping_Playfab_Steam_x64.exe", "type": "Game" }
+{ "name": "BloodRefreshedSupply.exe", "type": "Game" }
+{ "name": "dosbox-staging.exe", "type": "Game" }
 
 # Blood rush https://store.steampowered.com/app/2435870/Blood_Rush/
 { "name": "BloodRush-Win64-Shipping.exe", "type": "Game" }
@@ -1173,6 +1169,10 @@
 
 # Breeze of Passion https://store.steampowered.com/app/2409780/
 { "name": "BreezeOfPassion.exe", "type": "Game" }
+
+# Brickadia https://store.steampowered.com/app/2199420/Brickadia/
+{ "name": "BrickadiaSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "BrickadiaSteam-Win64-Test.exe", "type": "Game" }
 
 # Brick Breaker https://store.steampowered.com/app/539290/Brick_Breaker/
 { "name": "BrickBreaker.exe", "type": "Game" }

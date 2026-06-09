@@ -333,6 +333,9 @@
 # Refence https://store.steampowered.com/app/3427090/Refence/
 { "name": "Refence.exe", "type": "Game" }
 
+# Refunct https://store.steampowered.com/app/406150/Refunct/
+{ "name": "Refunct-Win32-Shipping.exe", "type": "Game" }
+
 # Regiments https://store.steampowered.com/app/1109680/Regiments/
 { "name": "Regiments.exe", "type": "Game" }
 
@@ -410,6 +413,9 @@
 # Rento Fortune: Online Dice Board Game (大富翁) https://store.steampowered.com/app/663390/Rento_Fortune_Online_Dice_Board_Game/
 { "name": "MapEditor.exe", "type": "Game" }
 { "name": "Rento.exe", "type": "Game" }
+
+# Repair this! https://store.steampowered.com/app/2517200/Repair_this/
+{ "name": "Repair, This!.exe", "type": "Game" }
 
 # Replicube https://store.steampowered.com/app/3401490/Replicube/
 { "name": "Replicube.exe", "type": "Game" }
@@ -583,6 +589,14 @@
 # Rewrite+ https://store.steampowered.com/app/1680000/Rewrite/
 { "name": "SiglusEngine_SteamEN.exe", "type": "Game" }
 { "name": "SiglusEngineEN.exe", "type": "Game" }
+
+# Re:ZERO -Starting Life in Another World- The Prophecy of the Throne https://store.steampowered.com/app/1277510/ReZERO_Starting_Life_in_Another_World_The_Prophecy_of_the_Throne/
+{ "name": "ReZERO-TPT.exe", "type": "Game" }
+{ "name": "ReZERO-TPT-Launcher.exe", "type": "Game" }
+
+# rFactor https://store.steampowered.com/app/339790/rFactor/
+{ "name": "rFactor Dedicated.exe", "type": "Game" }
+{ "name": "rFactor.exe", "type": "Game" }
 
 # rFactor 2 https://store.steampowered.com/app/365960/rFactor_2/
 { "name": "Launch rFactor.exe", "type": "BG_CPUIO" }
@@ -894,20 +908,6 @@
 
 # Rogue: Genesia https://store.steampowered.com/app/2067920/Rogue_Genesia/
 { "name": "Rogue Genesia.exe", "type": "Game" }
-
-# Refunct https://store.steampowered.com/app/406150/Refunct/
-{ "name": "Refunct-Win32-Shipping.exe", "type": "Game" }
-
-# Repair this! https://store.steampowered.com/app/2517200/Repair_this/
-{ "name": "Repair, This!.exe", "type": "Game" }
-
-# Re:ZERO -Starting Life in Another World- The Prophecy of the Throne https://store.steampowered.com/app/1277510/ReZERO_Starting_Life_in_Another_World_The_Prophecy_of_the_Throne/
-{ "name": "ReZERO-TPT.exe", "type": "Game" }
-{ "name": "ReZERO-TPT-Launcher.exe", "type": "Game" }
-
-# rFactor https://store.steampowered.com/app/339790/rFactor/
-{ "name": "rFactor Dedicated.exe", "type": "Game" }
-{ "name": "rFactor.exe", "type": "Game" }
 
 # Rogue Legacy https://store.steampowered.com/app/241600/Rogue_Legacy/
 { "name": "RogueLegacy.exe", "type": "Game" }

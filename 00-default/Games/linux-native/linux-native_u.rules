@@ -20,9 +20,6 @@
 # Umineko When They Cry - Question Arcs https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/
 { "name": "Umineko1to4", "type": "Game" }
 
-# UnReal World https://store.steampowered.com/app/351700/UnReal_World/
-{ "name": "urw3-bin", "type": "Game" }
-
 # UnderMine https://store.steampowered.com/app/656350/UnderMine/
 { "name": "UnderMine", "type": "Game" }
 
@@ -63,6 +60,9 @@
 { "name": "ut-bin-x86", "type": "Game" }
 { "name": "ut-bin-amd64", "type": "Game" }
 { "name": "ut-bin", "type": "Game" }
+
+# UnReal World https://store.steampowered.com/app/351700/UnReal_World/
+{ "name": "urw3-bin", "type": "Game" }
 
 # Unspottable https://store.steampowered.com/app/1243960/Unspottable/
 { "name": "Unspottable", "type": "Game" }

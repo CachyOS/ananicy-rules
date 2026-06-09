@@ -70,6 +70,9 @@
 # Charlie Murder https://store.steampowered.com/app/405290/Charlie_Murder/
 { "name": "CharlieMurder", "type": "Game" }
 
+# Chasing Sunsets https://store.steampowered.com/app/1783110/
+{ "name": "CS", "type": "Game" }
+
 # Chasing Tails -A Promise in the Snow- https://store.steampowered.com/app/1555110/Chasing_Tails_A_Promise_in_the_Snow/
 { "name": "ChasingTails", "type": "Game" }
 
@@ -255,9 +258,6 @@
 { "name": "CW3Launch", "type": "BG_CPUIO" }
 { "name": "CW3.x86", "type": "Game" }
 { "name": "CW3.x86_64", "type": "Game" }
-
-# Chasing Sunsets https://store.steampowered.com/app/1783110/
-{ "name": "CS", "type": "Game" }
 
 # Crimsonland https://store.steampowered.com/app/262830/Crimsonland/
 { "name": "crimsonland", "type": "Game" }
