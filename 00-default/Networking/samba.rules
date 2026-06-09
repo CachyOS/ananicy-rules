@@ -1,2 +1,3 @@
+# Samba sharing services
 { "name": "smbd", "type": "Service" }
 { "name": "nmbd", "type": "Service" }
