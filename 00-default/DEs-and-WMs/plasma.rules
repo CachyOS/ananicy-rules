@@ -2,6 +2,9 @@
 
 # https://github.com/KDE/dolphin
 { "name": "dolphin", "type": "LowLatency_RT" }
+# https://github.com/KDE/discover
+{ "name": "plasma-discover", "type": "OOM_NO_KILL" }
+{ "name": "DiscoverNotifier", "type": "BG_CPUIO" }
 # https://community.kde.org/Baloo
 # Baloo is the file indexing and file search framework for KDE.
 { "name": "baloo_file", "type": "BG_CPUIO" }
