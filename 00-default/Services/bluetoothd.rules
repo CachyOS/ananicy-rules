@@ -1,2 +1,5 @@
 # bluetoothd
 { "name": "bluetoothd", "type": "BG_CPUIO" }
+
+# obexd
+{ "name": "obexd", "type": "BG_CPUIO" }

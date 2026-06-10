@@ -2,6 +2,9 @@
 
 # https://github.com/KDE/dolphin
 { "name": "dolphin", "type": "LowLatency_RT" }
+# https://github.com/KDE/discover
+{ "name": "plasma-discover", "type": "OOM_NO_KILL" }
+{ "name": "DiscoverNotifier", "type": "BG_CPUIO" }
 # https://community.kde.org/Baloo
 # Baloo is the file indexing and file search framework for KDE.
 { "name": "baloo_file", "type": "BG_CPUIO" }
@@ -11,6 +14,10 @@
 { "name": "kded6", "type": "BG_CPUIO" }
 # https://lxr.kde.org/source/plasma/plasma-desktop/kaccess/
 { "name": "kaccess", "type": "BG_CPUIO" }
+# https://github.com/KDE/kclock
+{ "name": "kclockd", "type": "Service" }
+# https://github.com/KDE/knighttime
+{ "name": "knighttimed", "type": "Service" }
 # https://github.com/KDE/plasma-workspace/blob/master/ksmserver/README
 { "name": "ksmserver", "type": "BG_CPUIO" }
 { "name": "krunner", "type": "LowLatency_RT" }
@@ -22,3 +29,4 @@
 { "name": "org_kde_powerdevil", "type": "Service" }
 # https://github.com/KDE/kwallet
 { "name": "kwalletd6", "type": "Service" }
+{ "name": "ksecretd", "type": "Service" }
