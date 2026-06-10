@@ -391,7 +391,6 @@
 
 # Barro 22 https://store.steampowered.com/app/1797610/Barro_22/
 { "name": "Barro 22.exe", "type": "Game" }
-{ "name": "SC Jogos Launcher.exe", "type": "Game" }
 
 # Beat Cop https://store.steampowered.com/app/461950/Beat_Cop/
 { "name": "BeatCop.exe", "type": "Game" }
@@ -417,7 +416,6 @@
 
 # Beat Hazard https://store.steampowered.com/app/49600/Beat_Hazard/
 { "name": "BeatHazard.exe", "type": "Game" }
-{ "name": "runme.exe", "type": "BG_CPUIO" }
 
 # Beat Saber https://store.steampowered.com/app/620980/Beat_Saber/
 { "name": "Beat Saber.exe", "type": "Game" }

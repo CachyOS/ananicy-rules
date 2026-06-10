@@ -862,8 +862,17 @@
 # Hello Charlotte https://store.steampowered.com/app/557630/Hello_Charlotte_EP2_Requiem_Aeternam_Deo/
 { "name": "Game.exe", "type": "Game" }
 
+# Granny Remake https://store.steampowered.com/app/2110820/Granny_Remake/
+# Granny https://store.steampowered.com/app/962400/Granny/
+{ "name": "Granny.exe", "type": "Game" }
+
+# Beat Hazard https://store.steampowered.com/app/49600/Beat_Hazard/
+# X-COM: Terror from the Deep https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/
+{ "name": "runme.exe", "type": "BG_CPUIO" }
+
 # DRAGON QUEST BUILDERS 2 JUMBO DEMO https://store.steampowered.com/app/1168460/
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
+# Starpoint Gemini Warlords https://store.steampowered.com/app/419480/Starpoint_Gemini_Warlords/
 { "name": "GameLauncher.exe", "type": "Game" }
 
 # GameMaker https://store.steampowered.com/app/1670460/GameMaker/
@@ -1705,7 +1714,12 @@
 # Barro GT https://store.steampowered.com/app/1990740/Barro_GT/
 # Barro https://store.steampowered.com/app/618140/Barro/
 # Barro Racing https://store.steampowered.com/app/1307090/Barro_Racing/
+# Barro 22 https://store.steampowered.com/app/1797610/Barro_22/
 { "name": "SC Jogos Launcher.exe", "type": "Game" }
+
+# SuchArt! https://store.steampowered.com/app/1293180/SuchArt_Genius_Artist_Simulator/
+# SuchArt: Creative Space https://store.steampowered.com/app/1469280/SuchArt_Creative_Space/
+{ "name": "SuchArt.exe", "type": "Game" }
 
 # SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
 # SCP: Secret Laboratory https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/

@@ -722,11 +722,7 @@
 { "name": "SolarpunkSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Starpoint Gemini Warlords https://store.steampowered.com/app/419480/Starpoint_Gemini_Warlords/
-{ "name": "GameLauncher.exe", "type": "Game" }
 { "name": "StarpointGeminiWarlords.exe", "type": "Game" }
-
-# SuchArt! https://store.steampowered.com/app/1293180/SuchArt_Genius_Artist_Simulator/
-{ "name": "SuchArt.exe", "type": "Game" }
 
 # Sunken Engine https://store.steampowered.com/app/3604780/Sunken_Engine/
 { "name": "Sunken Engine.exe", "type": "Game" }
@@ -2632,9 +2628,6 @@
 # SUCCUBUS https://store.steampowered.com/app/985830/SUCCUBUS/
 { "name": "Succubus.exe", "type": "Game" }
 { "name": "Succubus-Win64-Shipping.exe", "type": "Game" }
-
-# SuchArt: Creative Space https://store.steampowered.com/app/1469280/SuchArt_Creative_Space/
-{ "name": "SuchArt.exe", "type": "Game" }
 
 # Sudden Strike 4 https://store.steampowered.com/app/373930/Sudden_Strike_4/
 { "name": "SuddenStrike4.exe", "type": "Game" }

@@ -1,0 +1,3 @@
+# Samba sharing services
+{ "name": "smbd", "type": "LowLatency_RT" }
+{ "name": "nmbd", "type": "Service" }
