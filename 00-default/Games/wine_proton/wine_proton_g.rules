@@ -39,18 +39,6 @@
 { "name": "GalaxyLifeUE5.exe", "type": "Game" }
 { "name": "Galaxy Life.exe", "type": "Game" }
 
-# Granny Remake https://store.steampowered.com/app/2110820/Granny_Remake/
-{ "name": "Granny-Win64-Shipping.exe", "type": "Game" }
-
-# Granny Simulator https://store.steampowered.com/app/1053680/Granny_Simulator/
-{ "name": "Granny Simulator.exe", "type": "Game" }
-
-# Green Project https://store.steampowered.com/app/1274490/Green_Project/
-{ "name": "Green Project.exe", "type": "Game" }
-
-# Grunn https://store.steampowered.com/app/2720950/Grunn/
-{ "name": "Grunn.exe", "type": "Game" }
-
 # Galaxy on Fire 2 Full HD https://store.steampowered.com/app/212010/Galaxy_on_Fire_2_Full_HD/
 { "name": "GoF2Launcher.exe", "type": "Game" }
 { "name": "GOF2.exe", "type": "Game" }
@@ -655,6 +643,12 @@
 { "name": "GrannyEscapeTogether-Win64-Shipping.exe", "type": "Game" }
 { "name": "GrannyEscapeTogether.exe", "type": "Game" }
 
+# Granny Remake https://store.steampowered.com/app/2110820/Granny_Remake/
+{ "name": "Granny-Win64-Shipping.exe", "type": "Game" }
+
+# Granny Simulator https://store.steampowered.com/app/1053680/Granny_Simulator/
+{ "name": "Granny Simulator.exe", "type": "Game" }
+
 # Granvir https://store.steampowered.com/app/2743460/Granvir/
 { "name": "Granvir.exe", "type": "Game" }
 
@@ -690,6 +684,9 @@
 # Greedland https://store.steampowered.com/app/2218400/Greedland/
 { "name": "NewGreedland.exe", "type": "Game" }
 { "name": "NewGreedland-Win64-Shipping.exe", "type": "Game" }
+
+# Green Project https://store.steampowered.com/app/1274490/Green_Project/
+{ "name": "Green Project.exe", "type": "Game" }
 
 # Gremlins, Inc. https://store.steampowered.com/app/369990/Gremlins_Inc/
 { "name": "Gremlins_Inc.exe", "type": "Game" }
@@ -803,6 +800,9 @@
 
 # Growtopia https://store.steampowered.com/app/866020/Growtopia/
 { "name": "Growtopia.exe", "type": "Game" }
+
+# Grunn https://store.steampowered.com/app/2720950/Grunn/
+{ "name": "Grunn.exe", "type": "Game" }
 
 # G String https://store.steampowered.com/app/1224600/G_String/
 { "name": "gstring.exe", "type": "Game" }

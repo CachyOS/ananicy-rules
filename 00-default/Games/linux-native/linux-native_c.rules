@@ -122,6 +122,10 @@
 # Cities: Skylines https://store.steampowered.com/app/255710/Cities_Skylines/
 { "name": "Cities.x64", "type": "Game" }
 
+# City Game Studio https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
+{ "name": "CityGameStudio32", "type": "Game" }
+{ "name": "CityGameStudio64", "type": "Game" }
+
 # City Lights Love Bites Season 0 https://store.steampowered.com/app/3011560/
 { "name": "CityLightsandLoveBites", "type": "Game" }
 
@@ -253,10 +257,6 @@
 
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "Crea", "type": "Game" }
-
-# City Game Studio https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
-{ "name": "CityGameStudio32", "type": "Game" }
-{ "name": "CityGameStudio64", "type": "Game" }
 
 # Creeper World 3: Arc Eternal https://store.steampowered.com/app/280220/Creeper_World_3_Arc_Eternal/
 { "name": "CW3Launch", "type": "BG_CPUIO" }

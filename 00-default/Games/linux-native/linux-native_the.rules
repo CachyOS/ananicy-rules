@@ -53,9 +53,6 @@
 # The Dark Queen of Mortholme https://store.steampowered.com/app/3587610/The_Dark_Queen_of_Mortholme/
 { "name": "The Dark Queen of Mortholme.x86_64", "type": "Game" }
 
-# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
-{ "name": "TheSevenRealms", "type": "Game" }
-
 # The Deer https://store.steampowered.com/app/400240/The_Deer/
 { "name": "TheDeer.x86", "type": "Game" }
 { "name": "TheDeer.x86_64", "type": "Game" }
@@ -230,6 +227,9 @@
 
 # The Sapling https://store.steampowered.com/app/997380/The_Sapling/
 { "name": "the_sapling.x86_64", "type": "Game" }
+
+# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
+{ "name": "TheSevenRealms", "type": "Game" }
 
 # The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
 { "name": "TheSpellBrigade.x86_64", "type": "Game" }

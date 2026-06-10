@@ -8,10 +8,6 @@
 # Labyrinthine https://store.steampowered.com/app/1302240/Labyrinthine/
 { "name": "Labyrinthine.exe", "type": "Game" }
 
-# Leap of Faith https://store.steampowered.com/app/1768640/
-{ "name": "LeapofFaith.exe", "type": "Game" }
-{ "name": "LeapofFaith-32.exe", "type": "Game" }
-
 # Labyrinth of Galleria: The Moon Society https://store.steampowered.com/app/1998340/Labyrinth_of_Galleria_The_Moon_Society/
 { "name": "LabyrinthOfGalleria.exe", "type": "Game" }
 
@@ -159,6 +155,10 @@
 
 # League of Angels-Heaven's Fury https://store.steampowered.com/app/1379130/League_of_AngelsHeavens_Fury/
 { "name": "loa-hf-steam.exe", "type": "Game" }
+
+# Leap of Faith https://store.steampowered.com/app/1768640/
+{ "name": "LeapofFaith.exe", "type": "Game" }
+{ "name": "LeapofFaith-32.exe", "type": "Game" }
 
 # Learn to Fly 3 https://store.steampowered.com/app/589870/Learn_to_Fly_3/
 { "name": "Learn to Fly 3.exe", "type": "Game" }

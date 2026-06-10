@@ -152,6 +152,9 @@
 # Tank Mechanic Simulator https://store.steampowered.com/app/407130/Tank_Mechanic_Simulator/
 { "name": "TankMechanicSimulator.exe", "type": "Game" }
 
+# Tank Squad https://store.steampowered.com/app/1498130/Tank_Squad/
+{ "name": "TankSquad.exe", "type": "Game" }
+
 # Tannenberg https://store.steampowered.com/app/633460/Tannenberg/
 { "name": "Tannenberg.exe", "type": "Game" }
 
@@ -166,22 +169,6 @@
 
 # Tap Ninja - Idle game https://store.steampowered.com/app/1891700/Tap_Ninja__Idle_game/
 { "name": "Tap Ninja.exe", "type": "Game" }
-
-# Tank Squad https://store.steampowered.com/app/1498130/Tank_Squad/
-{ "name": "TankSquad.exe", "type": "Game" }
-
-# Timeflow https://store.steampowered.com/app/1005930/Timeflow__Life_Sim/
-{ "name": "Timeflow.exe", "type": "Game" }
-
-# Tom Clancy's EndWar https://store.steampowered.com/app/21800/Tom_Clancys_EndWar/
-{ "name": "endwar.exe", "type": "Game" }
-{ "name": "Tom Clancy's EndWar Launcher.exe", "type": "Game" }
-{ "name": "EndWar.exe", "type": "Game" }
-
-# Tzar: The Burden of the Crown https://store.steampowered.com/app/825730/Tzar_The_Burden_of_the_Crown/
-{ "name": "Tzar.exe", "type": "Game" }
-{ "name": "Tzar_.exe", "type": "Game" }
-{ "name": "TzarCampaign.exe", "type": "Game" }
 
 # Tapple https://store.steampowered.com/app/3047030/Tapple__Idle_Clicker/
 { "name": "Tapple.exe", "type": "Game" }
@@ -616,6 +603,9 @@
 # Time Clickers https://store.steampowered.com/app/385770/Time_Clickers/
 { "name": "TimeClickers.exe", "type": "Game" }
 
+# Timeflow https://store.steampowered.com/app/1005930/Timeflow__Life_Sim/
+{ "name": "Timeflow.exe", "type": "Game" }
+
 # TimeShift https://store.steampowered.com/app/10130/TimeShift/
 { "name": "TimeShift.Exe", "type": "Game" }
 
@@ -798,6 +788,11 @@
 
 # Tombwater https://store.steampowered.com/app/3308200/Tombwater/
 { "name": "tombwater.exe", "type": "Game" }
+
+# Tom Clancy's EndWar https://store.steampowered.com/app/21800/Tom_Clancys_EndWar/
+{ "name": "endwar.exe", "type": "Game" }
+{ "name": "Tom Clancy's EndWar Launcher.exe", "type": "Game" }
+{ "name": "EndWar.exe", "type": "Game" }
 
 # Tom Clancy's Ghost Recon Advanced Warfighter https://steamdb.info/app/13640/
 { "name": "GRAW.exe", "type": "Game" }
@@ -1449,3 +1444,8 @@
 
 # TY the Tasmanian Tiger https://store.steampowered.com/app/411960/TY_the_Tasmanian_Tiger/
 { "name": "TY.exe", "type": "Game" }
+
+# Tzar: The Burden of the Crown https://store.steampowered.com/app/825730/Tzar_The_Burden_of_the_Crown/
+{ "name": "Tzar.exe", "type": "Game" }
+{ "name": "Tzar_.exe", "type": "Game" }
+{ "name": "TzarCampaign.exe", "type": "Game" }

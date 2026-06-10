@@ -289,19 +289,6 @@
 # Car Manufacture https://store.steampowered.com/app/983380/Car_Manufacture/
 { "name": "CarManufacture.exe", "type": "Game" }
 
-# Chess for idiots https://store.steampowered.com/app/2121150/Chess_for_idiots/
-{ "name": "Chess for idiots.exe", "type": "Game" }
-
-# City Game Studio https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
-{ "name": "CityGameStudio64.exe", "type": "Game" }
-{ "name": "CityGameStudio32.exe", "type": "Game" }
-
-# Cliff Empire https://store.steampowered.com/app/809140/Cliff_Empire/
-{ "name": "Cliff Empire.exe", "type": "Game" }
-
-# COCOON https://store.steampowered.com/app/1497440/COCOON/
-{ "name": "universe.exe", "type": "Game" }
-
 # Car Mechanic Simulator 2014 https://store.steampowered.com/app/270850/Car_Mechanic_Simulator_2014/
 { "name": "cms.exe", "type": "Game" }
 
@@ -620,6 +607,9 @@
 # Chess Evolved Online https://store.steampowered.com/app/1064340/Chess_Evolved_Online/
 { "name": "CEO.exe", "type": "Game" }
 
+# Chess for idiots https://store.steampowered.com/app/2121150/Chess_for_idiots/
+{ "name": "Chess for idiots.exe", "type": "Game" }
+
 # Chess Ultra https://store.steampowered.com/app/518060/Chess_Ultra/
 { "name": "Chess2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Chess2-Win32-Shipping.exe", "type": "Game" }
@@ -784,6 +774,10 @@
 # City Bus Manager https://store.steampowered.com/app/1364210/City_Bus_Manager/
 { "name": "CBM.exe", "type": "Game" }
 
+# City Game Studio https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
+{ "name": "CityGameStudio64.exe", "type": "Game" }
+{ "name": "CityGameStudio32.exe", "type": "Game" }
+
 # City Life 2008 https://store.steampowered.com/app/4460/City_Life_2008/
 { "name": "cld.exe", "type": "Game"}
 
@@ -871,6 +865,9 @@
 # click to ten https://store.steampowered.com/app/1910580/click_to_ten/
 { "name": "click to ten.exe", "type": "Game" }
 
+# Cliff Empire https://store.steampowered.com/app/809140/Cliff_Empire/
+{ "name": "Cliff Empire.exe", "type": "Game" }
+
 # Climber Animals: Together https://store.steampowered.com/app/2744880/Climber_Animals_Together/
 { "name": "Climber Animals Together.exe", "type": "Game"}
 
@@ -945,6 +942,9 @@
 # Coconut Simulator 2 https://store.steampowered.com/app/3880190/Coconut_Simulator_2/
 { "name": "CoconutSimulator2.exe", "type": "Game" }
 { "name": "CoconutSimulator2-Win64-Shipping.exe", "type": "Game" }
+
+# COCOON https://store.steampowered.com/app/1497440/COCOON/
+{ "name": "universe.exe", "type": "Game" }
 
 # Codename CURE http://store.steampowered.com/app/355180/Codename_CURE/
 { "name": "cure.exe", "type": "Game" }

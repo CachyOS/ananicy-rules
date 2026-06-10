@@ -5,6 +5,9 @@
 
 ### B ###
 
+# BABBDI https://store.steampowered.com/app/2240530/BABBDI/
+{ "name": "BABBDI_1.2.5.x86_64", "type": "Game" }
+
 # Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
 { "name": "Lunar.x86_64", "type": "Game" }
 
@@ -31,6 +34,9 @@
 
 # Bao Bao's Cozy Laundromat https://store.steampowered.com/app/3194550/Bao_Baos_Cozy_Laundromat/
 { "name": "BaoBao-Linux-Build.x86_64", "type": "Game" }
+
+# Bare Witness https://store.steampowered.com/app/2387380/
+{ "name": "BareWitness", "type": "Game" }
 
 # Barony https://store.steampowered.com/app/371970/Barony/
 { "name": "barony.x86_64", "type": "Game" }
@@ -90,6 +96,10 @@
 # Beatbuddy: Tale of the Guardians https://store.steampowered.com/app/231040/Beatbuddy_Tale_of_the_Guardians/
 { "name": "Beatbuddy", "type": "Game" }
 
+# Beat Cop https://store.steampowered.com/app/461950/Beat_Cop/
+{ "name": "BeatCop.x86", "type": "Game" }
+{ "name": "BeatCop.x86_64", "type": "Game" }
+
 # Beat Hazard https://store.steampowered.com/app/49600/Beat_Hazard/
 { "name": "BeatHazard", "type": "Game" }
 { "name": "BeatHazard_Linux2", "type": "Game" }
@@ -106,19 +116,6 @@
 { "name": "Beholder2.x86", "type": "Game" }
 { "name": "Beholder2.x86_64", "type": "Game" }
 
-# BABBDI https://store.steampowered.com/app/2240530/BABBDI/
-{ "name": "BABBDI_1.2.5.x86_64", "type": "Game" }
-
-# Bare Witness https://store.steampowered.com/app/2387380/
-{ "name": "BareWitness", "type": "Game" }
-
-# Beat Cop https://store.steampowered.com/app/461950/Beat_Cop/
-{ "name": "BeatCop.x86", "type": "Game" }
-{ "name": "BeatCop.x86_64", "type": "Game" }
-
-# Big Pharma https://store.steampowered.com/app/344850/Big_Pharma/
-{ "name": "Big Pharma.x86", "type": "Game" }
-
 # Being a DIK https://store.steampowered.com/app/1126320/
 { "name": "BeingADIK", "type": "Game" }
 
@@ -132,6 +129,9 @@
 
 # Between Two Worlds https://store.steampowered.com/app/1975280/
 { "name": "BetweenTwoWorlds", "type": "Game" }
+
+# Big Pharma https://store.steampowered.com/app/344850/Big_Pharma/
+{ "name": "Big Pharma.x86", "type": "Game" }
 
 # Bioprototype https://store.steampowered.com/app/3689520/Bioprototype/
 { "name": "Bioprototype.x86_64", "type": "Game" }

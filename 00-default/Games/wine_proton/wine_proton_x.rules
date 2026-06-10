@@ -27,6 +27,10 @@
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 { "name": "XComGame.exe", "type": "Game" }
 
+# X-COM: Terror from the Deep https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/
+{ "name": "Terror From the Deep_patched.exe", "type": "Game" }
+{ "name": "Terror from the Deep.exe", "type": "Game" }
+
 # X-COM: UFO Defense https://store.steampowered.com/app/7760/XCOM_UFO_Defense/
 { "name": "UFO Defense_Patched.exe", "type": "Game" }
 
@@ -46,10 +50,6 @@
 # X-Morph: Defense https://store.steampowered.com/app/408410/XMorph_Defense/
 { "name": "X-Morph_Launcher.exe", "type": "Game" }
 { "name": "shooter_win64_release.exe", "type": "Game" }
-
-# X-COM: Terror from the Deep https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/
-{ "name": "Terror From the Deep_patched.exe", "type": "Game" }
-{ "name": "Terror from the Deep.exe", "type": "Game" }
 
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "Airfoil-Maker.exe", "type": "Game" }

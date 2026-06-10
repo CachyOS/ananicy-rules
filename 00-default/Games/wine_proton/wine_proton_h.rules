@@ -509,9 +509,18 @@
 { "name": "Launch_H-Hour.exe", "type": "Game" }
 { "name": "HHourGame-Win64-Shipping.exe", "type": "Game" }
 
+# Hidden & Dangerous 2: Courage Under Fire https://store.steampowered.com/app/703320/Hidden__Dangerous_2_Courage_Under_Fire/
+{ "name": "HD2DS_SabreSquadron.exe", "type": "Game" }
+{ "name": "HD2DS.exe", "type": "Game" }
+{ "name": "HD2_SabreSquadron.exe", "type": "Game" }
+{ "name": "hd2.exe", "type": "Game" }
+
 # Hidden Deep https://store.steampowered.com/app/976890/Hidden_Deep/
 { "name": "hdeep.exe", "type": "Game" }
 { "name": "hdeep_NG.exe", "type": "Game" }
+
+# Hidden Folks https://store.steampowered.com/app/435400/Hidden_Folks/
+{ "name": "Hidden Folks.exe", "type": "Game" }
 
 # Hide and Shriek https://store.steampowered.com/app/480430/Hide_and_Shriek/
 { "name": "HideandShriek.exe", "type": "Game" }
@@ -543,6 +552,12 @@
 
 # Higurashi When They Cry Hou - Ch.2 Watanagashi https://store.steampowered.com/app/410890/Higurashi_When_They_Cry_Hou__Ch2_Watanagashi/
 { "name": "HigurashiEp02.exe", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.3 Tatarigoroshi https://store.steampowered.com/app/472870/Higurashi_When_They_Cry_Hou__Ch3_Tatarigoroshi/
+{ "name": "HigurashiEp03.exe", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.5 Meakashi https://store.steampowered.com/app/577480/Higurashi_When_They_Cry_Hou__Ch5_Meakashi/
+{ "name": "HigurashiEp05.exe", "type": "Game" }
 
 # Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi https://store.steampowered.com/app/668350/Higurashi_When_They_Cry_Hou__Ch6_Tsumihoroboshi/
 { "name": "HigurashiEp06.exe", "type": "Game" }
@@ -605,21 +620,6 @@
 
 # Hollow Knight https://store.steampowered.com/app/367520/Hollow_Knight/
 { "name": "hollow_knight.exe", "type": "Game" }
-
-# Hidden & Dangerous 2: Courage Under Fire https://store.steampowered.com/app/703320/Hidden__Dangerous_2_Courage_Under_Fire/
-{ "name": "HD2DS_SabreSquadron.exe", "type": "Game" }
-{ "name": "HD2DS.exe", "type": "Game" }
-{ "name": "HD2_SabreSquadron.exe", "type": "Game" }
-{ "name": "hd2.exe", "type": "Game" }
-
-# Hidden Folks https://store.steampowered.com/app/435400/Hidden_Folks/
-{ "name": "Hidden Folks.exe", "type": "Game" }
-
-# Higurashi When They Cry Hou - Ch.3 Tatarigoroshi https://store.steampowered.com/app/472870/Higurashi_When_They_Cry_Hou__Ch3_Tatarigoroshi/
-{ "name": "HigurashiEp03.exe", "type": "Game" }
-
-# Higurashi When They Cry Hou - Ch.5 Meakashi https://store.steampowered.com/app/577480/Higurashi_When_They_Cry_Hou__Ch5_Meakashi/
-{ "name": "HigurashiEp05.exe", "type": "Game" }
 
 # Hollow Knight: Silksong https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
 { "name": "Hollow Knight Silksong.exe", "type": "Game" }

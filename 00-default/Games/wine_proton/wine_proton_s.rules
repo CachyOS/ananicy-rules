@@ -714,19 +714,6 @@
 # Shantae: Risky's Revenge - Director's Cut https://store.steampowered.com/app/277890/Shantae_Riskys_Revenge__Directors_Cut/
 { "name": "RiskysRevenge.exe", "type": "Game" }
 
-# Sky Force Anniversary https://store.steampowered.com/app/355050/Sky_Force_Anniversary/
-{ "name": "Sky Force Anniversary.exe", "type": "Game" }
-
-# Solarpunk https://store.steampowered.com/app/1805110/Solarpunk/
-{ "name": "Solarpunk.exe", "type": "Game" }
-{ "name": "SolarpunkSteam-Win64-Shipping.exe", "type": "Game" }
-
-# Starpoint Gemini Warlords https://store.steampowered.com/app/419480/Starpoint_Gemini_Warlords/
-{ "name": "StarpointGeminiWarlords.exe", "type": "Game" }
-
-# Sunken Engine https://store.steampowered.com/app/3604780/Sunken_Engine/
-{ "name": "Sunken Engine.exe", "type": "Game" }
-
 # ShapeHero Factory https://store.steampowered.com/app/2389040/ShapeHero_Factory/
 { "name": "ShapeHeroFactory.exe", "type": "Game" }
 
@@ -1196,6 +1183,9 @@
 # Sky End Market https://store.steampowered.com/app/3308550/Sky_End_Market/
 { "name": "SkyEndMarket.exe", "type": "Game" }
 
+# Sky Force Anniversary https://store.steampowered.com/app/355050/Sky_Force_Anniversary/
+{ "name": "Sky Force Anniversary.exe", "type": "Game" }
+
 # Sky Force Reloaded https://store.steampowered.com/app/667600/Sky_Force_Reloaded/
 { "name": "Sky Force Reloaded.exe", "type": "Game" }
 
@@ -1446,6 +1436,10 @@
 # Solargene https://store.steampowered.com/app/1638300/Solargene/
 { "name": "solar.exe", "type": "Game" }
 { "name": "solar-Win64-Shipping.exe", "type": "Game" }
+
+# Solarpunk https://store.steampowered.com/app/1805110/Solarpunk/
+{ "name": "Solarpunk.exe", "type": "Game" }
+{ "name": "SolarpunkSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Solasta: Crown of the Magister https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/
 { "name": "Solasta.exe", "type": "Game" }
@@ -2061,6 +2055,9 @@
 # Starpoint Gemini 2 https://store.steampowered.com/app/236150/Starpoint_Gemini_2/
 { "name": "StarpointGemini2.exe", "type": "Game" }
 { "name": "StarpointGemini2_win7.exe", "type": "Game" }
+
+# Starpoint Gemini Warlords https://store.steampowered.com/app/419480/Starpoint_Gemini_Warlords/
+{ "name": "StarpointGeminiWarlords.exe", "type": "Game" }
 
 # Star Realms https://store.steampowered.com/app/438140/Star_Realms/
 { "name": "StarRealms.exe", "type": "Game" }
@@ -2699,6 +2696,9 @@
 
 # Sun Haven https://store.steampowered.com/app/1432860/Sun_Haven/
 { "name": "Sun Haven.exe", "type": "Game" }
+
+# Sunken Engine https://store.steampowered.com/app/3604780/Sunken_Engine/
+{ "name": "Sunken Engine.exe", "type": "Game" }
 
 # Sunkenland https://store.steampowered.com/app/2080690/Sunkenland/
 { "name": "Sunkenland.exe", "type": "Game" }

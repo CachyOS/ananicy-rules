@@ -579,6 +579,9 @@
 { "name": "AAGame.exe", "type": "Game" }
 { "name": "AALauncher32.exe", "type": "BG_CPUIO" }
 
+# Amerzone - The Explorer's Legacy https://store.steampowered.com/app/2429190/Amerzone__The_Explorers_Legacy/
+{ "name": "Amerzone.exe", "type": "Game" }
+
 # AMID EVIL https://store.steampowered.com/app/673130/AMID_EVIL/
 { "name": "AmidEvil.exe", "type": "Game" }
 
@@ -830,9 +833,6 @@
 
 # Apewar https://store.steampowered.com/app/2306590/Apewar/
 { "name": "Apewar.exe", "type": "Game" }
-
-# Amerzone - The Explorer's Legacy https://store.steampowered.com/app/2429190/Amerzone__The_Explorers_Legacy/
-{ "name": "Amerzone.exe", "type": "Game" }
 
 # Apex Legends https://store.steampowered.com/app/1172470/Apex_Legends/
 { "name": "r5apex_dx12.exe", "type": "Game" }
