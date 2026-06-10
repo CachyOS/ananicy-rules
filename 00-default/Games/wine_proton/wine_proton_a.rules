@@ -579,6 +579,9 @@
 { "name": "AAGame.exe", "type": "Game" }
 { "name": "AALauncher32.exe", "type": "BG_CPUIO" }
 
+# Amerzone - The Explorer's Legacy https://store.steampowered.com/app/2429190/Amerzone__The_Explorers_Legacy/
+{ "name": "Amerzone.exe", "type": "Game" }
+
 # AMID EVIL https://store.steampowered.com/app/673130/AMID_EVIL/
 { "name": "AmidEvil.exe", "type": "Game" }
 
@@ -1418,6 +1421,9 @@
 
 # Automate It https://store.steampowered.com/app/2472770/Automate_It_Factory_Puzzle/
 { "name": "AutomateIt.exe", "type": "Game" }
+
+# Automation Empire https://store.steampowered.com/app/1112790/Automation_Empire/
+{ "name": "AutomationEmpire.exe", "type": "Game" }
 
 # Automation - The Car Company Tycoon Game https://store.steampowered.com/app/293760/Automation__The_Car_Company_Tycoon_Game/
 { "name": "AutomationGame-Win64-Shipping.exe", "type": "Game" }

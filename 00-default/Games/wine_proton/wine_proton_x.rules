@@ -27,6 +27,10 @@
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 { "name": "XComGame.exe", "type": "Game" }
 
+# X-COM: Terror from the Deep https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/
+{ "name": "Terror From the Deep_patched.exe", "type": "Game" }
+{ "name": "Terror from the Deep.exe", "type": "Game" }
+
 # X-COM: UFO Defense https://store.steampowered.com/app/7760/XCOM_UFO_Defense/
 { "name": "UFO Defense_Patched.exe", "type": "Game" }
 

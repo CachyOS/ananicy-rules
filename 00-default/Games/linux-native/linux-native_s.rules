@@ -279,6 +279,10 @@
 # Skyborn https://store.steampowered.com/app/278460/Skyborn/
 { "name": "Skyborn.amd64", "type": "Game" }
 
+# Sky Force Anniversary https://store.steampowered.com/app/355050/Sky_Force_Anniversary/
+{ "name": "Sky Force Anniversary.x86", "type": "Game" }
+{ "name": "Sky Force Anniversary.x86_64", "type": "Game" }
+
 # Sky Force Reloaded https://store.steampowered.com/app/667600/Sky_Force_Reloaded/
 { "name": "Sky Force Reloaded.x86", "type": "Game" }
 { "name": "Sky Force Reloaded.x86_64", "type": "Game" }

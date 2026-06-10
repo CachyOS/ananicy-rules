@@ -277,6 +277,8 @@
 
 # Recettear: An Item Shop's Tale https://store.steampowered.com/app/70400/Recettear_An_Item_Shops_Tale/
 # Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
+# Dōngfāng gàn zhū yún ~ Legacy of Lunatic Kingdom. 東方紺珠伝 ～ Legacy of Lunatic Kingdom. https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/
 { "name": "custom.exe", "type": "Game" }
 
 # Dragon Age: Origins https://store.steampowered.com/app/17450/Dragon_Age_Origins/
@@ -860,10 +862,12 @@
 # Command & Conquer: Renegade https://store.steampowered.com/app/2229890/Command__Conquer_Renegade/
 # Cultures - Northland https://store.steampowered.com/app/351860/Cultures__Northland/
 # Hello Charlotte https://store.steampowered.com/app/557630/Hello_Charlotte_EP2_Requiem_Aeternam_Deo/
+# Pocket Mirror ~ GoldenerTraum https://store.steampowered.com/app/1899060/Pocket_Mirror__GoldenerTraum/
 { "name": "Game.exe", "type": "Game" }
 
 # DRAGON QUEST BUILDERS 2 JUMBO DEMO https://store.steampowered.com/app/1168460/
 # SNOW - The Ultimate Edition https://store.steampowered.com/app/244930/SNOW__The_Ultimate_Edition/
+# Starpoint Gemini Warlords https://store.steampowered.com/app/419480/Starpoint_Gemini_Warlords/
 { "name": "GameLauncher.exe", "type": "Game" }
 
 # GameMaker https://store.steampowered.com/app/1670460/GameMaker/
@@ -924,6 +928,10 @@
 # The Chronicles Of Myrtana: Archolos https://store.steampowered.com/app/1467450/The_Chronicles_Of_Myrtana_Archolos/
 # Gothic II: Gold Edition https://store.steampowered.com/app/39510/Gothic_II_Gold_Edition/
 { "name": "Gothic2.exe", "type": "Game" }
+
+# Granny Remake https://store.steampowered.com/app/2110820/Granny_Remake/
+# Granny https://store.steampowered.com/app/962400/Granny/
+{ "name": "Granny.exe", "type": "Game" }
 
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 # Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
@@ -999,6 +1007,7 @@
 # Half-Life 2: VR Mod https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/
 # Nightmare House: The Original Mod https://store.steampowered.com/app/2954780/Nightmare_House_The_Original_Mod/
 # Entropy : Zero https://store.steampowered.com/app/714070/Entropy__Zero/
+# Treason https://store.steampowered.com/app/1786950/Klaus_Veens_Treason/
 { "name": "hl2.exe", "type": "Game" }
 
 # Half-Life: Opposing Force https://store.steampowered.com/app/50/HalfLife_Opposing_Force/
@@ -1090,6 +1099,7 @@
 # Heian City Story https://store.steampowered.com/app/3132250/Heian_City_Story/
 # Game Dev Story https://store.steampowered.com/app/1847240/Game_Dev_Story/
 # Pro Wrestler Story https://store.steampowered.com/app/3334710/Pro_Wrestler_Story/
+# Dungeon Village https://store.steampowered.com/app/1859360/Dungeon_Village/
 { "name": "KairoGames.exe", "type": "Game" }
 
 # Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
@@ -1674,6 +1684,10 @@
 # Road to Vostok Demo https://store.steampowered.com/app/2141300/Road_to_Vostok/
 { "name": "RTV.exe", "type": "Game" }
 
+# Beat Hazard https://store.steampowered.com/app/49600/Beat_Hazard/
+# X-COM: Terror from the Deep https://store.steampowered.com/app/7650/XCOM_Terror_From_the_Deep/
+{ "name": "runme.exe", "type": "BG_CPUIO" }
+
 # Call of Duty: WWII - Multiplayer https://store.steampowered.com/app/476620/
 # Call of Duty: WWII https://store.steampowered.com/app/476600/Call_of_Duty_WWII/
 { "name": "s2_mp64_ship.exe", "type": "Game" }
@@ -1705,7 +1719,8 @@
 # Barro GT https://store.steampowered.com/app/1990740/Barro_GT/
 # Barro https://store.steampowered.com/app/618140/Barro/
 # Barro Racing https://store.steampowered.com/app/1307090/Barro_Racing/
-{ "name": "SC Jogos Launcher.exe", "type": "BG_CPUIO" }
+# Barro 22 https://store.steampowered.com/app/1797610/Barro_22/
+{ "name": "SC Jogos Launcher.exe", "type": "Game" }
 
 # SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
 # SCP: Secret Laboratory https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/
@@ -1906,6 +1921,10 @@
 # Substance 3D Painter 2021 https://store.steampowered.com/app/1454900/Substance_3D_Painter_2021/
 # Substance Painter 2020 https://store.steampowered.com/app/1194110/Substance_Painter_2020/
 { "name": "Substance Painter.exe", "type": "Game" }
+
+# SuchArt! https://store.steampowered.com/app/1293180/SuchArt_Genius_Artist_Simulator/
+# SuchArt: Creative Space https://store.steampowered.com/app/1469280/SuchArt_Creative_Space/
+{ "name": "SuchArt.exe", "type": "Game" }
 
 # SUPERHOT https://store.steampowered.com/app/322500/SUPERHOT/
 # SUPERHOT: MIND CONTROL DELETE https://store.steampowered.com/app/690040/SUPERHOT_MIND_CONTROL_DELETE/
