@@ -254,6 +254,10 @@
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "Crea", "type": "Game" }
 
+# City Game Studio https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
+{ "name": "CityGameStudio32", "type": "Game" }
+{ "name": "CityGameStudio64", "type": "Game" }
+
 # Creeper World 3: Arc Eternal https://store.steampowered.com/app/280220/Creeper_World_3_Arc_Eternal/
 { "name": "CW3Launch", "type": "BG_CPUIO" }
 { "name": "CW3.x86", "type": "Game" }
