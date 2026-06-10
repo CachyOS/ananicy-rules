@@ -33,9 +33,6 @@
 # NARUTO SHIPPUDEN: Ultimate Ninja STORM 2 https://store.steampowered.com/app/543870/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_2/
 { "name": "NSUNS2.exe", "type": "Game" }
 
-# Net.Attack() https://store.steampowered.com/app/3047370/NetAttack__Code_or_Die/
-{ "name": "Net.Attack().exe", "type": "Game" }
-
 # NARUTO SHIPPUDEN: Ultimate Ninja STORM 3 Full Burst HD https://store.steampowered.com/app/234670/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_3_Full_Burst_HD/
 { "name": "NS3FB.exe", "type": "Game"}
 { "name": "NS3FB_option1.exe", "type": "Game"}
@@ -252,6 +249,9 @@
 
 # Nested Lands https://store.steampowered.com/app/2553040/Nested_Lands/
 { "name": "Nested Lands.exe", "type": "Game"}
+
+# Net.Attack() https://store.steampowered.com/app/3047370/NetAttack__Code_or_Die/
+{ "name": "Net.Attack().exe", "type": "Game" }
 
 # Neva https://store.steampowered.com/app/2420660/Neva/
 { "name": "Neva.exe", "type": "Game" }

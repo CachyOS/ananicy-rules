@@ -42,13 +42,6 @@
 { "name": "Taiko5DXLauncher.exe", "type": "Game" }
 { "name": "Taiko5DX.exe", "type": "Game" }
 
-# That One Otter Game https://store.steampowered.com/app/3823460/That_One_Otter_Game/
-{ "name": "Otter.exe", "type": "Game" }
-{ "name": "Otter-Win64-Shipping.exe", "type": "Game" }
-
-# TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
-{ "name": "THMHJ.exe", "type": "Game" }
-
 # TAIKU MANSION https://store.steampowered.com/app/529760/TAIKU_MANSION/
 { "name": "TaikuAdventure.exe", "type": "Game" }
 { "name": "TaikuAdventure-Win32-Shipping.exe", "type": "Game" }
@@ -414,6 +407,10 @@
 
 # Thank Goodness You're Here! https://store.steampowered.com/app/2366980/Thank_Goodness_Youre_Here/
 { "name": "Thank Goodness You're Here!.exe", "type": "Game" }
+
+# That One Otter Game https://store.steampowered.com/app/3823460/That_One_Otter_Game/
+{ "name": "Otter.exe", "type": "Game" }
+{ "name": "Otter-Win64-Shipping.exe", "type": "Game" }
 
 # That's not my Neighbor https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/
 { "name": "That's not my neighbor (Steam).exe", "type": "Game" }
@@ -1002,6 +999,9 @@
 
 # Touhou Luna Nights https://store.steampowered.com/app/851100/Touhou_Luna_Nights/
 { "name": "touhou_luna_nights.exe", "type": "Game" }
+
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
+{ "name": "THMHJ.exe", "type": "Game" }
 
 # Touhou Mystia's Izakaya https://store.steampowered.com/app/1584090/Touhou_Mystias_Izakaya/
 { "name": "Touhou Mystia Izakaya.exe", "type": "Game" }

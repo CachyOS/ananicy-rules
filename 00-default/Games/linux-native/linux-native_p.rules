@@ -33,9 +33,6 @@
 # Papo & Yo https://store.steampowered.com/app/227080/Papo__Yo/
 { "name": "PYGame-Linux", "type": "Game" }
 
-# Pronoun Palace https://store.steampowered.com/app/3618850/Pronoun_Palace/
-{ "name": "pronoun_palace.x86_64", "type": "Game" }
-
 # Paradise Lust https://store.steampowered.com/app/1427860/
 { "name": "paradise_lust.x86_64", "type": "Game" }
 
@@ -226,6 +223,9 @@
 
 # Project Zomboid https://store.steampowered.com/app/108600/Project_Zomboid/
 { "name": "ProjectZomboid64", "type": "Game" }
+
+# Pronoun Palace https://store.steampowered.com/app/3618850/Pronoun_Palace/
+{ "name": "pronoun_palace.x86_64", "type": "Game" }
 
 # Proteus https://store.steampowered.com/app/219680/Proteus/
 { "name": "Proteus", "type": "Game" }

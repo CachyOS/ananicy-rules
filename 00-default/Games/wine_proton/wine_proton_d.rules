@@ -21,13 +21,6 @@
 # Daily Chthonicle: Editor's Edition https://store.steampowered.com/app/490980/Daily_Chthonicle_Editors_Edition/
 { "name": "DailyChthonicle.exe", "type": "Game" }
 
-# Different Strokes https://store.steampowered.com/app/2102020/Different_Strokes/
-{ "name": "DifferentStrokes.exe", "type": "Game" }
-
-# Dino Crisis 2 https://store.steampowered.com/app/4249140/Dino_Crisis_2/
-{ "name": "4249140_Launcher.exe", "type": "Game" }
-{ "name": "Dino2.exe", "type": "Game" }
-
 # Daisho: Survival of a Samurai https://store.steampowered.com/app/2502650/Daisho_Survival_of_a_Samurai/
 { "name": "Daisho.exe", "type": "Game" }
 
@@ -826,6 +819,9 @@
 # Dies irae ~Amantes amentes~ https://store.steampowered.com/app/644540/Dies_irae_Amantes_amentes/
 { "name": "malie.exe", "type": "Game" }
 
+# Different Strokes https://store.steampowered.com/app/2102020/Different_Strokes/
+{ "name": "DifferentStrokes.exe", "type": "Game" }
+
 # DigDigDrill https://store.steampowered.com/app/2916770/DigDigDrill/
 { "name": "DigDigDrill.exe", "type": "Game" }
 
@@ -871,6 +867,10 @@
 # Dino Crisis https://store.steampowered.com/app/4249130/Dino_Crisis/
 { "name": "4249130_Launcher.exe", "type": "Game" }
 { "name": "DINO.exe", "type": "Game" }
+
+# Dino Crisis 2 https://store.steampowered.com/app/4249140/Dino_Crisis_2/
+{ "name": "4249140_Launcher.exe", "type": "Game" }
+{ "name": "Dino2.exe", "type": "Game" }
 
 # Dino D-Day https://store.steampowered.com/app/70000/Dino_DDay/
 { "name": "dinodday.exe", "type": "Game" }

@@ -23,9 +23,6 @@
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
-# Exiled Kingdoms https://store.steampowered.com/app/788270/Exiled_Kingdoms/
-{ "name": "exiledkingdoms.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 6 https://store.steampowered.com/app/2291060/EARTH_DEFENSE_FORCE_6/
 { "name": "EDF6.exe", "type": "Game" }
 
@@ -660,6 +657,9 @@
 
 # Exanima https://store.steampowered.com/app/362490/Exanima/
 { "name": "Exanima.exe", "type": "Game" }
+
+# Exiled Kingdoms https://store.steampowered.com/app/788270/Exiled_Kingdoms/
+{ "name": "exiledkingdoms.exe", "type": "Game" }
 
 # Exile to Death https://store.steampowered.com/app/489240/Exile_to_Death/
 { "name": "ExiletoDeath.exe", "type": "Game" }

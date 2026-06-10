@@ -20,9 +20,6 @@
 # Caesar 3 https://store.steampowered.com/app/517790/Caesar_3/
 { "name": "c3.exe", "type": "Game" }
 
-# Crazy Machines 3 https://store.steampowered.com/app/351920/Crazy_Machines_3/
-{ "name": "cm3.exe", "type": "Game" }
-
 # Caesar IV https://store.steampowered.com/app/517810/Caesar_IV/
 { "name": "C4Exec.exe", "type": "Game" }
 { "name": "CaesarIV.exe", "type": "Game" }
@@ -1415,6 +1412,9 @@
 
 # Crazy Corn https://store.steampowered.com/app/3064950/Crazy_Corn/
 { "name": "Crazy Corn.exe", "type": "Game" }
+
+# Crazy Machines 3 https://store.steampowered.com/app/351920/Crazy_Machines_3/
+{ "name": "cm3.exe", "type": "Game" }
 
 # Crazy Oddballs: Idle RPG https://store.steampowered.com/app/4507620/Crazy_Oddballs_Idle_RPG/
 { "name": "lycq_eng.exe", "type": "Game" }
