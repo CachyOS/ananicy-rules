@@ -87,3 +87,7 @@
 
 # Unified games launcher: https://github.com/tkashkin/GameHub
 { "name": "com.github.tkashkin.gamehub", "type": "BG_CPUIO" }
+
+# Wivrn-dashboard https://github.com/WiVRn/WiVRn
+{ "name": "wivrn-dashboard", "type": "BG_CPUIO" }
+{ "name": "wivrn-server", "type": "LowLatency_RT" }
