@@ -62,6 +62,9 @@
 # Fjord Launcher https://github.com/unmojang/FjordLauncher
 { "name": "fjordlauncher", "type": "Game" }
 
+# Faugus Launcher https://github.com/Faugus/faugus-launcher
+{ "name": "faugus.launcher", "type": "BG_CPUIO" }
+
 # integrated web engine
 { "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
 
