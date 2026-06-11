@@ -113,6 +113,14 @@
 { "name": "AdInfinitum.exe", "type": "Game" }
 { "name": "AdInfinitum-Win64-Shipping.exe", "type": "Game" }
 
+# Adobe Photoshop https://www.adobe.com/products/photoshop.html
+{ "name": "Photoshop.exe", "type": "Image-View" }
+{ "name": "PhotoshopPrefsManager.exe", "type": "Image-View" }
+{ "name": "convert.exe", "type": "Image-View" }
+{ "name": "CRWindowsClientService.exe", "type": "Service" }
+{ "name": "pngquant.exe", "type": "BG_CPUIO" }
+{ "name": "sniffer.exe", "type": "BG_CPUIO" }
+
 # ADOM (Ancient Domains Of Mystery) https://store.steampowered.com/app/333300/ADOM_Ancient_Domains_Of_Mystery/
 { "name": "adom.exe", "type": "Game" }
 
