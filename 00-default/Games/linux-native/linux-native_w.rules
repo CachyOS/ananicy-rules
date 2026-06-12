@@ -44,6 +44,9 @@
 { "name": "aces", "type": "Game" }
 { "name": "launcher", "type": "BG_CPUIO" }
 
+# Warzone 2100 https://wz2100.net/
+{ "name": "warzone2100", "type": "Game"}
+
 # Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland", "type": "Game" }
 
