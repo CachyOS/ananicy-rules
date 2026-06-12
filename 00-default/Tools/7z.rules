@@ -1,2 +1,5 @@
 # 7z decompression
 { "name": "7z", "type": "BG_CPUIO" }
+{ "name": "7z.exe", "type": "BG_CPUIO" }
+{ "name": "7zG.exe", "type": "Doc-View" }
+{ "name": "7zFM.exe", "type": "Doc-View" }
