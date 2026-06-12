@@ -23,6 +23,13 @@
 # Warhammer 40,000: Dawn of War II - Retribution https://store.steampowered.com/app/56400/
 { "name": "DawnOfWar2Retribution", "type": "Game" }
 
+# Warplanes: WW2 Dogfight https://store.steampowered.com/app/936780/Warplanes_WW2_Dogfight/
+{ "name": "Warplanes.x86_64", "type": "Game" }
+
+# Weapon Shop Fantasy https://store.steampowered.com/app/599460/Weapon_Shop_Fantasy/
+{ "name": "WeaponShopFantasy.x86", "type": "Game" }
+{ "name": "WeaponShopFantasy.x86_64", "type": "Game" }
+
 # Warhammer 40,000: Gladius - Relics of War https://store.steampowered.com/app/489630/Warhammer_40000_Gladius__Relics_of_War/
 { "name": "Gladius", "type": "BG_CPUIO" }
 
