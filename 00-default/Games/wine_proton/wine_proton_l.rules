@@ -843,6 +843,10 @@
 # Lunacid https://store.steampowered.com/app/1745510/Lunacid/
 { "name": "LUNACID.exe", "type": "Game" }
 
+# Lunar Eclipse https://store.steampowered.com/app/2953480/Lunar_Eclipse/
+{ "name": "LunarEclipse.exe", "type": "Game" }
+{ "name": "LunarEclipse-Win64-Shipping.exe", "type": "Game" }
+
 # LUNAR Remastered Collection https://store.steampowered.com/app/3255380/LUNAR_Remastered_Collection/
 { "name": "lunar_launcher.exe", "type": "BG_CPUIO" }
 { "name": "lunar1.exe", "type": "Game" }

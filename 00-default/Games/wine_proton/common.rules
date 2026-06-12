@@ -279,6 +279,8 @@
 # Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
 # TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
 # Dōngfāng gàn zhū yún ~ Legacy of Lunatic Kingdom. 東方紺珠伝 ～ Legacy of Lunatic Kingdom. https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/
+# Dōngfāng tiānkōng zhāng ~ Hidden Star in Four Seasons. 東方天空璋 ～ Hidden Star in Four Seasons. https://store.steampowered.com/app/745880/Touhou_Tenkuushou__Hidden_Star_in_Four_Seasons/
 { "name": "custom.exe", "type": "Game" }
 
 # Dragon Age: Origins https://store.steampowered.com/app/17450/Dragon_Age_Origins/
@@ -919,6 +921,10 @@
 # The Incredible Adventures of Van Helsing II https://store.steampowered.com/app/272470/The_Incredible_Adventures_of_Van_Helsing_II/
 { "name": "GLVanHelsing_x86.exe", "type": "Game" }
 
+# Burglin' Gnomes Demo https://store.steampowered.com/app/4356080/Burglin_Gnomes/
+# Burglin' Gnomes https://store.steampowered.com/app/3844970/Burglin_Gnomes/
+{ "name": "Gnomium.exe", "type": "Game" }
+
 # PGA TOUR 2K21 https://store.steampowered.com/app/1016120/PGA_TOUR_2K21/
 # The Golf Club https://store.steampowered.com/app/269730/The_Golf_Club/
 # WGT Golf https://store.steampowered.com/app/1182020/WGT_Golf/
@@ -966,10 +972,12 @@
 
 # Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
 # Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
+# Hello Neighbor 2 Alpha 1 https://store.steampowered.com/app/1373880/Hello_Neighbor_2_Alpha_1/
 { "name": "HelloNeighbor2.exe", "type": "Game" }
 
 # Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
 # Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
+# Hello Neighbor 2 Alpha 1 https://store.steampowered.com/app/1373880/Hello_Neighbor_2_Alpha_1/
 { "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
 
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
@@ -1692,6 +1700,10 @@
 # Call of Duty: WWII https://store.steampowered.com/app/476600/Call_of_Duty_WWII/
 { "name": "s2_mp64_ship.exe", "type": "Game" }
 
+# Sabbat of the Witch https://store.steampowered.com/app/888790/Sabbat_of_the_Witch/
+# mó nǚ de yè yàn 魔女的夜宴 https://store.steampowered.com/app/2458530/_/
+{ "name": "SabbatOfTheWitch.exe", "type": "Game" }
+
 # Sacred 2 Gold https://store.steampowered.com/app/225640/Sacred_2_Gold/
 # Sacred 2 Remaster https://store.steampowered.com/app/3906660/
 { "name": "sacred2.exe", "type": "Game" }
@@ -1966,6 +1978,10 @@
 # Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
 { "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
 
+# Fuga: Melodies of Steel https://store.steampowered.com/app/1357860/Fuga_Melodies_of_Steel/
+# Fuga: Melodies of Steel 3 https://store.steampowered.com/app/3081320/Fuga_Melodies_of_Steel_3/
+{ "name": "TANK-Win64-Shipping.exe", "type": "Game" }
+
 # Tour de France 2025 https://store.steampowered.com/app/2511320/Tour_de_France_2025/
 # Tour de France 2024 https://store.steampowered.com/app/2494340/Tour_de_France_2024/
 { "name": "TDF.exe", "type": "Game" }
@@ -1998,6 +2014,11 @@
 # The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
 # The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
 { "name": "TheSpellBrigade.exe", "type": "Game" }
+
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part III https://store.steampowered.com/app/2877170/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_III/
+{ "name": "THMHJ.exe", "type": "Game" }
 
 # Dàihào sānguó: Lóng qǐ 代号三国：龙起 https://store.steampowered.com/app/3412900/The_Three_Kingdoms_Rebirth/
 # Legend of Heroes: Three Kingdoms https://store.steampowered.com/app/3020510/Legend_of_Heroes_Three_Kingdoms/
@@ -2169,6 +2190,14 @@
 # VoiceAttack https://store.steampowered.com/app/583010/VoiceAttack/
 # VoiceAttack 2 https://store.steampowered.com/app/3046550/VoiceAttack_v2/
 { "name": "VoiceAttack.exe", "type": "BG_CPUIO" }
+
+# Voidling Bound https://store.steampowered.com/app/2004680/Voidling_Bound/
+# Voidling Bound Demo https://store.steampowered.com/app/3559900/Voidling_Bound_Demo/
+{ "name": "VoidlingWrangler.exe", "type": "Game" }
+
+# Voidling Bound Demo https://store.steampowered.com/app/3559900/Voidling_Bound_Demo/
+# Voidling Bound https://store.steampowered.com/app/2004680/Voidling_Bound/
+{ "name": "VoidlingWrangler-Win64-Shipping.exe", "type": "Game" }
 
 # The Last Caretaker https://store.steampowered.com/app/1783560/The_Last_Caretaker/
 # The Last Caretaker Demo https://store.steampowered.com/app/3916150/The_Last_Caretaker/
