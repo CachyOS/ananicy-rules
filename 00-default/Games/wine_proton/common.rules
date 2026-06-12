@@ -279,7 +279,13 @@
 # Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
 # TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
 # Dōngfāng gàn zhū yún ~ Legacy of Lunatic Kingdom. 東方紺珠伝 ～ Legacy of Lunatic Kingdom. https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/
+# Dōngfāng tiānkōng zhāng ~ Hidden Star in Four Seasons. 東方天空璋 ～ Hidden Star in Four Seasons. https://store.steampowered.com/app/745880/Touhou_Tenkuushou__Hidden_Star_in_Four_Seasons/
 { "name": "custom.exe", "type": "Game" }
+
+# Burglin' Gnomes Demo https://store.steampowered.com/app/4356080/Burglin_Gnomes/
+# Burglin' Gnomes https://store.steampowered.com/app/3844970/Burglin_Gnomes/
+{ "name": "Gnomium.exe", "type": "Game" }
 
 # Dragon Age: Origins https://store.steampowered.com/app/17450/Dragon_Age_Origins/
 # Dragon Age: Origins - Ultimate Edition https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
@@ -955,9 +961,30 @@
 # Half Sword https://store.steampowered.com/app/2397300/Half_Sword/
 { "name": "HalfSwordUE5.exe", "type": "Game" }
 
+# Voidling Bound Demo https://store.steampowered.com/app/3559900/Voidling_Bound_Demo/
+# Voidling Bound https://store.steampowered.com/app/2004680/Voidling_Bound/
+{ "name": "VoidlingWrangler-Win64-Shipping.exe", "type": "Game" }
+
+# Fuga: Melodies of Steel https://store.steampowered.com/app/1357860/Fuga_Melodies_of_Steel/
+# Fuga: Melodies of Steel 3 https://store.steampowered.com/app/3081320/Fuga_Melodies_of_Steel_3/
+{ "name": "TANK-Win64-Shipping.exe", "type": "Game" }
+
+# Voidling Bound https://store.steampowered.com/app/2004680/Voidling_Bound/
+# Voidling Bound Demo https://store.steampowered.com/app/3559900/Voidling_Bound_Demo/
+{ "name": "VoidlingWrangler.exe", "type": "Game" }
+
 # Half Sword https://store.steampowered.com/app/2397300/Half_Sword/
 # Half Sword Demo https://store.steampowered.com/app/2642680/Half_Sword/
 { "name": "HalfSwordUE5-Win64-Shipping.exe", "type": "Game" }
+
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part III https://store.steampowered.com/app/2877170/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_III/
+{ "name": "THMHJ.exe", "type": "Game" }
+
+# Sabbat of the Witch https://store.steampowered.com/app/888790/Sabbat_of_the_Witch/
+# mó nǚ de yè yàn 魔女的夜宴 https://store.steampowered.com/app/2458530/_/
+{ "name": "SabbatOfTheWitch.exe", "type": "Game" }
 
 # Double Action: Boogaloo https://store.steampowered.com/app/317360/Double_Action_Boogaloo/
 # Source SDK Base tools
@@ -966,10 +993,12 @@
 
 # Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
 # Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
+# Hello Neighbor 2 Alpha 1 https://store.steampowered.com/app/1373880/Hello_Neighbor_2_Alpha_1/
 { "name": "HelloNeighbor2.exe", "type": "Game" }
 
 # Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
 # Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
+# Hello Neighbor 2 Alpha 1 https://store.steampowered.com/app/1373880/Hello_Neighbor_2_Alpha_1/
 { "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
 
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
