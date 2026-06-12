@@ -1262,8 +1262,11 @@
 { "name": "Brotato.exe", "type": "Game" }
 
 # Brothers - A Tale of Two Sons https://store.steampowered.com/app/225080/Brothers__A_Tale_of_Two_Sons/
-{ "name": "Brothers.exe", "type": "Game" }
 { "name": "BrothersLauncher.exe", "type": "BG_CPUIO" }
+
+# Brothers: A Tale of Two Sons Remake https://store.steampowered.com/app/2153350/Brothers_A_Tale_of_Two_Sons_Remake/
+{ "name": "Brothers - A Tale of Two Sons - Remake.exe", "type": "Game" }
+{ "name": "Brothers-Win64-Shipping.exe", "type": "Game" }
 
 # Brothers in Arms: Earned in Blood https://store.steampowered.com/app/19800/Brothers_in_Arms_Earned_in_Blood/
 { "name": "eib.exe", "type": "Game" }
