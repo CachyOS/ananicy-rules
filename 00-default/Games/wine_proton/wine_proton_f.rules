@@ -389,9 +389,6 @@
 # Fate/stay night REMASTERED https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/
 { "name": "fsn2-win64vc14-release.exe", "type": "Game" }
 
-# Forestrike https://store.steampowered.com/app/2325920/Forestrike/
-{ "name": "Forestrike.exe", "type": "Game" }
-
 # Fate War https://store.steampowered.com/app/3581600/Fate_War/
 { "name": "Fate War.exe", "type": "Game" }
 
@@ -880,6 +877,9 @@
 
 # Forefront https://store.steampowered.com/app/2981220/Forefront/
 { "name": "Forefront_Internal.exe", "type": "Game" }
+
+# Forestrike https://store.steampowered.com/app/2325920/Forestrike/
+{ "name": "Forestrike.exe", "type": "Game" }
 
 # Foretales https://store.steampowered.com/app/1170080/Foretales/
 { "name": "Foretales.exe", "type": "Game" }

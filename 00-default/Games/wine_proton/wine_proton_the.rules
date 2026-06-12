@@ -44,9 +44,6 @@
 # The Baby in Yellow https://store.steampowered.com/app/2291340/The_Baby_In_Yellow/
 { "name": "GameSteam-Win64-Shipping.exe", "type": "Game" }
 
-# The Red Strings Club https://store.steampowered.com/app/589780/The_Red_Strings_Club/
-{ "name": "TRSC2017.exe", "type": "Game" }
-
 # The Backrooms Deluxe 2 https://store.steampowered.com/app/4066790/The_Backrooms_Deluxe_2/
 { "name": "Deluxe2.exe", "type": "Game" }
 { "name": "Deluxe2-Win64-Shipping.exe", "type": "Game" }
@@ -940,6 +937,9 @@
 
 # The Red Pearls Of Borneo https://store.steampowered.com/app/4488860/The_Red_Pearls_Of_Borneo/
 { "name": "The Red Pearls of Borneo.exe", "type": "Game" }
+
+# The Red Strings Club https://store.steampowered.com/app/589780/The_Red_Strings_Club/
+{ "name": "TRSC2017.exe", "type": "Game" }
 
 # The Remake of the End of the Greatest RPG of All Time https://store.steampowered.com/app/2809660/The_Remake_of_the_End_of_the_Greatest_RPG_of_All_Time/
 { "name": "The Remake the End of the Greatest RPG of All Time.exe", "type": "Game" }

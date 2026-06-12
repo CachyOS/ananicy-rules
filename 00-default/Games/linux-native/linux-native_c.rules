@@ -21,10 +21,6 @@
 { "name": "CarX_Street.x86_64", "type": "Game" }
 { "name": "eac_launcher", "type": "BG_CPUIO" }
 
-# Crawl https://store.steampowered.com/app/293780/Crawl/
-{ "name": "Crawl.x86_64", "type": "Game" }
-{ "name": "Crawl.x86", "type": "Game" }
-
 # Cassette Beasts https://store.steampowered.com/app/1321440/Cassette_Beasts/
 { "name": "CassetteBeasts.x86_64", "type": "Game" }
 
@@ -258,6 +254,10 @@
 
 # Crashlands https://store.steampowered.com/app/391730/Crashlands/
 { "name": "Crashlands", "type": "Game" }
+
+# Crawl https://store.steampowered.com/app/293780/Crawl/
+{ "name": "Crawl.x86_64", "type": "Game" }
+{ "name": "Crawl.x86", "type": "Game" }
 
 # Crea https://store.steampowered.com/app/280520/Crea/
 { "name": "Crea", "type": "Game" }

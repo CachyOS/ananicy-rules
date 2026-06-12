@@ -70,13 +70,6 @@
 { "name": "PaliaClientSteam.exe", "type": "Game" }
 { "name": "PaliaClientSteam-Win64-Shipping.exe", "type": "Game" }
 
-# Pixel Cup Soccer - Ultimate Edition https://store.steampowered.com/app/1620540/Pixel_Cup_Soccer__Ultimate_Edition/
-{ "name": "Pixel Cup Soccer Ultimate Edition.exe", "type": "Game" }
-
-# Possessor(s) https://store.steampowered.com/app/2132890/Possessors/
-{ "name": "Pose.exe", "type": "Game" }
-{ "name": "Pose-Win64-Shipping.exe", "type": "Game" }
-
 # Palworld https://store.steampowered.com/app/1623730/Palworld/
 { "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
 { "name": "Palworld.exe", "type": "Game" }
@@ -586,6 +579,9 @@
 # Pixel Collector https://store.steampowered.com/app/3076350/Pixel_Collector/
 { "name": "PixelCollector.exe", "type": "Game" }
 
+# Pixel Cup Soccer - Ultimate Edition https://store.steampowered.com/app/1620540/Pixel_Cup_Soccer__Ultimate_Edition/
+{ "name": "Pixel Cup Soccer Ultimate Edition.exe", "type": "Game" }
+
 # Pixel Game Maker MV https://store.steampowered.com/app/837510/Pixel_Game_Maker_MV/
 { "name": "PGMMV.exe", "type": "Game" }
 
@@ -893,6 +889,10 @@
 
 # Port Royale 4 https://store.steampowered.com/app/1024650/Port_Royale_4/
 { "name": "PortRoyale4.exe", "type": "Game" }
+
+# Possessor(s) https://store.steampowered.com/app/2132890/Possessors/
+{ "name": "Pose.exe", "type": "Game" }
+{ "name": "Pose-Win64-Shipping.exe", "type": "Game" }
 
 # POSTAL https://store.steampowered.com/app/232770/POSTAL/
 { "name": "Postal Plus.exe", "type": "Game" }

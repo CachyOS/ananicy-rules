@@ -20,14 +20,6 @@
 # Absolum https://store.steampowered.com/app/1904480/Absolum/
 { "name": "Absolum.exe", "type": "Game" }
 
-# ABZÛ https://store.steampowered.com/app/384190/ABZU/
-{ "name": "AbzuGame.exe", "type": "Game" }
-{ "name": "AbzuGame-Win64-Shipping.exe", "type": "Game" }
-
-# Arms of God https://store.steampowered.com/app/3100310/Arms_of_God/
-{ "name": "ArmsOfGod.exe", "type": "Game" }
-{ "name": "ArmsOfGod-Win64-Shipping.exe", "type": "Game" }
-
 # Absolute Drift https://store.steampowered.com/app/320140/Absolute_Drift/
 { "name": "AbsoluteDrift.exe", "type": "Game" }
 
@@ -50,6 +42,10 @@
 # Abyssus https://store.steampowered.com/app/1721110/Abyssus/
 { "name": "RGame.exe", "type": "Game" }
 { "name": "RGame-Win64-Shipping.exe", "type": "Game" }
+
+# ABZÛ https://store.steampowered.com/app/384190/ABZU/
+{ "name": "AbzuGame.exe", "type": "Game" }
+{ "name": "AbzuGame-Win64-Shipping.exe", "type": "Game" }
 
 # Academia : School Simulator https://store.steampowered.com/app/672630/Academia__School_Simulator/
 { "name": "Academia.exe", "type": "Game" }
@@ -1041,6 +1037,10 @@
 { "name": "ArmoredWarfareLauncher.exe", "type": "Game" }
 { "name": "AWLauncher.exe", "type": "Game" }
 { "name": "AWBenchmark.exe", "type": "Game" }
+
+# Arms of God https://store.steampowered.com/app/3100310/Arms_of_God/
+{ "name": "ArmsOfGod.exe", "type": "Game" }
+{ "name": "ArmsOfGod-Win64-Shipping.exe", "type": "Game" }
 
 # Arms Trade Tycoon Tanks https://store.steampowered.com/app/1662210/Arms_Trade_Tycoon_Tanks/
 { "name": "Arms Trade Tycoon Tanks.exe", "type": "Game" }
