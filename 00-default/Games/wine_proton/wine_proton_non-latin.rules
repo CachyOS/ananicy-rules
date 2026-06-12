@@ -53,24 +53,12 @@
 # Dì xīn guītú Return From Core 地心归途 Return From Core https://store.steampowered.com/app/2171630/Return_from_Core/
 { "name": "Return From Core.exe", "type": "Game" }
 
-# Dōngfāng de língdiàn 〜 Subterranean Animism. 東方地霊殿 〜 Subterranean Animism. https://store.steampowered.com/app/1100150/Touhou_Chireiden__Subterranean_Animism/
-{ "name": "th11.exe", "type": "Game" }
-
-# Dōngfāng gàn zhū yún ~ Legacy of Lunatic Kingdom. 東方紺珠伝 ～ Legacy of Lunatic Kingdom. https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/
-{ "name": "th15.exe", "type": "Game" }
-
 # Dōngfāng guāngyào yè ~ Lost Branch of Legend 东方光耀夜 ~ Lost Branch of Legend https://store.steampowered.com/app/1140150/Touhou_Lost_Branch_of_Legend/
 { "name": "ModTheLBoL.Desktop.exe", "type": "Game" }
 { "name": "LBoL.exe", "type": "Game" }
 
-# Dōngfāng hóng lóngdòng ~ Unconnected Marketeers. 東方虹龍洞 ～ Unconnected Marketeers. https://store.steampowered.com/app/1566410/Touhou_Kouryudou__Unconnected_Marketeers/
-{ "name": "th18.exe", "type": "Game" }
-
 # Dōngfāng huá xīn chuán - Touhou Blooming Soul 东方华心传 - Touhou Blooming Soul https://store.steampowered.com/app/1970030/Touhou_Blooming_Soul/
 { "name": "Touhou Blooming Soul.exe", "type": "Game" }
-
-# Dōngfāng jǐn shàngjīng 〜 Fossilized Wonders. 東方錦上京 〜 Fossilized Wonders. https://store.steampowered.com/app/3671710/Touhou_Kinjoukyou__Fossilized_Wonders/
-{ "name": "th20.exe", "type": "Game" }
 
 # Dōngfāng: Píngyě gū hóng 东方：平野孤鸿 https://store.steampowered.com/app/2656540/Ballads_of_Hongye_REBORN/
 { "name": "BalladsOfHongye.exe", "type": "Game" }
@@ -572,7 +560,7 @@
 
 
 
-### Japanese ### 
+### Japanese ###
 
 # Burūpurotokoru: Sutārezonansu ブループロトコル：スターレゾナンス https://store.steampowered.com/app/4073960/
 { "name": "StarASIA_STEAM.exe", "type": "Game" }
@@ -636,6 +624,21 @@
 
 # Suzume sumeragi mājan 雀皇麻雀 https://store.steampowered.com/app/1973970/_/
 { "name": "gameClient.exe", "type": "Game" }
+
+# Tōhō Chireiden 〜 Subterranean Animism. 東方地霊殿 〜 Subterranean Animism. https://store.steampowered.com/app/1100150/Touhou_Chireiden__Subterranean_Animism/
+{ "name": "th11.exe", "type": "Game" }
+
+# Tōhō Fūjinroku ~ Mountain of Faith. 東方風神録 〜 Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
+{ "name": "th10.exe", "type": "Game" }
+
+# Tōhō Kanjuden ~ Legacy of Lunatic Kingdom. 東方紺珠伝 ～ Legacy of Lunatic Kingdom. https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/
+{ "name": "th15.exe", "type": "Game" }
+
+# Tōhō Kinjōkyō 〜 Fossilized Wonders. 東方錦上京 〜 Fossilized Wonders. https://store.steampowered.com/app/3671710/Touhou_Kinjoukyou__Fossilized_Wonders/
+{ "name": "th20.exe", "type": "Game" }
+
+# Tōhō Kōryudō ~ Unconnected Marketeers. 東方虹龍洞 ～ Unconnected Marketeers. https://store.steampowered.com/app/1566410/Touhou_Kouryudou__Unconnected_Marketeers/
+{ "name": "th18.exe", "type": "Game" }
 
 # Tsuki ni yori-sō otome no sahō 月に寄りそう乙女の作法 https://store.steampowered.com/app/1776970/_/
 { "name": "Tsukiniyorisou.exe", "type": "Game" }
