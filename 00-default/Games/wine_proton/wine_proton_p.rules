@@ -51,13 +51,6 @@
 # Painkiller Redemption https://store.steampowered.com/app/65560/Painkiller_Redemption/
 { "name": "Redemption.exe", "type": "Game" }
 
-# Paper Dolls Original https://store.steampowered.com/app/1051310/Paper_Dolls_Original/
-{ "name": "PaperDollsOriginal.exe", "type": "Game" }
-{ "name": "PDS-Win64-Shipping.exe", "type": "Game" }
-
-# Plasma https://store.steampowered.com/app/1409160/Plasma/
-{ "name": "Plasma.exe", "type": "Game" }
-
 # Painkiller: Resurrection https://store.steampowered.com/app/39560/Painkiller_Resurrection/
 { "name": "Resurrection.exe", "type": "Game" }
 
@@ -134,6 +127,10 @@
 # Paper Dolls 2 https://store.steampowered.com/app/1334040/Paper_Dolls_2/
 { "name": "PD2.exe", "type": "Game" }
 { "name": "PD2-Win64-Shipping.exe", "type": "Game" }
+
+# Paper Dolls Original https://store.steampowered.com/app/1051310/Paper_Dolls_Original/
+{ "name": "PaperDollsOriginal.exe", "type": "Game" }
+{ "name": "PDS-Win64-Shipping.exe", "type": "Game" }
 
 # PAPERHEAD EP0 https://store.steampowered.com/app/3008200/PAPERHEAD_EP0/
 { "name": "PLAY PAPERHEAD.exe", "type": "Game" }
@@ -709,6 +706,9 @@
 
 # Plants vs. Zombies: Replanted https://store.steampowered.com/app/3654560/Plants_vs_Zombies_Replanted/
 { "name": "Replanted.exe", "type": "Game" }
+
+# Plasma https://store.steampowered.com/app/1409160/Plasma/
+{ "name": "Plasma.exe", "type": "Game" }
 
 # PlateUp! https://store.steampowered.com/app/1599600/PlateUp/
 { "name": "PlateUp.exe", "type": "Game" }

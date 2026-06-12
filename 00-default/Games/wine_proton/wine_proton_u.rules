@@ -35,10 +35,6 @@
 # UFO 50 https://store.steampowered.com/app/1147860/UFO_50/
 { "name": "ufo50.exe", "type": "Game" }
 
-# Unravel https://store.steampowered.com/app/1225560/Unravel/
-{ "name": "Unravel_trial.exe", "type": "Game" }
-{ "name": "Unravel.exe", "type": "Game" }
-
 # Ukrainian Fight Drone Simulator https://store.steampowered.com/app/2862860/Ukrainian_Fight_Drone_Simulator_UFDS__FPV_drone_simulator/
 { "name": "UFDS.exe", "type": "Game" }
 { "name": "UFDS-Win64-Shipping.exe", "type": "Game" }
@@ -261,6 +257,10 @@
 
 # Unrailed 2: Back on Track https://store.steampowered.com/app/2211170/Unrailed_2_Back_on_Track/
 { "name": "Unrailed2.exe", "type": "Game" }
+
+# Unravel https://store.steampowered.com/app/1225560/Unravel/
+{ "name": "Unravel_trial.exe", "type": "Game" }
+{ "name": "Unravel.exe", "type": "Game" }
 
 # Unravel Two https://store.steampowered.com/app/1225570/Unravel_Two/
 { "name": "UnravelTwo.exe", "type": "Game" }

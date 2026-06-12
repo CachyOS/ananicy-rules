@@ -26,9 +26,6 @@
 # Vampy's Big Day Demo https://store.steampowered.com/app/4756360/
 { "name": "Vampy's Big Day", "type": "Game" }
 
-# Victor Vran https://store.steampowered.com/app/345180/Victor_Vran_ARPG/
-{ "name": "VictorVran", "type": "Game" }
-
 # Vangers https://store.steampowered.com/app/264080/Vangers/
 { "name": "vangers32", "type": "Game" }
 { "name": "vangers64", "type": "Game" }
@@ -48,6 +45,9 @@
 
 # Victoria 3 https://store.steampowered.com/app/529340/Victoria_3/
 { "name": "victoria3", "type": "Game" }
+
+# Victor Vran https://store.steampowered.com/app/345180/Victor_Vran_ARPG/
+{ "name": "VictorVran", "type": "Game" }
 
 # Vigil: The Longest Night https://store.steampowered.com/app/720560/Vigil_The_Longest_Night/
 { "name": "vigil.x86_64", "type": "Game" }

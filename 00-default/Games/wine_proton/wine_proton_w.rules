@@ -39,16 +39,6 @@
 # Wallpaper Engine https://store.steampowered.com/app/431960/Wallpaper_Engine/
 { "name": "wallpaper64.exe", "type": "BG_CPUIO" }
 
-# Warplanes: WW2 Dogfight https://store.steampowered.com/app/936780/Warplanes_WW2_Dogfight/
-{ "name": "Warplanes.exe", "type": "Game" }
-
-# Weapon Shop Fantasy https://store.steampowered.com/app/599460/Weapon_Shop_Fantasy/
-{ "name": "WeaponShopFantasy.exe", "type": "Game" }
-
-# Wires And Whiskers https://store.steampowered.com/app/3874440/Wires_And_Whiskers/
-{ "name": "WiresAndWhiskers.exe", "type": "Game" }
-{ "name": "PFE-Win64-Shipping.exe", "type": "Game" }
-
 # Wallpaper Play https://store.steampowered.com/app/3413340/Wallpaper_Play/
 { "name": "webview2runtime.exe", "type": "BG_CPUIO" }
 { "name": "WallpaperPlay.exe", "type": "BG_CPUIO" }
@@ -261,6 +251,9 @@
 # Warpips https://store.steampowered.com/app/1291010/Warpips/
 { "name": "Warpips.exe", "type": "Game" }
 
+# Warplanes: WW2 Dogfight https://store.steampowered.com/app/936780/Warplanes_WW2_Dogfight/
+{ "name": "Warplanes.exe", "type": "Game" }
+
 # War Planet Online: Global Conquest https://store.steampowered.com/app/719640/War_Planet_Online_Global_Conquest/
 { "name": "WarPlanetOnline.exe", "type": "Game" }
 
@@ -399,6 +392,9 @@
 
 # Weapons Genius https://store.steampowered.com/app/385400/Weapons_Genius/
 { "name": "WeaponGenius.exe", "type": "Game" }
+
+# Weapon Shop Fantasy https://store.steampowered.com/app/599460/Weapon_Shop_Fantasy/
+{ "name": "WeaponShopFantasy.exe", "type": "Game" }
 
 # WE ARE FOOTBALL https://store.steampowered.com/app/1196470/WE_ARE_FOOTBALL/
 { "name": "fe_nt.exe", "type": "Game" }
@@ -677,6 +673,10 @@
 
 # Winter Resort Simulator 2 https://store.steampowered.com/app/1420770/Winter_Resort_Simulator_2/
 { "name": "WinterResortSimulator_Season2.exe", "type": "Game" }
+
+# Wires And Whiskers https://store.steampowered.com/app/3874440/Wires_And_Whiskers/
+{ "name": "WiresAndWhiskers.exe", "type": "Game" }
+{ "name": "PFE-Win64-Shipping.exe", "type": "Game" }
 
 # Wireworks https://store.steampowered.com/app/4206270/Wireworks/
 { "name": "Wireworks.exe", "type": "Game" }

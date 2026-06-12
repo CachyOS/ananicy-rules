@@ -69,14 +69,6 @@
 # Taken Souls: Blood Ritual Collector's Edition https://store.steampowered.com/app/586930/Taken_Souls_Blood_Ritual_Collectors_Edition/
 { "name": "Taken Souls Blood Ritual.exe", "type": "Game" }
 
-# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part III https://store.steampowered.com/app/2877170/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_III/
-{ "name": "THMHJhp.exe", "type": "Game" }
-
-# TramSim Vienna https://store.steampowered.com/app/1314140/TramSim_Vienna__The_Tram_Simulator/
-{ "name": "TramSimVienna.exe", "type": "Game" }
-{ "name": "TramSimBootstrap.exe", "type": "Game" }
-{ "name": "TramSimVienna-Win64-Shipping.exe", "type": "Game" }
-
 # Take On Mars https://store.steampowered.com/app/244030/Take_On_Mars/
 { "name": "TKOM.exe", "type": "Game" }
 { "name": "TKOM_Loader.exe", "type": "Game" }
@@ -1008,6 +1000,9 @@
 # Touhou Luna Nights https://store.steampowered.com/app/851100/Touhou_Luna_Nights/
 { "name": "touhou_luna_nights.exe", "type": "Game" }
 
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part III https://store.steampowered.com/app/2877170/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_III/
+{ "name": "THMHJhp.exe", "type": "Game" }
+
 # Touhou Mystia's Izakaya https://store.steampowered.com/app/1584090/Touhou_Mystias_Izakaya/
 { "name": "Touhou Mystia Izakaya.exe", "type": "Game" }
 
@@ -1157,6 +1152,11 @@
 # Trakonius https://store.steampowered.com/app/2418490/Trakonius/
 { "name": "Trakonius.exe", "type": "Game" }
 { "name": "Trakonius-Win64-Shipping.exe", "type": "Game" }
+
+# TramSim Vienna https://store.steampowered.com/app/1314140/TramSim_Vienna__The_Tram_Simulator/
+{ "name": "TramSimVienna.exe", "type": "Game" }
+{ "name": "TramSimBootstrap.exe", "type": "Game" }
+{ "name": "TramSimVienna-Win64-Shipping.exe", "type": "Game" }
 
 # Transformice https://store.steampowered.com/app/335240/Transformice/
 { "name": "Transformice.exe", "type": "Game" }

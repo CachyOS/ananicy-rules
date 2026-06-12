@@ -5,11 +5,11 @@
 
 ### V ###
 
-# Vacation Simulator https://store.steampowered.com/app/726830/Vacation_Simulator/
-{ "name": "Vacation Simulator.exe", "type": "Game" }
-
 # VA-11 Hall-A: Cyberpunk Bartender Action https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
 { "name": "VA-11 Hall A.exe", "type": "Game" }
+
+# Vacation Simulator https://store.steampowered.com/app/726830/Vacation_Simulator/
+{ "name": "Vacation Simulator.exe", "type": "Game" }
 
 # Vacuum Warrior https://store.steampowered.com/app/2302990/Vacuum_Warrior__Idle_Game/
 { "name": "VacuumWarrior.exe", "type": "Game" }
@@ -35,12 +35,6 @@
 
 # Valheim Dedicated Server https://store.steampowered.com/app/896660/
 { "name": "valheim_server.exe", "type": "Game" }
-
-# Victor Vran https://store.steampowered.com/app/345180/Victor_Vran_ARPG/
-{ "name": "VictorVranSteam.exe", "type": "Game" }
-
-# VR HOT https://store.steampowered.com/app/1571340/
-{ "name": "VR HOT.exe", "type": "Game" }
 
 # Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/
 { "name": "Valiant Hearts.exe", "type": "Game" }
@@ -180,6 +174,9 @@
 
 # Victoria II https://store.steampowered.com/app/42960/Victoria_II/
 { "name": "victoria2.exe", "type": "Game" }
+
+# Victor Vran https://store.steampowered.com/app/345180/Victor_Vran_ARPG/
+{ "name": "VictorVranSteam.exe", "type": "Game" }
 
 # Vietnam War https://store.steampowered.com/app/1837480/Vietnam_War/
 { "name": "Vietnam War.exe", "type": "Game" }
@@ -362,6 +359,9 @@
 # VRHandsFrame https://store.steampowered.com/app/2324090/VRHandsFrame/
 { "name": "VRHandsFrameProcessManager.exe", "type": "BG_CPUIO" }
 { "name": "VRHandsFrame.exe", "type": "BG_CPUIO" }
+
+# VR HOT https://store.steampowered.com/app/1571340/
+{ "name": "VR HOT.exe", "type": "Game" }
 
 # V Rising https://store.steampowered.com/app/1604030/V_Rising/
 { "name": "VRising.exe", "type": "Game" }

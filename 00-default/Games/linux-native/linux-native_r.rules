@@ -23,9 +23,6 @@
 # Ravager https://store.steampowered.com/app/1683560/
 { "name": "Ravager", "type": "Game" }
 
-# Rogue Voltage https://store.steampowered.com/app/1494560/Rogue_Voltage/
-{ "name": "RogueVoltage.x86_64", "type": "Game" }
-
 # Ravenfield https://store.steampowered.com/app/636480/Ravenfield/
 { "name": "ravenfield.x86_64", "type": "Game" }
 
@@ -163,6 +160,9 @@
 # Rogue Legacy 2 https://store.steampowered.com/app/1253920/Rogue_Legacy_2/
 { "name": "RogueLegacy2", "type": "Game" }
 { "name": "RogueLegacy2.x86_64", "type": "Game" }
+
+# Rogue Voltage https://store.steampowered.com/app/1494560/Rogue_Voltage/
+{ "name": "RogueVoltage.x86_64", "type": "Game" }
 
 # Roots of Pacha https://store.steampowered.com/app/1245560/Roots_of_Pacha/
 { "name": "Roots of Pacha.x86_64", "type": "Game" }

@@ -176,6 +176,10 @@
 # FANTASIAN Neo Dimension https://store.steampowered.com/app/2844850/FANTASIAN_Neo_Dimension/
 { "name": "FantasianND.exe", "type": "Game" }
 
+# Fantasia Sango Mysteria https://store.steampowered.com/app/1597460/Fantasia_Sango_Mysteria/
+{ "name": "FSM.exe", "type": "Game" }
+{ "name": "FSM-Win64-Shipping.exe", "type": "Game" }
+
 # Fantasy Aquarium https://store.steampowered.com/app/3183350/Fantasy_Aquarium/
 { "name": "Fantasy Aquarium.exe", "type": "Game" }
 
@@ -379,13 +383,6 @@
 # FATE: Reawakened https://store.steampowered.com/app/3030720/FATE_Reawakened/
 { "name": "FateReawakened.exe", "type": "Game" }
 
-# Fantasia Sango Mysteria https://store.steampowered.com/app/1597460/Fantasia_Sango_Mysteria/
-{ "name": "FSM.exe", "type": "Game" }
-{ "name": "FSM-Win64-Shipping.exe", "type": "Game" }
-
-# Fears to Fathom - Scratch Creek https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/
-{ "name": "Fears to Fathom - Scratch Creek.exe", "type": "Game" }
-
 # Fate/Samurai Remnant https://store.steampowered.com/app/1902690/FateSamurai_Remnant/
 { "name": "FateSamuraiRemnant.exe", "type": "Game" }
 
@@ -424,6 +421,9 @@
 
 # Fears to Fathom - Norwood Hitchhike https://store.steampowered.com/app/1763050/Fears_to_Fathom__Norwood_Hitchhike/
 { "name": "Fears To Fathom - Norwood Hitchhike.exe", "type": "Game" }
+
+# Fears to Fathom - Scratch Creek https://store.steampowered.com/app/4121170/Fears_to_Fathom__Scratch_Creek/
+{ "name": "Fears to Fathom - Scratch Creek.exe", "type": "Game" }
 
 # Fears to Fathom - Woodbury Getaway https://store.steampowered.com/app/2961530/Fears_to_Fathom__Woodbury_Getaway/
 { "name": "Fears to Fathom - Woodbury Getaway.exe", "type": "Game" }

@@ -27,10 +27,6 @@
 # Lacuna https://store.steampowered.com/app/1364100/Lacuna__A_SciFi_Noir_Adventure/
 { "name": "Lacuna.exe", "type": "Game" }
 
-# Lunar Eclipse https://store.steampowered.com/app/2953480/Lunar_Eclipse/
-{ "name": "LunarEclipse.exe", "type": "Game" }
-{ "name": "LunarEclipse-Win64-Shipping.exe", "type": "Game" }
-
 # Laika: Aged Through Blood https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/
 { "name": "Laika Aged through Blood.exe", "type": "Game" }
 
@@ -846,6 +842,10 @@
 
 # Lunacid https://store.steampowered.com/app/1745510/Lunacid/
 { "name": "LUNACID.exe", "type": "Game" }
+
+# Lunar Eclipse https://store.steampowered.com/app/2953480/Lunar_Eclipse/
+{ "name": "LunarEclipse.exe", "type": "Game" }
+{ "name": "LunarEclipse-Win64-Shipping.exe", "type": "Game" }
 
 # LUNAR Remastered Collection https://store.steampowered.com/app/3255380/LUNAR_Remastered_Collection/
 { "name": "lunar_launcher.exe", "type": "BG_CPUIO" }
