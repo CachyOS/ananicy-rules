@@ -47,6 +47,9 @@
 { "name": "aces", "type": "Game" }
 { "name": "launcher", "type": "BG_CPUIO" }
 
+# Witchy Business https://store.steampowered.com/app/3415230/Witchy_Business/
+{ "name": "app.x86_64", "type": "Game" }
+
 # Wasteland 1 - The Original Classic https://store.steampowered.com/app/259130/Wasteland_1__The_Original_Classic/
 { "name": "wasteland", "type": "Game" }
 

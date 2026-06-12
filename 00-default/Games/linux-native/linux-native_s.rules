@@ -38,6 +38,14 @@
 # Sanctum 2 https://store.steampowered.com/app/210770/Sanctum_2/
 { "name": "Sanctum2", "type": "Game" }
 
+# Shroud of the Avatar: Forsaken Virtues https://store.steampowered.com/app/326160/Shroud_of_the_Avatar_Forsaken_Virtues/
+{ "name": "Shroud of the Avatar.x86", "type": "Game" }
+{ "name": "Shroud of the Avatar.x86_64", "type": "Game" }
+
+# Starcom: Nexus https://store.steampowered.com/app/863590/Starcom_Nexus/
+{ "name": "StarcomNexus.x86_64", "type": "Game" }
+{ "name": "StarcomNexus.x86", "type": "Game" }
+
 # Sand:box https://store.steampowered.com/app/2179380/Sandbox/
 { "name": "sandbox", "type": "Game" }
 
