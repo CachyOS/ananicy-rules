@@ -83,3 +83,6 @@
 
 # Mochi is a note-taking and spaced-repetition flashcard app, built on top of Markdown. 
 { "name": "mochi", "type": "Doc-View" }
+
+# Notepad++ is a free source code editor and Notepad replacement https://notepad-plus-plus.org
+{ "name": "notepad++.exe", "type": "Doc-View" }
