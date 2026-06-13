@@ -34,12 +34,6 @@
 # Hacknet https://store.steampowered.com/app/365450/Hacknet/
 { "name": "Hacknet.exe", "type": "Game" }
 
-# Hello Neighbor: Hide and Seek https://store.steampowered.com/app/960420/Hello_Neighbor_Hide_and_Seek/
-{ "name": "HideAndSeek.exe", "type": "Game" }
-
-# Hellpoint https://store.steampowered.com/app/628670/Hellpoint/
-{ "name": "Hellpoint.exe", "type": "Game" }
-
 # Hadean Tactics https://store.steampowered.com/app/1260590/Hadean_Tactics/
 { "name": "HadeanTactics.exe", "type": "Game" }
 
@@ -378,12 +372,18 @@
 { "name": "HelloNeighbor3.exe", "type": "Game" }
 { "name": "HelloNeighbor3-Win64-Shipping.exe", "type": "Game" }
 
+# Hello Neighbor: Hide and Seek https://store.steampowered.com/app/960420/Hello_Neighbor_Hide_and_Seek/
+{ "name": "HideAndSeek.exe", "type": "Game" }
+
 # Hello Neighbor Pre-Alpha https://store.steampowered.com/app/1092700/Hello_Neighbor_PreAlpha/
 { "name": "HelloNeighbour.exe", "type": "Game" }
 { "name": "HelloNeighbour-Win64-Shipping.exe", "type": "Game" }
 
 # Hell Pie https://store.steampowered.com/app/889910/Hell_Pie/
 { "name": "HellPie.exe", "type": "Game" }
+
+# Hellpoint https://store.steampowered.com/app/628670/Hellpoint/
+{ "name": "Hellpoint.exe", "type": "Game" }
 
 # Hellscreen https://store.steampowered.com/app/1410090/Hellscreen/
 { "name": "Hellscreen.exe", "type": "Game" }

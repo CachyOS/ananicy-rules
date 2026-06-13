@@ -17,9 +17,6 @@
 # Above the Snow https://store.steampowered.com/app/2423760/Above_the_Snow/
 { "name": "Above The Snow.exe", "type": "Game" }
 
-# Among Us 3D: VR https://store.steampowered.com/app/1849900/Among_Us_3D_VR/
-{ "name": "AmongUsVR.exe", "type": "Game" }
-
 # Absolum https://store.steampowered.com/app/1904480/Absolum/
 { "name": "Absolum.exe", "type": "Game" }
 
@@ -629,6 +626,9 @@
 
 # Among Us 3D https://store.steampowered.com/app/3168600/Among_Us_3D/
 { "name": "AmongUs3D.exe", "type": "Game" }
+
+# Among Us 3D: VR https://store.steampowered.com/app/1849900/Among_Us_3D_VR/
+{ "name": "AmongUsVR.exe", "type": "Game" }
 
 # A Monster's Expedition https://store.steampowered.com/app/1052990/A_Monsters_Expedition/
 { "name": "A Monster's Expedition.exe", "type": "Game" }

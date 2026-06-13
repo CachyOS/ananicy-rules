@@ -23,9 +23,6 @@
 # Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
 { "name": "hl2mp_linux64", "type": "Game" }
 
-# Hellpoint https://store.steampowered.com/app/628670/Hellpoint/
-{ "name": "Hellpoint.x86_64", "type": "Game" }
-
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
@@ -83,6 +80,9 @@
 # Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
 { "name": "heliborne.x86_64", "type": "Game" }
 { "name": "heliborne.x64", "type": "Game" }
+
+# Hellpoint https://store.steampowered.com/app/628670/Hellpoint/
+{ "name": "Hellpoint.x86_64", "type": "Game" }
 
 # Helltaker https://store.steampowered.com/app/1289310/Helltaker/
 { "name": "helltaker_lnx.x86_64", "type": "Game" }

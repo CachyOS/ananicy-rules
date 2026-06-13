@@ -764,14 +764,6 @@
 # Dragon Marked For Death https://store.steampowered.com/app/1149440/Dragon_Marked_For_Death/
 { "name": "game.exe", "type": "Game" }
 
-# Hello Neighbor: Hide and Seek https://store.steampowered.com/app/960420/Hello_Neighbor_Hide_and_Seek/
-# Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
-{ "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
-
-# NBA THE RUN https://store.steampowered.com/app/2866670/NBA_THE_RUN/
-# NBA THE RUN Playtest https://store.steampowered.com/app/4695820/NBA_THE_RUN/
-{ "name": "NBA THE RUN.exe", "type": "Game" }
-
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
 # CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
 # BLACK SOULS II https://store.steampowered.com/app/3855540/BLACK_SOULS_II/
@@ -1010,6 +1002,10 @@
 # Hello Neighbor Alpha 4 https://store.steampowered.com/app/1096710/Hello_Neighbor_Alpha_4/
 # Hello Neighbor Alpha 3 https://store.steampowered.com/app/1092730/Hello_Neighbor_Alpha_3/
 { "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
+
+# Hello Neighbor: Hide and Seek https://store.steampowered.com/app/960420/Hello_Neighbor_Hide_and_Seek/
+# Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
+{ "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
 
 # Heretic: Shadow of the Serpent Riders https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/
 # Heretic + Hexen https://store.steampowered.com/app/3286930/
@@ -1390,6 +1386,10 @@
 # NARAKA: BLADEPOINT - Test Server https://store.steampowered.com/app/1402480/NARAKA_BLADEPOINT____Test_Server/
 # NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
 { "name": "NarakaBladepoint.exe", "type": "Game" }
+
+# NBA THE RUN https://store.steampowered.com/app/2866670/NBA_THE_RUN/
+# NBA THE RUN Playtest https://store.steampowered.com/app/4695820/NBA_THE_RUN/
+{ "name": "NBA THE RUN.exe", "type": "Game" }
 
 # NARAKA: BLADEPOINT - Test Server https://store.steampowered.com/app/1402480/NARAKA_BLADEPOINT____Test_Server/
 # NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
@@ -1850,10 +1850,6 @@
 # Soundpad Demo https://store.steampowered.com/app/632810/Soundpad/
 { "name": "SoundpadService.exe", "type": "BG_CPUIO" }
 
-# Tabletop Tavern Demo https://store.steampowered.com/app/3410010/Tabletop_Tavern_Demo/
-# Tabletop Tavern https://store.steampowered.com/app/3337380/Tabletop_Tavern/
-{ "name": "TabletopTavern.exe", "type": "Game" }
-
 # SpaceCraft Demo https://store.steampowered.com/app/4328020/
 # SpaceCraft Beta https://store.steampowered.com/app/4011220/SpaceCraft/
 # SpaceCraft https://store.steampowered.com/app/3276050/SpaceCraft/
@@ -1989,6 +1985,10 @@
 # Call of Duty: Black Ops II - Zombies https://store.steampowered.com/app/212910/
 # Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
 { "name": "t6zm.exe", "type": "Game" }
+
+# Tabletop Tavern Demo https://store.steampowered.com/app/3410010/Tabletop_Tavern_Demo/
+# Tabletop Tavern https://store.steampowered.com/app/3337380/Tabletop_Tavern/
+{ "name": "TabletopTavern.exe", "type": "Game" }
 
 # TaleSpire https://store.steampowered.com/app/720620/TaleSpire/
 # TaleSpire - Guest Edition https://store.steampowered.com/app/2881860/TaleSpire__Guest_Edition/

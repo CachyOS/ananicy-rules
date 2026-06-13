@@ -45,9 +45,6 @@
 { "name": "SaintsRow_DX12.exe", "type": "Game" }
 { "name": "SaintsRow_Vulkan.exe", "type": "Game" }
 
-# Super Dark Deception https://store.steampowered.com/app/2193720/Super_Dark_Deception/
-{ "name": "Super Dark Deception.exe", "type": "Game" }
-
 # Saints Row 2 https://store.steampowered.com/app/9480/Saints_Row_2/
 { "name": "SR2_pc.exe", "type": "Game" }
 
@@ -2759,6 +2756,9 @@
 
 # Super Crate Box https://store.steampowered.com/app/212800/Super_Crate_Box/
 { "name": "supercratebox.exe", "type": "Game" }
+
+# Super Dark Deception https://store.steampowered.com/app/2193720/Super_Dark_Deception/
+{ "name": "Super Dark Deception.exe", "type": "Game" }
 
 # SUPER DISTRO https://store.steampowered.com/app/364690/SUPER_DISTRO/
 { "name": "SUPERDITROXXL.exe", "type": "Game" }

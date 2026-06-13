@@ -31,9 +31,6 @@
 { "name": "Madden24.exe", "type": "Game" }
 { "name": "Madden24_Trial.exe", "type": "Game" }
 
-# Midnight Heist https://store.steampowered.com/app/2204350/Midnight_Heist/
-{ "name": "Midnight Heist.exe", "type": "Game" }
-
 # Mad Digger https://store.steampowered.com/app/584100/Mad_Digger/
 { "name": "mad_digger.exe", "type": "Game" }
 
@@ -777,6 +774,9 @@
 { "name": "MidnightGhostHunt.exe", "type": "Game" }
 { "name": "LaunchMidnightGhostHunt.exe", "type": "BG_CPUIO" }
 { "name": "MidnightGhostHunt-Win64-Shipping.exe", "type": "Game" }
+
+# Midnight Heist https://store.steampowered.com/app/2204350/Midnight_Heist/
+{ "name": "Midnight Heist.exe", "type": "Game" }
 
 # Midnight Paradise https://store.steampowered.com/app/2485270/
 { "name": "MidnightParadise.exe", "type": "Game" }
