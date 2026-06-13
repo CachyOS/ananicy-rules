@@ -3,6 +3,7 @@
 
 # RimSort Mod Manager https://rimsort.github.io/RimSort/
 { "name": "rimsort", "type": "BG_CPUIO" }
+{ "name": "RimSort", "type": "BG_CPUIO" }
 
 # IMG Factory https://github.com/MexUK/IMGF
 { "name": "IMG Factory 1.2.revived.exe", "type": "Image-View" }
