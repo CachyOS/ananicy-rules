@@ -36,7 +36,6 @@
 
 # Hello Neighbor: Hide and Seek https://store.steampowered.com/app/960420/Hello_Neighbor_Hide_and_Seek/
 { "name": "HideAndSeek.exe", "type": "Game" }
-{ "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
 
 # Hellpoint https://store.steampowered.com/app/628670/Hellpoint/
 { "name": "Hellpoint.exe", "type": "Game" }
@@ -374,7 +373,6 @@
 
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
 { "name": "HelloNeighbor.exe", "type": "Game" }
-{ "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
 
 # Hello Neighbor 3 Playtest https://store.steampowered.com/app/2800890/Hello_Neighbor_3/
 { "name": "HelloNeighbor3.exe", "type": "Game" }
