@@ -3,6 +3,7 @@
 
 # RimSort Mod Manager https://rimsort.github.io/RimSort/
 { "name": "rimsort", "type": "BG_CPUIO" }
+{ "name": "RimSort", "type": "BG_CPUIO" }
 
 # Input Remapper https://github.com/sezanzeb/input-remapper
 { "name": "input-remapper-gtk", "type": "BG_CPUIO" }
