@@ -73,6 +73,9 @@
 { "name": "Rag2.exe", "type": "Game" }
 { "name": "RO2Client.exe", "type": "Game" }
 
+# RAIDBORN https://store.steampowered.com/app/1546090/RAIDBORN/
+{ "name": "Raidborn.exe", "type": "Game" }
+
 # Raiders! Forsaken Earth https://store.steampowered.com/app/972010/Raiders_Forsaken_Earth/
 { "name": "Raiders.exe", "type": "Game" }
 
@@ -979,10 +982,6 @@
 # ROMANCE OF THE THREE KINGDOMS 8 REMAKE https://store.steampowered.com/app/2288150/ROMANCE_OF_THE_THREE_KINGDOMS_8_REMAKE/
 { "name": "SAN8R.exe", "type": "Game" }
 { "name": "San8rWER.exe", "type": "Game" }
-
-# Romance of the Three Kingdoms Hadou [JP] https://store.steampowered.com/app/1790310/
-{ "name": "SAN_HADOU_Launcher.exe", "type": "BG_CPUIO" }
-{ "name": "SAN_HADOU.exe", "type": "Game" }
 
 # Romance of the Three Kingdoms IX with Power Up Kit https://store.steampowered.com/app/628050/Romance_of_the_Three_Kingdoms_IX_with_Power_Up_Kit/
 { "name": "San9WPK_Launcher.exe", "type": "Game" }

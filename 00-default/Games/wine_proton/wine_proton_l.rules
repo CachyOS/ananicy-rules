@@ -176,9 +176,6 @@
 { "name": "LeftToSurviveSteamLoader.exe", "type": "Game" }
 { "name": "LeftToSurvive.exe", "type": "Game" }
 
-# Legacy of Defense - Prologue https://store.steampowered.com/app/3096620/Legacy_of_Defense__Prologue/
-{ "name": "Legacy of Defense.exe", "type": "Game" }
-
 # Legacy of Kain: Ascendance https://store.steampowered.com/app/4233530/Legacy_of_Kain_Ascendance/
 { "name": "Legacy of Kain Ascendance.exe", "type": "Game" }
 
@@ -374,6 +371,11 @@
 # LET IT DIE https://store.steampowered.com/app/794600/LET_IT_DIE/
 { "name": "BrgGame-Steam.exe", "type": "Game" }
 
+# LET IT DIE: INFERNO https://store.steampowered.com/app/2576150/LET_IT_DIE_INFERNO/
+{ "name": "LETITDIE_INFERNO.exe", "type": "Game" }
+{ "name": "FLCGame.exe", "type": "Game" }
+{ "name": "FLCGame-Win64-Shipping.exe", "type": "Game" }
+
 # Let's Build a Zoo https://store.steampowered.com/app/1547890/Lets_Build_a_Zoo/
 { "name": "LetsBuildAZoo.exe", "type": "Game" }
 
@@ -382,6 +384,9 @@
 
 # Lets Get Loot https://store.steampowered.com/app/3454530/Lets_Get_Loot/
 { "name": "LetsGetLoot.exe", "type": "Game" }
+
+# Letter Lost https://store.steampowered.com/app/3624790/Letter_Lost/
+{ "name": "LetterLost.exe", "type": "Game" }
 
 # Letters https://store.steampowered.com/app/3064270/Letters/
 { "name": "Letters.exe", "type": "Game" }
@@ -522,6 +527,9 @@
 
 # LISC https://store.steampowered.com/app/3063520/
 { "name": "LISC.exe", "type": "Game" }
+
+# Literally Just Pixels On A Screen https://store.steampowered.com/app/3072000/Literally_Just_Pixels_On_A_Screen/
+{ "name": "Literally_Just_Pixels_On_A_Screen.exe", "type": "Game" }
 
 # Little Big Workshop https://store.steampowered.com/app/574720/Little_Big_Workshop/
 { "name": "LittleBigWorkshop.exe", "type": "Game" }

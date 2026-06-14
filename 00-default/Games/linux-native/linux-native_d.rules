@@ -219,6 +219,9 @@
 # Dota Underlords https://store.steampowered.com/app/1046930/Dota_Underlords/
 { "name": "underlords", "type": "Game" }
 
+# D.O.T. Defence https://store.steampowered.com/app/3124850/DOT_Defence/
+{ "name": "dot_defence.x86_64", "type": "Game" }
+
 # Double Dragon Gaiden: Rise of the Dragons https://store.steampowered.com/app/1967260/Double_Dragon_Gaiden_Rise_Of_The_Dragons/
 { "name": "DoubleDragonGaiden_ROTD", "type": "Game" }
 
@@ -283,6 +286,9 @@
 # Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
 { "name": "LinuxDownloadLauncher", "type": "Game" }
 { "name": "DungeonDefenders-x86", "type": "Game" }
+
+# Dungeon of Elements https://store.steampowered.com/app/302310/Dungeon_of_Elements/
+{ "name": "DungeonofElements.x86", "type": "Game" }
 
 # Dungeons 2 https://store.steampowered.com/app/262280/Dungeons_2/
 { "name": "Dungeons2", "type": "Game" }

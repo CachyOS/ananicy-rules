@@ -14,6 +14,9 @@
 # Ànyǐng dìláo Demo 暗影地牢 Demo https://store.steampowered.com/app/4563350/Shadow_Dungeon/
 { "name": "Shadow Dungeon.exe", "type": "Game" }
 
+# Bào dàn zhàn chē 爆弹战车 https://store.steampowered.com/app/3376850/Bomb_Vehicle_Idle_Clicker/
+{ "name": "The Last Light.exe", "type": "Game" }
+
 # Bèibāo chuǎngjiānghú 背包闯江湖 https://store.steampowered.com/app/3972650/Backpack_Jianghu/
 { "name": "BackpackJianghu.exe", "type": "Game" }
 
@@ -82,10 +85,6 @@
 # Fēihóng biān niánshǐ ~ Chronicle of Scarlet ~ 绯红编年史 ~ Chronicle of Scarlet ~ https://store.steampowered.com/app/3117660/__Chronicle_of_Scarlet/
 { "name": "ChronicleOfScarlet.exe", "type": "Game" }
 
-# Fēitiān lìxiǎn guójì zhōngwén bǎn 飛天歷險國際中文版 https://store.steampowered.com/app/1920770/Dream_Of_Mirror_Online/
-{ "name": "DOMO_Steam.exe", "type": "Game" }
-{ "name": "DOMO.exe", "type": "Game" }
-
 # Fēngbào pà sǐ duì Demo 风暴怕死队 Demo https://store.steampowered.com/app/4232140/Pass_the_Fear/
 { "name": "PassTheFear.exe", "type": "Game" }
 
@@ -104,6 +103,9 @@
 
 # Fù jiǎ tiānxià 5 富甲天下5 https://store.steampowered.com/app/2490910/5/
 { "name": "M3K5.exe", "type": "Game" }
+
+# Gǎnxiè nǐ de tóudì Demo 感谢你的投递 Demo https://store.steampowered.com/app/3640210/Thank_You_For_Your_Application_Demo/
+{ "name": "ThankYouForYourApplicationDemo.exe", "type": "Game" }
 
 # Guà jī èmó/IdleDevils 挂姬恶魔/IdleDevils https://store.steampowered.com/app/2226700/_IDLE_DEVILS/
 { "name": "IdleDevils.exe", "type": "Game" }
@@ -254,6 +256,9 @@
 # Mónǐ dìguó 模拟帝国 https://store.steampowered.com/app/1041710/Sim_Empire/
 { "name": "Sim Empire.exe", "type": "Game" }
 
+# Mòrì zhàn jī: Mìngyùn jiāofēng 末日战姬：命运交锋 https://store.steampowered.com/app/4107260/_/
+{ "name": "末日战姬.exe", "type": "Game" }
+
 # Mò xiān lù 墨仙箓 https://store.steampowered.com/app/4250510/_/
 { "name": "墨仙箓.exe", "type": "Game" }
 
@@ -326,6 +331,9 @@
 
 # Shàonǚ qiánxiàn 少女前线 https://store.steampowered.com/app/3347970/
 { "name": "GrilsFrontLine.exe", "type": "Game" }
+
+# Shàonǚ yǔ chéngzhǔ 少女与城主 https://store.steampowered.com/app/3473160/
+{ "name": "Maiden And Lord.exe", "type": "Game" }
 
 # Shén dōu bùliáng tàn 神都不良探 Underdog Detective https://store.steampowered.com/app/1681970/_Underdog_Detective/
 { "name": "Luoyang.exe", "type": "Game" }
@@ -429,6 +437,9 @@
 # Wūhézhīzhòng 乌合之众 Demo https://store.steampowered.com/app/3227590/_Demo/
 { "name": "MIDA.exe", "type": "Game" }
 
+# Wú huáng wànsuì 吾皇万岁 https://store.steampowered.com/app/3634340/_/
+{ "name": "Long Live The Emperor.exe", "type": "Game" }
+
 # Wú zuì zhī tíng/Trials of Innocence 无罪之庭/Trials of Innocence https://store.steampowered.com/app/2983140/Trials_of_Innocence/
 { "name": "Trials of Innocence.exe", "type": "Game" }
 
@@ -499,6 +510,10 @@
 # Yīnghún zhī rèn 英魂之刃 https://store.steampowered.com/app/1591600/
 { "name": "CosClient.exe", "type": "Game" }
 
+# Yīngxióng dào 英雄道 https://store.steampowered.com/app/1730910/Hero_Road_Online/
+{ "name": "patch.exe", "type": "Game" }
+{ "name": "steam_patch.exe", "type": "Game" }
+
 # Yīngxióng huánghūn 英雄黄昏 https://store.steampowered.com/app/1754720/_/
 { "name": "英雄黄昏.exe", "type": "Game" }
 
@@ -507,6 +522,9 @@
 
 # Yǒnggǎn de hā kè (HAAK) 勇敢的哈克（HAAK） https://store.steampowered.com/app/1352930/HAAK/
 { "name": "haak.exe", "type": "Game" }
+
+# Yōujiǔ zhī shù 悠久之树 https://store.steampowered.com/app/3222960/_/
+{ "name": "eternaltree.exe", "type": "Game" }
 
 # Yuè huá huīyìng zhī kè 月华辉映之刻 https://store.steampowered.com/app/2750780/_/
 { "name": "月华辉映之刻.exe", "type": "Game" }
@@ -522,6 +540,9 @@
 
 # Zào mèng xīyóu: Wúshuāng 造梦西游：无双 https://store.steampowered.com/app/3867950/_/
 { "name": "造梦西游：无双.exe", "type": "Game" }
+
+# Zhàn jī jūntuán 战姬军团 https://store.steampowered.com/app/2389120/
+{ "name": "Legion of Valkyrie.exe", "type": "Game" }
 
 # Zhǎn yāo xíng 斩妖行 Eastern Exorcist https://store.steampowered.com/app/1120810/Eastern_Exorcist/
 { "name": "Exorcist.exe", "type": "Game" }
@@ -547,6 +568,9 @@
 
 # Zhōnghuá yī shāng: Chuánchéng 中华一商：传承 https://store.steampowered.com/app/3261010/East_Trade_Tycoon_Inheritance/
 { "name": "EastTradeTycoon.exe", "type": "Game" }
+
+# Zhùchéng yǔ tànxiǎn 筑城与探险 https://store.steampowered.com/app/3382170/Revival_and_Exploration/
+{ "name": "zcytx.exe", "type": "Game" }
 
 # Zhúlù 逐鹿 https://store.steampowered.com/app/1984720/_/
 { "name": "逐鹿.exe", "type": "Game" }
@@ -615,6 +639,9 @@
 
 # Kanmuri o motsu kami no te 冠を持つ神の手 https://store.steampowered.com/app/4045680/The_Hand_of_the_Crownbearer/
 { "name": "The_Hand_of_the_Crownbearer.exe", "type": "Game" }
+
+# Karaoke joisaundo fō STREAMER カラオケJOYSOUND for STREAMER https://store.steampowered.com/app/2939590/
+{ "name": "skaras.exe", "type": "Game" }
 
 # Koikatsu/ Koikatsu pātī コイカツ / Koikatsu Party https://store.steampowered.com/app/1073440/
 { "name": "Koikatsu Party.exe", "type": "Game" }
@@ -728,6 +755,7 @@
 
 # Yōsei Daisensō ~ Touhou Sangetsusei 妖精大戦争 〜 東方三月精 https://store.steampowered.com/app/1100180/Yousei_Daisensou__Touhou_Sangetsusei/
 { "name": "th128.exe", "type": "Game" }
+
 
 
 

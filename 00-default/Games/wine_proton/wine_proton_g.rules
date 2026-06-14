@@ -449,6 +449,9 @@
 { "name": "GoldFever.exe", "type": "Game" }
 { "name": "GoldFever-Win64-Shipping.exe", "type": "Game" }
 
+# Gold Rush! Classic https://store.steampowered.com/app/308000/Gold_Rush_Classic/
+{ "name": "Gold Rush!.exe", "type": "Game" }
+
 # Golf Gang https://store.steampowered.com/app/1151050/Golf_Gang/
 { "name": "Golf Gang.exe", "type": "Game" }
 
@@ -529,10 +532,6 @@
 # Gothic 1 https://store.steampowered.com/app/65540/Gothic_1/
 { "name": "GOTHIC.EXE", "type": "Game" }
 { "name": "GothicMod.exe", "type": "Game" }
-
-# Gothic 1 Remake - Demo (Nyras Prologue) https://store.steampowered.com/app/3448280/Gothic_1_Remake__Demo_Nyras_Prologue/
-{ "name": "G1R-Win64-Shipping.exe", "type": "Game" }
-{ "name": "G1R.exe", "type": "Game" }
 
 # Gothic 3 https://store.steampowered.com/app/39500/Gothic_3/
 { "name": "Gothic3.exe", "type": "Game" }
