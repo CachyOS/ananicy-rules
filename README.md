@@ -13,7 +13,7 @@ You can add your favorite games, apps, and more. Any help would be greatly appre
 1. Go to [00-default](https://github.com/CachyOS/ananicy-rules/tree/master/00-default)
 2. Go to [Games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games)
 3. Navigate to the desired folder depending on:
-	- Game is meant to be ran under with Proton: [`ẁine_proton`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/wine_proton) - *Open the corresponding file depending on the letter.*
+	- Game is meant to be ran under with Proton: [`wine_proton`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/wine_proton) - *Open the corresponding file depending on the letter.*
 	- Provides a native version for Linux: [`linux-native`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/linux-native) - *Open the corresponding file depending on the letter.*
 4. Open the corresponding file depending on the letter.
 5. Follow the examples from below.
