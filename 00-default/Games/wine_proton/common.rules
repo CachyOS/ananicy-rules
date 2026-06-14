@@ -1,5 +1,9 @@
 # Ordered based on executable name
 
+# 33 Immortals Demo https://store.steampowered.com/app/4191960/33_Immortals_Demo/
+# 33 Immortals https://store.steampowered.com/app/958520/33_Immortals/
+{ "name": "33Immortals.exe", "type": "Game" }
+
 # 3DMark Demo https://store.steampowered.com/app/231350/3DMark/
 # 3DMark https://store.steampowered.com/app/223850/3DMark/
 { "name": "3DMark.exe", "type": "Game" }
@@ -182,6 +186,10 @@
 # Tales from the Borderlands https://store.steampowered.com/app/330830/
 { "name": "Borderlands.exe", "type": "Game" }
 
+# Brothers - A Tale of Two Sons https://store.steampowered.com/app/225080/Brothers__A_Tale_of_Two_Sons/
+# Brothers: A Tale of Two Sons Remake https://store.steampowered.com/app/2153350/Brothers_A_Tale_of_Two_Sons_Remake/
+{ "name": "Brothers.exe", "type": "Game" }
+
 # Ultimate Admiral: Age of Sail https://store.steampowered.com/app/1069650/Ultimate_Admiral_Age_of_Sail/
 # Kuboom https://store.steampowered.com/app/513000/KUBOOM/
 { "name": "build.exe", "type": "Game" }
@@ -303,6 +311,8 @@
 # Burettofiriatachi no Yamiichiba バレットフィリア達の闇市場 https://store.steampowered.com/app/2097720/Black_Market_of_Bulletphilia___100th_Black_Market/
 # Tōhō Jūōen 〜 Unfinished Dream of All Living Ghost. 東方獣王園 〜 Unfinished Dream of All Living Ghost. https://store.steampowered.com/app/2400340/Touhou_Juuouen__Unfinished_Dream_of_All_Living_Ghost/
 # Tōhō Kinjōkyō 〜 Fossilized Wonders. 東方錦上京 〜 Fossilized Wonders. https://store.steampowered.com/app/3671710/Touhou_Kinjoukyou__Fossilized_Wonders/
+# Dōngfāng gàn zhū yún ~ Legacy of Lunatic Kingdom. 東方紺珠伝 ～ Legacy of Lunatic Kingdom. https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/
 { "name": "custom.exe", "type": "Game" }
 
 # Dragon Age: Origins https://store.steampowered.com/app/17450/Dragon_Age_Origins/
@@ -775,6 +785,8 @@
 # Byakuya Museum https://store.steampowered.com/app/2399910/Byakuya_Museum/
 # Execute https://store.steampowered.com/app/3829620/Execute/
 # Tōhō Gōyoku Ibun ～ Suibotsu shita Chinjūjigoku  東方剛欲異聞　～ 水没した沈愁地獄 https://store.steampowered.com/app/1440500/_/
+# Tower Tactics: Liberation https://store.steampowered.com/app/1709900/Tower_Tactics_Liberation/
+# Dragon Marked For Death https://store.steampowered.com/app/1149440/Dragon_Marked_For_Death/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -945,6 +957,10 @@
 # The Incredible Adventures of Van Helsing II https://store.steampowered.com/app/272470/The_Incredible_Adventures_of_Van_Helsing_II/
 { "name": "GLVanHelsing_x86.exe", "type": "Game" }
 
+# Burglin' Gnomes Demo https://store.steampowered.com/app/4356080/Burglin_Gnomes/
+# Burglin' Gnomes https://store.steampowered.com/app/3844970/Burglin_Gnomes/
+{ "name": "Gnomium.exe", "type": "Game" }
+
 # PGA TOUR 2K21 https://store.steampowered.com/app/1016120/PGA_TOUR_2K21/
 # The Golf Club https://store.steampowered.com/app/269730/The_Golf_Club/
 # WGT Golf https://store.steampowered.com/app/1182020/WGT_Golf/
@@ -992,10 +1008,12 @@
 
 # Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
 # Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
+# Hello Neighbor 2 Alpha 1 https://store.steampowered.com/app/1373880/Hello_Neighbor_2_Alpha_1/
 { "name": "HelloNeighbor2.exe", "type": "Game" }
 
 # Hello Neighbor 2 https://store.steampowered.com/app/1321680/Hello_Neighbor_2/
 # Hello Neighbor 2 Alpha 1.5 https://store.steampowered.com/app/1364960/Hello_Neighbor_2_Alpha_15/
+# Hello Neighbor 2 Alpha 1 https://store.steampowered.com/app/1373880/Hello_Neighbor_2_Alpha_1/
 { "name": "HelloNeighbor2-Win64-Shipping.exe", "type": "Game" }
 
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
@@ -1010,6 +1028,10 @@
 # Hello Neighbor Alpha 4 https://store.steampowered.com/app/1096710/Hello_Neighbor_Alpha_4/
 # Hello Neighbor Alpha 3 https://store.steampowered.com/app/1092730/Hello_Neighbor_Alpha_3/
 { "name": "HelloNeighborReborn-Win64-Shipping.exe", "type": "Game" }
+
+# Hello Neighbor: Hide and Seek https://store.steampowered.com/app/960420/Hello_Neighbor_Hide_and_Seek/
+# Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
+{ "name": "HelloNeighbor-Win64-Shipping.exe", "type": "Game" }
 
 # Heretic: Shadow of the Serpent Riders https://store.steampowered.com/app/2390/Heretic_Shadow_of_the_Serpent_Riders/
 # Heretic + Hexen https://store.steampowered.com/app/3286930/
@@ -1392,6 +1414,10 @@
 # NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
 { "name": "NarakaBladepoint.exe", "type": "Game" }
 
+# NBA THE RUN https://store.steampowered.com/app/2866670/NBA_THE_RUN/
+# NBA THE RUN Playtest https://store.steampowered.com/app/4695820/NBA_THE_RUN/
+{ "name": "NBA THE RUN.exe", "type": "Game" }
+
 # NARAKA: BLADEPOINT - Test Server https://store.steampowered.com/app/1402480/NARAKA_BLADEPOINT____Test_Server/
 # NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
 { "name": "NeacClient.exe", "type": "Game" }
@@ -1719,6 +1745,10 @@
 # Call of Duty: WWII https://store.steampowered.com/app/476600/Call_of_Duty_WWII/
 { "name": "s2_mp64_ship.exe", "type": "Game" }
 
+# Sabbat of the Witch https://store.steampowered.com/app/888790/Sabbat_of_the_Witch/
+# mó nǚ de yè yàn 魔女的夜宴 https://store.steampowered.com/app/2458530/_/
+{ "name": "SabbatOfTheWitch.exe", "type": "Game" }
+
 # Sacred 2 Gold https://store.steampowered.com/app/225640/Sacred_2_Gold/
 # Sacred 2 Remaster https://store.steampowered.com/app/3906660/
 { "name": "sacred2.exe", "type": "Game" }
@@ -1761,6 +1791,7 @@
 # I Have No Mouth, and I Must Scream https://store.steampowered.com/app/245390/I_Have_No_Mouth_and_I_Must_Scream/
 # The Curse of Monkey Island https://store.steampowered.com/app/730820/The_Curse_of_Monkey_Island/
 # Putt-Putt Saves The Zoo https://store.steampowered.com/app/294660/PuttPutt_Saves_The_Zoo/
+# Freddi Fish and the Case of the Missing Kelp Seeds https://store.steampowered.com/app/283940/Freddi_Fish_and_the_Case_of_the_Missing_Kelp_Seeds/
 { "name": "scummvm.exe", "type": "Game" }
 
 # The Legend of Heroes: Trails of Cold Steel III https://store.steampowered.com/app/991270/The_Legend_of_Heroes_Trails_of_Cold_Steel_III/
@@ -1848,6 +1879,7 @@
 
 # SpaceCraft Demo https://store.steampowered.com/app/4328020/
 # SpaceCraft Beta https://store.steampowered.com/app/4011220/SpaceCraft/
+# SpaceCraft https://store.steampowered.com/app/3276050/SpaceCraft/
 { "name": "SpaceCraft.exe", "type": "Game" }
 
 # Warhammer 40,000: Space Marine - Anniversary Edition https://store.steampowered.com/app/55150/Warhammer_40000_Space_Marine__Anniversary_Edition/
@@ -1981,6 +2013,10 @@
 # Call of Duty: Black Ops II https://store.steampowered.com/app/202970/Call_of_Duty_Black_Ops_II/
 { "name": "t6zm.exe", "type": "Game" }
 
+# Tabletop Tavern Demo https://store.steampowered.com/app/3410010/Tabletop_Tavern_Demo/
+# Tabletop Tavern https://store.steampowered.com/app/3337380/Tabletop_Tavern/
+{ "name": "TabletopTavern.exe", "type": "Game" }
+
 # TaleSpire https://store.steampowered.com/app/720620/TaleSpire/
 # TaleSpire - Guest Edition https://store.steampowered.com/app/2881860/TaleSpire__Guest_Edition/
 { "name": "TaleSpire.exe", "type": "Game" }
@@ -1992,6 +2028,10 @@
 # Tamer: King of Dinosaurs Demo https://store.steampowered.com/app/3048320/
 # Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
 { "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
+
+# Fuga: Melodies of Steel https://store.steampowered.com/app/1357860/Fuga_Melodies_of_Steel/
+# Fuga: Melodies of Steel 3 https://store.steampowered.com/app/3081320/Fuga_Melodies_of_Steel_3/
+{ "name": "TANK-Win64-Shipping.exe", "type": "Game" }
 
 # Tour de France 2025 https://store.steampowered.com/app/2511320/Tour_de_France_2025/
 # Tour de France 2024 https://store.steampowered.com/app/2494340/Tour_de_France_2024/
@@ -2025,6 +2065,11 @@
 # The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
 # The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
 { "name": "TheSpellBrigade.exe", "type": "Game" }
+
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
+# TouHou Makuka Sai ~ Fantastic Danmaku Festival Part III https://store.steampowered.com/app/2877170/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_III/
+{ "name": "THMHJ.exe", "type": "Game" }
 
 # Dàihào sānguó: Lóng qǐ 代号三国：龙起 https://store.steampowered.com/app/3412900/The_Three_Kingdoms_Rebirth/
 # Legend of Heroes: Three Kingdoms https://store.steampowered.com/app/3020510/Legend_of_Heroes_Three_Kingdoms/
@@ -2196,6 +2241,14 @@
 # VoiceAttack https://store.steampowered.com/app/583010/VoiceAttack/
 # VoiceAttack 2 https://store.steampowered.com/app/3046550/VoiceAttack_v2/
 { "name": "VoiceAttack.exe", "type": "BG_CPUIO" }
+
+# Voidling Bound https://store.steampowered.com/app/2004680/Voidling_Bound/
+# Voidling Bound Demo https://store.steampowered.com/app/3559900/Voidling_Bound_Demo/
+{ "name": "VoidlingWrangler.exe", "type": "Game" }
+
+# Voidling Bound Demo https://store.steampowered.com/app/3559900/Voidling_Bound_Demo/
+# Voidling Bound https://store.steampowered.com/app/2004680/Voidling_Bound/
+{ "name": "VoidlingWrangler-Win64-Shipping.exe", "type": "Game" }
 
 # The Last Caretaker https://store.steampowered.com/app/1783560/The_Last_Caretaker/
 # The Last Caretaker Demo https://store.steampowered.com/app/3916150/The_Last_Caretaker/

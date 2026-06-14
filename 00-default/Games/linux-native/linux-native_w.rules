@@ -29,6 +29,9 @@
 # Warhammer 40,000: Mechanicus https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
 { "name": "Mechanicus.x86_64", "type": "Game" }
 
+# Warplanes: WW2 Dogfight https://store.steampowered.com/app/936780/Warplanes_WW2_Dogfight/
+{ "name": "Warplanes.x86_64", "type": "Game" }
+
 # War Selection https://store.steampowered.com/app/1022450/War_Selection/
 { "name": "SteamLauncher", "type": "Game" }
 { "name": "GlyphEngine", "type": "Game" }
@@ -61,6 +64,10 @@
 
 # Wayward https://store.steampowered.com/app/379210/Wayward/
 { "name": "wayward", "type": "Game" }
+
+# Weapon Shop Fantasy https://store.steampowered.com/app/599460/Weapon_Shop_Fantasy/
+{ "name": "WeaponShopFantasy.x86", "type": "Game" }
+{ "name": "WeaponShopFantasy.x86_64", "type": "Game" }
 
 # Wedding Witch https://store.steampowered.com/app/2529820/Wedding_Witch/
 { "name": "Wedding Witch.x86_64", "type": "Game" }

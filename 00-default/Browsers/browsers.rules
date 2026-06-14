@@ -34,6 +34,10 @@
 # Opera - https://www.opera.com/
 { "name": "opera", "type": "Doc-View" }
 
+# Opera GX - The Gaming Browser - https://www.opera.com/gx
+{ "name": "opera-gx", "type": "Doc-View" }
+{ "name": "opera-sandbox", "type": "Doc-View" }
+
 # Vivaldi  - https://vivaldi.com/
 { "name": "vivaldi", "type": "Doc-View" }
 { "name": "vivaldi-snapshot", "type": "Doc-View" }

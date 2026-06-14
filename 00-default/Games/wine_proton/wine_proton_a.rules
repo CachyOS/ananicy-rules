@@ -43,6 +43,10 @@
 { "name": "RGame.exe", "type": "Game" }
 { "name": "RGame-Win64-Shipping.exe", "type": "Game" }
 
+# ABZÛ https://store.steampowered.com/app/384190/ABZU/
+{ "name": "AbzuGame.exe", "type": "Game" }
+{ "name": "AbzuGame-Win64-Shipping.exe", "type": "Game" }
+
 # Academia : School Simulator https://store.steampowered.com/app/672630/Academia__School_Simulator/
 { "name": "Academia.exe", "type": "Game" }
 { "name": "Academia64.exe", "type": "Game" }
@@ -371,6 +375,9 @@
 # AirportSim https://store.steampowered.com/app/1715280/AirportSim/
 { "name": "AirportSim.exe", "type": "Game" }
 
+# AI＊Shoujo/AI＊少女 https://store.steampowered.com/app/1250650/AIShoujoAI/
+{ "name": "AI-Shoujo.exe", "type": "Game" }
+
 # AI: The Somnium Files https://store.steampowered.com/app/948740/AI_The_Somnium_Files/
 { "name": "AI_TheSomniumFiles.exe", "type": "Game" }
 
@@ -620,6 +627,9 @@
 # Among Us 3D https://store.steampowered.com/app/3168600/Among_Us_3D/
 { "name": "AmongUs3D.exe", "type": "Game" }
 
+# Among Us 3D: VR https://store.steampowered.com/app/1849900/Among_Us_3D_VR/
+{ "name": "AmongUsVR.exe", "type": "Game" }
+
 # A Monster's Expedition https://store.steampowered.com/app/1052990/A_Monsters_Expedition/
 { "name": "A Monster's Expedition.exe", "type": "Game" }
 
@@ -672,6 +682,9 @@
 
 # A New Beginning - Final Cut https://store.steampowered.com/app/105000/A_New_Beginning__Final_Cut/
 { "name": "anb.exe", "type": "Game" }
+
+# Angel at Dusk https://store.steampowered.com/app/1405500/Angel_at_Dusk/
+{ "name": "angel_at_dusk.exe", "type": "Game" }
 
 # Angel Engine https://store.steampowered.com/app/4173750/Angel_Engine/
 { "name": "AngelEngine.exe", "type": "Game" }
@@ -1027,6 +1040,10 @@
 { "name": "ArmoredWarfareLauncher.exe", "type": "Game" }
 { "name": "AWLauncher.exe", "type": "Game" }
 { "name": "AWBenchmark.exe", "type": "Game" }
+
+# Arms of God https://store.steampowered.com/app/3100310/Arms_of_God/
+{ "name": "ArmsOfGod.exe", "type": "Game" }
+{ "name": "ArmsOfGod-Win64-Shipping.exe", "type": "Game" }
 
 # Arms Trade Tycoon Tanks https://store.steampowered.com/app/1662210/Arms_Trade_Tycoon_Tanks/
 { "name": "Arms Trade Tycoon Tanks.exe", "type": "Game" }

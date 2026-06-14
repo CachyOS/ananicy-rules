@@ -3,6 +3,13 @@
 
 # RimSort Mod Manager https://rimsort.github.io/RimSort/
 { "name": "rimsort", "type": "BG_CPUIO" }
+{ "name": "RimSort", "type": "BG_CPUIO" }
+
+# IMG Factory https://github.com/MexUK/IMGF
+{ "name": "IMG Factory 1.2.revived.exe", "type": "Image-View" }
+
+# Magic.TXD https://www.gtagarage.com/mods/show.php?id=27862
+{ "name": "magictxd.exe", "type": "Image-View" }
 
 # Input Remapper https://github.com/sezanzeb/input-remapper
 { "name": "input-remapper-gtk", "type": "BG_CPUIO" }

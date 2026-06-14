@@ -488,6 +488,9 @@
 # Lil Gator Game https://store.steampowered.com/app/1586800/Lil_Gator_Game/
 { "name": "Lil Gator Game.exe", "type": "Game" }
 
+# Lil' Guardsman https://store.steampowered.com/app/1924360/Lil_Guardsman/
+{ "name": "LilGuardsman.exe", "type": "Game" }
+
 # Lilly and Sasha: Guardian Angels https://store.steampowered.com/app/383520/Lilly_and_Sasha_Guardian_Angels/
 { "name": "GuardianAngels.exe", "type": "Game" }
 
@@ -842,6 +845,13 @@
 
 # Lunacid https://store.steampowered.com/app/1745510/Lunacid/
 { "name": "LUNACID.exe", "type": "Game" }
+
+# Lunar Eclipse https://store.steampowered.com/app/2953480/Lunar_Eclipse/
+{ "name": "LunarEclipse.exe", "type": "Game" }
+{ "name": "LunarEclipse-Win64-Shipping.exe", "type": "Game" }
+
+# Lunar Mirror:The Pavilion of Desire https://store.steampowered.com/app/2157680/Lunar_MirrorThe_Pavilion_of_Desire/
+{ "name": "Lunar MirrorThe Pavilion of Desire.exe", "type": "Game" }
 
 # LUNAR Remastered Collection https://store.steampowered.com/app/3255380/LUNAR_Remastered_Collection/
 { "name": "lunar_launcher.exe", "type": "BG_CPUIO" }
