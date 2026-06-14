@@ -28,8 +28,7 @@
 { "name": "cromite", "type": "Doc-View" }
 
 # Helium - https://helium.computer/
-{ "name": "helium", "type": "Doc-View" }
-{ "name": "helium_crashpad_handler", "type": "BG_CPUIO" }
+# Disabled for stability purposes
 
 # Opera - https://www.opera.com/
 { "name": "opera", "type": "Doc-View" }
