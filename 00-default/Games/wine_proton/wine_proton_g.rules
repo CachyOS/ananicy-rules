@@ -25,12 +25,6 @@
 
 # Gold Rush! Classic https://store.steampowered.com/app/308000/Gold_Rush_Classic/
 { "name": "Gold Rush!.exe", "type": "Game" }
-{ "name": "DOSBox.exe", "type": "Game" }
-
-# Gothic 1 Remake https://store.steampowered.com/app/1297900/Gothic_1_Remake/
-{ "name": "G1R-Win64-Shipping.exe", "type": "Game" }
-{ "name": "G1R-Win64-Test.exe", "type": "Game" }
-{ "name": "G1R.exe", "type": "Game" }
 
 # Galactic Glitch https://store.steampowered.com/app/1536620/Galactic_Glitch/
 { "name": "GalacticGlitch.exe", "type": "Game" }
@@ -538,10 +532,6 @@
 # Gothic 1 https://store.steampowered.com/app/65540/Gothic_1/
 { "name": "GOTHIC.EXE", "type": "Game" }
 { "name": "GothicMod.exe", "type": "Game" }
-
-# Gothic 1 Remake - Demo (Nyras Prologue) https://store.steampowered.com/app/3448280/Gothic_1_Remake__Demo_Nyras_Prologue/
-{ "name": "G1R-Win64-Shipping.exe", "type": "Game" }
-{ "name": "G1R.exe", "type": "Game" }
 
 # Gothic 3 https://store.steampowered.com/app/39500/Gothic_3/
 { "name": "Gothic3.exe", "type": "Game" }

@@ -69,15 +69,8 @@
 # Pillar https://store.steampowered.com/app/371900/Pillar/
 { "name": "Pillar.exe", "type": "Game" }
 
-# Pocket Stables https://store.steampowered.com/app/1918530/Pocket_Stables/
-{ "name": "KairoGames.exe", "type": "Game" }
-
 # Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
-{ "name": "Pool.exe", "type": "Game" }
 { "name": "Pool-Win64-Shipping.exe", "type": "Game" }
-
-# PowerWash Simulator Demo https://store.steampowered.com/app/2633700/PowerWash_Simulator_Demo/
-{ "name": "PowerWashSimulator.exe", "type": "Game" }
 
 # Project N.E.K.O. https://store.steampowered.com/app/4099310/Project_NEKO/
 { "name": "N.E.K.O.exe", "type": "Game" }
@@ -846,9 +839,6 @@
 # Pool Live Tour Max https://store.steampowered.com/app/4061130/Pool_Live_Tour_Max/
 { "name": "PoolLiveTourMax.exe", "type": "Game" }
 
-# Pool Nation https://store.steampowered.com/app/254440/Pool_Nation/
-{ "name": "Pool.exe", "type": "Game" }
-
 # Pool Nation FX https://store.steampowered.com/app/314000/Pool_Nation_FX_Lite/
 { "name": "PoolNationFX.exe", "type": "Game" }
 
@@ -956,9 +946,6 @@
 
 # Power Rangers: Battle for the Grid https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/
 { "name": "BattleForTheGrid.exe", "type": "Game" }
-
-# PowerWash Simulator https://store.steampowered.com/app/1290000/PowerWash_Simulator/
-{ "name": "PowerWashSimulator.exe", "type": "Game" }
 
 # PowerWash Simulator 2 https://store.steampowered.com/app/2968420/PowerWash_Simulator_2/
 { "name": "PowerWash Simulator 2.exe", "type": "Game" }

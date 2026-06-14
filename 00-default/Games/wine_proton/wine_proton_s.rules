@@ -1204,9 +1204,6 @@
 # SkyInFlames https://store.steampowered.com/app/4031360/SkyInFlames/
 { "name": "SkyInFlames.exe", "type": "Game" }
 
-# Skyrim Special Edition: Creation Kit https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/
-{ "name": "CreationKit.exe", "type": "Game" }
-
 # Slackers - Carts of Glory https://store.steampowered.com/app/2354000/Slackers__Carts_of_Glory/
 { "name": "CartOfGlory.exe", "type": "Game" }
 
@@ -2382,10 +2379,6 @@
 { "name": "Storage.exe", "type": "Game" }
 { "name": "Storage-Win64-Shipping.exe", "type": "Game" }
 
-# Storage Hunter Simulator https://store.steampowered.com/app/1442430/Storage_Hunter_Simulator/
-{ "name": "StorageHunter.exe", "type": "Game" }
-{ "name": "StorageHunter-Win64-Shipping.exe", "type": "Game" }
-
 # Storebound https://store.steampowered.com/app/3417410/Storebound/
 { "name": "Storebound.exe", "type": "Game" }
 { "name": "EmbersSauce-Win64-Shipping.exe", "type": "Game" }
@@ -2640,10 +2633,6 @@
 { "name": "SubwaySim2.exe", "type": "Game" }
 { "name": "SubwaySim2-Win64-Shipping.exe", "type": "Game" }
 
-# SUCCUBUS https://store.steampowered.com/app/985830/SUCCUBUS/
-{ "name": "Succubus.exe", "type": "Game" }
-{ "name": "Succubus-Win64-Shipping.exe", "type": "Game" }
-
 # Sudden Strike 4 https://store.steampowered.com/app/373930/Sudden_Strike_4/
 { "name": "SuddenStrike4.exe", "type": "Game" }
 
@@ -2893,9 +2882,6 @@
 # Survivalist: Invisible Strain https://store.steampowered.com/app/1054510/Survivalist_Invisible_Strain/
 { "name": "Survivalist Invisible Strain.exe", "type": "Game" }
 
-# Survival Machine https://store.steampowered.com/app/1601330/Survival_Machine/
-{ "name": "SurvivalMachine.exe", "type": "Game" }
-
 # Survive the Fall https://store.steampowered.com/app/1579340/Survive_the_Fall/
 { "name": "STF.exe", "type": "Game" }
 { "name": "STF-Win64-Shipping.exe", "type": "Game" }
@@ -2966,7 +2952,6 @@
 
 # Sword and Fairy 5 Prequel https://steamdb.info/app/681840/
 { "name": "Pal5Q.exe", "type": "Game" }
-{ "name": "config.exe", "type": "Game" }
 
 # Sword and Fairy 7 https://store.steampowered.com/app/1543030/Sword_and_Fairy_7/
 { "name": "Pal7.exe", "type": "Game" }
@@ -2993,9 +2978,6 @@
 { "name": "juego32x.exe", "type": "Game" }
 { "name": "TopRace.exe", "type": "Game" }
 
-# Skyship Quest Story https://store.steampowered.com/app/4424950/Skyship_Quest_Story/
-{ "name": "KairoGames.exe", "type": "Game" }
-
 # Slay All Bosses: Idle https://store.steampowered.com/app/4232600/Slay_All_Bosses_Idle/
 { "name": "SLAY ALL BOSSES IDLE.exe", "type": "Game" }
 
@@ -3008,9 +2990,6 @@
 # Sports Card Shop Simulator https://store.steampowered.com/app/4157170/Sports_Card_Shop_Simulator/
 { "name": "Sports Card Shop Simulator.exe", "type": "Game" }
 
-# Starfield: Creation Kit https://store.steampowered.com/app/2722710/Starfield_Creation_Kit/
-{ "name": "CreationKit.exe", "type": "Game" }
-
 # Starforged Legacy https://store.steampowered.com/app/3353390/Starforged_Legacy/
 { "name": "Untitled_Space_Game.exe", "type": "Game" }
 { "name": "Untitled_Space_Game-Win64-Shipping.exe", "type": "Game" }
@@ -3022,22 +3001,11 @@
 # SteamOS Devkit Client https://store.steampowered.com/app/943760/
 { "name": "devkit-gui.exe", "type": "Game" }
 
-# Storage Hunter Simulator Demo https://store.steampowered.com/app/3037090/Storage_Hunter_Simulator_Demo/
-{ "name": "StorageHunter.exe", "type": "Game" }
-{ "name": "StorageHunter-Win64-Shipping.exe", "type": "Game" }
-
 # Strange Seed https://store.steampowered.com/app/2463690/Strange_Seed/
 { "name": "Strange Seed.exe", "type": "Game" }
 
 # Strategic Command: American Civil War https://store.steampowered.com/app/1966130/Strategic_Command_American_Civil_War/
 { "name": "SC3-Civil War.exe", "type": "Game" }
-
-# SUCCUBUS: Prologue https://store.steampowered.com/app/1344350/SUCCUBUS_Prologue/
-{ "name": "Succubus.exe", "type": "Game" }
-{ "name": "Succubus-Win64-Shipping.exe", "type": "Game" }
-
-# Survival Machine Demo https://store.steampowered.com/app/3100460/Survival_Machine_Demo/
-{ "name": "SurvivalMachine.exe", "type": "Game" }
 
 # Sword and Fairy Inn 2 https://store.steampowered.com/app/1918680/Sword_and_Fairy_Inn_2/
 { "name": "palinn2.exe", "type": "Game" }

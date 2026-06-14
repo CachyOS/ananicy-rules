@@ -26,9 +26,6 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
-# Horripilant Demo https://store.steampowered.com/app/3771400/Horripilant_Demo/
-{ "name": "Horripilant.x86_64", "type": "Game" }
-
 # Half-Life Deathmatch: Source https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/
 { "name": "hl1mp_linux64", "type": "Game" }
 
@@ -221,9 +218,6 @@
 # Horny Villa https://store.steampowered.com/app/2903690/
 { "name": "HornyVilla.x86_64", "type": "Game" }
 { "name": "HornyVilla-linux-prod.x86_64", "type": "Game" }
-
-# Horripilant https://store.steampowered.com/app/3525970/Horripilant/
-{ "name": "Horripilant.x86_64", "type": "Game" }
 
 # Horses of Hoofprint Bay Demo https://store.steampowered.com/app/4335510/Horses_of_Hoofprint_Bay_Demo/
 { "name": "Horses-of-Hoofprint-Bay_Linux.x86_64", "type": "Game" }
