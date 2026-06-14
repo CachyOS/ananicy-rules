@@ -18,6 +18,9 @@
 # Tainted Grail https://store.steampowered.com/app/1199030/Tainted_Grail_Conquest/
 { "name": "Tainted_Grail.x86_64", "type": "Game" }
 
+# Taisei Project https://taisei-project.org/
+{ "name": "taisei", "type": "Game"  }
+
 # Tales of Maj'Eyal https://store.steampowered.com/app/259680/Tales_of_MajEyal/
 { "name": "t-engine", "type": "Game" }
 { "name": "t-engine64", "type": "Game" }

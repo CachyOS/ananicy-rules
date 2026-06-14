@@ -258,6 +258,11 @@
 # Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
 { "name": "ConanSandbox_BE.exe", "type": "Game" }
 
+# Tōhō Jitsuzaisō ~ Dream Logical World 東方実在相 ～ Dream Logical World https://store.steampowered.com/app/1664410/__Dream_Logical_World/
+# Tōhō Saikotan ~ Servants of Harvest Wish 東方催狐譚 ～ Servants of Harvest Wish https://store.steampowered.com/app/1351170/__Servants_of_Harvest_Wish/
+# Tōhō Shinjutō ~ Hollow Song of Birds 東方真珠島　～ Hollow Song of Birds http://th-jss.cocolog-nifty.com/blog/
+{ "name": "config.exe", "type": "Game" }
+
 # SAO Utils: Beta https://store.steampowered.com/app/786520/SAO_Utils_Beta/
 # Copa Petrobras de Marcas https://store.steampowered.com/app/359800/Copa_Petrobras_de_Marcas/
 # Sword and Fairy 4 https://steamdb.info/app/681820/
@@ -284,11 +289,29 @@
 { "name": "cs2.exe", "type": "Game" }
 
 # Recettear: An Item Shop's Tale https://store.steampowered.com/app/70400/Recettear_An_Item_Shops_Tale/
-# Touhou Fuujinroku ~ Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
 # TouHou Makuka Sai ~ Fantastic Danmaku Festival https://store.steampowered.com/app/882710/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/
-# Dōngfāng gàn zhū yún ~ Legacy of Lunatic Kingdom. 東方紺珠伝 ～ Legacy of Lunatic Kingdom. https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/
+# Tōhō Kōmakyō　～ the Embodiment of Scarlet Devil 東方紅魔郷　～ the Embodiment of Scarlet Devil http://www16.big.or.jp/~zun/html/th06.html
+# Tōhō Yōyōmu　～ Perfect Cherry Blossom 東方妖々夢　～ Perfect Cherry Blossom http://www16.big.or.jp/~zun/html/th07.html
+# Tōhō Eiyashō　～ Imperishable Night 東方永夜抄　～ Imperishable Night http://www16.big.or.jp/~zun/html/th08top.html
+# Tōhō Kaēdzuka ～ Phantasmagoria of Flower View. 東方花映塚　～ Phantasmagoria of Flower View. https://store.steampowered.com/app/1420810/Touhou_Kaeizuka__Phantasmagoria_of_Flower_View/
+# Tōhō Bunkachō ～ Shoot the Bullet.  東方文花帖　～ Shoot the Bullet. https://store.steampowered.com/app/1420650/Touhou_Bunkachou__Shoot_the_Bullet/
+# Tōhō Fūjinroku ~ Mountain of Faith. 東方風神録 〜 Mountain of Faith. https://store.steampowered.com/app/1100140/Touhou_Fuujinroku__Mountain_of_Faith/
+# Tōhō Chireiden 〜 Subterranean Animism. 東方地霊殿 〜 Subterranean Animism. https://store.steampowered.com/app/1100150/Touhou_Chireiden__Subterranean_Animism/
+# Tōhō Seirensen ~ Undefined Fantastic Object. 東方星蓮船 〜 Undefined Fantastic Object. https://store.steampowered.com/app/1100160/Touhou_Seirensen__Undefined_Fantastic_Object/
+# Daburu Supoirā 〜 Tōhō Bunkachō ダブルスポイラー 〜 東方文花帖 Double Spoiler https://store.steampowered.com/app/1100170/Double_Spoiler/
+# Yōsei Daisensō ~ Touhou Sangetsusei 妖精大戦争 〜 東方三月精 https://store.steampowered.com/app/1100180/Yousei_Daisensou__Touhou_Sangetsusei/
+# Tōhō Shinreibyō ~ Ten Desires. 東方神霊廟 〜 Ten Desires. https://store.steampowered.com/app/1043230/Touhou_Shinreibyou__Ten_Desires/
+# Tōhō Kishinjou ~ Double Dealing Character 東方輝針城 〜 Double Dealing Character. https://store.steampowered.com/app/1043240/Touhou_Kishinjou__Double_Dealing_Character/
+# Danmaku Amanojaku ~ Impossible Spell Card. 弾幕アマノジャク 〜 Impossible Spell Card. https://store.steampowered.com/app/937570/Danmaku_Amanojaku__Impossible_Spell_Card/
+# Tōhō Kanjuden ~ Legacy of Lunatic Kingdom. 東方紺珠伝 ～ Legacy of Lunatic Kingdom. https://store.steampowered.com/app/937580/Touhou_Kanjuden__Legacy_of_Lunatic_Kingdom/
+# Tōhō Tenkūshō ~ Hidden Star in Four Seasons. 東方天空璋 ～ Hidden Star in Four Seasons. https://store.steampowered.com/app/745880/Touhou_Tenkuushou__Hidden_Star_in_Four_Seasons/
+# Hifū Niatomea Diarī ~ Violet Detector. 秘封ナイトメアダイアリー ～ Violet Detector. https://store.steampowered.com/app/924650/Hifuu_Nightmare_Diary__Violet_Detector/
+# Tōhō Kikeijū ~ Wily Beast and Weakest Creature. 東方鬼形獣 〜 Wily Beast and Weakest Creature. https://store.steampowered.com/app/1079160/Touhou_Kikeijuu__Wily_Beast_and_Weakest_Creature/
+# Tōhō Kōryudō ~ Unconnected Marketeers. 東方虹龍洞 ～ Unconnected Marketeers. https://store.steampowered.com/app/1566410/Touhou_Kouryudou__Unconnected_Marketeers/
+# Burettofiriatachi no Yamiichiba バレットフィリア達の闇市場 https://store.steampowered.com/app/2097720/Black_Market_of_Bulletphilia___100th_Black_Market/
+# Tōhō Jūōen 〜 Unfinished Dream of All Living Ghost. 東方獣王園 〜 Unfinished Dream of All Living Ghost. https://store.steampowered.com/app/2400340/Touhou_Juuouen__Unfinished_Dream_of_All_Living_Ghost/
+# Tōhō Kinjōkyō 〜 Fossilized Wonders. 東方錦上京 〜 Fossilized Wonders. https://store.steampowered.com/app/3671710/Touhou_Kinjoukyou__Fossilized_Wonders/
 # TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II https://store.steampowered.com/app/1031480/TouHou_Makuka_Sai__Fantastic_Danmaku_Festival_Part_II/
-# Dōngfāng tiānkōng zhāng ~ Hidden Star in Four Seasons. 東方天空璋 ～ Hidden Star in Four Seasons. https://store.steampowered.com/app/745880/Touhou_Tenkuushou__Hidden_Star_in_Four_Seasons/
 { "name": "custom.exe", "type": "Game" }
 
 # Dragon Age: Origins https://store.steampowered.com/app/17450/Dragon_Age_Origins/
@@ -760,12 +783,14 @@
 # Call of Girls https://store.steampowered.com/app/4128590/
 # Byakuya Museum https://store.steampowered.com/app/2399910/Byakuya_Museum/
 # Execute https://store.steampowered.com/app/3829620/Execute/
+# Tōhō Gōyoku Ibun ～ Suibotsu shita Chinjūjigoku  東方剛欲異聞　～ 水没した沈愁地獄 https://store.steampowered.com/app/1440500/_/
 # Tower Tactics: Liberation https://store.steampowered.com/app/1709900/Tower_Tactics_Liberation/
 # Dragon Marked For Death https://store.steampowered.com/app/1149440/Dragon_Marked_For_Death/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
 # CHAOS;CHILD https://store.steampowered.com/app/970570/CHAOSCHILD/
+# CHAOS;HEAD NOAH https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/
 # BLACK SOULS II https://store.steampowered.com/app/3855540/BLACK_SOULS_II/
 # BLACK SOULS https://store.steampowered.com/app/3755860/BLACK_SOULS/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
@@ -1171,6 +1196,7 @@
 # Scions of Fate https://store.steampowered.com/app/747970/Scions_of_Fate/
 # Life is Feudal: MMO https://store.steampowered.com/app/700030/Life_is_Feudal_MMO/
 # The Legend of Heroes: Sen no Kiseki I KAI -Thors Military Academy 1204- https://store.steampowered.com/app/1450120/The_Legend_of_Heroes_Sen_no_Kiseki_I_KAI_Thors_Military_Academy_1204/
+# Tōhō Shinjutō ~ Hollow Song of Birds 東方真珠島　～ Hollow Song of Birds http://th-jss.cocolog-nifty.com/blog/
 { "name": "launcher.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing

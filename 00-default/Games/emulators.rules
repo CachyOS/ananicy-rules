@@ -58,6 +58,12 @@
 { "name": "mesen", "type": "Game" }
 { "name": "mesen-git", "type": "Game" }
 
+# Flash emulator https://ruffle.rs/
+{ "name": "ruffle", "type": "Game" }
+
+# RPG Maker 2000/2003 emulator https://easyrpg.org/
+{ "name": "easyrpg-player", "type": "Game" }
+
 # Multi-system emulator
 # https://github.com/higan-emu/higan
 { "name": "higan", "type": "Game" }
