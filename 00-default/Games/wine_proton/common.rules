@@ -2383,6 +2383,9 @@
 # Spacewar more like Pirates of the Caribbean XD https://steamdb.info/app/480/
 { "name": "SteamWorksExample.exe", "type": "Service" }
 
+# Self explanatory
+{ "name": "notification_helper.exe", "type": "BG_CPUIO" }
+
 # Crash handlers
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
 { "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
