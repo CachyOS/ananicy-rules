@@ -5,6 +5,11 @@
 
 ### B ###
 
+# Baballonia https://store.steampowered.com/app/4091970/Project_Babble_Baballonia/
+{ "name": "BabbleCalibration.x86_64", "type": "Game" }
+{ "name": "BabbleTrainer", "type": "Game" }
+{ "name": "espflash", "type": "Game" }
+
 # BABBDI https://store.steampowered.com/app/2240530/BABBDI/
 { "name": "BABBDI_1.2.5.x86_64", "type": "Game" }
 
@@ -16,17 +21,6 @@
 
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
-
-# Baballonia https://store.steampowered.com/app/4091970/Project_Babble_Baballonia/
-{ "name": "BabbleCalibration.x86_64", "type": "Game" }
-{ "name": "BabbleTrainer", "type": "Game" }
-{ "name": "espflash", "type": "Game" }
-
-# Bright Lord https://store.steampowered.com/app/2906370/
-{ "name": "BrightLord", "type": "Game" }
-
-# Broken Hearts Island https://store.steampowered.com/app/2499420/
-{ "name": "BrokenHeartsIsland", "type": "Game" }
 
 # Baldur's Gate 3 https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
 { "name": "bg3", "type": "Game" }
@@ -255,6 +249,9 @@
 # Brigador: Up-Armored Edition https://store.steampowered.com/app/274500/Brigador_UpArmored_Edition/
 { "name": "brigador", "type": "Game" }
 
+# Bright Lord https://store.steampowered.com/app/2906370/
+{ "name": "BrightLord", "type": "Game" }
+
 # Broforce https://store.steampowered.com/app/274190/Broforce/
 { "name": "Broforce.x86", "type": "Game" }
 { "name": "Broforce.x86_64", "type": "Game" }
@@ -264,6 +261,9 @@
 
 # Broken Dreams https://store.steampowered.com/app/444480/Broken_Dreams/
 { "name": "BrokenDreamsLinux", "type": "Game" }
+
+# Broken Hearts Island https://store.steampowered.com/app/2499420/
+{ "name": "BrokenHeartsIsland", "type": "Game" }
 
 # Broken Sword 2 - the Smoking Mirror: Remastered (2010) https://store.steampowered.com/app/33600/Broken_Sword_2__the_Smoking_Mirror_Remastered_2010/
 { "name": "BS2", "type": "Game" }

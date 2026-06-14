@@ -40,9 +40,6 @@
 # Race The Sun https://store.steampowered.com/app/253030/Race_The_Sun/
 { "name": "RaceTheSun.exe", "type": "Game" }
 
-# RAIDBORN https://store.steampowered.com/app/1546090/RAIDBORN/
-{ "name": "Raidborn.exe", "type": "Game" }
-
 # RAD https://store.steampowered.com/app/722560/RAD/
 { "name": "Mutant.exe", "type": "Game" }
 { "name": "RAD.exe", "type": "Game" }
@@ -75,6 +72,9 @@
 { "name": "cabarc.exe", "type": "Game" }
 { "name": "Rag2.exe", "type": "Game" }
 { "name": "RO2Client.exe", "type": "Game" }
+
+# RAIDBORN https://store.steampowered.com/app/1546090/RAIDBORN/
+{ "name": "Raidborn.exe", "type": "Game" }
 
 # Raiders! Forsaken Earth https://store.steampowered.com/app/972010/Raiders_Forsaken_Earth/
 { "name": "Raiders.exe", "type": "Game" }

@@ -21,12 +21,6 @@
 { "name": "CarX_Street.x86_64", "type": "Game" }
 { "name": "eac_launcher", "type": "BG_CPUIO" }
 
-# Cleaning Up! https://store.steampowered.com/app/3835650/Cleaning_Up/
-{ "name": "Cleaning Up.x86_64", "type": "Game" }
-
-# Core Keeper Dedicated Server https://store.steampowered.com/app/1963720/
-{ "name": "CoreKeeperServer", "type": "Game" }
-
 # Cassette Beasts https://store.steampowered.com/app/1321440/Cassette_Beasts/
 { "name": "CassetteBeasts.x86_64", "type": "Game" }
 
@@ -151,6 +145,9 @@
 # Class of '09: The Re-Up https://store.steampowered.com/app/2318310/Class_of_09_The_ReUp/
 { "name": "C09RU", "type": "Game" }
 
+# Cleaning Up! https://store.steampowered.com/app/3835650/Cleaning_Up/
+{ "name": "Cleaning Up.x86_64", "type": "Game" }
+
 # Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
 { "name": "ClearedHot", "type": "Game" }
 
@@ -226,6 +223,9 @@
 
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper", "type": "Game" }
+
+# Core Keeper Dedicated Server https://store.steampowered.com/app/1963720/
+{ "name": "CoreKeeperServer", "type": "Game" }
 
 # Corpse Party (2021) https://store.steampowered.com/app/1273260/Corpse_Party_2021/
 { "name": "CorpseParty.x64", "type": "Game" }

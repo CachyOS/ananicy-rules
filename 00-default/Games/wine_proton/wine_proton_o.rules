@@ -33,15 +33,6 @@
 { "name": "OctodadDadliestCatch.exe", "type": "Game" }
 { "name": "OctodadEditor.exe", "type": "Game" }
 
-# Our Life: Now & Forever Demo https://store.steampowered.com/app/1871580/Our_Life_Now__Forever_Demo/
-{ "name": "OurLifeNF.exe", "type": "Game" }
-
-# OVER THE TOWER https://store.steampowered.com/app/4254140/OVER_THE_TOWER/
-{ "name": "Over the Tower.exe", "type": "Game" }
-
-# OVR Dynamic Resolution https://store.steampowered.com/app/3243840/OVR_Dynamic_Resolution/
-{ "name": "OVR-Dynamic-Resolution.exe", "type": "BG_CPUIO" }
-
 # Octogeddon https://store.steampowered.com/app/525620/Octogeddon/
 { "name": "octogeddon.exe", "type": "Game" }
 
@@ -417,6 +408,9 @@
 { "name": "OurLife.exe", "type": "Game" }
 { "name": "OurLife-32.exe", "type": "Game" }
 
+# Our Life: Now & Forever Demo https://store.steampowered.com/app/1871580/Our_Life_Now__Forever_Demo/
+{ "name": "OurLifeNF.exe", "type": "Game" }
+
 # Outbound https://store.steampowered.com/app/2681030/Outbound/
 { "name": "Outbound.exe", "type": "Game" }
 
@@ -565,6 +559,9 @@
 # Over The Top: WWI https://store.steampowered.com/app/2778610/Over_The_Top_WWI/
 { "name": "Over_The_Top_WWI.exe", "type": "Game" }
 
+# OVER THE TOWER https://store.steampowered.com/app/4254140/OVER_THE_TOWER/
+{ "name": "Over the Tower.exe", "type": "Game" }
+
 # Overwatch https://store.steampowered.com/app/2357570/Overwatch/
 { "name": "Overwatch.exe", "type": "Game" }
 
@@ -573,6 +570,9 @@
 
 # OVR Advanced Settings https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/
 { "name": "AdvancedSettings.exe", "type": "Game" }
+
+# OVR Dynamic Resolution https://store.steampowered.com/app/3243840/OVR_Dynamic_Resolution/
+{ "name": "OVR-Dynamic-Resolution.exe", "type": "BG_CPUIO" }
 
 # OVR Toolkit https://store.steampowered.com/app/1068820/OVR_Toolkit__Desktop_Overlay/
 { "name": "OVRToolkit-Launcher.exe", "type": "Game" }

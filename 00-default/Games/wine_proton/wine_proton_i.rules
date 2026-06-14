@@ -28,24 +28,6 @@
 # I Am Legion: Stand Survivors https://store.steampowered.com/app/3109580/I_Am_Legion_Stand_Survivors/
 { "name": "StandSurvivors.exe", "type": "Game" }
 
-# Ice Cream Simulator https://store.steampowered.com/app/3515530/Ice_Cream_Simulator/
-{ "name": "Ice Cream Simulator.exe", "type": "Game" }
-
-# Idle Dice 2 https://store.steampowered.com/app/2238180/Idle_Dice_2/
-{ "name": "Idle Dice 2.exe", "type": "Game" }
-
-# Idle Dyson Swarm https://store.steampowered.com/app/4348570/Idle_Dyson_Swarm/
-{ "name": "Idle Dyson Swarm.exe", "type": "Game" }
-
-# IncreKnight https://store.steampowered.com/app/4305480/IncreKnight/
-{ "name": "IncreKnight.exe", "type": "Game" }
-
-# In Exilium https://store.steampowered.com/app/344880/In_Exilium/
-{ "name": "In Exilium.exe", "type": "Game" }
-
-# Interdimensional Vending Machine https://store.steampowered.com/app/3857430/Interdimensional_Vending_Machine/
-{ "name": "IVM_windows.exe", "type": "Game" }
-
 # I Am Your Beast https://store.steampowered.com/app/1876590/I_Am_Your_Beast/
 { "name": "I Am Your Beast.exe", "type": "Game" }
 
@@ -59,6 +41,9 @@
 # ICBM: Escalation https://store.steampowered.com/app/2647680/ICBM_Escalation/
 { "name": "ICBM_mod.exe", "type": "Game" }
 { "name": "ICBM.exe", "type": "Game" }
+
+# Ice Cream Simulator https://store.steampowered.com/app/3515530/Ice_Cream_Simulator/
+{ "name": "Ice Cream Simulator.exe", "type": "Game" }
 
 # Icewind Dale: Enhanced Edition https://store.steampowered.com/app/321800/Icewind_Dale_Enhanced_Edition/
 { "name": "icewind.exe", "type": "Game" }
@@ -95,6 +80,12 @@
 
 # Idle Deepcore https://store.steampowered.com/app/4527930/Idle_Deepcore/
 { "name": "idledeepcore.exe", "type": "Game" }
+
+# Idle Dice 2 https://store.steampowered.com/app/2238180/Idle_Dice_2/
+{ "name": "Idle Dice 2.exe", "type": "Game" }
+
+# Idle Dyson Swarm https://store.steampowered.com/app/4348570/Idle_Dyson_Swarm/
+{ "name": "Idle Dyson Swarm.exe", "type": "Game" }
 
 # Idle Fishing https://store.steampowered.com/app/2725560/Idle_Fishing/
 { "name": "Idle Fishing.exe", "type": "Game" }
@@ -277,6 +268,9 @@
 # Incredicer https://store.steampowered.com/app/3929760/Incredicer/
 { "name": "Incredicer.exe", "type": "Game" }
 
+# IncreKnight https://store.steampowered.com/app/4305480/IncreKnight/
+{ "name": "IncreKnight.exe", "type": "Game" }
+
 # Increlution https://store.steampowered.com/app/1593350/Increlution/
 { "name": "Increlution.exe", "type": "Game" }
 
@@ -340,6 +334,9 @@
 
 # Industry Idle https://store.steampowered.com/app/1574000/Industry_Idle/
 { "name": "IndustryIdle.exe", "type": "Game" }
+
+# In Exilium https://store.steampowered.com/app/344880/In_Exilium/
+{ "name": "In Exilium.exe", "type": "Game" }
 
 # Infection Free Zone https://store.steampowered.com/app/1465460/Infection_Free_Zone/
 { "name": "Infection Free Zone.exe", "type": "Game" }
@@ -467,6 +464,9 @@
 { "name": "Insurgency.exe", "type": "Game" }
 { "name": "InsurgencyClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "InsurgencyEAC.exe", "type": "BG_CPUIO" }
+
+# Interdimensional Vending Machine https://store.steampowered.com/app/3857430/Interdimensional_Vending_Machine/
+{ "name": "IVM_windows.exe", "type": "Game" }
 
 # Internet Cafe Simulator https://store.steampowered.com/app/1136160/Internet_Cafe_Simulator/
 { "name": "Internet Cafe Simulator.exe", "type": "Game" }

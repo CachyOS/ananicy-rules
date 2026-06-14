@@ -28,9 +28,6 @@
 { "name": "MII.x86", "type": "Game" }
 { "name": "MII.x86_64", "type": "Game" }
 
-# Moonsigil Atlas https://store.steampowered.com/app/3284290/Moonsigil_Atlas/
-{ "name": "Moonsigil Atlas.x86_64", "type": "Game" }
-
 # Making History II: The War of the World https://store.steampowered.com/app/46770/Making_History_II_The_War_of_the_World/
 { "name": "mh2", "type": "Game" }
 
@@ -228,6 +225,9 @@
 # Moonlighter https://store.steampowered.com/app/606150/Moonlighter/
 { "name": "Moonlighter.x86", "type": "Game" }
 { "name": "Moonlighter.x86_64", "type": "Game" }
+
+# Moonsigil Atlas https://store.steampowered.com/app/3284290/Moonsigil_Atlas/
+{ "name": "Moonsigil Atlas.x86_64", "type": "Game" }
 
 # Moonstone Island https://store.steampowered.com/app/1658150/Moonstone_Island/
 { "name": "Moonstone Island", "type": "Game" }

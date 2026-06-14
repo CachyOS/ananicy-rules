@@ -45,13 +45,6 @@
 { "name": "zenoclash.exe", "type": "Game" }
 { "name": "ZenoClash.exe", "type": "Game" }
 
-# ZOMBUTCHER https://store.steampowered.com/app/4039900/ZOMBUTCHER_Monster_Business_Simulator/
-{ "name": "Zombutcher.exe", "type": "Game" }
-{ "name": "Zombutcher-Win64-Shipping.exe", "type": "Game" }
-
-# Zynga Poker – Texas Holdem https://store.steampowered.com/app/3635220/Zynga_Poker___Texas_Holdem/
-{ "name": "ZyngaPoker.exe", "type": "Game" }
-
 # Zeno Clash 2 https://store.steampowered.com/app/215690/Zeno_Clash_2/
 { "name": "ZC2.exe", "type": "Game" }
 
@@ -151,6 +144,10 @@
 # Zomborg https://store.steampowered.com/app/729720/Zomborg/
 { "name": "Zomborg.exe", "type": "Game" }
 
+# ZOMBUTCHER https://store.steampowered.com/app/4039900/ZOMBUTCHER_Monster_Business_Simulator/
+{ "name": "Zombutcher.exe", "type": "Game" }
+{ "name": "Zombutcher-Win64-Shipping.exe", "type": "Game" }
+
 # Zomcats Invasion https://store.steampowered.com/app/2699240/Zomcats_Invasion/
 { "name": "Zomcats Invasion.exe", "type": "Game" }
 
@@ -205,3 +202,6 @@
 
 # ZUSI 3 - Aerosoft Edition https://store.steampowered.com/app/1040730/ZUSI_3__Aerosoft_Edition/
 { "name": "ZusiSim.64.exe", "type": "Game" }
+
+# Zynga Poker – Texas Holdem https://store.steampowered.com/app/3635220/Zynga_Poker___Texas_Holdem/
+{ "name": "ZyngaPoker.exe", "type": "Game" }

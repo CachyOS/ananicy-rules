@@ -9,6 +9,10 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39steps.exe", "type": "Game" }
 
+# The 7th Guest Remake https://store.steampowered.com/app/4491360/The_7th_Guest_Remake/
+{ "name": "The7thGuestVR.exe", "type": "Game" }
+{ "name": "The7thGuestVR-Win64-Shipping.exe", "type": "Game" }
+
 # The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
 { "name": "Elliot.exe", "type": "Game" }
 { "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
@@ -43,25 +47,6 @@
 
 # The Baby in Yellow https://store.steampowered.com/app/2291340/The_Baby_In_Yellow/
 { "name": "GameSteam-Win64-Shipping.exe", "type": "Game" }
-
-# The 7th Guest Remake https://store.steampowered.com/app/4491360/The_7th_Guest_Remake/
-{ "name": "The7thGuestVR.exe", "type": "Game" }
-{ "name": "The7thGuestVR-Win64-Shipping.exe", "type": "Game" }
-
-# The Brewline https://store.steampowered.com/app/3916860/The_Brewline/
-{ "name": "The Brewline.exe", "type": "Game" }
-
-# The Last Tinker: City of Colors https://store.steampowered.com/app/260160/The_Last_Tinker_City_of_Colors/
-{ "name": "the last tinker.exe", "type": "Game" }
-
-# The Lift Playtest https://store.steampowered.com/app/3916290/
-{ "name": "Handyman.exe", "type": "Game" }
-
-# The Red Lantern https://store.steampowered.com/app/1053710/The_Red_Lantern/
-{ "name": "TheRedLantern_sw.exe", "type": "Game" }
-
-# The wild darkness https://store.steampowered.com/app/4123780/The_wild_darkness/
-{ "name": "twd.exe", "type": "Game" }
 
 # The Backrooms Deluxe 2 https://store.steampowered.com/app/4066790/The_Backrooms_Deluxe_2/
 { "name": "Deluxe2.exe", "type": "Game" }
@@ -137,6 +122,9 @@
 
 # The Break-In https://store.steampowered.com/app/1397390/The_BreakIn/
 { "name": "The Break In.exe", "type": "Game" }
+
+# The Brewline https://store.steampowered.com/app/3916860/The_Brewline/
+{ "name": "The Brewline.exe", "type": "Game" }
 
 # The Bridge https://store.steampowered.com/app/204240/The_Bridge/
 { "name": "The Bridge.exe", "type": "Game" }
@@ -683,6 +671,9 @@
 # The Last Starship https://store.steampowered.com/app/1857080/The_Last_Starship/
 { "name": "LastStarship64.exe", "type": "Game" }
 
+# The Last Tinker: City of Colors https://store.steampowered.com/app/260160/The_Last_Tinker_City_of_Colors/
+{ "name": "the last tinker.exe", "type": "Game" }
+
 # The Legend of Heroes: Ao no Kiseki KAI https://store.steampowered.com/app/1461920/The_Legend_of_Heroes_Ao_no_Kiseki_KAI/
 { "name": "Launcher_ED72.exe", "type": "BG_CPUIO" }
 { "name": "ed72_steam.exe", "type": "Game" }
@@ -764,6 +755,9 @@
 # The Life and Suffering of Sir Brante https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/
 { "name": "The Life and Suffering of Sir Brante.exe", "type": "Game" }
 { "name": "brante-101xp-micro-launcher.exe", "type": "BG_CPUIO" }
+
+# The Lift Playtest https://store.steampowered.com/app/3916290/
+{ "name": "Handyman.exe", "type": "Game" }
 
 # The Long Dark https://store.steampowered.com/app/305620/The_Long_Dark/
 { "name": "tld.exe", "type": "Game" }
@@ -956,6 +950,9 @@
 # The Ranch of Rivershine https://store.steampowered.com/app/1559600/The_Ranch_of_Rivershine/
 { "name": "TheRanchOfRivershine.exe", "type": "Game" }
 { "name": "TheRanchOfRivershine-Win64-Shipping.exe", "type": "Game" }
+
+# The Red Lantern https://store.steampowered.com/app/1053710/The_Red_Lantern/
+{ "name": "TheRedLantern_sw.exe", "type": "Game" }
 
 # The Red Pearls Of Borneo https://store.steampowered.com/app/4488860/The_Red_Pearls_Of_Borneo/
 { "name": "The Red Pearls of Borneo.exe", "type": "Game" }
@@ -1214,6 +1211,9 @@
 
 # The Wife Next Door https://store.steampowered.com/app/2710480/
 { "name": "TheWifeNextDoor.exe", "type": "Game" }
+
+# The wild darkness https://store.steampowered.com/app/4123780/The_wild_darkness/
+{ "name": "twd.exe", "type": "Game" }
 
 # The Wild Eight https://store.steampowered.com/app/526160/The_Wild_Eight/
 { "name": "wildeight.exe", "type": "Game" }

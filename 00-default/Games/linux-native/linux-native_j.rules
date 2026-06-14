@@ -20,12 +20,12 @@
 # Jazzpunk: Director's Cut https://store.steampowered.com/app/250260/Jazzpunk_Directors_Cut/
 { "name": "Jazzpunk.x86", "type": "Game" }
 
-# Jets'n'Guns Gold https://store.steampowered.com/app/262260/JetsnGuns_Gold/
-{ "name": "jng_gold", "type": "Game" }
-
 # Jet Racing Extreme https://store.steampowered.com/app/385270/Jet_Racing_Extreme_The_First_Encounter/
 { "name": "jrex.x86_64", "type": "Game" }
 { "name": "jrex.x86", "type": "Game" }
+
+# Jets'n'Guns Gold https://store.steampowered.com/app/262260/JetsnGuns_Gold/
+{ "name": "jng_gold", "type": "Game" }
 
 # Jotun: Valhalla Edition https://store.steampowered.com/app/323580/Jotun_Valhalla_Edition/
 { "name": "Jotun.x86_64", "type": "Game" }

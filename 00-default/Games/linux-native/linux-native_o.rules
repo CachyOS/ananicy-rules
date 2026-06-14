@@ -33,9 +33,6 @@
 # OneShot https://store.steampowered.com/app/420530/OneShot/
 { "name": "oneshot", "type": "Game" }
 
-# Our Life: Now & Forever Demo https://store.steampowered.com/app/1871580/Our_Life_Now__Forever_Demo/
-{ "name": "OurLifeNF", "type": "Game" }
-
 # One Step From Eden https://store.steampowered.com/app/960690/One_Step_From_Eden/
 { "name": "OSFE.x86_64", "type": "Game" }
 
@@ -76,6 +73,9 @@
 
 # osu! lazer is a Rhythm game https://github.com/ppy/osu/
 { "name": "osu!", "type": "Game" }
+
+# Our Life: Now & Forever Demo https://store.steampowered.com/app/1871580/Our_Life_Now__Forever_Demo/
+{ "name": "OurLifeNF", "type": "Game" }
 
 # Outlast https://store.steampowered.com/app/238320/Outlast/
 { "name": "OLGame.x86_64", "type": "Game" }

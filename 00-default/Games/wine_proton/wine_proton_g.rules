@@ -23,9 +23,6 @@
 # Galactic Civilizations IV https://store.steampowered.com/app/1357210/Galactic_Civilizations_IV/
 { "name": "GalCiv4.exe", "type": "Game" }
 
-# Gold Rush! Classic https://store.steampowered.com/app/308000/Gold_Rush_Classic/
-{ "name": "Gold Rush!.exe", "type": "Game" }
-
 # Galactic Glitch https://store.steampowered.com/app/1536620/Galactic_Glitch/
 { "name": "GalacticGlitch.exe", "type": "Game" }
 
@@ -451,6 +448,9 @@
 # Gold Mining Simulator 2 Playtest https://store.steampowered.com/app/3481280/
 { "name": "GoldFever.exe", "type": "Game" }
 { "name": "GoldFever-Win64-Shipping.exe", "type": "Game" }
+
+# Gold Rush! Classic https://store.steampowered.com/app/308000/Gold_Rush_Classic/
+{ "name": "Gold Rush!.exe", "type": "Game" }
 
 # Golf Gang https://store.steampowered.com/app/1151050/Golf_Gang/
 { "name": "Golf Gang.exe", "type": "Game" }

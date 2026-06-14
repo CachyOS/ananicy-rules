@@ -39,19 +39,6 @@
 # Hades https://store.steampowered.com/app/1145360/Hades/
 { "name": "Hades.exe", "type": "Game" }
 
-# Hamster Talk https://store.steampowered.com/app/3985130/Hamster_Talk/
-{ "name": "Hamster Talk.exe", "type": "Game" }
-
-# Hentai Cleopatra 2 https://store.steampowered.com/app/4238600/
-{ "name": "Hentai Cleopatra 2.exe", "type": "Game" }
-
-# Hollow Home Demo https://store.steampowered.com/app/3142360/Hollow_Home_Demo/
-{ "name": "Hollow Home.exe", "type": "Game" }
-
-# How to Make an Atomic Bomb in Your Garden Demo https://store.steampowered.com/app/3761970/
-{ "name": "Atomic Bomb Demo.exe", "type": "Game" }
-{ "name": "atom-Win64-Shipping.exe", "type": "Game" }
-
 # Hades II https://store.steampowered.com/app/1145350/Hades_II/
 { "name": "Hades2.exe", "type": "Game" }
 
@@ -127,6 +114,9 @@
 
 # Hamsteria Demo https://store.steampowered.com/app/4440600/Hamsteria_Demo/
 { "name": "HamsteriaDemo.exe", "type": "Game" }
+
+# Hamster Talk https://store.steampowered.com/app/3985130/Hamster_Talk/
+{ "name": "Hamster Talk.exe", "type": "Game" }
 
 # HAM: The Game https://store.steampowered.com/app/4019090/HAM_The_Game/
 { "name": "HamTheGame.exe", "type": "Game" }
@@ -415,6 +405,9 @@
 # HENPRI https://store.steampowered.com/app/3094010/HENPRI/
 { "name": "HENPRI.exe", "type": "Game" }
 
+# Hentai Cleopatra 2 https://store.steampowered.com/app/4238600/
+{ "name": "Hentai Cleopatra 2.exe", "type": "Game" }
+
 # Hentai Girl https://store.steampowered.com/app/878750/Hentai_Girl/
 { "name": "HentaiGirl.exe", "type": "Game" }
 
@@ -659,6 +652,9 @@
 # Hollowbody https://store.steampowered.com/app/2123640/Hollowbody/
 { "name": "Hollowbody.exe", "type": "Game" }
 
+# Hollow Home Demo https://store.steampowered.com/app/3142360/Hollow_Home_Demo/
+{ "name": "Hollow Home.exe", "type": "Game" }
+
 # Hollow Knight https://store.steampowered.com/app/367520/Hollow_Knight/
 { "name": "hollow_knight.exe", "type": "Game" }
 
@@ -842,6 +838,10 @@
 
 # How Many Dudes? Demo https://store.steampowered.com/app/4248000/How_Many_Dudes/
 { "name": "HowManyDudes.exe", "type": "Game" }
+
+# How to Make an Atomic Bomb in Your Garden Demo https://store.steampowered.com/app/3761970/
+{ "name": "Atomic Bomb Demo.exe", "type": "Game" }
+{ "name": "atom-Win64-Shipping.exe", "type": "Game" }
 
 # How to Survive https://store.steampowered.com/app/250400/How_to_Survive/
 { "name": "HowToSurvive.exe", "type": "Game" }

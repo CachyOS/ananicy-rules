@@ -66,16 +66,6 @@
 # Paleo Pines https://store.steampowered.com/app/1202200/Paleo_Pines/
 { "name": "Paleo Pines.exe", "type": "Game" }
 
-# Pillar https://store.steampowered.com/app/371900/Pillar/
-{ "name": "Pillar.exe", "type": "Game" }
-
-# Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
-{ "name": "Pool-Win64-Shipping.exe", "type": "Game" }
-
-# Project N.E.K.O. https://store.steampowered.com/app/4099310/Project_NEKO/
-{ "name": "N.E.K.O.exe", "type": "Game" }
-{ "name": "projectneko_server.exe", "type": "Game" }
-
 # Palia https://store.steampowered.com/app/2707930/Palia/
 { "name": "PaliaClientSteam.exe", "type": "Game" }
 { "name": "PaliaClientSteam-Win64-Shipping.exe", "type": "Game" }
@@ -526,6 +516,9 @@
 # Pilgrims https://store.steampowered.com/app/1049280/Pilgrims/
 { "name": "Pilgrims.exe", "type": "Game" }
 
+# Pillar https://store.steampowered.com/app/371900/Pillar/
+{ "name": "Pillar.exe", "type": "Game" }
+
 # Pillars of Eternity https://store.steampowered.com/app/291650/Pillars_of_Eternity/
 { "name": "PillarsOfEternity.exe", "type": "Game" }
 
@@ -836,6 +829,9 @@
 # PomoFarm https://store.steampowered.com/app/2060480/PomoFarm/
 { "name": "PomoFarm.exe", "type": "Game" }
 
+# Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
+{ "name": "Pool-Win64-Shipping.exe", "type": "Game" }
+
 # Pool Live Tour Max https://store.steampowered.com/app/4061130/Pool_Live_Tour_Max/
 { "name": "PoolLiveTourMax.exe", "type": "Game" }
 
@@ -1142,6 +1138,10 @@
 
 # Project Motor Racing https://store.steampowered.com/app/299970/Project_Motor_Racing/
 { "name": "ProjectMotorRacing.exe", "type": "Game" }
+
+# Project N.E.K.O. https://store.steampowered.com/app/4099310/Project_NEKO/
+{ "name": "N.E.K.O.exe", "type": "Game" }
+{ "name": "projectneko_server.exe", "type": "Game" }
 
 # Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
 { "name": "ProjectNimbusCompleteEdition.exe", "type": "Game" }

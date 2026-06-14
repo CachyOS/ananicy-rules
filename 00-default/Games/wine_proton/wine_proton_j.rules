@@ -27,12 +27,6 @@
 # Jagged Alliance 2 - Wildfire https://store.steampowered.com/app/215930/Jagged_Alliance_2__Wildfire/
 { "name": "WF6.exe", "type": "Game" }
 
-# Japanese Rural Life Adventure https://store.steampowered.com/app/4158870/Japanese_Rural_Life_Adventure/
-{ "name": "JapaneseLife.exe", "type": "Game" }
-
-# Jet Racing Extreme https://store.steampowered.com/app/385270/Jet_Racing_Extreme_The_First_Encounter/
-{ "name": "jrex.exe", "type": "Game" }
-
 # Jagged Alliance 3 https://store.steampowered.com/app/1084160/Jagged_Alliance_3/
 { "name": "JA3.exe", "type": "Game" }
 { "name": "JA3Debug.exe", "type": "Game" }
@@ -46,6 +40,9 @@
 
 # Jamestown https://store.steampowered.com/app/94200/Jamestown/
 { "name": "Jamestown.exe", "type": "Game" }
+
+# Japanese Rural Life Adventure https://store.steampowered.com/app/4158870/Japanese_Rural_Life_Adventure/
+{ "name": "JapaneseLife.exe", "type": "Game" }
 
 # JASON, Coming of Age https://store.steampowered.com/app/3165830/
 { "name": "JASON.exe", "type": "Game" }
@@ -65,6 +62,9 @@
 
 # Jet Lancer https://store.steampowered.com/app/913060/Jet_Lancer/
 { "name": "Jet Lancer.exe", "type": "Game" }
+
+# Jet Racing Extreme https://store.steampowered.com/app/385270/Jet_Racing_Extreme_The_First_Encounter/
+{ "name": "jrex.exe", "type": "Game" }
 
 # Jet Set Radio https://store.steampowered.com/app/205950/Jet_Set_Radio/
 { "name": "jetsetradio.exe", "type": "Game" }

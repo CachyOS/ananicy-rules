@@ -26,10 +26,6 @@
 # Layers of Fear (2016) https://store.steampowered.com/app/391720/Layers_of_Fear_2016/
 { "name": "LOF", "type": "Game" }
 
-# Literally Just Pixels On A Screen https://store.steampowered.com/app/3072000/Literally_Just_Pixels_On_A_Screen/
-{ "name": "Literally_Just_Pixels_On_A_Screen.x86_64", "type": "Game" }
-{ "name": "Literally_Just_Pixels_On_A_Screen.x86_32", "type": "Game" }
-
 # Leap of Faith https://store.steampowered.com/app/1768640/
 { "name": "LeapofFaith", "type": "Game" }
 
@@ -97,6 +93,10 @@
 
 # LISC https://store.steampowered.com/app/3063520/
 { "name": "LISC", "type": "Game" }
+
+# Literally Just Pixels On A Screen https://store.steampowered.com/app/3072000/Literally_Just_Pixels_On_A_Screen/
+{ "name": "Literally_Just_Pixels_On_A_Screen.x86_64", "type": "Game" }
+{ "name": "Literally_Just_Pixels_On_A_Screen.x86_32", "type": "Game" }
 
 # Little Inferno https://store.steampowered.com/app/221260/Little_Inferno/
 { "name": "LittleInferno.bin.x86", "type": "Game" }
