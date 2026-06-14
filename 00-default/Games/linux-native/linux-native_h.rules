@@ -77,6 +77,10 @@
 # Heatwave: Sam's Stay https://store.steampowered.com/app/4103530/
 { "name": "Heatwave", "type": "Game" }
 
+# Hedgewars https://store.steampowered.com/app/2223810/Hedgewars/
+{ "name": "hedgewars", "type": "Game"}
+{ "name": "hedgewars-server", "type": "Game"}
+
 # Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
 { "name": "heliborne.x86_64", "type": "Game" }
 { "name": "heliborne.x64", "type": "Game" }
@@ -137,16 +141,24 @@
 # Hidden Folks https://store.steampowered.com/app/435400/Hidden_Folks/
 { "name": "Hidden Folks.x86_64", "type": "Game" }
 
+# Higurashi When They Cry Hou+ https://store.steampowered.com/app/2491040/Higurashi_When_They_Cry_Hou/
+{ "name": "HigurashiEp10.x86_64", "type": "Game" }
+
 # Higurashi When They Cry Hou - Ch.1 Onikakushi https://store.steampowered.com/app/310360/Higurashi_When_They_Cry_Hou__Ch1_Onikakushi/
 { "name": "HigurashiEp01.x86", "type": "Game" }
 { "name": "HigurashiEp01.x86_64", "type": "Game" }
 
 # Higurashi When They Cry Hou - Ch.2 Watanagashi https://store.steampowered.com/app/410890/Higurashi_When_They_Cry_Hou__Ch2_Watanagashi/
 { "name": "HigurashiEp02.x86", "type": "Game" }
+{ "name": "HigurashiEp02.x86_64", "type": "Game" }
 
 # Higurashi When They Cry Hou - Ch.3 Tatarigoroshi https://store.steampowered.com/app/472870/Higurashi_When_They_Cry_Hou__Ch3_Tatarigoroshi/
 { "name": "HigurashiEp03.x86", "type": "Game" }
 { "name": "HigurashiEp03.x86_64", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.4 Himatsubushi https://store.steampowered.com/app/526490/Higurashi_When_They_Cry_Hou__Ch4_Himatsubushi/
+{ "name": "HigurashiEp04.x86", "type": "Game" }
+{ "name": "HigurashiEp04.x86_64", "type": "Game" }
 
 # Higurashi When They Cry Hou - Ch.5 Meakashi https://store.steampowered.com/app/577480/Higurashi_When_They_Cry_Hou__Ch5_Meakashi/
 { "name": "HigurashiEp05.x86", "type": "Game" }
@@ -155,6 +167,17 @@
 # Higurashi When They Cry Hou - Ch.6 Tsumihoroboshi https://store.steampowered.com/app/668350/Higurashi_When_They_Cry_Hou__Ch6_Tsumihoroboshi/
 { "name": "HigurashiEp06.x86_64", "type": "Game" }
 { "name": "HigurashiEp06.x86", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.7 Minagoroshi https://store.steampowered.com/app/1034940/Higurashi_When_They_Cry_Hou__Ch7_Minagoroshi/
+{ "name": "HigurashiEp07.x86_64", "type": "Game" }
+{ "name": "HigurashiEp07.x86", "type": "Game" }
+
+# Higurashi When They Cry Hou - Ch.8 Matsuribayashi https://store.steampowered.com/app/1243670/Higurashi_When_They_Cry_Hou__Ch8_Matsuribayashi/
+{ "name": "HigurashiEp08.x86_64", "type": "Game" }
+{ "name": "HigurashiEp08.x86", "type": "Game" }
+
+# Higurashi When They Cry Hou - Rei https://store.steampowered.com/app/1941110/Higurashi_When_They_Cry_Hou__Rei/
+{ "name": "HigurashiEp09.x86_64", "type": "Game" }
 
 # HITMAN https://store.steampowered.com/app/236870/HITMAN/
 { "name": "HitmanPro", "type": "Game" }
@@ -254,6 +277,9 @@
 
 # Hyper Light Drifter https://store.steampowered.com/app/257850/Hyper_Light_Drifter/
 { "name": "HyperLightDrifter", "type": "Game" }
+
+# HyperRogue https://store.steampowered.com/app/342610/HyperRogue/
+{ "name": "hyper64", "type": "Game" }
 
 # Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
 { "name": "HypnOS", "type": "Game" }
