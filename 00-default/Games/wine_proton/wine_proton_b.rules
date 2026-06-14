@@ -1257,6 +1257,38 @@
 # Broken Sword - Shadow of the Templars: Reforged https://store.steampowered.com/app/2544110/Broken_Sword__Shadow_of_the_Templars_Reforged/
 { "name": "BS1R.exe", "type": "Game" }
 
+# Baballonia https://store.steampowered.com/app/4091970/Project_Babble_Baballonia/
+{ "name": "Baballonia.Desktop.exe", "type": "BG_CPUIO" }
+{ "name": "BabbleTrainer.exe", "type": "BG_CPUIO" }
+{ "name": "BabbleCalibration.x86_64.exe", "type": "BG_CPUIO" }
+{ "name": "espflash.exe", "type": "BG_CPUIO" }
+
+# Backrooms Society https://store.steampowered.com/app/2304620/Backrooms_Society/
+{ "name": "GameBackroomsSociety.exe", "type": "Game" }
+{ "name": "GameBackroomsSociety-Win64-Shipping.exe", "type": "Game" }
+
+# Banagine https://store.steampowered.com/app/3077790/Banana_Gine/
+{ "name": "Banagine.exe", "type": "Game" }
+
+# Bang Bang Fruit https://store.steampowered.com/app/587810/Bang_Bang_Fruit/
+{ "name": "BBF.exe", "type": "Game" }
+
+# Beastro https://store.steampowered.com/app/2417470/Beastro/
+{ "name": "Spinel_02.exe", "type": "Game" }
+{ "name": "Spinel_02-Win64-Shipping.exe", "type": "Game" }
+
+# Beggar's Life Demo https://store.steampowered.com/app/3917920/Beggars_Life_Demo/
+{ "name": "beggar_windows_steam_demo.exe", "type": "Game" }
+
+# Bright Lord https://store.steampowered.com/app/2906370/
+{ "name": "BrightLord.exe", "type": "Game" }
+
+# Broken Hearts Island https://store.steampowered.com/app/2499420/
+{ "name": "BrokenHeartsIsland.exe", "type": "Game" }
+
+# Burgie's cozy kitchen https://store.steampowered.com/app/3314340/Burgies_Cozy_Kitchen/
+{ "name": "Burgies cozy kitchen.exe", "type": "Game" }
+
 # Bronzebeard's Tavern https://store.steampowered.com/app/2422870/Bronzebeards_Tavern/
 { "name": "GameProject.exe", "type": "Game" }
 { "name": "GameProject-Win64-Shipping.exe", "type": "Game" }

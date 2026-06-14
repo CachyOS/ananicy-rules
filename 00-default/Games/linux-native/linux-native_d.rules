@@ -23,6 +23,12 @@
 # Day of Defeat: Source https://store.steampowered.com/app/300/Day_of_Defeat_Source/
 { "name": "dod_linux64", "type": "Game" }
 
+# D.O.T. Defence https://store.steampowered.com/app/3124850/DOT_Defence/
+{ "name": "dot_defence.x86_64", "type": "Game" }
+
+# Dungeon of Elements https://store.steampowered.com/app/302310/Dungeon_of_Elements/
+{ "name": "DungeonofElements.x86", "type": "Game" }
+
 # Day of Infamy https://store.steampowered.com/app/447820/Day_of_Infamy/
 { "name": "dayofinfamy_linux", "type": "Game" }
 
