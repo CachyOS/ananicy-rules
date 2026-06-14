@@ -377,6 +377,10 @@
 { "name": "EnergyEngine.exe", "type": "Game" }
 { "name": "EnergyWallpaper.exe", "type": "Game" }
 
+# En Garde! https://store.steampowered.com/app/1654660/En_Garde/
+{ "name": "EnGarde.exe", "type": "Game" }
+{ "name": "EnGarde-Win64-Shipping.exe", "type": "Game" }
+
 # Enginefall Playtest https://store.steampowered.com/app/2651270/
 { "name": "ColtraneClient-Win64-Shipping.exe", "type": "Game" }
 
@@ -531,6 +535,9 @@
 # Eternal Strands https://store.steampowered.com/app/1491410/Eternal_Strands/
 { "name": "EternalStrands.exe", "type": "Game" }
 { "name": "EternalStrandsSteam-Win64-Shipping.exe", "type": "Game" }
+
+# Eternights https://store.steampowered.com/app/1402110/Eternights/
+{ "name": "Eternights.exe", "type": "Game" }
 
 # Eternium https://store.steampowered.com/app/981600/Eternium/
 { "name": "MageAndMinions.exe", "type": "Game" }
