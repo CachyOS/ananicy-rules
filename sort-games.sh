@@ -194,8 +194,8 @@ run_sort_in_proton() {
     for letter in {a..z} numerical the; do
         parse_and_sort "00-default/Games/wine_proton/wine_proton_${letter}.rules" ""
     done
-    parse_and_sort "00-default/Games/wine_proton/non-latin/chinese.rules"
-    parse_and_sort "00-default/Games/wine_proton/non-latin/japanese.rules"
+    parse_and_sort "00-default/Games/wine_proton/non-latin/wine_proton_chinese.rules"
+    parse_and_sort "00-default/Games/wine_proton/non-latin/wine_proton_japanese.rules"
     parse_and_sort_common "00-default/Games/wine_proton/common.rules"
 }
 
@@ -203,7 +203,7 @@ run_sort_in_native() {
     for letter in {a..z} numerical the; do
         parse_and_sort "00-default/Games/linux-native/linux-native_${letter}.rules" ""
     done
-    parse_and_sort "00-default/Games/linux-native/non-latin/chinese.rules"
+    parse_and_sort "00-default/Games/linux-native/non-latin/linux-native_chinese.rules"
     parse_and_sort_common "00-default/Games/linux-native/common.rules"
 }
 
