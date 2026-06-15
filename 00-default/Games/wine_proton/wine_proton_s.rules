@@ -226,10 +226,6 @@
 # Say No! More https://store.steampowered.com/app/1191900/Say_No_More/
 { "name": "SNM.exe", "type": "Game" }
 
-# Sébastien Loeb Rally EVO https://store.steampowered.com/app/355060/Sbastien_Loeb_Rally_EVO/
-{ "name": "sbk1.exe", "type": "Game" }
-{ "name": "sbk1-Win64-Shipping.exe", "type": "Game" }
-
 # SBK22 https://store.steampowered.com/app/1785910/SBK22/
 { "name": "SLR.exe", "type": "Game" }
 { "name": "SLRX64.exe", "type": "Game" }
@@ -422,6 +418,10 @@
 
 # Seasons after Fall https://store.steampowered.com/app/366320/Seasons_after_Fall/
 { "name": "Seasons after Fall.exe", "type": "Game" }
+
+# Sébastien Loeb Rally EVO https://store.steampowered.com/app/355060/Sbastien_Loeb_Rally_EVO/
+{ "name": "sbk1.exe", "type": "Game" }
+{ "name": "sbk1-Win64-Shipping.exe", "type": "Game" }
 
 # Secret Neighbor https://store.steampowered.com/app/859570/Secret_Neighbor_Hello_Neighbor_Multiplayer/
 { "name": "Secret Neighbour.exe", "type": "Game" }

@@ -5,9 +5,6 @@
 
 ### Z ###
 
-# Život Není Krásný: Poslední Exekuce https://store.steampowered.com/app/3900120/ivot_Nen_Krsn_Posledn_Exekuce/
-{ "name": "ZNK Poslední exekuce.exe", "type": "Game" }
-
 # Z https://store.steampowered.com/app/275530/Z/
 { "name": "Z.exe", "type": "Game" }
 
@@ -94,6 +91,9 @@
 
 # Ziggurat 2 https://store.steampowered.com/app/1159560/Ziggurat_2/
 { "name": "Ziggurat2.exe", "type": "Game" }
+
+# Život Není Krásný: Poslední Exekuce https://store.steampowered.com/app/3900120/ivot_Nen_Krsn_Posledn_Exekuce/
+{ "name": "ZNK Poslední exekuce.exe", "type": "Game" }
 
 # ZM Desktop Elf https://store.steampowered.com/app/3003300/ZM_Desktop_Elf/
 { "name": "ZMDesktopElfLauncher.exe", "type": "BG_CPUIO" }
