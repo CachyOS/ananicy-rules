@@ -57,13 +57,6 @@
 # Halcyon Days at Taoyuan https://store.steampowered.com/app/2678830/Halcyon_Days_at_Taoyuan/
 { "name": "-X-.exe", "type": "Game" }
 
-# HyperRogue https://store.steampowered.com/app/342610/HyperRogue/
-{ "name": "hyper.exe", "type": "Game" }
-
-# Hedgewars https://store.steampowered.com/app/2223810/Hedgewars/
-{ "name": "hedgewars.exe", "type": "Game"}
-{ "name": "hedgewars-server.exe", "type": "Service"}
-
 # Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
 { "name": "hl2mp.exe", "type": "Game" }
 { "name": "hl2mp_win64.exe", "type": "Game" }
@@ -304,6 +297,10 @@
 
 # Heavy Rain https://store.steampowered.com/app/960910/Heavy_Rain/
 { "name": "HeavyRain.exe", "type": "Game" }
+
+# Hedgewars https://store.steampowered.com/app/2223810/Hedgewars/
+{ "name": "hedgewars.exe", "type": "Game"}
+{ "name": "hedgewars-server.exe", "type": "Service"}
 
 # He is Coming https://store.steampowered.com/app/2824490/He_is_Coming/
 { "name": "He is coming.exe", "type": "Game" }
@@ -955,6 +952,9 @@
 
 # Hypermarket Simulator https://store.steampowered.com/app/3614460/Hypermarket_Simulator/
 { "name": "HyperMarket Simulator.exe", "type": "Game" }
+
+# HyperRogue https://store.steampowered.com/app/342610/HyperRogue/
+{ "name": "hyper.exe", "type": "Game" }
 
 # Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
 { "name": "HypnOS.exe", "type": "Game" }
