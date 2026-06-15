@@ -2,7 +2,7 @@
 
 # this script can sort rules in wine_proton and linux-native folders
 # don't use this script to sort non-latin rules
-# use it to sort files "from a to z", "the", numerical and "common"
+# use it to sort files "from a to z", "the", numerical, "common", chinese and japanese
 # for more information run ./sort-games.sh --help
 
 is_header_line() {
@@ -21,7 +21,6 @@ is_header_line() {
 
 parse_and_sort() {
     local file="$1"
-    local use_diacritics="$2"
     local -A ids names jsons
     local current_id="" current_name="" current_jsons=""
 
@@ -42,11 +41,7 @@ parse_and_sort() {
 
     make_id() {
         local title="$1"
-        if [[ -n "$use_diacritics" ]]; then
-            echo "$title" | sed 's/https\?:[^ ]*//' | python3 -c "import sys,re; t=sys.stdin.read(); t=re.sub(r'[^\x00-\u024f ]','',t); t=re.sub(r'[^a-zA-Z0-9\u00c0-\u024f ]','',t); print(t,end='')" | tr '[:upper:]' '[:lower:]' | tr -d ' '
-        else
-            echo "$title" | sed 's/http.*//' | sed 's/[^a-zA-Z0-9 ]//g' | tr -d ' ' | tr '[:upper:]' '[:lower:]'
-        fi
+        echo "$title" | sed 's/http.*//' | grep -oP '[^\x{0250}-\x{10FFFF}]+' | tr -d '\n' | grep -oP '[a-zA-Z0-9\x{00c0}-\x{024f} ]+' | tr -d '\n' | tr '[:upper:]' '[:lower:]' | tr -d ' '
     }
 
     local header=""
@@ -179,15 +174,11 @@ print_help() {
     echo "       ./sort-games.sh [OPTION] [FILE]"
     echo ""
     echo "Options:"
-    echo "  --all                    Sort wine_proton and linux-native a-z, numerical, 'the' and 'common' files"
-    echo "  --proton                 Sort wine_proton a-z, numerical, 'the' and 'common' files"
-    echo "  --native                 Sort linux-native a-z, numerical, 'the' and 'common' files"
+    echo "  --all                    Sort wine_proton and linux-native a-z, numerical, 'the', 'common', chinese and japanese files"
+    echo "  --proton                 Sort wine_proton a-z, numerical, 'the' and 'common', chinese and japanese files"
+    echo "  --native                 Sort linux-native a-z, numerical, 'the' and 'common' and chinese files"
     echo "  --common <file>          Sort common.rules file"
-    echo "  --use-diacritics <file>  sort japanese/chinese entries (requires python)."
-    echo "                           Entries should have pinyin (for chinese) or romaji (for japanese) as prefix."
-    echo "                           See examples in wine_proton_non-latin.rules."
-    echo "                           Make a temporary file, e.g. chinese.rules, move entries there,"
-    echo "                           sort, then move entries back to the corresponding file."
+    echo ""
     echo ""    
     echo "Note: Do not use this script to sort non-latin files."    
     echo ""
@@ -195,38 +186,39 @@ print_help() {
     echo "  ./sort-games.sh --all"
     echo "  ./sort-games.sh --proton"
     echo "  ./sort-games.sh --common 00-default/Games/wine_proton/common.rules"
-    echo "  ./sort-games.sh --use-diacritics chinese.rules"
     echo "  ./sort-games.sh 00-default/Games/wine_proton/wine_proton_a.rules"
 }
 
 
+run_sort_in_proton() {
+    for letter in {a..z} numerical the; do
+        parse_and_sort "00-default/Games/wine_proton/wine_proton_${letter}.rules" ""
+    done
+    parse_and_sort "00-default/Games/wine_proton/non-latin/chinese.rules"
+    parse_and_sort "00-default/Games/wine_proton/non-latin/japanese.rules"
+    parse_and_sort_common "00-default/Games/wine_proton/common.rules"
+}
+
+run_sort_in_native() {
+    for letter in {a..z} numerical the; do
+        parse_and_sort "00-default/Games/linux-native/linux-native_${letter}.rules" ""
+    done
+    parse_and_sort "00-default/Games/linux-native/non-latin/chinese.rules"
+    parse_and_sort_common "00-default/Games/linux-native/common.rules"
+}
 
 
 if [[ "$1" == "--help" ]]; then
     print_help
 elif [[ "$1" == "--common" ]]; then
     parse_and_sort_common "$2"
-elif [[ "$1" == "--use-diacritics" ]]; then
-    parse_and_sort "$2" "1"
 elif [[ "$1" == "--proton" ]]; then
-    for letter in {a..z} numerical the; do
-        parse_and_sort "00-default/Games/wine_proton/wine_proton_${letter}.rules" ""
-    done
-    parse_and_sort_common "00-default/Games/wine_proton/common.rules"
+    run_sort_in_proton    
 elif [[ "$1" == "--native" ]]; then
-    for letter in {a..z} numerical the; do
-        parse_and_sort "00-default/Games/linux-native/linux-native_${letter}.rules" ""
-    done
-    parse_and_sort_common "00-default/Games/linux-native/common.rules"
+    run_sort_in_native
 elif [[ "$1" == "--all" ]]; then
-    for letter in {a..z} numerical the; do
-        parse_and_sort "00-default/Games/wine_proton/wine_proton_${letter}.rules" ""
-    done
-    parse_and_sort_common "00-default/Games/wine_proton/common.rules"
-    for letter in {a..z} numerical the; do
-        parse_and_sort "00-default/Games/linux-native/linux-native_${letter}.rules" ""
-    done
-    parse_and_sort_common "00-default/Games/linux-native/common.rules"
+    run_sort_in_proton
+    run_sort_in_native
 elif [[ "$1" == --* ]]; then
     echo "Unknown option: $1. Run --help for usage." >&2
     exit 1
