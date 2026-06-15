@@ -1100,7 +1100,7 @@
 { "name": "mnc.exe", "type": "Game" }
 
 # Monday Night Combat Dedicated Server https://store.steampowered.com/app/63220/
-{ "name": "MNCDS.exe", "type": "BG_CPUIO" }
+{ "name": "MNCDS.exe", "type": "Service" }
 
 # Money Simulator: Brokeville https://store.steampowered.com/app/3555430/Money_Simulator_Brokeville_Free_Prologue/
 { "name": "Money Simulator - Brokeville.exe", "type": "Game" }

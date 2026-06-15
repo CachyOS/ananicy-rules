@@ -125,7 +125,7 @@
 { "name": "WarInTheWest.exe", "type": "Game" }
 
 # Gas Guzzlers Extreme https://store.steampowered.com/app/243800/Gas_Guzzlers_Extreme/
-{ "name": "GGDedicatedServerLauncher.exe", "type": "Game" }
+{ "name": "GGDedicatedServerLauncher.exe", "type": "Service" }
 { "name": "GasGuzzlers.exe", "type": "Game" }
 
 # Gas Station Simulator https://store.steampowered.com/app/1149620/Gas_Station_Simulator/

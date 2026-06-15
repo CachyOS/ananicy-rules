@@ -60,9 +60,9 @@
 { "name": "yapyap.exe", "type": "Game" }
 
 # Yargis - Space Melee - Dedicated Server https://store.steampowered.com/app/382030/
-{ "name": "YargisServer.exe", "type": "Game" }
-{ "name": "YargisServerConfig.exe", "type": "Game" }
-{ "name": "YargisFeedback.exe", "type": "Game" }
+{ "name": "YargisServer.exe", "type": "Service" }
+{ "name": "YargisServerConfig.exe", "type": "Service" }
+{ "name": "YargisFeedback.exe", "type": "Service" }
 
 # Yarimono https://store.steampowered.com/app/2696050/Yarimono/
 { "name": "YARISUTEMESUBUTA.exe", "type": "Game" }

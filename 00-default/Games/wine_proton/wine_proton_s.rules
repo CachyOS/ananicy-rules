@@ -203,9 +203,9 @@
 { "name": "SatelliteReignWindows.exe", "type": "Game" }
 
 # Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
-{ "name": "FactoryServer.exe", "type": "Game" }
-{ "name": "FactoryServer-Win64-Shipping-Cmd.exe", "type": "Game" }
-{ "name": "FactoryServer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "FactoryServer.exe", "type": "Service" }
+{ "name": "FactoryServer-Win64-Shipping-Cmd.exe", "type": "Service" }
+{ "name": "FactoryServer-Win64-Shipping.exe", "type": "Service" }
 
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler.exe", "type": "Game" }
@@ -238,7 +238,7 @@
 { "name": "sbox.exe", "type": "Game" }
 { "name": "sbox-standalone.exe", "type": "Game" }
 { "name": "sbox-launcher.exe", "type": "BG_CPUIO" }
-{ "name": "sbox-server.exe", "type": "BG_CPUIO" }
+{ "name": "sbox-server.exe", "type": "Service" }
 
 # Scam Line https://store.steampowered.com/app/2794590/Scam_Line/
 { "name": "Scam Line.exe", "type": "Game" }
@@ -333,7 +333,7 @@
 { "name": "SCP Labrat.exe", "type": "Game" }
 
 # SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
-{ "name": "LocalAdmin.exe", "type": "Game" }
+{ "name": "LocalAdmin.exe", "type": "Service" }
 
 # Scrap Mechanic https://store.steampowered.com/app/387990/Scrap_Mechanic/
 { "name": "ScrapMechanic.exe", "type": "Game" }
@@ -2022,7 +2022,7 @@
 
 # Starbound https://store.steampowered.com/app/211820/Starbound/
 { "name": "starbound.exe", "type": "Game" }
-{ "name": "starbound_server.exe", "type": "Game" }
+{ "name": "starbound_server.exe", "type": "Service" }
 
 # StarBreak https://store.steampowered.com/app/420790/StarBreak/
 { "name": "mvmmoclient.exe", "type": "Game" }
@@ -2293,14 +2293,14 @@
 { "name": "Staxel.ModManager.exe", "type": "Game" }
 { "name": "StaxelCE.exe", "type": "Game" }
 { "name": "Staxel.SteamLauncher.exe", "type": "Game" }
-{ "name": "Staxel.ServerWizard.exe", "type": "Game" }
+{ "name": "Staxel.ServerWizard.exe", "type": "Service" }
 
 # Stay Out https://store.steampowered.com/app/1180380/Stay_Out/
 { "name": "sogame.exe", "type": "Game" }
 { "name": "sogame.host.exe", "type": "Game" }
 
 # STCC - The Game Demo Dedicated Server https://store.steampowered.com/app/8710/
-{ "name": "STCC_Demo_Dedicated_Steam.exe", "type": "Game" }
+{ "name": "STCC_Demo_Dedicated_Steam.exe", "type": "Service" }
 
 # Stealth Bastard Deluxe https://store.steampowered.com/app/209190/Stealth_Bastard_Deluxe/
 { "name": "StealthBastard[Steam].exe", "type": "Game" }
@@ -2813,8 +2813,8 @@
 { "name": "Super Fantasy Kingdom.exe", "type": "Game" }
 
 # Superfighters Deluxe https://store.steampowered.com/app/855860/Superfighters_Deluxe/
-{ "name": "Superfighters Deluxe Server.exe", "type": "Game" }
-{ "name": "Superfighters Deluxe.exe", "type": "BG_CPUIO" }
+{ "name": "Superfighters Deluxe Server.exe", "type": "Service" }
+{ "name": "Superfighters Deluxe.exe", "type": "Game" }
 
 # Superflight https://store.steampowered.com/app/732430/Superflight/
 { "name": "superflight.exe", "type": "Game" }

@@ -415,7 +415,7 @@
 
 # The Front https://store.steampowered.com/app/2285150/The_Front/
 { "name": "StartTheFront.exe", "type": "Game" }
-{ "name": "TheFrontServer.exe", "type": "Game" }
+{ "name": "TheFrontServer.exe", "type": "Service" }
 { "name": "TheFront.exe", "type": "Game" }
 
 # The Gallery - Episode 1: Call of the Starseed https://store.steampowered.com/app/270130/The_Gallery__Episode_1_Call_of_the_Starseed/
@@ -810,7 +810,7 @@
 { "name": "TheMeanGreens.exe", "type": "Game" }
 { "name": "TheMeanGreens-Win32-Shipping.exe", "type": "Game" }
 { "name": "TheMeanGreens-Win64-Shipping.exe", "type": "Game" }
-{ "name": "TheMeanGreensServer.exe", "type": "Game" }
+{ "name": "TheMeanGreensServer.exe", "type": "Service" }
 
 # The Medium https://store.steampowered.com/app/1293160/The_Medium/
 { "name": "Medium.exe", "type": "Game" }

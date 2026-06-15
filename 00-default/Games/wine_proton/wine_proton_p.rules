@@ -75,9 +75,9 @@
 { "name": "Palworld.exe", "type": "Game" }
 
 # Palworld Dedicated Server https://store.steampowered.com/app/2394010/
-{ "name": "PalServer.exe", "type": "Game" }
-{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Game" }
-{ "name": "PalServer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PalServer.exe", "type": "Service" }
+{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Service" }
+{ "name": "PalServer-Win64-Shipping.exe", "type": "Service" }
 
 # Pandora's Toybox https://store.steampowered.com/app/3030190/Pandoras_Toybox/
 { "name": "Pandora's Toybox.exe", "type": "Game" }
@@ -1141,7 +1141,7 @@
 
 # Project N.E.K.O. https://store.steampowered.com/app/4099310/Project_NEKO/
 { "name": "N.E.K.O.exe", "type": "Game" }
-{ "name": "projectneko_server.exe", "type": "Game" }
+{ "name": "projectneko_server.exe", "type": "Service" }
 
 # Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
 { "name": "ProjectNimbusCompleteEdition.exe", "type": "Game" }

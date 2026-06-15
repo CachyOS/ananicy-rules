@@ -1409,7 +1409,7 @@
 
 # Draw Steel https://store.steampowered.com/app/2902740/Draw_Steel/
 { "name": "Codex.exe", "type": "Game" }
-{ "name": "local-game-server-windows.exe", "type": "Game" }
+{ "name": "local-game-server-windows.exe", "type": "Service" }
 
 # Dread Dawn https://store.steampowered.com/app/2093920/Dread_Dawn/
 { "name": "DreadDawn.exe", "type": "Game" }

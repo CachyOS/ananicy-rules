@@ -15,7 +15,7 @@
 { "name": "ns2_linux", "type": "Game" }
 
 # Natural Selection 2 Dedicated Server https://store.steampowered.com/app/4940/
-{ "name": "server_linux", "type": "Game" }
+{ "name": "server_linux", "type": "Service" }
 
 # Nebuchadnezzar https://store.steampowered.com/app/1157220/Nebuchadnezzar/
 { "name": "nebuchadnezzar", "type": "Game" }

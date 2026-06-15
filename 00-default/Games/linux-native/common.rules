@@ -406,7 +406,7 @@
 { "name": "GodotWorkshopUtility.x86_64", "type": "BG_CPUIO" }
 
 # Source dedicated server
-{ "name": "srcds_i486", "type": "Game" }
+{ "name": "srcds_i486", "type": "Service" }
 
 # Crash handlers
 { "name": "CrashReportClient", "type": "BG_CPUIO" }

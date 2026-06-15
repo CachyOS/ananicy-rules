@@ -119,7 +119,7 @@
 { "name": "iw5mp.exe", "type": "Game" }
 
 # Call of Duty: Modern Warfare 3 - Dedicated Server https://store.steampowered.com/app/42750/
-{ "name": "iw5mp_server.exe", "type": "Game" }
+{ "name": "iw5mp_server.exe", "type": "Service" }
 
 # Call of Duty: Modern Warfare II https://store.steampowered.com/app/3595230/Call_of_Duty_Modern_Warfare_II/
 { "name": "cod22-cod.exe", "type": "Game" }
@@ -1173,8 +1173,8 @@
 { "name": "COMPOUND.exe", "type": "Game" }
 
 # Conan Exiles Dedicated Server https://store.steampowered.com/app/443030/
-{ "name": "ConanSandboxServer.exe", "type": "Game" }
-{ "name": "ConanSandboxServer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "ConanSandboxServer.exe", "type": "Service" }
+{ "name": "ConanSandboxServer-Win64-Shipping.exe", "type": "Service" }
 
 # Conan Exiles Enhanced https://store.steampowered.com/app/440900/Conan_Exiles/
 { "name": "ConanSandbox-Win64-Shipping.exe", "type": "Game" }
@@ -1312,8 +1312,8 @@
 { "name": "CoreKeeper.exe", "type": "Game" }
 
 # Core Keeper Dedicated Server https://store.steampowered.com/app/1963720/
-{ "name": "Core Keeper Patcher.exe", "type": "Game" }
-{ "name": "CoreKeeperServer.exe", "type": "Game" }
+{ "name": "Core Keeper Patcher.exe", "type": "Service" }
+{ "name": "CoreKeeperServer.exe", "type": "Service" }
 
 # Corner Kitchen Fast Food Simulator https://store.steampowered.com/app/3357250/Corner_Kitchen_Fast_Food_Simulator/
 { "name": "Street Food Simulator.exe", "type": "Game" }

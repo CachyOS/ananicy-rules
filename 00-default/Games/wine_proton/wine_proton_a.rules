@@ -474,8 +474,8 @@
 { "name": "AvP.exe", "type": "Game" }
 
 # Aliens vs Predator Dedicated Server https://store.steampowered.com/app/34120/
-{ "name": "avp_cli.exe", "type": "Game" }
-{ "name": "AvP_CLI.exe", "type": "Game" }
+{ "name": "avp_cli.exe", "type": "Service" }
+{ "name": "AvP_CLI.exe", "type": "Service" }
 
 # Alien Swarm https://store.steampowered.com/app/630/Alien_Swarm/
 { "name": "swarm.exe", "type": "Game" }

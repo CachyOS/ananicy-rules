@@ -36,7 +36,7 @@
 { "name": "7DaysToDie_EAC", "type": "Game" }
 
 # 7 Days to Die Dedicated Server https://store.steampowered.com/app/294420/
-{ "name": "7DaysToDieServer.x86_64", "type": "Game" }
+{ "name": "7DaysToDieServer.x86_64", "type": "Service" }
 
 # 911 Operator https://store.steampowered.com/app/503560/911_Operator/
 { "name": "911OperatorLinux.x86", "type": "Game" }

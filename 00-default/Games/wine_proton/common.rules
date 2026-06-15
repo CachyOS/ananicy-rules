@@ -220,7 +220,7 @@
 
 # Call to Arms https://store.steampowered.com/app/302670/Call_to_Arms/
 # Call to Arms - Gates of Hell: Ostfront https://store.steampowered.com/app/400750/Call_to_Arms__Gates_of_Hell_Ostfront/
-{ "name": "call_to_arms_server.exe", "type": "Game" }
+{ "name": "call_to_arms_server.exe", "type": "Service" }
 
 # Car Dealer Simulator Demo https://store.steampowered.com/app/3413480/Car_Dealer_Simulator/
 # Car Dealer Simulator: Prologue - Early Days https://store.steampowered.com/app/3115010/Car_Dealer_Simulator_Prologue__Early_Days/
@@ -2378,11 +2378,11 @@
 
 # Windrose https://store.steampowered.com/app/3041230/Windrose/
 # Windrose Dedicated Server https://store.steampowered.com/app/4129620/
-{ "name": "WindroseServer.exe", "type": "BG_CPUIO" }
+{ "name": "WindroseServer.exe", "type": "Service" }
 
 # Windrose https://store.steampowered.com/app/3041230/Windrose/
 # Windrose Dedicated Server https://store.steampowered.com/app/4129620/
-{ "name": "WindroseServer-Win64-Shipping.exe", "type": "BG_CPUIO" }
+{ "name": "WindroseServer-Win64-Shipping.exe", "type": "Service" }
 
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
