@@ -33,6 +33,9 @@
 { "name": "LaunchGame.exe", "type": "Game" }
 { "name": "EDFWB-Win64-Shipping.exe", "type": "Game" }
 
+# Eets https://store.steampowered.com/app/6100/Eets/
+{ "name": "Eets.exe", "type": "Game" }
+
 # EA SPORTS FC 24 https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/
 { "name": "FC24_Trial.exe", "type": "Game" }
 { "name": "FC24.exe", "type": "Game" }

@@ -57,6 +57,13 @@
 # Halcyon Days at Taoyuan https://store.steampowered.com/app/2678830/Halcyon_Days_at_Taoyuan/
 { "name": "-X-.exe", "type": "Game" }
 
+# HyperRogue https://store.steampowered.com/app/342610/HyperRogue/
+{ "name": "hyper.exe", "type": "Game" }
+
+# Hedgewars https://store.steampowered.com/app/2223810/Hedgewars/
+{ "name": "hedgewars.exe", "type": "Game"}
+{ "name": "hedgewars-server.exe", "type": "Service"}
+
 # Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
 { "name": "hl2mp.exe", "type": "Game" }
 { "name": "hl2mp_win64.exe", "type": "Game" }
