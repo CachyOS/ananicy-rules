@@ -228,6 +228,18 @@
 # NEKOPARA Extra https://store.steampowered.com/app/899970/NEKOPARA_Extra/
 { "name": "nekopara_extra.exe", "type": "Game" }
 
+# Nemesis: Lockdown https://store.steampowered.com/app/1915550/Nemesis_Lockdown/
+{ "name": "NemesisLD.exe", "type": "Game" }
+{ "name": "NemesisLDServer-Win64-Shipping.exe", "type": "Service" }
+{ "name": "NemesisLDServer.exe", "type": "Service" }
+{ "name": "NemesisLD-Win64-Shipping.exe", "type": "Game" }
+
+# New Star Manager https://store.steampowered.com/app/883130/New_Star_Manager/
+{ "name": "Manager.exe", "type": "Game" }
+
+# No More Money https://store.steampowered.com/app/2246300/
+{ "name": "NoMoreMoney.exe", "type": "Game" }
+
 # NEKOPARA Vol. 0 https://store.steampowered.com/app/385800/NEKOPARA_Vol_0/
 { "name": "nekopara_vol0.exe", "type": "Game" }
 

@@ -307,6 +307,10 @@
 { "name": "VOIN.exe", "type": "Game" }
 { "name": "VOIN-Win64-Shipping.exe", "type": "Game" }
 
+# VEGAS Pro 23 Steam Edition https://store.steampowered.com/app/4006040/VEGAS_Pro_23_Steam_Edition/
+{ "name": "launch_vegas230.exe", "type": "Game" }
+{ "name": "VEGAS_Pro_23_steam_setup.exe", "type": "Game" }
+
 # Volcanoids https://store.steampowered.com/app/951440/Volcanoids/
 { "name": "Volcanoids.exe", "type": "Game" }
 
