@@ -205,8 +205,8 @@
 { "name" : "CompanyOfHeroes2","type": "Game"}
 
 # Conan Exiles Dedicated Server https://store.steampowered.com/app/443030/
-{ "name": "ConanSandboxServer", "type": "Game" }
-{ "name": "ConanSandboxServer-Linux-Shipping", "type": "Game" }
+{ "name": "ConanSandboxServer", "type": "Service" }
+{ "name": "ConanSandboxServer-Linux-Shipping", "type": "Service" }
 
 # Conquest of Elysium 5 https://store.steampowered.com/app/1606340/Conquest_of_Elysium_5/
 { "name": "coe5", "type": "Game" }
@@ -225,7 +225,7 @@
 { "name": "CoreKeeper", "type": "Game" }
 
 # Core Keeper Dedicated Server https://store.steampowered.com/app/1963720/
-{ "name": "CoreKeeperServer", "type": "Game" }
+{ "name": "CoreKeeperServer", "type": "Service" }
 
 # Corpse Party (2021) https://store.steampowered.com/app/1273260/Corpse_Party_2021/
 { "name": "CorpseParty.x64", "type": "Game" }
@@ -238,7 +238,6 @@
 
 # Cossacks 3 https://store.steampowered.com/app/333420/Cossacks_3/
 { "name": "cossacks", "type": "Game" }
-{ "name": "config", "type": "Game" }
 { "name": "modman", "type": "Game" }
 { "name": "editor", "type": "Game" }
 

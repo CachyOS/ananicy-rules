@@ -22,7 +22,7 @@
 { "name": "Paleo Pines.x86_64", "type": "Game" }
 
 # Palworld Dedicated Server https://store.steampowered.com/app/2394010/
-{ "name": "PalServer-Linux-Shipping", "type": "Game" }
+{ "name": "PalServer-Linux-Shipping", "type": "Service" }
 
 # Pankapu https://store.steampowered.com/app/418670/Pankapu/
 { "name": "pankapu.x86", "type": "Game" }

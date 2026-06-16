@@ -53,8 +53,8 @@
 { "name": "FactoryGameSteam", "type": "Game" }
 
 # Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
-{ "name": "FactoryServer-Linux-Shipping", "type": "Game" }
-{ "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Game" }
+{ "name": "FactoryServer-Linux-Shipping", "type": "Service" }
+{ "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Service" }
 
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
@@ -72,8 +72,8 @@
 { "name": "ScourgeBringer", "type": "Game" }
 
 # SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
-{ "name": "SCPSL.x86_64", "type": "Game" }
-{ "name": "LocalAdmin", "type": "Game" }
+{ "name": "SCPSL.x86_64", "type": "Service" }
+{ "name": "LocalAdmin", "type": "Service" }
 
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 { "name": "screeps_server", "type": "Service" }

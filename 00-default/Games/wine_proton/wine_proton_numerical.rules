@@ -6,6 +6,9 @@
 # 007 First Light https://store.steampowered.com/agecheck/app/3768760/
 { "name": "007FirstLight.exe", "type": "Game" }
 
+# 1根香腸走江湖 https://store.steampowered.com/app/4172690/1/
+{ "name": "lycq_gat.exe", "type": "Game" }
+
 # 10,000,000 https://store.steampowered.com/app/227580/10000000/
 { "name": "10000000.exe", "type": "Game" }
 
@@ -115,7 +118,7 @@
 { "name": "7DaysToDie_EAC.exe", "type": "Game" }
 
 # 7 Days to Die Dedicated Server https://store.steampowered.com/app/294420/
-{ "name": "7DaysToDieServer.exe", "type": "Game" }
+{ "name": "7DaysToDieServer.exe", "type": "Service" }
 
 # 7 Days to End with You https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/
 { "name": "Seven Days to End with You.exe", "type": "Game" }

@@ -128,6 +128,9 @@
 # Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
 { "name": "Edna.exe", "type": "Game" }
 
+# Eets https://store.steampowered.com/app/6100/Eets/
+{ "name": "Eets.exe", "type": "Game" }
+
 # eFootball https://store.steampowered.com/app/1665460/eFootball/
 { "name" : "eFootball.exe", "type": "Game" }
 
@@ -411,7 +414,7 @@
 { "name": "enshrouded.exe", "type": "Game" }
 
 # Enshrouded Dedicated Server https://store.steampowered.com/app/2278520/Enshrouded_Dedicated_Server/
-{ "name": "enshrouded_server.exe", "type": "Game" }
+{ "name": "enshrouded_server.exe", "type": "Service" }
 
 # ENSLAVED: Odyssey to the West Premium Edition https://store.steampowered.com/app/245280/ENSLAVED_Odyssey_to_the_West_Premium_Edition/
 { "name": "Enslaved.exe", "type": "Game" }

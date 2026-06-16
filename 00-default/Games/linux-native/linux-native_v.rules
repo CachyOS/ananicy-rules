@@ -15,7 +15,7 @@
 { "name": "valheim.x86_64", "type": "Game" }
 
 # Valheim Dedicated Server https://store.steampowered.com/app/896660/
-{ "name": "valheim_server.x86_64", "type": "Game" }
+{ "name": "valheim_server.x86_64", "type": "Service" }
 
 # Vampire: The Masquerade - Coteries of New York https://store.steampowered.com/app/1096410/Vampire_The_Masquerade__Coteries_of_New_York/
 { "name": "VtM Coteries of New York.x86_64", "type": "Game" }

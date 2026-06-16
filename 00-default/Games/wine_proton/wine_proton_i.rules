@@ -555,7 +555,7 @@
 # iRacing https://store.steampowered.com/app/266410/iRacing/
 { "name": "iRacingSim64DX11.exe", "type": "Game" }
 { "name": "iRacingUI.exe", "type": "Game" }
-{ "name": "iRacingLocalServer64.exe", "type": "BG_CPUIO" }
+{ "name": "iRacingLocalServer64.exe", "type": "Service" }
 
 # iRacing Arcade https://store.steampowered.com/app/3226450/iRacing_Arcade/
 { "name": "iracing-arcade.exe", "type": "Game" }

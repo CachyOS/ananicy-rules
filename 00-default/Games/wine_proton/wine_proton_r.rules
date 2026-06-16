@@ -24,14 +24,14 @@
 { "name": "RaceOfLife.exe", "type": "Game" }
 
 # RACE On - Demo: Dedicated Server https://store.steampowered.com/app/8770/
-{ "name": "RaceOn_Demo_Dedicated_Steam.exe", "type": "BG_CPUIO" }
-{ "name": "RaceOn_Demo_Steam.exe", "type": "Game" }
+{ "name": "RaceOn_Demo_Dedicated_Steam.exe", "type": "Service" }
+{ "name": "RaceOn_Demo_Steam.exe", "type": "Service" }
 
 # Racer 8 https://store.steampowered.com/app/292380/Racer_8/
 { "name": "Racer8.exe", "type": "Game" }
 
 # RaceRoom Dedicated Server https://store.steampowered.com/app/354060/
-{ "name": "RRRE_dedicated.exe", "type": "BG_CPUIO" }
+{ "name": "RRRE_dedicated.exe", "type": "Service" }
 
 # RaceRoom Racing Experience https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
@@ -730,7 +730,7 @@
 
 # Rise of the Triad https://store.steampowered.com/app/217140/Rise_of_the_Triad/
 { "name": "ROTT.exe", "type": "Game" }
-{ "name": "LDKDedicatedServer.exe", "type": "Game" }
+{ "name": "LDKDedicatedServer.exe", "type": "Service" }
 { "name": "ROTTLauncher.exe", "type": "Game" }
 
 # Rise Of The White Sun https://store.steampowered.com/app/1189100/Rise_Of_The_White_Sun/

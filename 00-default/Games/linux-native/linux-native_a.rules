@@ -285,7 +285,7 @@
 
 # Avorion https://store.steampowered.com/app/445220/Avorion/
 { "name": "Avorion", "type": "Game" }
-{ "name": "AvorionServer", "type": "Game" }
+{ "name": "AvorionServer", "type": "Service" }
 
 # A Webbing Journey https://store.steampowered.com/app/2073910/A_Webbing_Journey/
 { "name": "A Webbing Journey.x86_64", "type": "Game" }

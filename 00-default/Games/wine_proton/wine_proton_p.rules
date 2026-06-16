@@ -75,9 +75,9 @@
 { "name": "Palworld.exe", "type": "Game" }
 
 # Palworld Dedicated Server https://store.steampowered.com/app/2394010/
-{ "name": "PalServer.exe", "type": "Game" }
-{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Game" }
-{ "name": "PalServer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "PalServer.exe", "type": "Service" }
+{ "name": "PalServer-Win64-Shipping-Cmd.exe", "type": "Service" }
+{ "name": "PalServer-Win64-Shipping.exe", "type": "Service" }
 
 # Pandora's Toybox https://store.steampowered.com/app/3030190/Pandoras_Toybox/
 { "name": "Pandora's Toybox.exe", "type": "Game" }
@@ -146,6 +146,9 @@
 
 # Papo & Yo https://store.steampowered.com/app/227080/Papo__Yo/
 { "name": "PYGame-Win32-Shipping.exe", "type": "Game" }
+
+# Pâquerette Down the Bunburrows https://store.steampowered.com/app/1628610/Paquerette_Down_the_Bunburrows/
+{ "name": "Paquerette Down the Bunburrows.exe", "type": "Game" }
 
 # Paradiddle https://store.steampowered.com/app/685240/Paradiddle/
 { "name": "Paradiddle-Win64-Shipping.exe", "type": "Game" }
@@ -952,9 +955,6 @@
 # Pox Nora https://store.steampowered.com/app/201210/Pox_Nora/
 { "name": "PoxNora.exe", "type": "Game" }
 
-# Pâquerette Down the Bunburrows https://store.steampowered.com/app/1628610/Paquerette_Down_the_Bunburrows/
-{ "name": "Paquerette Down the Bunburrows.exe", "type": "Game" }
-
 # Praetorians - HD Remaster https://store.steampowered.com/app/1100420/Praetorians__HD_Remaster/
 { "name": "Praetorians.exe", "type": "Game" }
 { "name": "Praetorians-Win64-Shipping.exe", "type": "Game" }
@@ -1141,7 +1141,7 @@
 
 # Project N.E.K.O. https://store.steampowered.com/app/4099310/Project_NEKO/
 { "name": "N.E.K.O.exe", "type": "Game" }
-{ "name": "projectneko_server.exe", "type": "Game" }
+{ "name": "projectneko_server.exe", "type": "Service" }
 
 # Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
 { "name": "ProjectNimbusCompleteEdition.exe", "type": "Game" }

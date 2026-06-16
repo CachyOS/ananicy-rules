@@ -79,7 +79,7 @@
 
 # Hedgewars https://store.steampowered.com/app/2223810/Hedgewars/
 { "name": "hedgewars", "type": "Game"}
-{ "name": "hedgewars-server", "type": "Game"}
+{ "name": "hedgewars-server", "type": "Service"}
 
 # Heliborne Collection https://store.steampowered.com/app/433530/Heliborne_Collection/
 { "name": "heliborne.x86_64", "type": "Game" }

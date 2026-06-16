@@ -298,6 +298,10 @@
 # Heavy Rain https://store.steampowered.com/app/960910/Heavy_Rain/
 { "name": "HeavyRain.exe", "type": "Game" }
 
+# Hedgewars https://store.steampowered.com/app/2223810/Hedgewars/
+{ "name": "hedgewars.exe", "type": "Game"}
+{ "name": "hedgewars-server.exe", "type": "Service"}
+
 # He is Coming https://store.steampowered.com/app/2824490/He_is_Coming/
 { "name": "He is coming.exe", "type": "Game" }
 
@@ -948,6 +952,9 @@
 
 # Hypermarket Simulator https://store.steampowered.com/app/3614460/Hypermarket_Simulator/
 { "name": "HyperMarket Simulator.exe", "type": "Game" }
+
+# HyperRogue https://store.steampowered.com/app/342610/HyperRogue/
+{ "name": "hyper.exe", "type": "Game" }
 
 # Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
 { "name": "HypnOS.exe", "type": "Game" }

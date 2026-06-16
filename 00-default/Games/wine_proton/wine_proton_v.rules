@@ -34,7 +34,7 @@
 { "name": "Valheim.exe", "type": "Game" }
 
 # Valheim Dedicated Server https://store.steampowered.com/app/896660/
-{ "name": "valheim_server.exe", "type": "Game" }
+{ "name": "valheim_server.exe", "type": "Service" }
 
 # Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/
 { "name": "Valiant Hearts.exe", "type": "Game" }
@@ -337,7 +337,7 @@
 
 # Voyagers of Nera https://store.steampowered.com/app/2686630/Voyagers_of_Nera/
 { "name": "BoatGame.exe", "type": "Game" }
-{ "name": "BoatGameListenServer-Win64-Shipping.exe", "type": "Game" }
+{ "name": "BoatGameListenServer-Win64-Shipping.exe", "type": "Service" }
 
 # VPet / VPet-Simulator https://store.steampowered.com/app/1920960/VPetSimulator/
 { "name": "VPet-Simulator.Windows.exe", "type": "Game" }
