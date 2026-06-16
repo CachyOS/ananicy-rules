@@ -121,6 +121,9 @@
 # Papa's Freezeria Deluxe https://store.steampowered.com/app/2291760/Papas_Freezeria_Deluxe/
 { "name": "Papa's Freezeria Deluxe.exe", "type": "Game" }
 
+# Papa's Mocharia Deluxe https://store.steampowered.com/app/4656700/Papas_Mocharia_Deluxe/
+{ "name": "Papa's Mocharia Deluxe.exe", "type": "Game" }
+
 # Papa's Pizzeria Deluxe https://store.steampowered.com/app/3259470/Papas_Pizzeria_Deluxe/
 { "name": "Papa's Pizzeria Deluxe.exe", "type": "Game" }
 
@@ -412,6 +415,9 @@
 # Perfect Heist 2 https://store.steampowered.com/app/1521580/Perfect_Heist_2/
 { "name": "PerfectHeist2.exe", "type": "Game" }
 { "name": "PerfectHeist2-Win64-Shipping.exe", "type": "Game" }
+
+# Perfume Atelier https://store.steampowered.com/app/3962270/Perfume_Atelier/
+{ "name": "Perfume Atelier.exe", "type": "Game" }
 
 # Peripeteia https://store.steampowered.com/app/1437760/Peripeteia/
 { "name": "Peripeteia.exe", "type": "Game" }
@@ -832,8 +838,8 @@
 # PomoFarm https://store.steampowered.com/app/2060480/PomoFarm/
 { "name": "PomoFarm.exe", "type": "Game" }
 
-# Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
-{ "name": "Pool-Win64-Shipping.exe", "type": "Game" }
+# Pompeii: The Legacy https://store.steampowered.com/app/2632240/Pompeii_The_Legacy/
+{ "name": "Pompeii.exe", "type": "Game" }
 
 # Pool Live Tour Max https://store.steampowered.com/app/4061130/Pool_Live_Tour_Max/
 { "name": "PoolLiveTourMax.exe", "type": "Game" }
@@ -1019,8 +1025,9 @@
 # Primordia https://store.steampowered.com/app/227000/Primordia/
 { "name": "Primordia.exe", "type": "Game" }
 
-# Primordialis https://store.steampowered.com/app/3011360/Primordialis/
-{ "name": "primordialis.exe", "type": "Game" }
+# Primordialis Demo https://store.steampowered.com/app/3267910/
+{ "name": "primordialis_avx.exe", "type": "Game" }
+{ "name": "primordialis_sse3.exe", "type": "Game" }
 
 # Prince of Persia https://store.steampowered.com/app/19980/Prince_of_Persia/
 { "name": "PrinceOfPersia_Launcher.exe", "type": "Game" }
@@ -1062,6 +1069,9 @@
 
 # Pro Basketball Manager 2025 https://store.steampowered.com/app/2935400/Pro_Basketball_Manager_2025/
 { "name": "PBM2025.exe", "type": "Game" }
+
+# Pro Basketball Manager 2026 https://store.steampowered.com/app/3585230/Pro_Basketball_Manager_2026/
+{ "name": "PBM2026.exe", "type": "Game" }
 
 # Pro Cycling Manager 2020 https://store.steampowered.com/app/1178400/Pro_Cycling_Manager_2020/
 { "name": "PCM64Beta_protect.exe", "type": "Game" }
