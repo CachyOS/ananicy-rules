@@ -11,15 +11,6 @@
 # Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
 { "name": "gamblers-table.x86_64", "type": "Game" }
 
-# Gargadusa's Tower https://store.steampowered.com/app/4377370/Gargadusas_Tower/
-{ "name": "GargadusasTower", "type": "Game" }
-
-# Godlike Burger https://store.steampowered.com/app/1432910/Godlike_Burger/
-{ "name": "Godlike Burger.x86_64", "type": "Game" }
-
-# GPRO https://store.steampowered.com/app/2169220/GPRO__Classic_racing_manager/
-{ "name": "gpro", "type": "Game" }
-
 # Gambonanza https://store.steampowered.com/app/3509230/Gambonanza/
 { "name": "Gambonanza.x86_64", "type": "Game" }
 
@@ -29,6 +20,9 @@
 
 # Gang Beasts https://store.steampowered.com/app/285900/Gang_Beasts/
 { "name": "Gang Beasts.x86_64", "type": "Game" }
+
+# Gargadusa's Tower https://store.steampowered.com/app/4377370/Gargadusas_Tower/
+{ "name": "GargadusasTower", "type": "Game" }
 
 # Garry's Mod https://store.steampowered.com/app/4000/Garrys_Mod/
 { "name": "gmod", "type": "Game" }
@@ -77,6 +71,9 @@
 # Goat Simulator https://store.steampowered.com/app/265930/Goat_Simulator/
 { "name": "GoatGame", "type": "Game" }
 
+# Godlike Burger https://store.steampowered.com/app/1432910/Godlike_Burger/
+{ "name": "Godlike Burger.x86_64", "type": "Game" }
+
 # Godot Engine https://store.steampowered.com/app/404790/Godot_Engine/
 { "name": "godot.x11.opt.tools.64", "type": "Game" }
 { "name": "godot.x11.opt.tools.32", "type": "Game" }
@@ -90,6 +87,9 @@
 # Gone Home https://store.steampowered.com/app/232430/Gone_Home/
 { "name": "GoneHome.x86", "type": "Game" }
 { "name": "GoneHome.x86_64", "type": "Game" }
+
+# GPRO https://store.steampowered.com/app/2169220/GPRO__Classic_racing_manager/
+{ "name": "gpro", "type": "Game" }
 
 # Graalonline Era https://store.steampowered.com/app/2358050/GraalOnline_Era/
 { "name": "Era", "type": "Game" }

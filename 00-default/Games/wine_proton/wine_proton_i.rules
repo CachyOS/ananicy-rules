@@ -25,13 +25,6 @@
 { "name": "IMJCH.exe", "type": "Game" }
 { "name": "IMJCH-Win64-Shipping.exe", "type": "Game" }
 
-# Idle Waters https://store.steampowered.com/app/2963540/Idle_Waters/
-{ "name": "Idle Waters.exe", "type": "Game" }
-
-# Infinite Borders: Three Kingdoms Demo https://store.steampowered.com/app/3697960/Infinite_Borders_Three_Kingdoms_Demo/
-{ "name": "InfiniteBorders_Launcher.exe", "type": "Game" }
-{ "name": "InfiniteBorders3Kingdoms.exe", "type": "Game" }
-
 # I Am Legion: Stand Survivors https://store.steampowered.com/app/3109580/I_Am_Legion_Stand_Survivors/
 { "name": "StandSurvivors.exe", "type": "Game" }
 
@@ -155,6 +148,9 @@
 
 # Idle Tower Defense https://store.steampowered.com/app/3054090/Idle_Tower_Defense/
 { "name": "Idle Tower Defense.exe", "type": "Game" }
+
+# Idle Waters https://store.steampowered.com/app/2963540/Idle_Waters/
+{ "name": "Idle Waters.exe", "type": "Game" }
 
 # Idle Weaponshop https://store.steampowered.com/app/2497110/Idle_Weaponshop/
 { "name": "Idle Weaponshop.exe", "type": "Game" }
@@ -362,6 +358,10 @@
 
 # Infinifactory https://store.steampowered.com/app/300570/Infinifactory/
 { "name": "infinifactory.exe", "type": "Game" }
+
+# Infinite Borders: Three Kingdoms Demo https://store.steampowered.com/app/3697960/Infinite_Borders_Three_Kingdoms_Demo/
+{ "name": "InfiniteBorders_Launcher.exe", "type": "Game" }
+{ "name": "InfiniteBorders3Kingdoms.exe", "type": "Game" }
 
 # Infinitode 2 - Infinite Tower Defense https://store.steampowered.com/app/937310/Infinitode_2__Infinite_Tower_Defense/
 { "name": "infinitode-2.exe", "type": "Game" }

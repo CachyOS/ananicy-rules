@@ -134,6 +134,10 @@
 # VEGAS Pro 18 Edit Steam Edition https://store.steampowered.com/app/1325400/VEGAS_Pro_18_Edit_Steam_Edition/
 { "name": "vegas180_x64.exe", "type": "BG_CPUIO" }
 
+# VEGAS Pro 23 Steam Edition https://store.steampowered.com/app/4006040/VEGAS_Pro_23_Steam_Edition/
+{ "name": "launch_vegas230.exe", "type": "Game" }
+{ "name": "VEGAS_Pro_23_steam_setup.exe", "type": "Game" }
+
 # VEGAS Pro Edit 21 Steam Edition https://store.steampowered.com/app/2520980/VEGAS_Pro_Edit_21_Steam_Edition/
 { "name": "launch_vegas210.exe", "type": "BG_CPUIO" }
 
@@ -306,10 +310,6 @@
 # VOIN https://store.steampowered.com/app/2464530/VOIN/
 { "name": "VOIN.exe", "type": "Game" }
 { "name": "VOIN-Win64-Shipping.exe", "type": "Game" }
-
-# VEGAS Pro 23 Steam Edition https://store.steampowered.com/app/4006040/VEGAS_Pro_23_Steam_Edition/
-{ "name": "launch_vegas230.exe", "type": "Game" }
-{ "name": "VEGAS_Pro_23_steam_setup.exe", "type": "Game" }
 
 # Volcanoids https://store.steampowered.com/app/951440/Volcanoids/
 { "name": "Volcanoids.exe", "type": "Game" }

@@ -228,18 +228,6 @@
 # NEKOPARA Extra https://store.steampowered.com/app/899970/NEKOPARA_Extra/
 { "name": "nekopara_extra.exe", "type": "Game" }
 
-# Nemesis: Lockdown https://store.steampowered.com/app/1915550/Nemesis_Lockdown/
-{ "name": "NemesisLD.exe", "type": "Game" }
-{ "name": "NemesisLDServer-Win64-Shipping.exe", "type": "Service" }
-{ "name": "NemesisLDServer.exe", "type": "Service" }
-{ "name": "NemesisLD-Win64-Shipping.exe", "type": "Game" }
-
-# New Star Manager https://store.steampowered.com/app/883130/New_Star_Manager/
-{ "name": "Manager.exe", "type": "Game" }
-
-# No More Money https://store.steampowered.com/app/2246300/
-{ "name": "NoMoreMoney.exe", "type": "Game" }
-
 # NEKOPARA Vol. 0 https://store.steampowered.com/app/385800/NEKOPARA_Vol_0/
 { "name": "nekopara_vol0.exe", "type": "Game" }
 
@@ -257,6 +245,12 @@
 
 # Nelke & the Legendary Alchemists ~Ateliers of the New World~ https://store.steampowered.com/app/886820/Nelke__the_Legendary_Alchemists_Ateliers_of_the_New_World/
 { "name": "Nelke_and_the_Legendary_Alchemists.exe", "type": "Game"}
+
+# Nemesis: Lockdown https://store.steampowered.com/app/1915550/Nemesis_Lockdown/
+{ "name": "NemesisLD.exe", "type": "Game" }
+{ "name": "NemesisLDServer-Win64-Shipping.exe", "type": "Service" }
+{ "name": "NemesisLDServer.exe", "type": "Service" }
+{ "name": "NemesisLD-Win64-Shipping.exe", "type": "Game" }
 
 # Neon Abyss https://store.steampowered.com/app/788100/Neon_Abyss/
 { "name": "NeonAbyss.exe", "type": "Game"}
@@ -329,6 +323,9 @@
 
 # New Star GP https://store.steampowered.com/app/2217580/New_Star_GP/
 { "name": "NSGP.exe", "type": "Game" }
+
+# New Star Manager https://store.steampowered.com/app/883130/New_Star_Manager/
+{ "name": "Manager.exe", "type": "Game" }
 
 # New Star Soccer 5 https://store.steampowered.com/app/212780/New_Star_Soccer_5/
 { "name": "NSS5.exe", "type": "Game" }
@@ -612,6 +609,9 @@
 
 # No More Heroes https://store.steampowered.com/app/1420290/No_More_Heroes/
 { "name": "nmh.exe", "type": "Game" }
+
+# No More Money https://store.steampowered.com/app/2246300/
+{ "name": "NoMoreMoney.exe", "type": "Game" }
 
 # No More Room in Hell https://store.steampowered.com/app/224260/No_More_Room_in_Hell/
 { "name": "nmrih.exe", "type": "Game" }

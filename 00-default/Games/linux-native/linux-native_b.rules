@@ -19,9 +19,6 @@
 # Baddies, Inc. https://store.steampowered.com/app/3465660/
 { "name": "BaddiesInc", "type": "Game" }
 
-# Bingle Bingle https://store.steampowered.com/app/2789810/Bingle_Bingle/
-{ "name": "bb_linux.x86_64", "type": "Game" }
-
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
 
@@ -140,6 +137,9 @@
 
 # Big Pharma https://store.steampowered.com/app/344850/Big_Pharma/
 { "name": "Big Pharma.x86", "type": "Game" }
+
+# Bingle Bingle https://store.steampowered.com/app/2789810/Bingle_Bingle/
+{ "name": "bb_linux.x86_64", "type": "Game" }
 
 # Bioprototype https://store.steampowered.com/app/3689520/Bioprototype/
 { "name": "Bioprototype.x86_64", "type": "Game" }

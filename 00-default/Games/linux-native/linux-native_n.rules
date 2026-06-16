@@ -26,9 +26,6 @@
 # NEO Scavenger https://store.steampowered.com/app/248860/NEO_Scavenger/
 { "name": "NEOScavenger", "type": "Game" }
 
-# No More Money https://store.steampowered.com/app/2246300/
-{ "name": "NoMoreMoney", "type": "Game" }
-
 # NERTS! Online https://store.steampowered.com/app/1131190/NERTS_Online/
 { "name": "NertsOnline", "type": "Game" }
 
@@ -67,6 +64,9 @@
 # N++ (NPLUSPLUS) https://store.steampowered.com/app/230270/N_NPLUSPLUS/
 { "name": "N++.bin.x86", "type": "Game" }
 { "name": "N++.bin.x86_64", "type": "Game" }
+
+# No More Money https://store.steampowered.com/app/2246300/
+{ "name": "NoMoreMoney", "type": "Game" }
 
 # Nordhold https://store.steampowered.com/app/3028310/Nordhold/
 { "name": "NordHold.x86_64", "type": "Game" }

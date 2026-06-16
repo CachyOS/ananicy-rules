@@ -36,9 +36,6 @@
 # Eets https://store.steampowered.com/app/6100/Eets/
 { "name": "Eets", "type": "Game" }
 
-# Ember and Blade Demo https://store.steampowered.com/app/3758770/Ember_and_Blade_Demo/
-{ "name": "EmberAndBlade.x86_64", "type": "Game" }
-
 # Eldritch https://store.steampowered.com/app/252630/Eldritch/
 { "name": "Eldritch", "type": "Game" }
 
@@ -47,6 +44,9 @@
 
 # Elementallis https://store.steampowered.com/app/1304280/Elementallis/
 { "name": "Elementallis.x86_64", "type": "Game" }
+
+# Ember and Blade Demo https://store.steampowered.com/app/3758770/Ember_and_Blade_Demo/
+{ "name": "EmberAndBlade.x86_64", "type": "Game" }
 
 # Emberbane https://store.steampowered.com/app/2085310/Emberbane/
 { "name": "Emberbane.x86_64", "type": "Game" }

@@ -57,9 +57,6 @@
 # Halcyon Days at Taoyuan https://store.steampowered.com/app/2678830/Halcyon_Days_at_Taoyuan/
 { "name": "-X-.exe", "type": "Game" }
 
-# Heroes Of The Dark https://store.steampowered.com/app/1851330/Heroes_Of_The_Dark/
-{ "name": "HotD.exe", "type": "Game" }
-
 # Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
 { "name": "hl2mp.exe", "type": "Game" }
 { "name": "hl2mp_win64.exe", "type": "Game" }
@@ -459,6 +456,9 @@
 
 # Heroes of Science and Fiction https://store.steampowered.com/app/2147380/Heroes_of_Science_and_Fiction/
 { "name": "Silence of the Siren.exe", "type": "Game" }
+
+# Heroes Of The Dark https://store.steampowered.com/app/1851330/Heroes_Of_The_Dark/
+{ "name": "HotD.exe", "type": "Game" }
 
 # Heroes of the Three Kingdoms 7 https://store.steampowered.com/app/1437880/Heroes_of_the_Three_Kingdoms_7/
 { "name": "Sango7.exe", "type": "Game" }

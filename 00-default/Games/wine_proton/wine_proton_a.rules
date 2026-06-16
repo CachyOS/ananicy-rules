@@ -23,16 +23,6 @@
 # Absolute Drift https://store.steampowered.com/app/320140/Absolute_Drift/
 { "name": "AbsoluteDrift.exe", "type": "Game" }
 
-# Arcane Eats Demo https://store.steampowered.com/app/3528960/Arcane_Eats_Demo/
-{ "name": "ArcaneEats.exe", "type": "Game" }
-
-# Awkward Girls https://store.steampowered.com/app/1312990/
-{ "name": "Awkward Girls.exe", "type": "Game" }
-
-# Axom: Conquest https://store.steampowered.com/app/2143600/Axom_Conquest/
-{ "name": "AxomConquest.exe", "type": "Game" }
-{ "name": "AlienDefence-Win64-Shipping.exe", "type": "Game" }
-
 # Absolver https://store.steampowered.com/app/473690/Absolver/
 { "name": "Absolver.exe", "type": "Game" }
 
@@ -939,6 +929,9 @@
 # Arcadia Fallen https://store.steampowered.com/app/1174640/Arcadia_Fallen/
 { "name": "Arcadia Fallen.exe", "type": "Game" }
 
+# Arcane Eats Demo https://store.steampowered.com/app/3528960/Arcane_Eats_Demo/
+{ "name": "ArcaneEats.exe", "type": "Game" }
+
 # Arcane Merchant https://store.steampowered.com/app/4086760/Arcane_Merchant/
 { "name": "Arcane Merchant.exe", "type": "Game" }
 
@@ -1538,6 +1531,9 @@
 { "name": "AwesomenautsLauncher.exe", "type": "BG_CPUIO" }
 { "name": "Awesomenauts.exe", "type": "Game" }
 
+# Awkward Girls https://store.steampowered.com/app/1312990/
+{ "name": "Awkward Girls.exe", "type": "Game" }
+
 # AX:EL https://store.steampowered.com/app/319830/AXEL__Air_XenoDawn/
 { "name": "Air XenoDawn.exe", "type": "Game" }
 
@@ -1546,6 +1542,10 @@
 
 # Axis & Allies 1942 Online https://store.steampowered.com/app/898920/Axis__Allies_1942_Online/
 { "name": "AxisAndAllies1942Online.exe", "type": "Game" }
+
+# Axom: Conquest https://store.steampowered.com/app/2143600/Axom_Conquest/
+{ "name": "AxomConquest.exe", "type": "Game" }
+{ "name": "AlienDefence-Win64-Shipping.exe", "type": "Game" }
 
 # Axon TD: Uprising https://store.steampowered.com/app/2296550/Axon_TD_Uprising__Tower_Defense/
 { "name": "Axon TD Uprising.exe", "type": "Game" }

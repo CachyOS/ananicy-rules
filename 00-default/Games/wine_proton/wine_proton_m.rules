@@ -34,18 +34,6 @@
 # Mad Digger https://store.steampowered.com/app/584100/Mad_Digger/
 { "name": "mad_digger.exe", "type": "Game" }
 
-# Manifold Garden https://store.steampowered.com/app/473950/Manifold_Garden/
-{ "name": "ManifoldGarden.exe", "type": "Game" }
-
-# Movavi Video Editor 2026 https://store.steampowered.com/app/4036790/Movavi_Video_Editor_2026/
-{ "name": "VideoCapture.exe", "type": "Game" }
-{ "name": "FastTrack.exe", "type": "Game" }
-{ "name": "CoreChecker.exe", "type": "Game" }
-
-# MustScream https://store.steampowered.com/app/3568460/MustScream/
-{ "name": "MustScreamA.exe", "type": "Game" }
-{ "name": "MustScreamA-Win64-Shipping.exe", "type": "Game" }
-
 # Made in Abyss: Binary Star Falling into Darkness https://store.steampowered.com/app/1324340/Made_in_Abyss_Binary_Star_Falling_into_Darkness/
 { "name": "MadeInAbyss.exe", "type": "Game" }
 { "name": "MadeInAbyss-Win64-Shipping.exe", "type": "Game" }
@@ -235,6 +223,9 @@
 
 # Maniac https://store.steampowered.com/app/1482380/Maniac/
 { "name": "maniac.exe", "type": "Game" }
+
+# Manifold Garden https://store.steampowered.com/app/473950/Manifold_Garden/
+{ "name": "ManifoldGarden.exe", "type": "Game" }
 
 # Man of the House https://store.steampowered.com/app/1148150/
 { "name": "Man of the house.exe", "type": "Game" }
@@ -1469,6 +1460,11 @@
 # Movavi Screen Recorder 2023 https://store.steampowered.com/app/1497120/Movavi_Screen_Recorder/
 { "name": "ScreenRecorder.exe", "type": "BG_CPUIO" }
 
+# Movavi Video Editor 2026 https://store.steampowered.com/app/4036790/Movavi_Video_Editor_2026/
+{ "name": "VideoCapture.exe", "type": "Game" }
+{ "name": "FastTrack.exe", "type": "Game" }
+{ "name": "CoreChecker.exe", "type": "Game" }
+
 # Movavi Video Suite 2020 Steam Edition https://store.steampowered.com/app/1182930/Movavi_Video_Suite_2020_Steam_Edition___Video_Making_Software__Edit_Convert_Capture_Screen_and_more/
 { "name": "Suite.exe", "type": "Game" }
 
@@ -1583,6 +1579,10 @@
 
 # Mushroom Nook https://store.steampowered.com/app/4211860/Mushroom_Nook/
 { "name": "Mushroom Nook.exe", "type": "Game" }
+
+# MustScream https://store.steampowered.com/app/3568460/MustScream/
+{ "name": "MustScreamA.exe", "type": "Game" }
+{ "name": "MustScreamA-Win64-Shipping.exe", "type": "Game" }
 
 # MUSYNX https://store.steampowered.com/app/952040/MUSYNX/
 { "name": "musynx.exe", "type": "Game" }
