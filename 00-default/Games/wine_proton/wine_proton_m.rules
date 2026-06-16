@@ -37,11 +37,7 @@
 # Manifold Garden https://store.steampowered.com/app/473950/Manifold_Garden/
 { "name": "ManifoldGarden.exe", "type": "Game" }
 
-# Mini Cozy Room : Lo-Fi Demo https://store.steampowered.com/app/3550820/Mini_Cozy_Room__LoFi_Demo/
-{ "name": "MiniCozyRoom.exe", "type": "Game" }
-
 # Movavi Video Editor 2026 https://store.steampowered.com/app/4036790/Movavi_Video_Editor_2026/
-{ "name": "VideoEditor.exe", "type": "Game" }
 { "name": "VideoCapture.exe", "type": "Game" }
 { "name": "FastTrack.exe", "type": "Game" }
 { "name": "CoreChecker.exe", "type": "Game" }
@@ -912,9 +908,6 @@
 
 # Mini Airways https://store.steampowered.com/app/2289650/Mini_Airways__ATC_simulator/
 { "name": "MiniAirways.exe", "type": "Game" }
-
-# Mini Cozy Room: Lo-Fi https://store.steampowered.com/app/3511030/Mini_Cozy_Room_LoFi/
-{ "name": "MiniCozyRoom.exe", "type": "Game" }
 
 # Minimalism https://store.steampowered.com/app/585690/Minimalism/
 { "name": "Minimalism.exe", "type": "Game" }

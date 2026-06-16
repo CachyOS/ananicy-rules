@@ -16,6 +16,10 @@
 # Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
 { "name": "Achilles.exe", "type": "Game" }
 
+# Mini Cozy Room : Lo-Fi Demo https://store.steampowered.com/app/3550820/Mini_Cozy_Room__LoFi_Demo/
+# Mini Cozy Room: Lo-Fi https://store.steampowered.com/app/3511030/Mini_Cozy_Room_LoFi/
+{ "name": "MiniCozyRoom.exe", "type": "Game" }
+
 # Age of Darkness: Final Stand https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/
 # Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
 { "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
@@ -286,6 +290,14 @@
 # Counter-Strike 2 https://store.steampowered.com/app/730/CounterStrike_2/
 # Counter-Strike: Global Offensive https://store.steampowered.com/app/4465480/CounterStrikeGlobal_Offensive/
 { "name": "cs2.exe", "type": "Game" }
+
+# Frog Sqwad 🐸 https://store.steampowered.com/app/3989960/Frog_Sqwad/
+# Frog Sqwad Demo 🐸 https://store.steampowered.com/app/4359330/Frog_Sqwad_Demo/
+{ "name": "Frog Sqwad.exe", "type": "Game" }
+
+# War Thunder https://store.steampowered.com/app/236390/War_Thunder/
+# Aces of Thunder https://store.steampowered.com/app/2754090/Aces_of_Thunder/
+{ "name": "aces.exe", "type": "Game" }
 
 # Cursemark https://store.steampowered.com/app/3219180/Cursemark/
 # Cursemark Demo https://store.steampowered.com/app/3853080/
@@ -901,6 +913,9 @@
 # Cultures - Northland https://store.steampowered.com/app/351860/Cultures__Northland/
 # Hello Charlotte https://store.steampowered.com/app/557630/Hello_Charlotte_EP2_Requiem_Aeternam_Deo/
 # Pocket Mirror ~ GoldenerTraum https://store.steampowered.com/app/1899060/Pocket_Mirror__GoldenerTraum/
+# Reverse Dream of the Menasphere https://store.steampowered.com/app/4398360/Reverse_Dream_of_the_Menasphere/
+# Kota`s New Journey https://store.steampowered.com/app/3270680/Kotas_New_Journey/
+# - Arcane Raise - https://store.steampowered.com/app/603750/_Arcane_Raise/
 { "name": "Game.exe", "type": "Game" }
 
 # DRAGON QUEST BUILDERS 2 JUMBO DEMO https://store.steampowered.com/app/1168460/
@@ -1620,9 +1635,25 @@
 # X-Plane 10 Global - 64 Bit https://store.steampowered.com/app/292180/XPlane_10_Global__64_Bit/
 { "name": "Plane Maker.exe", "type": "Game" }
 
+# Truck Mechanic: Dangerous Paths - First Mile https://store.steampowered.com/app/4292050/Truck_Mechanic_Dangerous_Paths__First_Mile/
+# Truck Mechanic: Dangerous Paths https://store.steampowered.com/app/995680/Truck_Mechanic_Dangerous_Paths/
+{ "name": "TMDP-Win64-Shipping.exe", "type": "Game" }
+
 # The Planet Crafter https://store.steampowered.com/app/1284190/The_Planet_Crafter/
 # The Planet Crafter Demo https://store.steampowered.com/app/1754850/The_Planet_Crafter/
 { "name": "Planet Crafter.exe", "type": "Game" }
+
+# Truck Mechanic: Dangerous Paths - First Mile https://store.steampowered.com/app/4292050/Truck_Mechanic_Dangerous_Paths__First_Mile/
+# Truck Mechanic: Dangerous Paths https://store.steampowered.com/app/995680/Truck_Mechanic_Dangerous_Paths/
+{ "name": "TMDP.exe", "type": "Game" }
+
+# Primordialis Demo https://store.steampowered.com/app/3267910/
+# Primordialis https://store.steampowered.com/app/3011360/Primordialis/
+{ "name": "primordialis.exe", "type": "Game" }
+
+# Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
+# Snooker Blitz https://store.steampowered.com/app/3970110/Snooker_Blitz/
+{ "name": "Pool-Win64-Shipping.exe", "type": "Game" }
 
 # The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
 # STAR WARS Galactic Battlegrounds Saga https://store.steampowered.com/app/356500/STAR_WARS_Galactic_Battlegrounds_Saga/
@@ -1639,6 +1670,7 @@
 
 # Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
 # Pool Nation https://store.steampowered.com/app/254440/Pool_Nation/
+# Snooker Blitz https://store.steampowered.com/app/3970110/Snooker_Blitz/
 { "name": "Pool.exe", "type": "Game" }
 
 # Real Pool 3D - Poolians https://store.steampowered.com/app/670290/Real_Pool_3D__Poolians/
@@ -2289,6 +2321,7 @@
 # Movavi Video Editor 2024 https://store.steampowered.com/app/2576030/Movavi_Video_Editor_2024/
 # Movavi Video Editor 2025 https://store.steampowered.com/app/3276060/Movavi_Video_Editor_2025/
 # Movavi Video Editor 23 https://store.steampowered.com/app/2171280/Movavi_Video_Editor_2023/
+# Movavi Video Editor 2026 https://store.steampowered.com/app/4036790/Movavi_Video_Editor_2026/
 { "name": "VideoEditor.exe", "type": "Game" }
 
 # Movavi Video Editor Plus 2020 https://store.steampowered.com/app/1182920/Movavi_Video_Editor_Plus_2020__Video_Editing_Software/

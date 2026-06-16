@@ -832,9 +832,6 @@
 # PomoFarm https://store.steampowered.com/app/2060480/PomoFarm/
 { "name": "PomoFarm.exe", "type": "Game" }
 
-# Pool Blitz https://store.steampowered.com/app/3942580/Pool_Blitz/
-{ "name": "Pool-Win64-Shipping.exe", "type": "Game" }
-
 # Pool Live Tour Max https://store.steampowered.com/app/4061130/Pool_Live_Tour_Max/
 { "name": "PoolLiveTourMax.exe", "type": "Game" }
 
@@ -972,7 +969,6 @@
 { "name": "Pompeii.exe", "type": "Game" }
 
 # Primordialis Demo https://store.steampowered.com/app/3267910/
-{ "name": "primordialis.exe", "type": "Game" }
 { "name": "primordialis_avx.exe", "type": "Game" }
 { "name": "primordialis_sse3.exe", "type": "Game" }
 
@@ -1035,9 +1031,6 @@
 
 # Primordia https://store.steampowered.com/app/227000/Primordia/
 { "name": "Primordia.exe", "type": "Game" }
-
-# Primordialis https://store.steampowered.com/app/3011360/Primordialis/
-{ "name": "primordialis.exe", "type": "Game" }
 
 # Prince of Persia https://store.steampowered.com/app/19980/Prince_of_Persia/
 { "name": "PrinceOfPersia_Launcher.exe", "type": "Game" }
