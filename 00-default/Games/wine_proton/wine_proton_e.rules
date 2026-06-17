@@ -25,7 +25,6 @@
 
 # ELSWORD JAPAN https://store.steampowered.com/app/1011810/
 { "name": "elsword_start.exe", "type": "BG_CPUIO" }
-{ "name": "elsword.exe", "type": "Game" }
 
 # Etrian Odyssey II HD https://store.steampowered.com/app/1868170/Etrian_Odyssey_II_HD/
 { "name": "Etrian Odyssey 2.exe", "type": "Game" }
@@ -231,7 +230,6 @@
 
 # Elsword https://store.steampowered.com/app/237310/Elsword/
 { "name": "ESSTEAM.exe", "type": "Game" }
-{ "name": "elsword.exe", "type": "Game" }
 
 # Elsword Free-to-Play https://store.steampowered.com/app/558230/
 { "name": "steam_launcher.exe", "type": "Game" }
