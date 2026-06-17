@@ -844,6 +844,10 @@
 { "name": "Clash.exe", "type": "Game" }
 { "name": "Clash-Win64-Shipping.exe", "type": "Game" }
 
+# Classic Marathon https://store.steampowered.com/app/2398450/Classic_Marathon/
+{ "name": "Classic Marathon Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Classic Marathon Steam.exe", "type": "Game" }
+
 # ClassiCube https://steamdb.info/app/1065710/
 { "name": "ClassiCube.exe", "type": "Game" }
 

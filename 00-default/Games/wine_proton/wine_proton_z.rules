@@ -35,8 +35,8 @@
 { "name": "ZenkcraftRemastered.exe", "type": "Game" }
 { "name": "ZenkCraft.exe", "type": "Game" }
 
-# Zenless Zone Zero https://zenless.hoyoverse.com/
-{ "name": "ZenlessZoneZero.exe", "type": "Game" }
+# Zenless Zone Zero https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/
+{ "name": "HYP.exe", "type": "BG_CPUIO" }
 
 # Zeno Clash https://store.steampowered.com/app/22200/Zeno_Clash/
 { "name": "zenoclash.exe", "type": "Game" }
@@ -72,6 +72,9 @@
 
 # ZERO PARADES: For Dead Spies https://store.steampowered.com/app/2863680/ZERO_PARADES_For_Dead_Spies/
 { "name": "ZeroParades.exe", "type": "Game" }
+
+# ZeroRanger https://store.steampowered.com/app/809020/ZeroRanger/
+{ "name": "ZeroRanger.exe", "type": "Game" }
 
 # ZERO Sievert https://store.steampowered.com/app/1782120/ZERO_Sievert/
 { "name": "ZERO Sievert.exe", "type": "Game" }
@@ -159,6 +162,10 @@
 
 # Zoombinis https://store.steampowered.com/app/397430/Zoombinis/
 { "name": "Zoombinis.exe", "type": "Game" }
+
+# Zoonomaly https://store.steampowered.com/app/2101890/Zoonomaly/
+{ "name": "Zoonomaly.exe", "type": "Game" }
+{ "name": "Zoonomaly-Win64-Shipping.exe", "type": "Game" }
 
 # Zoo Tycoon: Ultimate Animal Collection https://store.steampowered.com/app/613880/Zoo_Tycoon_Ultimate_Animal_Collection/
 { "name": "ZooTycoon.exe", "type": "Game" }

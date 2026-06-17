@@ -132,6 +132,9 @@
 # CivIdle https://store.steampowered.com/app/2181940/CivIdle/
 { "name": "cividle", "type": "Game" }
 
+# Classic Marathon https://store.steampowered.com/app/2398450/Classic_Marathon/
+{ "name": "classic_marathon_launcher", "type": "BG_CPUIO" }
+
 # ClassiCube https://steamdb.info/app/1065710/
 { "name": "ClassiCube", "type": "Game" }
 { "name": "classicube", "type": "Game" }
