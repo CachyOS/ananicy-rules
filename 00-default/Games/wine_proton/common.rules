@@ -1211,30 +1211,10 @@
 # Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
 { "name": "Kingdom.exe", "type": "Game" }
 
-# Shantae: Half-Genie Hero Ultimate Edition https://store.steampowered.com/app/764300/Shantae_HalfGenie_Hero_Ultimate_Edition/
-# Shantae: Half-Genie Hero https://store.steampowered.com/app/253840/Shantae_HalfGenie_Hero/
-{ "name": "ShantaeHero.exe", "type": "Game" }
-
-# Zenless Zone Zero https://zenless.hoyoverse.com/
-# Zenless Zone Zero https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/
-{ "name": "ZenlessZoneZero.exe", "type": "Game" }
-
-# The Walking Dead: Saints & Sinners - Chapter 2: Retribution https://store.steampowered.com/app/1947500/The_Walking_Dead_Saints__Sinners__Chapter_2_Retribution/
-# The Walking Dead: Saints & Sinners https://store.steampowered.com/app/916840/The_Walking_Dead_Saints__Sinners/
-{ "name": "TWD.exe", "type": "Game" }
-
-# The Walking Dead: Saints & Sinners - Chapter 2: Retribution https://store.steampowered.com/app/1947500/The_Walking_Dead_Saints__Sinners__Chapter_2_Retribution/
-# The Walking Dead: Saints & Sinners https://store.steampowered.com/app/916840/The_Walking_Dead_Saints__Sinners/
-{ "name": "TWD-Win64-Shipping.exe", "type": "Game" }
-
 # LAST CLOUDIA https://store.steampowered.com/app/1687670/
 # LastCloudiaTc https://steamdb.info/app/1499560/
 # Rasutokuraudia ラストクラウディア https://store.steampowered.com/app/2294090/
 { "name": "LastCloudia.exe", "type": "Game" }
-
-# Shantae: Half-Genie Hero https://store.steampowered.com/app/253840/Shantae_HalfGenie_Hero/
-# Shantae: Half-Genie Hero Ultimate Edition https://store.steampowered.com/app/764300/Shantae_HalfGenie_Hero_Ultimate_Edition/
-{ "name": "ShantaeHero64.exe", "type": "Game" }
 
 # Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
 # Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
@@ -1904,6 +1884,14 @@
 # Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
 { "name": "Shadow Tactics.exe", "type": "Game" }
 
+# Shantae: Half-Genie Hero https://store.steampowered.com/app/253840/Shantae_HalfGenie_Hero/
+# Shantae: Half-Genie Hero Ultimate Edition https://store.steampowered.com/app/764300/Shantae_HalfGenie_Hero_Ultimate_Edition/
+{ "name": "ShantaeHero64.exe", "type": "Game" }
+
+# Shantae: Half-Genie Hero Ultimate Edition https://store.steampowered.com/app/764300/Shantae_HalfGenie_Hero_Ultimate_Edition/
+# Shantae: Half-Genie Hero https://store.steampowered.com/app/253840/Shantae_HalfGenie_Hero/
+{ "name": "ShantaeHero.exe", "type": "Game" }
+
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 # shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
 { "name": "shapez 2.exe", "type": "Game" }
@@ -2247,6 +2235,14 @@
 # Train Sim World 3 https://store.steampowered.com/app/1944790/Train_Sim_World_3/
 { "name": "TS2Prototype-Win64-Shipping.exe", "type": "Game" }
 
+# The Walking Dead: Saints & Sinners - Chapter 2: Retribution https://store.steampowered.com/app/1947500/The_Walking_Dead_Saints__Sinners__Chapter_2_Retribution/
+# The Walking Dead: Saints & Sinners https://store.steampowered.com/app/916840/The_Walking_Dead_Saints__Sinners/
+{ "name": "TWD.exe", "type": "Game" }
+
+# The Walking Dead: Saints & Sinners - Chapter 2: Retribution https://store.steampowered.com/app/1947500/The_Walking_Dead_Saints__Sinners__Chapter_2_Retribution/
+# The Walking Dead: Saints & Sinners https://store.steampowered.com/app/916840/The_Walking_Dead_Saints__Sinners/
+{ "name": "TWD-Win64-Shipping.exe", "type": "Game" }
+
 # Solar Nations 2 Demo https://store.steampowered.com/app/3881880/Solar_Nations_2/
 # Solar Nations 2 https://store.steampowered.com/app/2275440/Solar_Nations_2/
 { "name": "twilightModernity.exe", "type": "Game" }
@@ -2458,6 +2454,10 @@
 # WAKFU https://store.steampowered.com/app/215080/WAKFU/
 # Waven https://store.steampowered.com/app/2343650/Waven/
 { "name": "Zaapi.exe", "type": "BG_CPUIO" }
+
+# Zenless Zone Zero https://zenless.hoyoverse.com/
+# Zenless Zone Zero https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/
+{ "name": "ZenlessZoneZero.exe", "type": "Game" }
 
 # Zula Global https://store.steampowered.com/app/747610/Zula_Global/
 # Zula Türkiye https://store.steampowered.com/app/714210/

@@ -44,9 +44,6 @@
 # Yakuza Kiwami (Legacy) https://store.steampowered.com/app/834530/Yakuza_Kiwami/
 { "name": "YakuzaKiwami.exe", "type": "Game" }
 
-# Yooka-Replaylee https://store.steampowered.com/app/2448020/YookaReplaylee/
-{ "name": "ReplayleeWin64.exe", "type": "Game" }
-
 # Yakuza: Like a Dragon https://store.steampowered.com/app/1235140/Yakuza_Like_a_Dragon/
 { "name": "YakuzaLikeADragon.exe", "type": "Game" }
 
@@ -131,6 +128,9 @@
 # Yooka-Laylee and the Impossible Lair https://store.steampowered.com/app/846870/YookaLaylee_and_the_Impossible_Lair/
 { "name": "BounceWin64.exe", "type": "Game" }
 { "name": "YLILWin64.exe", "type": "Game" }
+
+# Yooka-Replaylee https://store.steampowered.com/app/2448020/YookaReplaylee/
+{ "name": "ReplayleeWin64.exe", "type": "Game" }
 
 # Yoru ga Kuru! -Square of the Moon- Remastered https://store.steampowered.com/app/2901150/Yoru_ga_Kuru_Square_of_the_Moon_Remastered/
 { "name": "NightRemaster.exe", "type": "Game" }

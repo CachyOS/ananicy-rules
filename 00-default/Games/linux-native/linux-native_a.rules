@@ -21,9 +21,6 @@
 { "name": "Abyss_TheWraithsOfEden_amd64", "type": "Game" }
 { "name": "Abyss_TheWraithsOfEden_i386", "type": "Game" }
 
-# Acting Lessons https://store.steampowered.com/app/1045520/
-{ "name": "ActingLessons", "type": "Game" }
-
 # Academia : School Simulator https://store.steampowered.com/app/672630/Academia__School_Simulator/
 { "name": "Academia.x86_64", "type": "Game" }
 
@@ -32,6 +29,9 @@
 
 # Across the Obelisk https://store.steampowered.com/app/1385380/Across_the_Obelisk/
 { "name": "AcrossTheObelisk.x86_64", "type": "Game" }
+
+# Acting Lessons https://store.steampowered.com/app/1045520/
+{ "name": "ActingLessons", "type": "Game" }
 
 # A Dance of Fire and Ice https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 { "name": "ADanceOfFireAndIce", "type": "Game" }

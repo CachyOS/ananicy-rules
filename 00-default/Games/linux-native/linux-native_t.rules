@@ -65,10 +65,6 @@
 { "name": "teeworlds", "type": "Game" }
 { "name": "teeworlds_srv", "type": "Game" }
 
-# Train Valley https://store.steampowered.com/app/353640/Train_Valley/
-{ "name": "train-valley.x86", "type": "Game" }
-{ "name": "train-valley.x86_64", "type": "Game" }
-
 # Teleglitch: Die More Edition https://store.steampowered.com/app/234390/Teleglitch_Die_More_Edition/
 { "name": "runme", "type": "Game" }
 
@@ -248,6 +244,10 @@
 
 # Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
 { "name": "Tower-Linux-Shipping", "type": "Game" }
+
+# Train Valley https://store.steampowered.com/app/353640/Train_Valley/
+{ "name": "train-valley.x86", "type": "Game" }
+{ "name": "train-valley.x86_64", "type": "Game" }
 
 # Train Valley 2 https://store.steampowered.com/app/602320/Train_Valley_2/
 { "name": "TrainValley2.x86_64", "type": "Game" }

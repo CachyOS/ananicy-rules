@@ -47,10 +47,6 @@
 # Caliper https://store.steampowered.com/app/581840/Caliper/
 { "name": "Caliper_launcher.exe", "type": "Game" }
 
-# Classic Marathon https://store.steampowered.com/app/2398450/Classic_Marathon/
-{ "name": "Classic Marathon Launcher.exe", "type": "BG_CPUIO" }
-{ "name": "Classic Marathon Steam.exe", "type": "Game" }
-
 # Call of Cthulhu https://store.steampowered.com/app/399810/Call_of_Cthulhu/
 { "name": "CallOfCthulhu.exe", "type": "Game" }
 
@@ -847,6 +843,10 @@
 # Clash: Artifacts of Chaos https://store.steampowered.com/app/1430680/Clash_Artifacts_of_Chaos/
 { "name": "Clash.exe", "type": "Game" }
 { "name": "Clash-Win64-Shipping.exe", "type": "Game" }
+
+# Classic Marathon https://store.steampowered.com/app/2398450/Classic_Marathon/
+{ "name": "Classic Marathon Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Classic Marathon Steam.exe", "type": "Game" }
 
 # ClassiCube https://steamdb.info/app/1065710/
 { "name": "ClassiCube.exe", "type": "Game" }

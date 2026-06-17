@@ -50,12 +50,6 @@
 # Mad Max https://store.steampowered.com/app/234140/Mad_Max/
 { "name": "MadMax.exe", "type": "Game" }
 
-# MageQuit https://store.steampowered.com/app/572220/MageQuit/
-{ "name": "MageQuit.exe", "type": "Game" }
-
-# Moonring https://store.steampowered.com/app/2373630/Moonring/
-{ "name": "moonring.exe", "type": "Game" }
-
 # MADNESS: Project Nexus https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/
 { "name": "Madness Project Nexus.exe", "type": "Game" }
 
@@ -84,6 +78,9 @@
 
 # Mage Arena https://store.steampowered.com/app/3716600/Mage_Arena/
 { "name": "MageArena.exe", "type": "Game" }
+
+# MageQuit https://store.steampowered.com/app/572220/MageQuit/
+{ "name": "MageQuit.exe", "type": "Game" }
 
 # Magic 2014 — Duels of the Planeswalkers https://store.steampowered.com/app/213850/Magic_2014__Duels_of_the_Planeswalkers/
 { "name": "DotP_D14.exe", "type": "Game" }
@@ -1277,6 +1274,9 @@
 
 # Moonlight Peaks Demo https://store.steampowered.com/app/2584240/
 { "name": "Moonlight Peaks.exe", "type": "Game" }
+
+# Moonring https://store.steampowered.com/app/2373630/Moonring/
+{ "name": "moonring.exe", "type": "Game" }
 
 # Moonrise Fall https://store.steampowered.com/app/1035110/Moonrise_Fall/
 { "name": "Moonrise Fall 1v02 Win.exe", "type": "Game" }

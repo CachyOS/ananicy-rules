@@ -399,6 +399,9 @@
 { "name": "Beached.exe", "type": "Game" }
 { "name": "Beached-Win64-Test.exe", "type": "Game" }
 
+# Beacon Pines https://store.steampowered.com/app/1269640/Beacon_Pines/
+{ "name": "Beacon Pines.exe", "type": "Game" }
+
 # Beam Eye Tracker https://store.steampowered.com/app/2375780/Beam_Eye_Tracker/
 { "name": "BeamEyeTracker.exe", "type": "Game" }
 
@@ -969,6 +972,9 @@
 # Bloody Hell https://store.steampowered.com/app/2056220/Bloody_Hell/
 { "name": "Bloody Hell.exe", "type": "Game" }
 
+# Bloody Painter Dating Sim https://store.steampowered.com/app/3214880/Bloody_Painter_Dating_Sim/
+{ "name": "Bloody Painter Dating Sim.exe", "type": "Game" }
+
 # Bloomtown: A Different Story https://store.steampowered.com/app/2445990/Bloomtown_A_Different_Story/
 { "name": "Bloomtown a Different Story.exe", "type": "Game" }
 
@@ -1202,6 +1208,10 @@
 # Breach & Clear https://store.steampowered.com/app/266130/Breach__Clear/
 { "name": "bnc.exe", "type": "Game" }
 
+# Breachers https://store.steampowered.com/app/1922010/
+{ "name": "Breachers.exe", "type": "Game" }
+{ "name": "Breachers_Internal.exe", "type": "Game" }
+
 # Breachway https://store.steampowered.com/app/2118810/Breachway/
 { "name": "Breachway.exe", "type": "Game" }
 
@@ -1263,16 +1273,6 @@
 
 # Bright Memory: Infinite https://store.steampowered.com/app/1178830/Bright_Memory_Infinite/
 { "name": "BrightMemoryInfinite-Win64-Shipping.exe", "type": "Game" }
-
-# Beacon Pines https://store.steampowered.com/app/1269640/Beacon_Pines/
-{ "name": "Beacon Pines.exe", "type": "Game" }
-
-# Bloody Painter Dating Sim https://store.steampowered.com/app/3214880/Bloody_Painter_Dating_Sim/
-{ "name": "Bloody Painter Dating Sim.exe", "type": "Game" }
-
-# Breachers https://store.steampowered.com/app/1922010/
-{ "name": "Breachers.exe", "type": "Game" }
-{ "name": "Breachers_Internal.exe", "type": "Game" }
 
 # Bring It Demo https://store.steampowered.com/app/4654970/Bring_It_Demo/
 { "name": "Bring It.exe", "type": "Game" }
