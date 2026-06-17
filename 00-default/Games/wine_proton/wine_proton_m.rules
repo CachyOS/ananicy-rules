@@ -44,19 +44,6 @@
 # Mad Island https://store.steampowered.com/app/2739590/
 { "name": "Mad Island.exe", "type": "Game" }
 
-# Megastore Simulator: Prologue https://store.steampowered.com/app/4148730/Megastore_Simulator_Prologue/
-{ "name": "Megastore Simulator Prologue.exe", "type": "Game" }
-
-# Men of War: Red Tide https://store.steampowered.com/app/3130/Men_of_War_Red_Tide/
-{ "name": "RedTide.exe", "type": "Game" }
-
-# MOLE https://store.steampowered.com/app/4064510/MOLE/
-{ "name": "MOLE.exe", "type": "Game" }
-{ "name": "Captain-Win64-Shipping.exe", "type": "Game" }
-
-# Monster Girl Island: Prologue https://store.steampowered.com/app/943700/
-{ "name": "MGI.exe", "type": "Game" }
-
 # MADiSON https://store.steampowered.com/app/1670870/
 { "name": "MADiSON.exe", "type": "Game" }
 
@@ -559,6 +546,9 @@
 # Megastore Simulator https://store.steampowered.com/app/3819640/Megastore_Simulator/
 { "name": "Megastore Simulator.exe", "type": "Game" }
 
+# Megastore Simulator: Prologue https://store.steampowered.com/app/4148730/Megastore_Simulator_Prologue/
+{ "name": "Megastore Simulator Prologue.exe", "type": "Game" }
+
 # Meh https://store.steampowered.com/app/3065090/203_MEH/
 { "name": "Meh.exe", "type": "Game" }
 { "name": "Meh-Win64-Shipping.exe", "type": "Game" }
@@ -625,6 +615,9 @@
 # Men of War II https://store.steampowered.com/app/1128860/Men_of_War_II/
 { "name": "mow2.exe", "type": "Game" }
 { "name": "mow2_editor.exe", "type": "Game" }
+
+# Men of War: Red Tide https://store.steampowered.com/app/3130/Men_of_War_Red_Tide/
+{ "name": "RedTide.exe", "type": "Game" }
 
 # Men of War: Vietnam https://store.steampowered.com/app/63940/Men_of_War_Vietnam/
 { "name": "Vietnam Editor.exe", "type": "Game" }
@@ -1087,6 +1080,10 @@
 # Modulus: Factory Automation https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/
 { "name": "Modulus.exe", "type": "Game" }
 
+# MOLE https://store.steampowered.com/app/4064510/MOLE/
+{ "name": "MOLE.exe", "type": "Game" }
+{ "name": "Captain-Win64-Shipping.exe", "type": "Game" }
+
 # Molili AI Friends: Your AI Desk Pal https://store.steampowered.com/app/4141770/Molili_AI_Friends_Your_AI_Desk_Pal/
 { "name": "Molili.exe", "type": "BG_CPUIO" }
 
@@ -1184,6 +1181,9 @@
 
 # Monster Girl https://store.steampowered.com/app/1967450/_Monster_Girl/
 { "name": "MonsterGirl.exe", "type": "Game" }
+
+# Monster Girl Island: Prologue https://store.steampowered.com/app/943700/
+{ "name": "MGI.exe", "type": "Game" }
 
 # Monster Girls and the Mysterious Adventure https://store.steampowered.com/app/1229260/Monster_Girls_and_the_Mysterious_Adventure/
 { "name": "MonsterGirlsDungeon.exe", "type": "Game" }

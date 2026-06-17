@@ -32,9 +32,6 @@
 # Salt https://store.steampowered.com/app/327860/Salt/
 { "name": "Salt.x86", "type": "Game" }
 
-# SuperTux https://store.steampowered.com/app/1572920/SuperTux/
-{ "name": "SuperTux.AppImage", "type": "Game" }
-
 # Salt and Sanctuary https://store.steampowered.com/app/283640/Salt_and_Sanctuary/
 { "name": "SaltAndSanctuary", "type": "Game" }
 
@@ -612,6 +609,9 @@
 
 # Super Meat Boy https://store.steampowered.com/app/40800/Super_Meat_Boy/
 { "name": "SuperMeatBoy", "type": "Game" }
+
+# SuperTux https://store.steampowered.com/app/1572920/SuperTux/
+{ "name": "SuperTux.AppImage", "type": "Game" }
 
 # SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play https://supertuxkart.net/
 { "name": "supertuxkart", "type": "Game" }

@@ -538,6 +538,10 @@
 { "name": "Hellblade2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Hellblade2.exe", "type": "Game" }
 
+# Separated Demo https://store.steampowered.com/app/3110110/
+{ "name": "Separated.exe", "type": "Game" }
+{ "name": "Separated-Win64-Shipping.exe", "type": "Game" }
+
 # Sephiria https://store.steampowered.com/app/2436940/Sephiria/
 { "name": "Sephiria.exe", "type": "Game" }
 
@@ -638,6 +642,10 @@
 
 # Sex, Secrets & Used Tech Demo https://store.steampowered.com/app/3709920/
 { "name": "ElectronicsThriftStore.exe", "type": "Game" }
+
+# Sex Shop Simulator: X-RAY DESIRE https://store.steampowered.com/app/4148670/
+{ "name": "Sex Shop Simulator X-RAY DESIRE.exe", "type": "Game" }
+{ "name": "ShopSim-Win64-Shipping.exe", "type": "Game" }
 
 # SEX, SIN & ROCK'N'ROLL 🤘🎸 https://store.steampowered.com/app/4280130/
 { "name": "Sex Sin and Rock N Roll.exe", "type": "Game" }
@@ -1314,6 +1322,9 @@
 # Slitterhead https://store.steampowered.com/app/2631250/Slitterhead/
 { "name": "YKS.exe", "type": "Game" }
 { "name": "YKS-Win64-Shipping.exe", "type": "Game" }
+
+# Sloppy Fields https://store.steampowered.com/app/3409760/
+{ "name": "Sloppy_Fields.exe", "type": "Game" }
 
 # Slot or Not https://store.steampowered.com/app/3496890/Slot_or_Not/
 { "name": "son.exe", "type": "Game" }
@@ -2062,26 +2073,6 @@
 # Starcom: Nexus https://store.steampowered.com/app/863590/Starcom_Nexus/
 { "name": "StarcomNexus.exe", "type": "Game" }
 
-# Separated Demo https://store.steampowered.com/app/3110110/
-{ "name": "Separated.exe", "type": "Game" }
-{ "name": "Separated-Win64-Shipping.exe", "type": "Game" }
-
-# Sex Shop Simulator: X-RAY DESIRE https://store.steampowered.com/app/4148670/
-{ "name": "Sex Shop Simulator X-RAY DESIRE.exe", "type": "Game" }
-{ "name": "ShopSim-Win64-Shipping.exe", "type": "Game" }
-
-# Sloppy Fields https://store.steampowered.com/app/3409760/
-{ "name": "Sloppy_Fields.exe", "type": "Game" }
-
-# Starion Tactics https://store.steampowered.com/app/312960/Starion_Tactics/
-{ "name": "Starion.exe", "type": "Game" }
-
-# SuperTux https://store.steampowered.com/app/1572920/SuperTux/
-{ "name": "supertux2.exe", "type": "Game" }
-
-# SWAPMEAT https://store.steampowered.com/app/2790700/SWAPMEAT/
-{ "name": "SWAPMEAT.exe", "type": "Game" }
-
 # Starcom: Unknown Space https://store.steampowered.com/app/1750770/Starcom_Unknown_Space/
 { "name": "Starcom Unknown Space.exe", "type": "Game" }
 
@@ -2122,6 +2113,9 @@
 
 # StarFringe: Adversus https://store.steampowered.com/app/458030/StarFringe_Adversus/
 { "name": "StarFringe.exe", "type": "Game" }
+
+# Starion Tactics https://store.steampowered.com/app/312960/Starion_Tactics/
+{ "name": "Starion.exe", "type": "Game" }
 
 # StarMade https://store.steampowered.com/app/244770/StarMade/
 { "name": "StarMade-Launcher.exe", "type": "Game" }
@@ -2938,6 +2932,9 @@
 # Super Sus https://store.steampowered.com/app/2920270/Super_Sus/
 { "name": "Super Sus.exe", "type": "Game" }
 
+# SuperTux https://store.steampowered.com/app/1572920/SuperTux/
+{ "name": "supertux2.exe", "type": "Game" }
+
 # Super Woden: Rally Edge https://store.steampowered.com/app/3218630/Super_Woden_Rally_Edge/
 { "name": "Super Woden Rally Edge.exe", "type": "Game" }
 
@@ -3010,6 +3007,9 @@
 # SVFI https://store.steampowered.com/app/1692080/SVFI/
 { "name": "SVFI.Community.exe", "type": "Game" }
 { "name": "SVFI.Professional.exe", "type": "Game" }
+
+# SWAPMEAT https://store.steampowered.com/app/2790700/SWAPMEAT/
+{ "name": "SWAPMEAT.exe", "type": "Game" }
 
 # Swarm Simulator: Evolution https://store.steampowered.com/app/914320/Swarm_Simulator_Evolution/
 { "name": "Swarm Sim.exe", "type": "Game" }

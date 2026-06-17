@@ -47,9 +47,6 @@
 # Caliper https://store.steampowered.com/app/581840/Caliper/
 { "name": "Caliper_launcher.exe", "type": "Game" }
 
-# Candy Smash VR https://store.steampowered.com/app/503900/Candy_Smash_VR/
-{ "name": "Candy Smash VR.exe", "type": "Game" }
-
 # Call of Cthulhu https://store.steampowered.com/app/399810/Call_of_Cthulhu/
 { "name": "CallOfCthulhu.exe", "type": "Game" }
 
@@ -194,6 +191,9 @@
 
 # Campus Legends College Basketball https://store.steampowered.com/app/3126980/Campus_Legends_College_Basketball/
 { "name": "CLCB.exe", "type": "Game" }
+
+# Candy Smash VR https://store.steampowered.com/app/503900/Candy_Smash_VR/
+{ "name": "Candy Smash VR.exe", "type": "Game" }
 
 # Canvas of Kings https://store.steampowered.com/app/2498570/Canvas_of_Kings/
 { "name": "CanvasOfKings.exe", "type": "Game" }

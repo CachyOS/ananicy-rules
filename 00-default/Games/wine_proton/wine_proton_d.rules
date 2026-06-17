@@ -665,6 +665,9 @@
 # Desktop Dungeons https://store.steampowered.com/app/226620/Desktop_Dungeons/
 { "name": "DesktopDungeons.exe", "type": "Game" }
 
+# Desktop Explorer Demo https://store.steampowered.com/app/2533590/Desktop_Explorer_Demo/
+{ "name": "DesktopExplorerDemo.exe", "type": "Game" }
+
 # Desktop Fishing https://store.steampowered.com/app/3411730/Desktop_Fishing/
 { "name": "Desktop Fishing.exe", "type": "BG_CPUIO" }
 
@@ -879,6 +882,9 @@
 # Digseum https://store.steampowered.com/app/3361470/Digseum/
 { "name": "Digseum.exe", "type": "Game" }
 
+# Dimraeth Demo https://store.steampowered.com/app/2405840/Dimraeth_Demo/
+{ "name": "Dimraeth.exe", "type": "Game" }
+
 # Dinkum https://store.steampowered.com/app/1062520/Dinkum/
 { "name": "Dinkum.exe", "type": "Game" }
 
@@ -1049,6 +1055,9 @@
 # Divine Divinity https://store.steampowered.com/app/214170/Divine_Divinity/
 { "name": "div.exe", "type": "Game" }
 
+# Divine Frequency Demo https://store.steampowered.com/app/2641750/
+{ "name": "DivineFrequency.exe", "type": "Game" }
+
 # Divinity: Dragon Commander https://store.steampowered.com/app/243950/Divinity_Dragon_Commander/
 { "name": "DCApp.exe", "type": "Game" }
 
@@ -1086,18 +1095,6 @@
 
 # Dogs https://store.steampowered.com/app/3083270/Dogs/
 { "name": "Dogs.exe", "type": "Game" }
-
-# Desktop Explorer Demo https://store.steampowered.com/app/2533590/Desktop_Explorer_Demo/
-{ "name": "DesktopExplorerDemo.exe", "type": "Game" }
-
-# Dimraeth Demo https://store.steampowered.com/app/2405840/Dimraeth_Demo/
-{ "name": "Dimraeth.exe", "type": "Game" }
-
-# Divine Frequency Demo https://store.steampowered.com/app/2641750/
-{ "name": "DivineFrequency.exe", "type": "Game" }
-
-# Drone Sector Demo https://store.steampowered.com/app/3710740/Drone_Sector_Demo/
-{ "name": "DroneSector.exe", "type": "Game" }
 
 # Dogs of War Online https://store.steampowered.com/app/219700/Dogs_of_War_Online/
 { "name": "DogsOfWar.exe", "type": "Game" }
@@ -1514,6 +1511,9 @@
 
 # Driver Parallel Lines https://store.steampowered.com/app/21780/Driver_Parallel_Lines/
 { "name": "DriverParallelLines.exe", "type": "Game" }
+
+# Drone Sector Demo https://store.steampowered.com/app/3710740/Drone_Sector_Demo/
+{ "name": "DroneSector.exe", "type": "Game" }
 
 # DropDisk https://store.steampowered.com/app/3154360/DropDisk/
 { "name": "DropDisk.exe", "type": "Game" }

@@ -27,9 +27,6 @@
 # Jagged Alliance 2 - Wildfire https://store.steampowered.com/app/215930/Jagged_Alliance_2__Wildfire/
 { "name": "WF6.exe", "type": "Game" }
 
-# J.U.R : Japan Underground Racing https://store.steampowered.com/app/513930/JUR__Japan_Underground_Racing/
-{ "name": "JUR.exe", "type": "Game" }
-
 # Jagged Alliance 3 https://store.steampowered.com/app/1084160/Jagged_Alliance_3/
 { "name": "JA3.exe", "type": "Game" }
 { "name": "JA3Debug.exe", "type": "Game" }
@@ -176,6 +173,9 @@
 
 # Jurassic World Evolution 3 https://store.steampowered.com/app/2958130/Jurassic_World_Evolution_3/
 { "name": "JWE3.exe", "type": "Game" }
+
+# J.U.R : Japan Underground Racing https://store.steampowered.com/app/513930/JUR__Japan_Underground_Racing/
+{ "name": "JUR.exe", "type": "Game" }
 
 # Just Act Natural https://store.steampowered.com/app/1485080/Just_Act_Natural/
 { "name": "JustActNatural.exe", "type": "Game" }

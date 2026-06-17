@@ -62,9 +62,6 @@
 # Waveform https://store.steampowered.com/app/204180/Waveform/
 { "name": "Waveform", "type": "Game" }
 
-# Wicked Ways https://store.steampowered.com/app/4216930/
-{ "name": "WickedWays", "type": "Game" }
-
 # Wax Heads https://store.steampowered.com/app/2769240/Wax_Heads/
 { "name": "wax_heads.x86_64", "type": "Game" }
 
@@ -98,6 +95,9 @@
 # Whispering Willows https://store.steampowered.com/app/288060/Whispering_Willows/
 { "name": "WhisperingWillows.x86", "type": "Game" }
 { "name": "WhisperingWillows.x86_64", "type": "Game" }
+
+# Wicked Ways https://store.steampowered.com/app/4216930/
+{ "name": "WickedWays", "type": "Game" }
 
 # Wildermyth https://store.steampowered.com/app/763890/Wildermyth/
 { "name": "wildermyth", "type": "Game" }

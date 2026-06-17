@@ -17,22 +17,6 @@
 # Bèibāo chuǎngjiānghú 背包闯江湖 https://store.steampowered.com/app/3972650/Backpack_Jianghu/
 { "name": "BackpackJianghu.exe", "type": "Game" }
 
-# Zāinàn gōngguān 災難公關+ https://store.steampowered.com/app/2976890/_/
-{ "name": "DisasterPRPlus.exe", "type": "Game" }
-
-# Yè xuè W: Gē hóu zhī láng Demo 夜血W：割喉之狼 Demo https://store.steampowered.com/app/3078710/Night_Blood_W__Cutthroat_Wolf_Demo/
-{ "name": "Night Blood W Demo.exe", "type": "Game" }
-
-# Nǚshén yì wén lù: Yèmù mèiyǐng 女神异闻录：夜幕魅影 https://store.steampowered.com/app/3604320/
-{ "name": "P5XGame.exe", "type": "Game" }
-{ "name": "P5XLauncher.exe", "type": "Game" }
-
-# Wǒ de liàn'ài táoshēng gōnglüè Love to Live 我的恋爱逃生攻略 Love to Live https://store.steampowered.com/app/3389200/_Love_to_Live/
-{ "name": "Love to Live.exe", "type": "Game" }
-
-# Jiànxí sǐshén Demo 见习死神 Demo https://store.steampowered.com/app/3850420/
-{ "name": "DeathIntern.exe", "type": "Game" }
-
 # Bēng jìng huíshōu zhàn 嘣境回收战 https://store.steampowered.com/app/2411910/miniBONG/
 { "name": "miniBONG.exe", "type": "Game" }
 
@@ -193,6 +177,9 @@
 # Jiàn qì jié 剑气劫 https://store.steampowered.com/app/2739600/Kalpa_of_Sword/
 { "name": "KalpaOfSword.exe", "type": "Game" }
 
+# Jiànxí sǐshén Demo 见习死神 Demo https://store.steampowered.com/app/3850420/
+{ "name": "DeathIntern.exe", "type": "Game" }
+
 # Jīn gǔ qún xiá chuán 今古群侠传 https://store.steampowered.com/app/3313720/Psychic_Kung_Fu_Master/
 { "name": "JinGu.exe", "type": "Game" }
 
@@ -289,6 +276,10 @@
 
 # nuǎn xuě 暖雪 Warm Snow https://store.steampowered.com/app/1296830/_Warm_Snow/
 { "name": "WarmSnow.exe", "type": "Game" }
+
+# Nǚshén yì wén lù: Yèmù mèiyǐng 女神异闻录：夜幕魅影 https://store.steampowered.com/app/3604320/
+{ "name": "P5XGame.exe", "type": "Game" }
+{ "name": "P5XLauncher.exe", "type": "Game" }
 
 # Piāoliú huànjìng 飄流幻境 https://store.steampowered.com/app/1481340/M/
 { "name": "WLM.exe", "type": "Game" }
@@ -441,6 +432,9 @@
 # Wēnyì qīng líng jìhuà Project Zero 瘟疫清零计划 Project Zero https://store.steampowered.com/app/2088250/_Project_Zero/
 { "name": "UE4Game.exe", "type": "Game" }
 
+# Wǒ de liàn'ài táoshēng gōnglüè Love to Live 我的恋爱逃生攻略 Love to Live https://store.steampowered.com/app/3389200/_Love_to_Live/
+{ "name": "Love to Live.exe", "type": "Game" }
+
 # Wǒ de wénzì xiūxiān shìjiè 我的文字修仙世界 https://store.steampowered.com/app/4226370/_/
 { "name": "App.exe", "type": "Game" }
 
@@ -526,6 +520,9 @@
 # Xiūxiān xiǎowū 修仙小屋 https://store.steampowered.com/app/2892880/_/
 { "name": "xiuxianWPF.exe", "type": "Game" }
 
+# Yè xuè W: Gē hóu zhī láng Demo 夜血W：割喉之狼 Demo https://store.steampowered.com/app/3078710/Night_Blood_W__Cutthroat_Wolf_Demo/
+{ "name": "Night Blood W Demo.exe", "type": "Game" }
+
 # Yì jiàn jiānghú 奕剑江湖 https://store.steampowered.com/app/2701510/_/
 { "name": "JungleGame-Win64-Shipping.exe", "type": "Game" }
 { "name": "JungleGame.exe", "type": "Game" }
@@ -557,6 +554,9 @@
 
 # Zàijiàn duàn dāo 再见断刀 https://store.steampowered.com/app/2663950/_/
 { "name": "ZJDD.exe", "type": "Game" }
+
+# Zāinàn gōngguān 災難公關+ https://store.steampowered.com/app/2976890/_/
+{ "name": "DisasterPRPlus.exe", "type": "Game" }
 
 # Zàng huā·ànhēi táohuāyuán 葬花·暗黑桃花源 https://store.steampowered.com/app/1506980/Lay_a_Beauty_to_Rest_The_Darkness_Peach_Blossom_Spring/
 { "name": "葬花.exe", "type": "Game" }

@@ -23,15 +23,6 @@
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
-# ELSWORD JAPAN https://store.steampowered.com/app/1011810/
-{ "name": "elsword_start.exe", "type": "BG_CPUIO" }
-
-# Etrian Odyssey II HD https://store.steampowered.com/app/1868170/Etrian_Odyssey_II_HD/
-{ "name": "Etrian Odyssey 2.exe", "type": "Game" }
-
-# Expedition: Into Darkness Playtest https://store.steampowered.com/app/3616590/
-{ "name": "Expedition Into Darkness.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 6 https://store.steampowered.com/app/2291060/EARTH_DEFENSE_FORCE_6/
 { "name": "EDF6.exe", "type": "Game" }
 
@@ -233,6 +224,9 @@
 
 # Elsword Free-to-Play https://store.steampowered.com/app/558230/
 { "name": "steam_launcher.exe", "type": "Game" }
+
+# ELSWORD JAPAN https://store.steampowered.com/app/1011810/
+{ "name": "elsword_start.exe", "type": "BG_CPUIO" }
 
 # Elven Assassin https://store.steampowered.com/app/503770/Elven_Assassin/
 { "name": "Elven Assassin.exe", "type": "Game" }
@@ -591,6 +585,9 @@
 # Etrian Odyssey HD https://store.steampowered.com/app/1868180/Etrian_Odyssey_HD/
 { "name": "Etrian Odyssey.exe", "type": "Game" }
 
+# Etrian Odyssey II HD https://store.steampowered.com/app/1868170/Etrian_Odyssey_II_HD/
+{ "name": "Etrian Odyssey 2.exe", "type": "Game" }
+
 # Etrian Odyssey III HD https://store.steampowered.com/app/1810820/Etrian_Odyssey_III_HD/
 { "name": "Etrian Odyssey 3.exe", "type": "Game" }
 
@@ -722,6 +719,9 @@
 # Exotica 2: Pet Shop Simulator https://store.steampowered.com/app/2824380/Exotica_2_Pet_Shop_Simulator/
 { "name": "Exotica2.exe", "type": "Game" }
 { "name": "Exotica2-Win64-Shipping.exe", "type": "Game" }
+
+# Expedition: Into Darkness Playtest https://store.steampowered.com/app/3616590/
+{ "name": "Expedition Into Darkness.exe", "type": "Game" }
 
 # Expeditions: A MudRunner Game https://store.steampowered.com/app/2477340/Expeditions_A_MudRunner_Game/
 { "name": "Expeditions.exe", "type": "Game" }

@@ -54,9 +54,6 @@
 # Hakuoki: Kyoto Winds https://store.steampowered.com/app/589530/Hakuoki_Kyoto_Winds/
 { "name": "HakuokiWin.exe", "type": "Game" }
 
-# Holding Pattern https://store.steampowered.com/app/4309180/Holding_Pattern/
-{ "name": "index.exe", "type": "Game" }
-
 # Halcyon Days at Taoyuan https://store.steampowered.com/app/2678830/Halcyon_Days_at_Taoyuan/
 { "name": "-X-.exe", "type": "Game" }
 
@@ -657,6 +654,9 @@
 
 # Holdfast: Nations At War https://store.steampowered.com/app/589290/Holdfast_Nations_At_War/
 { "name": "Holdfast NaW.exe", "type": "Game" }
+
+# Holding Pattern https://store.steampowered.com/app/4309180/Holding_Pattern/
+{ "name": "index.exe", "type": "Game" }
 
 # HOLE https://store.steampowered.com/app/2971610/HOLE/
 { "name": "HOLE.exe", "type": "Game" }
