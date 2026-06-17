@@ -47,6 +47,10 @@
 # Caliper https://store.steampowered.com/app/581840/Caliper/
 { "name": "Caliper_launcher.exe", "type": "Game" }
 
+# Classic Marathon https://store.steampowered.com/app/2398450/Classic_Marathon/
+{ "name": "Classic Marathon Launcher.exe", "type": "BG_CPUIO" }
+{ "name": "Classic Marathon Steam.exe", "type": "Game" }
+
 # Call of Cthulhu https://store.steampowered.com/app/399810/Call_of_Cthulhu/
 { "name": "CallOfCthulhu.exe", "type": "Game" }
 

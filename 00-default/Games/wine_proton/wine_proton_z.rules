@@ -48,6 +48,17 @@
 # ZEPHON https://store.steampowered.com/app/1481170/ZEPHON/
 { "name": "Zephon.exe", "type": "Game" }
 
+# Zenless Zone Zero https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/
+{ "name": "HYP.exe", "type": "BG_CPUIO" }
+{ "name": "ZenlessZoneZero.exe", "type": "Game" }
+
+# ZeroRanger https://store.steampowered.com/app/809020/ZeroRanger/
+{ "name": "ZeroRanger.exe", "type": "Game" }
+
+# Zoonomaly https://store.steampowered.com/app/2101890/Zoonomaly/
+{ "name": "Zoonomaly.exe", "type": "Game" }
+{ "name": "Zoonomaly-Win64-Shipping.exe", "type": "Game" }
+
 # Zero Caliber 2 Remastered https://store.steampowered.com/app/2719740/Zero_Caliber_2_Remastered/
 { "name": "ZeroCaliber_2.exe", "type": "Game" }
 { "name": "ZeroCaliber_2-Win64-Shipping.exe", "type": "Game" }
