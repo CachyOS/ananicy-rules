@@ -35,9 +35,6 @@
 { "name": "ZenkcraftRemastered.exe", "type": "Game" }
 { "name": "ZenkCraft.exe", "type": "Game" }
 
-# Zenless Zone Zero https://zenless.hoyoverse.com/
-{ "name": "ZenlessZoneZero.exe", "type": "Game" }
-
 # Zeno Clash https://store.steampowered.com/app/22200/Zeno_Clash/
 { "name": "zenoclash.exe", "type": "Game" }
 { "name": "ZenoClash.exe", "type": "Game" }
@@ -50,7 +47,6 @@
 
 # Zenless Zone Zero https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/
 { "name": "HYP.exe", "type": "BG_CPUIO" }
-{ "name": "ZenlessZoneZero.exe", "type": "Game" }
 
 # ZeroRanger https://store.steampowered.com/app/809020/ZeroRanger/
 { "name": "ZeroRanger.exe", "type": "Game" }
