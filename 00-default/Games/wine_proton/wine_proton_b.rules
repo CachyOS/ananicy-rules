@@ -90,6 +90,9 @@
 { "name": "Ratsend.exe", "type": "Game" }
 { "name": "Ratsrec.exe", "type": "Game" }
 
+# Bait Soul Demo https://store.steampowered.com/app/3689970/Bait_Soul_Demo/
+{ "name": "BaitSoul.exe", "type": "Game" }
+
 # Bakery Cafe Simulator: Prologue https://store.steampowered.com/app/3669720/Bakery_Cafe_Simulator_Prologue/
 { "name": "SimulatorGamePrologue.exe", "type": "Game" }
 { "name": "SimulatorGamePrologue-Win64-Shipping.exe", "type": "Game" }
@@ -1221,6 +1224,10 @@
 # Breakout 13 https://store.steampowered.com/app/2095300/Breakout_13/
 { "name": "Breakout 13.exe", "type": "Game" }
 
+# Break the Chain https://store.steampowered.com/app/1395930/Break_The_Chain/
+{ "name": "BreakTheChain.exe", "type": "Game" }
+{ "name": "BreakTheChain-Win64-Shipping.exe", "type": "Game" }
+
 # Breathedge https://store.steampowered.com/app/738520/Breathedge/
 { "name": "Breathedge.exe", "type": "Game" }
 { "name": "Breathedge-Win64-Shipping.exe", "type": "Game" }
@@ -1376,6 +1383,9 @@
 # Bulb Boy https://store.steampowered.com/app/390290/Bulb_Boy/
 { "name": "BulbBoy.exe", "type": "Game" }
 
+# Bullet Force https://store.steampowered.com/app/3624370/Bullet_Force/
+{ "name": "Bullet Force.exe", "type": "Game" }
+
 # Bulletstorm: Full Clip Edition https://store.steampowered.com/app/501590/
 { "name": "StormGame-Win64-Shipping.exe", "type": "Game" }
 
@@ -1441,6 +1451,9 @@
 
 # Business Tour - Board Game with Online Multiplayer https://store.steampowered.com/app/397900/Business_Tour__Board_Game_with_Online_Multiplayer/
 { "name": "BusinessTour.exe", "type": "Game" }
+
+# Bus Simulator 16 https://store.steampowered.com/app/324310/Bus_Simulator_16/
+{ "name": "BusSimulator16.exe", "type": "Game" }
 
 # Bus Simulator 18 https://store.steampowered.com/app/515180/Bus_Simulator_18/
 { "name": "BusSimulator18.exe", "type": "Game" }

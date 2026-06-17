@@ -380,6 +380,9 @@
 # Kiosk https://store.steampowered.com/app/3126330/Kiosk/
 { "name": "Kiosk.exe", "type": "Game" }
 
+# Kitchen Simulator 2015 https://store.steampowered.com/app/399230/Kitchen_Simulator_2015/
+{ "name": "Kitchen_Simulator.exe", "type": "Game" }
+
 # Kitchen Wars https://store.steampowered.com/app/2955840/Kitchen_Wars/
 { "name": "Kitchen Wars.exe", "type": "Game" }
 
@@ -480,6 +483,10 @@
 
 # Krunker https://store.steampowered.com/app/1408720/Krunker/
 { "name": "Official Krunker.io Client.exe", "type": "Game" }
+
+# Krush Kill ‘N Destroy 2: Krossfire https://store.steampowered.com/app/1292180/Krush_Kill_N_Destroy_2_Krossfire/
+{ "name": "kknd2.exe", "type": "Game" }
+{ "name": "KKND2.exe", "type": "Game" }
 
 # Kukoro: Stream chat games https://store.steampowered.com/app/1166990/Kukoro_Stream_chat_games/
 { "name": "Kukoro Stream chat games.exe", "type": "Game" }

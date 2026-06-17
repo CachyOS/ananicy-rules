@@ -62,6 +62,9 @@
 # A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
 { "name": "A Game About Feeding A Black Hole.x86_64", "type": "Game" }
 
+# Age of Conquest IV https://store.steampowered.com/app/314970/Age_of_Conquest_IV/
+{ "name": "app_main", "type": "Game" }
+
 # Age of Wonders III https://store.steampowered.com/app/226840/Age_of_Wonders_III/
 { "name": "AoW3Launcher.run", "type": "BG_CPUIO" }
 { "name": "AoW3Launcher", "type": "BG_CPUIO" }
