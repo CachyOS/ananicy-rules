@@ -32,6 +32,9 @@
 # Salt https://store.steampowered.com/app/327860/Salt/
 { "name": "Salt.x86", "type": "Game" }
 
+# SuperTux https://store.steampowered.com/app/1572920/SuperTux/
+{ "name": "SuperTux.AppImage", "type": "Game" }
+
 # Salt and Sanctuary https://store.steampowered.com/app/283640/Salt_and_Sanctuary/
 { "name": "SaltAndSanctuary", "type": "Game" }
 
