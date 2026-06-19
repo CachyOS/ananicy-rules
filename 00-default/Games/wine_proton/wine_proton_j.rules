@@ -35,9 +35,6 @@
 { "name": "JaggedAllianceBIA.exe", "type": "Game" }
 { "name": "GameJABiA.exe", "type": "Game" }
 
-# Junkyard Truck https://store.steampowered.com/app/1697880/Junkyard_Truck/
-{ "name": "JunkyardTruck.exe", "type": "Game" }
-
 # Jalopy https://store.steampowered.com/app/446020/Jalopy/
 { "name": "Jalopy.exe", "type": "Game" }
 
@@ -158,6 +155,9 @@
 # Junkyard Simulator https://store.steampowered.com/app/671970/Junkyard_Simulator/
 { "name": "JunkYard.exe", "type": "Game" }
 { "name": "JunkYard-Win64-Shipping.exe", "type": "Game" }
+
+# Junkyard Truck https://store.steampowered.com/app/1697880/Junkyard_Truck/
+{ "name": "JunkyardTruck.exe", "type": "Game" }
 
 # Juno: New Origins https://store.steampowered.com/app/870200/Juno_New_Origins/
 { "name": "SimpleRockets2.exe", "type": "Game" }

@@ -201,9 +201,6 @@
 # Legend Creatures(传奇生物) https://store.steampowered.com/app/1191840/Legend_Creatures/
 { "name": "win.exe", "type": "Game" }
 
-# Lost in Random: The Eternal Die https://store.steampowered.com/app/2564520/Lost_in_Random_The_Eternal_Die/
-{ "name": "TheEternalDie.exe", "type": "Game" }
-
 # Legend of Dungeon https://store.steampowered.com/app/238280/Legend_of_Dungeon/
 { "name": "LegendofDungeon.exe", "type": "Game" }
 { "name": "LegendofDungeon_DirectToRift.exe", "type": "Game" }
@@ -741,6 +738,9 @@
 
 # Lost in Random https://store.steampowered.com/app/1462570/Lost_in_Random/
 { "name": "Lost In Random.exe", "type": "Game" }
+
+# Lost in Random: The Eternal Die https://store.steampowered.com/app/2564520/Lost_in_Random_The_Eternal_Die/
+{ "name": "TheEternalDie.exe", "type": "Game" }
 
 # Lost Judgment https://store.steampowered.com/app/2058190/Lost_Judgment/
 { "name": "LostJudgment.exe", "type": "Game" }

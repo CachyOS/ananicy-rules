@@ -9,10 +9,6 @@
 # 1根香腸走江湖 https://store.steampowered.com/app/4172690/1/
 { "name": "lycq_gat.exe", "type": "Game" }
 
-# 9-Bit Armies: A Bit Too Far https://store.steampowered.com/app/1439750/9Bit_Armies_A_Bit_Too_Far/
-{ "name": "ClientLauncherG64.exe", "type": "Game" }
-{ "name": "ClientLauncherR64.exe", "type": "Game" }
-
 # 10,000,000 https://store.steampowered.com/app/227580/10000000/
 { "name": "10000000.exe", "type": "Game" }
 
@@ -159,6 +155,10 @@
 # 93, Kuindzhi https://store.steampowered.com/app/4275420/93_Kuindzhi/
 { "name": "K93.exe", "type": "Game" }
 { "name": "HorrorEngineSE93-Win64-Shipping.exe", "type": "Game" }
+
+# 9-Bit Armies: A Bit Too Far https://store.steampowered.com/app/1439750/9Bit_Armies_A_Bit_Too_Far/
+{ "name": "ClientLauncherG64.exe", "type": "Game" }
+{ "name": "ClientLauncherR64.exe", "type": "Game" }
 
 # 9 Clues: The Secret of Serpent Creek https://store.steampowered.com/app/284870/9_Clues_The_Secret_of_Serpent_Creek/
 { "name": "NineClues.exe", "type": "Game" }

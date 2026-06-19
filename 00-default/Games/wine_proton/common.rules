@@ -78,6 +78,10 @@
 # Anomaly Zone https://store.steampowered.com/app/1157250/Anomaly_Zone/
 { "name": "AnomalyZone.exe", "type": "Game" }
 
+# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
+# Age of Wonders https://store.steampowered.com/app/61500/Age_of_Wonders/
+{ "name": "AoW.exe", "type": "Game" }
+
 # Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
 # AMEDAMA https://store.steampowered.com/app/2411980/AMEDAMA/
 # SaveSync https://store.steampowered.com/app/3832010/SaveSync_Coop_Save_Sharing_Made_Easy/
@@ -256,6 +260,10 @@
 # 1.76复古沉默 https://store.steampowered.com/app/4687470/176/
 # Fēng shén chuánqí 封神传奇 https://store.steampowered.com/app/3725850/_/
 { "name": "Client.exe", "type": "Game" }
+
+# 9-Bit Armies: A Bit Too Far https://store.steampowered.com/app/1439750/9Bit_Armies_A_Bit_Too_Far/
+# The Great War: Western Front https://store.steampowered.com/app/2109370/The_Great_War_Western_Front/
+{ "name": "ClientG64.exe", "type": "Game" }
 
 # Tree of Savior (Japanese Ver.) https://store.steampowered.com/app/1175730/
 # Tree of Savior (English Ver.) https://store.steampowered.com/app/372000/Tree_of_Savior_English_Ver/
@@ -2453,14 +2461,6 @@
 # Windrose https://store.steampowered.com/app/3041230/Windrose/
 # Windrose Dedicated Server https://store.steampowered.com/app/4129620/
 { "name": "WindroseServer-Win64-Shipping.exe", "type": "Service" }
-
-# 9-Bit Armies: A Bit Too Far https://store.steampowered.com/app/1439750/9Bit_Armies_A_Bit_Too_Far/
-# The Great War: Western Front https://store.steampowered.com/app/2109370/The_Great_War_Western_Front/
-{ "name": "ClientG64.exe", "type": "Game" }
-
-# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
-# Age of Wonders https://store.steampowered.com/app/61500/Age_of_Wonders/
-{ "name": "AoW.exe", "type": "Game" }
 
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
