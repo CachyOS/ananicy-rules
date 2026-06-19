@@ -1290,6 +1290,7 @@
 # Huànxiǎng shényù - yuán shén qǐdòng 幻想神域 - 源神啟動 https://store.steampowered.com/app/3473500/Aura_Kingdom__Impact/
 # Eden Eternal https://store.steampowered.com/app/2229260/Eden_Eternal/
 # Headquarters: World War II https://store.steampowered.com/app/1840800/Headquarters_World_War_II/
+# Age of Wonders https://store.steampowered.com/app/61500/Age_of_Wonders/
 { "name": "Launcher.exe", "type": "Game" }
 
 # 7,62 Hard Life https://store.steampowered.com/app/306290/762_Hard_Life/
@@ -1670,6 +1671,7 @@
 
 # The Planet Crafter https://store.steampowered.com/app/1284190/The_Planet_Crafter/
 # The Planet Crafter Demo https://store.steampowered.com/app/1754850/The_Planet_Crafter/
+# The Planet Crafter: Prologue https://store.steampowered.com/app/1830840/The_Planet_Crafter_Prologue/
 { "name": "Planet Crafter.exe", "type": "Game" }
 
 # The Witch & The 66 Mushrooms https://store.steampowered.com/app/891170/The_Witch__The_66_Mushrooms/
@@ -2451,6 +2453,14 @@
 # Windrose https://store.steampowered.com/app/3041230/Windrose/
 # Windrose Dedicated Server https://store.steampowered.com/app/4129620/
 { "name": "WindroseServer-Win64-Shipping.exe", "type": "Service" }
+
+# 9-Bit Armies: A Bit Too Far https://store.steampowered.com/app/1439750/9Bit_Armies_A_Bit_Too_Far/
+# The Great War: Western Front https://store.steampowered.com/app/2109370/The_Great_War_Western_Front/
+{ "name": "ClientG64.exe", "type": "Game" }
+
+# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
+# Age of Wonders https://store.steampowered.com/app/61500/Age_of_Wonders/
+{ "name": "AoW.exe", "type": "Game" }
 
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/

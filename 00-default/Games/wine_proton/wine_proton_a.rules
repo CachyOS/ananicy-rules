@@ -58,9 +58,7 @@
 { "name": "The ABC Murders.exe", "type": "Game" }
 
 # Age of Wonders https://store.steampowered.com/app/61500/Age_of_Wonders/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "aowEd.exe", "type": "Game" }
-{ "name": "AoW.exe", "type": "Game" }
 { "name": "AoWCompat.exe", "type": "Game" }
 { "name": "AoWEd.exe", "type": "Game" }
 
@@ -304,9 +302,6 @@
 
 # Age of Reforging: The Freelands https://store.steampowered.com/app/1161830/Age_of_Reforging_The_Freelands/
 { "name": "Age of Reforging The Freelands.exe", "type": "Game" }
-
-# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
-{ "name": "AoW.exe", "type": "Game" }
 
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
 { "name": "Paradox Launcher.exe", "type": "BG_CPUIO" }
