@@ -148,6 +148,9 @@
 # Adventures of Shuggy https://store.steampowered.com/app/211440/Adventures_of_Shuggy/
 { "name": "Shuggy.exe", "type": "Game" }
 
+# Adventure Time: Pirates of the Enchiridion https://store.steampowered.com/app/728240/Adventure_Time_Pirates_of_the_Enchiridion/
+{ "name": "Adventure Time Pirates of the Enchiridion.exe", "type": "Game" }
+
 # Aeon Must Die! https://store.steampowered.com/app/1089930/Aeon_Must_Die/
 { "name": "AeonMustDie-Win64-Shipping.exe", "type": "Game" }
 
@@ -236,6 +239,9 @@
 # Agatha Christie - Murder on the Orient Express https://store.steampowered.com/app/1904790/Agatha_Christie__Murder_on_the_Orient_Express/
 { "name": "Agatha Christie - Murder on the Orient Express.exe", "type": "Game" }
 
+# Agatha Christie - The ABC Murders https://store.steampowered.com/app/374900/Agatha_Christie__The_ABC_Murders/
+{ "name": "The ABC Murders.exe", "type": "Game" }
+
 # Ageless https://store.steampowered.com/app/1210150/Ageless/
 { "name": "Ageless.exe", "type": "Game" }
 
@@ -289,8 +295,10 @@
 # Age of Reforging: The Freelands https://store.steampowered.com/app/1161830/Age_of_Reforging_The_Freelands/
 { "name": "Age of Reforging The Freelands.exe", "type": "Game" }
 
-# Age of Water https://store.steampowered.com/app/2695490/Age_of_Water/
-{ "name": "AoW.exe", "type": "Game" }
+# Age of Wonders https://store.steampowered.com/app/61500/Age_of_Wonders/
+{ "name": "aowEd.exe", "type": "Game" }
+{ "name": "AoWCompat.exe", "type": "Game" }
+{ "name": "AoWEd.exe", "type": "Game" }
 
 # Age of Wonders 4 https://store.steampowered.com/app/1669000/Age_of_Wonders_4/
 { "name": "Paradox Launcher.exe", "type": "BG_CPUIO" }
@@ -1233,6 +1241,9 @@
 # Assetto Corsa Rally, https://store.steampowered.com/app/3917090/Assetto_Corsa_Rally/
 { "name": "acr.exe", "type": "Game" }
 { "name": "GameThread.exe", "type": "Game" }
+
+# Astalon: Tears of the Earth https://store.steampowered.com/app/1046400/Astalon_Tears_of_the_Earth/
+{ "name": "Astalon.exe", "type": "Game" }
 
 # Astebreed: Definitive Edition https://store.steampowered.com/app/283680/Astebreed_Definitive_Edition/
 { "name": "Astebreed.exe", "type": "Game" }

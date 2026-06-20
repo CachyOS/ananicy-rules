@@ -802,6 +802,10 @@
 # City Car Driving https://store.steampowered.com/app/493490/City_Car_Driving/
 { "name": "Starter.exe", "type": "Game" }
 
+# City Car Driving 2.0 https://store.steampowered.com/app/2327720/City_Car_Driving_20/
+{ "name": "CityCarDriving2.exe", "type": "Game" }
+{ "name": "CityCarDriving2-Win64-Shipping.exe", "type": "Game" }
+
 # City Game Studio https://store.steampowered.com/app/726840/City_Game_Studio_Your_Game_Dev_Adventure_Begins/
 { "name": "CityGameStudio64.exe", "type": "Game" }
 { "name": "CityGameStudio32.exe", "type": "Game" }
@@ -825,6 +829,9 @@
 # City Transport Simulator 2026 https://store.steampowered.com/app/4148530/City_Transport_Simulator_2026/
 { "name": "CityTransportSim.exe", "type": "Game" }
 { "name": "CityTransportSim-Win64-Shipping.exe", "type": "Game" }
+
+# CivCity: Rome https://store.steampowered.com/app/3980/CivCity_Rome/
+{ "name": "CivCity Rome.exe", "type": "Game" }
 
 # CivIdle https://store.steampowered.com/app/2181940/CivIdle/
 { "name": "cividle.exe", "type": "Game" }
@@ -884,6 +891,9 @@
 
 # Clicker Kids https://store.steampowered.com/app/4355950/Clicker_Kids/
 { "name": "Clicker Kids.exe", "type": "Game" }
+
+# Click Mage https://store.steampowered.com/app/3228180/Click_Mage/
+{ "name": "ClickMage.exe", "type": "Game" }
 
 # CLICKOLDING https://store.steampowered.com/app/3011440/CLICKOLDING/
 { "name": "Clickold.exe", "type": "Game" }

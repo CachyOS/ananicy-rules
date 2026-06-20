@@ -62,6 +62,9 @@
 # A Game About Feeding A Black Hole https://store.steampowered.com/app/3694480/A_Game_About_Feeding_A_Black_Hole/
 { "name": "A Game About Feeding A Black Hole.x86_64", "type": "Game" }
 
+# Agatha Christie - The ABC Murders https://store.steampowered.com/app/374900/Agatha_Christie__The_ABC_Murders/
+{ "name": "The ABC Murders.x86", "type": "Game" }
+
 # Age of Conquest IV https://store.steampowered.com/app/314970/Age_of_Conquest_IV/
 { "name": "app_main", "type": "Game" }
 
@@ -251,6 +254,9 @@
 
 # AssaultCube https://assault.cubers.net/
 { "name": "linux_64_client", "type": "Game" }
+
+# Astalon: Tears of the Earth https://store.steampowered.com/app/1046400/Astalon_Tears_of_the_Earth/
+{ "name": "Astalon.x86_64", "type": "Game" }
 
 # Asteroids ++ https://store.steampowered.com/app/2407300/Asteroids/
 { "name": "Asteroids___", "type": "Game" }
