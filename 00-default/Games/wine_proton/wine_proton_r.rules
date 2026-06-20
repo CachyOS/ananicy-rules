@@ -506,6 +506,10 @@
 { "name": "RestAreaSimulator.exe", "type": "Game" }
 { "name": "RestAreaSimulator-Win64-Shipping.exe", "type": "Game" }
 
+# Retrocycles https://store.steampowered.com/app/1306180/Retrocycles/
+{ "name": "Retrocycles.exe", "type": "Game" }
+{ "name": "Retrocycles_Dedicated.exe", "type": "Service" }
+
 # Restaurant Owner: A Restaurant Simulator https://store.steampowered.com/app/3177280/Restaurant_Owner_A_Restaurant_Simulator/
 { "name": "Restaurant Owner - A Restaurant Simulator.exe", "type": "Game" }
 

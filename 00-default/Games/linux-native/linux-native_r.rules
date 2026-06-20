@@ -38,6 +38,10 @@
 # Receiver https://store.steampowered.com/app/234190/Receiver/
 { "name": "receiver", "type": "Game" }
 
+# Retrocycles https://store.steampowered.com/app/1306180/Retrocycles/
+{ "name": "Retrocycles", "type": "Game" }
+{ "name": "Retrocycles_Dedicated", "type": "Service" }
+
 # Receiver 2 https://store.steampowered.com/app/1129310/Receiver_2/
 { "name": "Receiver2", "type": "Game" }
 
