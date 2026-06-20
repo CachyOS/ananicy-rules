@@ -1404,6 +1404,10 @@
 # Snakecremental https://store.steampowered.com/app/3570430/Snakecremental/
 { "name": "Snakecremental.exe", "type": "Game" }
 
+# Snake Pass https://store.steampowered.com/app/544330/Snake_Pass/
+{ "name": "SnakePass.exe", "type": "Game" }
+{ "name": "SnakePass-Win64-Shipping.exe", "type": "Game" }
+
 # Sneak Out https://store.steampowered.com/app/2410490/Sneak_Out/
 { "name": "Sneak Out.exe", "type": "Game" }
 
@@ -1643,16 +1647,6 @@
 
 # Sons Of The Forest https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/
 { "name": "SonsOfTheForest.exe", "type": "Game" }
-
-# Snake Pass https://store.steampowered.com/app/544330/Snake_Pass/
-{ "name": "SnakePass.exe", "type": "Game" }
-{ "name": "SnakePass-Win64-Shipping.exe", "type": "Game" }
-
-# Stash https://store.steampowered.com/app/466660/Stash/
-{ "name": "Stash.exe", "type": "Game" }
-
-# StrikeForce Kitty https://store.steampowered.com/app/745330/StrikeForce_Kitty/
-{ "name": "StrikeForce Kitty.exe", "type": "Game" }
 
 # Sophie: The Girl From The Zone https://store.steampowered.com/app/3224840/
 { "name": "SophieTheGirlFromTheZone.exe", "type": "Game" }
@@ -2324,6 +2318,9 @@
 # STAR WARS: The Old Republic https://store.steampowered.com/app/1286830/STAR_WARS_The_Old_Republic/
 { "name": "swtor.exe", "type": "Game" }
 
+# Stash https://store.steampowered.com/app/466660/Stash/
+{ "name": "Stash.exe", "type": "Game" }
+
 # STASIS: BONE TOTEM https://store.steampowered.com/app/1426010/STASIS_BONE_TOTEM/
 { "name": "STASIS2.exe", "type": "Game" }
 
@@ -2632,6 +2629,9 @@
 
 # Strike Force Heroes https://store.steampowered.com/app/1981820/Strike_Force_Heroes/
 { "name": "Strike Force Heroes.exe", "type": "Game" }
+
+# StrikeForce Kitty https://store.steampowered.com/app/745330/StrikeForce_Kitty/
+{ "name": "StrikeForce Kitty.exe", "type": "Game" }
 
 # Strike Suit Zero https://store.steampowered.com/app/209540/Strike_Suit_Zero/
 { "name": "ssz.exe", "type": "Game" }

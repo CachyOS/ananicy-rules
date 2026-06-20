@@ -717,10 +717,6 @@
 # Tiny Troopers https://store.steampowered.com/app/216110/Tiny_Troopers/
 { "name": "TinyTroopers.exe", "type": "Game" }
 
-# Trail & Error https://store.steampowered.com/app/4322960/Trail__Error/
-{ "name": "TrailNError.exe", "type": "Game" }
-{ "name": "TrailNError-Win64-Shipping.exe", "type": "Game" }
-
 # TIS-100 https://store.steampowered.com/app/370360/TIS100/
 { "name": "tis100.exe", "type": "Game" }
 
@@ -1159,6 +1155,10 @@
 
 # TRADESMAN: Deal to Dealer https://store.steampowered.com/app/2555430/TRADESMAN_Deal_to_Dealer/
 { "name": "Tradesman.exe", "type": "Game" }
+
+# Trail & Error https://store.steampowered.com/app/4322960/Trail__Error/
+{ "name": "TrailNError.exe", "type": "Game" }
+{ "name": "TrailNError-Win64-Shipping.exe", "type": "Game" }
 
 # Trailmakers https://store.steampowered.com/app/585420/Trailmakers/
 { "name": "Trailmakers.exe", "type": "Game" }

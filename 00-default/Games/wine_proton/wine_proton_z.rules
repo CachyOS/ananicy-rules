@@ -60,9 +60,6 @@
 { "name": "ze1.exe", "type": "Game" }
 { "name": "ze2.exe", "type": "Game" }
 
-# Z Steel Soldiers https://store.steampowered.com/app/275510/Z_Steel_Soldiers/
-{ "name": "Z2.exe", "type": "Game" }
-
 # Zero Escape: Zero Time Dilemma https://store.steampowered.com/app/311240/Zero_Escape_Zero_Time_Dilemma/
 { "name": "ZeroEscape-Launcher.exe", "type": "BG_CPUIO" }
 { "name": "Zero Escape.exe", "type": "Game" }
@@ -181,6 +178,9 @@
 
 # Zort https://store.steampowered.com/app/3121110/Zort/
 { "name": "Zort.exe", "type": "Game" }
+
+# Z Steel Soldiers https://store.steampowered.com/app/275510/Z_Steel_Soldiers/
+{ "name": "Z2.exe", "type": "Game" }
 
 # Zula Türkiye https://store.steampowered.com/app/714210/
 { "name": "zula_BE.exe", "type": "Game" }

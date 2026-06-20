@@ -26,9 +26,6 @@
 # Layers of Fear (2016) https://store.steampowered.com/app/391720/Layers_of_Fear_2016/
 { "name": "LOF", "type": "Game" }
 
-# Lost Ruins https://store.steampowered.com/app/1306630/Lost_Ruins/
-{ "name": "LostRuins.x86_64", "type": "Game" }
-
 # Leap of Faith https://store.steampowered.com/app/1768640/
 { "name": "LeapofFaith", "type": "Game" }
 
@@ -122,6 +119,9 @@
 
 # Loop Hero https://store.steampowered.com/app/1282730/Loop_Hero/
 { "name": "Loop_Hero", "type": "Game" }
+
+# Lost Ruins https://store.steampowered.com/app/1306630/Lost_Ruins/
+{ "name": "LostRuins.x86_64", "type": "Game" }
 
 # LOVE https://store.steampowered.com/app/269270/LOVE/
 { "name": "Love", "type": "Game" }

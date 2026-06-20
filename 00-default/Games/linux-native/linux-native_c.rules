@@ -230,9 +230,6 @@
 # Core Keeper https://store.steampowered.com/app/1621690/Core_Keeper/
 { "name": "CoreKeeper", "type": "Game" }
 
-# Creepy Tale 2 https://store.steampowered.com/app/1550510/Creepy_Tale_2/
-{ "name": "CreepyTale2.x86_64", "type": "Game" }
-
 # Core Keeper Dedicated Server https://store.steampowered.com/app/1963720/
 { "name": "CoreKeeperServer", "type": "Service" }
 
@@ -284,6 +281,9 @@
 { "name": "CW3Launch", "type": "BG_CPUIO" }
 { "name": "CW3.x86", "type": "Game" }
 { "name": "CW3.x86_64", "type": "Game" }
+
+# Creepy Tale 2 https://store.steampowered.com/app/1550510/Creepy_Tale_2/
+{ "name": "CreepyTale2.x86_64", "type": "Game" }
 
 # Crimsonland https://store.steampowered.com/app/262830/Crimsonland/
 { "name": "crimsonland", "type": "Game" }

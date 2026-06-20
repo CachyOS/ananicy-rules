@@ -1103,10 +1103,6 @@
 { "name": "dohnadohna.exe", "type": "Game" }
 { "name": "dohnadohna_eng.exe", "type": "Game" }
 
-# Duckoleon https://store.steampowered.com/app/3775510/Duckoleon/
-{ "name": "Duckoleon.exe", "type": "Game" }
-{ "name": "Duckoleon-Win64-Shipping.exe", "type": "Game" }
-
 # Dokapon Kingdom: Connect https://store.steampowered.com/app/2338140/Dokapon_Kingdom_Connect/
 { "name": "DkkStm.exe", "type": "Game" }
 
@@ -1562,6 +1558,10 @@
 
 # Duck Game https://store.steampowered.com/app/312530/Duck_Game/
 { "name": "DuckGame.exe", "type": "Game" }
+
+# Duckoleon https://store.steampowered.com/app/3775510/Duckoleon/
+{ "name": "Duckoleon.exe", "type": "Game" }
+{ "name": "Duckoleon-Win64-Shipping.exe", "type": "Game" }
 
 # Ducks (6 Jul, 2024) https://store.steampowered.com/app/3057940/Ducks/
 { "name": "Ducks.exe", "type": "Game" }

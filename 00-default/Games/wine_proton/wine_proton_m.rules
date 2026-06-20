@@ -50,13 +50,6 @@
 # Mad Max https://store.steampowered.com/app/234140/Mad_Max/
 { "name": "MadMax.exe", "type": "Game" }
 
-# Magi Scapes Demo https://store.steampowered.com/app/3204640/
-{ "name": "GenerativeGame.exe", "type": "Game" }
-{ "name": "GenerativeGame-Win64-Shipping.exe", "type": "Game" }
-
-# Mister Furry https://store.steampowered.com/app/1861970/
-{ "name": "Mister Furry.exe", "type": "Game" }
-
 # MADNESS: Project Nexus https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/
 { "name": "Madness Project Nexus.exe", "type": "Game" }
 
@@ -145,6 +138,10 @@
 
 # Magin: The Rat Project Stories https://store.steampowered.com/app/1205270/Magin_The_Rat_Project_Stories/
 { "name": "Magin The Rat Project Stories.exe", "type": "Game" }
+
+# Magi Scapes Demo https://store.steampowered.com/app/3204640/
+{ "name": "GenerativeGame.exe", "type": "Game" }
+{ "name": "GenerativeGame-Win64-Shipping.exe", "type": "Game" }
 
 # Magnavis Demo https://store.steampowered.com/app/3641260/Magnavis_Demo/
 { "name": "Magnavis.exe", "type": "Game" }
@@ -1025,6 +1022,9 @@
 
 # Miss Neko https://store.steampowered.com/app/1101450/Miss_Neko/
 { "name": "Miss Neko.exe", "type": "Game" }
+
+# Mister Furry https://store.steampowered.com/app/1861970/
+{ "name": "Mister Furry.exe", "type": "Game" }
 
 # Mister Furry: Hot Muscles https://store.steampowered.com/app/1578220/Mister_Furry_Hot_Muscles/
 { "name": "Mister Furry Hot Muscles.exe", "type": "Game" }

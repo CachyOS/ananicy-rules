@@ -67,9 +67,6 @@
 # Half-Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr.exe", "type": "Game" }
 
-# Hentai Killer https://store.steampowered.com/app/1157340/
-{ "name": "Hentai Killer.exe", "type": "Game" }
-
 # Half-Life Deathmatch: Source https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/
 { "name": "hl1mp.exe", "type": "Game" }
 { "name": "hl1mp_win64.exe", "type": "Game" }
@@ -423,6 +420,9 @@
 
 # Hentai Girl https://store.steampowered.com/app/878750/Hentai_Girl/
 { "name": "HentaiGirl.exe", "type": "Game" }
+
+# Hentai Killer https://store.steampowered.com/app/1157340/
+{ "name": "Hentai Killer.exe", "type": "Game" }
 
 # Hentai Police https://store.steampowered.com/app/1198730/
 { "name": "OMON Girl Bottle Royal.exe", "type": "Game" }
