@@ -230,6 +230,13 @@
 # Core Keeper Dedicated Server https://store.steampowered.com/app/1963720/
 { "name": "CoreKeeperServer", "type": "Service" }
 
+# Coloring Voxels https://store.steampowered.com/app/3634590/Coloring_Voxels/
+{ "name": "ColoringVoxels", "type": "Game" }
+
+# Crazy Sapper 3D https://store.steampowered.com/app/529420/Crazy_Sapper_3D/
+{ "name": "Crazy Sapper 3D.x86_64", "type": "Game" }
+{ "name": "Crazy Sapper 3D.x86", "type": "Game" }
+
 # Corpse Party (2021) https://store.steampowered.com/app/1273260/Corpse_Party_2021/
 { "name": "CorpseParty.x64", "type": "Game" }
 
