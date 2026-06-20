@@ -244,9 +244,6 @@
 # Ghost Exile https://store.steampowered.com/app/1807080/Ghost_Exile/
 { "name": "GhostExile.exe", "type": "Game" }
 
-# Ghost Janitors https://store.steampowered.com/app/2772990/Ghost_Janitors/
-{ "name": "Ghost Janitors.exe", "type": "Game" }
-
 # Ghost of a Tale https://store.steampowered.com/app/417290/Ghost_of_a_Tale/
 { "name": "GoaT.exe", "type": "Game" }
 
@@ -299,6 +296,12 @@
 # Girls' Frontline https://store.steampowered.com/app/3887700/Girls_Frontline/
 { "name": "GirlsFrontLine.exe", "type": "Game" }
 
+# Girls! Girls! Girls!? https://store.steampowered.com/app/1412310/
+{ "name": "Girls! Girls! Girls!.exe", "type": "Game" }
+
+# Gladiator Command https://store.steampowered.com/app/3845450/Gladiator_Command/
+{ "name": "GladiatorCommand.exe", "type": "Game" }
+
 # Gladiator Guild Manager https://store.steampowered.com/app/1043260/Gladiator_Guild_Manager/
 { "name": "Gladiator Manager.exe", "type": "Game" }
 
@@ -307,6 +310,9 @@
 
 # Glass Masquerade 2: Illusions https://store.steampowered.com/app/935880/Glass_Masquerade_2_Illusions/
 { "name": "Illusions.exe", "type": "Game" }
+
+# Glimvale: My Mini Overworld https://store.steampowered.com/app/3403590/Glimvale__My_Mini_Overworld/
+{ "name": "Glimvale My Mini Overworld.exe", "type": "Game" }
 
 # Global City https://store.steampowered.com/app/1731270/Global_City/
 { "name": "City64.exe", "type": "Game" }
@@ -378,6 +384,12 @@
 # Goblin Nest https://store.steampowered.com/app/3782910/
 { "name": "GoblinNest.exe", "type": "Game" }
 
+# Goblin Nest Demo https://store.steampowered.com/app/4052300/
+{ "name": "GoblinNestDemo_v1.08.exe", "type": "Game" }
+
+# Goblin Sushi https://store.steampowered.com/app/3734290/Goblin_Sushi/
+{ "name": "SushiRoguelike.exe", "type": "Game" }
+
 # Goblin Vyke: The Thief Tycoon https://store.steampowered.com/app/3794610/Goblin_Vyke_The_Thief_Tycoon/
 { "name": "GoblinVyke.exe", "type": "Game" }
 
@@ -431,6 +443,9 @@
 # Godus https://store.steampowered.com/app/232810/Godus/
 { "name": "Godus.exe", "type": "Game" }
 { "name": "godus.exe", "type": "Game" }
+
+# Godzilla x Kong: Titan Chasers https://store.steampowered.com/app/3670140/Godzilla_x_Kong_Titan_Chasers/
+{ "name": "GxKTitanChasers.exe", "type": "Game" }
 
 # gogh: Focus with Your Avatar https://store.steampowered.com/app/3213850/gogh_Focus_with_Your_Avatar/
 { "name": "gogh.exe", "type": "Game" }
@@ -497,6 +512,9 @@
 { "name": "Goobies_DX11.exe", "type": "Game" }
 { "name": "Shooter-Win64-Shipping.exe", "type": "Game" }
 
+# GooCubelets: The Void https://store.steampowered.com/app/505440/
+{ "name": "GooCubelets The Void.exe", "type": "Game" }
+
 # Goodbye Deponia https://store.steampowered.com/app/241910/Goodbye_Deponia/
 { "name": "Deponia3.exe", "type": "Game" }
 
@@ -550,36 +568,6 @@
 
 # Gotham Knights https://store.steampowered.com/app/1496790/Gotham_Knights/
 { "name": "GothamKnights.exe", "type": "Game" }
-
-# GooCubelets: The Void https://store.steampowered.com/app/505440/
-{ "name": "GooCubelets The Void.exe", "type": "Game" }
-
-# Ghost Janitors Demo https://store.steampowered.com/app/2880880/
-{ "name": "Ghost Janitors.exe", "type": "Game" }
-
-# Girls! Girls! Girls!? https://store.steampowered.com/app/1412310/
-{ "name": "Girls! Girls! Girls!.exe", "type": "Game" }
-
-# Gladiator Command https://store.steampowered.com/app/3845450/Gladiator_Command/
-{ "name": "GladiatorCommand.exe", "type": "Game" }
-
-# Glimvale: My Mini Overworld https://store.steampowered.com/app/3403590/Glimvale__My_Mini_Overworld/
-{ "name": "Glimvale My Mini Overworld.exe", "type": "Game" }
-
-# Goblin Nest Demo https://store.steampowered.com/app/4052300/
-{ "name": "GoblinNestDemo_v1.08.exe", "type": "Game" }
-
-# Goblin Sushi https://store.steampowered.com/app/3734290/Goblin_Sushi/
-{ "name": "SushiRoguelike.exe", "type": "Game" }
-
-# Godzilla x Kong: Titan Chasers https://store.steampowered.com/app/3670140/Godzilla_x_Kong_Titan_Chasers/
-{ "name": "GxKTitanChasers.exe", "type": "Game" }
-
-# Graphwar https://store.steampowered.com/app/1899700/Graphwar/
-{ "name": "graphwar.exe", "type": "Game" }
-
-# Gun Crazy https://store.steampowered.com/app/897640/Gun_Crazy/
-{ "name": "Gun Crazy.exe", "type": "Game" }
 
 # Gothic 1 https://store.steampowered.com/app/65540/Gothic_1/
 { "name": "GOTHIC.EXE", "type": "Game" }
@@ -705,6 +693,9 @@
 
 # Granvir https://store.steampowered.com/app/2743460/Granvir/
 { "name": "Granvir.exe", "type": "Game" }
+
+# Graphwar https://store.steampowered.com/app/1899700/Graphwar/
+{ "name": "graphwar.exe", "type": "Game" }
 
 # Grapples Galore https://store.steampowered.com/app/2239140/Grapples_Galore/
 { "name": "Grapples Galore.exe", "type": "Game" }
@@ -909,6 +900,9 @@
 # Guncraft https://store.steampowered.com/app/241720/Guncraft/
 { "name": "GunCraft.exe", "type": "Game" }
 { "name": "Guncraft.exe", "type": "Game" }
+
+# Gun Crazy https://store.steampowered.com/app/897640/Gun_Crazy/
+{ "name": "Gun Crazy.exe", "type": "Game" }
 
 # GUNDAM BREAKER 4 https://store.steampowered.com/app/1672500/GUNDAM_BREAKER_4/
 { "name": "GB4.exe", "type": "Game" }

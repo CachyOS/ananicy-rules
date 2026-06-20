@@ -37,13 +37,6 @@
 # Kakele Online - MMORPG https://store.steampowered.com/app/1541020/Kakele_Online__MMORPG/
 { "name": "kakele.exe", "type": "Game" }
 
-# Killer: Infected One of Us https://store.steampowered.com/app/1453840/Killer_Infected_One_of_Us/
-{ "name": "KillerInfectedOU.exe", "type": "Game" }
-{ "name": "KillerInfectedOU-Win64-Shipping.exe", "type": "Game" }
-
-# King's Orders https://store.steampowered.com/app/1369690/Kings_Orders/
-{ "name": "King's Orders.exe", "type": "Game" }
-
 # Kaku Ancient Seal https://store.steampowered.com/app/1179580/KAKU_Ancient_Seal/
 { "name": "KakuAncientSeal_protected.exe", "type": "Game" }
 
@@ -219,6 +212,10 @@
 # Killer Frequency https://store.steampowered.com/app/1903620/Killer_Frequency/
 { "name": "KillerFrequency.exe", "type": "Game" }
 
+# Killer: Infected One of Us https://store.steampowered.com/app/1453840/Killer_Infected_One_of_Us/
+{ "name": "KillerInfectedOU.exe", "type": "Game" }
+{ "name": "KillerInfectedOU-Win64-Shipping.exe", "type": "Game" }
+
 # KILLER INN https://store.steampowered.com/app/1598230/KILLER_INN/
 { "name": "Killer Inn.exe", "type": "Game" }
 
@@ -367,6 +364,9 @@
 
 # King's Bounty: Warriors of the North https://store.steampowered.com/app/203350/Kings_Bounty_Warriors_of_the_North/
 { "name": "KBWotN.exe", "type": "Game" }
+
+# King's Orders https://store.steampowered.com/app/1369690/Kings_Orders/
+{ "name": "King's Orders.exe", "type": "Game" }
 
 # King's Quest https://store.steampowered.com/app/345390/Kings_Quest/
 { "name": "KingsQuest.exe", "type": "Game" }

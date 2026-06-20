@@ -548,20 +548,6 @@
 # Septerra Core https://store.steampowered.com/app/253940/Septerra_Core/
 { "name": "septerra.exe", "type": "Game" }
 
-# SEX Prison [18+] https://store.steampowered.com/app/1770380/
-{ "name": "FakePrison.exe", "type": "Game" }
-
-# Sonic Racing: CrossWorlds Demo https://store.steampowered.com/app/3601140/Sonic_Racing_CrossWorlds_Demo/
-{ "name": "SonicRacingCrossWorldsDemo.exe", "type": "Game" }
-{ "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
-
-# Speedball https://store.steampowered.com/app/1795190/Speedball/
-{ "name": "Speedball.exe", "type": "Game" }
-{ "name": "Speedball-Win64-Shipping.exe", "type": "Game" }
-
-# Sunset Summit Demo https://store.steampowered.com/app/3955340/Sunset_Summit_Demo/
-{ "name": "Sunset Summit.exe", "type": "Game" }
-
 # Seraph's Last Stand https://store.steampowered.com/app/1919460/Seraphs_Last_Stand/
 { "name": "Seraph's Last Stand.exe", "type": "Game" }
 
@@ -653,6 +639,9 @@
 # Sex, Please https://store.steampowered.com/app/2608620/
 { "name": "SexPlease.exe", "type": "Game" }
 { "name": "SexPlease-Win64-Shipping.exe", "type": "Game" }
+
+# SEX Prison [18+] https://store.steampowered.com/app/1770380/
+{ "name": "FakePrison.exe", "type": "Game" }
 
 # Sex, Secrets & Used Tech Demo https://store.steampowered.com/app/3709920/
 { "name": "ElectronicsThriftStore.exe", "type": "Game" }
@@ -1626,7 +1615,9 @@
 
 # Sonic Racing: Crossworlds https://store.steampowered.com/app/2486820/Sonic_Racing_CrossWorlds/
 { "name": "SonicRacingCrossWorlds.exe", "type": "Game" }
-{ "name": "SonicRacingCrossWorldsSteam.exe", "type": "Game" }
+
+# Sonic Racing: CrossWorlds Demo https://store.steampowered.com/app/3601140/Sonic_Racing_CrossWorlds_Demo/
+{ "name": "SonicRacingCrossWorldsDemo.exe", "type": "Game" }
 
 # Sonic Rumble https://store.steampowered.com/app/2951690/Sonic_Rumble_Party/
 { "name": "SonicRumble.exe", "type": "Game" }
@@ -1822,6 +1813,10 @@
 
 # SpedV https://store.steampowered.com/app/839200/SpedV/
 { "name": "FPH SpedV.exe", "type": "Game" }
+
+# Speedball https://store.steampowered.com/app/1795190/Speedball/
+{ "name": "Speedball.exe", "type": "Game" }
+{ "name": "Speedball-Win64-Shipping.exe", "type": "Game" }
 
 # Speed Kills https://store.steampowered.com/app/284930/Speed_Kills/
 { "name": "SKGame.exe", "type": "Game" }
@@ -2825,6 +2820,9 @@
 
 # Sunset Overdrive https://store.steampowered.com/app/847370/Sunset_Overdrive/
 { "name": "Sunset.exe", "type": "Game" }
+
+# Sunset Summit Demo https://store.steampowered.com/app/3955340/Sunset_Summit_Demo/
+{ "name": "Sunset Summit.exe", "type": "Game" }
 
 # Super Alloy Crush https://store.steampowered.com/app/3092360/Super_Alloy_Crush/
 { "name": "Super Alloy Crush.exe", "type": "Game" }

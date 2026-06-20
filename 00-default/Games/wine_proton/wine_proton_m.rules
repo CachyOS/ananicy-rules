@@ -50,12 +50,6 @@
 # Mad Max https://store.steampowered.com/app/234140/Mad_Max/
 { "name": "MadMax.exe", "type": "Game" }
 
-# Mainframe Defenders https://store.steampowered.com/app/1184810/Mainframe_Defenders/
-{ "name": "Mainframe.exe", "type": "Game" }
-
-# MoteMancer https://store.steampowered.com/app/3320980/MoteMancer/
-{ "name": "MoteMancer.exe", "type": "Game" }
-
 # MADNESS: Project Nexus https://store.steampowered.com/app/488860/MADNESS_Project_Nexus/
 { "name": "Madness Project Nexus.exe", "type": "Game" }
 
@@ -161,6 +155,9 @@
 
 # Mail Time https://store.steampowered.com/app/1607240/Mail_Time/
 { "name": "MailTime.exe", "type": "Game" }
+
+# Mainframe Defenders https://store.steampowered.com/app/1184810/Mainframe_Defenders/
+{ "name": "Mainframe.exe", "type": "Game" }
 
 # Mainichi Kiss Shite Lolita https://www.mobygames.com/game/246927/lolita-kiss-me-everyday/
 { "name": "lol7.exe", "type": "Game" }
@@ -1380,6 +1377,9 @@
 # Motel Manager Simulator https://store.steampowered.com/app/2594540/Motel_Manager_Simulator/
 { "name": "MotelSim.exe", "type": "Game" }
 { "name": "MotelSim-Win64-Shipping.exe", "type": "Game" }
+
+# MoteMancer https://store.steampowered.com/app/3320980/MoteMancer/
+{ "name": "MoteMancer.exe", "type": "Game" }
 
 # MOTHERGUNSHIP https://store.steampowered.com/app/574090/MOTHERGUNSHIP/
 { "name": "TowerOfGuns2.exe", "type": "Game" }

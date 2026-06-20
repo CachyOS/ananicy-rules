@@ -216,10 +216,6 @@
 { "name": "dod.exe", "type": "Game" }
 { "name": "dod_win64.exe", "type": "Game" }
 
-# Day of Dragons https://store.steampowered.com/app/1088090/Day_of_Dragons/
-{ "name": "Dragons.exe", "type": "Game" }
-{ "name": "Dragons-Win64-Shipping.exe", "type": "Game" }
-
 # Day of Infamy https://store.steampowered.com/app/447820/Day_of_Infamy/
 { "name": "dayofinfamy_x64.exe", "type": "Game" }
 { "name": "dayofinfamy.exe", "type": "Game" }
@@ -1103,13 +1099,6 @@
 { "name": "DogsOfWar.exe", "type": "Game" }
 { "name": "DogsOfWar_Master.exe", "type": "Game" }
 
-# Dragons Legacy https://store.steampowered.com/app/2520410/Dragons_Legacy/
-{ "name": "Dragons.exe", "type": "Game" }
-{ "name": "Dragons-Win64-Shipping.exe", "type": "Game" }
-
-# Dusk City https://store.steampowered.com/app/2973120/Dusk_City/
-{ "name": "Dusk City.exe", "type": "Game" }
-
 # Dohna Dohna ~ Let’s Do Bad Things Together https://www.johren.games/games/download/dohna-dohna-en/
 { "name": "dohnadohna.exe", "type": "Game" }
 { "name": "dohnadohna_eng.exe", "type": "Game" }
@@ -1736,6 +1725,9 @@
 # DUSK https://store.steampowered.com/app/519860/DUSK/
 { "name": "DUSK.exe", "type": "Game" }
 { "name": "Duskworld.exe", "type": "Game" }
+
+# Dusk City https://store.steampowered.com/app/2973120/Dusk_City/
+{ "name": "Dusk City.exe", "type": "Game" }
 
 # Duskers https://store.steampowered.com/app/254320/Duskers/
 { "name": "Duskers.exe", "type": "Game" }

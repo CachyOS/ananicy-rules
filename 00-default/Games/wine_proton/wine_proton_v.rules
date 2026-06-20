@@ -307,9 +307,6 @@
 # Void War https://store.steampowered.com/app/2853590/Void_War/
 { "name": "Void War.exe", "type": "Game" }
 
-# VTuber Maker https://store.steampowered.com/app/1368950/VTuber_Maker/
-{ "name": "VTuber Maker.exe", "type": "Game" }
-
 # Voidwrought https://store.steampowered.com/app/2014550/Voidwrought/
 { "name": "Voidwrought.exe", "type": "Game" }
 
@@ -400,6 +397,9 @@
 
 # VTOL VR Mod Loader https://store.steampowered.com/app/3018410/VTOL_VR_Mod_Loader/
 { "name": "Mod Manager.exe", "type": "BG_CPUIO" }
+
+# VTuber Maker https://store.steampowered.com/app/1368950/VTuber_Maker/
+{ "name": "VTuber Maker.exe", "type": "Game" }
 
 # VTube Studio https://store.steampowered.com/app/1325860/VTube_Studio/
 { "name": "VTube Studio.exe", "type": "BG_CPUIO" }

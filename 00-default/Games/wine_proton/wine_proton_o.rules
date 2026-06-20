@@ -36,12 +36,6 @@
 # Octogeddon https://store.steampowered.com/app/525620/Octogeddon/
 { "name": "octogeddon.exe", "type": "Game" }
 
-# Odd Realm https://store.steampowered.com/app/688060/Odd_Realm/
-{ "name": "OddRealm.exe", "type": "Game" }
-
-# Only Furry 18+ https://store.steampowered.com/app/1968820/
-{ "name": "Only Furry.exe", "type": "Game" }
-
 # OCTOPATH TRAVELER https://store.steampowered.com/app/921570/OCTOPATH_TRAVELER/
 { "name": "Octopath_Traveler-Win64-Shipping.exe", "type": "Game" }
 { "name": "Octopath_Traveler.exe", "type": "Game" }
@@ -55,6 +49,9 @@
 
 # ODDCORE https://store.steampowered.com/app/2896260/ODDCORE/
 { "name": "ODDCORE.exe", "type": "Game" }
+
+# Odd Realm https://store.steampowered.com/app/688060/Odd_Realm/
+{ "name": "OddRealm.exe", "type": "Game" }
 
 # Oddsparks: An Automation Adventure https://store.steampowered.com/app/1817800/Oddsparks_An_Automation_Adventure/
 { "name": "Oddsparks.exe", "type": "Game" }
@@ -253,6 +250,9 @@
 # Only Climb: Better Together https://store.steampowered.com/app/2500750/Only_Climb_Better_Together/
 { "name": "ocbt.exe", "type": "Game" }
 { "name": "onlyclimbtogether-Win64-Shipping.exe", "type": "Game" }
+
+# Only Furry 18+ https://store.steampowered.com/app/1968820/
+{ "name": "Only Furry.exe", "type": "Game" }
 
 # Only Up! https://store.steampowered.com/app/2381590/not_available/
 { "name": "OnlyUP.exe", "type": "Game" }

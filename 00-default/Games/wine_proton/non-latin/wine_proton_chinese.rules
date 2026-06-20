@@ -20,10 +20,6 @@
 # Bēng jìng huíshōu zhàn 嘣境回收战 https://store.steampowered.com/app/2411910/miniBONG/
 { "name": "miniBONG.exe", "type": "Game" }
 
-# Wǒ yǔ nǐ gòngdù de qī rì 我与你共度的七日 https://store.steampowered.com/app/3946810/The_seven_days_i_spent_with_you/
-{ "name": "SevenDaysLauncher.exe", "type": "Game" }
-{ "name": "SevenDaysLauncher.exe", "type": "Game" }
-
 # Bīngdiǎn zhī xià 冰点之下 https://store.steampowered.com/app/3711170/SubZero/
 { "name": "Subzero.exe", "type": "Game" }
 
@@ -444,6 +440,10 @@
 
 # Wǒ láizì jiānghú 我来自江湖 https://store.steampowered.com/app/1058770/_From_Jianghu/
 { "name": "FromJianghu.exe", "type": "Game" }
+
+# Wǒ yǔ nǐ gòngdù de qī rì 我与你共度的七日 https://store.steampowered.com/app/3946810/The_seven_days_i_spent_with_you/
+{ "name": "SevenDaysLauncher.exe", "type": "Game" }
+{ "name": "The seven days i spent with you.exe", "type": "Game" }
 
 # Wǒ zài dìfǔ dǎ májiàng 我在地府打麻将 https://store.steampowered.com/app/3444020/Demonic_Mahjong/
 { "name": "Demonic Mahjong.exe", "type": "Game" }

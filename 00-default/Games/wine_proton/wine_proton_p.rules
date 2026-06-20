@@ -333,6 +333,10 @@
 # PAYDAY The Heist https://store.steampowered.com/app/24240/PAYDAY_The_Heist/
 { "name": "payday_win32_release.exe", "type": "Game" }
 
+# PBA Pro Bowling 2026 https://store.steampowered.com/app/3127230/PBA_Pro_Bowling_2026/
+{ "name": "PBABowling4.exe", "type": "Game" }
+{ "name": "PBABowling4-Win64-Shipping.exe", "type": "Game" }
+
 # PCBox, Emulator of PC-based machines based on 86Box via wine for SDL2 mouse keys https://pcbox-emu.xyz/
 { "name": "PCBox.exe", "type": "Game" }
 
@@ -457,17 +461,6 @@
 
 # Phantasy Star Online 2 New Genesis https://store.steampowered.com/app/1056640/Phantasy_Star_Online_2_New_Genesis/
 { "name": "pso2.exe", "type": "Game" }
-
-# PBA Pro Bowling 2026 https://store.steampowered.com/app/3127230/PBA_Pro_Bowling_2026/
-{ "name": "PBABowling4.exe", "type": "Game" }
-{ "name": "PBABowling4-Win64-Shipping.exe", "type": "Game" }
-
-# Porradaria Upgrade https://store.steampowered.com/app/399000/Porradaria_Upgrade/
-{ "name": "poup.exe", "type": "Game" }
-
-# Prologue: Go Wayback! https://store.steampowered.com/app/2943740/Prologue_Go_Wayback/
-{ "name": "PrologueSteam.exe", "type": "Game" }
-{ "name": "PrologueSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Phantom Brave PC https://store.steampowered.com/app/409870/Phantom_Brave_PC/
 { "name": "Phantom Brave PC.exe", "type": "Game" }
@@ -904,6 +897,9 @@
 # POPUCOM https://store.steampowered.com/app/2543180/POPUCOM/
 { "name": "Popucom.exe", "type": "Game" }
 
+# Porradaria Upgrade https://store.steampowered.com/app/399000/Porradaria_Upgrade/
+{ "name": "poup.exe", "type": "Game" }
+
 # Portal 2: Community Edition https://store.steampowered.com/app/440000/Portal_2_Community_Edition/
 { "name": "p2ce.exe", "type": "Game" }
 
@@ -1224,6 +1220,10 @@
 # Project Zomboid https://store.steampowered.com/app/108600/Project_Zomboid/
 { "name": "ProjectZomboid32.exe", "type": "Game" }
 { "name": "ProjectZomboid64.exe", "type": "Game" }
+
+# Prologue: Go Wayback! https://store.steampowered.com/app/2943740/Prologue_Go_Wayback/
+{ "name": "PrologueSteam.exe", "type": "Game" }
+{ "name": "PrologueSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Prominence Poker https://store.steampowered.com/app/384180/Prominence_Poker/
 { "name": "Prominence-Win64-Shipping.exe", "type": "Game" }

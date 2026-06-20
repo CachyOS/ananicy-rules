@@ -272,9 +272,6 @@
 # The Dark Pictures Anthology: Man of Medan https://store.steampowered.com/app/939850/The_Dark_Pictures_Anthology_Man_of_Medan/
 { "name": "ManOfMedan.exe", "type": "Game" }
 
-# The Last Salvage Squad https://store.steampowered.com/app/3551190/The_Last_Salvage_Squad/
-{ "name": "tlsSQUAD.exe", "type": "Game" }
-
 # The Dark Pictures Anthology: The Devil in Me https://store.steampowered.com/app/1567020/The_Dark_Pictures_Anthology_The_Devil_in_Me/
 { "name": "TheDevilInMe.exe", "type": "Game" }
 
@@ -670,6 +667,9 @@
 
 # The Last Remnant https://store.steampowered.com/app/23310/The_Last_Remnant/
 { "name": "TLR.exe", "type": "Game" }
+
+# The Last Salvage Squad https://store.steampowered.com/app/3551190/The_Last_Salvage_Squad/
+{ "name": "tlsSQUAD.exe", "type": "Game" }
 
 # The Last Spell https://store.steampowered.com/app/1105670/The_Last_Spell/
 { "name": "The Last Spell.exe", "type": "Game" }
