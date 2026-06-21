@@ -24,7 +24,7 @@
 { "name": "NMA2.exe", "type": "Game"}
 
 # nanos world Playtest https://store.steampowered.com/app/2189700/nanos_world/
-{ "name": "NanosWorld.exe", "type": "Game" }
+{ "name": "NanosWorld.exe", "type": "BG_CPUIO" }
 { "name": "NanosWorld-Win64-Shipping.exe", "type": "Game" }
 
 # Narcissu 1st & 2nd https://store.steampowered.com/app/264380/Narcissu_1st__2nd/
@@ -48,7 +48,7 @@
 { "name": "NSUNSR_option2.exe", "type": "Game"}
 
 # NARUTO TO BORUTO: SHINOBI STRIKER https://store.steampowered.com/app/633230/NARUTO_TO_BORUTO_SHINOBI_STRIKER/
-{ "name": "NARUTO.exe", "type": "Game" }
+{ "name": "NARUTO.exe", "type": "BG_CPUIO" }
 { "name": "NARUTO-Win64-Shipping.exe", "type": "Game" }
 
 # NARUTO: Ultimate Ninja STORM https://store.steampowered.com/app/495140/NARUTO_Ultimate_Ninja_STORM/
@@ -64,7 +64,7 @@
 { "name": "NASCAR15.exe", "type": "Game" }
 
 # NASCAR 25 https://store.steampowered.com/app/3873970/NASCAR_25/
-{ "name": "NASCAR25_Steam.exe", "type": "Game"}
+{ "name": "NASCAR25_Steam.exe", "type": "BG_CPUIO" }
 { "name": "NASCAR25_Steam-Win64-Shipping.exe", "type": "Game"}
 
 # NASCAR Heat 4 https://store.steampowered.com/app/1127980/NASCAR_Heat_4/
@@ -136,11 +136,11 @@
 { "name": "NBA2K26.exe", "type": "Game" }
 
 # NBA 2K Playgrounds 2 https://store.steampowered.com/app/726590/NBA_2K_Playgrounds_2/
-{ "name": "NBAPlaygrounds2.exe", "type": "Game" }
+{ "name": "NBAPlaygrounds2.exe", "type": "BG_CPUIO" }
 { "name": "NBAPlaygrounds2-Win64-Shipping.exe", "type": "Game" }
 
 # NBA 2KVR Experience https://store.steampowered.com/app/519490/NBA_2KVR_Experience/
-{ "name": "NBA2KVRX.exe", "type": "Game" }
+{ "name": "NBA2KVRX.exe", "type": "BG_CPUIO" }
 { "name": "NBA2KVRX-Win64-Shipping.exe", "type": "Game" }
 
 # NBA THE RUN https://store.steampowered.com/app/2866670/NBA_THE_RUN/
@@ -216,7 +216,7 @@
 { "name": "Windose.exe", "type": "Game" }
 
 # Neighbors: Suburban Warfare https://store.steampowered.com/app/1732430/Neighbors_Suburban_Warfare/
-{ "name": "JP.exe", "type": "Game" }
+{ "name": "JP.exe", "type": "BG_CPUIO" }
 { "name": "JP-Win64-Shipping.exe", "type": "Game" }
 
 # Neighbours back From Hell https://store.steampowered.com/app/1283190/Neighbours_back_From_Hell/
@@ -247,7 +247,7 @@
 { "name": "Nelke_and_the_Legendary_Alchemists.exe", "type": "Game"}
 
 # Nemesis: Lockdown https://store.steampowered.com/app/1915550/Nemesis_Lockdown/
-{ "name": "NemesisLD.exe", "type": "Game" }
+{ "name": "NemesisLD.exe", "type": "BG_CPUIO" }
 { "name": "NemesisLDServer-Win64-Shipping.exe", "type": "Service" }
 { "name": "NemesisLDServer.exe", "type": "Service" }
 { "name": "NemesisLD-Win64-Shipping.exe", "type": "Game" }
@@ -400,7 +400,7 @@
 
 # Night of the Dead https://store.steampowered.com/app/1377380/Night_of_the_Dead/
 { "name": "LF-Win64-Shipping.exe", "type": "Game" }
-{ "name": "LF.exe", "type": "Game" }
+{ "name": "LF.exe", "type": "BG_CPUIO" }
 
 # Night Raider https://store.steampowered.com/app/2719290/Night_Raider/
 { "name": "NightRaider.exe", "type": "Game" }
@@ -409,7 +409,7 @@
 { "name": "NIGHT-RUNNERS PROLOGUE.exe", "type": "Game" }
 
 # Night Shippers https://store.steampowered.com/app/3761880/Night_Shippers/
-{ "name": "ProjectSH.exe", "type": "Game" }
+{ "name": "ProjectSH.exe", "type": "BG_CPUIO" }
 { "name": "ProjectSH-Win64-Shipping.exe", "type": "Game" }
 
 # NiGHTS Into Dreams https://store.steampowered.com/app/219950/NiGHTS_Into_Dreams/
@@ -452,7 +452,7 @@
 { "name": "NineSols.exe", "type": "Game"}
 
 # NINJA GAIDEN 2 Black https://store.steampowered.com/app/3287520/NINJA_GAIDEN_2_Black/
-{ "name": "NINJAGAIDEN2BLACK.exe", "type": "Game" }
+{ "name": "NINJAGAIDEN2BLACK.exe", "type": "BG_CPUIO" }
 { "name": "NINJAGAIDEN2BLACK-Win64-Shipping.exe", "type": "Game" }
 
 # NINJA GAIDEN Σ2 [NINJA GAIDEN: Master Collection] https://store.steampowered.com/app/1580790/NINJA_GAIDEN_S2_NINJA_GAIDEN_Master_Collection/
@@ -493,21 +493,21 @@
 { "name": "nioh.exe", "type": "Game" }
 
 # NITRO GEN OMEGA https://store.steampowered.com/app/2525510/NITRO_GEN_OMEGA/
-{ "name": "Overdrive.exe", "type": "Game" }
+{ "name": "Overdrive.exe", "type": "BG_CPUIO" }
 { "name": "OverdriveSteam-Win64-Shipping.exe", "type": "Game" }
 
 # N++ (NPLUSPLUS) https://store.steampowered.com/app/230270/N_NPLUSPLUS/
 { "name": "N++.exe", "type": "Game" }
 
 # NO BACKUP https://store.steampowered.com/app/3894440/NO_BACKUP/
-{ "name": "NOBACKUP.exe", "type": "Game" }
+{ "name": "NOBACKUP.exe", "type": "BG_CPUIO" }
 { "name": "NOBACKUP-Win64-Shipping.exe", "type": "Game" }
 
 # Noble Fates https://store.steampowered.com/app/1769420/Noble_Fates/
 { "name": "Noble Fates.exe", "type": "Game" }
 
 # Noble Legacy https://store.steampowered.com/app/3372710/Noble_Legacy/
-{ "name": "Warlords.exe", "type": "Game" }
+{ "name": "Warlords.exe", "type": "BG_CPUIO" }
 { "name": "Warlords-Win64-Shipping.exe", "type": "Game" }
 
 # Nobody Saves the World https://store.steampowered.com/app/1432050/Nobody_Saves_the_World/
@@ -517,7 +517,7 @@
 { "name": "Nobody.exe", "type": "Game" }
 
 # Nobody Wants to Die https://store.steampowered.com/app/1939970/Nobody_Wants_to_Die/
-{ "name": "detnoir.exe", "type": "Game" }
+{ "name": "detnoir.exe", "type": "BG_CPUIO" }
 { "name": "detnoir-Win64-Shipping.exe", "type": "Game" }
 
 # No-brainer Heroes https://store.steampowered.com/app/1097420/Nobrainer_Heroes/
@@ -635,7 +635,7 @@
 { "name": "Noobs Are Coming.exe", "type": "Game" }
 
 # No One Survived https://store.steampowered.com/app/1963370/No_One_Survived/
-{ "name": "WRSH.exe", "type": "Game" }
+{ "name": "WRSH.exe", "type": "BG_CPUIO" }
 { "name": "WRSH-Win64-Shipping.exe", "type": "Game" }
 
 # No Place Like Home https://store.steampowered.com/app/1472660/No_Place_Like_Home/
@@ -757,11 +757,11 @@
 { "name": "Nucleares.exe", "type": "Game" }
 
 # Nuclear Nightmare https://store.steampowered.com/app/2909110/Nuclear_Nightmare/
-{ "name": "NuclearNightmare.exe", "type": "Game"}
-{ "name": "NuclearNightmare-Win64-Shipping.exe", "type": "Game"}
+{ "name": "NuclearNightmare.exe", "type": "BG_CPUIO" }
+{ "name": "NuclearNightmare-Win64-Shipping.exe", "type": "Game" }
 
 # Nuclear Option https://store.steampowered.com/app/2168680/Nuclear_Option/
-{ "name": "NuclearOption.exe", "type": "Game"}
+{ "name": "NuclearOption.exe", "type": "Game" }
 
 # Nuclear Throne https://store.steampowered.com/app/242680/Nuclear_Throne/
 { "name": "nuclearthrone.exe", "type": "Game" }

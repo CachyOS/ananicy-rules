@@ -35,7 +35,7 @@
 { "name": "12ibt6.exe", "type": "Game" }
 
 # 1348 Ex Voto https://store.steampowered.com/app/1895900/1348_Ex_Voto/
-{ "name": "1348.exe", "type": "Game" }
+{ "name": "1348.exe", "type": "BG_CPUIO" }
 { "name": "P1348-Win64-Shipping.exe", "type": "Game" }
 
 # 140 https://store.steampowered.com/app/242820/140/
@@ -51,11 +51,10 @@
 { "name": "1666Amsterdam.exe", "type": "Game" }
 
 # 171 https://store.steampowered.com/app/1269370/171/
-{ "name": "BGG.exe", "type": "Game" }
+{ "name": "BGG.exe", "type": "BG_CPUIO" }
 { "name": "BGG-Win64-Shipping.exe", "type": "Game" }
 
 # 1953: NATO vs Warsaw Pact https://store.steampowered.com/app/325470/1953_NATO_vs_Warsaw_Pact/
-{ "name": "1953 Setup.exe", "type": "BG_CPUIO" }
 { "name": "1953.exe", "type": "Game" }
 
 # 1954 Alcatraz https://store.steampowered.com/app/255280/1954_Alcatraz/
@@ -89,8 +88,8 @@
 # 3on3 FreeStyle: Rebound https://store.steampowered.com/app/1292630/3on3_FreeStyle_Rebound/
 { "name": "xldr_3on3FreeStyle_ST_loader_x64.exe", "type": "Game" }
 { "name": "DoubleClutch-Win64-Shipping.exe", "type": "Game" }
-{ "name": "DoubleClutch.exe", "type": "Game" }
-{ "name": "2024_Globalsign_64bit.EXE", "type": "Game" }
+{ "name": "DoubleClutch.exe", "type": "BG_CPUIO" }
+{ "name": "2024_Globalsign_64bit.EXE", "type": "BG_CPUIO" }
 
 # 3tene FREE https://store.steampowered.com/app/871170/3tene/
 { "name": "3tene.exe", "type": "Game" }
@@ -136,7 +135,7 @@
 { "name": "86Box.exe", "type": "Game" }
 
 # 8AM https://store.steampowered.com/app/2835590/8AM/
-{ "name": "am.exe", "type": "Game" }
+{ "name": "am.exe", "type": "BG_CPUIO" }
 { "name": "am-Win64-Shipping.exe", "type": "Game" }
 
 # 8 Ball by Pokerist https://store.steampowered.com/app/3760100/8_Ball_by_Pokerist/
@@ -153,7 +152,7 @@
 { "name": "CallEditor.exe", "type": "Game" }
 
 # 93, Kuindzhi https://store.steampowered.com/app/4275420/93_Kuindzhi/
-{ "name": "K93.exe", "type": "Game" }
+{ "name": "K93.exe", "type": "BG_CPUIO" }
 { "name": "HorrorEngineSE93-Win64-Shipping.exe", "type": "Game" }
 
 # 9-Bit Armies: A Bit Too Far https://store.steampowered.com/app/1439750/9Bit_Armies_A_Bit_Too_Far/
@@ -164,7 +163,7 @@
 { "name": "NineClues.exe", "type": "Game" }
 
 # 9 Days https://store.steampowered.com/app/2075720/9_Days/
-{ "name": "FifteenDays.exe", "type": "Game" }
+{ "name": "FifteenDays.exe", "type": "BG_CPUIO" }
 { "name": "FifteenDays-Win64-Shipping.exe", "type": "Game" }
 
 # 9 Kings https://store.steampowered.com/app/2784470/9_Kings/

@@ -60,7 +60,7 @@
 { "name": "yapyap.exe", "type": "Game" }
 
 # YAR: Forgotten Throne https://store.steampowered.com/app/2669860/YAR_Forgotten_Throne/
-{ "name": "YAR.exe", "type": "Game" }
+{ "name": "YAR.exe", "type": "BG_CPUIO" }
 { "name": "YAR-Win64-Shipping.exe", "type": "Game" }
 
 # Yargis - Space Melee - Dedicated Server https://store.steampowered.com/app/382030/

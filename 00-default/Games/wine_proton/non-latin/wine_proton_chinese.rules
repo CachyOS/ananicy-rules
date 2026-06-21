@@ -73,7 +73,7 @@
 { "name": "JC.exe", "type": "Game" }
 
 # Èmó pái 恶魔牌 https://store.steampowered.com/app/3481020/Apokerlypse/
-{ "name": "RollQ.exe", "type": "Game" }
+{ "name": "RollQ.exe", "type": "BG_CPUIO" }
 { "name": "RollQ-Win64-Shipping.exe", "type": "Game" }
 
 # Fāngcùn wénmíng 方寸文明 https://store.steampowered.com/app/2230280/Tiny_Civilization/
@@ -285,7 +285,7 @@
 { "name": "WLM.exe", "type": "Game" }
 
 # Pòxiǎo zhī xū Playtest 破晓之墟 Playtest https://store.steampowered.com/app/4577420/Ruins_of_Dawn/
-{ "name": "RuinsOfDawn.exe", "type": "Game" }
+{ "name": "RuinsOfDawn.exe", "type": "BG_CPUIO" }
 { "name": "RuinsOfDawn-Win64-Shipping.exe", "type": "Game" }
 
 # Qínggǎn fǎn zhà mónǐ qì 情感反诈模拟器 https://store.steampowered.com/app/3350200/Revenge_on_gold_diggers/
@@ -302,7 +302,7 @@
 { "name": "wuxia_launch.exe", "type": "Game" }
 
 # Rén mèi 人魅 https://store.steampowered.com/app/2128940/THE_4_SINS/
-{ "name": "game_rm.exe", "type": "Game" }
+{ "name": "game_rm.exe", "type": "BG_CPUIO" }
 { "name": "game_rm-Win64-Shipping.exe", "type": "Game" }
 
 # Sānguó qúnyīng chuán 三国群英传 https://store.steampowered.com/app/1437820/Heroes_of_the_Three_Kingdoms/
@@ -330,7 +330,7 @@
 { "name": "Sgsc10th.exe", "type": "Game" }
 
 # Shānmén yǔ huànjìng (The Lost Village) 山门与幻境（The Lost Village） https://store.steampowered.com/app/1963040/The_Lost_Village/
-{ "name": "TheLostVillage.exe", "type": "Game" }
+{ "name": "TheLostVillage.exe", "type": "BG_CPUIO" }
 { "name": "TheLostVillage-Win64-Shipping.exe", "type": "Game" }
 
 # Shàonǚ de yídòng chéngbǎo 少女的移动城堡 https://store.steampowered.com/app/2850220/The_Girls_Moving_Castle/
@@ -377,15 +377,14 @@
 { "name": "GNSBT.exe", "type": "Game" }
 
 # “Shǔshān: Chū zhāng” mǎi duàn bǎn《蜀山：初章》买断版 https://store.steampowered.com/app/1461810/_/
-{ "name": "ShuShan.exe", "type": "Game" }
+{ "name": "ShuShan.exe", "type": "BG_CPUIO" }
 { "name": "ShuShan-Win64-Shipping.exe", "type": "Game" }
 
 # Shǔ xiān chuán·guà zhì fēishēng 蜀仙传·挂至飞升 https://store.steampowered.com/app/2469970/_/
 { "name": "蜀仙传.exe", "type": "Game" }
 
 # Sǐjì (DeathlyStillness) 死寂（DeathlyStillness） https://store.steampowered.com/app/1727650/Deathly_Stillness/
-{ "name": "AncientVersion.exe", "type": "Game" }
-{ "name": "DeathlyStillnessGame.exe", "type": "Game" }
+{ "name": "AncientVersion.exe", "type": "BG_CPUIO" }
 { "name": "AncientVersion-Win64-Shipping.exe", "type": "Game" }
 
 # Tenmei ki o feito shīkā 天命奇御 Fate Seeker https://store.steampowered.com/app/882790/Fate_Seeker/
@@ -411,7 +410,7 @@
 { "name": "Noobs Want To Live.exe", "type": "Game" }
 
 # Tuī bì yǒngzhě 推币勇者 https://store.steampowered.com/app/3036010/Coin_Push_RPG/
-{ "name": "CoinPushRPG.exe", "type": "Game" }
+{ "name": "CoinPushRPG.exe", "type": "BG_CPUIO" }
 { "name": "CoinPushRPG-Win64-Shipping.exe", "type": "Game" }
 
 # Tūnshí tiāndì 2: Dànshēng 吞食天地2：誕生 https://store.steampowered.com/app/2396910/2Reborn/
@@ -502,7 +501,7 @@
 { "name": "xmgj.exe", "type": "Game" }
 
 # Xīng yuán yí jìng 星源遗境 https://store.steampowered.com/app/2877480/StarArc_Echo/
-{ "name": "StarArc_Echo.exe", "type": "Game" }
+{ "name": "StarArc_Echo.exe", "type": "BG_CPUIO" }
 { "name": "StarArc_Echo-Win64-Shipping.exe", "type": "Game" }
 
 # Xìngyùn cǎo de yuēdìng 幸运草的约定 https://store.steampowered.com/app/2430690/Clover_Days_Plus/
@@ -529,7 +528,7 @@
 
 # Yì jiàn jiānghú 奕剑江湖 https://store.steampowered.com/app/2701510/_/
 { "name": "JungleGame-Win64-Shipping.exe", "type": "Game" }
-{ "name": "JungleGame.exe", "type": "Game" }
+{ "name": "JungleGame.exe", "type": "BG_CPUIO" }
 
 # Yīnghún zhī rèn 英魂之刃 https://store.steampowered.com/app/1591600/
 { "name": "CosClient.exe", "type": "Game" }
@@ -606,7 +605,7 @@
 { "name": "Desktop Kitten Girl.exe", "type": "Game" }
 
 # Zōng mén qǐyuán 宗门起源 https://store.steampowered.com/app/3446240/Eastern_Era/
-{ "name": "EasternEra.exe", "type": "Game" }
+{ "name": "EasternEra.exe", "type": "BG_CPUIO" }
 { "name": "EasternEra-Win64-Shipping.exe", "type": "Game" }
 
 # Zuìhòu de xiūxiān zhě 最后的修仙者 https://store.steampowered.com/app/3486240/_/

@@ -41,10 +41,10 @@
 
 # Quantum Conundrum https://store.steampowered.com/app/200010/Quantum_Conundrum/
 { "name": "TryGame-Win32-Shipping.exe", "type": "Game" }
-{ "name": "CookerSync.exe", "type": "Game" }
+{ "name": "CookerSync.exe", "type": "BG_CPUIO" }
 
 # Quarantine Zone: The Last Check https://store.steampowered.com/app/3419520/Quarantine_Zone_The_Last_Check/
-{ "name": "QZSim.exe", "type": "Game" }
+{ "name": "QZSim.exe", "type": "BG_CPUIO" }
 { "name": "QZSim-Win64-Shipping.exe", "type": "Game" }
 
 # Quasimorph https://store.steampowered.com/app/2059170/Quasimorph/

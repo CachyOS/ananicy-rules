@@ -49,11 +49,11 @@
 { "name": "Zephon.exe", "type": "Game" }
 
 # Zero Caliber 2 Remastered https://store.steampowered.com/app/2719740/Zero_Caliber_2_Remastered/
-{ "name": "ZeroCaliber_2.exe", "type": "Game" }
+{ "name": "ZeroCaliber_2.exe", "type": "BG_CPUIO" }
 { "name": "ZeroCaliber_2-Win64-Shipping.exe", "type": "Game" }
 
 # Zero Caliber VR https://store.steampowered.com/app/877200/Zero_Caliber_VR/
-{ "name": "ZeroCaliber.exe", "type": "Game" }
+{ "name": "ZeroCaliber.exe", "type": "BG_CPUIO" }
 { "name": "ZeroCaliber-Win64-Shipping.exe", "type": "Game" }
 
 # Zero Escape: The Nonary Games https://store.steampowered.com/app/477740/Zero_Escape_The_Nonary_Games/
@@ -80,7 +80,7 @@
 { "name": "ZERO Sievert.exe", "type": "Game" }
 
 # ZeroSpace Demo https://store.steampowered.com/app/1606060/
-{ "name": "RTS.exe", "type": "Game" }
+{ "name": "RTS.exe", "type": "BG_CPUIO" }
 { "name": "RTS-Win64-Shipping.exe", "type": "Game" }
 
 # Zero Stress King: Idle Defense https://store.steampowered.com/app/4271160/Zero_Stress_King_Idle_Defense/
@@ -142,7 +142,7 @@
 
 # Zombieville USA 3D https://store.steampowered.com/app/1801520/Zombieville_USA_3D/
 { "name": "Exodus-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Exodus.exe", "type": "Game" }
+{ "name": "Exodus.exe", "type": "BG_CPUIO" }
 
 # Zombie Wars: Invasion https://store.steampowered.com/app/429060/Zombie_Wars_Invasion/
 { "name": "ZombieWarsInvasion.exe", "type": "Game" }
@@ -151,7 +151,7 @@
 { "name": "Zomborg.exe", "type": "Game" }
 
 # ZOMBUTCHER https://store.steampowered.com/app/4039900/ZOMBUTCHER_Monster_Business_Simulator/
-{ "name": "Zombutcher.exe", "type": "Game" }
+{ "name": "Zombutcher.exe", "type": "BG_CPUIO" }
 { "name": "Zombutcher-Win64-Shipping.exe", "type": "Game" }
 
 # Zomcats Invasion https://store.steampowered.com/app/2699240/Zomcats_Invasion/
@@ -167,7 +167,7 @@
 { "name": "Zoombinis.exe", "type": "Game" }
 
 # Zoonomaly https://store.steampowered.com/app/2101890/Zoonomaly/
-{ "name": "Zoonomaly.exe", "type": "Game" }
+{ "name": "Zoonomaly.exe", "type": "BG_CPUIO" }
 { "name": "Zoonomaly-Win64-Shipping.exe", "type": "Game" }
 
 # Zoo Tycoon: Ultimate Animal Collection https://store.steampowered.com/app/613880/Zoo_Tycoon_Ultimate_Animal_Collection/
