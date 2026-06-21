@@ -514,6 +514,9 @@
 { "name": "U01.exe", "type": "Game" }
 { "name": "U01-Win64-Shipping.exe", "type": "Game" }
 
+# OUTRIDERS Demo https://store.steampowered.com/app/1435990/
+{ "name": "EAC_OUTRIDERS.exe", "type": "BG_CPUIO" }
+
 # Out There Somewhere https://store.steampowered.com/app/263980/Out_There_Somewhere/
 { "name": "ots.exe", "type": "Game" }
 

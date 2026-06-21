@@ -474,7 +474,7 @@
 { "name": "FelixJumpman.exe", "type": "Game" }
 
 # Fellowship Playtest https://store.steampowered.com/app/3165720/
-{ "name": "fellowship.exe", "type": "Game" }
+{ "name": "fellowship.exe", "type": "BG_CPUIO" }
 
 # Fell Seal: Arbiter's Mark https://store.steampowered.com/app/699170/Fell_Seal_Arbiters_Mark/
 { "name": "Fell Seal.exe", "type": "Game" }
@@ -1218,7 +1218,7 @@
 { "name": "Fuel Harvest Together.exe", "type": "Game" }
 
 # Fuga: Melodies of Steel 3 https://store.steampowered.com/app/3081320/Fuga_Melodies_of_Steel_3/
-{ "name": "TANK.exe", "type": "Game" }
+{ "name": "TANK.exe", "type": "BG_CPUIO" }
 
 # Full Ace Tennis Simulator https://store.steampowered.com/app/779430/Full_Ace_Tennis_Simulator/
 { "name": "FullAce.exe", "type": "Game" }

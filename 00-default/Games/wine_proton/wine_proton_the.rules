@@ -368,7 +368,7 @@
 { "name": "The Executive.exe", "type": "Game" }
 
 # The Exit 8 https://store.steampowered.com/app/2653790/The_Exit_8/
-{ "name": "Exit8.exe", "type": "Game" }
+{ "name": "Exit8.exe", "type": "BG_CPUIO" }
 
 # The Expanse: A Telltale Series https://store.steampowered.com/app/1708010/
 { "name": "Artemis.exe", "type": "Game" }

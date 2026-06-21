@@ -375,14 +375,14 @@
 { "name": "你好！我们还有场恋爱没谈.exe", "type": "Game" }
 
 # Hello Neighbor https://store.steampowered.com/app/521890/Hello_Neighbor/
-{ "name": "HelloNeighbor.exe", "type": "Game" }
+{ "name": "HelloNeighbor.exe", "type": "BG_CPUIO" }
 
 # Hello Neighbor 3 Playtest https://store.steampowered.com/app/2800890/Hello_Neighbor_3/
 { "name": "HelloNeighbor3.exe", "type": "Game" }
 { "name": "HelloNeighbor3-Win64-Shipping.exe", "type": "Game" }
 
 # Hello Neighbor: Hide and Seek https://store.steampowered.com/app/960420/Hello_Neighbor_Hide_and_Seek/
-{ "name": "HideAndSeek.exe", "type": "Game" }
+{ "name": "HideAndSeek.exe", "type": "BG_CPUIO" }
 
 # Hello Neighbor Pre-Alpha https://store.steampowered.com/app/1092700/Hello_Neighbor_PreAlpha/
 { "name": "HelloNeighbour.exe", "type": "Game" }

@@ -745,7 +745,7 @@
 { "name": "PlateUp.exe", "type": "Game" }
 
 # Platform 8 https://store.steampowered.com/app/2903560/Platform_8/
-{ "name": "Platform8.exe", "type": "Game" }
+{ "name": "Platform8.exe", "type": "BG_CPUIO" }
 
 # Platform Control https://store.steampowered.com/app/3050010/Platform_Control/
 { "name": "Platform Control.exe", "type": "Game" }
