@@ -140,6 +140,14 @@
 # Timeflow https://store.steampowered.com/app/1005930/Timeflow__Life_Sim/
 { "name": "Timeflow.x86_64", "type": "Game" }
 
+# Time Mysteries 2: The Ancient Spectres https://store.steampowered.com/app/313650/Time_Mysteries_2_The_Ancient_Spectres/
+{ "name": "TimeMysteries_TheAncientSpectres_amd64", "type": "Game" }
+{ "name": "TimeMysteries_TheAncientSpectres_i386", "type": "Game" }
+
+# Time Mysteries 3: The Final Enigma https://store.steampowered.com/app/319320/Time_Mysteries_3_The_Final_Enigma/
+{ "name": "TimeMysteries_TheFinalEnigma_amd64", "type": "Game" }
+{ "name": "TimeMysteries_TheFinalEnigma_i386", "type": "Game" }
+
 # Timespinner https://store.steampowered.com/app/368620/Timespinner/
 { "name": "Timespinner", "type": "Game" }
 

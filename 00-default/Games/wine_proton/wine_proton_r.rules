@@ -123,6 +123,9 @@
 # Railway Empire 2 https://store.steampowered.com/app/1644320/Railway_Empire_2/
 { "name": "RailwayEmpire2.exe", "type": "Game" }
 
+# Railway Islands - Puzzle https://store.steampowered.com/app/1807930/Railway_Islands__Puzzle/
+{ "name": "Railway Islands.exe", "type": "Game" }
+
 # Rain World https://store.steampowered.com/app/312520/Rain_World/
 { "name": "RainWorld.exe", "type": "Game" }
 
@@ -532,6 +535,10 @@
 
 # Retro City Rampage DX https://store.steampowered.com/app/204630/Retro_City_Rampage_DX/
 { "name": "retrocityrampage.exe", "type": "Game" }
+
+# Retrocycles https://store.steampowered.com/app/1306180/Retrocycles/
+{ "name": "Retrocycles.exe", "type": "Game" }
+{ "name": "Retrocycles_Dedicated.exe", "type": "Service" }
 
 # Retrowave https://store.steampowered.com/app/1239690/Retrowave/
 { "name": "Retrowave.exe", "type": "Game" }

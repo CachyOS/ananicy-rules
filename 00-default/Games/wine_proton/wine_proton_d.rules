@@ -216,10 +216,6 @@
 { "name": "dod.exe", "type": "Game" }
 { "name": "dod_win64.exe", "type": "Game" }
 
-# Day of Dragons https://store.steampowered.com/app/1088090/Day_of_Dragons/
-{ "name": "Dragons.exe", "type": "Game" }
-{ "name": "Dragons-Win64-Shipping.exe", "type": "Game" }
-
 # Day of Infamy https://store.steampowered.com/app/447820/Day_of_Infamy/
 { "name": "dayofinfamy_x64.exe", "type": "Game" }
 { "name": "dayofinfamy.exe", "type": "Game" }
@@ -1563,6 +1559,10 @@
 # Duck Game https://store.steampowered.com/app/312530/Duck_Game/
 { "name": "DuckGame.exe", "type": "Game" }
 
+# Duckoleon https://store.steampowered.com/app/3775510/Duckoleon/
+{ "name": "Duckoleon.exe", "type": "Game" }
+{ "name": "Duckoleon-Win64-Shipping.exe", "type": "Game" }
+
 # Ducks (6 Jul, 2024) https://store.steampowered.com/app/3057940/Ducks/
 { "name": "Ducks.exe", "type": "Game" }
 
@@ -1729,6 +1729,9 @@
 # DUSK https://store.steampowered.com/app/519860/DUSK/
 { "name": "DUSK.exe", "type": "Game" }
 { "name": "Duskworld.exe", "type": "Game" }
+
+# Dusk City https://store.steampowered.com/app/2973120/Dusk_City/
+{ "name": "Dusk City.exe", "type": "Game" }
 
 # Duskers https://store.steampowered.com/app/254320/Duskers/
 { "name": "Duskers.exe", "type": "Game" }

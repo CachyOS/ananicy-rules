@@ -64,6 +64,11 @@
 # Fabledom https://store.steampowered.com/app/1651560/Fabledom/
 { "name": "Fabledom.exe", "type": "Game" }
 
+# Fable III https://store.steampowered.com/app/105400/
+{ "name": "FableLauncher.exe", "type": "Game" }
+{ "name": "Fable3.exe", "type": "Game" }
+{ "name": "F3Secu.exe", "type": "Game" }
+
 # Fable - The Lost Chapters https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters/
 { "name": "Fable.exe", "type": "Game" }
 
@@ -465,6 +470,9 @@
 # Feign https://store.steampowered.com/app/1436990/Feign/
 { "name": "Feign.exe", "type": "Game" }
 
+# Felix Jumpman https://store.steampowered.com/app/575920/Felix_Jumpman/
+{ "name": "FelixJumpman.exe", "type": "Game" }
+
 # Fellowship Playtest https://store.steampowered.com/app/3165720/
 { "name": "fellowship.exe", "type": "Game" }
 
@@ -718,6 +726,10 @@
 # Fishbowl https://store.steampowered.com/app/1638070/Fishbowl/
 { "name": "fishbowl.exe", "type": "Game" }
 
+# Fishermurs https://store.steampowered.com/app/564210/Fishermurs/
+{ "name": "Fishermurs.exe", "type": "Game" }
+{ "name": "BattleBoats-Win32-Shipping.exe", "type": "Game" }
+
 # Fisher Online https://store.steampowered.com/app/1094780/Fisher_Online/
 { "name": "theFisher.exe", "type": "Game" }
 
@@ -894,7 +906,6 @@
 { "name": "Football Life Simulator.exe", "type": "Game" }
 
 # Football, Tactics & Glory https://store.steampowered.com/app/375530/Football_Tactics__Glory/
-{ "name": "game32.exe", "type": "Game" }
 { "name": "game64.exe", "type": "Game" }
 
 # FootLOL: Epic Soccer League https://store.steampowered.com/app/263740/FootLOL_Epic_Soccer_League/
@@ -1218,9 +1229,6 @@
 # Full Throttle Remastered https://store.steampowered.com/app/228360/Full_Throttle_Remastered/
 { "name": "Throttle.exe", "type": "Game" }
 
-# FUMES https://store.steampowered.com/app/1920430/FUMES/
-{ "name": "FUMES.exe", "type": "Game" }
-
 # Funguys Swarm https://store.steampowered.com/app/3371770/Funguys_Swarm/
 { "name": "Funguys.exe", "type": "Game" }
 { "name": "Funguys-Win64-Shipping.exe", "type": "Game" }
@@ -1243,6 +1251,9 @@
 
 # Furry Love https://store.steampowered.com/app/1334590/
 { "name": "Furry Love.exe", "type": "Game" }
+
+# Furry Love 2 https://store.steampowered.com/app/1349040/
+{ "name": "Furry Love 2.exe", "type": "Game" }
 
 # Fury of Dracula: Digital Edition https://store.steampowered.com/app/958530/Fury_of_Dracula_Digital_Edition/
 { "name": "Fury of Dracula.exe", "type": "Game" }

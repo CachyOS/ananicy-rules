@@ -482,6 +482,10 @@
 # STAR WARS Knights of the Old Republic II - The Sith Lords https://store.steampowered.com/app/208580/STAR_WARS_Knights_of_the_Old_Republic_II__The_Sith_Lords/
 { "name": "KOTOR2", "type": "Game" }
 
+# Stash https://store.steampowered.com/app/466660/Stash/
+{ "name": "Stash.x86", "type": "Game" }
+{ "name": "Stash.x86_64", "type": "Game" }
+
 # Staxel https://store.steampowered.com/app/405710/Staxel/
 { "name": "StaxelCE", "type": "Game" }
 
