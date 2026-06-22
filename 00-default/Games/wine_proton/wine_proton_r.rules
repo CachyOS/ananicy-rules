@@ -92,7 +92,7 @@
 { "name": "Railbound.exe", "type": "Game" }
 
 # RAILGRADE https://store.steampowered.com/app/1355090/RAILGRADE/
-{ "name": "Railgrade.exe", "type": "Game" }
+{ "name": "Railgrade.exe", "type": "BG_CPUIO" }
 { "name": "Railgrade-Win64-Shipping.exe", "type": "Game" }
 
 # Railroad Corporation https://store.steampowered.com/app/797400/Railroad_Corporation/
@@ -105,7 +105,7 @@
 { "name": "Railroader.exe", "type": "Game" }
 
 # RAILROADS Online https://store.steampowered.com/app/1696810/Railroads_Online/
-{ "name": "arr.exe", "type": "Game" }
+{ "name": "arr.exe", "type": "BG_CPUIO" }
 { "name": "arr-Win64-Shipping.exe", "type": "Game" }
 
 # Railroad Tycoon 3 https://store.steampowered.com/app/7610/Railroad_Tycoon_3/
@@ -130,7 +130,7 @@
 { "name": "RainWorld.exe", "type": "Game" }
 
 # Raji: An Ancient Epic https://store.steampowered.com/app/730390/Raji_An_Ancient_Epic/
-{ "name": "Raji.exe", "type": "Game" }
+{ "name": "Raji.exe", "type": "BG_CPUIO" }
 { "name": "Raji-Win64-Shipping.exe", "type": "Game" }
 
 # Rakion Chaos Force https://store.steampowered.com/app/1218740/Rakion_Chaos_Force/
@@ -156,14 +156,14 @@
 { "name": "Rance02.exe", "type": "Game" }
 
 # Ranch Simulator: Build, Hunt, Farm https://store.steampowered.com/app/1119730/Ranch_Simulator_Build_Hunt_Farm/
-{ "name": "Ranch_Simulator.exe", "type": "Game" }
+{ "name": "Ranch_Simulator.exe", "type": "BG_CPUIO" }
 { "name": "Ranch_Simulator-Win64-Shipping.exe", "type": "Game" }
 
 # Randal's Monday https://store.steampowered.com/app/314810/Randals_Monday/
 { "name": "Randals.exe", "type": "Game" }
 
 # Ranger’s Path: National Park Simulator https://store.steampowered.com/app/2502780/Rangers_Path_National_Park_Simulator/
-{ "name": "Bear.exe", "type": "Game" }
+{ "name": "Bear.exe", "type": "BG_CPUIO" }
 { "name": "Bear-Win64-Shipping.exe", "type": "Game" }
 
 # Ratchet & Clank: Rift Apart https://store.steampowered.com/app/1895880/Ratchet__Clank_Rift_Apart/
@@ -188,7 +188,7 @@
 { "name": "ravenfield.exe", "type": "Game" }
 
 # Ravenous Devils https://store.steampowered.com/app/1615290/Ravenous_Devils/
-{ "name": "Ravenous_Devils.exe", "type": "Game" }
+{ "name": "Ravenous_Devils.exe", "type": "BG_CPUIO" }
 { "name": "Ravenous_Devils-Win64-Shipping.exe", "type": "Game" }
 
 # Ravenswatch https://store.steampowered.com/app/2071280/Ravenswatch/
@@ -215,7 +215,7 @@
 { "name": "Razortron 2000.exe", "type": "Game" }
 
 # Ready or Not https://store.steampowered.com/app/1144200/Ready_or_Not/
-{ "name": "ReadyOrNot.exe", "type": "Game" }
+{ "name": "ReadyOrNot.exe", "type": "BG_CPUIO" }
 { "name": "ReadyOrNotSteam-Win64-Shipping.exe", "type": "Game" }
 
 # RealFlight 9.5S https://store.steampowered.com/app/1070820/RealFlight_95S/
@@ -290,7 +290,7 @@
 { "name": "rcsim.exe", "type": "Game" }
 
 # [REDACTED] https://store.steampowered.com/app/2229940/REDACTED/
-{ "name": "Redacted.exe", "type": "Game" }
+{ "name": "Redacted.exe", "type": "BG_CPUIO" }
 { "name": "Redacted-Win64-Shipping.exe", "type": "Game" }
 
 # Red Dead Online https://store.steampowered.com/app/1404210/Red_Dead_Online/
@@ -332,11 +332,11 @@
 { "name": "RedOrchestra.exe", "type": "Game" }
 
 # Redout 2 https://store.steampowered.com/app/1799930/Redout_2/
-{ "name": "redout2.exe", "type": "Game" }
+{ "name": "redout2.exe", "type": "BG_CPUIO" }
 { "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
 
 # Red Solstice 2: Survivors https://store.steampowered.com/app/768520/Red_Solstice_2_Survivors/
-{ "name": "survivors.exe", "type": "Game" }
+{ "name": "survivors.exe", "type": "BG_CPUIO" }
 { "name": "TwinStick-Win64-Shipping.exe", "type": "Game" }
 
 # Reentry - A Space Flight Simulator https://store.steampowered.com/app/882140/Reentry__A_Space_Flight_Simulator/
@@ -358,7 +358,7 @@
 { "name": "Regions of Ruin Runegate.exe", "type": "Game" }
 
 # Reign of Guilds https://store.steampowered.com/app/716350/Reign_of_Guilds/
-{ "name": "SiLClient.exe", "type": "Game" }
+{ "name": "SiLClient.exe", "type": "BG_CPUIO" }
 { "name": "SiLClient-Win64-Shipping.exe", "type": "Game" }
 
 # Reign Of Kings https://store.steampowered.com/app/344760/Reign_Of_Kings/
@@ -395,7 +395,7 @@
 { "name": "adl64.exe", "type": "Game" }
 
 # REMATCH https://store.steampowered.com/app/2138720/REMATCH/
-{ "name": "RuntimeClient.exe", "type": "Game" }
+{ "name": "RuntimeClient.exe", "type": "BG_CPUIO" }
 { "name": "RuntimeClient-Win64-Shipping.exe", "type": "Game" }
 
 # Remember Me https://store.steampowered.com/app/228300/Remember_Me/
@@ -403,11 +403,11 @@
 
 # Remnant: From the Ashes https://store.steampowered.com/app/617290/Remnant_From_the_Ashes/
 { "name": "Remnant-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Remnant.exe", "type": "Game" }
+{ "name": "Remnant.exe", "type": "BG_CPUIO" }
 
 # REMNANT II https://store.steampowered.com/app/1282100/REMNANT_II/
 { "name": "Remnant2-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Remnant2.exe", "type": "Game" }
+{ "name": "Remnant2.exe", "type": "BG_CPUIO" }
 
 # Remothered: Broken Porcelain https://store.steampowered.com/app/1142390/Remothered_Broken_Porcelain/
 { "name": "Remothered2.exe", "type": "Game" }
@@ -419,7 +419,7 @@
 { "name": "RenegadeOps.exe", "type": "Game" }
 
 # RENNSPORT https://store.steampowered.com/app/2077750/RENNSPORT/
-{ "name": "Rennsport.exe", "type": "Game" }
+{ "name": "Rennsport.exe", "type": "BG_CPUIO" }
 { "name": "Rennsport-Win64-Shipping.exe", "type": "Game" }
 
 # Rento Fortune: Online Dice Board Game (大富翁) https://store.steampowered.com/app/663390/Rento_Fortune_Online_Dice_Board_Game/
@@ -503,7 +503,7 @@
 { "name": "Resonite.exe", "type": "Game" }
 
 # Rest Area Simulator https://store.steampowered.com/app/3732960/Rest_Area_Simulator/
-{ "name": "RestAreaSimulator.exe", "type": "Game" }
+{ "name": "RestAreaSimulator.exe", "type": "BG_CPUIO" }
 { "name": "RestAreaSimulator-Win64-Shipping.exe", "type": "Game" }
 
 # Restaurant Owner: A Restaurant Simulator https://store.steampowered.com/app/3177280/Restaurant_Owner_A_Restaurant_Simulator/
@@ -516,18 +516,18 @@
 { "name": "Restitched Wardrobe Demo.exe", "type": "Game" }
 
 # Restore Your Island https://store.steampowered.com/app/2698420/Restore_Your_Island/
-{ "name": "RestoreYourIsland.exe", "type": "Game" }
+{ "name": "RestoreYourIsland.exe", "type": "BG_CPUIO" }
 { "name": "RestoreYourIsland-Win64-Shipping.exe", "type": "Game" }
 
 # ReStory Playtest https://store.steampowered.com/app/4146670/ReStory_Chill_Electronics_Repairs/
 { "name": "Restory.exe", "type": "Game" }
 
 # Retail Company Simulator https://store.steampowered.com/app/3089130/Retail_Company_Simulator/
-{ "name": "RetailCompanySim.exe", "type": "Game" }
+{ "name": "RetailCompanySim.exe", "type": "BG_CPUIO" }
 { "name": "RetailCompanySim-Win64-Shipping.exe", "type": "Game" }
 
 # Retail Hell https://store.steampowered.com/app/4174310/Retail_Hell/
-{ "name": "RetailHell.exe", "type": "Game" }
+{ "name": "RetailHell.exe", "type": "BG_CPUIO" }
 { "name": "HorrorMarket-Win64-Shipping.exe", "type": "Game" }
 
 # RetroArch https://store.steampowered.com/app/1118310/RetroArch/
@@ -553,7 +553,7 @@
 { "name": "Returns Outlet Simulator.exe", "type": "Game" }
 
 # Return to campus https://store.steampowered.com/app/3174480/Return_to_campus/
-{ "name": "BackToSchool.exe", "type": "Game" }
+{ "name": "BackToSchool.exe", "type": "BG_CPUIO" }
 { "name": "BackToSchool-Win64-Shipping.exe", "type": "Game" }
 
 # Return to Castle Wolfenstein https://store.steampowered.com/app/9010/Return_to_Castle_Wolfenstein/
@@ -603,7 +603,7 @@
 { "name": "Revolution Idle.exe", "type": "Game" }
 
 # Rewind 99 https://store.steampowered.com/app/3977290/Rewind_99/
-{ "name": "BusterBlock.exe", "type": "Game" }
+{ "name": "BusterBlock.exe", "type": "BG_CPUIO" }
 { "name": "BusterBlock-Win64-Shipping.exe", "type": "Game" }
 
 # Rewrite+ https://store.steampowered.com/app/1680000/Rewrite/
@@ -653,19 +653,19 @@
 { "name": "Ride2X64.exe", "type": "Game" }
 
 # RIDE 3 https://store.steampowered.com/app/759740/RIDE_3/
-{ "name": "ride3.exe", "type": "Game" }
+{ "name": "ride3.exe", "type": "BG_CPUIO" }
 { "name": "ride3-Win64-Shipping.exe", "type": "Game" }
 
 # RIDE 4 https://store.steampowered.com/app/1259980/RIDE_4/
-{ "name": "ride4.exe", "type": "Game" }
+{ "name": "ride4.exe", "type": "BG_CPUIO" }
 { "name": "ride4-Win64-Shipping.exe", "type": "Game" }
 
 # RIDE 5 https://store.steampowered.com/app/1650010/RIDE_5/
-{ "name": "ride5.exe", "type": "Game" }
+{ "name": "ride5.exe", "type": "BG_CPUIO" }
 { "name": "ride5-Win64-Shipping.exe", "type": "Game" }
 
 # RIDE 6 https://store.steampowered.com/app/2815070/RIDE_6/
-{ "name": "ride6.exe", "type": "Game" }
+{ "name": "ride6.exe", "type": "BG_CPUIO" }
 { "name": "ride6-Win64-Shipping.exe", "type": "Game" }
 
 # Riders Republic https://store.steampowered.com/app/2290180/Riders_Republic/
@@ -700,11 +700,11 @@
 { "name": "Ring Of Pain.exe", "type": "Game" }
 
 # RIPOUT https://store.steampowered.com/app/1558830/RIPOUT/
-{ "name": "SpaceMyths.exe", "type": "Game" }
+{ "name": "SpaceMyths.exe", "type": "BG_CPUIO" }
 { "name": "SpaceMyths-Win64-Shipping.exe", "type": "Game" }
 
 # R.I.P. - Reincarnation Insurance Program https://store.steampowered.com/app/3985950/RIP__Reincarnation_Insurance_Program/
-{ "name": "AKA_RIP.exe", "type": "Game" }
+{ "name": "AKA_RIP.exe", "type": "BG_CPUIO" }
 { "name": "AKA_RIP-Win64-Shipping.exe", "type": "Game" }
 
 # Risen https://store.steampowered.com/app/40300/Risen/
@@ -723,7 +723,7 @@
 { "name": "rof.exe", "type": "Game" }
 
 # Rise of Gun https://store.steampowered.com/app/2319640/Rise_of_Gun/
-{ "name": "RiseOfGun.exe", "type": "Game" }
+{ "name": "RiseOfGun.exe", "type": "BG_CPUIO" }
 { "name": "RiseOfGun-Win64-Shipping.exe", "type": "Game" }
 
 # Rise of Industry https://store.steampowered.com/app/671440/Rise_of_Industry/
@@ -792,14 +792,14 @@
 { "name": "RivalsofAether.exe", "type": "Game" }
 
 # Rivals of Aether II https://store.steampowered.com/app/2217000/Rivals_of_Aether_II/
-{ "name": "Rivals2.exe", "type": "Game" }
+{ "name": "Rivals2.exe", "type": "BG_CPUIO" }
 { "name": "Rivals2-Win64-Shipping.exe", "type": "Game" }
 
 # Rival Stars Horse Racing https://store.steampowered.com/app/1166860/Rival_Stars_Horse_Racing_Desktop_Edition/
 { "name": "RivalStarsHorseRacing.exe", "type": "Game" }
 
 # Riven https://store.steampowered.com/app/1712350/Riven/
-{ "name": "Riven.exe", "type": "Game" }
+{ "name": "Riven.exe", "type": "BG_CPUIO" }
 { "name": "Riven-Win64-Shipping.exe", "type": "Game" }
 
 # Riven (1997) https://store.steampowered.com/app/63610/Riven_1997/
@@ -847,10 +847,10 @@
 
 # RoboCop: Rogue City https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
 { "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
-{ "name": "RoboCop.exe", "type": "Game" }
+{ "name": "RoboCop.exe", "type": "BG_CPUIO" }
 
 # RoboCop: Rogue City - Unfinished Business https://store.steampowered.com/app/3527760/RoboCop_Rogue_City__Unfinished_Business/
-{ "name": "RoboCopUnfinishedBusiness.exe", "type": "Game" }
+{ "name": "RoboCopUnfinishedBusiness.exe", "type": "BG_CPUIO" }
 { "name": "RoboCopUnfinishedBusiness-Win64-Shipping.exe", "type": "Game" }
 
 # Robocraft http://store.steampowered.com/app/301520/Robocraft/
@@ -858,7 +858,7 @@
 { "name": "RobocraftClient.exe", "type": "BG_CPUIO" }
 
 # Roboquest https://store.steampowered.com/app/692890/Roboquest/
-{ "name": "RoboQuest.exe", "type": "Game" }
+{ "name": "RoboQuest.exe", "type": "BG_CPUIO" }
 { "name": "RoboQuest-Win64-Shipping.exe", "type": "Game" }
 
 # RoBoRumble https://store.steampowered.com/app/420970/RoBoRumble/
@@ -889,11 +889,11 @@
 { "name": "RoA.exe", "type": "Game" }
 
 # Rock Simulator https://store.steampowered.com/app/1187510/Rock_Simulator/
-{ "name": "RockSimulator.exe", "type": "Game" }
+{ "name": "RockSimulator.exe", "type": "BG_CPUIO" }
 { "name": "RockSimulator-Win64-Shipping.exe", "type": "Game" }
 
 # Rock Simulator 2 https://store.steampowered.com/app/1949770/Rock_Simulator_2/
-{ "name": "RockSimulator2.exe", "type": "Game" }
+{ "name": "RockSimulator2.exe", "type": "BG_CPUIO" }
 { "name": "RockSimulator2-Win64-Shipping.exe", "type": "Game" }
 
 # Rocksmith (16 Oct, 2012) https://store.steampowered.com/app/205190/Rocksmith/
@@ -946,7 +946,7 @@
 { "name": "Rogue Lords.exe", "type": "Game" }
 
 # Rogue Point https://store.steampowered.com/app/1843840/Rogue_Point/
-{ "name": "Tango.exe", "type": "Game" }
+{ "name": "Tango.exe", "type": "BG_CPUIO" }
 { "name": "Tango-Win64-Shipping.exe", "type": "Game" }
 
 # Rogue Tower https://store.steampowered.com/app/1843760/Rogue_Tower/
@@ -1043,7 +1043,7 @@
 { "name": "Roman Triumph Survival City Builder.exe", "type": "Game" }
 
 # ROMEO IS A DEAD MAN https://store.steampowered.com/app/3050900/ROMEO_IS_A_DEAD_MAN/
-{ "name": "SevGame.exe", "type": "Game" }
+{ "name": "SevGame.exe", "type": "BG_CPUIO" }
 { "name": "SevGame-Win64-Shipping.exe", "type": "Game" }
 
 # Romestead https://store.steampowered.com/app/1805320/Romestead/
@@ -1073,7 +1073,7 @@
 { "name": "RopukaIdleIsland.exe", "type": "Game" }
 
 # Rosalie https://store.steampowered.com/app/4268470/Rosalie/
-{ "name": "Rosalie.exe", "type": "Game" }
+{ "name": "Rosalie.exe", "type": "BG_CPUIO" }
 { "name": "Rosalie-Win64-Shipping.exe", "type": "Game" }
 
 # Rotastic https://store.steampowered.com/app/204580/Rotastic/
@@ -1087,7 +1087,7 @@
 
 # ROUTINE https://store.steampowered.com/app/606160/ROUTINE/
 { "name": "Routine-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Routine.exe", "type": "Game" }
+{ "name": "Routine.exe", "type": "BG_CPUIO" }
 
 # Row Divers https://store.steampowered.com/app/2572300/Row_Divers/
 { "name": "RowDivers.exe", "type": "Game" }
@@ -1136,7 +1136,7 @@
 { "name": "RuinedKing.exe", "type": "Game" }
 
 # RUINER https://store.steampowered.com/app/464060/RUINER/
-{ "name": "Ruiner.exe", "type": "Game" }
+{ "name": "Ruiner.exe", "type": "BG_CPUIO" }
 { "name": "Ruiner-Win64-Shipping.exe", "type": "Game" }
 
 # Rule the Waves 3 https://store.steampowered.com/app/2008100/Rule_the_Waves_3/
@@ -1185,7 +1185,7 @@
 { "name": "RuneScape.exe", "type": "Game" }
 
 # RuneScape: Dragonwilds https://store.steampowered.com/app/1374490/RuneScape_Dragonwilds/
-{ "name": "RSDragonwilds.exe", "type": "Game" }
+{ "name": "RSDragonwilds.exe", "type": "BG_CPUIO" }
 { "name": "RSDragonwilds-Win64-Shipping.exe", "type": "Game" }
 
 # Runes of Magic https://store.steampowered.com/app/808290/Runes_of_Magic/
@@ -1193,7 +1193,7 @@
 { "name": "Runes of Magic.exe", "type": "Game" }
 
 # RUNNING TRAIN https://store.steampowered.com/app/4630570/RUNNING_TRAIN/
-{ "name": "RunningTrain.exe", "type": "Game" }
+{ "name": "RunningTrain.exe", "type": "BG_CPUIO" }
 { "name": "RunningTrain-Win64-Shipping.exe", "type": "Game" }
 
 # RUNNING WITH RIFLES https://store.steampowered.com/app/270150/RUNNING_WITH_RIFLES/
@@ -1251,7 +1251,7 @@
 { "name": "RustyLakeRoots.exe", "type": "Game" }
 
 # Rusty Rabbit https://store.steampowered.com/app/2530560/Rusty_Rabbit/
-{ "name": "RustyRabbit.exe", "type": "Game" }
+{ "name": "RustyRabbit.exe", "type": "BG_CPUIO" }
 { "name": "Rabbit-Win64-Shipping.exe", "type": "Game" }
 
 # Rusty's Retirement https://store.steampowered.com/app/2666510/Rustys_Retirement/

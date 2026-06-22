@@ -6,7 +6,7 @@
 ### P ###
 
 # Pacific Drive https://store.steampowered.com/app/1458140/Pacific_Drive/
-{ "name": "PenDriverPro.exe", "type": "Game" }
+{ "name": "PenDriverPro.exe", "type": "BG_CPUIO" }
 { "name": "PenDriverPro-Win64-Shipping.exe", "type": "Game" }
 
 # Pacify https://store.steampowered.com/app/967050/Pacify/
@@ -67,12 +67,12 @@
 { "name": "Paleo Pines.exe", "type": "Game" }
 
 # Palia https://store.steampowered.com/app/2707930/Palia/
-{ "name": "PaliaClientSteam.exe", "type": "Game" }
+{ "name": "PaliaClientSteam.exe", "type": "BG_CPUIO" }
 { "name": "PaliaClientSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Palworld https://store.steampowered.com/app/1623730/Palworld/
 { "name": "Palworld-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Palworld.exe", "type": "Game" }
+{ "name": "Palworld.exe", "type": "BG_CPUIO" }
 
 # Palworld Dedicated Server https://store.steampowered.com/app/2394010/
 { "name": "PalServer.exe", "type": "Service" }
@@ -84,7 +84,7 @@
 
 # PANELKI https://store.steampowered.com/app/1836160/PANELKI/
 { "name": "PanelkiProject-Win64-Shipping.exe", "type": "Game" }
-{ "name": "PanelkiProject.exe", "type": "Game" }
+{ "name": "PanelkiProject.exe", "type": "BG_CPUIO" }
 
 # PANICORE https://store.steampowered.com/app/2695940/PANICORE/
 { "name": "Panicore.exe", "type": "Game" }
@@ -128,11 +128,11 @@
 { "name": "Papa's Pizzeria Deluxe.exe", "type": "Game" }
 
 # Paper Dolls 2 https://store.steampowered.com/app/1334040/Paper_Dolls_2/
-{ "name": "PD2.exe", "type": "Game" }
+{ "name": "PD2.exe", "type": "BG_CPUIO" }
 { "name": "PD2-Win64-Shipping.exe", "type": "Game" }
 
 # Paper Dolls Original https://store.steampowered.com/app/1051310/Paper_Dolls_Original/
-{ "name": "PaperDollsOriginal.exe", "type": "Game" }
+{ "name": "PaperDollsOriginal.exe", "type": "BG_CPUIO" }
 { "name": "PDS-Win64-Shipping.exe", "type": "Game" }
 
 # PAPERHEAD EP0 https://store.steampowered.com/app/3008200/PAPERHEAD_EP0/
@@ -181,12 +181,12 @@
 { "name": "Paranoia Place.exe", "type": "Game" }
 
 # Paranormal Cleanup https://store.steampowered.com/app/2197890/Paranormal_Cleanup/
-{ "name": "aCleaningHorror.exe", "type": "Game" }
+{ "name": "aCleaningHorror.exe", "type": "BG_CPUIO" }
 { "name": "aCleaningHorror-Win64-Shipping.exe", "type": "Game" }
 
 # ParanormalHK https://store.steampowered.com/app/1178490/ParanormalHK/
 { "name": "PuzzleGame-Win64-Shipping.exe", "type": "Game" }
-{ "name": "PuzzleGame.exe", "type": "Game" }
+{ "name": "PuzzleGame.exe", "type": "BG_CPUIO" }
 
 # PARANORMASIGHT: The Mermaid's Curse https://store.steampowered.com/app/2701440/PARANORMASIGHT_The_Mermaids_Curse/
 { "name": "PARANORMASIGHT_2.exe", "type": "Game" }
@@ -195,11 +195,11 @@
 { "name": "PPARANORMASIGHT.exe", "type": "Game" }
 
 # Parcel Simulator https://store.steampowered.com/app/2424010/Parcel_Simulator/
-{ "name": "parcel.exe", "type": "Game" }
+{ "name": "parcel.exe", "type": "BG_CPUIO" }
 { "name": "parcel-Win64-Shipping.exe", "type": "Game" }
 
 # Parisian Brasserie Simulator https://store.steampowered.com/app/3058360/Parisian_Brasserie_Simulator/
-{ "name": "BrasserieSimulator.exe", "type": "Game" }
+{ "name": "BrasserieSimulator.exe", "type": "BG_CPUIO" }
 { "name": "BrasserieSimulator-Win64-Shipping.exe", "type": "Game" }
 
 # Parkasaurus https://store.steampowered.com/app/591460/Parkasaurus/
@@ -303,7 +303,7 @@
 { "name": "Pat The Cat.exe", "type": "Game" }
 
 # Pavlov https://store.steampowered.com/app/555160/Pavlov/
-{ "name": "Pavlov.exe", "type": "Game" }
+{ "name": "Pavlov.exe", "type": "BG_CPUIO" }
 { "name": "Pavlov-Win64-Shipping.exe", "type": "Game" }
 
 # Pawnbroker Simulator https://store.steampowered.com/app/3997360/Pawnbroker_Simulator/
@@ -319,7 +319,7 @@
 { "name": "PaxAugusta.exe", "type": "Game" }
 
 # Pax Dei https://store.steampowered.com/app/1995520/Pax_Dei/
-{ "name": "PaxDei.exe", "type": "Game" }
+{ "name": "PaxDei.exe", "type": "BG_CPUIO" }
 { "name": "PaxDeiClient-Win64-Shipping.exe", "type": "Game" }
 
 # PAYDAY 2 https://store.steampowered.com/app/218620/PAYDAY_2/
@@ -328,13 +328,13 @@
 
 # PAYDAY 3 https://store.steampowered.com/app/1272080/PAYDAY_3/
 { "name": "PAYDAY3Client-Win64-Shipping.exe", "type": "Game" }
-{ "name": "PAYDAY3Client.exe", "type": "Game" }
+{ "name": "PAYDAY3Client.exe", "type": "BG_CPUIO" }
 
 # PAYDAY The Heist https://store.steampowered.com/app/24240/PAYDAY_The_Heist/
 { "name": "payday_win32_release.exe", "type": "Game" }
 
 # PBA Pro Bowling 2026 https://store.steampowered.com/app/3127230/PBA_Pro_Bowling_2026/
-{ "name": "PBABowling4.exe", "type": "Game" }
+{ "name": "PBABowling4.exe", "type": "BG_CPUIO" }
 { "name": "PBABowling4-Win64-Shipping.exe", "type": "Game" }
 
 # PCBox, Emulator of PC-based machines based on 86Box via wine for SDL2 mouse keys https://pcbox-emu.xyz/
@@ -365,7 +365,7 @@
 { "name": "Pedro clicker.exe", "type": "Game" }
 
 # Peekaboo https://store.steampowered.com/app/1048100/Peekaboo/
-{ "name": "Peekaboo.exe", "type": "Game" }
+{ "name": "Peekaboo.exe", "type": "BG_CPUIO" }
 { "name": "Peekaboo-Win64-Shipping.exe", "type": "Game" }
 
 # Peeping Dorm Manager https://store.steampowered.com/app/2273420/
@@ -399,7 +399,7 @@
 { "name": "requiem.exe", "type": "Game" }
 
 # People of Note https://store.steampowered.com/app/1626170/People_of_Note/
-{ "name": "PeopleOfNote.exe", "type": "Game" }
+{ "name": "PeopleOfNote.exe", "type": "BG_CPUIO" }
 { "name": "PeopleOfNote-Win64-Shipping.exe", "type": "Game" }
 
 # People Playground https://store.steampowered.com/app/1118200/People_Playground/
@@ -412,18 +412,18 @@
 { "name": "Per Aspera.exe", "type": "Game" }
 
 # Perceptum Playtest https://store.steampowered.com/app/4124340/Perceptum/
-{ "name": "Perceptum.exe", "type": "Game" }
+{ "name": "Perceptum.exe", "type": "BG_CPUIO" }
 { "name": "Perceptum-Win64-Shipping.exe", "type": "Game" }
 
 # Peregrino https://store.steampowered.com/app/3268150/Peregrino/
-{ "name": "Peregrino.exe", "type": "Game" }
+{ "name": "Peregrino.exe", "type": "BG_CPUIO" }
 { "name": "Peregrino-Win64-Shipping.exe", "type": "Game" }
 
 # Perfect Golf https://store.steampowered.com/app/288140/Perfect_Golf/
 { "name": "Perfect Golf.exe", "type": "Game" }
 
 # Perfect Heist 2 https://store.steampowered.com/app/1521580/Perfect_Heist_2/
-{ "name": "PerfectHeist2.exe", "type": "Game" }
+{ "name": "PerfectHeist2.exe", "type": "BG_CPUIO" }
 { "name": "PerfectHeist2-Win64-Shipping.exe", "type": "Game" }
 
 # Perfume Atelier https://store.steampowered.com/app/3962270/Perfume_Atelier/
@@ -472,7 +472,7 @@
 { "name": "PhantomBrigade.exe", "type": "Game" }
 
 # Phantom Doctrine https://store.steampowered.com/app/559100/Phantom_Doctrine/
-{ "name": "IWTB.exe", "type": "Game" }
+{ "name": "IWTB.exe", "type": "BG_CPUIO" }
 { "name": "IWTB-Win64-Shipping.exe", "type": "Game" }
 
 # Phantom Squad https://store.steampowered.com/app/2841770/Phantom_Squad/
@@ -550,7 +550,7 @@
 { "name": "PinballArcadeCabinet.exe", "type": "Game" }
 
 # Pinball FX https://store.steampowered.com/app/2328760/Pinball_FX/
-{ "name": "PinballFX.exe", "type": "Game" }
+{ "name": "PinballFX.exe", "type": "BG_CPUIO" }
 { "name": "PinballFX-Win64-Shipping.exe", "type": "Game" }
 
 # Pinball FX3 https://store.steampowered.com/app/442120/Pinball_FX3/
@@ -570,7 +570,7 @@
 { "name": "Pioneers of Pagonia.exe", "type": "Game" }
 
 # PIONER https://store.steampowered.com/app/3105890/PIONER/
-{ "name": "Pioner.exe", "type": "Game" }
+{ "name": "Pioner.exe", "type": "BG_CPUIO" }
 { "name": "Pioner-Win64-Shipping.exe", "type": "Game" }
 
 # Pipistrello and the Cursed Yoyo https://store.steampowered.com/app/2870350/Pipistrello_and_the_Cursed_Yoyo/
@@ -745,7 +745,7 @@
 { "name": "PlateUp.exe", "type": "Game" }
 
 # Platform 8 https://store.steampowered.com/app/2903560/Platform_8/
-{ "name": "Platform8.exe", "type": "Game" }
+{ "name": "Platform8.exe", "type": "BG_CPUIO" }
 
 # Platform Control https://store.steampowered.com/app/3050010/Platform_Control/
 { "name": "Platform Control.exe", "type": "Game" }
@@ -767,7 +767,7 @@
 { "name": "PH1Plague.exe", "type": "Game" }
 
 # PlayStation VR2 App https://store.steampowered.com/app/2580190/PlayStationVR2_App/
-{ "name": "PlayStationVR2App.exe", "type": "Game" }
+{ "name": "PlayStationVR2App.exe", "type": "BG_CPUIO" }
 { "name": "PlayAreaSetup-Win64-Shipping.exe", "type": "Game" }
 
 # Play Together https://store.steampowered.com/app/3198850/Play_Together/
@@ -828,18 +828,18 @@
 { "name": "PokerWorld.exe", "type": "Game" }
 
 # Police Chief Simulator: Prologue - Early Days https://store.steampowered.com/app/4224800/Police_Chief_Simulator_Prologue__Early_Days/
-{ "name": "ProjectPraesidium.exe", "type": "Game" }
+{ "name": "ProjectPraesidium.exe", "type": "BG_CPUIO" }
 { "name": "ProjectPraesidium-Win64-Shipping.exe", "type": "Game" }
 
 # Police Simulator: Patrol Officers https://store.steampowered.com/app/997010/Police_Simulator_Patrol_Officers/
-{ "name": "Boston.exe", "type": "Game" }
+{ "name": "Boston.exe", "type": "BG_CPUIO" }
 { "name": "Boston-Win64-Shipping.exe", "type": "Game" }
 
 # Police Stories https://store.steampowered.com/app/539470/Police_Stories/
 { "name": "PoliceStories.exe", "type": "Game" }
 
 # POLYARIS Demo https://store.steampowered.com/app/3166290/POLYARIS_Demo/
-{ "name": "POLYARIS.exe", "type": "Game" }
+{ "name": "POLYARIS.exe", "type": "BG_CPUIO" }
 { "name": "POLYARIS_MagicPie-Win64-Shipping.exe", "type": "Game" }
 
 # Poly Bridge https://store.steampowered.com/app/367450/Poly_Bridge/
@@ -882,25 +882,25 @@
 { "name": "Poop.exe", "type": "Game" }
 
 # Poppy Playtime https://store.steampowered.com/app/1721470/Poppy_Playtime/
-{ "name": "Poppy_Playtime.exe", "type": "Game" }
+{ "name": "Poppy_Playtime.exe", "type": "BG_CPUIO" }
 { "name": "Poppy_Playtime-Win64-Shipping.exe", "type": "Game" }
-{ "name": "PlaytimeLauncher.exe", "type": "Game" }
+{ "name": "PlaytimeLauncher.exe", "type": "BG_CPUIO" }
 { "name": "PlaytimeLauncher-Win64-Shipping.exe", "type": "Game" }
 
 # Poppy Playtime - Chapter 2 https://store.steampowered.com/app/1817490/Poppy_Playtime__Chapter_2/
-{ "name": "Playtime_Prototype4.exe", "type": "Game" }
+{ "name": "Playtime_Prototype4.exe", "type": "BG_CPUIO" }
 { "name": "Playtime_Prototype4-Win64-Shipping.exe", "type": "Game" }
 
 # Poppy Playtime - Chapter 3 https://store.steampowered.com/app/2555190/Poppy_Playtime__Chapter_3/
-{ "name": "Playtime_Chapter3.exe", "type": "Game" }
+{ "name": "Playtime_Chapter3.exe", "type": "BG_CPUIO" }
 { "name": "Playtime_Chapter3-Win64-Shipping.exe", "type": "Game" }
 
 # Poppy Playtime - Chapter 4 https://store.steampowered.com/app/3008670/Poppy_Playtime__Chapter_4/
-{ "name": "Playtime_Chapter4.exe", "type": "Game" }
+{ "name": "Playtime_Chapter4.exe", "type": "BG_CPUIO" }
 { "name": "ch4_pro-Win64-Shipping.exe", "type": "Game" }
 
 # Poppy Playtime - Chapter 5 https://store.steampowered.com/app/4100940/Poppy_Playtime__Chapter_5/
-{ "name": "ch5_pro.exe", "type": "Game" }
+{ "name": "ch5_pro.exe", "type": "BG_CPUIO" }
 { "name": "ch5_pro-Win64-Shipping.exe", "type": "Game" }
 
 # POPUCOM https://store.steampowered.com/app/2543180/POPUCOM/
@@ -934,7 +934,7 @@
 { "name": "PortRoyale4.exe", "type": "Game" }
 
 # Possessor(s) https://store.steampowered.com/app/2132890/Possessors/
-{ "name": "Pose.exe", "type": "Game" }
+{ "name": "Pose.exe", "type": "BG_CPUIO" }
 { "name": "Pose-Win64-Shipping.exe", "type": "Game" }
 
 # POSTAL https://store.steampowered.com/app/232770/POSTAL/
@@ -956,7 +956,7 @@
 
 # POSTAL Redux https://store.steampowered.com/app/401680/POSTAL_Redux/
 { "name": "PostalREDUX-Win64-Shipping.exe", "type": "Game" }
-{ "name": "PostalREDUX.exe", "type": "Game" }
+{ "name": "PostalREDUX.exe", "type": "BG_CPUIO" }
 
 # Post Apocalyptic Mayhem https://store.steampowered.com/app/91900/Post_Apocalyptic_Mayhem/
 { "name": "PAMMainGame.exe", "type": "Game" }
@@ -968,7 +968,7 @@
 { "name": "Potion Craft.exe", "type": "Game" }
 
 # Potionomics https://store.steampowered.com/app/1874490/Potionomics/
-{ "name": "Potionomics.exe", "type": "Game" }
+{ "name": "Potionomics.exe", "type": "BG_CPUIO" }
 { "name": "Potionomics-Win64-Shipping.exe", "type": "Game" }
 
 # Potion Permit https://store.steampowered.com/app/1337760/Potion_Permit/
@@ -996,7 +996,7 @@
 { "name": "PoxNora.exe", "type": "Game" }
 
 # Praetorians - HD Remaster https://store.steampowered.com/app/1100420/Praetorians__HD_Remaster/
-{ "name": "Praetorians.exe", "type": "Game" }
+{ "name": "Praetorians.exe", "type": "BG_CPUIO" }
 { "name": "Praetorians-Win64-Shipping.exe", "type": "Game" }
 
 # Praey for the Gods https://store.steampowered.com/app/494430/Praey_for_the_Gods/
@@ -1012,7 +1012,7 @@
 { "name": "Pratfall.exe", "type": "Game" }
 
 # Predator: Hunting Grounds https://store.steampowered.com/app/1556200/Predator_Hunting_Grounds/
-{ "name": "SpaceFish.exe", "type": "Game" }
+{ "name": "SpaceFish.exe", "type": "BG_CPUIO" }
 
 # Predecessor https://store.steampowered.com/app/961200/Predecessor/
 { "name": "PredecessorClient-Win64-Shipping.exe", "type": "Game" }
@@ -1204,21 +1204,21 @@
 { "name": "ProjectNimbusCompleteEdition.exe", "type": "Game" }
 
 # PROJECT: PLAYTIME https://store.steampowered.com/app/1961460/PROJECT_PLAYTIME/
-{ "name": "Playtime_Multiplayer.exe", "type": "Game" }
+{ "name": "Playtime_Multiplayer.exe", "type": "BG_CPUIO" }
 { "name": "Playtime_Multiplayer-Win64-Shipping.exe", "type": "Game" }
 
 # Project QT https://store.steampowered.com/app/1571200/
 { "name": "Project_QT.exe", "type": "Game" }
 
 # Project Silverfish https://store.steampowered.com/app/2941710/Project_Silverfish/
-{ "name": "SilverFish.exe", "type": "Game" }
+{ "name": "SilverFish.exe", "type": "BG_CPUIO" }
 { "name": "SilverFish-Win64-Shipping.exe", "type": "Game" }
 
 # Project Torque https://store.steampowered.com/app/1112400/Project_Torque__Free_2_Play_MMO_Racing_Game/
 { "name": "ProjectTorque.exe", "type": "Game" }
 
 # Project Unknown https://store.steampowered.com/app/2115390/Project_Unknown/
-{ "name": "ProjectUnknown.exe", "type": "Game" }
+{ "name": "ProjectUnknown.exe", "type": "BG_CPUIO" }
 { "name": "ProjectUnknown-Win64-Shipping.exe", "type": "Game" }
 
 # Project Warlock https://store.steampowered.com/app/893680/Project_Warlock/
@@ -1230,10 +1230,10 @@
 
 # Project Werewulf https://store.steampowered.com/app/2343900/Project_Werewulf/
 { "name": "Project_Werewulf-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Project_Werewulf.exe", "type": "Game" }
+{ "name": "Project_Werewulf.exe", "type": "BG_CPUIO" }
 
 # Project Wingman https://store.steampowered.com/app/895870/Project_Wingman/
-{ "name": "ProjectWingman.exe", "type": "Game" }
+{ "name": "ProjectWingman.exe", "type": "BG_CPUIO" }
 { "name": "ProjectWingman-Win64-Shipping.exe", "type": "Game" }
 
 # Project Winter https://store.steampowered.com/app/774861/Project_Winter/
@@ -1244,12 +1244,12 @@
 { "name": "ProjectZomboid64.exe", "type": "Game" }
 
 # Prologue: Go Wayback! https://store.steampowered.com/app/2943740/Prologue_Go_Wayback/
-{ "name": "PrologueSteam.exe", "type": "Game" }
+{ "name": "PrologueSteam.exe", "type": "BG_CPUIO" }
 { "name": "PrologueSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Prominence Poker https://store.steampowered.com/app/384180/Prominence_Poker/
 { "name": "Prominence-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Prominence.exe", "type": "Game" }
+{ "name": "Prominence.exe", "type": "BG_CPUIO" }
 
 # Promise Mascot Agency https://store.steampowered.com/app/2585830/Promise_Mascot_Agency/
 { "name": "MM-Win64-Shipping.exe", "type": "Game" }
@@ -1261,7 +1261,7 @@
 { "name": "PropagationVR.exe", "type": "Game" }
 
 # PropHunter https://store.steampowered.com/app/1682050/PropHunter/
-{ "name": "PropHunter.exe", "type": "Game" }
+{ "name": "PropHunter.exe", "type": "BG_CPUIO" }
 { "name": "PropHunter-Win64-Shipping.exe", "type": "Game" }
 
 # Pro Soccer Online https://store.steampowered.com/app/1583320/Pro_Soccer_Online/
@@ -1292,7 +1292,7 @@
 { "name": "PrprLive.exe", "type": "Game" }
 
 # Pseudoregalia https://store.steampowered.com/app/2365810/Pseudoregalia/
-{ "name": "pseudoregalia.exe", "type": "Game" }
+{ "name": "pseudoregalia.exe", "type": "BG_CPUIO" }
 { "name": "pseudoregalia-Win64-Shipping.exe", "type": "Game" }
 
 # Psych Engine https://github.com/ShadowMario/FNF-PsychEngine/
@@ -1302,7 +1302,7 @@
 { "name": "Psychonauts.exe", "type": "Game" }
 
 # Psychonauts 2 https://store.steampowered.com/app/607080/Psychonauts_2/
-{ "name": "Psychonauts2.exe", "type": "Game" }
+{ "name": "Psychonauts2.exe", "type": "BG_CPUIO" }
 { "name": "Psychonauts2-Win64-Shipping.exe", "type": "Game" }
 
 # Psycho Patrol R https://store.steampowered.com/app/1907590/Psycho_Patrol_R/
@@ -1335,8 +1335,8 @@
 { "name": "PUMP IT UP RISE.exe", "type": "Game" }
 
 # Pumpkin Jack https://store.steampowered.com/app/1186640/Pumpkin_Jack/
-{ "name": "PumpkinJack.exe", "type": "Game" }
-{ "name": "PumpkinJackLauncher.exe", "type": "Game" }
+{ "name": "PumpkinJack.exe", "type": "BG_CPUIO" }
+{ "name": "PumpkinJackLauncher.exe", "type": "BG_CPUIO" }
 { "name": "PumpkinJack-Win64-Shipping.exe", "type": "Game" }
 
 # PUMPKIN PANIC https://store.steampowered.com/app/3177920/PUMPKIN_PANIC/

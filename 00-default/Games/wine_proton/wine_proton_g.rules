@@ -68,18 +68,18 @@
 { "name": "GotPC.exe", "type": "Game" }
 
 # Gaming Cafe Simulator https://store.steampowered.com/app/2978540/Gaming_Cafe_Simulator/
-{ "name": "GamingCafeSimulator.exe", "type": "Game" }
+{ "name": "GamingCafeSimulator.exe", "type": "BG_CPUIO" }
 { "name": "GamingCafeSimulator-Win64-Shipping.exe", "type": "Game" }
 
 # Gang Beasts https://store.steampowered.com/app/285900/Gang_Beasts/
 { "name": "Gang Beasts.exe", "type": "Game" }
 
 # Gang of Frogs https://store.steampowered.com/app/3081510/Gang_of_Frogs/
-{ "name": "NebulaCoopProject.exe", "type": "Game" }
+{ "name": "NebulaCoopProject.exe", "type": "BG_CPUIO" }
 { "name": "NebulaCoopProject-Win64-Shipping.exe", "type": "Game" }
 
 # Gangs of Sherwood https://store.steampowered.com/app/1351000/Gangs_of_Sherwood/
-{ "name": "Hood.exe", "type": "Game" }
+{ "name": "Hood.exe", "type": "BG_CPUIO" }
 { "name": "Hood-Win64-Shipping.exe", "type": "Game" }
 
 # Gaokao.Love.100Days https://store.steampowered.com/app/347620/GaokaoLove100Days/
@@ -90,7 +90,7 @@
 { "name": "Garden Galaxy.exe", "type": "Game" }
 
 # Garden Life: A Cozy Simulator https://store.steampowered.com/app/1915380/Garden_Life_A_Cozy_Simulator/
-{ "name": "GardenLife.exe", "type": "Game" }
+{ "name": "GardenLife.exe", "type": "BG_CPUIO" }
 { "name": "GardenLife-Win64-Shipping.exe", "type": "Game" }
 
 # Garden of Witches https://store.steampowered.com/app/2530470/Garden_of_Witches/
@@ -113,12 +113,12 @@
 { "name": "gmod.exe", "type": "Game" }
 
 # Garten of Banban https://store.steampowered.com/app/2232840/Garten_of_Banban/
-{ "name": "Garten_of_Banban.exe", "type": "Game" }
-{ "name": "Garten_of_Banban_VR.exe", "type": "Game" }
+{ "name": "Garten_of_Banban.exe", "type": "BG_CPUIO" }
+{ "name": "Garten_of_Banban_VR.exe", "type": "BG_CPUIO" }
 { "name": "Clay-Win64-Shipping.exe", "type": "Game" }
 
 # Garten of Banban 0 https://store.steampowered.com/app/3300410/Garten_of_Banban_0/
-{ "name": "Garten of Banban 0.exe", "type": "Game" }
+{ "name": "Garten of Banban 0.exe", "type": "BG_CPUIO" }
 { "name": "Clay_0-Win64-Shipping.exe", "type": "Game" }
 
 # Gary Grigsby's War in the East https://store.steampowered.com/app/370540/Gary_Grigsbys_War_in_the_East/
@@ -135,7 +135,7 @@
 { "name": "GasGuzzlers.exe", "type": "Game" }
 
 # Gas Station Simulator https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
-{ "name": "GSS2.exe", "type": "Game" }
+{ "name": "GSS2.exe", "type": "BG_CPUIO" }
 { "name": "GSS2-Win64-Shipping.exe", "type": "Game" }
 
 # Gatekeeper https://store.steampowered.com/app/2106670/Gatekeeper/
@@ -254,11 +254,11 @@
 { "name": "GhostOfTsushima.exe", "type": "Game" }
 
 # Ghostrunner https://store.steampowered.com/app/1139900/Ghostrunner/
-{ "name": "Ghostrunner.exe", "type": "Game" }
+{ "name": "Ghostrunner.exe", "type": "BG_CPUIO" }
 { "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
 
 # Ghostrunner 2 https://store.steampowered.com/app/2144740/Ghostrunner_2/
-{ "name": "Ghostrunner2.exe", "type": "Game" }
+{ "name": "Ghostrunner2.exe", "type": "BG_CPUIO" }
 { "name": "Ghostrunner2-Win64-Shipping.exe", "type": "Game" }
 
 # Ghosts 'n Goblins Resurrection https://store.steampowered.com/app/1375400/Ghosts_n_Goblins_Resurrection/
@@ -287,7 +287,7 @@
 { "name": "GSLauncher.exe", "type": "Game" }
 
 # GigaBash https://store.steampowered.com/app/1546400/GigaBash/
-{ "name": "GigaBash.exe", "type": "Game" }
+{ "name": "GigaBash.exe", "type": "BG_CPUIO" }
 { "name": "TitanXX-Win64-Shipping.exe", "type": "Game" }
 
 # GIGANTIC ARMY https://store.steampowered.com/app/278930/GIGANTIC_ARMY/
@@ -364,18 +364,18 @@
 { "name": "GoatGame-Win32-Shipping.exe", "type": "Game" }
 
 # Goat Simulator 3 https://store.steampowered.com/app/850190/Goat_Simulator_3/
-{ "name": "Goat2.exe", "type": "Game" }
+{ "name": "Goat2.exe", "type": "BG_CPUIO" }
 { "name": "Goat2-Win64-Shipping.exe", "type": "Game" }
 
 # Goat Simulator: Remastered https://store.steampowered.com/app/1762930/Goat_Simulator_Remastered/
-{ "name": "Goatsim_UE4.exe", "type": "Game" }
+{ "name": "Goatsim_UE4.exe", "type": "BG_CPUIO" }
 { "name": "Goatsim_UE4-Win64-Shipping.exe", "type": "Game" }
 
 # Goblin Cleanup https://store.steampowered.com/app/2748340/Goblin_Cleanup/
 { "name": "Goblin Cleanup.exe", "type": "Game" }
 
 # Goblin Company https://store.steampowered.com/app/3864450/Goblin_Company/
-{ "name": "GoblinCompany.exe", "type": "Game" }
+{ "name": "GoblinCompany.exe", "type": "BG_CPUIO" }
 { "name": "GoblinCompany-Win64-Shipping.exe", "type": "Game" }
 
 # Goblin Lord wants me to become a Virgin Wizard by Managing The Brothel!? https://store.steampowered.com/app/2352790/
@@ -397,7 +397,7 @@
 { "name": "GobZ.exe", "type": "Game" }
 
 # GODBREAKERS https://store.steampowered.com/app/2687400/GODBREAKERS/
-{ "name": "Godbreakers.exe", "type": "Game" }
+{ "name": "Godbreakers.exe", "type": "BG_CPUIO" }
 { "name": "Godbreakers_Steam-Win64-Shipping.exe", "type": "Game" }
 
 # GOD EATER 2 Rage Burst https://store.steampowered.com/app/438490/GOD_EATER_2_Rage_Burst/
@@ -410,7 +410,7 @@
 { "name": "GER.exe", "type": "Game" }
 
 # Godfall https://store.steampowered.com/app/928960/Godfall_Ultimate_Edition/
-{ "name": "Aperion.exe", "type": "Game" }
+{ "name": "Aperion.exe", "type": "BG_CPUIO" }
 { "name": "Aperion-Win64-Shipping.exe", "type": "Game" }
 
 # God For A Day https://store.steampowered.com/app/2695710/God_For_A_Day/
@@ -484,7 +484,7 @@
 { "name": "GoldRushTheGame.exe", "type": "Game" }
 
 # Gold Mining Simulator 2 Playtest https://store.steampowered.com/app/3481280/
-{ "name": "GoldFever.exe", "type": "Game" }
+{ "name": "GoldFever.exe", "type": "BG_CPUIO" }
 { "name": "GoldFever-Win64-Shipping.exe", "type": "Game" }
 
 # Gold Rush! Classic https://store.steampowered.com/app/308000/Gold_Rush_Classic/
@@ -494,7 +494,7 @@
 { "name": "Golf Gang.exe", "type": "Game" }
 
 # Golf It! https://store.steampowered.com/app/571740/Golf_It/
-{ "name": "GolfIt.exe", "type": "Game" }
+{ "name": "GolfIt.exe", "type": "BG_CPUIO" }
 { "name": "GolfIt-Win64-Shipping.exe", "type": "Game" }
 
 # Golf With Your Friends https://store.steampowered.com/app/431240/Golf_With_Your_Friends/
@@ -504,7 +504,7 @@
 { "name": "Gomo.exe", "type": "Game" }
 
 # GONE Fishing https://store.steampowered.com/app/3645890/GONE_Fishing/
-{ "name": "GONEfishing.exe", "type": "Game" }
+{ "name": "GONEfishing.exe", "type": "BG_CPUIO" }
 { "name": "GONEfishing-Win64-Shipping.exe", "type": "Game" }
 
 # Gone Home https://store.steampowered.com/app/232430/Gone_Home/
@@ -512,8 +512,8 @@
 { "name": "GoneHome32.exe", "type": "Game" }
 
 # Goobies https://store.steampowered.com/app/2294130/Goobies/
-{ "name": "Goobies_Vulkan.exe", "type": "Game" }
-{ "name": "Goobies_DX11.exe", "type": "Game" }
+{ "name": "Goobies_Vulkan.exe", "type": "BG_CPUIO" }
+{ "name": "Goobies_DX11.exe", "type": "BG_CPUIO" }
 { "name": "Shooter-Win64-Shipping.exe", "type": "Game" }
 
 # GooCubelets: The Void https://store.steampowered.com/app/505440/
@@ -532,7 +532,7 @@
 { "name": "PizzaBusiness.exe", "type": "Game" }
 
 # Goofy Gorillas https://store.steampowered.com/app/2627570/Goofy_Gorillas/
-{ "name": "Goofy.exe", "type": "Game" }
+{ "name": "Goofy.exe", "type": "BG_CPUIO" }
 { "name": "Goofy-Win64-Shipping.exe", "type": "Game" }
 
 # Google Earth VR https://steamdb.info/app/348250/
@@ -551,7 +551,7 @@
 { "name": "Gore Sword.exe", "type": "Game" }
 
 # Gori: Cuddly Carnage https://store.steampowered.com/app/1299690/Gori_Cuddly_Carnage/
-{ "name": "GoriCuddlyCarnage.exe", "type": "Game" }
+{ "name": "GoriCuddlyCarnage.exe", "type": "BG_CPUIO" }
 { "name": "GoriCuddlyCarnage-Win64-Shipping.exe", "type": "Game" }
 
 # Gorilla Tag https://store.steampowered.com/app/1533390/Gorilla_Tag/
@@ -617,7 +617,7 @@
 { "name": "granblue_fantasy_relink.exe", "type": "Game" }
 
 # Granblue Fantasy: Versus https://store.steampowered.com/app/1090630/Granblue_Fantasy_Versus/
-{ "name": "GBVS.exe", "type": "Game" }
+{ "name": "GBVS.exe", "type": "BG_CPUIO" }
 { "name": "GBVS-Win64-Shipping.exe", "type": "Game" }
 
 # GrandChase https://store.steampowered.com/app/985810/GrandChase/
@@ -630,7 +630,7 @@
 { "name": "grandia2.exe", "type": "Game" }
 
 # Grandpa High On Retro https://store.steampowered.com/app/2967320/Grandpa_High_on_Retro/
-{ "name": "GrandpaV4.exe", "type": "Game" }
+{ "name": "GrandpaV4.exe", "type": "BG_CPUIO" }
 { "name": "GrandpaV4-Win64-Shipping.exe", "type": "Game" }
 
 # Grand Tactician: The Civil War (1861-1865) https://store.steampowered.com/app/654890/Grand_Tactician_The_Civil_War_18611865/
@@ -687,7 +687,7 @@
 
 # Granny: Escape Together https://store.steampowered.com/app/3070520/Granny_Escape_Together/
 { "name": "GrannyEscapeTogether-Win64-Shipping.exe", "type": "Game" }
-{ "name": "GrannyEscapeTogether.exe", "type": "Game" }
+{ "name": "GrannyEscapeTogether.exe", "type": "BG_CPUIO" }
 
 # Granny Remake https://store.steampowered.com/app/2110820/Granny_Remake/
 { "name": "Granny-Win64-Shipping.exe", "type": "Game" }
@@ -705,7 +705,7 @@
 { "name": "Grapples Galore.exe", "type": "Game" }
 
 # Gravel https://store.steampowered.com/app/558260/Gravel/
-{ "name": "gravel.exe", "type": "Game" }
+{ "name": "gravel.exe", "type": "BG_CPUIO" }
 { "name": "gravel-Win64-Shipping.exe", "type": "Game" }
 
 # Graveyard Gunslingers https://store.steampowered.com/app/2462060/Graveyard_Gunslingers/
@@ -722,7 +722,7 @@
 
 # Gray Zone Warfare https://store.steampowered.com/app/2479810/Gray_Zone_Warfare/
 { "name": "GZWClientSteam-Win64-Shipping.exe", "type": "Game" }
-{ "name": "GZWClientEAC.exe", "type": "Game" }
+{ "name": "GZWClientEAC.exe", "type": "BG_CPUIO" }
 
 # GreedFall https://store.steampowered.com/app/606880/GreedFall/
 { "name": "GreedFall.exe", "type": "Game" }
@@ -731,7 +731,7 @@
 { "name": "GreedFall2.exe", "type": "Game" }
 
 # Greedland https://store.steampowered.com/app/2218400/Greedland/
-{ "name": "NewGreedland.exe", "type": "Game" }
+{ "name": "NewGreedland.exe", "type": "BG_CPUIO" }
 { "name": "NewGreedland-Win64-Shipping.exe", "type": "Game" }
 
 # Green Project https://store.steampowered.com/app/1274490/Green_Project/
@@ -768,7 +768,7 @@
 { "name": "Griftlands.exe", "type": "Game" }
 
 # Grim https://store.steampowered.com/app/1403940/Grim/
-{ "name": "Grim.exe", "type": "Game" }
+{ "name": "Grim.exe", "type": "BG_CPUIO" }
 { "name": "Grim-Win64-Shipping.exe", "type": "Game" }
 
 # Grim Dawn https://store.steampowered.com/app/219990/Grim_Dawn/
@@ -799,37 +799,37 @@
 { "name": "Grind Hero.exe", "type": "Game" }
 
 # Grind Survivors https://store.steampowered.com/app/3816930/Grind_Survivors/
-{ "name": "GrindSurvivors.exe", "type": "Game" }
+{ "name": "GrindSurvivors.exe", "type": "BG_CPUIO" }
 { "name": "GrindSurvivors-Win64-Shipping.exe", "type": "Game" }
 
 # GRIP: Combat Racing https://store.steampowered.com/app/396900/GRIP_Combat_Racing/
-{ "name": "Grip.exe", "type": "Game" }
+{ "name": "Grip.exe", "type": "BG_CPUIO" }
 { "name": "Grip-Win64-Shipping.exe", "type": "Game" }
 
 # GRIS https://store.steampowered.com/app/683320/GRIS/
 { "name": "GRIS.exe", "type": "Game" }
 
 # Grocery Store Simulator https://store.steampowered.com/app/2961880/Grocery_Store_Simulator/
-{ "name": "Simulatorita.exe", "type": "Game" }
+{ "name": "Simulatorita.exe", "type": "BG_CPUIO" }
 { "name": "Simulatorita-Win64-Shipping.exe", "type": "Game" }
 
 # GROUND BRANCH https://store.steampowered.com/app/16900/GROUND_BRANCH/
-{ "name": "GroundBranch.exe", "type": "Game" }
+{ "name": "GroundBranch.exe", "type": "BG_CPUIO" }
 { "name": "GroundBranch-Win64-Shipping.exe", "type": "Game" }
 
 # Grounded https://store.steampowered.com/app/962130/Grounded/
 { "name": "Maine-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Grounded.exe", "type": "Game" }
+{ "name": "Grounded.exe", "type": "BG_CPUIO" }
 
 # Grounded 2 https://store.steampowered.com/app/2661300/Grounded_2/
 { "name": "Grounded2-WinGRTS-Shipping.exe", "type": "Game" }
-{ "name": "Grounded2.exe", "type": "Game" }
+{ "name": "Grounded2.exe", "type": "BG_CPUIO" }
 
 # Ground of Aces https://store.steampowered.com/app/2308690/Ground_of_Aces/
 { "name": "GroundOfAces.exe", "type": "Game" }
 
 # Ground Zero https://store.steampowered.com/app/2340130/Ground_Zero/
-{ "name": "GroundZero.exe", "type": "Game" }
+{ "name": "GroundZero.exe", "type": "BG_CPUIO" }
 { "name": "GroundZero-Win64-Shipping.exe", "type": "Game" }
 
 # Grow Defense https://store.steampowered.com/app/1083600/Grow_Defense/
@@ -879,7 +879,7 @@
 { "name": "StandaloneWindows64.exe", "type": "Game" }
 
 # GUILTY GEAR -STRIVE- https://store.steampowered.com/app/1384160/GUILTY_GEAR_STRIVE/
-{ "name": "GGST.exe", "type": "Game" }
+{ "name": "GGST.exe", "type": "BG_CPUIO" }
 { "name": "GGST-Win64-Shipping.exe", "type": "Game" }
 
 # GUILTY GEAR Xrd REV 2 https://store.steampowered.com/app/520440/GUILTY_GEAR_Xrd_REV_2/
@@ -909,7 +909,7 @@
 { "name": "Gun Crazy.exe", "type": "Game" }
 
 # GUNDAM BREAKER 4 https://store.steampowered.com/app/1672500/GUNDAM_BREAKER_4/
-{ "name": "GB4.exe", "type": "Game" }
+{ "name": "GB4.exe", "type": "BG_CPUIO" }
 { "name": "GB4-Win64-Shipping.exe", "type": "Game" }
 
 # Gun Factory Simulator https://store.steampowered.com/app/3137520/Gun_Factory_Simulator/

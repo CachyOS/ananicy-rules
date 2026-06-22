@@ -30,7 +30,7 @@
 { "name": "Building.exe", "type": "Game" }
 
 # A Bumpy Ride https://store.steampowered.com/app/3056840/A_Bumpy_Ride/
-{ "name": "ABumpyRide.exe", "type": "Game" }
+{ "name": "ABumpyRide.exe", "type": "BG_CPUIO" }
 { "name": "ABumpyRide-Win64-Shipping.exe", "type": "Game" }
 
 # Abyss Odyssey https://store.steampowered.com/app/255070/Abyss_Odyssey/
@@ -40,11 +40,11 @@
 { "name": "Abyss_TheWraithsOfEden.exe", "type": "Game" }
 
 # Abyssus https://store.steampowered.com/app/1721110/Abyssus/
-{ "name": "RGame.exe", "type": "Game" }
+{ "name": "RGame.exe", "type": "BG_CPUIO" }
 { "name": "RGame-Win64-Shipping.exe", "type": "Game" }
 
 # ABZÛ https://store.steampowered.com/app/384190/ABZU/
-{ "name": "AbzuGame.exe", "type": "Game" }
+{ "name": "AbzuGame.exe", "type": "BG_CPUIO" }
 { "name": "AbzuGame-Win64-Shipping.exe", "type": "Game" }
 
 # Academia : School Simulator https://store.steampowered.com/app/672630/Academia__School_Simulator/
@@ -117,14 +117,14 @@
 { "name": "A Difficult Game About Climbing.exe", "type": "Game" }
 
 # Ad Infinitum https://store.steampowered.com/app/1234430/Ad_Infinitum/
-{ "name": "AdInfinitum.exe", "type": "Game" }
+{ "name": "AdInfinitum.exe", "type": "BG_CPUIO" }
 { "name": "AdInfinitum-Win64-Shipping.exe", "type": "Game" }
 
 # ADOM (Ancient Domains Of Mystery) https://store.steampowered.com/app/333300/ADOM_Ancient_Domains_Of_Mystery/
 { "name": "adom.exe", "type": "Game" }
 
 # Adorable Adventures https://store.steampowered.com/app/3840230/Adorable_Adventures/
-{ "name": "Adorable.exe", "type": "Game" }
+{ "name": "Adorable.exe", "type": "BG_CPUIO" }
 { "name": "Adorable-Win64-Shipping.exe", "type": "Game" }
 
 # AdVenture Capitalist https://store.steampowered.com/app/346900/AdVenture_Capitalist/
@@ -199,7 +199,7 @@
 { "name": "Afterbeat.exe", "type": "Game" }
 
 # Afterimage https://store.steampowered.com/app/1701520/Afterimage/
-{ "name": "Afterimage.exe", "type": "Game" }
+{ "name": "Afterimage.exe", "type": "BG_CPUIO" }
 { "name": "Afterimage-Win64-Shipping.exe", "type": "Game" }
 
 # After Inc: Revival https://store.steampowered.com/app/3337140/After_Inc_Revival/
@@ -212,7 +212,7 @@
 { "name": "Against the Storm.exe", "type": "Game" }
 
 # A Game About Chopping Trees Demo https://store.steampowered.com/app/4738320/A_Game_About_Chopping_Trees_Demo/
-{ "name": "ChoppingTrees.exe", "type": "Game" }
+{ "name": "ChoppingTrees.exe", "type": "BG_CPUIO" }
 { "name": "ChoppingTrees-Win64-Shipping.exe", "type": "Game" }
 
 # A Game About Digging A Hole https://store.steampowered.com/app/3244220/A_Game_About_Digging_A_Hole/
@@ -346,7 +346,7 @@
 { "name": "AI-LIMIT.exe", "type": "Game" }
 
 # Aimbeast https://store.steampowered.com/app/1100990/Aimbeast/
-{ "name": "Aimbeast.exe", "type": "Game" }
+{ "name": "Aimbeast.exe", "type": "BG_CPUIO" }
 { "name": "Aimbeast-Win64-Shipping.exe", "type": "Game" }
 
 # Aim Hero https://store.steampowered.com/app/518030/Aim_Hero/
@@ -431,7 +431,7 @@
 { "name": "Alaska Gold Fever.exe", "type": "Game" }
 
 # Alaskan Road Truckers https://store.steampowered.com/app/849100/Alaskan_Road_Truckers/
-{ "name": "ATS.exe", "type": "Game" }
+{ "name": "ATS.exe", "type": "BG_CPUIO" }
 { "name": "ATS-Win64-Shipping.exe", "type": "Game" }
 
 # Alba: A Wildlife Adventure https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/
@@ -445,7 +445,7 @@
 { "name": "AlchemistJourneyOfTheSoul.exe", "type": "Game" }
 
 # Alchemy Factory https://store.steampowered.com/app/3669570/Alchemy_Factory/
-{ "name": "AlchemyFactory.exe", "type": "Game" }
+{ "name": "AlchemyFactory.exe", "type": "BG_CPUIO" }
 { "name": "AlchemyFactory-Win64-Shipping.exe", "type": "Game" }
 
 # Ale Abbey https://store.steampowered.com/app/2789460/Ale_Abbey__Monastery_Brewery_Tycoon/
@@ -480,7 +480,7 @@
 { "name": "AliensDarkDescentGameSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Aliens: Fireteam Elite https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/
-{ "name": "Endeavor.exe", "type": "Game" }
+{ "name": "Endeavor.exe", "type": "BG_CPUIO" }
 { "name": "Endeavor-Win64-Shipping.exe", "type": "Game" }
 
 # Aliens versus Predator Classic 2000 https://store.steampowered.com/app/3730/Aliens_versus_Predator_Classic_2000/
@@ -534,7 +534,7 @@
 { "name": "Aloft.exe", "type": "Game" }
 
 # Alone in the Dark https://store.steampowered.com/app/1310410/Alone_in_the_Dark/
-{ "name": "AloneInTheDark.exe", "type": "Game" }
+{ "name": "AloneInTheDark.exe", "type": "BG_CPUIO" }
 { "name": "AloneInTheDark-Win64-Shipping.exe", "type": "Game" }
 
 # Alone in the Dark (2008) https://store.steampowered.com/app/259170/Alone_in_the_Dark_2008/
@@ -554,7 +554,7 @@
 { "name": "APGame.exe", "type": "Game" }
 
 # ALTF4 https://store.steampowered.com/app/1137460/ALTF4/
-{ "name": "ALTF4_F.exe", "type": "Game" }
+{ "name": "ALTF4_F.exe", "type": "BG_CPUIO" }
 { "name": "ALTF4_F-Win64-Shipping.exe", "type": "Game" }
 
 # Altitude https://store.steampowered.com/app/41300/Altitude/
@@ -585,11 +585,11 @@
 { "name": "Amberspire.exe", "type": "Game" }
 
 # Ambulance Life: A Paramedic Simulator https://store.steampowered.com/app/1926520/
-{ "name": "Sanka.exe", "type": "Game" }
+{ "name": "Sanka.exe", "type": "BG_CPUIO" }
 { "name": "Sanka-Win64-Shipping.exe", "type": "Game" }
 
 # American Arcadia https://store.steampowered.com/app/1249040/American_Arcadia/
-{ "name": "AArcadia.exe", "type": "Game" }
+{ "name": "AArcadia.exe", "type": "BG_CPUIO" }
 { "name": "AArcadia-Win64-Shipping.exe", "type": "Game" }
 
 # American Conquest https://store.steampowered.com/app/115210/American_Conquest/
@@ -673,7 +673,6 @@
 { "name": "arcade_launcher.exe", "type": "Game" }
 
 # Ancestors Legacy https://store.steampowered.com/app/620590/Ancestors_Legacy/
-{ "name": "DCConfig.exe", "type": "Game" }
 { "name": "Anc-Win64-Shipping.exe", "type": "Game" }
 
 # Ancestors: The Humankind Odyssey https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/
@@ -799,7 +798,7 @@
 { "name": "Anno.exe", "type": "Game" }
 
 # Annulus https://store.steampowered.com/app/2445840/Annulus/
-{ "name": "Annulus.exe", "type": "Game" }
+{ "name": "Annulus.exe", "type": "BG_CPUIO" }
 { "name": "Annulus-Win64-Shipping.exe", "type": "Game" }
 
 # Anomalous Coffee Machine https://store.steampowered.com/app/3173560/
@@ -821,7 +820,7 @@
 { "name": "AnomalyWarzoneEarth.exe", "type": "Game" }
 
 # Anonymous Hacker Simulator https://store.steampowered.com/app/2487060/Anonymous_Hacker_Simulator/
-{ "name": "HackerLifeSimulator.exe", "type": "Game" }
+{ "name": "HackerLifeSimulator.exe", "type": "BG_CPUIO" }
 { "name": "HackerLifeSimulator-Win64-Shipping.exe", "type": "Game" }
 
 # Another Crab's Treasure https://store.steampowered.com/app/1887840/Another_Crabs_Treasure/
@@ -849,7 +848,7 @@
 { "name": "ANTONBLAST.exe", "type": "Game" }
 
 # Anvil Empires Pre-Alpha https://store.steampowered.com/app/2383950/Anvil_Empires/
-{ "name": "Anvil.exe", "type": "Game" }
+{ "name": "Anvil.exe", "type": "BG_CPUIO" }
 { "name": "Anvil-Win64-Shipping.exe", "type": "Game" }
 
 # Aokana - Four Rhythms Across the Blue https://store.steampowered.com/app/1044620/Aokana__Four_Rhythms_Across_the_Blue/
@@ -882,7 +881,7 @@
 { "name": "Apex Point.exe", "type": "Game" }
 
 # Aphelion https://store.steampowered.com/app/1966410/Aphelion/
-{ "name": "PIO.exe", "type": "Game" }
+{ "name": "PIO.exe", "type": "BG_CPUIO" }
 { "name": "PIO-Win64-Shipping.exe", "type": "Game" }
 
 # APICO https://store.steampowered.com/app/1390190/APICO/
@@ -931,7 +930,7 @@
 { "name": "Aquaria.exe", "type": "Game" }
 
 # A Quiet Place: The Road Ahead https://store.steampowered.com/app/2233120/A_Quiet_Place_The_Road_Ahead/
-{ "name": "AQuietPlace.exe", "type": "Game" }
+{ "name": "AQuietPlace.exe", "type": "BG_CPUIO" }
 { "name": "AQuietPlace-Win64-Shipping.exe", "type": "Game" }
 
 # Aragami https://store.steampowered.com/app/280160/Aragami/
@@ -984,7 +983,7 @@
 { "name": "Archeblade.exe", "type": "Game" }
 
 # Architect Life: A House Design Simulator https://store.steampowered.com/app/1296400/Architect_Life_A_House_Design_Simulator/
-{ "name": "ArchitectLife.exe", "type": "Game" }
+{ "name": "ArchitectLife.exe", "type": "BG_CPUIO" }
 { "name": "Architect-Win64-Shipping.exe", "type": "Game" }
 
 # Archvale https://store.steampowered.com/app/1296360/Archvale/
@@ -1018,7 +1017,7 @@
 { "name": "Ariana and the Elder Codex.exe", "type": "Game" }
 
 # Arise: A Simple Story https://store.steampowered.com/app/866140/Arise_A_Simple_Story/
-{ "name": "Arise.exe", "type": "Game" }
+{ "name": "Arise.exe", "type": "BG_CPUIO" }
 { "name": "Arise-Win64-Shipping.exe", "type": "Game" }
 
 # Arizona Sunshine https://store.steampowered.com/app/342180/
@@ -1045,7 +1044,7 @@
 
 # ARK: Survival Ascended https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/
 { "name": "ArkAscended_BE.exe", "type": "Game" }
-{ "name": "ArkAscended.exe", "type": "Game" }
+{ "name": "ArkAscended.exe", "type": "BG_CPUIO" }
 { "name": "ShooterGame-Win64-Shipping.exe", "type": "Game" }
 
 # ARMA https://store.steampowered.com/app/65780/ARMA_Gold_Edition/
@@ -1094,7 +1093,7 @@
 { "name": "AWBenchmark.exe", "type": "Game" }
 
 # Arms of God https://store.steampowered.com/app/3100310/Arms_of_God/
-{ "name": "ArmsOfGod.exe", "type": "Game" }
+{ "name": "ArmsOfGod.exe", "type": "BG_CPUIO" }
 { "name": "ArmsOfGod-Win64-Shipping.exe", "type": "Game" }
 
 # Arms Trade Tycoon Tanks https://store.steampowered.com/app/1662210/Arms_Trade_Tycoon_Tanks/
@@ -1258,7 +1257,7 @@
 { "name": "Astebreed.exe", "type": "Game" }
 
 # Asterigos: Curse of the Stars https://store.steampowered.com/app/1731070/Asterigos_Curse_of_the_Stars/
-{ "name": "Asterigos.exe", "type": "Game" }
+{ "name": "Asterigos.exe", "type": "BG_CPUIO" }
 { "name": "Genesis-Win64-Shipping.exe", "type": "Game" }
 
 # Asterix & Obelix XXL https://store.steampowered.com/app/1261520/Asterix__Obelix_XXL_Romastered/
@@ -1294,7 +1293,7 @@
 { "name": "Astrobotanica.exe", "type": "Game" }
 
 # Astro Colony https://store.steampowered.com/app/1614550/Astro_Colony/
-{ "name": "AstroColony.exe", "type": "Game" }
+{ "name": "AstroColony.exe", "type": "BG_CPUIO" }
 { "name": "AstroColony-Win64-Shipping.exe", "type": "Game" }
 
 # Astroloot https://store.steampowered.com/app/3498390/Astroloot/
@@ -1316,7 +1315,7 @@
 { "name": "Astrumis.exe", "type": "Game" }
 
 # As We Descend https://store.steampowered.com/app/1769830/As_We_Descend/
-{ "name": "NextHumanity.exe", "type": "Game" }
+{ "name": "NextHumanity.exe", "type": "BG_CPUIO" }
 { "name": "NextHumanity-Win64-Shipping.exe", "type": "Game" }
 
 # At Dead Of Night https://store.steampowered.com/app/1450830/At_Dead_Of_Night/
@@ -1421,7 +1420,7 @@
 
 # Atomic Heart https://store.steampowered.com/app/668580/Atomic_Heart/
 { "name": "AtomicHeart-Win64-Shipping.exe", "type": "Game" }
-{ "name": "AtomicHeart.exe", "type": "Game" }
+{ "name": "AtomicHeart.exe", "type": "BG_CPUIO" }
 
 # Atomicrops https://store.steampowered.com/app/757320/Atomicrops/
 { "name": "Atomicrops.exe", "type": "Game" }
@@ -1543,7 +1542,7 @@
 { "name": "afop.exe", "type": "Game" }
 
 # AV Director Life! https://store.steampowered.com/app/3181220/
-{ "name": "AVDirectorLife.exe", "type": "Game" }
+{ "name": "AVDirectorLife.exe", "type": "BG_CPUIO" }
 { "name": "AVDirectorLife-Win64-Shipping.exe", "type": "Game" }
 
 # Aven Colony https://store.steampowered.com/app/484900/Aven_Colony/
@@ -1562,14 +1561,14 @@
 { "name": "Avorion.exe", "type": "Game" }
 
 # Avowed https://store.steampowered.com/app/2457220/Avowed/
-{ "name": "Avowed.exe", "type": "Game" }
+{ "name": "Avowed.exe", "type": "BG_CPUIO" }
 { "name": "Avowed-Win64-Shipping.exe", "type": "Game" }
 
 # Awaria https://store.steampowered.com/app/3274300/Awaria/
 { "name": "Awaria.exe", "type": "Game" }
 
 # Away From Life https://store.steampowered.com/app/1755080/Away_From_Life/
-{ "name": "AwayFromLife.exe", "type": "Game" }
+{ "name": "AwayFromLife.exe", "type": "BG_CPUIO" }
 { "name": "AwayFromLife-Win64-Shipping.exe", "type": "Game" }
 
 # A Way Out https://store.steampowered.com/app/1222700/A_Way_Out/
@@ -1596,12 +1595,12 @@
 { "name": "AxisAndAllies1942Online.exe", "type": "Game" }
 
 # Axom: Conquest https://store.steampowered.com/app/2143600/Axom_Conquest/
-{ "name": "AxomConquest.exe", "type": "Game" }
+{ "name": "AxomConquest.exe", "type": "BG_CPUIO" }
 { "name": "AlienDefence-Win64-Shipping.exe", "type": "Game" }
 
 # Axon TD: Uprising https://store.steampowered.com/app/2296550/Axon_TD_Uprising__Tower_Defense/
 { "name": "Axon TD Uprising.exe", "type": "Game" }
 
 # Azur Lane Crosswave https://store.steampowered.com/app/1150080/Azur_Lane_Crosswave/
-{ "name": "Azurlane.exe", "type": "Game" }
+{ "name": "Azurlane.exe", "type": "BG_CPUIO" }
 { "name": "Azurlane-Win64-Shipping.exe", "type": "Game" }
