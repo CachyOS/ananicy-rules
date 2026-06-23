@@ -484,6 +484,9 @@
 { "name": "Kristala.exe", "type": "BG_CPUIO" }
 { "name": "Kristala-Win64-Shipping.exe", "type": "Game" }
 
+# Knights of Braveland https://store.steampowered.com/app/1253610/Knights_of_Braveland/
+{ "name": "braveknights.exe", "type": "Game" }
+
 # Krita https://store.steampowered.com/app/280680/Krita/
 { "name": "krita.exe", "type": "Game" }
 { "name": "kritarunner.exe", "type": "Game" }

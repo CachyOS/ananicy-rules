@@ -134,6 +134,13 @@
 # 86Box, an x86 emulator with Win9X via wine for SDL2 mouse keys https://www.86box.net/
 { "name": "86Box.exe", "type": "Game" }
 
+# 30 Days on Ship Playtest https://store.steampowered.com/app/2915890/
+{ "name": "ShipSurvival.exe", "type": "BG_CPUIO" }
+{ "name": "ShipSurvival-Win64-Shipping.exe", "type": "Game" }
+
+# 80's OVERDRIVE https://store.steampowered.com/app/1381440/80s_OVERDRIVE/
+{ "name": "80s_Overdrive.exe", "type": "Game" }
+
 # 8AM https://store.steampowered.com/app/2835590/8AM/
 { "name": "am.exe", "type": "BG_CPUIO" }
 { "name": "am-Win64-Shipping.exe", "type": "Game" }

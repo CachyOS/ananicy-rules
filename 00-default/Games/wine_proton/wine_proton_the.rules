@@ -1227,6 +1227,28 @@
 # The Witcher 3: Wild Hunt https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/
 { "name": "witcher3.exe", "type": "Game" }
 
+# The Adventures of Elliot: The Millennium Tales https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/
+{ "name": "Elliot.exe", "type": "BG_CPUIO" }
+{ "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
+
+# The Agnietta ~治癒使與受詛咒的地城~ https://store.steampowered.com/app/2138450/
+{ "name": "Game.exe", "type": "Game" }
+
+# The Coma: Recut https://store.steampowered.com/app/600090/The_Coma_Recut/
+{ "name": "TheComaRecut.exe", "type": "Game" }
+
+# The Ramen Sensei https://store.steampowered.com/app/1918540/The_Ramen_Sensei/
+{ "name": "KairoGames.exe", "type": "Game" }
+
+# The Shell Part II: Purgatorio https://store.steampowered.com/app/2712550/The_Shell_Part_II_Purgatorio/
+{ "name": "TheShell2.exe", "type": "Game" }
+
+# The Sushi Spinnery https://store.steampowered.com/app/1921780/The_Sushi_Spinnery/
+{ "name": "KairoGames.exe", "type": "Game" }
+
+# The War https://store.steampowered.com/app/2317560/3_Days_War/
+{ "name": "wargame.exe", "type": "Game" }
+
 # The Witcher: Enhanced Edition https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/
 { "name": "witcher.exe", "type": "Game" }
 

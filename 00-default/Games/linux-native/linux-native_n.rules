@@ -32,6 +32,10 @@
 # Neverending Nightmares https://store.steampowered.com/app/253330/Neverending_Nightmares/
 { "name": "nightmare", "type": "Game" }
 
+# Nightmares from the Deep 2: The Siren`s Call https://store.steampowered.com/app/284790/Nightmares_from_the_Deep_2_The_Sirens_Call/
+{ "name": "NightmaresFromTheDeep_TheSirensCall_i386", "type": "Game" }
+{ "name": "NightmaresFromTheDeep_TheSirensCall_amd64", "type": "Game" }
+
 # Neverway https://store.steampowered.com/app/2318330/Neverway/
 { "name": "Neverway", "type": "Game" }
 

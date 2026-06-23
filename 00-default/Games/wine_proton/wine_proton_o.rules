@@ -591,6 +591,19 @@
 # OVR Advanced Settings https://store.steampowered.com/app/1009850/OVR_Advanced_Settings/
 { "name": "AdvancedSettings.exe", "type": "Game" }
 
+# Obey the Voice https://store.steampowered.com/app/3919190/Obey_the_Voice/
+{ "name": "ObeytheVoice.exe", "type": "BG_CPUIO" }
+{ "name": "ObeytheVoice-Win64-Shipping.exe", "type": "Game" }
+
+# One Potion Please https://store.steampowered.com/app/3932130/
+{ "name": "OnePotionPlease.exe", "type": "Game" }
+
+# Our Red String https://store.steampowered.com/app/3669040/
+{ "name": "OurRedString.exe", "type": "Game" }
+
+# Out Of Hands https://store.steampowered.com/app/1839810/Out_Of_Hands/
+{ "name": "OutOfHands.exe", "type": "Game" }
+
 # OVR Dynamic Resolution https://store.steampowered.com/app/3243840/OVR_Dynamic_Resolution/
 { "name": "OVR-Dynamic-Resolution.exe", "type": "BG_CPUIO" }
 
