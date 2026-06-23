@@ -36,10 +36,6 @@
 # Ninja Rift https://store.steampowered.com/app/3095380/Ninja_Rift/
 { "name": "Ninja Rift.exe", "type": "Game" }
 
-# NOBUNAGA'S AMBITION: Sphere of Influence https://store.steampowered.com/app/392470/NOBUNAGAS_AMBITION_Sphere_of_Influence/
-{ "name": "N14PKLauncher.exe", "type": "Game" }
-{ "name": "NOBU14PK.exe", "type": "Game" }
-
 # NTR Idol: Déjà Vu https://store.steampowered.com/app/4011180/
 { "name": "NTR_DejaVu.exe", "type": "BG_CPUIO" }
 { "name": "NTR_DejaVu-Win64-Shipping.exe", "type": "Game" }
@@ -562,8 +558,6 @@
 { "name": "NOBU14.exe", "type": "Game" }
 
 # NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
-{ "name": "N14PKLauncher.exe", "type": "BG_CPUIO" }
-{ "name": "NOBU14PK.exe", "type": "Game" }
 { "name": "NOBU14_ORG.exe", "type": "Game" }
 
 # NOBUNAGA'S AMBITION: Sphere of Influence - Ascension https://store.steampowered.com/app/375450/NOBUNAGAS_AMBITION_Sphere_of_Influence__Ascension/

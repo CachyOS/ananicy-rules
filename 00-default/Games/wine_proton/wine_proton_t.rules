@@ -1510,14 +1510,10 @@
 { "name": "typerider.exe", "type": "Game" }
 { "name": "Typerider.exe", "type": "Game" }
 
-# Thunder Tank: Iron Shield https://store.steampowered.com/app/4486290/Thunder_Tank_Iron_Shield/
-{ "name": "game.exe", "type": "Game" }
-
 # Tiny Town VR https://store.steampowered.com/app/653930/Tiny_Town_VR/
 { "name": "Tiny Town VR.exe", "type": "Game" }
 
 # Toaster Arena https://store.steampowered.com/app/1726530/Toaster_Arena/
-{ "name": "Toaster_reboot.exe", "type": "BG_CPUIO" }
 { "name": "Toaster_reboot-Win64-Shipping.exe", "type": "Game" }
 { "name": "Toaster_reboot-Win64-DebugGame.exe", "type": "Game" }
 { "name": "Toaster_reboot.exe", "type": "Game" }
@@ -1539,9 +1535,6 @@
 # Tactical Nexus https://store.steampowered.com/app/1141290/Tactical_Nexus/
 { "name": "tacticalnexus.exe", "type": "Game" }
 { "name": "TacticalNexus.exe", "type": "Game" }
-
-# Taiwan Love Story⁵ https://store.steampowered.com/app/2976870/Taiwan_Love_Story/
-{ "name": "Game.exe", "type": "Game" }
 
 # Typer Shark! Deluxe https://store.steampowered.com/app/3450/Typer_Shark_Deluxe/
 { "name": "WinTS.exe", "type": "Game" }

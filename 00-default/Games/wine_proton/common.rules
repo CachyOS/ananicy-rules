@@ -254,15 +254,24 @@
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
 { "name": "Castle.exe", "type": "Game" }
 
+# The Adventures of Elliot: The Millennium Tales https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/
+# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
+{ "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
+
 # Poker Night at the Inventory https://store.steampowered.com/app/3897800/Poker_Night_at_the_Inventory/
 # Poker Night at the Inventory (2010 Original Version) https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
 { "name": "CelebrityPoker.exe", "type": "Game" }
+
+# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
+# The Adventures of Elliot: The Millennium Tales https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/
+{ "name": "Elliot.exe", "type": "BG_CPUIO" }
 
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
 # Onmyoji https://store.steampowered.com/app/551170/Onmyoji/
 # 1.76复古沉默 https://store.steampowered.com/app/4687470/176/
 # Fēng shén chuánqí 封神传奇 https://store.steampowered.com/app/3725850/_/
+# Supreme War God https://store.steampowered.com/app/3579100/Supreme_War_God/
 { "name": "Client.exe", "type": "Game" }
 
 # 9-Bit Armies: A Bit Too Far https://store.steampowered.com/app/1439750/9Bit_Armies_A_Bit_Too_Far/
@@ -831,6 +840,8 @@
 # Crypto Miner Tycoon Simulator https://store.steampowered.com/app/1859290/Crypto_Miner_Tycoon_Simulator/
 # Kami shù Zan xiǎng 神树残响 https://store.steampowered.com/app/2961460/Echoes_of_the_Divine_Tree/
 # GOOOOOOOL! https://store.steampowered.com/app/3024540/GOOOOOOAL/
+# Fēifán xiān tú 非凡仙途 https://store.steampowered.com/app/4511370/_/
+# Thunder Tank: Iron Shield https://store.steampowered.com/app/4486290/Thunder_Tank_Iron_Shield/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -958,6 +969,12 @@
 # A Simple Life with My Unobtrusive Sister Demo https://store.steampowered.com/app/3454010/
 # At Home Alone Final https://store.steampowered.com/app/1740100/At_Home_Alone_Final/
 # Poem of the Starherd https://store.steampowered.com/app/3975500/Poem_of_the_Starherd/
+# Idol Hands 2 https://store.steampowered.com/app/2053940/
+# ROBOTICS;NOTES ELITE https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/
+# Fánrén xiūxiān chuánqí 凡人修仙传奇 https://store.steampowered.com/app/3814570/_/
+# The Agnietta ~治癒使與受詛咒的地城~ https://store.steampowered.com/app/2138450/
+# Taiwan Love Story⁵ https://store.steampowered.com/app/2976870/Taiwan_Love_Story/
+# Sanfu https://store.steampowered.com/app/1880330/Sanfu/
 # Chronicles of a Dark Lord: Episode II War of The Abyss https://store.steampowered.com/app/341780/Chronicles_of_a_Dark_Lord_Episode_II_War_of_The_Abyss/
 { "name": "Game.exe", "type": "Game" }
 
@@ -1235,6 +1252,10 @@
 # Dream Park Story https://store.steampowered.com/app/2119660/Dream_Park_Story/
 # Convenience Stories https://store.steampowered.com/app/2119650/Convenience_Stories/
 # Beastie Bay DX https://store.steampowered.com/app/2072420/Beastie_Bay_DX/
+# Cafeteria Nipponica https://store.steampowered.com/app/1952170/Cafeteria_Nipponica/
+# Burger Bistro Story https://store.steampowered.com/app/1933990/Burger_Bistro_Story/
+# The Ramen Sensei https://store.steampowered.com/app/1918540/The_Ramen_Sensei/
+# The Sushi Spinnery https://store.steampowered.com/app/1921780/The_Sushi_Spinnery/
 { "name": "KairoGames.exe", "type": "Game" }
 
 # Commandos 2 - HD Remaster https://store.steampowered.com/app/1100410/Commandos_2__HD_Remaster/
@@ -1270,6 +1291,18 @@
 # Rasutokuraudia ラストクラウディア https://store.steampowered.com/app/2294090/
 { "name": "LastCloudia.exe", "type": "Game" }
 
+# NOBUNAGA'S AMBITION: Sphere of Influence https://store.steampowered.com/app/392470/NOBUNAGAS_AMBITION_Sphere_of_Influence/
+# NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
+{ "name": "N14PKLauncher.exe", "type": "BG_CPUIO" }
+
+# NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
+# NOBUNAGA'S AMBITION: Sphere of Influence https://store.steampowered.com/app/392470/NOBUNAGAS_AMBITION_Sphere_of_Influence/
+{ "name": "NOBU14PK.exe", "type": "Game" }
+
+# Sand https://store.steampowered.com/app/1431300/SAND_Raiders_of_Sophie/
+# Sand Playtest https://store.steampowered.com/app/2981610/
+{ "name": "Sand.exe", "type": "Game" }
+
 # Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
 # Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
 # GLORY DESTINY - REBORN 晴空物語 https://store.steampowered.com/app/3352180/GLORY_DESTINY__REBORN/
@@ -1288,6 +1321,7 @@
 # Tōhō Shinjutō ~ Hollow Song of Birds 東方真珠島　～ Hollow Song of Birds http://th-jss.cocolog-nifty.com/blog/
 # STEINS;GATE ELITE https://store.steampowered.com/app/819030/STEINSGATE_ELITE/
 # Krush Kill ‘N Destroy 2: Krossfire https://store.steampowered.com/app/1292180/Krush_Kill_N_Destroy_2_Krossfire/
+# ROBOTICS;NOTES ELITE https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/
 { "name": "launcher.exe", "type": "Game" }
 
 # Sonic Adventure 2 Sonic & All-Stars Racing
@@ -1927,6 +1961,10 @@
 # SCP: Secret Laboratory https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/
 { "name": "SCPSL.exe", "type": "Game" }
 
+# S.H.E.L.T.E.R. - An Apocalyptic Tale https://store.steampowered.com/app/1394100/
+# Shelter https://store.steampowered.com/app/244710/Shelter/
+{ "name": "Shelter.exe", "type": "Game" }
+
 # Scribblenauts Unmasked: A DC Comics Adventure https://store.steampowered.com/app/249870/Scribblenauts_Unmasked_A_DC_Comics_Adventure/
 # Scribblenauts Unlimited https://store.steampowered.com/app/218680/Scribblenauts_Unlimited/
 { "name": "Scribble.exe", "type": "Game" }
@@ -1936,6 +1974,7 @@
 # The Curse of Monkey Island https://store.steampowered.com/app/730820/The_Curse_of_Monkey_Island/
 # Putt-Putt Saves The Zoo https://store.steampowered.com/app/294660/PuttPutt_Saves_The_Zoo/
 # Freddi Fish and the Case of the Missing Kelp Seeds https://store.steampowered.com/app/283940/Freddi_Fish_and_the_Case_of_the_Missing_Kelp_Seeds/
+# Myst: Masterpiece Edition https://store.steampowered.com/app/63660/Myst_Masterpiece_Edition/
 { "name": "scummvm.exe", "type": "Game" }
 
 # The Legend of Heroes: Trails of Cold Steel III https://store.steampowered.com/app/991270/The_Legend_of_Heroes_Trails_of_Cold_Steel_III/
@@ -2078,6 +2117,10 @@
 # Elemental: Reforged https://store.steampowered.com/app/3796960/Elemental_Reforged/
 { "name": "StardockLauncher.exe", "type": "Game" }
 
+# Undecember https://store.steampowered.com/app/1549250/UNDECEMBER_The_Forge/
+# Fánrén xiūxiān chuánqí 凡人修仙传奇 https://store.steampowered.com/app/3814570/_/
+{ "name": "UNDECEMBER-Win64-Shipping.exe", "type": "Game" }
+
 # Power & Revolution 2023 Edition https://store.steampowered.com/app/2392520/Power__Revolution_2023_Edition/
 # Power & Revolution 2022 Edition https://store.steampowered.com/app/1823600/Power__Revolution_2022_Edition/
 # Geo-Political Simulator 5 https://store.steampowered.com/app/3107770/GeoPolitical_Simulator_5/
@@ -2086,6 +2129,7 @@
 
 # Angels Online Global Playtest https://store.steampowered.com/app/4059490/
 # Narborion Saga https://store.steampowered.com/app/581340/Narborion_Saga/
+# Angels Online Global https://store.steampowered.com/app/4018020/Angels_Online_Global/
 { "name": "start.exe", "type": "Game" }
 
 # DRAGON BALL XENOVERSE 2 https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/
@@ -2506,6 +2550,14 @@
 # Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 { "name": "Workshop.exe", "type": "Game" }
+
+# Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
+# Backrooms Lost Runners https://store.steampowered.com/app/3072120/Backrooms_Lost_Runners/
+{ "name": "BackroomsLostRunners-Win64-Shipping.exe", "type": "Game" }
+
+# Backrooms Lost Runners https://store.steampowered.com/app/3072120/Backrooms_Lost_Runners/
+# Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
+{ "name": "BackroomsLostRunners.exe", "type": "BG_CPUIO" }
 
 # Command & Conquer: Generals https://store.steampowered.com/app/2229870/Command__Conquer_Generals/
 # Command & Conquer Generals Zero Hour https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/
