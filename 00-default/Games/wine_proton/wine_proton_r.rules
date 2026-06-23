@@ -486,12 +486,6 @@
 # Resident Evil Revelations https://store.steampowered.com/app/222480/Resident_Evil_Revelations/
 { "name": "rerev.exe", "type": "Game" }
 
-# ROBOBEAT https://store.steampowered.com/app/1456760/ROBOBEAT/
-{ "name": "ROBOBEAT.exe", "type": "Game" }
-
-# Rogue Assault https://store.steampowered.com/app/4264680/Rogue_Assault/
-{ "name": "WCM.exe", "type": "Game" }
-
 # Resident Evil Revelations 2 https://store.steampowered.com/app/287290/Resident_Evil_Revelations_2/
 { "name": "rerev2.exe", "type": "Game" }
 
@@ -851,6 +845,9 @@
 # Robin Morningwood Adventure https://store.steampowered.com/app/1457220/
 { "name": "Robin Morningwood Adventure.exe", "type": "Game" }
 
+# ROBOBEAT https://store.steampowered.com/app/1456760/ROBOBEAT/
+{ "name": "ROBOBEAT.exe", "type": "Game" }
+
 # RoboCop: Rogue City https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/
 { "name": "RoboCop-Win64-Shipping.exe", "type": "Game" }
 { "name": "RoboCop.exe", "type": "BG_CPUIO" }
@@ -922,6 +919,9 @@
 
 # Rogue Agent https://store.steampowered.com/app/843660/Rogue_Agent/
 { "name": "Rogue Agent.exe", "type": "Game" }
+
+# Rogue Assault https://store.steampowered.com/app/4264680/Rogue_Assault/
+{ "name": "WCM.exe", "type": "Game" }
 
 # Roguebook https://store.steampowered.com/app/1076200/Roguebook/
 { "name": "Roguebook.exe", "type": "Game" }

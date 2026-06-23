@@ -143,6 +143,14 @@
 # Escape the Backrooms https://store.steampowered.com/app/1943950/Escape_the_Backrooms/
 { "name": "Backrooms.exe", "type": "BG_CPUIO" }
 
+# Backrooms Lost Runners https://store.steampowered.com/app/3072120/Backrooms_Lost_Runners/
+# Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
+{ "name": "BackroomsLostRunners.exe", "type": "BG_CPUIO" }
+
+# Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
+# Backrooms Lost Runners https://store.steampowered.com/app/3072120/Backrooms_Lost_Runners/
+{ "name": "BackroomsLostRunners-Win64-Shipping.exe", "type": "Game" }
+
 # Escape the Backrooms https://store.steampowered.com/app/1943950/Escape_the_Backrooms/
 # BACKROOMS: APPREHENSION https://store.steampowered.com/app/2234150/BACKROOMS_APPREHENSION/
 { "name": "Backrooms-Win64-Shipping.exe", "type": "Game" }
@@ -254,17 +262,9 @@
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
 { "name": "Castle.exe", "type": "Game" }
 
-# The Adventures of Elliot: The Millennium Tales https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/
-# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
-{ "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
-
 # Poker Night at the Inventory https://store.steampowered.com/app/3897800/Poker_Night_at_the_Inventory/
 # Poker Night at the Inventory (2010 Original Version) https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
 { "name": "CelebrityPoker.exe", "type": "Game" }
-
-# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
-# The Adventures of Elliot: The Millennium Tales https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/
-{ "name": "Elliot.exe", "type": "BG_CPUIO" }
 
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
@@ -579,6 +579,14 @@
 # Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
 # Edna & Harvey: The Breakout - Anniversary Edition https://store.steampowered.com/app/959000/Edna__Harvey_The_Breakout__Anniversary_Edition/
 { "name": "edna.exe", "type": "Game" }
+
+# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
+# The Adventures of Elliot: The Millennium Tales https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/
+{ "name": "Elliot.exe", "type": "BG_CPUIO" }
+
+# The Adventures of Elliot: The Millennium Tales https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/
+# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
+{ "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
 
 # ELSWORD JAPAN https://store.steampowered.com/app/1011810/
 # Elsword https://store.steampowered.com/app/237310/Elsword/
@@ -1291,18 +1299,6 @@
 # Rasutokuraudia ラストクラウディア https://store.steampowered.com/app/2294090/
 { "name": "LastCloudia.exe", "type": "Game" }
 
-# NOBUNAGA'S AMBITION: Sphere of Influence https://store.steampowered.com/app/392470/NOBUNAGAS_AMBITION_Sphere_of_Influence/
-# NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
-{ "name": "N14PKLauncher.exe", "type": "BG_CPUIO" }
-
-# NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
-# NOBUNAGA'S AMBITION: Sphere of Influence https://store.steampowered.com/app/392470/NOBUNAGAS_AMBITION_Sphere_of_Influence/
-{ "name": "NOBU14PK.exe", "type": "Game" }
-
-# Sand https://store.steampowered.com/app/1431300/SAND_Raiders_of_Sophie/
-# Sand Playtest https://store.steampowered.com/app/2981610/
-{ "name": "Sand.exe", "type": "Game" }
-
 # Total War: SHOGUN 2 https://store.steampowered.com/app/34330/Total_War_SHOGUN_2/
 # Lost Light https://store.steampowered.com/app/1797880/Lost_Light/
 # GLORY DESTINY - REBORN 晴空物語 https://store.steampowered.com/app/3352180/GLORY_DESTINY__REBORN/
@@ -1549,6 +1545,10 @@
 # Erzurum https://store.steampowered.com/app/1392060/Erzurum/
 { "name": "MyProject-Win64-Shipping.exe", "type": "Game" }
 
+# NOBUNAGA'S AMBITION: Sphere of Influence https://store.steampowered.com/app/392470/NOBUNAGAS_AMBITION_Sphere_of_Influence/
+# NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
+{ "name": "N14PKLauncher.exe", "type": "BG_CPUIO" }
+
 # NARAKA: BLADEPOINT - Test Server https://store.steampowered.com/app/1402480/NARAKA_BLADEPOINT____Test_Server/
 # NARAKA: BLADEPOINT https://store.steampowered.com/app/1203220/NARAKA_BLADEPOINT/
 { "name": "NarakaBladepoint.exe", "type": "Game" }
@@ -1572,6 +1572,10 @@
 # Wolfenstein II: The New Colossus https://store.steampowered.com/app/612880/Wolfenstein_II_The_New_Colossus/
 # Wolfenstein II: The New Colossus German Edition https://store.steampowered.com/app/650500/
 { "name": "NewColossus_x64vk.exe", "type": "Game" }
+
+# NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
+# NOBUNAGA'S AMBITION: Sphere of Influence https://store.steampowered.com/app/392470/NOBUNAGAS_AMBITION_Sphere_of_Influence/
+{ "name": "NOBU14PK.exe", "type": "Game" }
 
 # Notes of Soul https://store.steampowered.com/app/991780/Notes_of_Soul/
 # fēng líng dàng àn 封灵档案 https://store.steampowered.com/app/1520470/Soul_Dossier/
@@ -1926,6 +1930,10 @@
 # Sanctum 2 https://store.steampowered.com/app/210770/Sanctum_2/
 { "name": "SanctumGame-Win32-Shipping.exe", "type": "Game" }
 
+# Sand https://store.steampowered.com/app/1431300/SAND_Raiders_of_Sophie/
+# Sand Playtest https://store.steampowered.com/app/2981610/
+{ "name": "Sand.exe", "type": "Game" }
+
 # Romance of the Three Kingdoms Hadou https://store.steampowered.com/app/1837970/
 # Romance of the Three Kingdoms Hadou [JP] https://store.steampowered.com/app/1790310/
 { "name": "SAN_HADOU.exe", "type": "Game" }
@@ -1960,10 +1968,6 @@
 # SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
 # SCP: Secret Laboratory https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/
 { "name": "SCPSL.exe", "type": "Game" }
-
-# S.H.E.L.T.E.R. - An Apocalyptic Tale https://store.steampowered.com/app/1394100/
-# Shelter https://store.steampowered.com/app/244710/Shelter/
-{ "name": "Shelter.exe", "type": "Game" }
 
 # Scribblenauts Unmasked: A DC Comics Adventure https://store.steampowered.com/app/249870/Scribblenauts_Unmasked_A_DC_Comics_Adventure/
 # Scribblenauts Unlimited https://store.steampowered.com/app/218680/Scribblenauts_Unlimited/
@@ -2013,6 +2017,10 @@
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 # shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
 { "name": "shapez 2.exe", "type": "Game" }
+
+# S.H.E.L.T.E.R. - An Apocalyptic Tale https://store.steampowered.com/app/1394100/
+# Shelter https://store.steampowered.com/app/244710/Shelter/
+{ "name": "Shelter.exe", "type": "Game" }
 
 # Sherlock Holmes: Crimes and Punishments https://store.steampowered.com/app/241260/Sherlock_Holmes_Crimes_and_Punishments/
 # Sherlock Holmes: The Devil's Daughter https://store.steampowered.com/app/350640/Sherlock_Holmes_The_Devils_Daughter/
@@ -2116,10 +2124,6 @@
 # Star Control: Origins https://store.steampowered.com/app/271260/Star_Control_Origins/
 # Elemental: Reforged https://store.steampowered.com/app/3796960/Elemental_Reforged/
 { "name": "StardockLauncher.exe", "type": "Game" }
-
-# Undecember https://store.steampowered.com/app/1549250/UNDECEMBER_The_Forge/
-# Fánrén xiūxiān chuánqí 凡人修仙传奇 https://store.steampowered.com/app/3814570/_/
-{ "name": "UNDECEMBER-Win64-Shipping.exe", "type": "Game" }
 
 # Power & Revolution 2023 Edition https://store.steampowered.com/app/2392520/Power__Revolution_2023_Edition/
 # Power & Revolution 2022 Edition https://store.steampowered.com/app/1823600/Power__Revolution_2022_Edition/
@@ -2407,6 +2411,10 @@
 # ULTRAKILL Demo https://store.steampowered.com/app/1230260/ULTRAKILL/
 { "name": "ULTRAKILL.exe", "type": "Game" }
 
+# Undecember https://store.steampowered.com/app/1549250/UNDECEMBER_The_Forge/
+# Fánrén xiūxiān chuánqí 凡人修仙传奇 https://store.steampowered.com/app/3814570/_/
+{ "name": "UNDECEMBER-Win64-Shipping.exe", "type": "Game" }
+
 # Unreal Gold https://store.steampowered.com/app/13250/Unreal_Gold/
 # Snooker 19 https://store.steampowered.com/app/887800/Snooker_19/
 { "name": "Unreal.exe", "type": "Game" }
@@ -2550,14 +2558,6 @@
 # Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 { "name": "Workshop.exe", "type": "Game" }
-
-# Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
-# Backrooms Lost Runners https://store.steampowered.com/app/3072120/Backrooms_Lost_Runners/
-{ "name": "BackroomsLostRunners-Win64-Shipping.exe", "type": "Game" }
-
-# Backrooms Lost Runners https://store.steampowered.com/app/3072120/Backrooms_Lost_Runners/
-# Backrooms Lost Runners Demo https://store.steampowered.com/app/3971460/Backrooms_Lost_Runners_Demo/
-{ "name": "BackroomsLostRunners.exe", "type": "BG_CPUIO" }
 
 # Command & Conquer: Generals https://store.steampowered.com/app/2229870/Command__Conquer_Generals/
 # Command & Conquer Generals Zero Hour https://store.steampowered.com/app/2732960/Command__Conquer_Generals_Zero_Hour/

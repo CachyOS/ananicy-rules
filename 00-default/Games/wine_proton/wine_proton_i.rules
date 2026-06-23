@@ -66,6 +66,9 @@
 # Idle Champions of the Forgotten Realms https://store.steampowered.com/app/627690/Idle_Champions_of_the_Forgotten_Realms/
 { "name": "IdleDragons.exe", "type": "Game" }
 
+# Idle Chapel https://store.steampowered.com/app/4102010/Idle_Chapel/
+{ "name": "Idle Chapel.exe", "type": "Game" }
+
 # Idle Clans https://store.steampowered.com/app/2103530/Idle_Clans/
 { "name": "Idle Clans.exe", "type": "Game" }
 
@@ -149,6 +152,10 @@
 # Idle Spiral https://store.steampowered.com/app/1827980/Idle_Spiral/
 { "name": "IdleSpiral.exe", "type": "Game" }
 
+# IdleTale https://store.steampowered.com/app/3196540/IdleTale/
+{ "name": "IdleLauncher.exe", "type": "Game" }
+{ "name": "IdleTale.exe", "type": "Game" }
+
 # Idle Tower Defense https://store.steampowered.com/app/3054090/Idle_Tower_Defense/
 { "name": "Idle Tower Defense.exe", "type": "Game" }
 
@@ -186,6 +193,9 @@
 
 # If Found... https://store.steampowered.com/app/1041920/If_Found/
 { "name": "iffound.exe", "type": "Game" }
+
+# If My Heart Had Wings https://store.steampowered.com/app/326480/If_My_Heart_Had_Wings/
+{ "name": "AdvHD.exe", "type": "Game" }
 
 # IfSunSets https://store.steampowered.com/app/2271930/IfSunSets/
 { "name": "IFSS.exe", "type": "Game" }
@@ -667,24 +677,14 @@
 # Item Tower https://store.steampowered.com/app/2989720/Item_Tower/
 { "name": "Item Tower.exe", "type": "Game" }
 
-# Idle Chapel https://store.steampowered.com/app/4102010/Idle_Chapel/
-{ "name": "Idle Chapel.exe", "type": "Game" }
-
-# IdleTale https://store.steampowered.com/app/3196540/IdleTale/
-{ "name": "IdleLauncher.exe", "type": "Game" }
-{ "name": "IdleTale.exe", "type": "Game" }
-
-# If My Heart Had Wings https://store.steampowered.com/app/326480/If_My_Heart_Had_Wings/
-{ "name": "AdvHD.exe", "type": "Game" }
-
-# iTop Easy Desktop for Steam https://store.steampowered.com/app/2620310/iTop_Easy_Desktop/
-{ "name": "iEasyDesk.exe", "type": "BG_CPUIO" }
-
 # ITER-8 https://store.steampowered.com/app/2832310/ITER8/
 { "name": "ITER-8.exe", "type": "Game" }
 
 # Ithya: Magic Studies https://store.steampowered.com/app/3330250/Ithya_Magic_Studies/
 { "name": "Magic Studies.exe", "type": "Game" }
+
+# iTop Easy Desktop for Steam https://store.steampowered.com/app/2620310/iTop_Easy_Desktop/
+{ "name": "iEasyDesk.exe", "type": "BG_CPUIO" }
 
 # It Takes Two Friend's Pass https://store.steampowered.com/app/1504980/It_Takes_Two_Friends_Pass/
 { "name": "ItTakesTwo_Trial.exe", "type": "Game" }

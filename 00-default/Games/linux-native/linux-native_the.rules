@@ -47,6 +47,9 @@
 # The Colonists https://store.steampowered.com/app/677340/The_Colonists/
 { "name": "TheColonists.x86", "type": "Game" }
 
+# The Coma: Recut https://store.steampowered.com/app/600090/The_Coma_Recut/
+{ "name": "TheComaRecut.x86_64", "type": "Game" }
+
 # The Culling https://store.steampowered.com/app/437220/The_Culling/
 { "name": "Victory", "type": "Game" }
 
@@ -59,9 +62,6 @@
 # The Deer https://store.steampowered.com/app/400240/The_Deer/
 { "name": "TheDeer.x86", "type": "Game" }
 { "name": "TheDeer.x86_64", "type": "Game" }
-
-# The Coma: Recut https://store.steampowered.com/app/600090/The_Coma_Recut/
-{ "name": "TheComaRecut.x86_64", "type": "Game" }
 
 # The Dishwasher: Vampire Smile https://store.steampowered.com/app/268990/The_Dishwasher_Vampire_Smile/
 { "name": "VampireSmile", "type": "Game" }

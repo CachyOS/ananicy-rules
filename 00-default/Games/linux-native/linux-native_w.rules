@@ -11,6 +11,9 @@
 # Waking Mars https://store.steampowered.com/app/227200/Waking_Mars/
 { "name": "wakingmars", "type": "Game" }
 
+# War Brokers https://store.steampowered.com/app/750470/War_Brokers/
+{ "name": "war_brokers.x86_64", "type": "Game" }
+
 # Warfork https://store.steampowered.com/app/671610/Warfork/
 { "name": "warfork.x86_64", "type": "Game" }
 
@@ -72,17 +75,14 @@
 { "name": "WeaponShopFantasy.x86", "type": "Game" }
 { "name": "WeaponShopFantasy.x86_64", "type": "Game" }
 
-# War Brokers https://store.steampowered.com/app/750470/War_Brokers/
-{ "name": "war_brokers.x86_64", "type": "Game" }
-
-# Welcome to Free Will https://store.steampowered.com/app/1743260/
-{ "name": "WelcometoFreeWill", "type": "Game" }
-
 # Wedding Witch https://store.steampowered.com/app/2529820/Wedding_Witch/
 { "name": "Wedding Witch.x86_64", "type": "Game" }
 
 # We Happy Few https://store.steampowered.com/app/320240/We_Happy_Few/
 { "name": "GlimpseGame", "type": "Game" }
+
+# Welcome to Free Will https://store.steampowered.com/app/1743260/
+{ "name": "WelcometoFreeWill", "type": "Game" }
 
 # We Need To Go Deeper https://store.steampowered.com/app/307110/We_Need_To_Go_Deeper/
 { "name": "WeNeedToGoDeeper", "type": "Game" }

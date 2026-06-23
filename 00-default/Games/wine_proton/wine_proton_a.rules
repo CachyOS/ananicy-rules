@@ -8,23 +8,6 @@
 # AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome https://store.steampowered.com/app/15560/AaaaaAAaaaAAAaaAAAAaAAAAA_for_the_Awesome/
 { "name": "Awesome.exe", "type": "Game" }
 
-# AccuRC 2 https://store.steampowered.com/app/495290/AccuRC_2/
-{ "name": "AccuRC.exe", "type": "Game" }
-
-# Acts of Blood Demo https://store.steampowered.com/app/3304670/Acts_of_Blood_Demo/
-{ "name": "ActsOfBlood.exe", "type": "BG_CPUIO" }
-{ "name": "ActsOfBlood-Win64-Shipping.exe", "type": "Game" }
-
-# Adventures On The Polluted Islands https://store.steampowered.com/app/496690/Adventures_On_The_Polluted_Islands/
-{ "name": "Adventures_On_The_Polluted_Islands.exe", "type": "Game" }
-
-# Angels Fall First https://store.steampowered.com/app/367270/Angels_Fall_First/
-{ "name": "AFFLift.exe", "type": "Game" }
-{ "name": "AFFGame.exe", "type": "Game" }
-
-# AVABEL ONLINE https://store.steampowered.com/app/1130700/AVABEL_ONLINESteam/
-{ "name": "client.exe", "type": "Game" }
-
 # Abiotic Factor https://store.steampowered.com/app/427410/Abiotic_Factor/
 { "name": "AbioticFactor.exe", "type": "Game" }
 
@@ -77,6 +60,9 @@
 # Accel World VS. Sword Art Online Deluxe Edition https://store.steampowered.com/app/607880/Accel_World_VS_Sword_Art_Online_Deluxe_Edition/
 { "name": "AWVSSAO.exe", "type": "Game" }
 
+# AccuRC 2 https://store.steampowered.com/app/495290/AccuRC_2/
+{ "name": "AccuRC.exe", "type": "Game" }
+
 # ACE - Arena: Cyber Evolution https://store.steampowered.com/app/285580/ACE__Arena_Cyber_Evolution/
 { "name": "cyphgame.exe", "type": "Game" }
 
@@ -121,6 +107,10 @@
 { "name": "ActOfAggression.exe", "type": "Game" }
 { "name": "ActOfAggressionRE.exe", "type": "Game" }
 
+# Acts of Blood Demo https://store.steampowered.com/app/3304670/Acts_of_Blood_Demo/
+{ "name": "ActsOfBlood.exe", "type": "BG_CPUIO" }
+{ "name": "ActsOfBlood-Win64-Shipping.exe", "type": "Game" }
+
 # A Dance of Fire and Ice https://store.steampowered.com/app/977950/A_Dance_of_Fire_and_Ice/
 { "name": "A Dance of Fire and Ice.exe", "type": "Game" }
 
@@ -164,6 +154,9 @@
 
 # Adventures of Shuggy https://store.steampowered.com/app/211440/Adventures_of_Shuggy/
 { "name": "Shuggy.exe", "type": "Game" }
+
+# Adventures On The Polluted Islands https://store.steampowered.com/app/496690/Adventures_On_The_Polluted_Islands/
+{ "name": "Adventures_On_The_Polluted_Islands.exe", "type": "Game" }
 
 # Adventure Time: Pirates of the Enchiridion https://store.steampowered.com/app/728240/Adventure_Time_Pirates_of_the_Enchiridion/
 { "name": "Adventure Time Pirates of the Enchiridion.exe", "type": "Game" }
@@ -730,6 +723,10 @@
 
 # Angel Legion https://store.steampowered.com/app/1333350/Angel_Legion/
 { "name": "AngelLegion.exe", "type": "Game" }
+
+# Angels Fall First https://store.steampowered.com/app/367270/Angels_Fall_First/
+{ "name": "AFFLift.exe", "type": "Game" }
+{ "name": "AFFGame.exe", "type": "Game" }
 
 # Anger Foot https://store.steampowered.com/app/1978590/Anger_Foot/
 { "name": "AngerFoot.exe", "type": "Game" }
@@ -1547,6 +1544,9 @@
 
 # Autumn https://store.steampowered.com/app/473520/Autumn/
 { "name": "autumn.exe", "type": "Game" }
+
+# AVABEL ONLINE https://store.steampowered.com/app/1130700/AVABEL_ONLINESteam/
+{ "name": "client.exe", "type": "Game" }
 
 # A.V.A Global https://store.steampowered.com/app/1473480/AVA_Global/
 { "name": "AVA.exe", "type": "Game" }

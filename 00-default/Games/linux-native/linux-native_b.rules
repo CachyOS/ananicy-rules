@@ -19,10 +19,6 @@
 # Baddies, Inc. https://store.steampowered.com/app/3465660/
 { "name": "BaddiesInc", "type": "Game" }
 
-# Beavers Be Dammed https://store.steampowered.com/app/764570/Beavers_Be_Dammed/
-{ "name": "BeaversBeDammed.x86_64", "type": "Game" }
-{ "name": "BeaversBeDammed.x86", "type": "Game" }
-
 # BADLAND: Game of the Year Edition https://store.steampowered.com/app/269670/BADLAND_Game_of_the_Year_Edition/
 { "name": "badland", "type": "Game" }
 
@@ -115,6 +111,10 @@
 # Beat Hazard https://store.steampowered.com/app/49600/Beat_Hazard/
 { "name": "BeatHazard", "type": "Game" }
 { "name": "BeatHazard_Linux2", "type": "Game" }
+
+# Beavers Be Dammed https://store.steampowered.com/app/764570/Beavers_Be_Dammed/
+{ "name": "BeaversBeDammed.x86_64", "type": "Game" }
+{ "name": "BeaversBeDammed.x86", "type": "Game" }
 
 # Before the Echo https://store.steampowered.com/app/200910/Before_the_Echo/
 { "name": "BeforeTheEcho", "type": "Game" }

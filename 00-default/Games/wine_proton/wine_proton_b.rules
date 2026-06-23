@@ -14,15 +14,6 @@
 { "name": "BabbleCalibration.x86_64.exe", "type": "BG_CPUIO" }
 { "name": "espflash.exe", "type": "BG_CPUIO" }
 
-# Bananamana https://store.steampowered.com/app/3056550/Bananamana/
-{ "name": "Bananamana.exe", "type": "Game" }
-
-# Beavers Be Dammed https://store.steampowered.com/app/764570/Beavers_Be_Dammed/
-{ "name": "BeaversBeDammed.exe", "type": "Game" }
-
-# BLADECHIMERA https://store.steampowered.com/app/2671230/BLADECHIMERA/
-{ "name": "BLADE_CHIMERA.exe", "type": "Game" }
-
 # BABBDI https://store.steampowered.com/app/2240530/BABBDI/
 { "name": "Babbdi.exe", "type": "Game" }
 
@@ -149,6 +140,9 @@
 
 # Banana Hell: Mountain of Madness https://store.steampowered.com/app/2068520/Banana_Hell_Mountain_of_Madness/
 { "name": "banana_hell2.exe", "type": "Game" }
+
+# Bananamana https://store.steampowered.com/app/3056550/Bananamana/
+{ "name": "Bananamana.exe", "type": "Game" }
 
 # Bananametr https://store.steampowered.com/app/3013470/Bananametr/
 { "name": "Bananametr.exe", "type": "Game" }
@@ -455,6 +449,9 @@
 
 # Beauty Store Simulator https://store.steampowered.com/app/3969150/Beauty_Store_Simulator/
 { "name": "BeautyStoreSimulator.exe", "type": "Game" }
+
+# Beavers Be Dammed https://store.steampowered.com/app/764570/Beavers_Be_Dammed/
+{ "name": "BeaversBeDammed.exe", "type": "Game" }
 
 # Becastled https://store.steampowered.com/app/1330460/Becastled/
 { "name": "Becastled.exe", "type": "Game" }
@@ -801,6 +798,9 @@
 
 # Blade Assault https://store.steampowered.com/app/1367300/Blade_Assault/
 { "name": "BladeAssault.exe", "type": "Game" }
+
+# BLADECHIMERA https://store.steampowered.com/app/2671230/BLADECHIMERA/
+{ "name": "BLADE_CHIMERA.exe", "type": "Game" }
 
 # Blade Kitten https://store.steampowered.com/app/9940/Blade_Kitten/
 { "name": "bladekitten.exe", "type": "Game" }

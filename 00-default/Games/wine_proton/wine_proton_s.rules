@@ -42,42 +42,6 @@
 # SaGa Frontier Remastered https://store.steampowered.com/app/1295270/SaGa_Frontier_Remastered/
 { "name": "SaGa Frontier Remastered.exe", "type": "Game" }
 
-# Sand https://store.steampowered.com/app/1431300/SAND_Raiders_of_Sophie/
-{ "name": "Sand_BE.exe", "type": "Game" }
-
-# Sex with the Devil https://store.steampowered.com/app/1202690/
-{ "name": "SexWithDevilVR.exe", "type": "BG_CPUIO" }
-{ "name": "SexWithDevil.exe", "type": "BG_CPUIO" }
-{ "name": "SexWithDevil-Win64-Shipping.exe", "type": "Game" }
-
-# S.H.E.L.T.E.R. - An Apocalyptic Tale https://store.steampowered.com/app/1394100/
-{ "name": "Shelter-32.exe", "type": "Game" }
-
-# Sizeable https://store.steampowered.com/app/1333910/Sizeable/
-{ "name": "Sizeable.exe", "type": "Game" }
-
-# Skillwood https://store.steampowered.com/app/2776630/Skillwood/
-{ "name": "skillwood.exe", "type": "Game" }
-
-# Slice the Crops! https://store.steampowered.com/app/4169770/Slice_the_Crops/
-{ "name": "Slice The Crops.exe", "type": "Game" }
-
-# Solo Knight https://store.steampowered.com/app/3780390/Solo_Knight/
-{ "name": "Solo Knight.exe", "type": "Game" }
-
-# Space Engineers Dedicated Server https://store.steampowered.com/app/298740/
-{ "name": "SpaceEngineersDedicated.exe", "type": "Service" }
-
-# Space Simulation Toolkit https://store.steampowered.com/app/1196080/Space_Simulation_Toolkit/
-{ "name": "sst.exe", "type": "Game" }
-
-# SUPER CRAZY RHYTHM CASTLE https://store.steampowered.com/app/1812560/SUPER_CRAZY_RHYTHM_CASTLE/
-{ "name": "Rhythm Castle.exe", "type": "Game" }
-{ "name": "Super Crazy Rhythm Castle.exe", "type": "Game" }
-
-# Sword and Fairy 5 https://store.steampowered.com/app/681830/
-{ "name": "Pal5.exe", "type": "Game" }
-
 # Sailaway III https://store.steampowered.com/app/2631870/Sailaway_III/
 { "name": "Sailaway III Windows desktop 64-bit.exe", "type": "Game" }
 
@@ -189,6 +153,9 @@
 
 # SANABI https://store.steampowered.com/app/1562700/SANABI/
 { "name": "SNB.exe", "type": "Game" }
+
+# Sand https://store.steampowered.com/app/1431300/SAND_Raiders_of_Sophie/
+{ "name": "Sand_BE.exe", "type": "Game" }
 
 # Sand:box https://store.steampowered.com/app/2179380/Sandbox/
 { "name": "sandbox.exe", "type": "Game" }
@@ -687,6 +654,11 @@
 # SEX, SIN & ROCK'N'ROLL 🤘🎸 https://store.steampowered.com/app/4280130/
 { "name": "Sex Sin and Rock N Roll.exe", "type": "Game" }
 
+# Sex with the Devil https://store.steampowered.com/app/1202690/
+{ "name": "SexWithDevilVR.exe", "type": "BG_CPUIO" }
+{ "name": "SexWithDevil.exe", "type": "BG_CPUIO" }
+{ "name": "SexWithDevil-Win64-Shipping.exe", "type": "Game" }
+
 # Sexy Airlines EVO https://store.steampowered.com/app/1745200/
 { "name": "SexyAirlines.exe", "type": "Game" }
 
@@ -841,6 +813,9 @@
 
 # Shelter 69 https://store.steampowered.com/app/1905950/
 { "name": "Shelter69.exe", "type": "Game" }
+
+# S.H.E.L.T.E.R. - An Apocalyptic Tale https://store.steampowered.com/app/1394100/
+{ "name": "Shelter-32.exe", "type": "Game" }
 
 # Sheltered https://store.steampowered.com/app/356040/Sheltered/
 { "name": "Sheltered.exe", "type": "Game" }
@@ -1200,6 +1175,9 @@
 # Six Days in Fallujah https://store.steampowered.com/app/1548850/Six_Days_in_Fallujah/
 { "name": "SixDays.exe", "type": "Game" }
 
+# Sizeable https://store.steampowered.com/app/1333910/Sizeable/
+{ "name": "Sizeable.exe", "type": "Game" }
+
 # SKALD: Against the Black Priory https://store.steampowered.com/app/1069160/SKALD_Against_the_Black_Priory/
 { "name": "Skald Data Editor.exe", "type": "Game" }
 { "name": "SKALD Against the Black Priory.exe", "type": "Game" }
@@ -1231,6 +1209,9 @@
 
 # S.K.I.L.L. - Special Force 2 (Shooter) https://store.steampowered.com/app/286940/SKILL__Special_Force_2_Shooter/
 { "name": "sf2.exe", "type": "Game" }
+
+# Skillwood https://store.steampowered.com/app/2776630/Skillwood/
+{ "name": "skillwood.exe", "type": "Game" }
 
 # Skin Deep https://store.steampowered.com/app/301280/Skin_Deep/
 { "name": "skindeep.exe", "type": "Game" }
@@ -1334,6 +1315,9 @@
 
 # Slice & Dice https://store.steampowered.com/app/1775490/Slice__Dice/
 { "name": "SliceAndDice.exe", "type": "Game" }
+
+# Slice the Crops! https://store.steampowered.com/app/4169770/Slice_the_Crops/
+{ "name": "Slice The Crops.exe", "type": "Game" }
 
 # Slime 3K: Rise Against Despot https://store.steampowered.com/app/2348610/Slime_3K_Rise_Against_Despot/
 { "name": "Slime3k.exe", "type": "Game" }
@@ -1588,6 +1572,9 @@
 # Solium Infernum https://store.steampowered.com/app/1893810/Solium_Infernum/
 { "name": "soliuminfernum.exe", "type": "Game" }
 
+# Solo Knight https://store.steampowered.com/app/3780390/Solo_Knight/
+{ "name": "Solo Knight.exe", "type": "Game" }
+
 # Solo Leveling: ARISE OVERDRIVE https://store.steampowered.com/app/2373990/Solo_Leveling_ARISE_OVERDRIVE/
 { "name": "Solo_Leveling_ARISE_OVERDRIVE.exe", "type": "Game" }
 
@@ -1780,6 +1767,9 @@
 # Space Engineers 2 https://store.steampowered.com/app/1133870/Space_Engineers_2/
 { "name": "SpaceEngineers2.exe", "type": "Game" }
 
+# Space Engineers Dedicated Server https://store.steampowered.com/app/298740/
+{ "name": "SpaceEngineersDedicated.exe", "type": "Service" }
+
 # Space Farmers https://store.steampowered.com/app/271570/Space_Farmers/
 { "name": "SF_Remastered.exe", "type": "Game" }
 { "name": "SpaceFarmers.exe", "type": "Game" }
@@ -1816,6 +1806,9 @@
 
 # Space Run Galaxy https://store.steampowered.com/app/355800/Space_Run_Galaxy/
 { "name": "oSRGalaxyGame.exe", "type": "Game" }
+
+# Space Simulation Toolkit https://store.steampowered.com/app/1196080/Space_Simulation_Toolkit/
+{ "name": "sst.exe", "type": "Game" }
 
 # Space Station 14 Playtest https://store.steampowered.com/app/1482520/Space_Station_14/
 { "name": "Space Station 14 Launcher.exe", "type": "Game" }
@@ -2892,6 +2885,10 @@
 # Super Crate Box https://store.steampowered.com/app/212800/Super_Crate_Box/
 { "name": "supercratebox.exe", "type": "Game" }
 
+# SUPER CRAZY RHYTHM CASTLE https://store.steampowered.com/app/1812560/SUPER_CRAZY_RHYTHM_CASTLE/
+{ "name": "Rhythm Castle.exe", "type": "Game" }
+{ "name": "Super Crazy Rhythm Castle.exe", "type": "Game" }
+
 # Super Dark Deception https://store.steampowered.com/app/2193720/Super_Dark_Deception/
 { "name": "Super Dark Deception.exe", "type": "Game" }
 
@@ -3098,6 +3095,9 @@
 
 # Sword and Fairy 4 https://steamdb.info/app/681820/
 { "name": "Pal4Revoke.exe", "type": "Game" }
+
+# Sword and Fairy 5 https://store.steampowered.com/app/681830/
+{ "name": "Pal5.exe", "type": "Game" }
 
 # Sword and Fairy 5 Prequel https://steamdb.info/app/681840/
 { "name": "Pal5Q.exe", "type": "Game" }

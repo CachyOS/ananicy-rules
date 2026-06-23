@@ -30,16 +30,6 @@
 # Narcissu 1st & 2nd https://store.steampowered.com/app/264380/Narcissu_1st__2nd/
 { "name": "narci2.exe", "type": "Game" }
 
-# Nightmares from the Deep 2: The Siren`s Call https://store.steampowered.com/app/284790/Nightmares_from_the_Deep_2_The_Sirens_Call/
-{ "name": "NightmaresFromTheDeep_TheSirensCall.exe", "type": "Game" }
-
-# Ninja Rift https://store.steampowered.com/app/3095380/Ninja_Rift/
-{ "name": "Ninja Rift.exe", "type": "Game" }
-
-# NTR Idol: Déjà Vu https://store.steampowered.com/app/4011180/
-{ "name": "NTR_DejaVu.exe", "type": "BG_CPUIO" }
-{ "name": "NTR_DejaVu-Win64-Shipping.exe", "type": "Game" }
-
 # NARUTO SHIPPUDEN: Ultimate Ninja STORM 2 https://store.steampowered.com/app/543870/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_2/
 { "name": "NSUNS2.exe", "type": "Game" }
 
@@ -405,6 +395,9 @@
 # Nightmare Reaper https://store.steampowered.com/app/1051690/Nightmare_Reaper/
 { "name": "NightmareReaper.exe", "type": "BG_CPUIO" }
 
+# Nightmares from the Deep 2: The Siren`s Call https://store.steampowered.com/app/284790/Nightmares_from_the_Deep_2_The_Sirens_Call/
+{ "name": "NightmaresFromTheDeep_TheSirensCall.exe", "type": "Game" }
+
 # Nightmares from the Deep: The Cursed Heart https://store.steampowered.com/app/259740/Nightmares_from_the_Deep_The_Cursed_Heart/
 { "name": "NightmaresFromTheDeep_TheCursedHeart.exe", "type": "Game" }
 
@@ -482,6 +475,9 @@
 
 # Ninja Kiwi Archive https://store.steampowered.com/app/1275350/Ninja_Kiwi_Archive/
 { "name": "Ninja Kiwi Archive.exe", "type": "Game" }
+
+# Ninja Rift https://store.steampowered.com/app/3095380/Ninja_Rift/
+{ "name": "Ninja Rift.exe", "type": "Game" }
 
 # Ni no Kuni II: Revenant Kingdom https://store.steampowered.com/app/589360/Ni_no_Kuni_II_Revenant_Kingdom/
 { "name": "Nino2.exe", "type": "Game" }
@@ -754,6 +750,10 @@
 
 # NTRaholic https://store.steampowered.com/app/3412290/
 { "name": "Ntraholic.exe", "type": "Game" }
+
+# NTR Idol: Déjà Vu https://store.steampowered.com/app/4011180/
+{ "name": "NTR_DejaVu.exe", "type": "BG_CPUIO" }
+{ "name": "NTR_DejaVu-Win64-Shipping.exe", "type": "Game" }
 
 # Nubby's Number Factory https://store.steampowered.com/app/3191030/Nubbys_Number_Factory/
 { "name": "NNF_FULLVERSION.exe", "type": "Game" }

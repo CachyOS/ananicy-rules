@@ -32,10 +32,6 @@
 # Neverending Nightmares https://store.steampowered.com/app/253330/Neverending_Nightmares/
 { "name": "nightmare", "type": "Game" }
 
-# Nightmares from the Deep 2: The Siren`s Call https://store.steampowered.com/app/284790/Nightmares_from_the_Deep_2_The_Sirens_Call/
-{ "name": "NightmaresFromTheDeep_TheSirensCall_i386", "type": "Game" }
-{ "name": "NightmaresFromTheDeep_TheSirensCall_amd64", "type": "Game" }
-
 # Neverway https://store.steampowered.com/app/2318330/Neverway/
 { "name": "Neverway", "type": "Game" }
 
@@ -52,6 +48,10 @@
 # Night in the Woods https://store.steampowered.com/app/481510/Night_in_the_Woods/
 { "name": "Night in the Woods.x86_64", "type": "Game" }
 { "name": "Night in the Woods.x86", "type": "Game" }
+
+# Nightmares from the Deep 2: The Siren`s Call https://store.steampowered.com/app/284790/Nightmares_from_the_Deep_2_The_Sirens_Call/
+{ "name": "NightmaresFromTheDeep_TheSirensCall_i386", "type": "Game" }
+{ "name": "NightmaresFromTheDeep_TheSirensCall_amd64", "type": "Game" }
 
 # Nightmares from the Deep: The Cursed Heart https://store.steampowered.com/app/259740/Nightmares_from_the_Deep_The_Cursed_Heart/
 { "name": "NightmaresFromTheDeep_TheCursedHeart_amd64", "type": "Game" }
