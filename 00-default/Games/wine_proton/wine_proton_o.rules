@@ -8,6 +8,19 @@
 # Oaken Tower https://store.steampowered.com/app/3400960/Oaken_Tower/
 { "name": "oakenTower.exe", "type": "Game" }
 
+# One Last Hand Demo https://store.steampowered.com/app/4655450/One_Last_Hand_Demo/
+{ "name": "OneLastHand.exe", "type": "Game" }
+
+# Online: 404 Demo https://store.steampowered.com/app/4744250/
+{ "name": "Online404.exe", "type": "BG_CPUIO" }
+{ "name": "Online404-Win64-Shipping.exe", "type": "Game" }
+
+# Order of the Sinking Star Demo https://store.steampowered.com/app/4597250/Order_of_the_Sinking_Star_Demo/
+{ "name": "sinking_star.exe", "type": "Game" }
+
+# over the hill Demo https://store.steampowered.com/app/4703940/over_the_hill_Demo/
+{ "name": "over the hill.exe", "type": "Game" }
+
 # Oasis Driver for Windows Mixed Reality https://store.steampowered.com/app/3824490/Oasis_Driver_for_Windows_Mixed_Reality/
 { "name": "unlock_wmr.exe", "type": "Game" }
 
