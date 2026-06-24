@@ -9,21 +9,8 @@
 # The 39 Steps https://store.steampowered.com/app/234940/The_39_Steps/
 { "name": "39steps.exe", "type": "Game" }
 
-# The Adventures of HILLS https://store.steampowered.com/app/2859100/
-{ "name": "Game.exe", "type": "Game" }
-
-# The Artisan of Glimmith Demo https://store.steampowered.com/app/4160300/The_Artisan_of_Glimmith_Demo/
-{ "name": "Geri.exe", "type": "BG_CPUIO" }
-{ "name": "Geri-Win64-Shipping.exe", "type": "Game" }
-
 # The Endless Abyss: A Busty Cop’s Corrupted Soul https://store.steampowered.com/app/2651410/
 { "name": "The_Endless_Abyss.exe", "type": "Game" }
-
-# The First Million https://store.steampowered.com/app/4446010/The_First_Million/
-{ "name": "TheFirstMillion.exe", "type": "Game" }
-
-# The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
-{ "name": "TheFirstMillion.exe", "type": "Game" }
 
 # The Gate Must Stand https://store.steampowered.com/app/3975750/The_Gate_Must_Stand/
 { "name": "The Gate Must Stand.exe", "type": "Game" }
@@ -68,10 +55,6 @@
 
 # The Arrogant Kaiju Princess and The Detective Servant https://store.steampowered.com/app/2291680/
 { "name": "The Detective Servant.exe", "type": "Game" }
-
-# The Artisan of Glimmith https://store.steampowered.com/app/4160210/The_Artisan_of_Glimmith/
-{ "name": "Geri.exe", "type": "BG_CPUIO" }
-{ "name": "Geri-Win64-Shipping.exe", "type": "Game" }
 
 # The Ascent https://store.steampowered.com/app/979690/The_Ascent/
 { "name": "TheAscent.exe", "type": "BG_CPUIO" }

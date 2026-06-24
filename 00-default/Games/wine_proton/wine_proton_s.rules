@@ -52,9 +52,6 @@
 { "name": "Babylon.exe", "type": "BG_CPUIO" }
 { "name": "Babylon-Win64-Test.exe", "type": "Game" }
 
-# Scapewatch: Idle MMO Demo https://store.steampowered.com/app/4750660/Scapewatch_Idle_MMO_Demo/
-{ "name": "Scapewatch.exe", "type": "Game" }
-
 # Security 51 Demo https://store.steampowered.com/app/4351470/Security_51_Demo/
 { "name": "Security51.exe", "type": "Game" }
 
@@ -64,12 +61,6 @@
 
 # Silver Pines Demo https://store.steampowered.com/app/4540100/Silver_Pines_Demo/
 { "name": "Carpenter.exe", "type": "Game" }
-
-# Sineus Arena Demo https://store.steampowered.com/app/4338720/Sineus_Arena_Survivors_Demo/
-{ "name": "SineusArena.exe", "type": "Game" }
-
-# Sineus Arena Survivors https://store.steampowered.com/app/4227400/Sineus_Arena_Survivors/
-{ "name": "SineusArena.exe", "type": "Game" }
 
 # Sir, We Have an Orc Problem Demo https://store.steampowered.com/app/4671800/
 { "name": "swhaop_demo.exe", "type": "Game" }
@@ -120,9 +111,6 @@
 
 # Summer at Smile Café https://store.steampowered.com/app/3116500/
 { "name": "Summer at Smile Cafe.exe", "type": "Game" }
-
-# Symphony of the Serpent Demo https://store.steampowered.com/app/4657880/
-{ "name": "Game.exe", "type": "Game" }
 
 # Sailwind https://store.steampowered.com/app/1764530/Sailwind/
 { "name": "Sailwind.exe", "type": "Game" }
@@ -329,9 +317,6 @@
 
 # Scania Truck Driving Simulator https://store.steampowered.com/app/258760/Scania_Truck_Driving_Simulator/
 { "name": "scania_truck_driving_simulator.exe", "type": "Game" }
-
-# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
-{ "name": "Scapewatch.exe", "type": "Game" }
 
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow.exe", "type": "Game" }

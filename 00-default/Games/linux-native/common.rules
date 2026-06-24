@@ -44,6 +44,7 @@
 # Witchy Business https://store.steampowered.com/app/3415230/Witchy_Business/
 # Perfume Atelier https://store.steampowered.com/app/3962270/Perfume_Atelier/
 # Treasure Beach https://store.steampowered.com/app/3939700/Treasure_Beach/
+# Cozy Cleaner  https://store.steampowered.com/app/2742710/Cozy_Cleaner/
 { "name": "app.x86_64", "type": "Game" }
 
 # Backpack Battles Demo https://store.steampowered.com/app/2444170/Backpack_Battles/
@@ -128,9 +129,21 @@
 # Football Manager Touch 2017 https://store.steampowered.com/app/482750/
 { "name": "fm", "type": "Game" }
 
+# The First Million https://store.steampowered.com/app/4446010/The_First_Million/
+# The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
+{ "name": "TheFirstMillion.x86_64", "type": "Game" }
+
+# Scapewatch: Idle MMO Demo https://store.steampowered.com/app/4750660/Scapewatch_Idle_MMO_Demo/
+# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
+{ "name": "scapewatch", "type": "Game" }
+
 # FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
 # FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
 { "name": "FreshWomen", "type": "Game" }
+
+# Dimhaven Enigmas Demo https://store.steampowered.com/app/3010310/
+# Dimhaven - The Lost Source https://store.steampowered.com/app/2458980/Dimhaven__The_Lost_Source/
+{ "name": "Dimhaven Enigmas.x86_64", "type": "Game" }
 
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
@@ -249,6 +262,7 @@
 # Treasure of Nadia https://store.steampowered.com/app/1737100/
 # The Genesis Order https://store.steampowered.com/app/2553870/
 # - Arcane Raise - https://store.steampowered.com/app/603750/_Arcane_Raise/
+# Dorm Janitor's Revenge https://store.steampowered.com/app/3416960/
 { "name": "nw", "type": "Game" }
 
 # Out of the Park Baseball 18 https://store.steampowered.com/app/465650/Out_of_the_Park_Baseball_18/

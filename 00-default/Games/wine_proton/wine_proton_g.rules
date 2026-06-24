@@ -32,9 +32,6 @@
 # Galaxy Burger https://store.steampowered.com/app/2749770/Galaxy_Burger/
 { "name": "Galaxy Burger.exe", "type": "Game" }
 
-# Galaxy Control: 3D Strategy https://store.steampowered.com/app/435440/Galaxy_Control_3D_Strategy/
-{ "name": "gc.exe", "type": "Game" }
-
 # Galaxy Idle Clicker https://store.steampowered.com/app/2962810/Galaxy_Idle_Clicker/
 { "name": "GalaxyIdleClicker.exe", "type": "Game" }
 
@@ -489,10 +486,6 @@
 { "name": "GoldMiningSimulator.exe", "type": "Game" }
 { "name": "GoldRushTheGame.exe", "type": "Game" }
 
-# Gold Mining Simulator 2 Playtest https://store.steampowered.com/app/3481280/
-{ "name": "GoldFever.exe", "type": "BG_CPUIO" }
-{ "name": "GoldFever-Win64-Shipping.exe", "type": "Game" }
-
 # Gold Rush! Classic https://store.steampowered.com/app/308000/Gold_Rush_Classic/
 { "name": "Gold Rush!.exe", "type": "Game" }
 
@@ -935,10 +928,6 @@
 { "name": "MZGame.exe", "type": "BG_CPUIO" }
 { "name": "MZGame-Win64-Shipping.exe", "type": "Game" }
 
-# Gold Mining Simulator 2 Demo https://store.steampowered.com/app/3626940/Gold_Mining_Simulator_2_Singleplayer_Demo/
-{ "name": "GoldFever.exe", "type": "BG_CPUIO" }
-{ "name": "GoldFever-Win64-Shipping.exe", "type": "Game" }
-
 # Grail Demo https://store.steampowered.com/app/4537510/Grail_Demo/
 { "name": "grail.exe", "type": "Game" }
 
@@ -954,7 +943,6 @@
 
 # Ground Control Anthology https://store.steampowered.com/app/254820/Ground_Control_Anthology/
 { "name": "GC1Launcher.exe", "type": "BG_CPUIO" }
-{ "name": "gc.exe", "type": "Game" }
 
 # Ground Control II https://store.steampowered.com/app/254840/Ground_Control_II_Operation_Exodus/
 { "name": "GC2Launcher.exe", "type": "Game" }

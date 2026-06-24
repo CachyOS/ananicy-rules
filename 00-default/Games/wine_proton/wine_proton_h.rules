@@ -103,9 +103,6 @@
 # Hammerwatch https://store.steampowered.com/app/239070/Hammerwatch/
 { "name": "Hammerwatch.exe", "type": "Game" }
 
-# Hamster https://store.steampowered.com/app/3046430/Hamster/
-{ "name": "Hamster.exe", "type": "Game" }
-
 # Hamster Combat https://store.steampowered.com/app/2376170/Hamster_Combat/
 { "name": "Hamster Combat.exe", "type": "Game" }
 
@@ -891,7 +888,6 @@
 
 # How to Make an Atomic Bomb in Your Garden Demo https://store.steampowered.com/app/3761970/
 { "name": "Atomic Bomb Demo.exe", "type": "BG_CPUIO" }
-{ "name": "atom-Win64-Shipping.exe", "type": "Game" }
 
 # How to Survive https://store.steampowered.com/app/250400/How_to_Survive/
 { "name": "HowToSurvive.exe", "type": "Game" }
@@ -947,9 +943,6 @@
 # Hunt and Snare https://store.steampowered.com/app/944330/
 { "name": "ruffleneck.exe", "type": "Game" }
 
-# Hamster Pet: Desktop Companion https://store.steampowered.com/app/4565910/Hamster_Pet_Desktop_Companion/
-{ "name": "Hamster.exe", "type": "BG_CPUIO" }
-
 # Hard Truck 2: King of the Road https://store.steampowered.com/app/4487840/Hard_Truck_2_King_of_the_Road/
 { "name": "king.exe", "type": "Game" }
 
@@ -972,7 +965,6 @@
 
 # How to Make an Atomic Bomb in Your Garden https://store.steampowered.com/app/3700980/How_to_Make_an_Atomic_Bomb_in_Your_Garden/
 { "name": "Atomic Bomb.exe", "type": "BG_CPUIO" }
-{ "name": "atom-Win64-Shipping.exe", "type": "Game" }
 
 # Hull Rupture Demo https://store.steampowered.com/app/4809240/Hull_Rupture_Demo/
 { "name": "HullRupture.exe", "type": "Game" }

@@ -49,17 +49,8 @@
 # qí Sakura 棋桜 https://store.steampowered.com/app/4257900/_/
 { "name": "KIOU.exe", "type": "Game" }
 
-# Fàngzhì: Zhǐ sè xīn jìng Demo 放置:纸色新境 Demo https://store.steampowered.com/app/4337250/idledoodle_realm_demo/
-{ "name": "game.exe", "type": "Game" }
-
-# Guàjī pòhuài shén IdleDiablo 挂机破坏神 IdleDiablo https://store.steampowered.com/app/4411600/_IdleDiablo/
-{ "name": "IdleDiablo.exe", "type": "Game" }
-
 # Zāibiàn shídài Demo 灾变时代 Demo https://store.steampowered.com/app/4430990/Cataclysm_Era_Demo/
 { "name": "Demo.exe", "type": "Game" }
-
-# Yùwàng wángzuò 慾望王座 https://store.steampowered.com/app/4496710/
-{ "name": "Launcher.exe", "type": "Game" }
 
 # Fàngzhì dìláo Demo 放置地牢 Demo https://store.steampowered.com/app/4446190/AutoDungeon_Demo/
 { "name": "AutoDungeon.exe", "type": "Game" }
@@ -73,13 +64,6 @@
 # Zhànzhēng jǐngjiè Demo 战争警戒 Demo https://store.steampowered.com/app/4713990/War_Alert_Demo/
 { "name": "AutoRTS.exe", "type": "BG_CPUIO" }
 { "name": "AutoRTS-Win64-Shipping.exe", "type": "Game" }
-
-# Pòxiǎo zhī xū Demo 破晓之墟Demo https://store.steampowered.com/app/4743300/RuinsofDawnDemo/
-{ "name": "RuinsOfDawn.exe", "type": "BG_CPUIO" }
-{ "name": "RuinsOfDawn-Win64-Shipping.exe", "type": "Game" }
-
-# Shīxù zhī dì Demo 失序之地 Demo https://store.steampowered.com/app/4770500/
-{ "name": "game.exe", "type": "Game" }
 
 # Fàngzhì zhǎn mó lù Demo 放置斩魔录 Demo https://store.steampowered.com/app/4774060/_Demo/
 { "name": "fzzml.exe", "type": "Game" }
@@ -165,9 +149,6 @@
 
 # Guà jī èmó/IdleDevils 挂姬恶魔/IdleDevils https://store.steampowered.com/app/2226700/_IDLE_DEVILS/
 { "name": "IdleDevils.exe", "type": "Game" }
-
-# Guàjī pòhuài shén IdleDiablo Demo 挂机破坏神 IdleDiablo Demo https://store.steampowered.com/app/4579600/_IdleDiablo_Demo/
-{ "name": "IdleDiablo.exe", "type": "Game" }
 
 # Guàjī shénhuà 挂机神话 https://store.steampowered.com/app/1863750/_/
 { "name": "GuaJiShenHua.exe", "type": "Game" }
@@ -345,10 +326,6 @@
 
 # Piāoliú huànjìng 飄流幻境 https://store.steampowered.com/app/1481340/M/
 { "name": "WLM.exe", "type": "Game" }
-
-# Pòxiǎo zhī xū Playtest 破晓之墟 Playtest https://store.steampowered.com/app/4577420/Ruins_of_Dawn/
-{ "name": "RuinsOfDawn.exe", "type": "BG_CPUIO" }
-{ "name": "RuinsOfDawn-Win64-Shipping.exe", "type": "Game" }
 
 # Qínggǎn fǎn zhà mónǐ qì 情感反诈模拟器 https://store.steampowered.com/app/3350200/Revenge_on_gold_diggers/
 { "name": "RevengeOnGoldDiggers.exe", "type": "Game" }
