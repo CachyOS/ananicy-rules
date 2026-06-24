@@ -395,6 +395,9 @@
 # Nightmare Reaper https://store.steampowered.com/app/1051690/Nightmare_Reaper/
 { "name": "NightmareReaper.exe", "type": "BG_CPUIO" }
 
+# Nightmares from the Deep 2: The Siren`s Call https://store.steampowered.com/app/284790/Nightmares_from_the_Deep_2_The_Sirens_Call/
+{ "name": "NightmaresFromTheDeep_TheSirensCall.exe", "type": "Game" }
+
 # Nightmares from the Deep: The Cursed Heart https://store.steampowered.com/app/259740/Nightmares_from_the_Deep_The_Cursed_Heart/
 { "name": "NightmaresFromTheDeep_TheCursedHeart.exe", "type": "Game" }
 
@@ -473,6 +476,9 @@
 # Ninja Kiwi Archive https://store.steampowered.com/app/1275350/Ninja_Kiwi_Archive/
 { "name": "Ninja Kiwi Archive.exe", "type": "Game" }
 
+# Ninja Rift https://store.steampowered.com/app/3095380/Ninja_Rift/
+{ "name": "Ninja Rift.exe", "type": "Game" }
+
 # Ni no Kuni II: Revenant Kingdom https://store.steampowered.com/app/589360/Ni_no_Kuni_II_Revenant_Kingdom/
 { "name": "Nino2.exe", "type": "Game" }
 
@@ -548,8 +554,6 @@
 { "name": "NOBU14.exe", "type": "Game" }
 
 # NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
-{ "name": "N14PKLauncher.exe", "type": "BG_CPUIO" }
-{ "name": "NOBU14PK.exe", "type": "Game" }
 { "name": "NOBU14_ORG.exe", "type": "Game" }
 
 # NOBUNAGA'S AMBITION: Sphere of Influence - Ascension https://store.steampowered.com/app/375450/NOBUNAGAS_AMBITION_Sphere_of_Influence__Ascension/
@@ -746,6 +750,10 @@
 
 # NTRaholic https://store.steampowered.com/app/3412290/
 { "name": "Ntraholic.exe", "type": "Game" }
+
+# NTR Idol: Déjà Vu https://store.steampowered.com/app/4011180/
+{ "name": "NTR_DejaVu.exe", "type": "BG_CPUIO" }
+{ "name": "NTR_DejaVu-Win64-Shipping.exe", "type": "Game" }
 
 # Nubby's Number Factory https://store.steampowered.com/app/3191030/Nubbys_Number_Factory/
 { "name": "NNF_FULLVERSION.exe", "type": "Game" }

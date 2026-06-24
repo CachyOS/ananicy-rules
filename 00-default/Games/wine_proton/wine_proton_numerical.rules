@@ -78,6 +78,10 @@
 # 2Dark https://store.steampowered.com/app/435100/2Dark/
 { "name": "2Dark.exe", "type": "Game" }
 
+# 30 Days on Ship Playtest https://store.steampowered.com/app/2915890/
+{ "name": "ShipSurvival.exe", "type": "BG_CPUIO" }
+{ "name": "ShipSurvival-Win64-Shipping.exe", "type": "Game" }
+
 # 30XX https://store.steampowered.com/app/1029210/30XX/
 { "name": "30XX.exe", "type": "Game" }
 { "name": "Editor30XX.exe", "type": "Game" }
@@ -127,6 +131,9 @@
 
 # 7 Days to End with You https://store.steampowered.com/app/1859280/7_Days_to_End_with_You/
 { "name": "Seven Days to End with You.exe", "type": "Game" }
+
+# 80's OVERDRIVE https://store.steampowered.com/app/1381440/80s_OVERDRIVE/
+{ "name": "80s_Overdrive.exe", "type": "Game" }
 
 # '83 https://store.steampowered.com/app/1059220/83/
 { "name": "XV83.exe", "type": "Game" }

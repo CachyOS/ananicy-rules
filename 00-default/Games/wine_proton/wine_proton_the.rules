@@ -13,10 +13,6 @@
 { "name": "The7thGuestVR.exe", "type": "BG_CPUIO" }
 { "name": "The7thGuestVR-Win64-Shipping.exe", "type": "Game" }
 
-# The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
-{ "name": "Elliot.exe", "type": "BG_CPUIO" }
-{ "name": "Elliot-Win64-Shipping.exe", "type": "Game" }
-
 # The Age of Decadence https://store.steampowered.com/app/230070/The_Age_of_Decadence/
 { "name": "AoD.exe", "type": "Game" }
 { "name": "AoD64.exe", "type": "Game" }
@@ -207,6 +203,9 @@
 
 # The Colonists https://store.steampowered.com/app/677340/The_Colonists/
 { "name": "TheColonists.exe", "type": "Game" }
+
+# The Coma: Recut https://store.steampowered.com/app/600090/The_Coma_Recut/
+{ "name": "TheComaRecut.exe", "type": "Game" }
 
 # The Complex: Expedition https://store.steampowered.com/app/2172260/The_Complex_Expedition/
 { "name": "TheComplexExpedition.exe", "type": "BG_CPUIO" }
@@ -1042,6 +1041,9 @@
 # The Shell Part I: Inferno https://store.steampowered.com/app/2258770/The_Shell_Part_I_Inferno/
 { "name": "TheShell.exe", "type": "Game" }
 
+# The Shell Part II: Purgatorio https://store.steampowered.com/app/2712550/The_Shell_Part_II_Purgatorio/
+{ "name": "TheShell2.exe", "type": "Game" }
+
 # The Ship: Murder Party https://store.steampowered.com/app/2400/The_Ship_Murder_Party/
 { "name": "ship.exe", "type": "Game" }
 
@@ -1199,6 +1201,9 @@
 
 # The Wandering Village https://store.steampowered.com/app/1121640/The_Wandering_Village/
 { "name": "WanderingVillage.exe", "type": "Game" }
+
+# The War https://store.steampowered.com/app/2317560/3_Days_War/
+{ "name": "wargame.exe", "type": "Game" }
 
 # The Weeping Swan: Ten Days of the City's Fall https://store.steampowered.com/app/3220060/The_Weeping_Swan_Ten_Days_of_the_Citys_Fall/
 { "name": "TheLamentingGeese.exe", "type": "Game" }
