@@ -438,6 +438,10 @@
 { "name": "godot.windows.opt.tools.64.exe", "type": "Game" }
 { "name": "godot.windows.opt.tools.32.exe", "type": "Game" }
 
+# God Save Birmingham Playtest https://store.steampowered.com/app/3891040/
+{ "name": "MZGame.exe", "type": "BG_CPUIO" }
+{ "name": "MZGame-Win64-Shipping.exe", "type": "Game" }
+
 # Godsbane Idle https://store.steampowered.com/app/1565140/Godsbane_Idle/
 { "name": "Godsbane.exe", "type": "Game" }
 
@@ -606,6 +610,13 @@
 # Graalonline Era https://store.steampowered.com/app/2358050/GraalOnline_Era/
 { "name": "Era.exe", "type": "Game" }
 
+# Grail Demo https://store.steampowered.com/app/4537510/Grail_Demo/
+{ "name": "grail.exe", "type": "Game" }
+
+# GRAIN ROT Demo https://store.steampowered.com/app/4731790/GRAIN_ROT_Demo/
+{ "name": "Helden.exe", "type": "BG_CPUIO" }
+{ "name": "Helden-Win64-Shipping.exe", "type": "Game" }
+
 # Granado Espada https://store.steampowered.com/app/663090/Granado_Espada/
 { "name": "ge.exe", "type": "Game" }
 
@@ -614,6 +625,9 @@
 
 # Granblue Fantasy: Relink https://store.steampowered.com/app/881020/Granblue_Fantasy_Relink/
 { "name": "granblue_fantasy_relink.exe", "type": "Game" }
+
+# Granblue Fantasy: Relink - Endless Ragnarok Demo https://store.steampowered.com/app/4196050/
+{ "name": "granblue_fantasy_relink_endless_ragnarok_demo.exe", "type": "Game" }
 
 # Granblue Fantasy: Versus https://store.steampowered.com/app/1090630/Granblue_Fantasy_Versus/
 { "name": "GBVS.exe", "type": "BG_CPUIO" }
@@ -702,6 +716,9 @@
 
 # Grapples Galore https://store.steampowered.com/app/2239140/Grapples_Galore/
 { "name": "Grapples Galore.exe", "type": "Game" }
+
+# GrassChopper Demo https://store.steampowered.com/app/4797010/GrassChopper_Demo/
+{ "name": "Grass Chopper.exe", "type": "Game" }
 
 # Gravel https://store.steampowered.com/app/558260/Gravel/
 { "name": "gravel.exe", "type": "BG_CPUIO" }
@@ -816,6 +833,13 @@
 { "name": "GroundBranch.exe", "type": "BG_CPUIO" }
 { "name": "GroundBranch-Win64-Shipping.exe", "type": "Game" }
 
+# Ground Control Anthology https://store.steampowered.com/app/254820/Ground_Control_Anthology/
+{ "name": "GC1Launcher.exe", "type": "BG_CPUIO" }
+
+# Ground Control II https://store.steampowered.com/app/254840/Ground_Control_II_Operation_Exodus/
+{ "name": "GC2Launcher.exe", "type": "Game" }
+{ "name": "gcii.exe", "type": "Game" }
+
 # Grounded https://store.steampowered.com/app/962130/Grounded/
 { "name": "Maine-Win64-Shipping.exe", "type": "Game" }
 { "name": "Grounded.exe", "type": "BG_CPUIO" }
@@ -923,30 +947,6 @@
 
 # Gunner-chan! https://store.steampowered.com/app/2516990/Gunnerchan/
 { "name": "gunner-chan.exe", "type": "Game" }
-
-# God Save Birmingham Playtest https://store.steampowered.com/app/3891040/
-{ "name": "MZGame.exe", "type": "BG_CPUIO" }
-{ "name": "MZGame-Win64-Shipping.exe", "type": "Game" }
-
-# Grail Demo https://store.steampowered.com/app/4537510/Grail_Demo/
-{ "name": "grail.exe", "type": "Game" }
-
-# GRAIN ROT Demo https://store.steampowered.com/app/4731790/GRAIN_ROT_Demo/
-{ "name": "Helden.exe", "type": "BG_CPUIO" }
-{ "name": "Helden-Win64-Shipping.exe", "type": "Game" }
-
-# Granblue Fantasy: Relink - Endless Ragnarok Demo https://store.steampowered.com/app/4196050/
-{ "name": "granblue_fantasy_relink_endless_ragnarok_demo.exe", "type": "Game" }
-
-# GrassChopper Demo https://store.steampowered.com/app/4797010/GrassChopper_Demo/
-{ "name": "Grass Chopper.exe", "type": "Game" }
-
-# Ground Control Anthology https://store.steampowered.com/app/254820/Ground_Control_Anthology/
-{ "name": "GC1Launcher.exe", "type": "BG_CPUIO" }
-
-# Ground Control II https://store.steampowered.com/app/254840/Ground_Control_II_Operation_Exodus/
-{ "name": "GC2Launcher.exe", "type": "Game" }
-{ "name": "gcii.exe", "type": "Game" }
 
 # Gunner, HEAT, PC! https://store.steampowered.com/app/1705180/Gunner_HEAT_PC/
 { "name": "GHPC.exe", "type": "Game"}

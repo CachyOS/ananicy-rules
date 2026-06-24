@@ -8,19 +8,6 @@
 # Oaken Tower https://store.steampowered.com/app/3400960/Oaken_Tower/
 { "name": "oakenTower.exe", "type": "Game" }
 
-# One Last Hand Demo https://store.steampowered.com/app/4655450/One_Last_Hand_Demo/
-{ "name": "OneLastHand.exe", "type": "Game" }
-
-# Online: 404 Demo https://store.steampowered.com/app/4744250/
-{ "name": "Online404.exe", "type": "BG_CPUIO" }
-{ "name": "Online404-Win64-Shipping.exe", "type": "Game" }
-
-# Order of the Sinking Star Demo https://store.steampowered.com/app/4597250/Order_of_the_Sinking_Star_Demo/
-{ "name": "sinking_star.exe", "type": "Game" }
-
-# over the hill Demo https://store.steampowered.com/app/4703940/over_the_hill_Demo/
-{ "name": "over the hill.exe", "type": "Game" }
-
 # Oasis Driver for Windows Mixed Reality https://store.steampowered.com/app/3824490/Oasis_Driver_for_Windows_Mixed_Reality/
 { "name": "unlock_wmr.exe", "type": "Game" }
 
@@ -203,6 +190,9 @@
 # One Hour One Life https://store.steampowered.com/app/595690/One_Hour_One_Life/
 { "name": "OneLife.exe", "type": "Game" }
 
+# One Last Hand Demo https://store.steampowered.com/app/4655450/One_Last_Hand_Demo/
+{ "name": "OneLastHand.exe", "type": "Game" }
+
 # One Military Camp https://store.steampowered.com/app/1743830/One_Military_Camp/
 { "name": "One Military Camp.exe", "type": "Game" }
 
@@ -266,6 +256,10 @@
 
 # Onirism https://store.steampowered.com/app/1057640/Onirism/
 { "name": "Onirism.exe", "type": "Game" }
+
+# Online: 404 Demo https://store.steampowered.com/app/4744250/
+{ "name": "Online404.exe", "type": "BG_CPUIO" }
+{ "name": "Online404-Win64-Shipping.exe", "type": "Game" }
 
 # Only Climb: Better Together https://store.steampowered.com/app/2500750/Only_Climb_Better_Together/
 { "name": "ocbt.exe", "type": "BG_CPUIO" }
@@ -357,6 +351,9 @@
 
 # Order of Kings https://store.steampowered.com/app/4192650/Order_of_Kings/
 { "name": "Order_of_Kings.exe", "type": "Game" }
+
+# Order of the Sinking Star Demo https://store.steampowered.com/app/4597250/Order_of_the_Sinking_Star_Demo/
+{ "name": "sinking_star.exe", "type": "Game" }
 
 # Orebound https://store.steampowered.com/app/2467810/Orebound/
 { "name": "OreBound.exe", "type": "BG_CPUIO" }
@@ -601,6 +598,9 @@
 # Overpass 2 https://store.steampowered.com/app/1830630/Overpass_2/
 { "name": "Buggy2.exe", "type": "BG_CPUIO" }
 { "name": "Buggy2-Win64-Shipping.exe", "type": "Game" }
+
+# over the hill Demo https://store.steampowered.com/app/4703940/over_the_hill_Demo/
+{ "name": "over the hill.exe", "type": "Game" }
 
 # Over The Top: WWI https://store.steampowered.com/app/2778610/Over_The_Top_WWI/
 { "name": "Over_The_Top_WWI.exe", "type": "Game" }

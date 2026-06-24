@@ -173,10 +173,6 @@
 # UnderMine https://store.steampowered.com/app/656350/UnderMine/
 { "name": "UnderMine.exe", "type": "Game" }
 
-# Unicycle Together Demo https://store.steampowered.com/app/4328040/Unicycle_Together_Demo/
-{ "name": "UnicycleTogether.exe", "type": "BG_CPUIO" }
-{ "name": "UnicycleTogether-Win64-Shipping.exe", "type": "Game" }
-
 # UnderMine 2 https://store.steampowered.com/app/1869780/UnderMine_2/
 { "name": "UnderMine2.exe", "type": "Game" }
 
@@ -230,6 +226,10 @@
 
 # Unholy Heights https://store.steampowered.com/app/249330/Unholy_Heights/
 { "name": "UnholyHeights.exe", "type": "Game" }
+
+# Unicycle Together Demo https://store.steampowered.com/app/4328040/Unicycle_Together_Demo/
+{ "name": "UnicycleTogether.exe", "type": "BG_CPUIO" }
+{ "name": "UnicycleTogether-Win64-Shipping.exe", "type": "Game" }
 
 # Union of Gnomes https://store.steampowered.com/app/2097030/Union_of_Gnomes/
 { "name": "Union of Gnomes.exe", "type": "Game" }

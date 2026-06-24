@@ -23,19 +23,6 @@
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
-# Echoes of Aincrad DEMO Version https://store.steampowered.com/app/4148250/
-{ "name": "EchoesofAincrad.exe", "type": "BG_CPUIO" }
-{ "name": "EchoesofAincrad-Win64-Shipping.exe", "type": "Game" }
-
-# Echoes of Mystralia Demo https://store.steampowered.com/app/4378410/Echoes_of_Mystralia_Demo/
-{ "name": "Echoes.exe", "type": "Game" }
-
-# Eldara https://store.steampowered.com/app/4746070/Eldara/
-{ "name": "Eldara.exe", "type": "Game" }
-
-# Escape from Yandere https://store.steampowered.com/app/4081840/Escape_from_Yandere/
-{ "name": "Escape from Yandere.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 6 https://store.steampowered.com/app/2291060/EARTH_DEFENSE_FORCE_6/
 { "name": "EDF6.exe", "type": "Game" }
 
@@ -98,8 +85,15 @@
 { "name": "yzLauncher.exe", "type": "Game" }
 { "name": "Echocalypse.exe", "type": "Game" }
 
+# Echoes of Aincrad DEMO Version https://store.steampowered.com/app/4148250/
+{ "name": "EchoesofAincrad.exe", "type": "BG_CPUIO" }
+{ "name": "EchoesofAincrad-Win64-Shipping.exe", "type": "Game" }
+
 # Echoes of Elysium https://store.steampowered.com/app/2644050/Echoes_of_Elysium/
 { "name": "Elysium.exe", "type": "Game" }
+
+# Echoes of Mystralia Demo https://store.steampowered.com/app/4378410/Echoes_of_Mystralia_Demo/
+{ "name": "Echoes.exe", "type": "Game" }
 
 # Echoes of the End: Enhanced Edition https://store.steampowered.com/app/2821610/Echoes_of_the_End_Enhanced_Edition/
 { "name": "TheDarken.exe", "type": "BG_CPUIO" }
@@ -171,6 +165,9 @@
 
 # Eiyuden Chronicle: Rising https://store.steampowered.com/app/1658290/Eiyuden_Chronicle_Rising/
 { "name": "Eiyuden Chronicle Rising.exe", "type": "Game" }
+
+# Eldara https://store.steampowered.com/app/4746070/Eldara/
+{ "name": "Eldara.exe", "type": "Game" }
 
 # Eldegarde https://store.steampowered.com/app/2344320/Eldegarde/
 { "name": "ProjectHonorClient.exe", "type": "Game" }
@@ -539,6 +536,9 @@
 # Escape from Tarkov https://store.steampowered.com/app/3932890/Escape_from_Tarkov/
 { "name": "EscapeFromTarkov.exe", "type": "Game" }
 { "name": "EscapeFromTarkov_BE.exe", "type": "Game" }
+
+# Escape from Yandere https://store.steampowered.com/app/4081840/Escape_from_Yandere/
+{ "name": "Escape from Yandere.exe", "type": "Game" }
 
 # Escape Memoirs: Mini Stories https://store.steampowered.com/app/2098350/Escape_Memoirs_Mini_Stories/
 { "name": "EscapeMemoirsMS.exe", "type": "BG_CPUIO" }

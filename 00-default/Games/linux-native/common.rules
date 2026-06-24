@@ -86,6 +86,10 @@
 # Dead Island Definitive Edition https://store.steampowered.com/app/383150/
 { "name": "DeadIslandGame", "type": "Game" }
 
+# Dimhaven Enigmas Demo https://store.steampowered.com/app/3010310/
+# Dimhaven - The Lost Source https://store.steampowered.com/app/2458980/Dimhaven__The_Lost_Source/
+{ "name": "Dimhaven Enigmas.x86_64", "type": "Game" }
+
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam", "type": "Game" }
@@ -129,21 +133,9 @@
 # Football Manager Touch 2017 https://store.steampowered.com/app/482750/
 { "name": "fm", "type": "Game" }
 
-# The First Million https://store.steampowered.com/app/4446010/The_First_Million/
-# The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
-{ "name": "TheFirstMillion.x86_64", "type": "Game" }
-
-# Scapewatch: Idle MMO Demo https://store.steampowered.com/app/4750660/Scapewatch_Idle_MMO_Demo/
-# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
-{ "name": "scapewatch", "type": "Game" }
-
 # FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
 # FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
 { "name": "FreshWomen", "type": "Game" }
-
-# Dimhaven Enigmas Demo https://store.steampowered.com/app/3010310/
-# Dimhaven - The Lost Source https://store.steampowered.com/app/2458980/Dimhaven__The_Lost_Source/
-{ "name": "Dimhaven Enigmas.x86_64", "type": "Game" }
 
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
@@ -339,6 +331,10 @@
 # The Red Strings Club https://store.steampowered.com/app/589780/The_Red_Strings_Club/
 { "name": "runner", "type": "Game" }
 
+# Scapewatch: Idle MMO Demo https://store.steampowered.com/app/4750660/Scapewatch_Idle_MMO_Demo/
+# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
+{ "name": "scapewatch", "type": "Game" }
+
 # Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
 # Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
 { "name": "Shadow Tactics", "type": "Game" }
@@ -394,6 +390,10 @@
 # X3: Terran Conflict https://store.steampowered.com/app/2820/X3_Terran_Conflict/
 # X3: Albion Prelude https://store.steampowered.com/app/201310/X3_Albion_Prelude/
 { "name": "testandlaunch", "type": "Game" }
+
+# The First Million https://store.steampowered.com/app/4446010/The_First_Million/
+# The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
+{ "name": "TheFirstMillion.x86_64", "type": "Game" }
 
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
 # Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/

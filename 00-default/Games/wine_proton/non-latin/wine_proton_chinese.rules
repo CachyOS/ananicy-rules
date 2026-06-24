@@ -17,8 +17,14 @@
 # Bèibāo chuǎngjiānghú 背包闯江湖 https://store.steampowered.com/app/3972650/Backpack_Jianghu/
 { "name": "BackpackJianghu.exe", "type": "Game" }
 
+# Bèibāo dìláo Demo 背包地牢 Demo https://store.steampowered.com/app/4524110/Backpack_Dungeon_Demo/
+{ "name": "Backpack-Dungeon.exe", "type": "Game" }
+
 # Bēng jìng huíshōu zhàn 嘣境回收战 https://store.steampowered.com/app/2411910/miniBONG/
 { "name": "miniBONG.exe", "type": "Game" }
+
+# Bǐfāng de tā-Aliya2 shǔguāng Demo 彼方的她-Aliya2 曙光 Demo https://store.steampowered.com/app/4759150/Aliya_Timelink2_Dawn_Demo/
+{ "name": "Aliya-Dawn Demo.exe", "type": "Game" }
 
 # Bīngdiǎn zhī xià 冰点之下 https://store.steampowered.com/app/3711170/SubZero/
 { "name": "Subzero.exe", "type": "Game" }
@@ -29,6 +35,9 @@
 # Chéngxù yuán de kèbǎn yìnxiàng Playtest 程序员的刻板印象 Playtest https://store.steampowered.com/app/4143470/_/
 { "name": "coder.exe", "type": "Game" }
 
+# Chéngzhǔ yǔ shàonǚ 城主与少女 https://store.steampowered.com/app/4671700/Lord_and_Maiden/
+{ "name": "Lord and Maiden.exe", "type": "Game" }
+
 # Chénmò de xīshuài 沉默的蟋蟀 https://store.steampowered.com/app/2216130/_/
 { "name": "Cricket.exe", "type": "Game" }
 
@@ -37,39 +46,6 @@
 
 # Cuòguò de shǔjià kěyǐ fàng dì èr cì ma? 错过的暑假可以放第二次吗？ https://store.steampowered.com/app/4309030/_/
 { "name": "A_Second_Chance_to_Relive_Summer.exe", "type": "Game" }
-
-# Lǔ shé chuānyuè yì shìjiè -zuò'ài, dǎgōng, wànshì wū- 魯蛇穿越異世界 -做愛、打工、萬事屋- https://store.steampowered.com/app/4175440/
-{ "name": "LoserIsekaieSJT.exe", "type": "BG_CPUIO" }
-{ "name": "LoserIsekaieSJT-Win64-Shipping.exe", "type": "Game" }
-
-# Lǔ shé chuānyuè yì shìjiè -zuò'ài, dǎgōng, wànshì wū- Demo 魯蛇穿越異世界 -做愛、打工、萬事屋- Demo https://store.steampowered.com/app/4175860/
-{ "name": "LoserIsekaieSJTDemo.exe", "type": "BG_CPUIO" }
-{ "name": "LoserIsekaieSJTDemo-Win64-Shipping.exe", "type": "Game" }
-
-# qí Sakura 棋桜 https://store.steampowered.com/app/4257900/_/
-{ "name": "KIOU.exe", "type": "Game" }
-
-# Zāibiàn shídài Demo 灾变时代 Demo https://store.steampowered.com/app/4430990/Cataclysm_Era_Demo/
-{ "name": "Demo.exe", "type": "Game" }
-
-# Fàngzhì dìláo Demo 放置地牢 Demo https://store.steampowered.com/app/4446190/AutoDungeon_Demo/
-{ "name": "AutoDungeon.exe", "type": "Game" }
-
-# Bèibāo dìláo Demo 背包地牢 Demo https://store.steampowered.com/app/4524110/Backpack_Dungeon_Demo/
-{ "name": "Backpack-Dungeon.exe", "type": "Game" }
-
-# Chéngzhǔ yǔ shàonǚ 城主与少女 https://store.steampowered.com/app/4671700/Lord_and_Maiden/
-{ "name": "Lord and Maiden.exe", "type": "Game" }
-
-# Zhànzhēng jǐngjiè Demo 战争警戒 Demo https://store.steampowered.com/app/4713990/War_Alert_Demo/
-{ "name": "AutoRTS.exe", "type": "BG_CPUIO" }
-{ "name": "AutoRTS-Win64-Shipping.exe", "type": "Game" }
-
-# Fàngzhì zhǎn mó lù Demo 放置斩魔录 Demo https://store.steampowered.com/app/4774060/_Demo/
-{ "name": "fzzml.exe", "type": "Game" }
-
-# Bǐfāng de tā-Aliya2 shǔguāng Demo 彼方的她-Aliya2 曙光 Demo https://store.steampowered.com/app/4759150/Aliya_Timelink2_Dawn_Demo/
-{ "name": "Aliya-Dawn Demo.exe", "type": "Game" }
 
 # Dàiduò de guàishòu gōngzhǔ bùxiǎng gōngzuò 怠惰的怪獸公主不想工作 https://store.steampowered.com/app/1732180/
 { "name": "KaijuPrincess.exe", "type": "Game" }
@@ -117,6 +93,12 @@
 
 # Fāngcùn wénmíng 方寸文明 https://store.steampowered.com/app/2230280/Tiny_Civilization/
 { "name": "TinyCivilization.exe", "type": "Game" }
+
+# Fàngzhì dìláo Demo 放置地牢 Demo https://store.steampowered.com/app/4446190/AutoDungeon_Demo/
+{ "name": "AutoDungeon.exe", "type": "Game" }
+
+# Fàngzhì zhǎn mó lù Demo 放置斩魔录 Demo https://store.steampowered.com/app/4774060/_Demo/
+{ "name": "fzzml.exe", "type": "Game" }
 
 # Fēihóng biān niánshǐ ~ Chronicle of Scarlet ~ 绯红编年史 ~ Chronicle of Scarlet ~ https://store.steampowered.com/app/3117660/__Chronicle_of_Scarlet/
 { "name": "ChronicleOfScarlet.exe", "type": "Game" }
@@ -268,6 +250,14 @@
 # Luò xīng 落星 https://store.steampowered.com/app/3324610/MeteoriteFall/
 { "name": "METEORITEFALL.exe", "type": "Game" }
 
+# Lǔ shé chuānyuè yì shìjiè -zuò'ài, dǎgōng, wànshì wū- 魯蛇穿越異世界 -做愛、打工、萬事屋- https://store.steampowered.com/app/4175440/
+{ "name": "LoserIsekaieSJT.exe", "type": "BG_CPUIO" }
+{ "name": "LoserIsekaieSJT-Win64-Shipping.exe", "type": "Game" }
+
+# Lǔ shé chuānyuè yì shìjiè -zuò'ài, dǎgōng, wànshì wū- Demo 魯蛇穿越異世界 -做愛、打工、萬事屋- Demo https://store.steampowered.com/app/4175860/
+{ "name": "LoserIsekaieSJTDemo.exe", "type": "BG_CPUIO" }
+{ "name": "LoserIsekaieSJTDemo-Win64-Shipping.exe", "type": "Game" }
+
 # Māo chuánzhǎng yǔ huánqiú yúchǎng 猫船长与环球渔场 https://store.steampowered.com/app/4249770/Captain_Whiskers_Incremental_Seas/
 { "name": "CatCaptains.exe", "type": "Game" }
 
@@ -336,6 +326,9 @@
 # Qín shāng 秦殇 https://store.steampowered.com/app/970500/_Prince_of_Qin/
 { "name": "POQ.exe", "type": "Game" }
 { "name": "Poq.exe", "type": "Game" }
+
+# qí Sakura 棋桜 https://store.steampowered.com/app/4257900/_/
+{ "name": "KIOU.exe", "type": "Game" }
 
 # Qún xiá chuán, qǐdòng! 群侠传，启动！ https://store.steampowered.com/app/2098790/_/
 { "name": "wuxia_launch.exe", "type": "Game" }
@@ -610,6 +603,9 @@
 # yuè yuán zhī yè 月圆之夜 (Night of Full Moon) https://store.steampowered.com/app/769560/_Night_of_Full_Moon/
 { "name": "Night of the Full Moon.exe", "type": "Game" }
 
+# Zāibiàn shídài Demo 灾变时代 Demo https://store.steampowered.com/app/4430990/Cataclysm_Era_Demo/
+{ "name": "Demo.exe", "type": "Game" }
+
 # Zāi è hēilóng yǔ huǎngyán gōngzhǔ 灾厄黑龙与谎言公主 https://store.steampowered.com/app/2850190/_/
 { "name": "dragon.exe", "type": "Game" }
 
@@ -630,6 +626,10 @@
 
 # Zhǎn yāo xíng 斩妖行 Eastern Exorcist https://store.steampowered.com/app/1120810/Eastern_Exorcist/
 { "name": "Exorcist.exe", "type": "Game" }
+
+# Zhànzhēng jǐngjiè Demo 战争警戒 Demo https://store.steampowered.com/app/4713990/War_Alert_Demo/
+{ "name": "AutoRTS.exe", "type": "BG_CPUIO" }
+{ "name": "AutoRTS-Win64-Shipping.exe", "type": "Game" }
 
 # Zhàohuàn zhī wáng (Supreme Summoner) 召唤之王 (Supreme Summoner) https://store.steampowered.com/app/2491360/_Supreme_Summoner/
 { "name": "Supreme Summoner.exe", "type": "Game" }

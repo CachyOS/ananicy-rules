@@ -165,6 +165,9 @@
 { "name": "HardTimeModLauncher.exe", "type": "Game" }
 { "name": "Hard Time III.exe", "type": "Game" }
 
+# Hard Truck 2: King of the Road https://store.steampowered.com/app/4487840/Hard_Truck_2_King_of_the_Road/
+{ "name": "king.exe", "type": "Game" }
+
 # Hard Truck Apocalypse / Ex Machina https://store.steampowered.com/app/285500/Hard_Truck_Apocalypse__Ex_Machina/
 { "name": "hta.exe", "type": "Game" }
 
@@ -230,6 +233,10 @@
 { "name": "Hawked.exe", "type": "Game" }
 { "name": "MGL-single.exe", "type": "Game" }
 
+# Hawthorn Proof-of-Concept Demo https://store.steampowered.com/app/4787870/Hawthorn_ProofofConcept_Demo/
+{ "name": "Anthro.exe", "type": "BG_CPUIO" }
+{ "name": "Anthro-Win64-Shipping.exe", "type": "Game" }
+
 # Haydee https://store.steampowered.com/app/530890/Haydee/
 { "name": "edith.exe", "type": "Game" }
 
@@ -277,6 +284,10 @@
 
 # Heartwood Online https://store.steampowered.com/app/2180600/Heartwood_Online/
 { "name": "Heartwood Online.exe", "type": "Game" }
+
+# Heat Death: Survival Train https://store.steampowered.com/app/2662780/Heat_Death_Survival_Train/
+{ "name": "HeatDeath.exe", "type": "BG_CPUIO" }
+{ "name": "HeatDeath-Win64-Shipping.exe", "type": "Game" }
 
 # Heat Signature https://store.steampowered.com/app/268130/Heat_Signature/
 { "name": "Extras Launcher.exe", "type": "Game" }
@@ -432,6 +443,9 @@
 
 # Hentai Police https://store.steampowered.com/app/1198730/
 { "name": "OMON Girl Bottle Royal.exe", "type": "Game" }
+
+# Hentai Pussy 2 https://store.steampowered.com/app/1072120/
+{ "name": "PUSSY.exe", "type": "Game" }
 
 # Hentai Sweet Girls https://store.steampowered.com/app/1077410/
 { "name": "Hentai Sweet Girls.exe", "type": "Game" }
@@ -809,6 +823,9 @@
 # Horny Villa https://store.steampowered.com/app/2903690/
 { "name": "HornyVilla.exe", "type": "Game" }
 
+# HOROS - Magnifica https://store.steampowered.com/app/1888300/
+{ "name": "HOROS.exe", "type": "Game" }
+
 # Horse Racing Manager https://store.steampowered.com/app/2740170/Horse_Racing_Manager/
 { "name": "HorseRacingManager.exe", "type": "Game" }
 
@@ -886,6 +903,12 @@
 # How Many Dudes? Demo https://store.steampowered.com/app/4248000/How_Many_Dudes/
 { "name": "HowManyDudes.exe", "type": "Game" }
 
+# How To Grow a Black Hole https://store.steampowered.com/app/4562150/How_To_Grow_a_Black_Hole/
+{ "name": "How To Grow a Black Hole.exe", "type": "Game" }
+
+# How to Make an Atomic Bomb in Your Garden https://store.steampowered.com/app/3700980/How_to_Make_an_Atomic_Bomb_in_Your_Garden/
+{ "name": "Atomic Bomb.exe", "type": "BG_CPUIO" }
+
 # How to Make an Atomic Bomb in Your Garden Demo https://store.steampowered.com/app/3761970/
 { "name": "Atomic Bomb Demo.exe", "type": "BG_CPUIO" }
 
@@ -913,6 +936,9 @@
 # Hue https://store.steampowered.com/app/383270/Hue/
 { "name": "Hue.exe", "type": "Game" }
 
+# Hull Rupture Demo https://store.steampowered.com/app/4809240/Hull_Rupture_Demo/
+{ "name": "HullRupture.exe", "type": "Game" }
+
 # Human Fall Flat https://store.steampowered.com/app/477160/Human_Fall_Flat/
 { "name": "Human.exe", "type": "Game" }
 
@@ -924,6 +950,10 @@
 
 # HumanitZ https://store.steampowered.com/app/1766060/HumanitZ/
 { "name": "HumanitZ.exe", "type": "Game" }
+
+# HumanitZ Demo https://store.steampowered.com/app/1773210/
+{ "name": "HumanitZ_Demo.exe", "type": "BG_CPUIO" }
+{ "name": "HumanitZ-Win64-Shipping.exe", "type": "Game" }
 
 # HUMANKIND https://store.steampowered.com/app/1124300/HUMANKIND/
 { "name": "Humankind.exe", "type": "Game" }
@@ -942,36 +972,6 @@
 
 # Hunt and Snare https://store.steampowered.com/app/944330/
 { "name": "ruffleneck.exe", "type": "Game" }
-
-# Hard Truck 2: King of the Road https://store.steampowered.com/app/4487840/Hard_Truck_2_King_of_the_Road/
-{ "name": "king.exe", "type": "Game" }
-
-# Hawthorn Proof-of-Concept Demo https://store.steampowered.com/app/4787870/Hawthorn_ProofofConcept_Demo/
-{ "name": "Anthro.exe", "type": "BG_CPUIO" }
-{ "name": "Anthro-Win64-Shipping.exe", "type": "Game" }
-
-# Heat Death: Survival Train https://store.steampowered.com/app/2662780/Heat_Death_Survival_Train/
-{ "name": "HeatDeath.exe", "type": "BG_CPUIO" }
-{ "name": "HeatDeath-Win64-Shipping.exe", "type": "Game" }
-
-# Hentai Pussy 2 https://store.steampowered.com/app/1072120/
-{ "name": "PUSSY.exe", "type": "Game" }
-
-# HOROS - Magnifica https://store.steampowered.com/app/1888300/
-{ "name": "HOROS.exe", "type": "Game" }
-
-# How To Grow a Black Hole https://store.steampowered.com/app/4562150/How_To_Grow_a_Black_Hole/
-{ "name": "How To Grow a Black Hole.exe", "type": "Game" }
-
-# How to Make an Atomic Bomb in Your Garden https://store.steampowered.com/app/3700980/How_to_Make_an_Atomic_Bomb_in_Your_Garden/
-{ "name": "Atomic Bomb.exe", "type": "BG_CPUIO" }
-
-# Hull Rupture Demo https://store.steampowered.com/app/4809240/Hull_Rupture_Demo/
-{ "name": "HullRupture.exe", "type": "Game" }
-
-# HumanitZ Demo https://store.steampowered.com/app/1773210/
-{ "name": "HumanitZ_Demo.exe", "type": "BG_CPUIO" }
-{ "name": "HumanitZ-Win64-Shipping.exe", "type": "Game" }
 
 # HUNTDOWN https://store.steampowered.com/app/598550/HUNTDOWN/
 { "name": "Huntdown.exe", "type": "Game" }

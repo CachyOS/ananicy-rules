@@ -27,28 +27,6 @@
 { "name": "Backpack Hero.exe", "type": "Game" }
 { "name": "Lunar.exe", "type": "Game" }
 
-# Barely Working https://store.steampowered.com/app/2241000/
-{ "name": "barely_working.exe", "type": "Game" }
-
-# Barfender Demo https://store.steampowered.com/app/4613560/
-{ "name": "Barfender.exe", "type": "Game" }
-
-# Between Adventures IDLE Demo https://store.steampowered.com/app/3815790/
-{ "name": "Between Adventures IDLE.exe", "type": "Game" }
-
-# BOMBANANA! Demo https://store.steampowered.com/app/4747510/BOMBANANA_Demo/
-{ "name": "BOMBANANA.exe", "type": "Game" }
-
-# Bruisers 2D Boxing Demo https://store.steampowered.com/app/4344990/
-{ "name": "Bruisers 2d Boxing (TestBuild).exe", "type": "Game" }
-
-# Burgie's cozy kitchen - Demo https://store.steampowered.com/app/4738670/
-{ "name": "Burgies cozy kitchen Demo.exe", "type": "Game" }
-
-# Bus Simulator 27 Demo https://store.steampowered.com/app/4311090/Bus_Simulator_27_Demo/
-{ "name": "BusSimulator27.exe", "type": "BG_CPUIO" }
-{ "name": "BusSimulator27-Win64-Shipping.exe", "type": "Game" }
-
 # Backroom Company https://store.steampowered.com/app/3010460/Backroom_Company/
 { "name": "BackroomCompany.exe", "type": "Game" }
 { "name": "BackroomCompany-Win64-DebugGame.exe", "type": "Game" }
@@ -220,8 +198,14 @@
 # Bard Idle https://store.steampowered.com/app/1803580/Bard_Idle/
 { "name": "bard.exe", "type": "Game" }
 
+# Barely Working https://store.steampowered.com/app/2241000/
+{ "name": "barely_working.exe", "type": "Game" }
+
 # Bare Witness https://store.steampowered.com/app/2387380/
 { "name": "BareWitness.exe", "type": "Game" }
+
+# Barfender Demo https://store.steampowered.com/app/4613560/
+{ "name": "Barfender.exe", "type": "Game" }
 
 # BarnFinders https://store.steampowered.com/app/991170/Barn_Finders/
 { "name": "BarnFinders.exe", "type": "BG_CPUIO" }
@@ -593,6 +577,9 @@
 # Better than Dead https://store.steampowered.com/app/2599690/Better_Than_Dead/
 { "name": "BTD.exe", "type": "BG_CPUIO" }
 { "name": "BTD-Win64-Shipping.exe", "type": "Game" }
+
+# Between Adventures IDLE Demo https://store.steampowered.com/app/3815790/
+{ "name": "Between Adventures IDLE.exe", "type": "Game" }
 
 # Between the Stars https://store.steampowered.com/app/727130/Between_the_Stars/
 { "name": "BetweenTheStars.exe", "type": "Game" }
@@ -1092,6 +1079,9 @@
 # BOKURA: planet https://store.steampowered.com/app/3126150/BOKURA_planet/
 { "name": "BOKURA_PLANET.exe", "type": "Game" }
 
+# BOMBANANA! Demo https://store.steampowered.com/app/4747510/BOMBANANA_Demo/
+{ "name": "BOMBANANA.exe", "type": "Game" }
+
 # Bombe https://store.steampowered.com/app/2262930/Bombe/
 { "name": "Bombe.exe", "type": "Game" }
 
@@ -1392,6 +1382,9 @@
 # Broventure: The Wild Co-op https://store.steampowered.com/app/2939640/Broventure_The_Wild_Coop/
 { "name": "Broventure.exe", "type": "Game" }
 
+# Bruisers 2D Boxing Demo https://store.steampowered.com/app/4344990/
+{ "name": "Bruisers 2d Boxing (TestBuild).exe", "type": "Game" }
+
 # BRUTALISTICK VR https://store.steampowered.com/app/2669380/BRUTALISTICK_VR/
 { "name": "BrutalistickVR.exe", "type": "Game" }
 
@@ -1477,6 +1470,9 @@
 # Burgie's cozy kitchen https://store.steampowered.com/app/3314340/Burgies_Cozy_Kitchen/
 { "name": "Burgies cozy kitchen.exe", "type": "Game" }
 
+# Burgie's cozy kitchen - Demo https://store.steampowered.com/app/4738670/
+{ "name": "Burgies cozy kitchen Demo.exe", "type": "Game" }
+
 # BURIED STARS https://store.steampowered.com/app/1025960/BURIED_STARS/
 { "name": "BuriedStars.exe", "type": "Game" }
 
@@ -1517,6 +1513,10 @@
 { "name": "BusSimulator20.exe", "type": "Game" }
 { "name": "BusSimulator21.exe", "type": "BG_CPUIO" }
 { "name": "BusSimulator21-Win64-Shipping.exe", "type": "Game" }
+
+# Bus Simulator 27 Demo https://store.steampowered.com/app/4311090/Bus_Simulator_27_Demo/
+{ "name": "BusSimulator27.exe", "type": "BG_CPUIO" }
+{ "name": "BusSimulator27-Win64-Shipping.exe", "type": "Game" }
 
 # BustyBiz https://store.steampowered.com/app/1443820/
 { "name": "BustyBiz.exe", "type": "Game" }

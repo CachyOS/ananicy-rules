@@ -11,6 +11,9 @@
 # Abiotic Factor https://store.steampowered.com/app/427410/Abiotic_Factor/
 { "name": "AbioticFactor.exe", "type": "Game" }
 
+# About Fishing Demo https://store.steampowered.com/app/4362430/About_Fishing_Demo/
+{ "name": "About Fishing.exe", "type": "Game" }
+
 # Above Snakes https://store.steampowered.com/app/1589120/Above_Snakes/
 { "name": "Above Snakes.exe", "type": "Game" }
 
@@ -29,44 +32,8 @@
 # A Building Full of Cats https://store.steampowered.com/app/1969080/A_Building_Full_of_Cats/
 { "name": "Building.exe", "type": "Game" }
 
-# About Fishing Demo https://store.steampowered.com/app/4362430/About_Fishing_Demo/
-{ "name": "About Fishing.exe", "type": "Game" }
-
 # A Building Full of Cats 2 https://store.steampowered.com/app/2810730/A_Building_Full_of_Cats_2/
 { "name": "Building2.exe", "type": "Game" }
-
-# Act of War: Direct Action https://store.steampowered.com/app/2710/Act_of_War_Direct_Action/
-{ "name": "ACTOFWAR.EXE", "type": "Game" }
-{ "name": "ActOfWar.exe", "type": "Game" }
-
-# Act of War: High Treason https://store.steampowered.com/app/9760/Act_of_War_High_Treason/
-{ "name": "ActOfWar_HighTreason.exe", "type": "Game" }
-
-# Age of Empires Mobile: PC Edition https://store.steampowered.com/app/2783360/Age_of_Empires_Mobile_PC_Edition/
-{ "name": "aoem_launcher.exe", "type": "Game" }
-{ "name": "AoE.exe", "type": "Game" }
-
-# Airport Control 27 Demo https://store.steampowered.com/app/4459730/Airport_Control_27_Demo/
-{ "name": "GroundATC.exe", "type": "Game" }
-
-# Aleef Demo https://store.steampowered.com/app/4819920/Aleef_Desktop_Pet_Collector_Demo/
-{ "name": "Aleef.exe", "type": "Game" }
-
-# A Long Way Down https://store.steampowered.com/app/856990/A_Long_Way_Down/
-{ "name": "ALWD.exe", "type": "Game" }
-
-# Ancient Wars: Sparta Definitive Edition https://store.steampowered.com/app/1693250/Ancient_Wars_Sparta_Definitive_Edition/
-{ "name": "Start_Vulkan.exe", "type": "Game" }
-{ "name": "Start.exe", "type": "Game" }
-
-# Another Door Demo https://store.steampowered.com/app/4760210/Another_Door_Demo/
-{ "name": "Another Door.exe", "type": "Game" }
-
-# Artesnaut Demo https://store.steampowered.com/app/4710300/Artesnaut_Demo/
-{ "name": "artesnaut.exe", "type": "Game" }
-
-# As One We Survive Demo https://store.steampowered.com/app/4813220/
-{ "name": "AsOneWeSurvive.exe", "type": "Game" }
 
 # A Bumpy Ride https://store.steampowered.com/app/3056840/A_Bumpy_Ride/
 { "name": "ABumpyRide.exe", "type": "BG_CPUIO" }
@@ -145,6 +112,13 @@
 # Act of Aggression https://store.steampowered.com/app/318020/Act_of_Aggression__Reboot_Edition/
 { "name": "ActOfAggression.exe", "type": "Game" }
 { "name": "ActOfAggressionRE.exe", "type": "Game" }
+
+# Act of War: Direct Action https://store.steampowered.com/app/2710/Act_of_War_Direct_Action/
+{ "name": "ACTOFWAR.EXE", "type": "Game" }
+{ "name": "ActOfWar.exe", "type": "Game" }
+
+# Act of War: High Treason https://store.steampowered.com/app/9760/Act_of_War_High_Treason/
+{ "name": "ActOfWar_HighTreason.exe", "type": "Game" }
 
 # Acts of Blood Demo https://store.steampowered.com/app/3304670/Acts_of_Blood_Demo/
 { "name": "ActsOfBlood.exe", "type": "BG_CPUIO" }
@@ -331,6 +305,10 @@
 # Age of Empires IV: Anniversary Edition https://store.steampowered.com/app/1466860/Age_of_Empires_IV_Anniversary_Edition/
 { "name": "RelicCardinal.exe", "type": "Game" }
 
+# Age of Empires Mobile: PC Edition https://store.steampowered.com/app/2783360/Age_of_Empires_Mobile_PC_Edition/
+{ "name": "aoem_launcher.exe", "type": "Game" }
+{ "name": "AoE.exe", "type": "Game" }
+
 # Age of History II https://store.steampowered.com/app/603850/Age_of_History_II/
 { "name": "AoC2.exe", "type": "Game" }
 { "name": "AoC2_Old.exe", "type": "Game" }
@@ -435,6 +413,9 @@
 # Airport CEO https://store.steampowered.com/app/673610/Airport_CEO/
 { "name": "Airport CEO.exe", "type": "Game" }
 
+# Airport Control 27 Demo https://store.steampowered.com/app/4459730/Airport_Control_27_Demo/
+{ "name": "GroundATC.exe", "type": "Game" }
+
 # AirportSim https://store.steampowered.com/app/1715280/AirportSim/
 { "name": "AirportSim.exe", "type": "Game" }
 
@@ -499,6 +480,9 @@
 
 # Ale Abbey https://store.steampowered.com/app/2789460/Ale_Abbey__Monastery_Brewery_Tycoon/
 { "name": "AleAbbey.exe", "type": "Game" }
+
+# Aleef Demo https://store.steampowered.com/app/4819920/Aleef_Desktop_Pet_Collector_Demo/
+{ "name": "Aleef.exe", "type": "Game" }
 
 # Alice: Madness Returns https://store.steampowered.com/app/19680/Alice_Madness_Returns/
 { "name": "AliceMadnessReturns.exe", "type": "Game" }
@@ -591,6 +575,9 @@
 
 # Along the Edge https://store.steampowered.com/app/504390/Along_the_Edge/
 { "name": "Along-the-Edge.exe", "type": "Game" }
+
+# A Long Way Down https://store.steampowered.com/app/856990/A_Long_Way_Down/
+{ "name": "ALWD.exe", "type": "Game" }
 
 # Alphabet https://store.steampowered.com/app/3102380/Alphabet/
 { "name": "Alphabet.exe", "type": "Game" }
@@ -739,6 +726,10 @@
 # Ancient Warfare 3 https://store.steampowered.com/app/758990/Ancient_Warfare_3/
 { "name": "Ancient Warfare 3.exe", "type": "Game" }
 
+# Ancient Wars: Sparta Definitive Edition https://store.steampowered.com/app/1693250/Ancient_Wars_Sparta_Definitive_Edition/
+{ "name": "Start_Vulkan.exe", "type": "Game" }
+{ "name": "Start.exe", "type": "Game" }
+
 # Andarilho https://store.steampowered.com/app/450860/Andarilho/
 { "name": "Andarilho.exe", "type": "Game" }
 
@@ -878,6 +869,9 @@
 
 # Another Crab's Treasure https://store.steampowered.com/app/1887840/Another_Crabs_Treasure/
 { "name": "AnotherCrabsTreasure.exe", "type": "Game" }
+
+# Another Door Demo https://store.steampowered.com/app/4760210/Another_Door_Demo/
+{ "name": "Another Door.exe", "type": "Game" }
 
 # ANOTHER EDEN https://store.steampowered.com/app/1252600/ANOTHER_EDEN/
 { "name": "AnotherEden.exe", "type": "Game" }
@@ -1165,6 +1159,9 @@
 # Artemis https://store.steampowered.com/app/1775530/
 { "name": "_ARTEMIS.exe", "type": "Game" }
 
+# Artesnaut Demo https://store.steampowered.com/app/4710300/Artesnaut_Demo/
+{ "name": "artesnaut.exe", "type": "Game" }
+
 # Artifact Classic https://store.steampowered.com/app/583950/Artifact/
 { "name": "dcg.exe", "type": "Game" }
 
@@ -1222,6 +1219,9 @@
 
 # ASKA https://store.steampowered.com/app/1898300/ASKA/
 { "name": "Aska.exe", "type": "Game" }
+
+# As One We Survive Demo https://store.steampowered.com/app/4813220/
+{ "name": "AsOneWeSurvive.exe", "type": "Game" }
 
 # A Space for the Unbound https://store.steampowered.com/app/1201270/A_Space_for_the_Unbound/
 { "name": "A Space for the Unbound.exe", "type": "Game" }

@@ -50,6 +50,10 @@
 { "name": "MedievalRPG-Win64-Shipping.exe", "type": "Game" }
 { "name": "ValorbornLauncher.exe", "type": "BG_CPUIO" }
 
+# Valor Mortis Demo https://store.steampowered.com/app/4641840/Valor_Mortis_Demo/
+{ "name": "ValorMortis.exe", "type": "BG_CPUIO" }
+{ "name": "ValorMortis-Win64-Shipping.exe", "type": "Game" }
+
 # Vampire Hunters https://store.steampowered.com/app/2206270/Vampire_Hunters/
 { "name": "Vampire Hunters.exe", "type": "Game" }
 
@@ -172,6 +176,10 @@
 
 # VGDD2 https://store.steampowered.com/app/2457540/Cardfight_Vanguard_Dear_Days_2/
 { "name": "VGDD2.exe", "type": "Game" }
+
+# VHOLUME Demo https://store.steampowered.com/app/4245250/VHOLUME_Demo/
+{ "name": "VHOLUME.exe", "type": "BG_CPUIO" }
+{ "name": "VHOLUME-Win64-Shipping.exe", "type": "Game" }
 
 # VHS https://store.steampowered.com/app/3074340/VHS/
 { "name": "VHS.exe", "type": "Game" }
@@ -391,14 +399,6 @@
 # VS IMPOSTOR https://gamebanana.com/mods/590608
 { "name": "Vs. Impostor.exe", "type": "Game" }
 { "name": "VS Impostor.exe", "type": "Game" }
-
-# Valor Mortis Demo https://store.steampowered.com/app/4641840/Valor_Mortis_Demo/
-{ "name": "ValorMortis.exe", "type": "BG_CPUIO" }
-{ "name": "ValorMortis-Win64-Shipping.exe", "type": "Game" }
-
-# VHOLUME Demo https://store.steampowered.com/app/4245250/VHOLUME_Demo/
-{ "name": "VHOLUME.exe", "type": "BG_CPUIO" }
-{ "name": "VHOLUME-Win64-Shipping.exe", "type": "Game" }
 
 # Vs. RetroSpecter - Part Two: Infernadise https://gamebanana.com/mods/317366
 { "name": "FNF - Vs. RetroSpecter.exe", "type": "Game" }

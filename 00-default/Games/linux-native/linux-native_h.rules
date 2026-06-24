@@ -26,12 +26,6 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
-# HOROS - Magnifica https://store.steampowered.com/app/1888300/
-{ "name": "HOROS", "type": "Game" }
-
-# Hull Rupture Demo https://store.steampowered.com/app/4809240/Hull_Rupture_Demo/
-{ "name": "HullRupture.x86_64", "type": "Game" }
-
 # Half-Life Deathmatch: Source https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/
 { "name": "hl1mp_linux64", "type": "Game" }
 
@@ -231,6 +225,9 @@
 { "name": "HornyVilla.x86_64", "type": "Game" }
 { "name": "HornyVilla-linux-prod.x86_64", "type": "Game" }
 
+# HOROS - Magnifica https://store.steampowered.com/app/1888300/
+{ "name": "HOROS", "type": "Game" }
+
 # Horses of Hoofprint Bay Demo https://store.steampowered.com/app/4335510/Horses_of_Hoofprint_Bay_Demo/
 { "name": "Horses-of-Hoofprint-Bay_Linux.x86_64", "type": "Game" }
 
@@ -252,6 +249,9 @@
 # Hue https://store.steampowered.com/app/383270/Hue/
 { "name": "Hue.x86", "type": "Game" }
 { "name": "Hue.x86_64", "type": "Game" }
+
+# Hull Rupture Demo https://store.steampowered.com/app/4809240/Hull_Rupture_Demo/
+{ "name": "HullRupture.x86_64", "type": "Game" }
 
 # Human Fall Flat https://store.steampowered.com/app/477160/Human_Fall_Flat/
 { "name": "Human.x86_64", "type": "Game" }

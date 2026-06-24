@@ -9,18 +9,6 @@
 { "name": "Machinarium.exe", "type": "Game" }
 { "name": "Machinarium_old_32bit_DX9.exe", "type": "Game" }
 
-# Meaningless Random Numbers Demo https://store.steampowered.com/app/4658500/Meaningless_Random_Numbers_Demo/
-{ "name": "MRN.exe", "type": "Game" }
-
-# Mesozoic Dawn https://store.steampowered.com/app/4334840/Mesozoic_Dawn/
-{ "name": "Mesozoic Dawn.exe", "type": "Game" }
-
-# Moldwasher https://store.steampowered.com/app/3688130/Moldwasher/
-{ "name": "Moldwasher.exe", "type": "Game" }
-
-# My Fire Is Bigger Than Yours Demo https://store.steampowered.com/app/4559990/My_Fire_Is_Bigger_Than_Yours_Demo/
-{ "name": "My Fire Is Bigger Than Yours - DEMO.exe", "type": "Game" }
-
 # Machine Mind https://store.steampowered.com/app/2861590/Machine_Mind/
 { "name": "Machines.exe", "type": "Game" }
 
@@ -488,6 +476,9 @@
 # Meadow https://store.steampowered.com/app/486310/Meadow__A_Shelter_Game/
 { "name": "Meadow.exe", "type": "Game" }
 
+# Meaningless Random Numbers Demo https://store.steampowered.com/app/4658500/Meaningless_Random_Numbers_Demo/
+{ "name": "MRN.exe", "type": "Game" }
+
 # MECCHA CHAMELEON https://store.steampowered.com/app/4704690/MECCHA_CHAMELEON/
 { "name": "PenguinHotel.exe", "type": "BG_CPUIO" }
 { "name": "PenguinHotel-Win64-Shipping.exe", "type": "Game" }
@@ -668,6 +659,9 @@
 
 # Mesen N******* multi-emulator via wine for SDL2 mouse keys https://www.mesen.ca/
 { "name": "Mesen.exe", "type": "Game" }
+
+# Mesozoic Dawn https://store.steampowered.com/app/4334840/Mesozoic_Dawn/
+{ "name": "Mesozoic Dawn.exe", "type": "Game" }
 
 # Metal Bringer https://store.steampowered.com/app/2334170/Metal_Bringer/
 { "name": "MetalBringer.exe", "type": "BG_CPUIO" }
@@ -1107,6 +1101,9 @@
 
 # Modulus: Factory Automation https://store.steampowered.com/app/2779120/Modulus_Factory_Automation/
 { "name": "Modulus.exe", "type": "Game" }
+
+# Moldwasher https://store.steampowered.com/app/3688130/Moldwasher/
+{ "name": "Moldwasher.exe", "type": "Game" }
 
 # MOLE https://store.steampowered.com/app/4064510/MOLE/
 { "name": "MOLE.exe", "type": "BG_CPUIO" }
@@ -1720,6 +1717,9 @@
 
 # My Dream Setup https://store.steampowered.com/app/2200780/My_Dream_Setup/
 { "name": "MDS.exe", "type": "Game" }
+
+# My Fire Is Bigger Than Yours Demo https://store.steampowered.com/app/4559990/My_Fire_Is_Bigger_Than_Yours_Demo/
+{ "name": "My Fire Is Bigger Than Yours - DEMO.exe", "type": "Game" }
 
 # My Free Farm 2 https://store.steampowered.com/app/799240/My_Free_Farm_2/
 { "name": "MyFreefarm2.exe", "type": "Game" }
