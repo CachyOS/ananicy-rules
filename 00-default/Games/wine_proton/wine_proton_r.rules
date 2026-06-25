@@ -255,6 +255,9 @@
 # Reassembly https://store.steampowered.com/app/329130/Reassembly/
 { "name": "ReassemblyRelease.exe", "type": "Game" }
 
+# Rebel Cops https://store.steampowered.com/app/970960/Rebel_Cops/
+{ "name": "Rebel Cops.exe", "type": "Game" }
+
 # Rebel Galaxy https://store.steampowered.com/app/290300/Rebel_Galaxy/
 { "name": "RebelGalaxySteam.exe", "type": "Game" }
 
@@ -376,6 +379,9 @@
 # Reigns: The Witcher https://store.steampowered.com/app/1651600/Reigns_The_Witcher/
 { "name": "ReignsWitcher.exe", "type": "Game" }
 
+# Rejected Draft Demo https://store.steampowered.com/app/4762480/
+{ "name": "Rejected Draft Demo.exe", "type": "Game" }
+
 # REKA https://store.steampowered.com/app/1737870/REKA/
 { "name": "Reka.exe", "type": "Game" }
 
@@ -434,6 +440,9 @@
 
 # R.E.P.O. https://store.steampowered.com/app/3241660/REPO/
 { "name": "REPO.exe", "type": "Game" }
+
+# Republic of Pirates https://store.steampowered.com/app/2103470/Republic_of_Pirates/
+{ "name": "Republic of Pirates.exe", "type": "Game" }
 
 # Resident Evil https://store.steampowered.com/app/304240/Resident_Evil/
 { "name": "bhd.exe", "type": "Game" }
@@ -518,9 +527,6 @@
 # Restore Your Island https://store.steampowered.com/app/2698420/Restore_Your_Island/
 { "name": "RestoreYourIsland.exe", "type": "BG_CPUIO" }
 { "name": "RestoreYourIsland-Win64-Shipping.exe", "type": "Game" }
-
-# ReStory Playtest https://store.steampowered.com/app/4146670/ReStory_Chill_Electronics_Repairs/
-{ "name": "Restory.exe", "type": "Game" }
 
 # Retail Company Simulator https://store.steampowered.com/app/3089130/Retail_Company_Simulator/
 { "name": "RetailCompanySim.exe", "type": "BG_CPUIO" }
@@ -686,6 +692,9 @@
 # Rift Wizard 2 https://store.steampowered.com/app/2058570/Rift_Wizard_2/
 { "name": "RiftWizard2.exe", "type": "Game" }
 
+# Rift Wizard 3 https://store.steampowered.com/app/4366330/Rift_Wizard_3/
+{ "name": "RiftWizard3.exe", "type": "Game" }
+
 # Riichi City https://store.steampowered.com/app/1954420/Riichi_City_x_Date_A_LiveV/
 { "name": "Mahjong-JP.exe", "type": "Game" }
 
@@ -788,6 +797,10 @@
 # Ritual of Raven https://store.steampowered.com/app/2066520/Ritual_of_Raven/
 { "name": "RitualofRaven.exe", "type": "Game" }
 
+# Rivage Demo https://store.steampowered.com/app/4465080/Rivage_Demo/
+{ "name": "Rivage.exe", "type": "BG_CPUIO" }
+{ "name": "Rivage-Win64-Shipping.exe", "type": "Game" }
+
 # Rivals of Aether https://store.steampowered.com/app/383980/Rivals_of_Aether/
 { "name": "RivalsofAether.exe", "type": "Game" }
 
@@ -866,6 +879,9 @@
 
 # RoBoRumble https://store.steampowered.com/app/420970/RoBoRumble/
 { "name": "rrumble.exe", "type": "Game" }
+
+# Robothorium https://store.steampowered.com/app/657090/Robothorium/
+{ "name": "Robothorium.exe", "type": "Game" }
 
 # Robot Roller-Derby Disco Dodgeball https://store.steampowered.com/app/270450/Robot_RollerDerby_Disco_Dodgeball/
 { "name": "Disco Dodgeball.exe", "type": "Game" }
@@ -1125,6 +1141,10 @@
 
 # R-Type Dimensions EX https://store.steampowered.com/app/928390/RType_Dimensions_EX/
 { "name": "R-Type_Dimensions.exe", "type": "Game" }
+
+# R-Type Tactics I • II Cosmos https://store.steampowered.com/app/2169930/RType_Tactics_I_o_II_Cosmos/
+{ "name": "RTypeTacticsCosmos.exe", "type": "BG_CPUIO" }
+{ "name": "RTypeTacticsCosmosSteam-Win64-Shipping.exe", "type": "Game" }
 
 # RUBATO https://store.steampowered.com/app/2244030/RUBATO/
 { "name": "RUBATO.exe", "type": "Game" }

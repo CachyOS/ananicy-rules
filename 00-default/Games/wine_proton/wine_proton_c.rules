@@ -340,6 +340,9 @@
 # Carnival Games VR https://store.steampowered.com/app/458920/Carnival_Games_VR/
 { "name": "CarnivalVR.exe", "type": "Game"}
 
+# Carpet Cleaning Simulator Demo https://store.steampowered.com/app/4798550/
+{ "name": "Carpet.exe", "type": "Game" }
+
 # Carrier Command 2 https://store.steampowered.com/app/1489630/Carrier_Command_2/
 { "name": "carrier_command_vr.exe", "type": "Game" }
 { "name": "carrier_command.exe", "type": "Game" }
@@ -355,6 +358,9 @@
 
 # Carry The Glass https://store.steampowered.com/app/3263320/Carry_The_Glass/
 { "name": "GlassCarriers.exe", "type": "Game" }
+
+# Carry the Pack Rack Demo https://store.steampowered.com/app/4323360/
+{ "name": "Carry The Pack Rack Demo.exe", "type": "Game" }
 
 # Car Service Together https://store.steampowered.com/app/3501070/Car_Service_Together/
 { "name": "CarServiceTogether.exe", "type": "Game"}
@@ -473,6 +479,9 @@
 # Catherine Classic https://store.steampowered.com/app/893180/Catherine_Classic/
 { "name": "Catherine.exe", "type": "Game" }
 
+# Cat Mail Co. Demo https://store.steampowered.com/app/4622530/Cat_Mail_Co_Demo/
+{ "name": "CatMailCo.exe", "type": "Game" }
+
 # CATO: Buttered Cat https://store.steampowered.com/app/1999520/CATO_Buttered_Cat/
 { "name": "CATO.exe", "type": "Game" }
 
@@ -502,9 +511,6 @@
 
 # Cattle Country https://store.steampowered.com/app/2818150/Cattle_Country/
 { "name": "Cattle Country.exe", "type": "Game" }
-
-# Catto Pew Pew! Demo https://store.steampowered.com/app/4051340/
-{ "name": "Catto Pew Pew!.exe", "type": "Game" }
 
 # CatTuber https://store.steampowered.com/app/1337970/CatTuber/
 { "name": "CatTuber.exe", "type": "Game" }
@@ -741,6 +747,9 @@
 
 # Chrono Ark https://store.steampowered.com/app/1188930/Chrono_Ark/
 { "name": "ChronoArk.exe", "type": "Game"}
+
+# Chrono CCG https://store.steampowered.com/app/4221310/Chrono_CCG/
+{ "name": "ChronoCCG.exe", "type": "Game" }
 
 # CHRONO CROSS: THE RADICAL DREAMERS EDITION https://store.steampowered.com/app/1133760/CHRONO_CROSS_THE_RADICAL_DREAMERS_EDITION/
 { "name": "CHRONOCROSS_LAUNCHER.exe", "type": "BG_CPUIO" }
@@ -1174,6 +1183,9 @@
 { "name": "SUN.EXE", "type": "Game" }
 { "name": "FinalSun.exe", "type": "Game" }
 
+# Command & Conquer™ Tiberium Alliances https://store.steampowered.com/app/3106530/
+{ "name": "TiberiumAlliances.exe", "type": "Game" }
+
 # Commander Keen https://store.steampowered.com/app/9180/Commander_Keen/
 { "name": "KEEN1.EXE", "type": "Game" }
 { "name": "KEEN2.EXE", "type": "Game" }
@@ -1426,12 +1438,21 @@
 { "name": "cstrike.exe", "type": "Game" }
 { "name": "cstrike_win64.exe", "type": "Game" }
 
+# County of Fortune Demo https://store.steampowered.com/app/4601050/County_of_Fortune_Demo/
+{ "name": "CountyOfFortune.exe", "type": "Game" }
+
 # Cowboy Life Simulator https://store.steampowered.com/app/1151380/Cowboy_Life_Simulator/
 { "name": "CowBoyBeta.exe", "type": "BG_CPUIO" }
 { "name": "CowBoyBeta-Win64-Shipping.exe", "type": "Game" }
 
 # Cozy Caravan https://store.steampowered.com/app/2788520/Cozy_Caravan/
 { "name": "CozyCaravan.exe", "type": "Game" }
+
+# Cozy Cleaner  https://store.steampowered.com/app/2742710/Cozy_Cleaner/
+{ "name": "Cozy Cleaner.exe", "type": "Game" }
+
+# Cozy Game Restoration Demo https://store.steampowered.com/app/4742270/Cozy_Game_Restoration_Demo/
+{ "name": "CozyGameRestoration.exe", "type": "Game" }
 
 # Cozy Grove https://store.steampowered.com/app/1458100/Cozy_Grove/
 { "name": "CozyGrove.exe", "type": "Game" }
@@ -1631,6 +1652,9 @@
 # Crown and Adventure https://store.steampowered.com/app/3098140/Crown_and_Adventure/
 { "name": "CrownAndAdventure.exe", "type": "Game" }
 
+# Crownhold Demo https://store.steampowered.com/app/4748760/
+{ "name": "Crownhold_Demo.exe", "type": "Game" }
+
 # Crown of Greed https://store.steampowered.com/app/1697870/Crown_of_Greed/
 { "name": "Crown Of Greed.exe", "type": "Game" }
 
@@ -1748,6 +1772,9 @@
 { "name": "CubeRacer.exe", "type": "Game" }
 { "name": "CubeRacerServer.exe", "type": "Service" }
 
+# Cube World https://store.steampowered.com/app/1128000/Cube_World/
+{ "name": "cubeworld.exe", "type": "Game" }
+
 # Cubic Castles https://store.steampowered.com/app/317470/Cubic_Castles/
 { "name": "Cubic.exe", "type": "Game" }
 
@@ -1806,6 +1833,9 @@
 # Curse of the Dead Gods https://store.steampowered.com/app/1123770/Curse_of_the_Dead_Gods/
 { "name": "Curse of the Dead Gods.exe", "type": "Game"}
 
+# Custom Cursor https://store.steampowered.com/app/4342760/Custom_Cursor/
+{ "name": "CustomCursor.exe", "type": "BG_CPUIO" }
+
 # CUSTOM ORDER MAID 3D2 It's a Night Magic https://store.steampowered.com/app/1097580/CUSTOM_ORDER_MAID_3D2_Its_a_Night_Magic/
 { "name": "COM3D2x64.exe", "type": "Game" }
 { "name": "COM3D2.exe", "type": "Game" }
@@ -1834,6 +1864,9 @@
 
 # Cyber Manhunt 2: New World - The Hacking Simulator https://store.steampowered.com/app/2421410/Cyber_Manhunt_2_New_World__The_Hacking_Simulator/
 { "name": "CyberManhunt2.exe", "type": "Game" }
+
+# Cyber Paranoia Demo https://store.steampowered.com/app/4045130/Cyber_Paranoia_Demo/
+{ "name": "CyberParanoia demo.exe", "type": "Game" }
 
 # Cyberpunk 2077 https://store.steampowered.com/app/1091500/Cyberpunk_2077/
 { "name": "Cyberpunk2077.exe", "type": "Game" }

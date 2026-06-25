@@ -149,6 +149,10 @@
 { "name": "Kaching.exe", "type": "BG_CPUIO" }
 { "name": "Kaching-Win64-Shipping.exe", "type": "Game" }
 
+# Keep It Up! Demo https://store.steampowered.com/app/4682480/
+{ "name": "ProjectLiftoff.exe", "type": "Game" }
+{ "name": "ProjectLiftoff-Win64-Shipping.exe", "type": "Game" }
+
 # Keep on Mining! https://store.steampowered.com/app/3769130/Keep_on_Mining/
 { "name": "Keep on Mining!.exe", "type": "Game" }
 
@@ -299,6 +303,9 @@
 
 # Kingdom Rush 5: Alliance TD https://store.steampowered.com/app/2849080/Kingdom_Rush_5_Alliance_TD/
 { "name": "Kingdom Rush Alliance.exe", "type": "Game" }
+
+# Kingdom Rush 6: Genesis TD Demo https://store.steampowered.com/app/4669880/Kingdom_Rush_6_Genesis_TD_Demo/
+{ "name": "Kingdom Rush Genesis Demo.exe", "type": "Game" }
 
 # Kingdom Rush Frontiers - Tower Defense https://store.steampowered.com/app/458710/Kingdom_Rush_Frontiers__Tower_Defense/
 { "name": "Kingdom Rush Frontiers.exe", "type": "Game" }

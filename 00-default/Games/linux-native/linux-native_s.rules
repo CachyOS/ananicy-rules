@@ -59,9 +59,6 @@
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
 
-# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
-{ "name": "scapewatch", "type": "Game" }
-
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow", "type": "Game" }
 
@@ -264,6 +261,9 @@
 
 # Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
 { "name": "SiralimUltimate", "type": "Game" }
+
+# Sir, We Have an Orc Problem Demo https://store.steampowered.com/app/4671800/
+{ "name": "swhaop_demo.x86_64", "type": "Game" }
 
 # Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
 { "name": "swhaop_playtest.x86_64", "type": "Game" }
@@ -559,6 +559,9 @@
 
 # Stygian: Reign of the Old Ones https://store.steampowered.com/app/779290/Stygian_Reign_of_the_Old_Ones/
 { "name": "STYGIAN.x86_64", "type": "Game" }
+
+# Sublight Demo https://store.steampowered.com/app/4468530/Sublight_Demo/
+{ "name": "sublight.x86_64", "type": "Game" }
 
 # Sub Rosa https://store.steampowered.com/app/272230/Sub_Rosa/
 { "name": "subrosa.x64", "type": "Game" }

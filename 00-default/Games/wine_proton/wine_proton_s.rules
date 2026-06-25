@@ -111,6 +111,10 @@
 # Salty Dogs Playtest https://store.steampowered.com/app/4460350/Salty_Dogs/
 { "name": "salty-dogs.exe", "type": "Game" }
 
+# Salvation Denied Demo https://store.steampowered.com/app/4430800/
+{ "name": "Babylon.exe", "type": "BG_CPUIO" }
+{ "name": "Babylon-Win64-Test.exe", "type": "Game" }
+
 # Samawa Idle https://store.steampowered.com/app/2562730/Samawa_Idle/
 { "name": "Samawa Idle.exe", "type": "Game" }
 
@@ -253,9 +257,6 @@
 
 # Scania Truck Driving Simulator https://store.steampowered.com/app/258760/Scania_Truck_Driving_Simulator/
 { "name": "scania_truck_driving_simulator.exe", "type": "Game" }
-
-# Scapewatch: Idle MMO Playtest https://store.steampowered.com/app/4698190/Scapewatch_Idle_MMO/
-{ "name": "Scapewatch.exe", "type": "Game" }
 
 # Scarlet Hollow https://store.steampowered.com/app/1609230/Scarlet_Hollow/
 { "name": "ScarletHollow.exe", "type": "Game" }
@@ -466,6 +467,9 @@
 # Sector Unknown https://store.steampowered.com/app/2734270/Sector_Unknown/
 { "name": "Sector Unknown.exe", "type": "Game" }
 
+# Security 51 Demo https://store.steampowered.com/app/4351470/Security_51_Demo/
+{ "name": "Security51.exe", "type": "Game" }
+
 # SEDAP! A Culinary Adventure https://store.steampowered.com/app/2650730/SEDAP_A_Culinary_Adventure/
 { "name": "SEDAP! A Culinary Adventure.exe", "type": "Game" }
 
@@ -653,6 +657,10 @@
 
 # SEX, SIN & ROCK'N'ROLL 🤘🎸 https://store.steampowered.com/app/4280130/
 { "name": "Sex Sin and Rock N Roll.exe", "type": "Game" }
+
+# Sex Trainer's Diary: Hidden Kink https://store.steampowered.com/app/4218020/
+{ "name": "Project_H_Stalk.exe", "type": "BG_CPUIO" }
+{ "name": "Project_H_Stalk-Win64-Shipping.exe", "type": "Game" }
 
 # Sex with the Devil https://store.steampowered.com/app/1202690/
 { "name": "SexWithDevilVR.exe", "type": "BG_CPUIO" }
@@ -1088,6 +1096,9 @@
 # Silverfall: Earth Awakening https://store.steampowered.com/app/4470/Silverfall_Earth_Awakening/
 { "name": "silverfall.exe", "type": "Game" }
 
+# Silver Pines Demo https://store.steampowered.com/app/4540100/Silver_Pines_Demo/
+{ "name": "Carpenter.exe", "type": "Game" }
+
 # SimAirport https://store.steampowered.com/app/598330/SimAirport/
 { "name": "SimAirport.exe", "type": "Game" }
 
@@ -1159,6 +1170,9 @@
 # Siralim Ultimate https://store.steampowered.com/app/1289810/Siralim_Ultimate/
 { "name": "SiralimUltimate.exe", "type": "Game" }
 
+# Sir, We Have an Orc Problem Demo https://store.steampowered.com/app/4671800/
+{ "name": "swhaop_demo.exe", "type": "Game" }
+
 # Sir, We Have an Orc Problem Playtest https://store.steampowered.com/app/4652940/Sir_We_Have_an_Orc_Problem/
 { "name": "swhaop_playtest.exe", "type": "Game" }
 
@@ -1174,6 +1188,9 @@
 
 # Six Days in Fallujah https://store.steampowered.com/app/1548850/Six_Days_in_Fallujah/
 { "name": "SixDays.exe", "type": "Game" }
+
+# SixthForce https://store.steampowered.com/app/2830090/Sixth_Force/
+{ "name": "SixthForce.exe", "type": "Game" }
 
 # Sizeable https://store.steampowered.com/app/1333910/Sizeable/
 { "name": "Sizeable.exe", "type": "Game" }
@@ -1287,6 +1304,9 @@
 
 # Slay All Bosses: Idle https://store.steampowered.com/app/4232600/Slay_All_Bosses_Idle/
 { "name": "SLAY ALL BOSSES IDLE.exe", "type": "Game" }
+
+# Slayblade Demo https://store.steampowered.com/app/4682290/Slayblade_Demo/
+{ "name": "Slayblade.exe", "type": "Game" }
 
 # Slay the Princess — The Pristine Cut https://store.steampowered.com/app/1989270/Slay_the_Princess__The_Pristine_Cut/
 { "name": "SlaythePrincess.exe", "type": "Game" }
@@ -1678,6 +1698,9 @@
 # Soulash 2 https://store.steampowered.com/app/2399160/Soulash_2/
 { "name": "Soulash 2.exe", "type": "Game" }
 
+# Soulbound: Online Demo https://store.steampowered.com/app/4792360/
+{ "name": "Soulbound.exe", "type": "Game" }
+
 # SOULCALIBUR VI https://store.steampowered.com/app/544750/SOULCALIBUR_VI/
 { "name": "SoulcaliburVI.exe", "type": "Game" }
 
@@ -1686,6 +1709,9 @@
 
 # Soul Hackers 2 https://store.steampowered.com/app/1777620/Soul_Hackers_2/
 { "name": "SOUL HACKERS2.exe", "type": "Game" }
+
+# Soul Land: Awakening World https://store.steampowered.com/app/4584110/Soul_Land_Awakening_World/
+{ "name": "Soul Land Awakening World.exe", "type": "Game" }
 
 # Soulmask https://store.steampowered.com/app/2646460/Soulmask/
 { "name": "WS.exe", "type": "BG_CPUIO" }
@@ -1725,6 +1751,9 @@
 
 # South Park: The Stick of Truth https://store.steampowered.com/app/213670/South_Park_The_Stick_of_Truth/
 { "name": "South Park - The Stick of Truth.exe", "type": "Game" }
+
+# Sovereign Tower Demo https://store.steampowered.com/app/4422320/Sovereign_Tower_Demo/
+{ "name": "sovereign_tower.exe", "type": "Game" }
 
 # SOVL https://store.steampowered.com/app/1870300/SOVL_Fantasy_Warfare/
 { "name": "SOVL.exe", "type": "Game" }
@@ -1833,6 +1862,13 @@
 # Spark The Battle Dog https://store.steampowered.com/app/1385590/Spark_The_Battle_Dog/
 { "name": "Spark The Battle Dog.exe", "type": "Game" }
 
+# SPARTA 2035 https://store.steampowered.com/app/3225010/SPARTA_2035/
+{ "name": "Sparta.exe", "type": "Game" }
+
+# Speak Demo https://store.steampowered.com/app/4815630/Speak_Demo/
+{ "name": "SpeedDiplomacy.exe", "type": "BG_CPUIO" }
+{ "name": "SpeedDiplomacy-Win64-Shipping.exe", "type": "Game" }
+
 # Spec Ops: The Line https://store.steampowered.com/app/50300/Spec_Ops_The_Line/
 { "name": "SpecOpsTheLine.exe", "type": "Game" }
 
@@ -1854,6 +1890,9 @@
 
 # Speedway Challenge 2026 https://store.steampowered.com/app/4321720/Speedway_Challenge_2026/
 { "name": "SC26.exe", "type": "Game" }
+
+# Speedway Club Manager 25 https://store.steampowered.com/app/3823490/Speedway_Club_Manager_25/
+{ "name": "SCM.exe", "type": "Game" }
 
 # Spellcasters Chronicles https://store.steampowered.com/app/2458470/Spellcasters_Chronicles/
 { "name": "SpellcastersChronicles.exe", "type": "Game" }
@@ -2245,6 +2284,9 @@
 # Star Trek Online https://store.steampowered.com/app/9900/Star_Trek_Online/
 { "name": "GameClient.exe", "type": "Game" }
 
+# Star Trek: Outposts Unknown Demo https://store.steampowered.com/app/4716450/
+{ "name": "StarTrekOutpostsUnknown.exe", "type": "Game" }
+
 # Star Trek Timelines https://store.steampowered.com/app/600750/Star_Trek_Timelines/
 { "name": "Timelines.exe", "type": "Game" }
 
@@ -2490,6 +2532,9 @@
 # Stone Story RPG https://store.steampowered.com/app/603390/Stone_Story_RPG/
 { "name": "Stone Story.exe", "type": "Game" }
 
+# Stonewards Demo https://store.steampowered.com/app/4770930/
+{ "name": "Stonewards Demo.exe", "type": "Game" }
+
 # STONKS-9800: Stock Market Simulator https://store.steampowered.com/app/1539140/STONKS9800_Stock_Market_Simulator/
 { "name": "STONKS-9800.exe", "type": "Game" }
 
@@ -2654,6 +2699,10 @@
 # StrikeForce Kitty https://store.steampowered.com/app/745330/StrikeForce_Kitty/
 { "name": "StrikeForce Kitty.exe", "type": "Game" }
 
+# Strikers Club Demo https://store.steampowered.com/app/4779110/Strikers_Club_Demo/
+{ "name": "UFG.exe", "type": "BG_CPUIO" }
+{ "name": "UFG-Win64-Shipping.exe", "type": "Game" }
+
 # Strike Suit Zero https://store.steampowered.com/app/209540/Strike_Suit_Zero/
 { "name": "ssz.exe", "type": "Game" }
 { "name": "SSZ.exe", "type": "Game" }
@@ -2672,6 +2721,9 @@
 
 # Stronghold 3 Gold https://store.steampowered.com/app/47400/Stronghold_3_Gold/
 { "name": "Stronghold3.exe", "type": "Game" }
+
+# Stronghold 4 Demo https://store.steampowered.com/app/4635640/
+{ "name": "Stronghold4.exe", "type": "Game" }
 
 # Stronghold Crusader 2 https://store.steampowered.com/app/232890/Stronghold_Crusader_2/
 { "name": "Crusader2.exe", "type": "Game" }
@@ -2730,6 +2782,9 @@
 { "name": "Styx2.exe", "type": "BG_CPUIO" }
 { "name": "Styx2-Win64-Shipping.exe", "type": "Game" }
 
+# Sublight Demo https://store.steampowered.com/app/4468530/Sublight_Demo/
+{ "name": "Sublight.exe", "type": "Game" }
+
 # Subliminal https://store.steampowered.com/app/2300840/Subliminal/
 { "name": "Subliminal.exe", "type": "Game" }
 
@@ -2762,6 +2817,9 @@
 # SubwaySim 2 https://store.steampowered.com/app/2707070/SubwaySim_2/
 { "name": "SubwaySim2.exe", "type": "BG_CPUIO" }
 { "name": "SubwaySim2-Win64-Shipping.exe", "type": "Game" }
+
+# Succubus Successor: Delilah's Juicy Journey https://store.steampowered.com/app/3628950/
+{ "name": "SuccubusSuccessor.exe", "type": "Game" }
 
 # Sudden Strike 4 https://store.steampowered.com/app/373930/Sudden_Strike_4/
 { "name": "SuddenStrike4.exe", "type": "Game" }
@@ -2809,6 +2867,9 @@
 
 # Summa Expeditionis https://store.steampowered.com/app/2056200/Summa_Expeditionis/
 { "name": "Summa Expeditionis.exe", "type": "Game" }
+
+# Summer at Smile Café https://store.steampowered.com/app/3116500/
+{ "name": "Summer at Smile Cafe.exe", "type": "Game" }
 
 # Summer Clover https://store.steampowered.com/app/2458860/
 { "name": "SummerClover.exe", "type": "Game" }

@@ -30,10 +30,6 @@
 # The Arrogant Kaiju Princess and The Detective Servant https://store.steampowered.com/app/2291680/
 { "name": "The Detective Servant.exe", "type": "Game" }
 
-# The Artisan of Glimmith https://store.steampowered.com/app/4160210/The_Artisan_of_Glimmith/
-{ "name": "Geri.exe", "type": "BG_CPUIO" }
-{ "name": "Geri-Win64-Shipping.exe", "type": "Game" }
-
 # The Ascent https://store.steampowered.com/app/979690/The_Ascent/
 { "name": "TheAscent.exe", "type": "BG_CPUIO" }
 { "name": "TheAscent-Win64-Shipping.exe", "type": "Game" }
@@ -335,6 +331,9 @@
 { "name": "modloader.exe", "type": "Game" }
 { "name": "TheEndIsNigh.exe", "type": "Game" }
 
+# The Endless Abyss: A Busty Cop’s Corrupted Soul https://store.steampowered.com/app/2651410/
+{ "name": "The_Endless_Abyss.exe", "type": "Game" }
+
 # The Enjenir https://store.steampowered.com/app/1800940/The_Enjenir_The_Engineering_Physics_Building_Simulator/
 { "name": "The_Enjenir.exe", "type": "BG_CPUIO" }
 { "name": "The_Enjenir-Win64-Shipping.exe", "type": "Game" }
@@ -432,6 +431,9 @@
 # THE GAME OF LIFE 2 https://store.steampowered.com/app/1455630/THE_GAME_OF_LIFE_2/
 { "name": "GameOfLife2.exe", "type": "Game" }
 
+# The Gate Must Stand https://store.steampowered.com/app/3975750/The_Gate_Must_Stand/
+{ "name": "The Gate Must Stand.exe", "type": "Game" }
+
 # The Genesis Project https://store.steampowered.com/app/1610900/The_Genesis_Project/
 { "name": "The Genesis Project.exe", "type": "Game" }
 
@@ -459,6 +461,10 @@
 { "name": "Guild3.exe", "type": "Game" }
 { "name": "Guild3Editor.exe", "type": "Game" }
 { "name": "Guild3ModLauncher.exe", "type": "Game" }
+
+# The Guild - Europa 1410 Demo https://store.steampowered.com/app/4693080/The_Guild__Europa_1410_Demo/
+{ "name": "Europa1410.exe", "type": "BG_CPUIO" }
+{ "name": "Europa1410-Win64-Shipping.exe", "type": "Game" }
 
 # The Guild Gold Edition https://store.steampowered.com/app/39520/The_Guild_Gold_Edition/
 { "name": "Europa1400Gold.exe", "type": "Game" }
@@ -759,6 +765,9 @@
 { "name": "LEGONINJAGO.exe", "type": "Game" }
 { "name": "LEGONINJAGO_DX11.exe", "type": "Game" }
 
+# The Life and Suffering of Prince Jerian Demo https://store.steampowered.com/app/3131940/The_Life_and_Suffering_of_Prince_Jerian_Demo/
+{ "name": "The Life and Suffering of Prince Jerian.exe", "type": "Game" }
+
 # The Life and Suffering of Sir Brante https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/
 { "name": "The Life and Suffering of Sir Brante.exe", "type": "Game" }
 { "name": "brante-101xp-micro-launcher.exe", "type": "BG_CPUIO" }
@@ -822,6 +831,9 @@
 { "name": "Medium.exe", "type": "BG_CPUIO" }
 { "name": "Medium-Win64-Shipping.exe", "type": "Game" }
 
+# The Message from Deep Space Demo https://store.steampowered.com/app/4624860/
+{ "name": "The Message From Deep Space.exe", "type": "Game" }
+
 # The Messenger https://store.steampowered.com/app/764790/The_Messenger/
 { "name": "TheMessenger.exe", "type": "Game" }
 
@@ -847,6 +859,10 @@
 
 # The Mosquito Gang https://store.steampowered.com/app/2811100/The_Mosquito_Gang/
 { "name": "MosquitoGang-Win64-Shipping.exe", "type": "Game" }
+
+# The Mound: Omen of Cthulhu Demo https://store.steampowered.com/app/4669520/
+{ "name": "TheMound.exe", "type": "BG_CPUIO" }
+{ "name": "TheMound-Win64-Shipping.exe", "type": "Game" }
 
 # The Mr. Rabbit Magic Show https://store.steampowered.com/app/3472550/The_Mr_Rabbit_Magic_Show/
 { "name": "themrrabbitmagicshow.exe", "type": "Game" }
@@ -1249,5 +1265,11 @@
 # The Yawhg https://store.steampowered.com/app/269030/The_Yawhg/
 { "name": "the yawhg.exe", "type": "Game" }
 
+# The You Quiz - Friend's Pass https://store.steampowered.com/app/3967010/
+{ "name": "TheYouQuiz.exe", "type": "Game" }
+
 # The Zachtronics Solitaire Collection https://store.steampowered.com/app/1988540/The_Zachtronics_Solitaire_Collection/
 { "name": "The Zachtronics Solitaire Collection.exe", "type": "Game" }
+
+# The Zone https://store.steampowered.com/app/3491280/The_Zone__FPV_Drone_Simulator/
+{ "name": "thezone.exe", "type": "Game" }

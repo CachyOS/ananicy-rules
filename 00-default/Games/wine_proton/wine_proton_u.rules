@@ -227,6 +227,10 @@
 # Unholy Heights https://store.steampowered.com/app/249330/Unholy_Heights/
 { "name": "UnholyHeights.exe", "type": "Game" }
 
+# Unicycle Together Demo https://store.steampowered.com/app/4328040/Unicycle_Together_Demo/
+{ "name": "UnicycleTogether.exe", "type": "BG_CPUIO" }
+{ "name": "UnicycleTogether-Win64-Shipping.exe", "type": "Game" }
+
 # Union of Gnomes https://store.steampowered.com/app/2097030/Union_of_Gnomes/
 { "name": "Union of Gnomes.exe", "type": "Game" }
 
