@@ -216,7 +216,7 @@
 { "name": "SatelliteReignWindows.exe", "type": "Game" }
 
 # Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
-{ "name": "FactoryGame.exe", "type": "Game" }
+{ "name": "FactoryGame.exe", "type": "BG_CPUIO" }
 { "name": "FactoryGameSteam-Win64-Shipping.exe", "type": "Game" }
 
 # Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
