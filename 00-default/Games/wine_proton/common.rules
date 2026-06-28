@@ -645,6 +645,10 @@
 # Factorio https://store.steampowered.com/app/427520/Factorio/
 { "name": "Factorio.exe", "type": "Game" }
 
+# Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
+# Unchi ga i sagashi ~ unchi no hinshitsu o mamoru gēmu ~ うんちがいさがし ～うんちの品質を守るゲーム～ https://store.steampowered.com/app/2892530/Poop_Spotter__The_game_to_improve_the_quality_of_poop/
+{ "name": "FactoryGame.exe", "type": "BG_CPUIO" }
+
 # Tainted Grail: The Fall of Avalon https://store.steampowered.com/app/1466060/Tainted_Grail_The_Fall_of_Avalon/
 # Tainted Grail: The Fall of Avalon Demo https://store.steampowered.com/app/2346630/Tainted_Grail_The_Fall_of_Avalon_Demo/
 { "name": "Fall of Avalon.exe", "type": "Game" }
