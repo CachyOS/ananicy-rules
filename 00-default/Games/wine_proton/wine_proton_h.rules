@@ -27,9 +27,6 @@
 # .hack//G.U. Last Recode https://store.steampowered.com/app/525480/hackGU_Last_Recode/
 { "name": "hackGU.exe", "type": "Game" }
 
-# Hotel Galactic https://store.steampowered.com/app/2183670/Hotel_Galactic/
-{ "name": "Hotel Galactic.exe", "type": "Game" }
-
 # HackHub - Ultimate Hacker Simulator https://store.steampowered.com/app/2980270/HackHub__Ultimate_Hacker_Simulator/
 { "name": "hh-launcher.exe", "type": "Game" }
 
@@ -848,6 +845,9 @@
 # Hotel Architect https://store.steampowered.com/app/1602000/Hotel_Architect/
 { "name": "HotelArchitect.exe", "type": "BG_CPUIO" }
 { "name": "HotelArchitect-Win64-Shipping.exe", "type": "Game" }
+
+# Hotel Galactic https://store.steampowered.com/app/2183670/Hotel_Galactic/
+{ "name": "Hotel Galactic.exe", "type": "Game" }
 
 # Hotel Hideaway: Avatar & Chat https://store.steampowered.com/app/3829340/Hotel_Hideaway_Avatar__Chat/
 { "name": "Hideaway.exe", "type": "Game" }

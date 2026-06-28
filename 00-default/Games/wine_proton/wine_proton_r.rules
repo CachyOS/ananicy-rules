@@ -37,14 +37,6 @@
 { "name": "RRRE64.exe", "type": "Game" }
 { "name": "RRREWebBrowser.exe", "type": "Game" }
 
-# Rock of Ages 2 https://store.steampowered.com/app/434460/Rock_of_Ages_2_Bigger__Boulder/
-{ "name": "ROA2.exe", "type": "BG_CPUIO" }
-{ "name": "ROA2-Win64-Shipping.exe", "type": "Game" }
-
-# Rock of Ages 3: Make & Break https://store.steampowered.com/app/1101360/Rock_of_Ages_3_Make__Break/
-{ "name": "ROA3.exe", "type": "BG_CPUIO" }
-{ "name": "ROA3-Win64-Shipping.exe", "type": "Game" }
-
 # Race The Sun https://store.steampowered.com/app/253030/Race_The_Sun/
 { "name": "RaceTheSun.exe", "type": "Game" }
 
@@ -914,6 +906,14 @@
 
 # Rock of Ages https://store.steampowered.com/app/22230/Rock_of_Ages/
 { "name": "RoA.exe", "type": "Game" }
+
+# Rock of Ages 2 https://store.steampowered.com/app/434460/Rock_of_Ages_2_Bigger__Boulder/
+{ "name": "ROA2.exe", "type": "BG_CPUIO" }
+{ "name": "ROA2-Win64-Shipping.exe", "type": "Game" }
+
+# Rock of Ages 3: Make & Break https://store.steampowered.com/app/1101360/Rock_of_Ages_3_Make__Break/
+{ "name": "ROA3.exe", "type": "BG_CPUIO" }
+{ "name": "ROA3-Win64-Shipping.exe", "type": "Game" }
 
 # Rock Simulator https://store.steampowered.com/app/1187510/Rock_Simulator/
 { "name": "RockSimulator.exe", "type": "BG_CPUIO" }

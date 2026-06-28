@@ -20,12 +20,6 @@
 # Bèibāo dìláo Demo 背包地牢 Demo https://store.steampowered.com/app/4524110/Backpack_Dungeon_Demo/
 { "name": "Backpack-Dungeon.exe", "type": "Game" }
 
-# Shèngxià lí yǔ hé 盛夏离与合 https://store.steampowered.com/app/3987560/Love_in_Summer/
-{ "name": "SX.exe", "type": "Game" }
-
-# Zhǐ jià yī 纸嫁衣 https://store.steampowered.com/app/1735950/Paper_Bride/
-{ "name": "zjy.exe", "type": "Game" }
-
 # Bēng jìng huíshōu zhàn 嘣境回收战 https://store.steampowered.com/app/2411910/miniBONG/
 { "name": "miniBONG.exe", "type": "Game" }
 
@@ -390,6 +384,9 @@
 { "name": "hallclient.exe", "type": "Game" }
 { "name": "ACE-Launcher64.exe", "type": "Game" }
 
+# Shèngxià lí yǔ hé 盛夏离与合 https://store.steampowered.com/app/3987560/Love_in_Summer/
+{ "name": "SX.exe", "type": "Game" }
+
 # Shén qì zhī dì 神弃之地 https://store.steampowered.com/app/3419290/GOD_FORSAKEN/
 { "name": "GodForsaken.exe", "type": "Game" }
 
@@ -654,6 +651,9 @@
 
 # Zhǐ fángzǐ Sweet Home 纸房子 Sweet Home https://store.steampowered.com/app/3528450/Sweet_Home/
 { "name": "SweetHome.exe", "type": "Game" }
+
+# Zhǐ jià yī 纸嫁衣 https://store.steampowered.com/app/1735950/Paper_Bride/
+{ "name": "zjy.exe", "type": "Game" }
 
 # Zhōnghuá sānguózhì 中华三国志 https://store.steampowered.com/app/1029500/_the_Three_Kingdoms_of_China/
 { "name": "WorldOfTheThreeKingdoms.exe", "type": "Game" }

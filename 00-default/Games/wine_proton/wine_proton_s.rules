@@ -257,9 +257,6 @@
 { "name": "sbox-launcher.exe", "type": "BG_CPUIO" }
 { "name": "sbox-server.exe", "type": "Service" }
 
-# Sensei! I Like You So Much! https://store.steampowered.com/app/2957700/Sensei_I_Like_You_So_Much/
-{ "name": "SenSuki.exe", "type": "Game" }
-
 # Scam Center Simulator: Prologue https://store.steampowered.com/app/4199360/Scam_Center_Simulator_Prologue/
 { "name": "Scam Center SImulator Prologue.exe", "type": "Game" }
 
@@ -543,6 +540,9 @@
 
 # SENRAN KAGURA SHINOVI VERSUS https://store.steampowered.com/app/411830/SENRAN_KAGURA_SHINOVI_VERSUS/
 { "name": "SKShinoviVersus.exe", "type": "Game" }
+
+# Sensei! I Like You So Much! https://store.steampowered.com/app/2957700/Sensei_I_Like_You_So_Much/
+{ "name": "SenSuki.exe", "type": "Game" }
 
 # Sensual Adventures - Treasure Island https://store.steampowered.com/app/2757820/
 { "name": "TreasureIsland.exe", "type": "Game" }
