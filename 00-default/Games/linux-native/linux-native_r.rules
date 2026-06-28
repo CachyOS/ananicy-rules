@@ -194,6 +194,10 @@
 # RUINER https://store.steampowered.com/app/464060/RUINER/
 { "name": "Ruiner-Linux-Shipping", "type": "Game" }
 
+# RuneScape 3 https://runescape.com/
+{ "name": "rs3linux", "type": "Game" }
+{ "name": "rs2client", "type": "Game" }
+
 # RUNNING WITH RIFLES https://store.steampowered.com/app/270150/RUNNING_WITH_RIFLES/
 { "name": "launch_config", "type": "Game" }
 { "name": "launch_game", "type": "Game" }
