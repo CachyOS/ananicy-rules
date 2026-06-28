@@ -215,17 +215,21 @@
 # Satellite Reign https://store.steampowered.com/app/268870/Satellite_Reign/
 { "name": "SatelliteReignWindows.exe", "type": "Game" }
 
-# Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
-{ "name": "FactoryGame.exe", "type": "Game" }
-{ "name": "FactoryGameSteam-Win64-Shipping.exe", "type": "Game" }
-
 # Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
 { "name": "FactoryServer.exe", "type": "Service" }
 { "name": "FactoryServer-Win64-Shipping-Cmd.exe", "type": "Service" }
 { "name": "FactoryServer-Win64-Shipping.exe", "type": "Service" }
 
+# Satisfactory (epic) https://store.epicgames.com/p/satisfactory
+{ "name": "FactoryGameEGS.exe", "type": "BG_CPUIO" }
+{ "name": "FactoryGameEGS-Win64-Shipping.exe", "type": "Game" }
+
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler.exe", "type": "Game" }
+
+# Satisfactory (steam) https://store.steampowered.com/app/526870/Satisfactory/
+{ "name": "FactoryGameSteam.exe", "type": "BG_CPUIO" }
+{ "name": "FactoryGameSteam-Win64-Shipping.exe", "type": "Game" }
 
 # SatomiChat https://store.steampowered.com/app/4245350/SatomiChat/
 { "name": "satomi-chat.exe", "type": "Game" }

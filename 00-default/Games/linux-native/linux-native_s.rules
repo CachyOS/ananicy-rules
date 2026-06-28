@@ -48,10 +48,6 @@
 { "name": "SatelliteReignLinux.x86", "type": "Game" }
 { "name": "SatelliteReignLinux.x86_64", "type": "Game" }
 
-# Satisfactory https://store.steampowered.com/app/526870/Satisfactory/
-{ "name": "FactoryGame", "type": "Game" }
-{ "name": "FactoryGameSteam", "type": "Game" }
-
 # Satisfactory Dedicated Server https://store.steampowered.com/app/1690800/
 { "name": "FactoryServer-Linux-Shipping", "type": "Service" }
 { "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Service" }
