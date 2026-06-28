@@ -44,6 +44,14 @@
 { "name": "Deluxe2.exe", "type": "BG_CPUIO" }
 { "name": "Deluxe2-Win64-Shipping.exe", "type": "Game" }
 
+# The Eternal Cylinder https://store.steampowered.com/app/865680/The_Eternal_Cylinder/
+{ "name": "TheEternalCylinder.exe", "type": "BG_CPUIO" }
+{ "name": "TheEternalCylinder-Win64-Shipping.exe", "type": "Game" }
+
+# The Legend of Bum-Bo https://store.steampowered.com/app/1148650/The_Legend_of_BumBo/
+{ "name": "the legend of bum-bo.exe", "type": "Game" }
+{ "name": "The Legend of Bum-bo.exe", "type": "Game" }
+
 # The Ball https://store.steampowered.com/app/35460/The_Ball/
 { "name": "TheBall.exe", "type": "Game" }
 

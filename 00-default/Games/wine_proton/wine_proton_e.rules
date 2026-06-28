@@ -20,6 +20,13 @@
 # EARTH DEFENSE FORCE 4.1 The Shadow of New Despair https://store.steampowered.com/app/410320/EARTH_DEFENSE_FORCE_41_The_Shadow_of_New_Despair/
 { "name": "EDF41.exe", "type": "Game" }
 
+# EMPULSE https://store.steampowered.com/app/4323990/EMPULSE/
+{ "name": "OrionClient.exe", "type": "BG_CPUIO" }
+{ "name": "OrionClient-Win64-Shipping.exe", "type": "Game" }
+
+# Executive Assault 2 https://store.steampowered.com/app/510500/Executive_Assault_2/
+{ "name": "ExecutiveAssault2.exe", "type": "Game" }
+
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 

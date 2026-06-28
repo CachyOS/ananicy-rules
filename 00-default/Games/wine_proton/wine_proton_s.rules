@@ -257,6 +257,9 @@
 { "name": "sbox-launcher.exe", "type": "BG_CPUIO" }
 { "name": "sbox-server.exe", "type": "Service" }
 
+# Sensei! I Like You So Much! https://store.steampowered.com/app/2957700/Sensei_I_Like_You_So_Much/
+{ "name": "SenSuki.exe", "type": "Game" }
+
 # Scam Center Simulator: Prologue https://store.steampowered.com/app/4199360/Scam_Center_Simulator_Prologue/
 { "name": "Scam Center SImulator Prologue.exe", "type": "Game" }
 

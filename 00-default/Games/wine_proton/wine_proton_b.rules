@@ -20,6 +20,10 @@
 # Baby Steps https://store.steampowered.com/app/1281040/Baby_Steps/
 { "name": "BabySteps.exe", "type": "Game" }
 
+# Back in Service: a Metro Driver https://store.steampowered.com/app/3331320/Back_in_Service_a_Metro_Driver/
+{ "name": "BackInService.exe", "type": "BG_CPUIO" }
+{ "name": "BackInService-Win64-Shipping.exe", "type": "Game" }
+
 # Back 4 Blood https://store.steampowered.com/app/924970/Back_4_Blood/
 { "name": "Back4Blood.exe", "type": "Game" }
 
