@@ -327,6 +327,10 @@
 # Emporea https://store.steampowered.com/app/416450/Emporea_Realms_of_War_and_Magic/
 { "name": "Emporea.exe", "type": "Game" }
 
+# EMPULSE https://store.steampowered.com/app/4323990/EMPULSE/
+{ "name": "OrionClient.exe", "type": "BG_CPUIO" }
+{ "name": "OrionClient-Win64-Shipping.exe", "type": "Game" }
+
 # Empyrion - Galactic Survival https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/
 { "name": "EmpyrionLauncher.exe", "type": "BG_CPUIO" }
 { "name": "Empyrion.exe", "type": "Game" }
@@ -729,6 +733,9 @@
 
 # Exanima https://store.steampowered.com/app/362490/Exanima/
 { "name": "Exanima.exe", "type": "Game" }
+
+# Executive Assault 2 https://store.steampowered.com/app/510500/Executive_Assault_2/
+{ "name": "ExecutiveAssault2.exe", "type": "Game" }
 
 # Exiled Kingdoms https://store.steampowered.com/app/788270/Exiled_Kingdoms/
 { "name": "exiledkingdoms.exe", "type": "Game" }

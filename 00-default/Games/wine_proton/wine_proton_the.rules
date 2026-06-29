@@ -356,6 +356,10 @@
 # The Eternal Castle [REMASTERED] https://store.steampowered.com/app/963450/The_Eternal_Castle_REMASTERED/
 { "name": "ETERNAL.exe", "type": "Game" }
 
+# The Eternal Cylinder https://store.steampowered.com/app/865680/The_Eternal_Cylinder/
+{ "name": "TheEternalCylinder.exe", "type": "BG_CPUIO" }
+{ "name": "TheEternalCylinder-Win64-Shipping.exe", "type": "Game" }
+
 # The Evil Within https://store.steampowered.com/app/268050/The_Evil_Within/
 { "name": "evilwithin.exe", "type": "Game" }
 
@@ -686,6 +690,10 @@
 
 # The Last Tinker: City of Colors https://store.steampowered.com/app/260160/The_Last_Tinker_City_of_Colors/
 { "name": "the last tinker.exe", "type": "Game" }
+
+# The Legend of Bum-Bo https://store.steampowered.com/app/1148650/The_Legend_of_BumBo/
+{ "name": "the legend of bum-bo.exe", "type": "Game" }
+{ "name": "The Legend of Bum-bo.exe", "type": "Game" }
 
 # The Legend of Heroes: Ao no Kiseki KAI https://store.steampowered.com/app/1461920/The_Legend_of_Heroes_Ao_no_Kiseki_KAI/
 { "name": "Launcher_ED72.exe", "type": "BG_CPUIO" }

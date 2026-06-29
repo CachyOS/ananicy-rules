@@ -80,6 +80,14 @@
 # Halo Infinite https://store.steampowered.com/app/1240440/Halo_Infinite/
 { "name": "HaloInfinite.exe", "type": "Game" }
 
+# Halo PC Dedicated Server (Trial/Demo, Retail, Custom Edition) https://web.archive.org/web/20031012122205/http://halo.bungie.net/site/halo/features/halopc.html
+{ "name": "haloded.exe", "type": "Service" }
+{ "name": "haloceded.exe", "type": "Service" }
+
+# Halo PC (Trial/Demo, Retail, Custom Edition) https://web.archive.org/web/20031012122205/http://halo.bungie.net/site/halo/features/halopc.html
+{ "name": "halo.exe", "type": "Game" }
+{ "name": "haloce.exe", "type": "Game" }
+
 # Halo: Spartan Assault https://store.steampowered.com/app/277430/Halo_Spartan_Assault/
 { "name": "HaloSpartanAssault.exe", "type": "Game" }
 
@@ -845,6 +853,9 @@
 # Hotel Architect https://store.steampowered.com/app/1602000/Hotel_Architect/
 { "name": "HotelArchitect.exe", "type": "BG_CPUIO" }
 { "name": "HotelArchitect-Win64-Shipping.exe", "type": "Game" }
+
+# Hotel Galactic https://store.steampowered.com/app/2183670/Hotel_Galactic/
+{ "name": "Hotel Galactic.exe", "type": "Game" }
 
 # Hotel Hideaway: Avatar & Chat https://store.steampowered.com/app/3829340/Hotel_Hideaway_Avatar__Chat/
 { "name": "Hideaway.exe", "type": "Game" }
