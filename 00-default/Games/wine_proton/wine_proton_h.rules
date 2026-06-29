@@ -80,6 +80,14 @@
 # Halo Infinite https://store.steampowered.com/app/1240440/Halo_Infinite/
 { "name": "HaloInfinite.exe", "type": "Game" }
 
+# Halo PC Dedicated Server (Trial/Demo, Retail, Custom Edition) https://web.archive.org/web/20031012122205/http://halo.bungie.net/site/halo/features/halopc.html
+{ "name": "haloded.exe", "type": "Service" }
+{ "name": "haloceded.exe", "type": "Service" }
+
+# Halo PC (Trial/Demo, Retail, Custom Edition) https://web.archive.org/web/20031012122205/http://halo.bungie.net/site/halo/features/halopc.html
+{ "name": "halo.exe", "type": "Game" }
+{ "name": "haloce.exe", "type": "Game" }
+
 # Halo: Spartan Assault https://store.steampowered.com/app/277430/Halo_Spartan_Assault/
 { "name": "HaloSpartanAssault.exe", "type": "Game" }
 
