@@ -75,3 +75,6 @@
 { "name": "fractal", "type": "Chat" }
 { "name": "neochat", "type": "Chat" }
 { "name": "nheko", "type": "Chat" }
+
+# Mumble: https://www.mumble.info/
+{ "name": "mumble", "type": "Chat" }
