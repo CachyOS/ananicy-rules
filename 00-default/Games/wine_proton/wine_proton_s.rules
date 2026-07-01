@@ -174,9 +174,6 @@
 # Sands of Salzaar https://store.steampowered.com/app/1094520/Sands_of_Salzaar/
 { "name": "DesertLegend.exe", "type": "Game" }
 
-# SandTable War: Three Kingdoms https://store.steampowered.com/app/3885930/SandTable_War_Three_Kingdoms/
-{ "name": "tk.exe", "type": "Game" }
-
 # Sandwich Simulator https://store.steampowered.com/app/3445340/Sandwich_Simulator/
 { "name": "SandwichSimulator.exe", "type": "BG_CPUIO" }
 { "name": "SandwichSimulator-Win64-Shipping.exe", "type": "Game" }
@@ -257,22 +254,12 @@
 { "name": "sbox-launcher.exe", "type": "BG_CPUIO" }
 { "name": "sbox-server.exe", "type": "Service" }
 
-# SandTable War: Three Kingdoms Demo https://store.steampowered.com/app/3888200/SandTable_War_Three_Kingdoms_Demo/
-{ "name": "tk.exe", "type": "Game" }
-
 # Sandustry Demo https://store.steampowered.com/app/3490390/Sandustry_Demo/
 { "name": "sandustrydemo.exe", "type": "Game" }
 
 # Scratch the Ticket Demo https://store.steampowered.com/app/4821810/Scratch_the_Ticket_Demo/
 { "name": "LotteryTicket.exe", "type": "BG_CPUIO" }
 { "name": "LotteryTicket-Win64-Shipping.exe", "type": "Game" }
-
-# Sex, Secrets & Used Tech https://store.steampowered.com/app/3576350/
-{ "name": "ElectronicsThriftStore.exe", "type": "Game" }
-
-# Shin Megami Tensei V: Vengeance Demo https://store.steampowered.com/app/3185590/
-{ "name": "SMT5V.exe", "type": "BG_CPUIO" }
-{ "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
 
 # Simmiland https://store.steampowered.com/app/932850/Simmiland/
 { "name": "simmiland.exe", "type": "Game" }
@@ -288,9 +275,6 @@
 
 # Stranded in Space https://store.steampowered.com/app/2283780/
 { "name": "StrandedInSpace.exe", "type": "Game" }
-
-# STRANGER SAGA -流れ者バッチとイスキエルドの野望- https://store.steampowered.com/app/3821860/STRANGER_SAGA_Stranger_Bach_and_Iskiyelds_Ambition/
-{ "name": "game.exe", "type": "Game" }
 
 # Sunset Hills https://store.steampowered.com/app/1791590/Sunset_Hills/
 { "name": "SunsetHills.exe", "type": "Game" }
@@ -706,9 +690,6 @@
 # SEX Prison [18+] https://store.steampowered.com/app/1770380/
 { "name": "FakePrison.exe", "type": "Game" }
 
-# Sex, Secrets & Used Tech Demo https://store.steampowered.com/app/3709920/
-{ "name": "ElectronicsThriftStore.exe", "type": "Game" }
-
 # Sex Shop Simulator: X-RAY DESIRE https://store.steampowered.com/app/4148670/
 { "name": "Sex Shop Simulator X-RAY DESIRE.exe", "type": "BG_CPUIO" }
 { "name": "ShopSim-Win64-Shipping.exe", "type": "Game" }
@@ -942,10 +923,6 @@
 
 # Shin Megami Tensei III Nocturne HD Remaster https://store.steampowered.com/app/1413480/Shin_Megami_Tensei_III_Nocturne_HD_Remaster/
 { "name": "smt3hd.exe", "type": "Game" }
-
-# Shin Megami Tensei V: Vengeance https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
-{ "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
-{ "name": "SMT5V.exe", "type": "BG_CPUIO" }
 
 # SHINOBI: Art of Vengeance https://store.steampowered.com/app/2361770/SHINOBI_Art_of_Vengeance/
 { "name": "SHINOBI_AOV.exe", "type": "Game" }

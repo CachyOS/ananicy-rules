@@ -48,14 +48,8 @@
 { "name": "History_Game-Win64-DebugGame.exe", "type": "Game" }
 { "name": "History_Game-Win64-Shipping.exe", "type": "Game" }
 
-# The Message from Deep Space https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/
-{ "name": "The Message From Deep Space.exe", "type": "Game" }
-
 # The Ratline https://store.steampowered.com/app/3756940/The_Ratline/
 { "name": "Ratlines.exe", "type": "Game" }
-
-# The Sun Never Sets https://store.steampowered.com/app/636370/The_Sun_Never_Sets/
-{ "name": "Game.exe", "type": "Game" }
 
 # The Backrooms Deluxe 2 https://store.steampowered.com/app/4066790/The_Backrooms_Deluxe_2/
 { "name": "Deluxe2.exe", "type": "BG_CPUIO" }
@@ -855,9 +849,6 @@
 # The Medium https://store.steampowered.com/app/1293160/The_Medium/
 { "name": "Medium.exe", "type": "BG_CPUIO" }
 { "name": "Medium-Win64-Shipping.exe", "type": "Game" }
-
-# The Message from Deep Space Demo https://store.steampowered.com/app/4624860/
-{ "name": "The Message From Deep Space.exe", "type": "Game" }
 
 # The Messenger https://store.steampowered.com/app/764790/The_Messenger/
 { "name": "TheMessenger.exe", "type": "Game" }

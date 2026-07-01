@@ -33,9 +33,6 @@
 { "name": "WallpaperAliveMenu.exe", "type": "BG_CPUIO" }
 { "name": "WallpaperAlive.exe", "type": "BG_CPUIO" }
 
-# Wallpaper Animator Demo https://store.steampowered.com/app/4671870/
-{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
-
 # Wallpaper Engine https://store.steampowered.com/app/431960/Wallpaper_Engine/
 { "name": "wallpaper64.exe", "type": "BG_CPUIO" }
 
@@ -43,24 +40,14 @@
 { "name": "webview2runtime.exe", "type": "BG_CPUIO" }
 { "name": "WallpaperPlay.exe", "type": "BG_CPUIO" }
 
-# Wallpaper Animator https://store.steampowered.com/app/4484970/Wallpaper_Animator/
-{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
-
 # Warfare Legacy Collection https://store.steampowered.com/app/2745870/Warfare_Legacy_Collection/
 { "name": "Warfare.exe", "type": "Game" }
 
 # Ways of Alchemy https://store.steampowered.com/app/2915380/Ways_of_Alchemy/
 { "name": "WaysOfAlchemy.exe", "type": "Game" }
 
-# Western Adventure https://store.steampowered.com/app/562710/
-{ "name": "game.exe", "type": "Game" }
-
 # Wheel Make It Demo https://store.steampowered.com/app/4594340/Wheel_Make_It_Demo/
 { "name": "Wheel Make It.exe", "type": "Game" }
-
-# Wicked Island Demo https://store.steampowered.com/app/2462490/
-{ "name": "WickedIsland.exe", "type": "BG_CPUIO" }
-{ "name": "WickedIsland-Win64-Shipping.exe", "type": "Game" }
 
 # Wordle 2 https://store.steampowered.com/app/1386730/Wordle_2/
 { "name": "wordle2.exe", "type": "Game" }
@@ -617,10 +604,6 @@
 
 # Who's Your Daddy?! https://store.steampowered.com/app/427730/Whos_Your_Daddy/
 { "name": "WhosYourDaddy.exe", "type": "Game" }
-
-# Wicked Island https://store.steampowered.com/app/1943730/
-{ "name": "WickedIsland.exe", "type": "BG_CPUIO" }
-{ "name": "WickedIsland-Win64-Shipping.exe", "type": "Game" }
 
 # Wicked Seed https://store.steampowered.com/app/2767530/Wicked_Seed/
 { "name": "Wicked Seed.exe", "type": "Game" }

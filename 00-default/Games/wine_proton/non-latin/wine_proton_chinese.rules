@@ -23,9 +23,6 @@
 # “Wénzì yóuxì” 《文字遊戲》 https://store.steampowered.com/app/1109570/Word_Game/
 { "name": "文字遊戲.exe", "type": "Game" }
 
-# Fàngzhì dìláo 放置地牢 https://store.steampowered.com/app/2434370/Auto_DungeonIdle_Adventure/
-{ "name": "AutoDungeon.exe", "type": "Game" }
-
 # Zhōngguó zúqiú mónǐ qì 中国足球模拟器 https://store.steampowered.com/app/3304320/CFS_Chinese_Football_Simulator/
 { "name": "CFS.exe", "type": "Game" }
 
@@ -33,11 +30,7 @@
 { "name": "百花杀尽.exe", "type": "Game" }
 
 # Jiàn wéi jūn wǔ 剑为君舞 https://store.steampowered.com/app/1162650/Ken_ga_Kimi/
-{ "name": "Launcher.exe", "type": "Game" }
 { "name": "Kengakimi.exe", "type": "Game" }
-
-# Fàngzhì: Zhǐ sè xīn jìng 放置:纸色新境 https://store.steampowered.com/app/4270610/idleDoodle_Realm/
-{ "name": "game.exe", "type": "Game" }
 
 # Shàonǚ zhōngduān 少女终端 https://store.steampowered.com/app/4555380/Girl_Terminal/
 { "name": "Terminal.exe", "type": "Game" }
@@ -125,9 +118,6 @@
 
 # Fāngcùn wénmíng 方寸文明 https://store.steampowered.com/app/2230280/Tiny_Civilization/
 { "name": "TinyCivilization.exe", "type": "Game" }
-
-# Fàngzhì dìláo Demo 放置地牢 Demo https://store.steampowered.com/app/4446190/AutoDungeon_Demo/
-{ "name": "AutoDungeon.exe", "type": "Game" }
 
 # Fàngzhì zhǎn mó lù Demo 放置斩魔录 Demo https://store.steampowered.com/app/4774060/_Demo/
 { "name": "fzzml.exe", "type": "Game" }

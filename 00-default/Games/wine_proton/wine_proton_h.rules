@@ -97,9 +97,6 @@
 # Horizon's Gate https://store.steampowered.com/app/1224290/Horizons_Gate/
 { "name": "BoatTactics.exe", "type": "Game" }
 
-# Hot Springs Story 2 https://store.steampowered.com/app/2089450/Hot_Springs_Story_2/
-{ "name": "KairoGames.exe", "type": "Game" }
-
 # Halo PC Dedicated Server (Trial/Demo, Retail, Custom Edition) https://web.archive.org/web/20031012122205/http://halo.bungie.net/site/halo/features/halopc.html
 { "name": "haloded.exe", "type": "Service" }
 { "name": "haloceded.exe", "type": "Service" }
