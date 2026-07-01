@@ -154,6 +154,9 @@
 # Handyman Legend https://store.steampowered.com/app/2127010/
 { "name": "Handyman Legend.exe", "type": "Game" }
 
+# Happy Endings Demo https://store.steampowered.com/app/4738790/
+{ "name": "Happy Endings.exe", "type": "Game" }
+
 # Happy Island Fantasy https://store.steampowered.com/app/3668560/
 { "name": "Happy Island Fantasy.exe", "type": "Game" }
 
@@ -257,9 +260,16 @@
 # Head Shot https://store.steampowered.com/app/485310/Head_Shot/
 { "name": "HeadShot.exe", "type": "Game" }
 
+# Headsnatchers https://store.steampowered.com/app/797410/Headsnatchers/
+{ "name": "Headsnatchers.exe", "type": "BG_CPUIO" }
+{ "name": "Headsnatchers-Win64-Shipping.exe", "type": "Game" }
+
 # Heads Will Roll: Reforged https://store.steampowered.com/app/687800/Heads_Will_Roll_Reforged/
 { "name": "headswillroll_reforged-32.exe", "type": "Game" }
 { "name": "headswillroll_reforged.exe", "type": "Game" }
+
+# Heart Cage https://store.steampowered.com/app/2570850/
+{ "name": "HeartCage_1.0.exe", "type": "Game" }
 
 # Heart Clicker https://store.steampowered.com/app/3022740/Heart_Clicker/
 { "name": "Heart Clicker.exe", "type": "Game" }
@@ -535,6 +545,10 @@
 
 # Hero Siege https://store.steampowered.com/app/269210/Hero_Siege/
 { "name": "Hero_Siege.exe", "type": "Game" }
+
+# Hero's Journey https://store.steampowered.com/app/2069640/
+{ "name": "HerosJourney.exe", "type": "BG_CPUIO" }
+{ "name": "HerosJourney-Win64-Shipping.exe", "type": "Game" }
 
 # Hero's Land https://store.steampowered.com/app/2349820/Heros_Land/
 { "name": "HerosLand.exe", "type": "Game" }
@@ -818,6 +832,9 @@
 
 # Horizon Forbidden West Complete Edition https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/
 { "name": "HorizonForbiddenWest.exe", "type": "Game" }
+
+# Horizon's Gate https://store.steampowered.com/app/1224290/Horizons_Gate/
+{ "name": "BoatTactics.exe", "type": "Game" }
 
 # Horizon Walker https://store.steampowered.com/app/3279780/
 { "name": "Horizonwalker.exe", "type": "Game" }

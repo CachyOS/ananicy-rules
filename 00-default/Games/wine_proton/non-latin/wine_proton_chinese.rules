@@ -14,6 +14,9 @@
 # Bào dàn zhàn chē 爆弹战车 https://store.steampowered.com/app/3376850/Bomb_Vehicle_Idle_Clicker/
 { "name": "The Last Light.exe", "type": "Game" }
 
+# Bào shā cán yǔ zhī yè 暴杀残雨之夜 https://store.steampowered.com/app/3764940/_/
+{ "name": "canyu.exe", "type": "Game" }
+
 # Bèibāo chuǎngjiānghú 背包闯江湖 https://store.steampowered.com/app/3972650/Backpack_Jianghu/
 { "name": "BackpackJianghu.exe", "type": "Game" }
 
@@ -94,9 +97,6 @@
 # Fāngcùn wénmíng 方寸文明 https://store.steampowered.com/app/2230280/Tiny_Civilization/
 { "name": "TinyCivilization.exe", "type": "Game" }
 
-# Fàngzhì dìláo Demo 放置地牢 Demo https://store.steampowered.com/app/4446190/AutoDungeon_Demo/
-{ "name": "AutoDungeon.exe", "type": "Game" }
-
 # Fàngzhì zhǎn mó lù Demo 放置斩魔录 Demo https://store.steampowered.com/app/4774060/_Demo/
 { "name": "fzzml.exe", "type": "Game" }
 
@@ -128,6 +128,9 @@
 
 # Gǎnxiè nǐ de tóudì Demo 感谢你的投递 Demo https://store.steampowered.com/app/3640210/Thank_You_For_Your_Application_Demo/
 { "name": "ThankYouForYourApplicationDemo.exe", "type": "Game" }
+
+# Guài qí wùyǔ 怪棋物语 https://store.steampowered.com/app/3834650/_/
+{ "name": "怪棋物语.exe", "type": "Game" }
 
 # Guà jī èmó/IdleDevils 挂姬恶魔/IdleDevils https://store.steampowered.com/app/2226700/_IDLE_DEVILS/
 { "name": "IdleDevils.exe", "type": "Game" }
@@ -201,6 +204,9 @@
 
 # Jiàn qì jié 剑气劫 https://store.steampowered.com/app/2739600/Kalpa_of_Sword/
 { "name": "KalpaOfSword.exe", "type": "Game" }
+
+# Jiàn wéi jūn wǔ 剑为君舞 https://store.steampowered.com/app/1162650/Ken_ga_Kimi/
+{ "name": "Kengakimi.exe", "type": "Game" }
 
 # Jiànxí sǐshén Demo 见习死神 Demo https://store.steampowered.com/app/3850420/
 { "name": "DeathIntern.exe", "type": "Game" }
@@ -282,6 +288,10 @@
 
 # Mínglì yóuxì 名利游戏 https://store.steampowered.com/app/2758000/Vanity_Fair_The_Pursuit/
 { "name": "FameAndWealth.exe", "type": "Game" }
+
+# Míng mò: Yùhuǒ chóngshēng 明末：欲火重生 https://store.steampowered.com/app/3948550/Late_Ming_Reborn_in_Flames/
+{ "name": "LateMing.exe", "type": "BG_CPUIO" }
+{ "name": "LateMing-Win64-Shipping.exe", "type": "Game" }
 
 # Mó lǐshā! Hái shū!Marisa!ReturnTheBook! 魔理沙！还书！Marisa!ReturnTheBook! https://store.steampowered.com/app/3737620/MarisaReturnTheBook/
 { "name": "MarisaReturnTheBook.exe", "type": "Game" }
@@ -376,6 +386,9 @@
 
 # Shàonǚ yǔ chéngzhǔ 少女与城主 https://store.steampowered.com/app/3473160/
 { "name": "Maiden And Lord.exe", "type": "Game" }
+
+# Shàonǚ zhōngduān 少女终端 https://store.steampowered.com/app/4555380/Girl_Terminal/
+{ "name": "Terminal.exe", "type": "Game" }
 
 # Shén dōu bùliáng tàn 神都不良探 Underdog Detective https://store.steampowered.com/app/1681970/_Underdog_Detective/
 { "name": "Luoyang.exe", "type": "Game" }
@@ -475,6 +488,9 @@
 # Wēnyì qīng líng jìhuà Project Zero 瘟疫清零计划 Project Zero https://store.steampowered.com/app/2088250/_Project_Zero/
 { "name": "UE4Game.exe", "type": "Game" }
 
+# “Wénzì yóuxì” 《文字遊戲》 https://store.steampowered.com/app/1109570/Word_Game/
+{ "name": "文字遊戲.exe", "type": "Game" }
+
 # Wǒ de liàn'ài táoshēng gōnglüè Love to Live 我的恋爱逃生攻略 Love to Live https://store.steampowered.com/app/3389200/_Love_to_Live/
 { "name": "Love to Live.exe", "type": "Game" }
 
@@ -508,6 +524,9 @@
 
 # Xiákè fēngyún chuán (Tale of Wuxia) 侠客风云传(Tale of Wuxia) https://store.steampowered.com/app/377530/Tale_of_Wuxia/
 { "name": "wuxia.exe", "type": "Game" }
+
+# Xiá luò: Bǎihuā shā jǐn 侠落：百花杀尽 https://store.steampowered.com/app/2774390/_/
+{ "name": "百花杀尽.exe", "type": "Game" }
 
 # Xiānjiàn qí xiá chuán sān wàizhuàn·wèn qíng piān 仙劍奇俠傳三外傳·問情篇 https://store.steampowered.com/app/1536080/Sword_and_Fairy_3_Ex/
 { "name": "Pal3AWorks.exe", "type": "Game" }
@@ -654,6 +673,9 @@
 
 # Zhǐ jià yī 纸嫁衣 https://store.steampowered.com/app/1735950/Paper_Bride/
 { "name": "zjy.exe", "type": "Game" }
+
+# Zhōngguó zúqiú mónǐ qì 中国足球模拟器 https://store.steampowered.com/app/3304320/CFS_Chinese_Football_Simulator/
+{ "name": "CFS.exe", "type": "Game" }
 
 # Zhōnghuá sānguózhì 中华三国志 https://store.steampowered.com/app/1029500/_the_Three_Kingdoms_of_China/
 { "name": "WorldOfTheThreeKingdoms.exe", "type": "Game" }

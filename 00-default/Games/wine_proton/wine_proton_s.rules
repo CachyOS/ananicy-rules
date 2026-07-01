@@ -174,8 +174,8 @@
 # Sands of Salzaar https://store.steampowered.com/app/1094520/Sands_of_Salzaar/
 { "name": "DesertLegend.exe", "type": "Game" }
 
-# SandTable War: Three Kingdoms https://store.steampowered.com/app/3885930/SandTable_War_Three_Kingdoms/
-{ "name": "tk.exe", "type": "Game" }
+# Sandustry Demo https://store.steampowered.com/app/3490390/Sandustry_Demo/
+{ "name": "sandustrydemo.exe", "type": "Game" }
 
 # Sandwich Simulator https://store.steampowered.com/app/3445340/Sandwich_Simulator/
 { "name": "SandwichSimulator.exe", "type": "BG_CPUIO" }
@@ -360,6 +360,10 @@
 
 # Scratch Inc. https://store.steampowered.com/app/3788420/Scratch_Inc/
 { "name": "ScratchInc.exe", "type": "Game" }
+
+# Scratch the Ticket Demo https://store.steampowered.com/app/4821810/Scratch_the_Ticket_Demo/
+{ "name": "LotteryTicket.exe", "type": "BG_CPUIO" }
+{ "name": "LotteryTicket-Win64-Shipping.exe", "type": "Game" }
 
 # Scream Collector https://store.steampowered.com/app/726390/Scream_Collector/
 { "name": "ScreamCollector.exe", "type": "Game" }
@@ -659,9 +663,6 @@
 # SEX Prison [18+] https://store.steampowered.com/app/1770380/
 { "name": "FakePrison.exe", "type": "Game" }
 
-# Sex, Secrets & Used Tech Demo https://store.steampowered.com/app/3709920/
-{ "name": "ElectronicsThriftStore.exe", "type": "Game" }
-
 # Sex Shop Simulator: X-RAY DESIRE https://store.steampowered.com/app/4148670/
 { "name": "Sex Shop Simulator X-RAY DESIRE.exe", "type": "BG_CPUIO" }
 { "name": "ShopSim-Win64-Shipping.exe", "type": "Game" }
@@ -896,10 +897,6 @@
 # Shin Megami Tensei III Nocturne HD Remaster https://store.steampowered.com/app/1413480/Shin_Megami_Tensei_III_Nocturne_HD_Remaster/
 { "name": "smt3hd.exe", "type": "Game" }
 
-# Shin Megami Tensei V: Vengeance https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
-{ "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
-{ "name": "SMT5V.exe", "type": "BG_CPUIO" }
-
 # SHINOBI: Art of Vengeance https://store.steampowered.com/app/2361770/SHINOBI_Art_of_Vengeance/
 { "name": "SHINOBI_AOV.exe", "type": "Game" }
 
@@ -1123,6 +1120,9 @@
 # Sim Companies https://store.steampowered.com/app/2253720/Sim_Companies/
 { "name": "Sim Companies.exe", "type": "Game" }
 
+# Simmiland https://store.steampowered.com/app/932850/Simmiland/
+{ "name": "simmiland.exe", "type": "Game" }
+
 # SimplePlanes https://store.steampowered.com/app/397340/SimplePlanes/
 { "name": "SimplePlanes.exe", "type": "Game" }
 
@@ -1293,6 +1293,9 @@
 # SkyInFlames https://store.steampowered.com/app/4031360/SkyInFlames/
 { "name": "SkyInFlames.exe", "type": "Game" }
 
+# Sky Realm Idle https://store.steampowered.com/app/1580820/Sky_Realm_Idle/
+{ "name": "Sky Realm Idle.exe", "type": "Game" }
+
 # Slackers - Carts of Glory https://store.steampowered.com/app/2354000/Slackers__Carts_of_Glory/
 { "name": "CartOfGlory.exe", "type": "Game" }
 
@@ -1349,6 +1352,9 @@
 
 # Slice the Crops! https://store.steampowered.com/app/4169770/Slice_the_Crops/
 { "name": "Slice The Crops.exe", "type": "Game" }
+
+# Slice To Meet You https://store.steampowered.com/app/4768660/Slice_To_Meet_You/
+{ "name": "Slice To Meet You.exe", "type": "Game" }
 
 # Slime 3K: Rise Against Despot https://store.steampowered.com/app/2348610/Slime_3K_Rise_Against_Despot/
 { "name": "Slime3k.exe", "type": "Game" }
@@ -1415,6 +1421,9 @@
 
 # Smart Game Booster https://store.steampowered.com/app/1278480/Smart_Game_Booster/
 { "name": "SgbMain.exe", "type": "Game" }
+
+# Smash Hit Museum https://store.steampowered.com/app/4182480/Smash_Hit_Museum/
+{ "name": "Smash Hit Museum.exe", "type": "Game" }
 
 # Smashing Simulator Idle https://store.steampowered.com/app/3066060/Smashing_Simulator_Idle/
 { "name": "SmashingSimulatorIdle.exe", "type": "Game" }
@@ -2605,6 +2614,9 @@
 { "name": "Stranded_Deep_x86.exe", "type": "Game" }
 { "name": "Stranded_Deep.exe", "type": "Game" }
 
+# Stranded in Space https://store.steampowered.com/app/2283780/
+{ "name": "StrandedInSpace.exe", "type": "Game" }
+
 # Stranded In Time https://store.steampowered.com/app/385150/Stranded_In_Time/
 { "name": "StrandedInTime_Win.exe", "type": "Game" }
 
@@ -2921,6 +2933,9 @@
 # Sunless Skies https://store.steampowered.com/app/596970/Sunless_Skies_Sovereign_Edition/
 { "name": "Sunless Skies.exe", "type": "Game" }
 
+# Sunset Hills https://store.steampowered.com/app/1791590/Sunset_Hills/
+{ "name": "SunsetHills.exe", "type": "Game" }
+
 # Sunset Overdrive https://store.steampowered.com/app/847370/Sunset_Overdrive/
 { "name": "Sunset.exe", "type": "Game" }
 
@@ -3005,6 +3020,9 @@
 
 # Super Lucky's Tale https://store.steampowered.com/app/847360/Super_Luckys_Tale/
 { "name": "SLT.exe", "type": "Game" }
+
+# Supermarket Chaos https://store.steampowered.com/app/4800590/Supermarket_Chaos/
+{ "name": "Supermarket Chaos.exe", "type": "Game" }
 
 # Supermarket Simulator https://store.steampowered.com/app/2670630/Supermarket_Simulator/
 { "name": "Supermarket Simulator.exe", "type": "Game" }
@@ -3110,6 +3128,9 @@
 # Surviving Mars: Relaunched https://store.steampowered.com/app/3215050/Surviving_Mars_Relaunched/
 { "name": "Mars.exe", "type": "Game" }
 
+# Survivor Strain - Season 1 https://store.steampowered.com/app/2568390/
+{ "name": "SomewhereIBelong.exe", "type": "Game" }
+
 # Suspects: Mystery Mansion https://store.steampowered.com/app/1576060/Suspects_Mystery_Mansion/
 { "name": "Suspects.exe", "type": "Game" }
 
@@ -3146,6 +3167,9 @@
 
 # Swaying Girl https://store.steampowered.com/app/1393350/Swaying_Girl/
 { "name": "SwayingGirl.exe", "type": "Game" }
+
+# SweatShop https://store.steampowered.com/app/496680/SweatShop/
+{ "name": "SweatShop.exe", "type": "Game" }
 
 # Sweet Transit https://store.steampowered.com/app/1612770/Sweet_Transit/
 { "name": "Sweet Transit.exe", "type": "Game" }

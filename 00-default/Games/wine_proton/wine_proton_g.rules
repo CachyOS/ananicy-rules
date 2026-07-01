@@ -109,6 +109,9 @@
 # Gargadusa's Tower https://store.steampowered.com/app/4377370/Gargadusas_Tower/
 { "name": "GargadusasTower.exe", "type": "Game" }
 
+# Garlic Builder https://store.steampowered.com/app/2512920/Garlic_Builder/
+{ "name": "GarlicBuilder.exe", "type": "Game" }
+
 # Garry's Mod https://store.steampowered.com/app/4000/Garrys_Mod/
 { "name": "gmod.exe", "type": "Game" }
 
@@ -156,6 +159,9 @@
 { "name": "GearCity_ModToolSuite.exe", "type": "Game" }
 { "name": "VideoSettings.exe", "type": "Game" }
 
+# Geareo Demo https://store.steampowered.com/app/4618810/
+{ "name": "geareo.exe", "type": "Game" }
+
 # Gears 5 https://store.steampowered.com/app/1097840/Gears_5/
 { "name": "Gears5.exe", "type": "Game" }
 { "name": "Gears5_EAC.exe", "type": "BG_CPUIO" }
@@ -198,6 +204,10 @@
 # Gems of War - Puzzle RPG https://store.steampowered.com/app/329110/Gems_of_War__Puzzle_RPG/
 { "name": "GemsOfWar.exe", "type": "Game" }
 
+# General Practice Demo https://store.steampowered.com/app/4302890/General_Practice_Demo/
+{ "name": "D1Game.exe", "type": "BG_CPUIO" }
+{ "name": "D1Game-Win64-Shipping.exe", "type": "Game" }
+
 # Generation Zero https://store.steampowered.com/app/704270/Generation_Zero/
 { "name": "GenerationZero_F.exe", "type": "Game" }
 
@@ -224,6 +234,9 @@
 
 # Geometry Wars: Retro Evolved https://store.steampowered.com/app/8400/Geometry_Wars_Retro_Evolved/
 { "name": "GeometryWars.exe", "type": "Game" }
+
+# Gestalt: Steam & Cinder https://store.steampowered.com/app/1231990/Gestalt_Steam__Cinder/
+{ "name": "Gestalt.exe", "type": "Game" }
 
 # GET EVEN https://store.steampowered.com/app/299950/GET_EVEN/
 { "name": "GetEven.exe", "type": "Game" }
@@ -421,6 +434,9 @@
 
 # Godhood https://store.steampowered.com/app/917150/Godhood/
 { "name": "godhood.exe", "type": "Game" }
+
+# Godius https://store.steampowered.com/app/4559140/Godius_Eternal_War/
+{ "name": "Godius.exe", "type": "Game" }
 
 # Godlike Burger https://store.steampowered.com/app/1432910/Godlike_Burger/
 { "name": "Godlike Burger.exe", "type": "Game" }

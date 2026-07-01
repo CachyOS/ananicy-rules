@@ -56,6 +56,9 @@
 # Madoka Magica Magia Exedra https://store.steampowered.com/app/2987800/
 { "name": "MadokaExedra.exe", "type": "Game" }
 
+# Madrobot X https://store.steampowered.com/app/513610/Madrobot_X/
+{ "name": "MadRobot.exe", "type": "Game" }
+
 # Mad Television Tycoon https://store.steampowered.com/app/3565020/Mad_Television_Tycoon/
 { "name": "MadTelevisionTycoon.exe", "type": "BG_CPUIO" }
 { "name": "MadTelevisionTycoon-Win64-Shipping.exe", "type": "Game" }
@@ -639,6 +642,9 @@
 # Meow My Crop! https://store.steampowered.com/app/4201710/Meow_My_Crop/
 { "name": "MeowMyCrop.exe", "type": "Game" }
 
+# Meow Palace: Forbidden City  https://store.steampowered.com/app/3915610/Meow_Palace_Forbidden_City/
+{ "name": "GongMiao.exe", "type": "Game" }
+
 # Mercenaries Lament Requiem of the Silver Wolf https://store.steampowered.com/app/2321040/Mercenaries_Lament_Requiem_of_the_Silver_Wolf/
 { "name": "MercenariesLament.exe", "type": "Game" }
 
@@ -656,6 +662,9 @@
 
 # Merge Nymphs https://store.steampowered.com/app/1460200/
 { "name": "Merge Nymphs.exe", "type": "Game" }
+
+# Merger 3D https://store.steampowered.com/app/527750/Merger_3D/
+{ "name": "Merger3D.exe", "type": "Game" }
 
 # Mesen N******* multi-emulator via wine for SDL2 mouse keys https://www.mesen.ca/
 { "name": "Mesen.exe", "type": "Game" }
@@ -735,9 +744,6 @@
 
 # Metal Waltz https://store.steampowered.com/app/581130/Metal_Waltz_Anime_tank_girls/
 { "name": "Sherman.exe", "type": "Game" }
-
-# Metaphor: ReFantazio https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/
-{ "name": "METAPHOR.exe", "type": "Game" }
 
 # Metro 2033 https://store.steampowered.com/app/43110/Metro_2033/
 { "name": "Metro2033.exe", "type": "Game" }
@@ -1035,6 +1041,9 @@
 # Miss Neko https://store.steampowered.com/app/1101450/Miss_Neko/
 { "name": "Miss Neko.exe", "type": "Game" }
 
+# Miss Neko 3 https://store.steampowered.com/app/2022180/Miss_Neko_3/
+{ "name": "Miss Neko 3.exe", "type": "Game" }
+
 # Mister Furry https://store.steampowered.com/app/1861970/
 { "name": "Mister Furry.exe", "type": "Game" }
 
@@ -1070,6 +1079,9 @@
 
 # MLB 9 Innings Rivals 26 https://store.steampowered.com/app/2569510/MLB_9_Innings_Rivals_26/
 { "name": "MLBRIVALS.exe", "type": "Game" }
+
+# MMA Life Simulator https://store.steampowered.com/app/2655080/
+{ "name": "MMALife.exe", "type": "Game" }
 
 # MMORPG Tycoon 2 https://store.steampowered.com/app/486860/MMORPG_Tycoon_2/
 { "name": "MT2.exe", "type": "Game" }
@@ -1587,6 +1599,9 @@
 
 # MULLET MADJACK https://store.steampowered.com/app/2111190/MULLET_MADJACK/
 { "name": "Mullet Mad Jack.exe", "type": "Game" }
+
+# Mulmiyac for 3D Motion Sickness https://store.steampowered.com/app/3873150/Mulmiyac_for_3D_motion_sickness/
+{ "name": "Mulmiyac for 3D Motion Sickness.exe", "type": "BG_CPUIO" }
 
 # Multi Turret Academy https://store.steampowered.com/app/1869270/Multi_Turret_Academy/
 { "name": "Multi Turret Academy.exe", "type": "Game" }

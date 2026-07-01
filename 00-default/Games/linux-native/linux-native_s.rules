@@ -531,6 +531,9 @@
 # Stranded Deep https://store.steampowered.com/app/313120/Stranded_Deep/
 { "name": "Stranded_Deep", "type": "Game" }
 
+# Stranded in Space https://store.steampowered.com/app/2283780/
+{ "name": "StrandedInSpace", "type": "Game" }
+
 # Stranded In Time https://store.steampowered.com/app/385150/Stranded_In_Time/
 { "name": "StrandedInTime_Linux.x86", "type": "Game" }
 
@@ -634,8 +637,15 @@
 # Surviving Mars https://store.steampowered.com/app/464920/Surviving_Mars/
 { "name": "MarsSteam", "type": "Game" }
 
+# Survivor Strain - Season 1 https://store.steampowered.com/app/2568390/
+{ "name": "SomewhereIBelong", "type": "Game" }
+
 # Sven Co-op https://store.steampowered.com/app/225840/Sven_Coop/
 { "name": "svencoop_linux", "type": "Game" }
+
+# SweatShop https://store.steampowered.com/app/496680/SweatShop/
+{ "name": "SweatShop.x86_64", "type": "Game" }
+{ "name": "SweatShop.x86", "type": "Game" }
 
 # SWORDHAVEN https://store.steampowered.com/app/2108180/Swordhaven_Iron_Conspiracy/
 { "name": "Swordhaven.x86_64", "type": "Game" }

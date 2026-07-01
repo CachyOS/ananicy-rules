@@ -132,6 +132,9 @@
 { "name": "Aces Mod Manager.exe", "type": "BG_CPUIO" }
 { "name": "LeadPipe.exe", "type": "BG_CPUIO" }
 
+# Fallen / Brand New World https://store.steampowered.com/app/3561400/
+{ "name": "fallen.exe", "type": "Game" }
+
 # Fallen Earth Free2Play https://store.steampowered.com/app/113420/Fallen_Earth_Classic/
 { "name": "Frontend.exe", "type": "Game" }
 
@@ -224,6 +227,9 @@
 
 # FANTATALE https://store.steampowered.com/app/3301040/FANTATALE/
 { "name": "fantatale.publish_live.exe", "type": "Game" }
+
+# Farabel https://store.steampowered.com/app/364200/Farabel/
+{ "name": "Farabel.exe", "type": "Game" }
 
 # FAR: Changing Tides https://store.steampowered.com/app/1570010/FAR_Changing_Tides/
 { "name": "FarChangingTides.exe", "type": "Game" }

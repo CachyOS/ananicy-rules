@@ -14,6 +14,10 @@
 # Vacuum Warrior https://store.steampowered.com/app/2302990/Vacuum_Warrior__Idle_Game/
 { "name": "VacuumWarrior.exe", "type": "Game" }
 
+# Vae Victis - Khan https://store.steampowered.com/app/2540230/
+{ "name": "Khan.exe", "type": "Game" }
+{ "name": "Khan-32.exe", "type": "Game" }
+
 # Vagante https://store.steampowered.com/app/323220/Vagante/
 { "name": "vagante.exe", "type": "Game" }
 
@@ -333,6 +337,9 @@
 
 # Volgarr the Viking https://store.steampowered.com/app/247240/Volgarr_the_Viking/
 { "name": "Volgarr.exe", "type": "Game" }
+
+# Volkolak: The Will of Gods https://store.steampowered.com/app/2499040/Volkolak_The_Will_of_Gods/
+{ "name": "Volkolak.exe", "type": "Game" }
 
 # Volley Court https://store.steampowered.com/app/2175250/Volley_Court/
 { "name": "VolleyCourt.exe", "type": "Game" }
