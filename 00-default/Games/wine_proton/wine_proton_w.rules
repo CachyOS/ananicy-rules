@@ -43,6 +43,28 @@
 { "name": "webview2runtime.exe", "type": "BG_CPUIO" }
 { "name": "WallpaperPlay.exe", "type": "BG_CPUIO" }
 
+# Wallpaper Animator https://store.steampowered.com/app/4484970/Wallpaper_Animator/
+{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
+
+# Warfare Legacy Collection https://store.steampowered.com/app/2745870/Warfare_Legacy_Collection/
+{ "name": "Warfare.exe", "type": "Game" }
+
+# Ways of Alchemy https://store.steampowered.com/app/2915380/Ways_of_Alchemy/
+{ "name": "WaysOfAlchemy.exe", "type": "Game" }
+
+# Western Adventure https://store.steampowered.com/app/562710/
+{ "name": "game.exe", "type": "Game" }
+
+# Wheel Make It Demo https://store.steampowered.com/app/4594340/Wheel_Make_It_Demo/
+{ "name": "Wheel Make It.exe", "type": "Game" }
+
+# Wicked Island Demo https://store.steampowered.com/app/2462490/
+{ "name": "WickedIsland.exe", "type": "BG_CPUIO" }
+{ "name": "WickedIsland-Win64-Shipping.exe", "type": "Game" }
+
+# Wordle 2 https://store.steampowered.com/app/1386730/Wordle_2/
+{ "name": "wordle2.exe", "type": "Game" }
+
 # Wall Street Raider https://store.steampowered.com/app/3525620/Wall_Street_Raider/
 { "name": "wsr10.exe", "type": "Game" }
 

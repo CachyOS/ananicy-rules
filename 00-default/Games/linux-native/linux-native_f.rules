@@ -24,6 +24,10 @@
 # Fake Lay https://store.steampowered.com/app/1191420/
 { "name": "fakelay", "type": "Game" }
 
+# Farabel https://store.steampowered.com/app/364200/Farabel/
+{ "name": "Farabel.x86_64", "type": "Game" }
+{ "name": "Farabel.x86", "type": "Game" }
+
 # Fantasy Online 2 https://store.steampowered.com/app/2957110/Fantasy_Online_2/
 { "name": "fov4-steam", "type": "Game" }
 

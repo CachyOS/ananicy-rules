@@ -52,6 +52,16 @@
 { "name": "FactoryServer-Linux-Shipping", "type": "Service" }
 { "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Service" }
 
+# Stranded in Space https://store.steampowered.com/app/2283780/
+{ "name": "StrandedInSpace", "type": "Game" }
+
+# Survivor Strain - Season 1 https://store.steampowered.com/app/2568390/
+{ "name": "SomewhereIBelong", "type": "Game" }
+
+# SweatShop https://store.steampowered.com/app/496680/SweatShop/
+{ "name": "SweatShop.x86_64", "type": "Game" }
+{ "name": "SweatShop.x86", "type": "Game" }
+
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
 

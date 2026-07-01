@@ -257,6 +257,53 @@
 { "name": "sbox-launcher.exe", "type": "BG_CPUIO" }
 { "name": "sbox-server.exe", "type": "Service" }
 
+# SandTable War: Three Kingdoms Demo https://store.steampowered.com/app/3888200/SandTable_War_Three_Kingdoms_Demo/
+{ "name": "tk.exe", "type": "Game" }
+
+# Sandustry Demo https://store.steampowered.com/app/3490390/Sandustry_Demo/
+{ "name": "sandustrydemo.exe", "type": "Game" }
+
+# Scratch the Ticket Demo https://store.steampowered.com/app/4821810/Scratch_the_Ticket_Demo/
+{ "name": "LotteryTicket.exe", "type": "BG_CPUIO" }
+{ "name": "LotteryTicket-Win64-Shipping.exe", "type": "Game" }
+
+# Sex, Secrets & Used Tech https://store.steampowered.com/app/3576350/
+{ "name": "ElectronicsThriftStore.exe", "type": "Game" }
+
+# Shin Megami Tensei V: Vengeance Demo https://store.steampowered.com/app/3185590/
+{ "name": "SMT5V.exe", "type": "BG_CPUIO" }
+{ "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
+
+# Simmiland https://store.steampowered.com/app/932850/Simmiland/
+{ "name": "simmiland.exe", "type": "Game" }
+
+# Sky Realm Idle https://store.steampowered.com/app/1580820/Sky_Realm_Idle/
+{ "name": "Sky Realm Idle.exe", "type": "Game" }
+
+# Slice To Meet You https://store.steampowered.com/app/4768660/Slice_To_Meet_You/
+{ "name": "Slice To Meet You.exe", "type": "Game" }
+
+# Smash Hit Museum https://store.steampowered.com/app/4182480/Smash_Hit_Museum/
+{ "name": "Smash Hit Museum.exe", "type": "Game" }
+
+# Stranded in Space https://store.steampowered.com/app/2283780/
+{ "name": "StrandedInSpace.exe", "type": "Game" }
+
+# STRANGER SAGA -流れ者バッチとイスキエルドの野望- https://store.steampowered.com/app/3821860/STRANGER_SAGA_Stranger_Bach_and_Iskiyelds_Ambition/
+{ "name": "game.exe", "type": "Game" }
+
+# Sunset Hills https://store.steampowered.com/app/1791590/Sunset_Hills/
+{ "name": "SunsetHills.exe", "type": "Game" }
+
+# Supermarket Chaos https://store.steampowered.com/app/4800590/Supermarket_Chaos/
+{ "name": "Supermarket Chaos.exe", "type": "Game" }
+
+# Survivor Strain - Season 1 https://store.steampowered.com/app/2568390/
+{ "name": "SomewhereIBelong.exe", "type": "Game" }
+
+# SweatShop https://store.steampowered.com/app/496680/SweatShop/
+{ "name": "SweatShop.exe", "type": "Game" }
+
 # Scam Center Simulator: Prologue https://store.steampowered.com/app/4199360/Scam_Center_Simulator_Prologue/
 { "name": "Scam Center SImulator Prologue.exe", "type": "Game" }
 

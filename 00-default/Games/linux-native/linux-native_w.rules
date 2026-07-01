@@ -42,6 +42,12 @@
 { "name": "SteamLauncher", "type": "Game" }
 { "name": "GlyphEngine", "type": "Game" }
 
+# Wallpaper Animator https://store.steampowered.com/app/4484970/Wallpaper_Animator/
+{ "name": "AppRun", "type": "BG_CPUIO" }
+
+# Warfare Legacy Collection https://store.steampowered.com/app/2745870/Warfare_Legacy_Collection/
+{ "name": "wflc-linux.x86_64", "type": "Game" }
+
 # Warside https://store.steampowered.com/app/2368300/Warside/
 { "name": "Warside.x86_64", "type": "Game" }
 

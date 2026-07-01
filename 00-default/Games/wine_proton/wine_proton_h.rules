@@ -80,6 +80,26 @@
 # Halo Infinite https://store.steampowered.com/app/1240440/Halo_Infinite/
 { "name": "HaloInfinite.exe", "type": "Game" }
 
+# Happy Endings Demo https://store.steampowered.com/app/4738790/
+{ "name": "Happy Endings.exe", "type": "Game" }
+
+# Headsnatchers https://store.steampowered.com/app/797410/Headsnatchers/
+{ "name": "Headsnatchers.exe", "type": "BG_CPUIO" }
+{ "name": "Headsnatchers-Win64-Shipping.exe", "type": "Game" }
+
+# Heart Cage https://store.steampowered.com/app/2570850/
+{ "name": "HeartCage_1.0.exe", "type": "Game" }
+
+# Hero's Journey https://store.steampowered.com/app/2069640/
+{ "name": "HerosJourney.exe", "type": "BG_CPUIO" }
+{ "name": "HerosJourney-Win64-Shipping.exe", "type": "Game" }
+
+# Horizon's Gate https://store.steampowered.com/app/1224290/Horizons_Gate/
+{ "name": "BoatTactics.exe", "type": "Game" }
+
+# Hot Springs Story 2 https://store.steampowered.com/app/2089450/Hot_Springs_Story_2/
+{ "name": "KairoGames.exe", "type": "Game" }
+
 # Halo PC Dedicated Server (Trial/Demo, Retail, Custom Edition) https://web.archive.org/web/20031012122205/http://halo.bungie.net/site/halo/features/halopc.html
 { "name": "haloded.exe", "type": "Service" }
 { "name": "haloceded.exe", "type": "Service" }
