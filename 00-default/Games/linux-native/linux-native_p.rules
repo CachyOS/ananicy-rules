@@ -33,9 +33,6 @@
 # Papo & Yo https://store.steampowered.com/app/227080/Papo__Yo/
 { "name": "PYGame-Linux", "type": "Game" }
 
-# Parasite Black https://store.steampowered.com/app/2174500/
-{ "name": "ParasiteBlack", "type": "Game" }
-
 # Paradise Lust https://store.steampowered.com/app/1427860/
 { "name": "paradise_lust.x86_64", "type": "Game" }
 
@@ -44,6 +41,9 @@
 
 # Paranautical Activity: Deluxe Atonement Edition https://store.steampowered.com/app/250580/Paranautical_Activity_Deluxe_Atonement_Edition/
 { "name": "Paranautical Activity.x86", "type": "Game" }
+
+# Parasite Black https://store.steampowered.com/app/2174500/
+{ "name": "ParasiteBlack", "type": "Game" }
 
 # Parking Garage Rally Circuit https://store.steampowered.com/app/2737300/Parking_Garage_Rally_Circuit/
 { "name": "garagerally.x86_64", "type": "Game" }

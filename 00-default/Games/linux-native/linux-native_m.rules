@@ -30,9 +30,6 @@
 # Mainframe Defenders https://store.steampowered.com/app/1184810/Mainframe_Defenders/
 { "name": "Mainframe.x86_64", "type": "Game" }
 
-# MMA Life Simulator https://store.steampowered.com/app/2655080/
-{ "name": "MMALife.x86_64", "type": "Game" }
-
 # Make it indie! https://store.steampowered.com/app/357900/Make_it_indie/
 { "name": "MII.x86", "type": "Game" }
 { "name": "MII.x86_64", "type": "Game" }
@@ -185,6 +182,9 @@
 
 # Mist Legacy https://store.steampowered.com/app/1259440/Mist_Legacy/
 { "name": "mistlegacy.x86_64", "type": "Game" }
+
+# MMA Life Simulator https://store.steampowered.com/app/2655080/
+{ "name": "MMALife.x86_64", "type": "Game" }
 
 # MMORPG Tycoon 2 https://store.steampowered.com/app/486860/MMORPG_Tycoon_2/
 { "name": "MT2", "type": "Game" }

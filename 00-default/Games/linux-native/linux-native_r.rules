@@ -35,9 +35,6 @@
 # Reassembly https://store.steampowered.com/app/329130/Reassembly/
 { "name": "ReassemblySteam64", "type": "Game" }
 
-# Reclaiming the Lost https://store.steampowered.com/app/3112280/
-{ "name": "ReclaimingtheLost", "type": "Game" }
-
 # Rebel Cops https://store.steampowered.com/app/970960/Rebel_Cops/
 { "name": "Rebel Cops.x86_64", "type": "Game" }
 
@@ -46,6 +43,9 @@
 
 # Receiver 2 https://store.steampowered.com/app/1129310/Receiver_2/
 { "name": "Receiver2", "type": "Game" }
+
+# Reclaiming the Lost https://store.steampowered.com/app/3112280/
+{ "name": "ReclaimingtheLost", "type": "Game" }
 
 # Red Orchestra: Ostfront 41-45 https://store.steampowered.com/app/1200/Red_Orchestra_Ostfront_4145/
 { "name": "redorchestra-bin", "type": "Game" }

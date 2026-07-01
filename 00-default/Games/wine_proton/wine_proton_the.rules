@@ -40,17 +40,6 @@
 # The Baby in Yellow https://store.steampowered.com/app/2291340/The_Baby_In_Yellow/
 { "name": "GameSteam-Win64-Shipping.exe", "type": "Game" }
 
-# The Ember Guardian https://store.steampowered.com/app/3570060/The_Ember_Guardian/
-{ "name": "The Ember Guardian.exe", "type": "Game" }
-
-# The End of History https://store.steampowered.com/app/2953520/The_End_of_History/
-{ "name": "History_Game.exe", "type": "BG_CPUIO" }
-{ "name": "History_Game-Win64-DebugGame.exe", "type": "Game" }
-{ "name": "History_Game-Win64-Shipping.exe", "type": "Game" }
-
-# The Ratline https://store.steampowered.com/app/3756940/The_Ratline/
-{ "name": "Ratlines.exe", "type": "Game" }
-
 # The Backrooms Deluxe 2 https://store.steampowered.com/app/4066790/The_Backrooms_Deluxe_2/
 { "name": "Deluxe2.exe", "type": "BG_CPUIO" }
 { "name": "Deluxe2-Win64-Shipping.exe", "type": "Game" }
@@ -335,6 +324,9 @@
 # The Elder Scrolls V: Skyrim VR https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/
 { "name": "SkyrimVR.exe", "type": "Game" }
 
+# The Ember Guardian https://store.steampowered.com/app/3570060/The_Ember_Guardian/
+{ "name": "The Ember Guardian.exe", "type": "Game" }
+
 # The Emperor and State https://store.steampowered.com/app/2716930/The_Emperor_and_State/
 { "name": "TheEmperorAndState.exe", "type": "Game" }
 
@@ -344,6 +336,11 @@
 
 # The Endless Abyss: A Busty Cop’s Corrupted Soul https://store.steampowered.com/app/2651410/
 { "name": "The_Endless_Abyss.exe", "type": "Game" }
+
+# The End of History https://store.steampowered.com/app/2953520/The_End_of_History/
+{ "name": "History_Game.exe", "type": "BG_CPUIO" }
+{ "name": "History_Game-Win64-DebugGame.exe", "type": "Game" }
+{ "name": "History_Game-Win64-Shipping.exe", "type": "Game" }
 
 # The Enjenir https://store.steampowered.com/app/1800940/The_Enjenir_The_Engineering_Physics_Building_Simulator/
 { "name": "The_Enjenir.exe", "type": "BG_CPUIO" }
@@ -988,6 +985,9 @@
 # The Ranch of Rivershine https://store.steampowered.com/app/1559600/The_Ranch_of_Rivershine/
 { "name": "TheRanchOfRivershine.exe", "type": "BG_CPUIO" }
 { "name": "TheRanchOfRivershine-Win64-Shipping.exe", "type": "Game" }
+
+# The Ratline https://store.steampowered.com/app/3756940/The_Ratline/
+{ "name": "Ratlines.exe", "type": "Game" }
 
 # The Red Lantern https://store.steampowered.com/app/1053710/The_Red_Lantern/
 { "name": "TheRedLantern_sw.exe", "type": "Game" }

@@ -8,6 +8,9 @@
 # Labyrinthine https://store.steampowered.com/app/1302240/Labyrinthine/
 { "name": "Labyrinthine.exe", "type": "Game" }
 
+# Labyrinth of Aetheria https://store.steampowered.com/app/3301710/Labyrinth_of_Aetheria/
+{ "name": "aetheria_win.exe", "type": "Game" }
+
 # Labyrinth of Galleria: The Moon Society https://store.steampowered.com/app/1998340/Labyrinth_of_Galleria_The_Moon_Society/
 { "name": "LabyrinthOfGalleria.exe", "type": "Game" }
 
@@ -30,27 +33,6 @@
 # Laika: Aged Through Blood https://store.steampowered.com/app/1796220/Laika_Aged_Through_Blood/
 { "name": "Laika Aged through Blood.exe", "type": "Game" }
 
-# Labyrinth of Aetheria https://store.steampowered.com/app/3301710/Labyrinth_of_Aetheria/
-{ "name": "aetheria_win.exe", "type": "Game" }
-
-# Land Drifters https://store.steampowered.com/app/2294720/Land_Drifters/
-{ "name": "Land Drifters.exe", "type": "Game" }
-
-# Langrisser I & II https://store.steampowered.com/app/1060220/Langrisser_I__II/
-{ "name": "Langrisser I & II.exe", "type": "Game" }
-
-# Liveza: Death of the Earth https://store.steampowered.com/app/463100/Liveza_Death_of_the_Earth/
-{ "name": "Liveza-Death Of The Earth.exe", "type": "Game" }
-
-# Logic Town https://store.steampowered.com/app/2333240/Logic_Town/
-{ "name": "Logic Town.exe", "type": "Game" }
-
-# LORED https://store.steampowered.com/app/3418150/LORED/
-{ "name": "LORED.exe", "type": "Game" }
-
-# Love Confessions on the Adventure https://store.steampowered.com/app/3633750/
-{ "name": "冒險途中全員告白.exe", "type": "Game" }
-
 # Lake https://store.steampowered.com/app/1118240/Lake/
 { "name": "Lake.exe", "type": "Game" }
 
@@ -69,6 +51,9 @@
 # La-Mulana https://store.steampowered.com/app/230700/LaMulana/
 { "name": "LaMulanaWin.exe", "type": "Game" }
 
+# Land Drifters https://store.steampowered.com/app/2294720/Land_Drifters/
+{ "name": "Land Drifters.exe", "type": "Game" }
+
 # Landfall Archives https://store.steampowered.com/app/2353760/Landfall_Archives/
 { "name": "Airships 2.exe", "type": "Game" }
 
@@ -78,6 +63,9 @@
 # Land of the Vikings https://store.steampowered.com/app/1981570/Land_of_the_Vikings/
 { "name": "VikingOyunu.exe", "type": "BG_CPUIO" }
 { "name": "VikingOyunu-Win64-Shipping.exe", "type": "Game" }
+
+# Langrisser I & II https://store.steampowered.com/app/1060220/Langrisser_I__II/
+{ "name": "Langrisser I & II.exe", "type": "Game" }
 
 # L.A. Noire https://store.steampowered.com/app/110800/LA_Noire/
 { "name": "LANoire.exe", "type": "Game" }
@@ -639,6 +627,9 @@
 # Live Wallpaper https://store.steampowered.com/app/4056970/Live_Wallpaper/
 { "name": "Wallpaper.exe", "type": "BG_CPUIO" }
 
+# Liveza: Death of the Earth https://store.steampowered.com/app/463100/Liveza_Death_of_the_Earth/
+{ "name": "Liveza-Death Of The Earth.exe", "type": "Game" }
+
 # LivingBattle https://store.steampowered.com/app/3353830/LivingBattle/
 { "name": "LivingBattle.exe", "type": "Game" }
 
@@ -667,6 +658,9 @@
 
 # Loddlenaut https://store.steampowered.com/app/1644940/Loddlenaut/
 { "name": "Loddlenaut.exe", "type": "Game" }
+
+# Logic Town https://store.steampowered.com/app/2333240/Logic_Town/
+{ "name": "Logic Town.exe", "type": "Game" }
 
 # LOGistICAL: Earth https://store.steampowered.com/app/672150/LOGistICAL_3_Earth/
 { "name": "LogisticalApp.exe", "type": "Game" }
@@ -742,6 +736,9 @@
 # Lords of the Realm II https://store.steampowered.com/app/397350/Lords_of_the_Realm_II/
 { "name": "LOTR2Launcher.exe", "type": "Game" }
 { "name": "Lords2.exe", "type": "Game" }
+
+# LORED https://store.steampowered.com/app/3418150/LORED/
+{ "name": "LORED.exe", "type": "Game" }
 
 # Lorelei and the Laser Eyes https://store.steampowered.com/app/2008920/Lorelei_and_the_Laser_Eyes/
 { "name": "Lorelei and the Laser Eyes.exe", "type": "Game" }
@@ -844,6 +841,9 @@
 
 # LoveChoice https://store.steampowered.com/app/939400/LoveChoice/
 { "name": "LoveChoice.exe", "type": "Game" }
+
+# Love Confessions on the Adventure https://store.steampowered.com/app/3633750/
+{ "name": "冒險途中全員告白.exe", "type": "Game" }
 
 # LoveCraft https://store.steampowered.com/app/2692440/
 { "name": "Curio.exe", "type": "Game" }

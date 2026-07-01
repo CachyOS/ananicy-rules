@@ -26,12 +26,6 @@
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
-# Happy Endings Demo https://store.steampowered.com/app/4738790/
-{ "name": "happy-endings", "type": "Game" }
-
-# Heart Cage https://store.steampowered.com/app/2570850/
-{ "name": "HeartCage_1.0", "type": "Game" }
-
 # Half-Life Deathmatch: Source https://store.steampowered.com/app/360/HalfLife_Deathmatch_Source/
 { "name": "hl1mp_linux64", "type": "Game" }
 
@@ -64,6 +58,9 @@
 { "name": "Hand of Fate 2.x86", "type": "Game" }
 { "name": "Hand of Fate 2.x86_64", "type": "Game" }
 
+# Happy Endings Demo https://store.steampowered.com/app/4738790/
+{ "name": "happy-endings", "type": "Game" }
+
 # Hard West https://store.steampowered.com/app/307670/Hard_West/
 { "name": "HardWest.x86", "type": "Game" }
 { "name": "HardWest.x86_64", "type": "Game" }
@@ -79,6 +76,9 @@
 
 # Heads Will Roll: Reforged https://store.steampowered.com/app/687800/Heads_Will_Roll_Reforged/
 { "name": "headswillroll_reforged", "type": "Game" }
+
+# Heart Cage https://store.steampowered.com/app/2570850/
+{ "name": "HeartCage_1.0", "type": "Game" }
 
 # Hearts of Iron IV https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/
 { "name": "hoi4", "type": "Game" }

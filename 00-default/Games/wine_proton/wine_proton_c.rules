@@ -20,31 +20,6 @@
 # Caesar 3 https://store.steampowered.com/app/517790/Caesar_3/
 { "name": "c3.exe", "type": "Game" }
 
-# Calamity Beta https://store.steampowered.com/app/3919560/
-{ "name": "calamity.exe", "type": "Game" }
-
-# Children of a Dead Earth https://store.steampowered.com/app/476530/Children_of_a_Dead_Earth/
-{ "name": "CDE.exe", "type": "Game" }
-
-# City Lights Love Bites Season 1 - The Reset https://store.steampowered.com/app/4773840/
-{ "name": "CityLightsandLoveBitesSeason1.exe", "type": "Game" }
-
-# Code RAPID Demo https://store.steampowered.com/app/4841090/Code_RAPID_Demo/
-{ "name": "Project_Rapid.exe", "type": "BG_CPUIO" }
-{ "name": "Project_Rapid-Win64-Shipping.exe", "type": "Game" }
-
-# Coin Tavern Demo https://store.steampowered.com/app/4563820/Coin_Tavern_Demo/
-{ "name": "Coin Tavern.exe", "type": "Game" }
-
-# Community Button https://store.steampowered.com/app/4546840/Community_Button/
-{ "name": "Community Button.exe", "type": "Game" }
-
-# Cozy Mining https://store.steampowered.com/app/4283650/Cozy_Mining/
-{ "name": "CozyMining.exe", "type": "Game" }
-
-# Cybarian: The Time Travelling Warrior https://store.steampowered.com/app/928840/Cybarian_The_Time_Travelling_Warrior/
-{ "name": "Cybarian.exe", "type": "Game" }
-
 # Caesar IV https://store.steampowered.com/app/517810/Caesar_IV/
 { "name": "C4Exec.exe", "type": "Game" }
 { "name": "CaesarIV.exe", "type": "Game" }
@@ -60,6 +35,9 @@
 
 # Cakey's Twisted Bakery https://store.steampowered.com/app/3028500/Cakeys_Twisted_Bakery/
 { "name": "Cakey's Twisted Bakery.exe", "type": "Game" }
+
+# Calamity Beta https://store.steampowered.com/app/3919560/
+{ "name": "calamity.exe", "type": "Game" }
 
 # Caliber https://store.steampowered.com/app/307950/Caliber/
 { "name": "SARDRunner.exe", "type": "Game" }
@@ -693,6 +671,9 @@
 # Child of Light https://store.steampowered.com/app/256290/Child_of_Light/
 { "name": "ChildofLight.exe", "type": "Game" }
 
+# Children of a Dead Earth https://store.steampowered.com/app/476530/Children_of_a_Dead_Earth/
+{ "name": "CDE.exe", "type": "Game" }
+
 # Children of Morta https://store.steampowered.com/app/330020/Children_of_Morta/
 { "name": "ChildrenOfMorta.exe", "type": "Game" }
 
@@ -865,6 +846,9 @@
 
 # City Lights Love Bites Season 0 https://store.steampowered.com/app/3011560/
 { "name": "CityLightsandLoveBites.exe", "type": "Game" }
+
+# City Lights Love Bites Season 1 - The Reset https://store.steampowered.com/app/4773840/
+{ "name": "CityLightsandLoveBitesSeason1.exe", "type": "Game" }
 
 # City of Gangsters https://store.steampowered.com/app/1386780/City_of_Gangsters/
 { "name": "CoG.exe", "type": "Game" }
@@ -1057,6 +1041,10 @@
 # Codename Gordon https://store.steampowered.com/app/92/
 { "name": "cg.exe", "type": "Game" }
 
+# Code RAPID Demo https://store.steampowered.com/app/4841090/Code_RAPID_Demo/
+{ "name": "Project_Rapid.exe", "type": "BG_CPUIO" }
+{ "name": "Project_Rapid-Win64-Shipping.exe", "type": "Game" }
+
 # CODE VEIN https://store.steampowered.com/app/678960/CODE_VEIN/
 { "name": "CodeVein.exe", "type": "BG_CPUIO" }
 { "name": "CodeVein-Win64-Shipping.exe", "type": "Game" }
@@ -1097,6 +1085,9 @@
 
 # Coins https://store.steampowered.com/app/3083090/Coins/
 { "name": "Coins.exe", "type": "Game" }
+
+# Coin Tavern Demo https://store.steampowered.com/app/4563820/Coin_Tavern_Demo/
+{ "name": "Coin Tavern.exe", "type": "Game" }
 
 # Cold Fear https://store.steampowered.com/app/15270/Cold_Fear/
 { "name": "coldfear_retail.exe", "type": "Game" }
@@ -1239,6 +1230,9 @@
 # Commandos: Origins https://store.steampowered.com/app/1479730/Commandos_Origins/
 { "name": "Commandos.exe", "type": "BG_CPUIO" }
 { "name": "Commandos-Win64-Shipping.exe", "type": "Game" }
+
+# Community Button https://store.steampowered.com/app/4546840/Community_Button/
+{ "name": "Community Button.exe", "type": "Game" }
 
 # Company of Heroes 2 https://store.steampowered.com/app/231430/Company_of_Heroes_2/
 { "name": "RelicCoH2.exe", "type": "Game" }
@@ -1484,6 +1478,9 @@
 
 # Cozy Island https://store.steampowered.com/app/2918500/Cozy_Island/
 { "name": "CozyIsland.exe", "type": "Game" }
+
+# Cozy Mining https://store.steampowered.com/app/4283650/Cozy_Mining/
+{ "name": "CozyMining.exe", "type": "Game" }
 
 # CPUCores :: Maximize Your FPS https://store.steampowered.com/app/384300/CPUCores__Maximize_Your_FPS/
 { "name": "cpucores.exe", "type": "Game" }
@@ -1873,6 +1870,9 @@
 
 # CYAN BRAIN https://store.steampowered.com/app/3975510/
 { "name": "CYANBRAIN.exe", "type": "Game" }
+
+# Cybarian: The Time Travelling Warrior https://store.steampowered.com/app/928840/Cybarian_The_Time_Travelling_Warrior/
+{ "name": "Cybarian.exe", "type": "Game" }
 
 # Cyber Hook https://store.steampowered.com/app/1130410/Cyber_Hook/
 { "name": "CyberHook.exe", "type": "Game" }

@@ -16,18 +16,6 @@
 # Aces of Thunder https://store.steampowered.com/app/2754090/Aces_of_Thunder/
 { "name": "aces.exe", "type": "Game" }
 
-# Digimon Story Time Stranger Demo https://store.steampowered.com/app/3815860/Digimon_Story_Time_Stranger_Demo/
-# Digimon Story Time Stranger https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/
-{ "name": "Digimon Story Time Stranger.exe", "type": "Game" }
-
-# Sex, Secrets & Used Tech https://store.steampowered.com/app/3576350/
-# Sex, Secrets & Used Tech Demo https://store.steampowered.com/app/3709920/
-{ "name": "ElectronicsThriftStore.exe", "type": "Game" }
-
-# Detroit Become Human https://store.steampowered.com/app/1222140/Detroit_Become_Human/
-# Detroit: Become Human Demo https://store.steampowered.com/app/1224230/
-{ "name": "DetroitBecomeHuman.exe", "type": "Game" }
-
 # Age of Darkness: Final Stand https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/
 # Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
 { "name": "Achilles.exe", "type": "BG_CPUIO" }
@@ -35,10 +23,6 @@
 # Age of Darkness: Final Stand https://store.steampowered.com/app/1426450/Age_of_Darkness_Final_Stand/
 # Achilles: Legends Untold https://store.steampowered.com/app/1314000/Achilles_Legends_Untold/
 { "name": "Achilles-Win64-Shipping.exe", "type": "Game" }
-
-# Fàngzhì dìláo Demo 放置地牢 Demo https://store.steampowered.com/app/4446190/AutoDungeon_Demo/
-# Fàngzhì dìláo 放置地牢 https://store.steampowered.com/app/2434370/Auto_DungeonIdle_Adventure/
-{ "name": "AutoDungeon.exe", "type": "Game" }
 
 # Substance 3D Designer 2022 https://store.steampowered.com/app/1775400/Substance_3D_Designer_2022/
 # Substance 3D Designer 2023 https://store.steampowered.com/app/2200010/Substance_3D_Designer_2023/
@@ -146,6 +130,10 @@
 # How to Make an Atomic Bomb in Your Garden Demo https://store.steampowered.com/app/3761970/
 # How to Make an Atomic Bomb in Your Garden https://store.steampowered.com/app/3700980/How_to_Make_an_Atomic_Bomb_in_Your_Garden/
 { "name": "atom-Win64-Shipping.exe", "type": "Game" }
+
+# Fàngzhì dìláo Demo 放置地牢 Demo https://store.steampowered.com/app/4446190/AutoDungeon_Demo/
+# Fàngzhì dìláo 放置地牢 https://store.steampowered.com/app/2434370/Auto_DungeonIdle_Adventure/
+{ "name": "AutoDungeon.exe", "type": "Game" }
 
 # Life Makeover https://store.steampowered.com/app/2626940/Life_Makeover/
 # Life Makeover https://store.steampowered.com/app/2440960/
@@ -426,6 +414,10 @@
 # How to Survive 2 https://store.steampowered.com/app/360170/How_to_Survive_2/
 { "name": "Detect.exe", "type": "Game" }
 
+# Detroit Become Human https://store.steampowered.com/app/1222140/Detroit_Become_Human/
+# Detroit: Become Human Demo https://store.steampowered.com/app/1224230/
+{ "name": "DetroitBecomeHuman.exe", "type": "Game" }
+
 # Soldier Front 2 https://store.steampowered.com/app/239660/Soldier_Front_2/
 # S.K.I.L.L. - Special Force 2 (Shooter) https://store.steampowered.com/app/286940/SKILL__Special_Force_2_Shooter/
 { "name": "DFUBG.exe", "type": "Game" }
@@ -445,6 +437,10 @@
 # Digger Online https://store.steampowered.com/app/278970/Digger_Online/
 # Digger: Galactic Treasures https://store.steampowered.com/app/3604430/Digger_Galactic_Treasures/
 { "name": "Digger.exe", "type": "Game" }
+
+# Digimon Story Time Stranger Demo https://store.steampowered.com/app/3815860/Digimon_Story_Time_Stranger_Demo/
+# Digimon Story Time Stranger https://store.steampowered.com/app/1984270/Digimon_Story_Time_Stranger/
+{ "name": "Digimon Story Time Stranger.exe", "type": "Game" }
 
 # DiRT 3 https://steamdb.info/app/44320/
 # DiRT 3 Complete Edition https://store.steampowered.com/app/321040/
@@ -605,6 +601,10 @@
 # Edna & Harvey: The Breakout https://store.steampowered.com/app/255320/Edna__Harvey_The_Breakout/
 # Edna & Harvey: The Breakout - Anniversary Edition https://store.steampowered.com/app/959000/Edna__Harvey_The_Breakout__Anniversary_Edition/
 { "name": "edna.exe", "type": "Game" }
+
+# Sex, Secrets & Used Tech https://store.steampowered.com/app/3576350/
+# Sex, Secrets & Used Tech Demo https://store.steampowered.com/app/3709920/
+{ "name": "ElectronicsThriftStore.exe", "type": "Game" }
 
 # The Adventures of Elliot: The Millennium Tales Prologue Demo https://store.steampowered.com/app/4126310/
 # The Adventures of Elliot: The Millennium Tales https://store.steampowered.com/app/3483510/The_Adventures_of_Elliot_The_Millennium_Tales/
@@ -1431,14 +1431,6 @@
 # Yùwàng wángzuò 慾望王座 https://store.steampowered.com/app/4496710/
 { "name": "Launcher.exe", "type": "Game" }
 
-# Metaphor: ReFantazio - Prologue Demo https://store.steampowered.com/app/3130330/Metaphor_ReFantazio__Prologue_Demo/
-# Metaphor: ReFantazio https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/
-{ "name": "METAPHOR.exe", "type": "Game" }
-
-# Nioh 3 Demo https://store.steampowered.com/app/4198760/
-# Nioh 3 https://store.steampowered.com/app/3681010/Nioh_3/
-{ "name": "Nioh3.exe", "type": "Game" }
-
 # 7,62 Hard Life https://store.steampowered.com/app/306290/762_Hard_Life/
 # Faces of War https://store.steampowered.com/app/289300/Faces_of_War/
 # Soldiers: Heroes of World War II - Enhanced Edition https://store.steampowered.com/app/11480/Soldiers_Heroes_of_World_War_II__Enhanced_Edition/
@@ -1552,6 +1544,10 @@
 # MechWarrior 5: Mercenaries https://store.steampowered.com/app/784080/MechWarrior_5_Mercenaries/
 { "name": "MechWarrior-Win64-Shipping.exe", "type": "Game" }
 
+# Metaphor: ReFantazio - Prologue Demo https://store.steampowered.com/app/3130330/Metaphor_ReFantazio__Prologue_Demo/
+# Metaphor: ReFantazio https://store.steampowered.com/app/2679460/Metaphor_ReFantazio/
+{ "name": "METAPHOR.exe", "type": "Game" }
+
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 { "name": "metro_benchmark.exe", "type": "Game" }
@@ -1657,6 +1653,10 @@
 # Wolfenstein II: The New Colossus German Edition https://store.steampowered.com/app/650500/
 { "name": "NewColossus_x64vk.exe", "type": "Game" }
 
+# Nioh 3 Demo https://store.steampowered.com/app/4198760/
+# Nioh 3 https://store.steampowered.com/app/3681010/Nioh_3/
+{ "name": "Nioh3.exe", "type": "Game" }
+
 # NOBUNAGA'S AMBITION: Souzou with Power Up Kit https://store.steampowered.com/app/288390/
 # NOBUNAGA'S AMBITION: Sphere of Influence https://store.steampowered.com/app/392470/NOBUNAGAS_AMBITION_Sphere_of_Influence/
 { "name": "NOBU14PK.exe", "type": "Game" }
@@ -1672,14 +1672,6 @@
 # Nova Roma https://store.steampowered.com/app/2426530/Nova_Roma/
 # Nova Roma Demo https://store.steampowered.com/app/2426560/Nova_Roma_Demo/
 { "name": "NovaRoma.exe", "type": "Game" }
-
-# Shin Megami Tensei V: Vengeance Demo https://store.steampowered.com/app/3185590/
-# Shin Megami Tensei V: Vengeance https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
-{ "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
-
-# Shin Megami Tensei V: Vengeance Demo https://store.steampowered.com/app/3185590/
-# Shin Megami Tensei V: Vengeance https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
-{ "name": "SMT5V.exe", "type": "BG_CPUIO" }
 
 # Aviary Attorney https://store.steampowered.com/app/384630/Aviary_Attorney/
 # Angvik https://store.steampowered.com/app/278890/Angvik/
@@ -2160,30 +2152,18 @@
 # Sineus Arena Survivors https://store.steampowered.com/app/4227400/Sineus_Arena_Survivors/
 { "name": "SineusArena.exe", "type": "Game" }
 
-# Wicked Island https://store.steampowered.com/app/1943730/
-# Wicked Island Demo https://store.steampowered.com/app/2462490/
-{ "name": "WickedIsland-Win64-Shipping.exe", "type": "Game" }
-
-# Wicked Island Demo https://store.steampowered.com/app/2462490/
-# Wicked Island https://store.steampowered.com/app/1943730/
-{ "name": "WickedIsland.exe", "type": "BG_CPUIO" }
-
-# Wallpaper Animator https://store.steampowered.com/app/4484970/Wallpaper_Animator/
-# Wallpaper Animator Demo https://store.steampowered.com/app/4671870/
-{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
-
 # The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
 # Enderal: Forgotten Stories (Special Edition) https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/
 { "name": "SkyrimSE.exe", "type": "Game" }
 
-# SandTable War: Three Kingdoms https://store.steampowered.com/app/3885930/SandTable_War_Three_Kingdoms/
-# SandTable War: Three Kingdoms Demo https://store.steampowered.com/app/3888200/SandTable_War_Three_Kingdoms_Demo/
-{ "name": "tk.exe", "type": "Game" }
+# Shin Megami Tensei V: Vengeance Demo https://store.steampowered.com/app/3185590/
+# Shin Megami Tensei V: Vengeance https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
+{ "name": "SMT5V.exe", "type": "BG_CPUIO" }
 
-# The Message from Deep Space https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/
-# The Message from Deep Space Demo https://store.steampowered.com/app/4624860/
-{ "name": "The Message From Deep Space.exe", "type": "Game" }
+# Shin Megami Tensei V: Vengeance Demo https://store.steampowered.com/app/3185590/
+# Shin Megami Tensei V: Vengeance https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
+{ "name": "SMT5V-Win64-Shipping.exe", "type": "Game" }
 
 # Songs of Syx Demo https://store.steampowered.com/app/1279600/Songs_of_Syx/
 # Songs of Syx https://store.steampowered.com/app/1162750/Songs_of_Syx/
@@ -2427,6 +2407,10 @@
 # Wēnyì qīng líng jìhuà Project Zero 瘟疫清零计划 Project Zero https://store.steampowered.com/app/2088250/_Project_Zero/
 { "name": "TheLastSurvivor.exe", "type": "Game" }
 
+# The Message from Deep Space https://store.steampowered.com/app/4080030/The_Message_from_Deep_Space/
+# The Message from Deep Space Demo https://store.steampowered.com/app/4624860/
+{ "name": "The Message From Deep Space.exe", "type": "Game" }
+
 # The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
 # The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
 { "name": "TheSpellBrigade.exe", "type": "Game" }
@@ -2443,6 +2427,10 @@
 # Tiny Terraces https://store.steampowered.com/app/3136330/Tiny_Terraces/
 # Tiny Terraces Demo https://store.steampowered.com/app/3289470/Tiny_Terraces_Demo/
 { "name": "Tiny Terraces.exe", "type": "Game" }
+
+# SandTable War: Three Kingdoms https://store.steampowered.com/app/3885930/SandTable_War_Three_Kingdoms/
+# SandTable War: Three Kingdoms Demo https://store.steampowered.com/app/3888200/SandTable_War_Three_Kingdoms_Demo/
+{ "name": "tk.exe", "type": "Game" }
 
 # Truck Mechanic: Dangerous Paths - First Mile https://store.steampowered.com/app/4292050/Truck_Mechanic_Dangerous_Paths__First_Mile/
 # Truck Mechanic: Dangerous Paths https://store.steampowered.com/app/995680/Truck_Mechanic_Dangerous_Paths/
@@ -2662,6 +2650,10 @@
 # Astrobuilder https://store.steampowered.com/app/3105960/Astrobuilder/
 { "name": "WA.exe", "type": "Game" }
 
+# Wallpaper Animator https://store.steampowered.com/app/4484970/Wallpaper_Animator/
+# Wallpaper Animator Demo https://store.steampowered.com/app/4671870/
+{ "name": "wallpaper-animator.exe", "type": "BG_CPUIO" }
+
 # Warhammer: Chaos And Conquest https://store.steampowered.com/app/1144170/Warhammer_Chaos_And_Conquest/
 # Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
 # Warhammer 40,000: Inquisitor - Martyr https://store.steampowered.com/app/527430/Warhammer_40000_Inquisitor__Martyr/
@@ -2680,6 +2672,14 @@
 # White Knuckle https://store.steampowered.com/app/3195790/White_Knuckle/
 # White Knuckle Demo https://store.steampowered.com/app/3218540/White_Knuckle_Demo/
 { "name": "White Knuckle.exe", "type": "Game" }
+
+# Wicked Island Demo https://store.steampowered.com/app/2462490/
+# Wicked Island https://store.steampowered.com/app/1943730/
+{ "name": "WickedIsland.exe", "type": "BG_CPUIO" }
+
+# Wicked Island https://store.steampowered.com/app/1943730/
+# Wicked Island Demo https://store.steampowered.com/app/2462490/
+{ "name": "WickedIsland-Win64-Shipping.exe", "type": "Game" }
 
 # Windrose https://store.steampowered.com/app/3041230/Windrose/
 # Windrose Dedicated Server https://store.steampowered.com/app/4129620/

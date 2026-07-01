@@ -11,8 +11,14 @@
 # Waking Mars https://store.steampowered.com/app/227200/Waking_Mars/
 { "name": "wakingmars", "type": "Game" }
 
+# Wallpaper Animator https://store.steampowered.com/app/4484970/Wallpaper_Animator/
+{ "name": "AppRun", "type": "BG_CPUIO" }
+
 # War Brokers https://store.steampowered.com/app/750470/War_Brokers/
 { "name": "war_brokers.x86_64", "type": "Game" }
+
+# Warfare Legacy Collection https://store.steampowered.com/app/2745870/Warfare_Legacy_Collection/
+{ "name": "wflc-linux.x86_64", "type": "Game" }
 
 # Warfork https://store.steampowered.com/app/671610/Warfork/
 { "name": "warfork.x86_64", "type": "Game" }
@@ -41,12 +47,6 @@
 # War Selection https://store.steampowered.com/app/1022450/War_Selection/
 { "name": "SteamLauncher", "type": "Game" }
 { "name": "GlyphEngine", "type": "Game" }
-
-# Wallpaper Animator https://store.steampowered.com/app/4484970/Wallpaper_Animator/
-{ "name": "AppRun", "type": "BG_CPUIO" }
-
-# Warfare Legacy Collection https://store.steampowered.com/app/2745870/Warfare_Legacy_Collection/
-{ "name": "wflc-linux.x86_64", "type": "Game" }
 
 # Warside https://store.steampowered.com/app/2368300/Warside/
 { "name": "Warside.x86_64", "type": "Game" }

@@ -36,26 +36,6 @@
 # Painkiller https://store.steampowered.com/app/2300120/Painkiller/
 { "name": "Painkiller-Win64-Shipping.exe", "type": "Game" }
 
-# Parasite Black https://store.steampowered.com/app/2174500/
-{ "name": "ParasiteBlack.exe", "type": "Game" }
-
-# Phoenix 2 https://store.steampowered.com/app/2678070/Phoenix_2/
-{ "name": "Phoenix2.exe", "type": "Game" }
-
-# Pih https://store.steampowered.com/app/2870710/Pih/
-{ "name": "VRExpPluginExample-Win64-Shipping.exe", "type": "Game" }
-{ "name": "VRExpPluginExample.exe", "type": "BG_CPUIO" }
-
-# POJANGMACHA : Korean Street Food Management Simulator https://store.steampowered.com/app/3785710/POJANGMACHA__Korean_Street_Food_Management_Simulator/
-{ "name": "pojangmacha.exe", "type": "BG_CPUIO" }
-{ "name": "pojangmacha-Win64-Shipping.exe", "type": "Game" }
-
-# POPGOES Arcade https://store.steampowered.com/app/1986840/POPGOES_Arcade/
-{ "name": "POPGOES Arcade Premium.exe", "type": "Game" }
-
-# Puzzle Chambers https://store.steampowered.com/app/740410/Puzzle_Chambers/
-{ "name": "Puzzle Chambers.exe", "type": "Game" }
-
 # Painkiller: Black Edition https://store.steampowered.com/app/39530/Painkiller_Black_Edition/
 { "name": "Painkiller.exe", "type": "Game" }
 
@@ -216,6 +196,9 @@
 
 # PARANORMASIGHT: The Seven Mysteries of Honjo https://store.steampowered.com/app/2106840/PARANORMASIGHT_The_Seven_Mysteries_of_Honjo/
 { "name": "PPARANORMASIGHT.exe", "type": "Game" }
+
+# Parasite Black https://store.steampowered.com/app/2174500/
+{ "name": "ParasiteBlack.exe", "type": "Game" }
 
 # Parcel Simulator https://store.steampowered.com/app/2424010/Parcel_Simulator/
 { "name": "parcel.exe", "type": "BG_CPUIO" }
@@ -510,6 +493,9 @@
 # Phobies https://store.steampowered.com/app/1254130/Phobies/
 { "name": "Phobies.exe", "type": "Game" }
 
+# Phoenix 2 https://store.steampowered.com/app/2678070/Phoenix_2/
+{ "name": "Phoenix2.exe", "type": "Game" }
+
 # Phoenix Point https://store.steampowered.com/app/839770/Phoenix_Point/
 { "name": "PhoenixPointWin64.exe", "type": "Game" }
 
@@ -554,6 +540,10 @@
 
 # PIGFACE https://store.steampowered.com/app/3341650/PIGFACE/
 { "name": "Pigface.exe", "type": "Game" }
+
+# Pih https://store.steampowered.com/app/2870710/Pih/
+{ "name": "VRExpPluginExample-Win64-Shipping.exe", "type": "Game" }
+{ "name": "VRExpPluginExample.exe", "type": "BG_CPUIO" }
 
 # Pikuniku https://store.steampowered.com/app/572890/Pikuniku/
 { "name": "Pikuniku.exe", "type": "Game" }
@@ -851,6 +841,10 @@
 # Pogostuck: Rage With Your Friends https://store.steampowered.com/app/688130/Pogostuck_Rage_With_Your_Friends/
 { "name": "Pogostuck.exe", "type": "Game" }
 
+# POJANGMACHA : Korean Street Food Management Simulator https://store.steampowered.com/app/3785710/POJANGMACHA__Korean_Street_Food_Management_Simulator/
+{ "name": "pojangmacha.exe", "type": "BG_CPUIO" }
+{ "name": "pojangmacha-Win64-Shipping.exe", "type": "Game" }
+
 # Poker Championship https://store.steampowered.com/app/1138190/Poker_Championship/
 { "name": "Poker Championship.exe", "type": "Game" }
 
@@ -928,6 +922,9 @@
 
 # Poop other https://store.steampowered.com/app/1506810/Poop/
 { "name": "Poop.exe", "type": "Game" }
+
+# POPGOES Arcade https://store.steampowered.com/app/1986840/POPGOES_Arcade/
+{ "name": "POPGOES Arcade Premium.exe", "type": "Game" }
 
 # Poppy Playtime https://store.steampowered.com/app/1721470/Poppy_Playtime/
 { "name": "Poppy_Playtime.exe", "type": "BG_CPUIO" }
@@ -1437,6 +1434,9 @@
 
 # Puzzle Agent 2 https://store.steampowered.com/app/94590/Puzzle_Agent_2/
 { "name": "Grickle102.exe", "type": "Game" }
+
+# Puzzle Chambers https://store.steampowered.com/app/740410/Puzzle_Chambers/
+{ "name": "Puzzle Chambers.exe", "type": "Game" }
 
 # Puzzle Cube https://store.steampowered.com/app/539460/Puzzle_Cube/
 { "name": "PuzzleCube.exe", "type": "Game" }

@@ -28,9 +28,6 @@
 # Kairo https://store.steampowered.com/app/233230/Kairo/
 { "name": "kairo.exe", "type": "Game" }
 
-# Keep Me Gifted https://store.steampowered.com/app/3649900/Keep_Me_Gifted/
-{ "name": "Keep Me Gifted.exe", "type": "Game" }
-
 # Kaiserpunk https://store.steampowered.com/app/2012190/KAISERPUNK/
 { "name": "Kaiserpunk.exe", "type": "Game" }
 
@@ -155,6 +152,9 @@
 # Keep It Up! Demo https://store.steampowered.com/app/4682480/
 { "name": "ProjectLiftoff.exe", "type": "Game" }
 { "name": "ProjectLiftoff-Win64-Shipping.exe", "type": "Game" }
+
+# Keep Me Gifted https://store.steampowered.com/app/3649900/Keep_Me_Gifted/
+{ "name": "Keep Me Gifted.exe", "type": "Game" }
 
 # Keep on Mining! https://store.steampowered.com/app/3769130/Keep_on_Mining/
 { "name": "Keep on Mining!.exe", "type": "Game" }

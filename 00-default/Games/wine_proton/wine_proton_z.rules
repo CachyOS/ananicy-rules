@@ -42,13 +42,6 @@
 { "name": "zenoclash.exe", "type": "Game" }
 { "name": "ZenoClash.exe", "type": "Game" }
 
-# Zeverland Playtest https://store.steampowered.com/app/3612180/
-{ "name": "zgame.exe", "type": "Game" }
-
-# Zoochosis https://store.steampowered.com/app/2458560/Zoochosis/
-{ "name": "Zoochosis.exe", "type": "BG_CPUIO" }
-{ "name": "Zoo_Single-Win64-Shipping.exe", "type": "Game" }
-
 # Zeno Clash 2 https://store.steampowered.com/app/215690/Zeno_Clash_2/
 { "name": "ZC2.exe", "type": "Game" }
 
@@ -101,6 +94,9 @@
 
 # Zeus + Poseidon https://store.steampowered.com/app/566050/Zeus__Poseidon/
 { "name": "zeus.exe", "type": "Game" }
+
+# Zeverland Playtest https://store.steampowered.com/app/3612180/
+{ "name": "zgame.exe", "type": "Game" }
 
 # Ziggurat 2 https://store.steampowered.com/app/1159560/Ziggurat_2/
 { "name": "Ziggurat2.exe", "type": "Game" }
@@ -169,6 +165,10 @@
 
 # Zoo 2: Animal Park https://store.steampowered.com/app/1352330/Zoo_2_Animal_Park/
 { "name": "zoo2.exe", "type": "Game" }
+
+# Zoochosis https://store.steampowered.com/app/2458560/Zoochosis/
+{ "name": "Zoochosis.exe", "type": "BG_CPUIO" }
+{ "name": "Zoo_Single-Win64-Shipping.exe", "type": "Game" }
 
 # Zoombinis https://store.steampowered.com/app/397430/Zoombinis/
 { "name": "Zoombinis.exe", "type": "Game" }
