@@ -32,12 +32,12 @@ If not from any store add name you think it needs.
 { "name": "JustCause2.exe", "type": "Game" }
 ```
 
-#### 2. [Example rules for The Outer Worlds](https://github.com/CachyOS/ananicy-rules/blob/b3bf685c267cdc817a7067c6c16c9725cd5c5250/00-default/Games/wine_proton/wine_proton_the.rules#L759)
+#### 2. [Example rules for Mortal Shell](https://github.com/CachyOS/ananicy-rules/blob/ebf4fa421e128ccb3c16e4a0cbff4a00d06aacdc/00-default/Games/wine_proton/wine_proton_m.rules#L1382)
 
 ```
-# The Outer Worlds https://store.steampowered.com/app/578650/The_Outer_Worlds/
-{ "name": "Indiana-Win64-Shipping.exe", "type": "Game" }
-{ "name": "TheOuterWorlds.exe", "type": "Game" }
+# Mortal Shell https://store.steampowered.com/app/1110910/Mortal_Shell/
+{ "name": "Dungeonhaven.exe", "type": "BG_CPUIO" }
+{ "name": "Dungeonhaven-Win64-Shipping.exe", "type": "Game" }
 ```
 
 #### 3. [Example rules for Portal 2 which is Linux native game](https://github.com/CachyOS/ananicy-rules/blob/b3bf685c267cdc817a7067c6c16c9725cd5c5250/00-default/Games/linux-native/linux-native_p.rules#L157)
