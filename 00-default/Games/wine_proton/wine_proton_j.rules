@@ -27,9 +27,6 @@
 # Jagged Alliance 2 - Wildfire https://store.steampowered.com/app/215930/Jagged_Alliance_2__Wildfire/
 { "name": "WF6.exe", "type": "Game" }
 
-# JellyCar Worlds https://store.steampowered.com/app/1740930/JellyCar_Worlds/
-{ "name": "JellyCar Worlds.exe", "type": "Game" }
-
 # Jagged Alliance 3 https://store.steampowered.com/app/1084160/Jagged_Alliance_3/
 { "name": "JA3.exe", "type": "Game" }
 { "name": "JA3Debug.exe", "type": "Game" }
@@ -59,6 +56,9 @@
 
 # JDM: Japanese Drift Master https://store.steampowered.com/app/1153410/JDM_Japanese_Drift_Master/
 { "name": "JDM.exe", "type": "Game" }
+
+# JellyCar Worlds https://store.steampowered.com/app/1740930/JellyCar_Worlds/
+{ "name": "JellyCar Worlds.exe", "type": "Game" }
 
 # JerezArena Ⅲ https://store.steampowered.com/app/2875610/
 { "name": "jerezarena_3.exe", "type": "Game" }

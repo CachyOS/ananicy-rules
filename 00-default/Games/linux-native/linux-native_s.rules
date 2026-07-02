@@ -52,17 +52,6 @@
 { "name": "FactoryServer-Linux-Shipping", "type": "Service" }
 { "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Service" }
 
-# SickBrick https://store.steampowered.com/app/341860/SickBrick/
-{ "name": "SickBrick.x86_64", "type": "Game" }
-{ "name": "SickBrick.x86", "type": "Game" }
-
-# Sixty Four https://store.steampowered.com/app/2659900/Sixty_Four/
-{ "name": "sixtyfour", "type": "Game" }
-
-# SkyTime https://store.steampowered.com/app/513620/SkyTime/
-{ "name": "SkyTime.x86_64", "type": "Game" }
-{ "name": "SkyTime.x86", "type": "Game" }
-
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
 
@@ -234,6 +223,10 @@
 { "name": "Shroud of the Avatar.x86", "type": "Game" }
 { "name": "Shroud of the Avatar.x86_64", "type": "Game" }
 
+# SickBrick https://store.steampowered.com/app/341860/SickBrick/
+{ "name": "SickBrick.x86_64", "type": "Game" }
+{ "name": "SickBrick.x86", "type": "Game" }
+
 # Sid Meier's Civilization: Beyond Earth https://store.steampowered.com/app/65980/Sid_Meiers_Civilization_Beyond_Earth/
 { "name": "CivBE", "type": "Game" }
 
@@ -281,6 +274,9 @@
 # Sisters in Sin 🔞 https://store.steampowered.com/app/4414250/
 { "name": "SistersInSin.x86_64", "type": "Game" }
 
+# Sixty Four https://store.steampowered.com/app/2659900/Sixty_Four/
+{ "name": "sixtyfour", "type": "Game" }
+
 # Skeleseller https://store.steampowered.com/app/3226210/Skeleseller/
 { "name": "skeleseller", "type": "Game" }
 
@@ -310,6 +306,10 @@
 # SKYHILL https://store.steampowered.com/app/382140/SKYHILL/
 { "name": "Skyhill.x86", "type": "Game" }
 { "name": "Skyhill.x86_64", "type": "Game" }
+
+# SkyTime https://store.steampowered.com/app/513620/SkyTime/
+{ "name": "SkyTime.x86_64", "type": "Game" }
+{ "name": "SkyTime.x86", "type": "Game" }
 
 # Slay the Princess — The Pristine Cut https://store.steampowered.com/app/1989270/Slay_the_Princess__The_Pristine_Cut/
 { "name": "SlaythePrincess", "type": "Game" }

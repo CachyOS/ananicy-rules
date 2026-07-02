@@ -23,9 +23,6 @@
 # Galactic Civilizations I: Ultimate Edition https://store.steampowered.com/app/214150/Galactic_Civilizations_I_Ultimate_Edition/
 { "name": "GalCiv.exe", "type": "Game" }
 
-# Global Ops: Commando Libya https://store.steampowered.com/app/200020/Global_Ops_Commando_Libya/
-{ "name": "GlobalOps.exe", "type": "Game" }
-
 # Galactic Civilizations IV https://store.steampowered.com/app/1357210/Galactic_Civilizations_IV/
 { "name": "GalCiv4.exe", "type": "Game" }
 
@@ -336,6 +333,9 @@
 # Global City https://store.steampowered.com/app/1731270/Global_City/
 { "name": "City64.exe", "type": "Game" }
 { "name": "City.exe", "type": "Game" }
+
+# Global Ops: Commando Libya https://store.steampowered.com/app/200020/Global_Ops_Commando_Libya/
+{ "name": "GlobalOps.exe", "type": "Game" }
 
 # Global Rescue https://store.steampowered.com/app/2873660/Global_Rescue/
 { "name": "GR.exe", "type": "Game" }

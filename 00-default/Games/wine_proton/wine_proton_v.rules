@@ -40,9 +40,6 @@
 # Valheim Dedicated Server https://store.steampowered.com/app/896660/
 { "name": "valheim_server.exe", "type": "Service" }
 
-# Voodoo Fishin' Demo https://store.steampowered.com/app/3820780/
-{ "name": "Voodoo Fishin'.exe", "type": "Game" }
-
 # Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/
 { "name": "Valiant Hearts.exe", "type": "Game" }
 
@@ -346,9 +343,6 @@
 
 # Volley Court https://store.steampowered.com/app/2175250/Volley_Court/
 { "name": "VolleyCourt.exe", "type": "Game" }
-
-# Voodoo Fishin' https://store.steampowered.com/app/3071240/Voodoo_Fishin/
-{ "name": "Voodoo Fishin'.exe", "type": "Game" }
 
 # Voor De Kroon https://store.steampowered.com/app/1702390/Voor_De_Kroon/
 { "name": "FormationSystem.exe", "type": "BG_CPUIO" }

@@ -24,16 +24,6 @@
 # EARTH DEFENSE FORCE 4.1 The Shadow of New Despair https://store.steampowered.com/app/410320/EARTH_DEFENSE_FORCE_41_The_Shadow_of_New_Despair/
 { "name": "EDF41.exe", "type": "Game" }
 
-# EmergeNYC https://store.steampowered.com/app/461430/EmergeNYC/
-{ "name": "EmergeNYC.exe", "type": "Game" }
-
-# Encrafted Demo https://store.steampowered.com/app/4603590/
-{ "name": "Encrafted Demo.exe", "type": "Game" }
-
-# EXIT KUN https://store.steampowered.com/app/2781370/EXIT_KUN/
-{ "name": "EXITKUN.exe", "type": "BG_CPUIO" }
-{ "name": "EXITKUN-Win64-Shipping.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 5 https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
@@ -297,6 +287,9 @@
 # Emergency Cleanup Co. https://store.steampowered.com/app/2413190/Emergency_Cleanup_Co/
 { "name": "Emergency Cleanup Co.exe", "type": "Game" }
 
+# EmergeNYC https://store.steampowered.com/app/461430/EmergeNYC/
+{ "name": "EmergeNYC.exe", "type": "Game" }
+
 # Emily is Away https://store.steampowered.com/app/417860/Emily_is_Away/
 { "name": "emily is away.exe", "type": "Game" }
 
@@ -372,6 +365,9 @@
 
 # ENCOUNTER BAR https://store.steampowered.com/app/3836960/
 { "name": "bar.exe", "type": "Game" }
+
+# Encrafted Demo https://store.steampowered.com/app/4603590/
+{ "name": "Encrafted Demo.exe", "type": "Game" }
 
 # ENDALOR https://store.steampowered.com/app/2265990/ENDALOR/
 { "name": "Survival_100.exe", "type": "BG_CPUIO" }
@@ -762,6 +758,10 @@
 
 # Exile to Death https://store.steampowered.com/app/489240/Exile_to_Death/
 { "name": "ExiletoDeath.exe", "type": "Game" }
+
+# EXIT KUN https://store.steampowered.com/app/2781370/EXIT_KUN/
+{ "name": "EXITKUN.exe", "type": "BG_CPUIO" }
+{ "name": "EXITKUN-Win64-Shipping.exe", "type": "Game" }
 
 # Exit the Gungeon https://store.steampowered.com/app/1209490/Exit_the_Gungeon/
 { "name": "XTG.exe", "type": "Game" }

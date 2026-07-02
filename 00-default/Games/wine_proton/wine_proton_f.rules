@@ -36,19 +36,6 @@
 # F1 22 https://store.steampowered.com/app/1692250/F1_22/
 { "name": "F1_22.exe", "type": "Game" }
 
-# Feed The Pit https://store.steampowered.com/app/3278290/Feed_The_Pit/
-{ "name": "ftp.exe", "type": "Game" }
-
-# Fish Game https://store.steampowered.com/app/1372150/Fish_Game/
-{ "name": "FishGame.exe", "type": "BG_CPUIO" }
-{ "name": "FishGame-Win64-Shipping.exe", "type": "Game" }
-
-# Forest Hustle https://store.steampowered.com/app/4168290/Forest_Hustle/
-{ "name": "Forest Hustle.exe", "type": "Game" }
-
-# Futanari★Coffee shop https://store.steampowered.com/app/3306200/
-{ "name": "cs.exe", "type": "Game" }
-
 # F1 23 https://store.steampowered.com/app/2108330/F1_23/
 { "name": "F1_23.exe", "type": "Game" }
 
@@ -495,6 +482,9 @@
 # Feed the Cups https://store.steampowered.com/app/2336220/Feed_the_Cups/
 { "name": "Feed the Cups.exe", "type": "Game" }
 
+# Feed The Pit https://store.steampowered.com/app/3278290/Feed_The_Pit/
+{ "name": "ftp.exe", "type": "Game" }
+
 # FEED THE QUEEN https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
 { "name": "feedthequeen.exe", "type": "Game" }
 
@@ -779,6 +769,10 @@
 # Fisher Online https://store.steampowered.com/app/1094780/Fisher_Online/
 { "name": "theFisher.exe", "type": "Game" }
 
+# Fish Game https://store.steampowered.com/app/1372150/Fish_Game/
+{ "name": "FishGame.exe", "type": "BG_CPUIO" }
+{ "name": "FishGame-Win64-Shipping.exe", "type": "Game" }
+
 # Fishing: Barents Sea https://store.steampowered.com/app/501080/Fishing_Barents_Sea/
 { "name": "FBS.exe", "type": "BG_CPUIO" }
 { "name": "FBS-Win64-Shipping.exe", "type": "Game" }
@@ -997,6 +991,9 @@
 # Forest Escape: Last Train Demo https://store.steampowered.com/app/4405670/Forest_Escape_Last_Train_Demo/
 { "name": "LastTrainDemo.exe", "type": "BG_CPUIO" }
 { "name": "LastTrainDemo-Win64-Shipping.exe", "type": "Game" }
+
+# Forest Hustle https://store.steampowered.com/app/4168290/Forest_Hustle/
+{ "name": "Forest Hustle.exe", "type": "Game" }
 
 # Forestrike https://store.steampowered.com/app/2325920/Forestrike/
 { "name": "Forestrike.exe", "type": "Game" }

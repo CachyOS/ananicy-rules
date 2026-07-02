@@ -74,6 +74,9 @@
 # Half Minute Hero: Super Mega Neo Climax Ultimate Boy https://store.steampowered.com/app/214830/Half_Minute_Hero_Super_Mega_Neo_Climax_Ultimate_Boy/
 { "name": "HMH.exe", "type": "Game" }
 
+# Halfway House https://store.steampowered.com/app/3678710/
+{ "name": "Halfway_House_Steam.exe", "type": "Game" }
+
 # Halls of Torment https://store.steampowered.com/app/2218750/Halls_of_Torment/
 { "name": "HallsOfTorment.exe", "type": "Game" }
 
@@ -104,16 +107,6 @@
 
 # Hammerfight https://store.steampowered.com/app/41100/Hammerfight/
 { "name": "Hammerfight.exe", "type": "Game" }
-
-# Halfway House https://store.steampowered.com/app/3678710/
-{ "name": "Halfway_House_Steam.exe", "type": "Game" }
-
-# Hitler is my crush https://store.steampowered.com/app/2595860/Hitler_is_my_crush/
-{ "name": "Hitler is my crush.exe", "type": "Game" }
-
-# Hyposphere https://store.steampowered.com/app/461880/Hyposphere/
-{ "name": "HyposphereOne.exe", "type": "BG_CPUIO" }
-{ "name": "HyposphereOne-Win32-Shipping.exe", "type": "Game" }
 
 # Hammerting https://store.steampowered.com/app/760650/Hammerting/
 { "name": "boot.exe", "type": "Game" }
@@ -674,6 +667,9 @@
 # Hired Ops https://store.steampowered.com/app/374280/Hired_Ops/
 { "name": "hops.exe", "type": "Game" }
 
+# Hitler is my crush https://store.steampowered.com/app/2595860/Hitler_is_my_crush/
+{ "name": "Hitler is my crush.exe", "type": "Game" }
+
 # HITMAN https://store.steampowered.com/app/236870/HITMAN/
 { "name": "HITMAN.exe", "type": "Game" }
 
@@ -1071,3 +1067,7 @@
 
 # Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
 { "name": "HypnOS.exe", "type": "Game" }
+
+# Hyposphere https://store.steampowered.com/app/461880/Hyposphere/
+{ "name": "HyposphereOne.exe", "type": "BG_CPUIO" }
+{ "name": "HyposphereOne-Win32-Shipping.exe", "type": "Game" }

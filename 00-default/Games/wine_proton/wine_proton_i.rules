@@ -25,13 +25,6 @@
 { "name": "IMJCH.exe", "type": "BG_CPUIO" }
 { "name": "IMJCH-Win64-Shipping.exe", "type": "Game" }
 
-# I'm on Observation Duty 8 https://store.steampowered.com/app/2564960/Im_on_Observation_Duty_8/
-{ "name": "I'm on Observation Duty 8.exe", "type": "Game" }
-
-# Infinite Lives https://store.steampowered.com/app/3751210/Infinite_Lives/
-{ "name": "InfiniteLivesModLauncher.exe", "type": "Game" }
-{ "name": "Infinite Lives.exe", "type": "Game" }
-
 # I Am Legion: Stand Survivors https://store.steampowered.com/app/3109580/I_Am_Legion_Stand_Survivors/
 { "name": "StandSurvivors.exe", "type": "Game" }
 
@@ -277,6 +270,9 @@
 # I'm on Observation Duty https://store.steampowered.com/app/1046820/Im_on_Observation_Duty/
 { "name": "I'm on Observation Duty.exe", "type": "Game" }
 
+# I'm on Observation Duty 8 https://store.steampowered.com/app/2564960/Im_on_Observation_Duty_8/
+{ "name": "I'm on Observation Duty 8.exe", "type": "Game" }
+
 # Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
 { "name": "imperator.exe", "type": "Game" }
 
@@ -409,6 +405,10 @@
 # Infinite Borders: Three Kingdoms Demo https://store.steampowered.com/app/3697960/Infinite_Borders_Three_Kingdoms_Demo/
 { "name": "InfiniteBorders_Launcher.exe", "type": "Game" }
 { "name": "InfiniteBorders3Kingdoms.exe", "type": "Game" }
+
+# Infinite Lives https://store.steampowered.com/app/3751210/Infinite_Lives/
+{ "name": "InfiniteLivesModLauncher.exe", "type": "Game" }
+{ "name": "Infinite Lives.exe", "type": "Game" }
 
 # Infinite Tournament Paintball https://store.steampowered.com/app/1341160/Infinite_Tournament_Paintball/
 { "name": "ITP.exe", "type": "BG_CPUIO" }

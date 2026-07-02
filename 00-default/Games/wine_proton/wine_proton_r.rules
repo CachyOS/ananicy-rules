@@ -33,9 +33,6 @@
 # RaceRoom Dedicated Server https://store.steampowered.com/app/354060/
 { "name": "RRRE_dedicated.exe", "type": "Service" }
 
-# Retention https://store.steampowered.com/app/339470/Retention/
-{ "name": "Retention.exe", "type": "Game" }
-
 # RaceRoom Racing Experience https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
 { "name": "RRREWebBrowser.exe", "type": "Game" }
@@ -548,6 +545,9 @@
 # Retail Hell https://store.steampowered.com/app/4174310/Retail_Hell/
 { "name": "RetailHell.exe", "type": "BG_CPUIO" }
 { "name": "HorrorMarket-Win64-Shipping.exe", "type": "Game" }
+
+# Retention https://store.steampowered.com/app/339470/Retention/
+{ "name": "Retention.exe", "type": "Game" }
 
 # RetroArch https://store.steampowered.com/app/1118310/RetroArch/
 { "name": "retroarch.exe", "type": "Game" }
