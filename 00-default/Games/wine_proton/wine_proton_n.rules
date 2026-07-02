@@ -635,6 +635,10 @@
 # No More Heroes https://store.steampowered.com/app/1420290/No_More_Heroes/
 { "name": "nmh.exe", "type": "Game" }
 
+# No More Heroes 3 https://store.steampowered.com/app/1744330/No_More_Heroes_3/
+{ "name": "nmh3.exe", "type": "BG_CPUIO" }
+{ "name": "nmh3-Win64-Shipping.exe", "type": "Game" }
+
 # No More Money https://store.steampowered.com/app/2246300/
 { "name": "NoMoreMoney.exe", "type": "Game" }
 
@@ -681,6 +685,9 @@
 # NORSE: Oath of Blood https://store.steampowered.com/app/3054690/NORSE_Oath_of_Blood/
 { "name": "NorseSteam-Win64-Shipping.exe", "type": "Game" }
 { "name": "Norse.exe", "type": "Game" }
+
+# NORTH https://store.steampowered.com/app/461890/NORTH/
+{ "name": "NORTH_win.exe", "type": "Game" }
 
 # Northend Tower Defense https://store.steampowered.com/app/1669170/Northend_Tower_Defense/
 { "name": "Northend Tower Defense.exe", "type": "Game" }
@@ -784,6 +791,10 @@
 
 # Nuclear Dawn https://store.steampowered.com/app/17710/Nuclear_Dawn/
 { "name": "nucleardawn.exe", "type": "Game" }
+
+# Nuclear Epoch Demo https://store.steampowered.com/app/4223270/
+{ "name": "ProjectC.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectC-Win64-Shipping.exe", "type": "Game" }
 
 # Nucleares https://store.steampowered.com/app/1428420/Nucleares/
 { "name": "Nucleares.exe", "type": "Game" }

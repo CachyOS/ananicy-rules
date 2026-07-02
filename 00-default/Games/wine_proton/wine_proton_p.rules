@@ -305,9 +305,6 @@
 # Patron https://store.steampowered.com/app/1538570/Patron/
 { "name": "Patron.exe", "type": "Game" }
 
-# Pat the Cat Demo https://store.steampowered.com/app/4154660/
-{ "name": "Pat The Cat.exe", "type": "Game" }
-
 # Pavlov https://store.steampowered.com/app/555160/Pavlov/
 { "name": "Pavlov.exe", "type": "BG_CPUIO" }
 { "name": "Pavlov-Win64-Shipping.exe", "type": "Game" }
@@ -510,6 +507,9 @@
 
 # Phonopolis https://store.steampowered.com/app/1206070/Phonopolis/
 { "name": "Phonopolis.exe", "type": "Game" }
+
+# PianoGlow https://store.steampowered.com/app/3499520/Piano_Glow/
+{ "name": "PianoGlow.exe", "type": "Game" }
 
 # Picayune Dreams https://store.steampowered.com/app/2088840/Picayune_Dreams/
 { "name": "PICAYUNEDREAMS.exe", "type": "Game" }
@@ -808,6 +808,9 @@
 # Play Together https://store.steampowered.com/app/3198850/Play_Together/
 { "name": "PlayTogether.exe", "type": "Game" }
 
+# Please, Don’t Touch Anything https://store.steampowered.com/app/354240/Please_Dont_Touch_Anything/
+{ "name": "DontTouchAnything.exe", "type": "Game" }
+
 # Pleasure Puzzle:Portrait 趣拼拼：肖像画 https://store.steampowered.com/app/939620/Pleasure_PuzzlePortrait/
 { "name": "PP1.exe", "type": "Game" }
 
@@ -1045,6 +1048,9 @@
 
 # Pox Nora https://store.steampowered.com/app/201210/Pox_Nora/
 { "name": "PoxNora.exe", "type": "Game" }
+
+# Practisim Designer https://store.steampowered.com/app/1701370/Practisim_Designer/
+{ "name": "PractisimDesigner.exe", "type": "Game" }
 
 # Praetorians - HD Remaster https://store.steampowered.com/app/1100420/Praetorians__HD_Remaster/
 { "name": "Praetorians.exe", "type": "BG_CPUIO" }
@@ -1419,6 +1425,9 @@
 
 # Pure Farming 2018 https://store.steampowered.com/app/534370/Pure_Farming_2018/
 { "name": "PureFarming.exe", "type": "Game" }
+
+# Pure Sniper https://store.steampowered.com/app/1612020/Pure_Sniper/
+{ "name": "Pure Sniper.exe", "type": "Game" }
 
 # Puyo Puyo Champions https://store.steampowered.com/app/971620/Puyo_Puyo_Champions/
 { "name": "PuyoPuyoChampions.exe", "type": "Game" }
