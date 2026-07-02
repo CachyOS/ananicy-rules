@@ -546,6 +546,9 @@
 { "name": "RetailHell.exe", "type": "BG_CPUIO" }
 { "name": "HorrorMarket-Win64-Shipping.exe", "type": "Game" }
 
+# Retention https://store.steampowered.com/app/339470/Retention/
+{ "name": "Retention.exe", "type": "Game" }
+
 # RetroArch https://store.steampowered.com/app/1118310/RetroArch/
 { "name": "retroarch.exe", "type": "Game" }
 

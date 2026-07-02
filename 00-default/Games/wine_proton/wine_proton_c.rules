@@ -741,6 +741,9 @@
 { "name": "Chorus-Win64-Shipping.exe", "type": "Game" }
 { "name": "Chorus.exe", "type": "BG_CPUIO" }
 
+# Christian Mother https://store.steampowered.com/app/4144580/
+{ "name": "ChristianMother.exe", "type": "Game" }
+
 # ChromaGun 2: Dye Hard https://store.steampowered.com/app/2982340/ChromaGun_2_Dye_Hard/
 { "name": "ChromaGun2.exe", "type": "BG_CPUIO" }
 { "name": "ChromaGun2-Win64-Shipping.exe", "type": "Game"}
@@ -1011,6 +1014,9 @@
 
 # Clustertruck https://store.steampowered.com/app/397950/Clustertruck/
 { "name": "Clustertruck.exe", "type": "Game" }
+
+# CM-SS13 https://store.steampowered.com/app/4313790/CMSS13/
+{ "name": "CM_Launcher.exe", "type": "Game" }
 
 # Coal LLC https://store.steampowered.com/app/3361510/Coal_LLC/
 { "name": "Coal LLC.exe", "type": "Game"}
@@ -1643,6 +1649,9 @@
 # Critter Cove https://store.steampowered.com/app/1631470/Critter_Cove/
 { "name": "Critter Cove.exe", "type": "Game" }
 
+# Crocotile 3D https://store.steampowered.com/app/1244040/Crocotile_3D/
+{ "name": "crocotile3d.exe", "type": "Game" }
+
 # Cronos: The New Dawn https://store.steampowered.com/app/2101960/Cronos_The_New_Dawn/
 { "name": "Cronos-Win64-Shipping.exe", "type": "Game" }
 
@@ -1720,9 +1729,6 @@
 
 # Crushed In Time https://store.steampowered.com/app/3858650/Crushed_In_Time/
 { "name": "CrushedInTime.exe", "type": "Game" }
-
-# Crying Suns https://store.steampowered.com/app/873940/
-{ "name": "cs.exe", "type": "Game" }
 
 # CRYO https://store.steampowered.com/app/2564910/CRYO/
 { "name": "Cryo.exe", "type": "Game" }
