@@ -52,6 +52,17 @@
 { "name": "FactoryServer-Linux-Shipping", "type": "Service" }
 { "name": "FactoryServer-Linux-Shipping-Cmd", "type": "Service" }
 
+# SickBrick https://store.steampowered.com/app/341860/SickBrick/
+{ "name": "SickBrick.x86_64", "type": "Game" }
+{ "name": "SickBrick.x86", "type": "Game" }
+
+# Sixty Four https://store.steampowered.com/app/2659900/Sixty_Four/
+{ "name": "sixtyfour", "type": "Game" }
+
+# SkyTime https://store.steampowered.com/app/513620/SkyTime/
+{ "name": "SkyTime.x86_64", "type": "Game" }
+{ "name": "SkyTime.x86", "type": "Game" }
+
 # Satisfactory Modeler https://store.steampowered.com/app/3187030/Satisfactory_Modeler/
 { "name": "satisfactory_modeler", "type": "Game" }
 

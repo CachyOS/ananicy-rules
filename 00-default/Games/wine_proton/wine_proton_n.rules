@@ -50,6 +50,17 @@
 { "name": "NSUNSR_option1.exe", "type": "Game"}
 { "name": "NSUNSR_option2.exe", "type": "Game"}
 
+# No More Heroes 3 https://store.steampowered.com/app/1744330/No_More_Heroes_3/
+{ "name": "nmh3.exe", "type": "BG_CPUIO" }
+{ "name": "nmh3-Win64-Shipping.exe", "type": "Game" }
+
+# NORTH https://store.steampowered.com/app/461890/NORTH/
+{ "name": "NORTH_win.exe", "type": "Game" }
+
+# Nuclear Epoch Demo https://store.steampowered.com/app/4223270/
+{ "name": "ProjectC.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectC-Win64-Shipping.exe", "type": "Game" }
+
 # NARUTO TO BORUTO: SHINOBI STRIKER https://store.steampowered.com/app/633230/NARUTO_TO_BORUTO_SHINOBI_STRIKER/
 { "name": "NARUTO.exe", "type": "BG_CPUIO" }
 { "name": "NARUTO-Win64-Shipping.exe", "type": "Game" }

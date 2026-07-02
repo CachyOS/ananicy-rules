@@ -40,6 +40,9 @@
 # Valheim Dedicated Server https://store.steampowered.com/app/896660/
 { "name": "valheim_server.exe", "type": "Service" }
 
+# Voodoo Fishin' Demo https://store.steampowered.com/app/3820780/
+{ "name": "Voodoo Fishin'.exe", "type": "Game" }
+
 # Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre https://store.steampowered.com/app/260230/Valiant_Hearts_The_Great_War__Soldats_Inconnus__Mmoires_de_la_Grande_Guerre/
 { "name": "Valiant Hearts.exe", "type": "Game" }
 

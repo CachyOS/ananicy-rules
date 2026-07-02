@@ -33,6 +33,9 @@
 # RaceRoom Dedicated Server https://store.steampowered.com/app/354060/
 { "name": "RRRE_dedicated.exe", "type": "Service" }
 
+# Retention https://store.steampowered.com/app/339470/Retention/
+{ "name": "Retention.exe", "type": "Game" }
+
 # RaceRoom Racing Experience https://store.steampowered.com/app/211500/RaceRoom_Racing_Experience/
 { "name": "RRRE64.exe", "type": "Game" }
 { "name": "RRREWebBrowser.exe", "type": "Game" }
