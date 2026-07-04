@@ -75,6 +75,16 @@
 { "name": "TheBeastInside.exe", "type": "BG_CPUIO" }
 { "name": "TheBeastInside-Win64-Shipping.exe", "type": "Game" }
 
+# The Aquarium does not dance https://store.steampowered.com/app/2814910/The_Aquarium_does_not_dance/
+{ "name": "Game.exe", "type": "Game" }
+
+# The Flame in the Flood https://store.steampowered.com/app/318600/The_Flame_in_the_Flood/
+{ "name": "RiverGame.exe", "type": "BG_CPUIO" }
+{ "name": "RiverGame-Win64-Shipping.exe", "type": "Game" }
+
+# The one who pulls out the sword will be crowned king https://store.steampowered.com/app/1865370/The_one_who_pulls_out_the_sword_will_be_crowned_king/
+{ "name": "The one who pulls out the sword will be crowned king.exe", "type": "Game" }
+
 # The Beginner's Guide https://store.steampowered.com/app/303210/The_Beginners_Guide/
 { "name": "beginnersguide.exe", "type": "Game" }
 

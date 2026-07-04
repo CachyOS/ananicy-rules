@@ -41,6 +41,18 @@
 # Warhammer 40,000: Mechanicus https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
 { "name": "Mechanicus.x86_64", "type": "Game" }
 
+# We. The Revolution https://store.steampowered.com/app/736850/We_The_Revolution/
+{ "name": "We.TheRevolution.x86_64", "type": "Game" }
+{ "name": "We.TheRevolution.x86", "type": "Game" }
+{ "name": "We.TheRevolution.x86_64elf", "type": "Game" }
+{ "name": "We.TheRevolution.x86elf", "type": "Game" }
+
+# while True: learn() https://store.steampowered.com/app/619150/while_True_learn/
+{ "name": "wtl.x86_64", "type": "Game" }
+
+# Wordle https://store.steampowered.com/app/1334000/Wordle/
+{ "name": "wordle.x86", "type": "Game" }
+
 # Warplanes: WW2 Dogfight https://store.steampowered.com/app/936780/Warplanes_WW2_Dogfight/
 { "name": "Warplanes.x86_64", "type": "Game" }
 

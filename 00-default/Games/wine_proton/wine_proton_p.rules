@@ -89,6 +89,30 @@
 # PANICORE https://store.steampowered.com/app/2695940/PANICORE/
 { "name": "Panicore.exe", "type": "Game" }
 
+# Park Beyond https://store.steampowered.com/app/1368130/Park_Beyond/
+{ "name": "ParkBeyond.exe", "type": "BG_CPUIO" }
+{ "name": "ParkBeyond-Win64-Shipping.exe", "type": "Game" }
+
+# Pineapple on pizza https://store.steampowered.com/app/2263010/Pineapple_on_pizza/
+{ "name": "Pineapple on pizza.exe", "type": "Game" }
+
+# Pirates https://store.steampowered.com/app/1660520/Pirates/
+{ "name": "Pirates.exe", "type": "BG_CPUIO" }
+{ "name": "Pirates-Win64-Shipping.exe", "type": "Game" }
+
+# Plantera https://store.steampowered.com/app/421040/Plantera/
+{ "name": "Plantera.exe", "type": "Game" }
+
+# Prismata https://store.steampowered.com/app/490220/Prismata/
+{ "name": "Prismata.exe", "type": "Game" }
+{ "name": "PrismataAI.exe", "type": "Game" }
+
+# Pyre https://store.steampowered.com/app/462770/Pyre/
+{ "name": "Pyre.exe", "type": "Game" }
+
+# Pyrene https://store.steampowered.com/app/2468100/Pyrene/
+{ "name": "Pyrene.exe", "type": "Game" }
+
 # Pankapu https://store.steampowered.com/app/418670/Pankapu/
 { "name": "pankapu.exe", "type": "Game" }
 
