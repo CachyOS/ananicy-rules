@@ -26,12 +26,6 @@
 # Galactic Civilizations IV https://store.steampowered.com/app/1357210/Galactic_Civilizations_IV/
 { "name": "GalCiv4.exe", "type": "Game" }
 
-# Gal Guardians: Demon Purge https://store.steampowered.com/app/2081400/Gal_Guardians_Demon_Purge/
-{ "name": "game.exe", "type": "Game" }
-
-# Gal Guardians: Servants of the Dark https://store.steampowered.com/app/3253630/Gal_Guardians_Servants_of_the_Dark/
-{ "name": "game.exe", "type": "Game" }
-
 # Garten of Banban 2 https://store.steampowered.com/app/2262770/Garten_of_Banban_2/
 { "name": "Garten of Banban 2.exe", "type": "BG_CPUIO" }
 { "name": "Clay_2-Win64-Shipping.exe", "type": "Game" }
@@ -65,9 +59,6 @@
 
 # Guilty Gear X2 #Reload https://store.steampowered.com/app/314030/Guilty_Gear_X2_Reload/
 { "name": "ggx2.exe", "type": "Game" }
-
-# GUILTY GEAR Xrd -SIGN- https://store.steampowered.com/app/376300/GUILTY_GEAR_Xrd_SIGN/
-{ "name": "GuiltyGearXrd.exe", "type": "Game" }
 
 # Galactic Glitch https://store.steampowered.com/app/1536620/Galactic_Glitch/
 { "name": "GalacticGlitch.exe", "type": "Game" }
@@ -972,7 +963,6 @@
 
 # GUILTY GEAR Xrd REV 2 https://store.steampowered.com/app/520440/GUILTY_GEAR_Xrd_REV_2/
 { "name": "BootGGXrd.exe", "type": "Game" }
-{ "name": "GuiltyGearXrd.exe", "type": "Game" }
 
 # GUILTY GEAR XX ACCENT CORE PLUS R https://store.steampowered.com/app/348550/GUILTY_GEAR_XX_ACCENT_CORE_PLUS_R/
 { "name": "GGXXACPR_Win.exe", "type": "Game" }

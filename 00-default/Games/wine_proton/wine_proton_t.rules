@@ -93,29 +93,12 @@
 # Timberman VS https://store.steampowered.com/app/943380/Timberman_VS/
 { "name": "TimbermanVS.exe", "type": "Game" }
 
-# Tobacco Shop Simulator: Prologue https://store.steampowered.com/app/3211690/Tobacco_Shop_Simulator_Prologue/
-{ "name": "TobaccoShopSim.exe", "type": "BG_CPUIO" }
-{ "name": "TobaccoShopSim-Win64-Shipping.exe", "type": "Game" }
-
-# Trans-Siberian Railway Simulator: Prologue https://store.steampowered.com/app/2248950/TransSiberian_Railway_Simulator_Prologue/
-{ "name": "Trans-Siberian Railway Simulator.exe", "type": "Game" }
-{ "name": "Train-Win64-Shipping.exe", "type": "BG_CPUIO" }
-
 # Travellin Cats in Paris https://store.steampowered.com/app/2313250/Travellin_Cats_in_Paris/
 { "name": "Travellin Cats in Paris.exe", "type": "Game" }
-
-# Treasure Hunter Claire https://store.steampowered.com/app/828070/Treasure_Hunter_Claire/
-{ "name": "Game.exe", "type": "Game" }
 
 # Trials of Fire https://store.steampowered.com/app/1038370/Trials_of_Fire/
 { "name": "TrialsOfFire.exe", "type": "BG_CPUIO" }
 { "name": "TableTopBase-Win64-Shipping.exe", "type": "Game" }
-
-# Turbo Pug https://store.steampowered.com/app/418070/Turbo_Pug/
-{ "name": "game.exe", "type": "Game" }
-
-# Tempest https://store.steampowered.com/app/418180/Tempest_Pirate_Action_RPG/
-{ "name": "Tempest.exe", "type": "Game" }
 
 # Talented https://store.steampowered.com/app/2435090/Talented/
 { "name": "Talented.exe", "type": "Game" }
@@ -829,10 +812,6 @@
 { "name": "Toaster_reboot-Win64-DebugGame.exe", "type": "Game" }
 { "name": "Toaster_reboot.exe", "type": "Game" }
 
-# Tobacco Shop Simulator https://store.steampowered.com/app/3211680/Tobacco_Shop_Simulator/
-{ "name": "TobaccoShopSim.exe", "type": "BG_CPUIO" }
-{ "name": "TobaccoShopSim-Win64-Shipping.exe", "type": "Game" }
-
 # To Be or Not to Be https://store.steampowered.com/app/2190290/To_Be_or_Not_to_Be/
 { "name": "To Be or Not to Be.exe", "type": "Game" }
 
@@ -1337,9 +1316,6 @@
 
 # Transport Fever 2 https://store.steampowered.com/app/1066780/Transport_Fever_2/
 { "name": "TransportFever2.exe", "type": "Game" }
-
-# Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
-{ "name": "Trans-Siberian Railway Simulator.exe", "type": "Game" }
 
 # Trap Genesis https://store.steampowered.com/app/1585700/Trap_Genesis/
 { "name": "Jyosou_Souseiki.exe", "type": "Game" }

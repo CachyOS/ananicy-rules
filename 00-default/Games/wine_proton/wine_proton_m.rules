@@ -950,9 +950,6 @@
 { "name": "Mirror2_X.exe", "type": "BG_CPUIO" }
 { "name": "Mirror2_HomeX.exe", "type": "BG_CPUIO" }
 
-# MONMUSU https://store.steampowered.com/app/533540/
-{ "name": "game.exe", "type": "Game" }
-
 # My Friendly Neighborhood https://store.steampowered.com/app/1574260/My_Friendly_Neighborhood/
 { "name": "My Friendly Neighborhood.exe", "type": "Game" }
 

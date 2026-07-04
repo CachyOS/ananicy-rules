@@ -75,9 +75,6 @@
 { "name": "TheBeastInside.exe", "type": "BG_CPUIO" }
 { "name": "TheBeastInside-Win64-Shipping.exe", "type": "Game" }
 
-# The Aquarium does not dance https://store.steampowered.com/app/2814910/The_Aquarium_does_not_dance/
-{ "name": "Game.exe", "type": "Game" }
-
 # The Flame in the Flood https://store.steampowered.com/app/318600/The_Flame_in_the_Flood/
 { "name": "RiverGame.exe", "type": "BG_CPUIO" }
 { "name": "RiverGame-Win64-Shipping.exe", "type": "Game" }

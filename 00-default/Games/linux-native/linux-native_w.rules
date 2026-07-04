@@ -50,9 +50,6 @@
 # while True: learn() https://store.steampowered.com/app/619150/while_True_learn/
 { "name": "wtl.x86_64", "type": "Game" }
 
-# Wordle https://store.steampowered.com/app/1334000/Wordle/
-{ "name": "wordle.x86", "type": "Game" }
-
 # Warplanes: WW2 Dogfight https://store.steampowered.com/app/936780/Warplanes_WW2_Dogfight/
 { "name": "Warplanes.x86_64", "type": "Game" }
 
@@ -157,9 +154,6 @@
 
 # Wonder Boy: The Dragon's Trap https://store.steampowered.com/app/543260/Wonder_Boy_The_Dragons_Trap/
 { "name": "WonderBoy", "type": "Game" }
-
-# Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
-{ "name": "wordle.x86", "type": "Game" }
 
 # WorldBox - God Simulator https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/
 { "name": "worldbox", "type": "Game" }
