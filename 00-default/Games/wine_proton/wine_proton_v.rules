@@ -14,6 +14,9 @@
 # Vacuum Warrior https://store.steampowered.com/app/2302990/Vacuum_Warrior__Idle_Game/
 { "name": "VacuumWarrior.exe", "type": "Game" }
 
+# Vade Retro : Exorcist https://store.steampowered.com/app/1931950/Vade_Retro__Exorcist/
+{ "name": "Exorcist-Win64-Shipping.exe", "type": "Game" }
+
 # Vae Victis - Khan https://store.steampowered.com/app/2540230/
 { "name": "Khan.exe", "type": "Game" }
 { "name": "Khan-32.exe", "type": "Game" }
@@ -64,12 +67,6 @@
 # Vampires: Bloodlord Rising https://store.steampowered.com/app/2191500/Vampires_Bloodlord_Rising/
 { "name": "VBR.exe", "type": "BG_CPUIO" }
 { "name": "VBR-Win64-Shipping.exe", "type": "Game" }
-
-# Vade Retro : Exorcist https://store.steampowered.com/app/1931950/Vade_Retro__Exorcist/
-{ "name": "Exorcist-Win64-Shipping.exe", "type": "Game" }
-
-# Vivid World https://store.steampowered.com/app/2468550/Vivid_World/
-{ "name": "VividWorld.exe", "type": "Game" }
 
 # Vampire's Fall 2 https://store.steampowered.com/app/4264230/Vampires_Fall_2/
 { "name": "Vampire's Fall 2.exe", "type": "Game" }
@@ -288,6 +285,9 @@
 
 # vivid/stasis https://store.steampowered.com/app/2093940/vividstasis/
 { "name": "VIVIDSTASIS.exe", "type": "Game" }
+
+# Vivid World https://store.steampowered.com/app/2468550/Vivid_World/
+{ "name": "VividWorld.exe", "type": "Game" }
 
 # VLADiK BRUTAL https://store.steampowered.com/app/1316680/VLADiK_BRUTAL/
 { "name": "VLADiK_BRUTAL.exe", "type": "BG_CPUIO" }

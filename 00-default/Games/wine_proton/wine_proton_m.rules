@@ -369,6 +369,9 @@
 # Mashinky https://store.steampowered.com/app/598960/Mashinky/
 { "name": "Mashinky.exe", "type": "Game" }
 
+# MASSAGE MY EX-BULLY https://store.steampowered.com/app/3122900/
+{ "name": "Massage my ex-Bully.exe", "type": "Game" }
+
 # M.A.S.S. Builder https://store.steampowered.com/app/956680/MASS_Builder/
 { "name": "MASS_Builder.exe", "type": "BG_CPUIO" }
 { "name": "MASS_Builder-Win64-Shipping.exe", "type": "Game" }
@@ -672,6 +675,9 @@
 # Mesozoic Dawn https://store.steampowered.com/app/4334840/Mesozoic_Dawn/
 { "name": "Mesozoic Dawn.exe", "type": "Game" }
 
+# Meta Ghost: Breaking Show https://store.steampowered.com/app/2507980/Meta_Ghost_Breaking_Show/
+{ "name": "Meta Ghost.exe", "type": "Game" }
+
 # Metal Bringer https://store.steampowered.com/app/2334170/Metal_Bringer/
 { "name": "MetalBringer.exe", "type": "BG_CPUIO" }
 { "name": "MetalBringer-Win64-Shipping.exe", "type": "Game" }
@@ -937,29 +943,6 @@
 # Minimalist Tower Defense https://store.steampowered.com/app/2617400/Minimalist_Tower_Defense/
 { "name": "Minimalist Tower Defense.exe", "type": "Game" }
 
-# MASSAGE MY EX-BULLY https://store.steampowered.com/app/3122900/
-{ "name": "Massage my ex-Bully.exe", "type": "Game" }
-
-# Meta Ghost: Breaking Show https://store.steampowered.com/app/2507980/Meta_Ghost_Breaking_Show/
-{ "name": "Meta Ghost.exe", "type": "Game" }
-
-# Mirror 2: Project X https://store.steampowered.com/app/1832640/Mirror_2_Project_X/
-{ "name": "Mirror2.ProjectX.Launcher.exe", "type": "Game" }
-{ "name": "Mirror2_X-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Mirror2_HomeX-Win64-Shipping.exe", "type": "Game" }
-{ "name": "Mirror2_X.exe", "type": "BG_CPUIO" }
-{ "name": "Mirror2_HomeX.exe", "type": "BG_CPUIO" }
-
-# My Friendly Neighborhood https://store.steampowered.com/app/1574260/My_Friendly_Neighborhood/
-{ "name": "My Friendly Neighborhood.exe", "type": "Game" }
-
-# Myrmidon https://store.steampowered.com/app/3247270/Myrmidon/
-{ "name": "MyrmidonProto.exe", "type": "BG_CPUIO" }
-{ "name": "MyrmidonProto-Win64-Shipping.exe", "type": "Game" }
-
-# My Sexy Neighbor 🔞 Prologue https://store.steampowered.com/app/3121490/
-{ "name": "My Sexy Neighbor Prologue.exe", "type": "Game" }
-
 # Mini Metro https://store.steampowered.com/app/287980/Mini_Metro/
 { "name": "MiniMetro.exe", "type": "Game" }
 
@@ -1025,6 +1008,13 @@
 
 # Mirklurk: Every Step Matters https://store.steampowered.com/app/3972980/Mirklurk_Every_Step_Matters/
 { "name": "Mirklurk.exe", "type": "Game" }
+
+# Mirror 2: Project X https://store.steampowered.com/app/1832640/Mirror_2_Project_X/
+{ "name": "Mirror2.ProjectX.Launcher.exe", "type": "Game" }
+{ "name": "Mirror2_X-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Mirror2_HomeX-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Mirror2_X.exe", "type": "BG_CPUIO" }
+{ "name": "Mirror2_HomeX.exe", "type": "BG_CPUIO" }
 
 # Mirror Maker https://store.steampowered.com/app/1007350/Mirror_Maker/
 { "name": "Mirror Maker.exe", "type": "Game" }
@@ -1771,6 +1761,9 @@
 # My Free Zoo https://store.steampowered.com/app/694130/My_Free_Zoo/
 { "name": "MyFreeZoo.exe", "type": "Game" }
 
+# My Friendly Neighborhood https://store.steampowered.com/app/1574260/My_Friendly_Neighborhood/
+{ "name": "My Friendly Neighborhood.exe", "type": "Game" }
+
 # My Friend Pedro https://store.steampowered.com/app/557340/My_Friend_Pedro/
 { "name": "My Friend Pedro - Blood Bullets Bananas.exe", "type": "Game" }
 
@@ -1816,8 +1809,15 @@
 # My Recycling Center https://store.steampowered.com/app/2613060/My_Recycling_Center/
 { "name": "Recy.exe", "type": "Game" }
 
+# Myrmidon https://store.steampowered.com/app/3247270/Myrmidon/
+{ "name": "MyrmidonProto.exe", "type": "BG_CPUIO" }
+{ "name": "MyrmidonProto-Win64-Shipping.exe", "type": "Game" }
+
 # My Sexy Neighbor 🔞 https://store.steampowered.com/app/2657120/
 { "name": "My Sexy Neighbor.exe", "type": "Game" }
+
+# My Sexy Neighbor 🔞 Prologue https://store.steampowered.com/app/3121490/
+{ "name": "My Sexy Neighbor Prologue.exe", "type": "Game" }
 
 # My sexy Neighbour 2 https://store.steampowered.com/app/3684710/
 { "name": "My Sexy Neighbour 2.exe", "type": "Game" }

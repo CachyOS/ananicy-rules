@@ -75,13 +75,6 @@
 { "name": "TheBeastInside.exe", "type": "BG_CPUIO" }
 { "name": "TheBeastInside-Win64-Shipping.exe", "type": "Game" }
 
-# The Flame in the Flood https://store.steampowered.com/app/318600/The_Flame_in_the_Flood/
-{ "name": "RiverGame.exe", "type": "BG_CPUIO" }
-{ "name": "RiverGame-Win64-Shipping.exe", "type": "Game" }
-
-# The one who pulls out the sword will be crowned king https://store.steampowered.com/app/1865370/The_one_who_pulls_out_the_sword_will_be_crowned_king/
-{ "name": "The one who pulls out the sword will be crowned king.exe", "type": "Game" }
-
 # The Beginner's Guide https://store.steampowered.com/app/303210/The_Beginners_Guide/
 { "name": "beginnersguide.exe", "type": "Game" }
 
@@ -416,6 +409,10 @@
 
 # The Fishing Club 3D https://store.steampowered.com/app/522230/The_Fishing_Club_3D_Coop_Sport_Angling/
 { "name": "The Fishing Club 3D.exe", "type": "Game" }
+
+# The Flame in the Flood https://store.steampowered.com/app/318600/The_Flame_in_the_Flood/
+{ "name": "RiverGame.exe", "type": "BG_CPUIO" }
+{ "name": "RiverGame-Win64-Shipping.exe", "type": "Game" }
 
 # The Forest https://store.steampowered.com/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
@@ -915,6 +912,9 @@
 # The Occultist https://store.steampowered.com/app/2092840/The_Occultist/
 { "name": "The_Occultist.exe", "type": "BG_CPUIO" }
 { "name": "The_Occultist-Win64-Shipping.exe", "type": "Game" }
+
+# The one who pulls out the sword will be crowned king https://store.steampowered.com/app/1865370/The_one_who_pulls_out_the_sword_will_be_crowned_king/
+{ "name": "The one who pulls out the sword will be crowned king.exe", "type": "Game" }
 
 # The Operational Art of War IV https://store.steampowered.com/app/792660/The_Operational_Art_of_War_IV/
 { "name": "TOAW Graphics.exe", "type": "Game" }

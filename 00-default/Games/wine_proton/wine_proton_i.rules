@@ -25,15 +25,6 @@
 { "name": "IMJCH.exe", "type": "BG_CPUIO" }
 { "name": "IMJCH-Win64-Shipping.exe", "type": "Game" }
 
-# ICBM https://store.steampowered.com/app/1178220/ICBM/
-{ "name": "ICBM_MOD.exe", "type": "Game" }
-
-# Iconoclasts https://store.steampowered.com/app/393520/Iconoclasts/
-{ "name": "Iconoclasts.exe", "type": "Game" }
-
-# ISEKAI FRONTLINE https://store.steampowered.com/app/1924140/
-{ "name": "ISEKAI FRONTLINE.exe", "type": "Game" }
-
 # I Am Legion: Stand Survivors https://store.steampowered.com/app/3109580/I_Am_Legion_Stand_Survivors/
 { "name": "StandSurvivors.exe", "type": "Game" }
 
@@ -50,6 +41,9 @@
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
 { "name": "Icarus.exe", "type": "BG_CPUIO" }
 
+# ICBM https://store.steampowered.com/app/1178220/ICBM/
+{ "name": "ICBM_MOD.exe", "type": "Game" }
+
 # ICBM: Escalation https://store.steampowered.com/app/2647680/ICBM_Escalation/
 { "name": "ICBM_mod.exe", "type": "Game" }
 
@@ -61,6 +55,9 @@
 
 # ICEY https://store.steampowered.com/app/553640/ICEY/
 { "name": "ICEY.exe", "type": "Game" }
+
+# Iconoclasts https://store.steampowered.com/app/393520/Iconoclasts/
+{ "name": "Iconoclasts.exe", "type": "Game" }
 
 # Idle Awakening: Mages Path https://store.steampowered.com/app/3678950/Idle_Awakening_Mages_Path/
 { "name": "IdleAwakening.exe", "type": "Game" }
@@ -678,6 +675,9 @@
 
 # Isekai Big Dick https://store.steampowered.com/app/3825660/
 { "name": "IsekaiBigDick.exe", "type": "Game" }
+
+# ISEKAI FRONTLINE https://store.steampowered.com/app/1924140/
+{ "name": "ISEKAI FRONTLINE.exe", "type": "Game" }
 
 # Isekai Sex Boutique https://store.steampowered.com/app/2962480/
 { "name": "IsekaiSexBoutique.exe", "type": "Game" }

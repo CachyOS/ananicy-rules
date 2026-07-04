@@ -20,33 +20,6 @@
 # Above Snakes https://store.steampowered.com/app/1589120/Above_Snakes/
 { "name": "Above Snakes.exe", "type": "Game" }
 
-# Achievement printer https://store.steampowered.com/app/806140/Achievements_printer/
-{ "name": "basket.exe", "type": "Game" }
-
-# AEW: Fight Forever https://store.steampowered.com/app/1913210/AEW_Fight_Forever/
-{ "name": "AEWFightForever.exe", "type": "BG_CPUIO" }
-{ "name": "AEWFightForever-Win64-Shipping.exe", "type": "Game" }
-
-# Agents of Mayhem https://store.steampowered.com/app/304530/Agents_of_Mayhem/
-{ "name": "game_Release.exe", "type": "Game" }
-{ "name": "AOM_Release_Final.exe", "type": "Game" }
-
-# Airborne Kingdom https://store.steampowered.com/app/982290/Airborne_Kingdom/
-{ "name": "AirborneKingdom.exe", "type": "Game" }
-
-# Alpha League HD https://store.steampowered.com/app/3471350/Alpha_League_HD/
-{ "name": "AlphaLeagueMobile.exe", "type": "BG_CPUIO" }
-{ "name": "AlphaLeagueMobile-Win64-Shipping.exe", "type": "Game" }
-
-# American Fugitive https://store.steampowered.com/app/934780/American_Fugitive/
-{ "name": "AmericanFugitive.exe", "type": "Game" }
-
-# Anvil Saga https://store.steampowered.com/app/1587540/Anvil_Saga/
-{ "name": "Anvil Saga.exe", "type": "Game" }
-
-# Arisen Force: Life Devotee https://store.steampowered.com/app/3279120/Arisen_Force_Life_Devotee__Initial_Ver/
-{ "name": "LifeDevotee.exe", "type": "Game" }
-
 # Above the Snow https://store.steampowered.com/app/2423760/Above_the_Snow/
 { "name": "Above The Snow.exe", "type": "Game" }
 
@@ -123,6 +96,9 @@
 
 # AChat https://store.steampowered.com/app/1245610/
 { "name": "achat.exe", "type": "Game" }
+
+# Achievement printer https://store.steampowered.com/app/806140/Achievements_printer/
+{ "name": "basket.exe", "type": "Game" }
 
 # Achilles: Survivor https://store.steampowered.com/app/2922410/Achilles_Survivor/
 { "name": "AchillesSurvivorGame.exe", "type": "Game" }
@@ -234,6 +210,10 @@
 # AETHUS https://store.steampowered.com/app/2541530/AETHUS/
 { "name": "StrikeTheEarth.exe", "type": "Game" }
 
+# AEW: Fight Forever https://store.steampowered.com/app/1913210/AEW_Fight_Forever/
+{ "name": "AEWFightForever.exe", "type": "BG_CPUIO" }
+{ "name": "AEWFightForever-Win64-Shipping.exe", "type": "Game" }
+
 # A Few Quick Matches https://store.steampowered.com/app/3805420/A_Few_Quick_Matches/
 { "name": "A Few Quick Matches.exe", "type": "Game" }
 
@@ -306,6 +286,10 @@
 
 # A Gentlemen's Dispute https://store.steampowered.com/app/2820700/A_Gentlemens_Dispute/
 { "name": "A Gentlemen's Dispute.exe", "type": "Game" }
+
+# Agents of Mayhem https://store.steampowered.com/app/304530/Agents_of_Mayhem/
+{ "name": "game_Release.exe", "type": "Game" }
+{ "name": "AOM_Release_Final.exe", "type": "Game" }
 
 # Age of Conan: Unchained https://store.steampowered.com/app/217750/Age_of_Conan_Unchained/
 { "name": "ConanPatcher.exe", "type": "Game" }
@@ -421,6 +405,9 @@
 
 # Airborne Empire https://store.steampowered.com/app/2438680/Airborne_Empire/
 { "name": "AirborneEmpire.exe", "type": "Game" }
+
+# Airborne Kingdom https://store.steampowered.com/app/982290/Airborne_Kingdom/
+{ "name": "AirborneKingdom.exe", "type": "Game" }
 
 # Air Brawl https://store.steampowered.com/app/375600/Air_Brawl/
 { "name": "Air Brawl.exe", "type": "Game" }
@@ -615,6 +602,10 @@
 # Alphabet https://store.steampowered.com/app/3102380/Alphabet/
 { "name": "Alphabet.exe", "type": "Game" }
 
+# Alpha League HD https://store.steampowered.com/app/3471350/Alpha_League_HD/
+{ "name": "AlphaLeagueMobile.exe", "type": "BG_CPUIO" }
+{ "name": "AlphaLeagueMobile-Win64-Shipping.exe", "type": "Game" }
+
 # Alpha Prime https://store.steampowered.com/app/2590/Alpha_Prime/
 { "name": "AlphaPrime.exe", "type": "Game" }
 
@@ -666,6 +657,9 @@
 
 # American Conquest https://store.steampowered.com/app/115210/American_Conquest/
 { "name": "DMCR.EXE", "type": "Game" }
+
+# American Fugitive https://store.steampowered.com/app/934780/American_Fugitive/
+{ "name": "AmericanFugitive.exe", "type": "Game" }
 
 # American Theft 80s https://store.steampowered.com/app/1321450/American_Theft_80s/
 { "name": "American Theft 80s.exe", "type": "Game" }
@@ -934,6 +928,9 @@
 { "name": "Anvil.exe", "type": "BG_CPUIO" }
 { "name": "Anvil-Win64-Shipping.exe", "type": "Game" }
 
+# Anvil Saga https://store.steampowered.com/app/1587540/Anvil_Saga/
+{ "name": "Anvil Saga.exe", "type": "Game" }
+
 # Aokana - Four Rhythms Across the Blue https://store.steampowered.com/app/1044620/Aokana__Four_Rhythms_Across_the_Blue/
 { "name": "Aokana.exe", "type": "Game" }
 
@@ -1108,6 +1105,9 @@
 # Arise: A Simple Story https://store.steampowered.com/app/866140/Arise_A_Simple_Story/
 { "name": "Arise.exe", "type": "BG_CPUIO" }
 { "name": "Arise-Win64-Shipping.exe", "type": "Game" }
+
+# Arisen Force: Life Devotee https://store.steampowered.com/app/3279120/Arisen_Force_Life_Devotee__Initial_Ver/
+{ "name": "LifeDevotee.exe", "type": "Game" }
 
 # Arizona Sunshine https://store.steampowered.com/app/342180/
 { "name": "ArizonaSunshine.exe", "type": "Game" }

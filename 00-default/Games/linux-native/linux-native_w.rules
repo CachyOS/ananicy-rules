@@ -41,15 +41,6 @@
 # Warhammer 40,000: Mechanicus https://store.steampowered.com/app/673880/Warhammer_40000_Mechanicus/
 { "name": "Mechanicus.x86_64", "type": "Game" }
 
-# We. The Revolution https://store.steampowered.com/app/736850/We_The_Revolution/
-{ "name": "We.TheRevolution.x86_64", "type": "Game" }
-{ "name": "We.TheRevolution.x86", "type": "Game" }
-{ "name": "We.TheRevolution.x86_64elf", "type": "Game" }
-{ "name": "We.TheRevolution.x86elf", "type": "Game" }
-
-# while True: learn() https://store.steampowered.com/app/619150/while_True_learn/
-{ "name": "wtl.x86_64", "type": "Game" }
-
 # Warplanes: WW2 Dogfight https://store.steampowered.com/app/936780/Warplanes_WW2_Dogfight/
 { "name": "Warplanes.x86_64", "type": "Game" }
 
@@ -106,6 +97,12 @@
 { "name": "West of Loathing.x86", "type": "Game" }
 { "name": "West of Loathing.x86_64", "type": "Game" }
 
+# We. The Revolution https://store.steampowered.com/app/736850/We_The_Revolution/
+{ "name": "We.TheRevolution.x86_64", "type": "Game" }
+{ "name": "We.TheRevolution.x86", "type": "Game" }
+{ "name": "We.TheRevolution.x86_64elf", "type": "Game" }
+{ "name": "We.TheRevolution.x86elf", "type": "Game" }
+
 # We Were Here Too https://store.steampowered.com/app/677160/We_Were_Here_Too/
 { "name": "We Were Here Too.x86", "type": "Game" }
 { "name": "We Were Here Too.x86_64", "type": "Game" }
@@ -115,6 +112,9 @@
 
 # Where the Heart is https://store.steampowered.com/app/2287710/
 { "name": "WTHI_Season1", "type": "Game" }
+
+# while True: learn() https://store.steampowered.com/app/619150/while_True_learn/
+{ "name": "wtl.x86_64", "type": "Game" }
 
 # Whispering Willows https://store.steampowered.com/app/288060/Whispering_Willows/
 { "name": "WhisperingWillows.x86", "type": "Game" }

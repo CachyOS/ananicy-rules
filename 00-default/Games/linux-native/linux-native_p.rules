@@ -33,12 +33,6 @@
 # Papo & Yo https://store.steampowered.com/app/227080/Papo__Yo/
 { "name": "PYGame-Linux", "type": "Game" }
 
-# Pineapple on pizza https://store.steampowered.com/app/2263010/Pineapple_on_pizza/
-{ "name": "Pineapple on pizza.x86_64", "type": "Game" }
-
-# Pyre https://store.steampowered.com/app/462770/Pyre/
-{ "name": "Pyre", "type": "Game" }
-
 # Paradise Lust https://store.steampowered.com/app/1427860/
 { "name": "paradise_lust.x86_64", "type": "Game" }
 
@@ -126,6 +120,9 @@
 
 # Pillars of Eternity II: Deadfire https://store.steampowered.com/app/560130/Pillars_of_Eternity_II_Deadfire/
 { "name": "PillarsOfEternityII", "type": "Game" }
+
+# Pineapple on pizza https://store.steampowered.com/app/2263010/Pineapple_on_pizza/
+{ "name": "Pineapple on pizza.x86_64", "type": "Game" }
 
 # Pirates Vikings & Knights II https://store.steampowered.com/app/17570/Pirates_Vikings__Knights_II/
 { "name": "vtf2tga_linux32", "type": "Game" }
@@ -278,3 +275,6 @@
 
 # PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
 { "name": "pyramidlauncher", "type": "Game" }
+
+# Pyre https://store.steampowered.com/app/462770/Pyre/
+{ "name": "Pyre", "type": "Game" }

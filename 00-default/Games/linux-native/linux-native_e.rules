@@ -20,12 +20,6 @@
 # ECWolf : an advanced source port for Wolfenstein 3D http://maniacsvault.net/ecwolf/
 { "name": "ecwolf", "type": "Game" }
 
-# Emily is Away Too https://store.steampowered.com/app/523780/Emily_is_Away_Too/
-{ "name": "EmilyIsAwayToo.x86", "type": "Game" }
-
-# EXAPUNKS https://store.steampowered.com/app/716490/EXAPUNKS/
-{ "name": "EXAPUNKS", "type": "Game" }
-
 # EDGE https://store.steampowered.com/app/38740/EDGE/
 { "name": "EDGE.bin.x86", "type": "Game" }
 
@@ -62,6 +56,9 @@
 
 # Emily is Away https://store.steampowered.com/app/417860/Emily_is_Away/
 { "name": "emily is away.x86", "type": "Game" }
+
+# Emily is Away Too https://store.steampowered.com/app/523780/Emily_is_Away_Too/
+{ "name": "EmilyIsAwayToo.x86", "type": "Game" }
 
 # Emperor of the Fading Suns https://store.steampowered.com/app/2799350/Emperor_of_the_Fading_Suns_Enhanced/
 { "name": "efs", "type": "Game" }
@@ -137,6 +134,9 @@
 
 # Evoland https://store.steampowered.com/app/233470/Evoland/
 { "name": "Evo32", "type": "Game" }
+
+# EXAPUNKS https://store.steampowered.com/app/716490/EXAPUNKS/
+{ "name": "EXAPUNKS", "type": "Game" }
 
 # Exiled Kingdoms https://store.steampowered.com/app/788270/Exiled_Kingdoms/
 { "name": "exiledkingdoms", "type": "Game" }

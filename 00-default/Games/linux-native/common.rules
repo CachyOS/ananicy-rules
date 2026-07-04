@@ -270,10 +270,6 @@
 # Out of the Park Baseball 17 https://store.steampowered.com/app/402430/Out_of_the_Park_Baseball_17/
 { "name": "ootp_linux64r", "type": "Game" }
 
-# Wordle https://store.steampowered.com/app/1334000/Wordle/
-# Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
-{ "name": "wordle.x86", "type": "Game" }
-
 # Overlord https://store.steampowered.com/app/11450/Overlord/
 # Overlord: Raising Hell https://store.steampowered.com/app/12710/Overlord_Raising_Hell/
 { "name": "overlord", "type": "Game" }
@@ -417,6 +413,10 @@
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/404730/
 # Wasteland 2: Director's Cut https://store.steampowered.com/app/240760/Wasteland_2_Directors_Cut/
 { "name": "WL2", "type": "Game" }
+
+# Wordle https://store.steampowered.com/app/1334000/Wordle/
+# Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
+{ "name": "wordle.x86", "type": "Game" }
 
 # Wurm Online https://store.steampowered.com/app/1179680/Wurm_Online/
 # Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/

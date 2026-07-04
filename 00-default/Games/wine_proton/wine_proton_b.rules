@@ -51,32 +51,6 @@
 { "name": "SCPExperiences.exe", "type": "BG_CPUIO" }
 { "name": "SCPExperiences-Win64-Shipping.exe", "type": "Game" }
 
-# Billies Wheelie https://store.steampowered.com/app/3180310/Billies_Wheelie/
-{ "name": "Billie Wheelie.exe", "type": "Game" }
-
-# BLACK STIGMA https://store.steampowered.com/app/1277530/BLACK_STIGMA/
-{ "name": "StigmaClient.exe", "type": "BG_CPUIO" }
-{ "name": "StigmaClient-Win64-Shipping.exe", "type": "Game" }
-
-# BlazBlue: Chronophantasma Extend https://store.steampowered.com/app/388750/BlazBlue_Chronophantasma_Extend/
-{ "name": "BBCPEX.exe", "type": "Game" }
-
-# Bloons Card Storm https://store.steampowered.com/app/2876550/Bloons_Card_Storm/
-{ "name": "BloonsCardStorm.exe", "type": "Game" }
-
-# Bombergrounds: Reborn https://store.steampowered.com/app/1104450/Bombergrounds_Reborn/
-{ "name": "Bombergrounds.exe", "type": "Game" }
-
-# Boring Man - Online Tactical Stickman Combat https://store.steampowered.com/app/346120/Boring_Man__Online_Tactical_Stickman_Combat/
-{ "name": "BoringManGame.exe", "type": "Game" }
-
-# Bright Memory https://store.steampowered.com/app/955050/Bright_Memory/
-{ "name": "BrightMemory_EP1-Win64-Shipping.exe", "type": "Game" }
-{ "name": "BrightMemory_EP1.exe", "type": "BG_CPUIO" }
-
-# BROKE PROTOCOL https://store.steampowered.com/app/696370/BROKE_PROTOCOL/
-{ "name": "BrokeProtocol.exe", "type": "Game" }
-
 # Backrooms Society https://store.steampowered.com/app/2304620/Backrooms_Society/
 { "name": "GameBackroomsSociety.exe", "type": "BG_CPUIO" }
 { "name": "GameBackroomsSociety-Win64-Shipping.exe", "type": "Game" }
@@ -679,6 +653,9 @@
 # Bigscreen Beyond Utility https://store.steampowered.com/app/2467050/
 { "name": "BeyondHID.exe", "type": "Game" }
 
+# Billies Wheelie https://store.steampowered.com/app/3180310/Billies_Wheelie/
+{ "name": "Billie Wheelie.exe", "type": "Game" }
+
 # Binary Domain https://store.steampowered.com/app/203750/Binary_Domain/
 { "name": "BinaryDomain.exe", "type": "Game" }
 { "name": "BinaryDomainConfiguration.exe", "type": "Game" }
@@ -838,6 +815,10 @@
 { "name": "BlackSquadGame_BELauncher.exe", "type": "BG_CPUIO" }
 { "name": "BlackSquadGame.exe", "type": "Game" }
 
+# BLACK STIGMA https://store.steampowered.com/app/1277530/BLACK_STIGMA/
+{ "name": "StigmaClient.exe", "type": "BG_CPUIO" }
+{ "name": "StigmaClient-Win64-Shipping.exe", "type": "Game" }
+
 # BLACKTAIL https://store.steampowered.com/app/1532690/BLACKTAIL/
 { "name": "BLACKTAIL.exe", "type": "BG_CPUIO" }
 { "name": "BLACKTAIL-Win64-Shipping.exe", "type": "Game" }
@@ -900,6 +881,9 @@
 
 # BlazBlue Centralfiction https://store.steampowered.com/app/586140/BlazBlue_Centralfiction/
 { "name": "BBCF.exe", "type": "Game" }
+
+# BlazBlue: Chronophantasma Extend https://store.steampowered.com/app/388750/BlazBlue_Chronophantasma_Extend/
+{ "name": "BBCPEX.exe", "type": "Game" }
 
 # BlazBlue Cross Tag Battle https://store.steampowered.com/app/702890/BlazBlue_Cross_Tag_Battle/
 { "name": "BBTAG.exe", "type": "Game" }
@@ -1059,6 +1043,9 @@
 # Bloons Adventure Time TD https://store.steampowered.com/app/979060/Bloons_Adventure_Time_TD/
 { "name": "btdadventuretime.exe", "type": "Game" }
 
+# Bloons Card Storm https://store.steampowered.com/app/2876550/Bloons_Card_Storm/
+{ "name": "BloonsCardStorm.exe", "type": "Game" }
+
 # Bloons Monkey City https://store.steampowered.com/app/1252780/Bloons_Monkey_City/
 { "name": "MonkeyCity-Win.exe", "type": "Game" }
 
@@ -1133,6 +1120,9 @@
 
 # Bomber Crew https://store.steampowered.com/app/537800/Bomber_Crew/
 { "name": "BomberCrew.exe", "type": "Game" }
+
+# Bombergrounds: Reborn https://store.steampowered.com/app/1104450/Bombergrounds_Reborn/
+{ "name": "Bombergrounds.exe", "type": "Game" }
 
 # Bombix https://store.steampowered.com/app/662830/Bombix/
 { "name": "bombix.exe", "type": "Game" }
@@ -1219,6 +1209,9 @@
 
 # Borderless Gaming https://store.steampowered.com/app/388080/Borderless_Gaming/
 { "name": "BorderlessGaming.exe", "type": "Game" }
+
+# Boring Man - Online Tactical Stickman Combat https://store.steampowered.com/app/346120/Boring_Man__Online_Tactical_Stickman_Combat/
+{ "name": "BoringManGame.exe", "type": "Game" }
 
 # Born Again https://store.steampowered.com/app/2332210/Born_Again/
 { "name": "Born Again.exe", "type": "Game" }
@@ -1378,6 +1371,10 @@
 # Bright Lord https://store.steampowered.com/app/2906370/
 { "name": "BrightLord.exe", "type": "Game" }
 
+# Bright Memory https://store.steampowered.com/app/955050/Bright_Memory/
+{ "name": "BrightMemory_EP1-Win64-Shipping.exe", "type": "Game" }
+{ "name": "BrightMemory_EP1.exe", "type": "BG_CPUIO" }
+
 # Bright Memory: Infinite https://store.steampowered.com/app/1178830/Bright_Memory_Infinite/
 { "name": "BrightMemoryInfinite-Win64-Shipping.exe", "type": "Game" }
 
@@ -1417,6 +1414,9 @@
 
 # Broken Sword - Shadow of the Templars: Reforged https://store.steampowered.com/app/2544110/Broken_Sword__Shadow_of_the_Templars_Reforged/
 { "name": "BS1R.exe", "type": "Game" }
+
+# BROKE PROTOCOL https://store.steampowered.com/app/696370/BROKE_PROTOCOL/
+{ "name": "BrokeProtocol.exe", "type": "Game" }
 
 # Bronzebeard's Tavern https://store.steampowered.com/app/2422870/Bronzebeards_Tavern/
 { "name": "GameProject.exe", "type": "BG_CPUIO" }

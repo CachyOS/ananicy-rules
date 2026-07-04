@@ -89,30 +89,6 @@
 # PANICORE https://store.steampowered.com/app/2695940/PANICORE/
 { "name": "Panicore.exe", "type": "Game" }
 
-# Park Beyond https://store.steampowered.com/app/1368130/Park_Beyond/
-{ "name": "ParkBeyond.exe", "type": "BG_CPUIO" }
-{ "name": "ParkBeyond-Win64-Shipping.exe", "type": "Game" }
-
-# Pineapple on pizza https://store.steampowered.com/app/2263010/Pineapple_on_pizza/
-{ "name": "Pineapple on pizza.exe", "type": "Game" }
-
-# Pirates https://store.steampowered.com/app/1660520/Pirates/
-{ "name": "Pirates.exe", "type": "BG_CPUIO" }
-{ "name": "Pirates-Win64-Shipping.exe", "type": "Game" }
-
-# Plantera https://store.steampowered.com/app/421040/Plantera/
-{ "name": "Plantera.exe", "type": "Game" }
-
-# Prismata https://store.steampowered.com/app/490220/Prismata/
-{ "name": "Prismata.exe", "type": "Game" }
-{ "name": "PrismataAI.exe", "type": "Game" }
-
-# Pyre https://store.steampowered.com/app/462770/Pyre/
-{ "name": "Pyre.exe", "type": "Game" }
-
-# Pyrene https://store.steampowered.com/app/2468100/Pyrene/
-{ "name": "Pyrene.exe", "type": "Game" }
-
 # Pankapu https://store.steampowered.com/app/418670/Pankapu/
 { "name": "pankapu.exe", "type": "Game" }
 
@@ -234,6 +210,10 @@
 
 # Parkasaurus https://store.steampowered.com/app/591460/Parkasaurus/
 { "name": "Parkasaurus.exe", "type": "Game" }
+
+# Park Beyond https://store.steampowered.com/app/1368130/Park_Beyond/
+{ "name": "ParkBeyond.exe", "type": "BG_CPUIO" }
+{ "name": "ParkBeyond-Win64-Shipping.exe", "type": "Game" }
 
 # Parking Garage Rally Circuit https://store.steampowered.com/app/2737300/Parking_Garage_Rally_Circuit/
 { "name": "garagerally.exe", "type": "Game" }
@@ -603,6 +583,9 @@
 # Pincremental https://store.steampowered.com/app/1369470/Pincremental/
 { "name": "Pincremental.exe", "type": "Game" }
 
+# Pineapple on pizza https://store.steampowered.com/app/2263010/Pineapple_on_pizza/
+{ "name": "Pineapple on pizza.exe", "type": "Game" }
+
 # Pink Noise https://store.steampowered.com/app/2885810/Pink_Noise/
 { "name": "Pink Noise.exe", "type": "Game" }
 
@@ -618,6 +601,10 @@
 
 # Pirate101 https://store.steampowered.com/app/620620/Pirate101/
 { "name": "Pirate101.exe", "type": "Game" }
+
+# Pirates https://store.steampowered.com/app/1660520/Pirates/
+{ "name": "Pirates.exe", "type": "BG_CPUIO" }
+{ "name": "Pirates-Win64-Shipping.exe", "type": "Game" }
 
 # Pirate Ships https://store.steampowered.com/app/4011110/Pirate_Ships/
 { "name": "PirateShips.exe", "type": "Game" }
@@ -780,6 +767,9 @@
 
 # Planet Zoo https://store.steampowered.com/app/703080/Planet_Zoo/
 { "name": "PlanetZoo.exe", "type": "Game" }
+
+# Plantera https://store.steampowered.com/app/421040/Plantera/
+{ "name": "Plantera.exe", "type": "Game" }
 
 # Plant Nursery Simulator https://store.steampowered.com/app/3474700/Plant_Nursery_Simulator/
 { "name": "PlantNurserySimulator.exe", "type": "Game" }
@@ -1172,6 +1162,10 @@
 # Princess Maker 2 Refine https://store.steampowered.com/app/523000/Princess_Maker_2_Refine/
 { "name": "pm2.exe", "type": "Game" }
 
+# Prismata https://store.steampowered.com/app/490220/Prismata/
+{ "name": "Prismata.exe", "type": "Game" }
+{ "name": "PrismataAI.exe", "type": "Game" }
+
 # Prison Architect https://store.steampowered.com/app/233450/Prison_Architect/
 { "name": "Prison Architect.exe", "type": "Game" }
 { "name": "prison architect64.exe", "type": "Game" }
@@ -1491,6 +1485,12 @@
 
 # PyramidValley https://store.steampowered.com/app/3618760/PyramidValley_Reborn/
 { "name": "PyramidValley.exe", "type": "Game" }
+
+# Pyre https://store.steampowered.com/app/462770/Pyre/
+{ "name": "Pyre.exe", "type": "Game" }
+
+# Pyrene https://store.steampowered.com/app/2468100/Pyrene/
+{ "name": "Pyrene.exe", "type": "Game" }
 
 # Pyromaniac https://store.steampowered.com/app/4303040/Pyromaniac/
 { "name": "Pyromaniac.exe", "type": "Game" }

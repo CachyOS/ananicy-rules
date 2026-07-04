@@ -23,9 +23,6 @@
 # Half-Life 2: Deathmatch https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/
 { "name": "hl2mp_linux64", "type": "Game" }
 
-# Happy Room https://store.steampowered.com/app/550010/Happy_Room/
-{ "name": "Happy Room.x86_64", "type": "Game" }
-
 # Half Life: Alyx https://store.steampowered.com/app/546560/HalfLife_Alyx/
 { "name": "hlvr", "type": "Game" }
 
@@ -66,6 +63,9 @@
 
 # Happy Endings Demo https://store.steampowered.com/app/4738790/
 { "name": "happy-endings", "type": "Game" }
+
+# Happy Room https://store.steampowered.com/app/550010/Happy_Room/
+{ "name": "Happy Room.x86_64", "type": "Game" }
 
 # Hard West https://store.steampowered.com/app/307670/Hard_West/
 { "name": "HardWest.x86", "type": "Game" }

@@ -27,9 +27,6 @@
 # Jagged Alliance 2 - Wildfire https://store.steampowered.com/app/215930/Jagged_Alliance_2__Wildfire/
 { "name": "WF6.exe", "type": "Game" }
 
-# Journey to the West https://store.steampowered.com/app/1449070/Journey_to_the_West/
-{ "name": "JTW.exe", "type": "Game" }
-
 # Jagged Alliance 3 https://store.steampowered.com/app/1084160/Jagged_Alliance_3/
 { "name": "JA3.exe", "type": "Game" }
 { "name": "JA3Debug.exe", "type": "Game" }
@@ -112,6 +109,9 @@
 
 # Journey to Incrementalia https://store.steampowered.com/app/3147430/Journey_to_Incrementalia/
 { "name": "Journey to Incrementalia.exe", "type": "Game" }
+
+# Journey to the West https://store.steampowered.com/app/1449070/Journey_to_the_West/
+{ "name": "JTW.exe", "type": "Game" }
 
 # Joyquarium https://store.steampowered.com/app/3472890/Joyquarium/
 { "name": "YuGang.exe", "type": "Game" }

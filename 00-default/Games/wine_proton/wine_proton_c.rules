@@ -30,6 +30,9 @@
 # Cafemart Simulator https://store.steampowered.com/app/3408110/Cafemart_Simulator/
 { "name": "Cafemart Simulator.exe", "type": "Game" }
 
+# Cafe Owner Simulator: Prologue https://store.steampowered.com/app/1473250/Cafe_Owner_Simulator_Prologue/
+{ "name": "Cafe Owner Simulator.exe", "type": "Game" }
+
 # Café Stella and the Reaper's Butterflies https://store.steampowered.com/app/1829980/Caf_Stella_and_the_Reapers_Butterflies/
 { "name": "CafeStella.exe", "type": "Game" }
 
@@ -388,6 +391,10 @@
 
 # CASE 2: Animatronics Survival https://store.steampowered.com/app/722960/CASE_2_Animatronics_Survival/
 { "name": "Case2.exe", "type": "Game" }
+
+# CASE: Animatronics https://store.steampowered.com/app/489360/CASE_Animatronics/
+{ "name": "case32.exe", "type": "Game" }
+{ "name": "case64.exe", "type": "Game" }
 
 # CaseCracker https://store.steampowered.com/app/1723260/CaseCracker/
 { "name": "CaseCracker.exe", "type": "Game" }
@@ -1732,14 +1739,6 @@
 
 # CRYO https://store.steampowered.com/app/2564910/CRYO/
 { "name": "Cryo.exe", "type": "Game" }
-
-# Cafe Owner Simulator: Prologue https://store.steampowered.com/app/1473250/Cafe_Owner_Simulator_Prologue/
-{ "name": "Cafe Owner Simulator.exe", "type": "Game" }
-
-# CASE: Animatronics https://store.steampowered.com/app/489360/CASE_Animatronics/
-{ "name": "case32.exe", "type": "Game" }
-{ "name": "case64.exe", "type": "Game" }
-
 
 # CryoFall https://store.steampowered.com/app/829590/CryoFall/
 { "name": "CryoFall_Client.exe", "type": "Game" }

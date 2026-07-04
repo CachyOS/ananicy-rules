@@ -270,10 +270,6 @@
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
 { "name": "Castle.exe", "type": "Game" }
 
-# ICBM https://store.steampowered.com/app/1178220/ICBM/
-# ICBM: Escalation https://store.steampowered.com/app/2647680/ICBM_Escalation/
-{ "name": "ICBM.exe", "type": "Game" }
-
 # Catto Pew Pew! CLASSIC https://store.steampowered.com/app/2065330/Catto_Pew_Pew_CLASSIC/
 # Catto Pew Pew! Demo https://store.steampowered.com/app/4051340/
 { "name": "Catto Pew Pew!.exe", "type": "Game" }
@@ -316,18 +312,6 @@
 # Contraband Police: Prologue https://store.steampowered.com/app/1396240/Contraband_Police_Prologue/
 { "name": "ContrabandPolice.exe", "type": "Game"}
 
-# Danganronpa V3: Killing Harmony https://store.steampowered.com/app/567640/Danganronpa_V3_Killing_Harmony/
-# Danganronpa V3: Killing Harmony Demo Ver. https://store.steampowered.com/app/589120/Danganronpa_V3_Killing_Harmony_Demo_Ver/
-{ "name": "Dangan3Win.exe", "type": "Game" }
-
-# Vade Retro : Exorcist https://store.steampowered.com/app/1931950/Vade_Retro__Exorcist/
-# Zhǎn yāo xíng 斩妖行 Eastern Exorcist https://store.steampowered.com/app/1120810/Eastern_Exorcist/
-{ "name": "Exorcist.exe", "type": "Game" }
-
-# Dagon https://store.steampowered.com/app/1481400/Dagon_by_H_P_Lovecraft/
-# Serena https://store.steampowered.com/app/272060/Serena/
-{ "name": "Dagon.exe", "type": "Game" }
-
 # Skyrim Special Edition: Creation Kit https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/
 # Starfield: Creation Kit https://store.steampowered.com/app/2722710/Starfield_Creation_Kit/
 # Fallout 4: Creation Kit https://store.steampowered.com/app/1946160/Fallout_4_Creation_Kit/
@@ -357,6 +341,14 @@
 # Cursemark https://store.steampowered.com/app/3219180/Cursemark/
 # Cursemark Demo https://store.steampowered.com/app/3853080/
 { "name": "Cursemark.exe", "type": "Game" }
+
+# Dagon https://store.steampowered.com/app/1481400/Dagon_by_H_P_Lovecraft/
+# Serena https://store.steampowered.com/app/272060/Serena/
+{ "name": "Dagon.exe", "type": "Game" }
+
+# Danganronpa V3: Killing Harmony https://store.steampowered.com/app/567640/Danganronpa_V3_Killing_Harmony/
+# Danganronpa V3: Killing Harmony Demo Ver. https://store.steampowered.com/app/589120/Danganronpa_V3_Killing_Harmony_Demo_Ver/
+{ "name": "Dangan3Win.exe", "type": "Game" }
 
 # Dragon Age: Origins https://store.steampowered.com/app/17450/Dragon_Age_Origins/
 # Dragon Age: Origins - Ultimate Edition https://store.steampowered.com/app/47810/Dragon_Age_Origins__Ultimate_Edition/
@@ -676,6 +668,10 @@
 # Platform 8 https://store.steampowered.com/app/2903560/Platform_8/
 # The Exit 8 https://store.steampowered.com/app/2653790/The_Exit_8/
 { "name": "Exit8-Win64-Shipping.exe", "type": "Game" }
+
+# Vade Retro : Exorcist https://store.steampowered.com/app/1931950/Vade_Retro__Exorcist/
+# Zhǎn yāo xíng 斩妖行 Eastern Exorcist https://store.steampowered.com/app/1120810/Eastern_Exorcist/
+{ "name": "Exorcist.exe", "type": "Game" }
 
 # Factorio Demo https://store.steampowered.com/app/452280/Factorio/
 # Factorio https://store.steampowered.com/app/427520/Factorio/
@@ -1154,6 +1150,10 @@
 # Granny https://store.steampowered.com/app/962400/Granny/
 { "name": "Granny.exe", "type": "Game" }
 
+# GUILTY GEAR Xrd -SIGN- https://store.steampowered.com/app/376300/GUILTY_GEAR_Xrd_SIGN/
+# GUILTY GEAR Xrd REV 2 https://store.steampowered.com/app/520440/GUILTY_GEAR_Xrd_REV_2/
+{ "name": "GuiltyGearXrd.exe", "type": "Game" }
+
 # Guns of Icarus Online https://store.steampowered.com/app/209080/Guns_of_Icarus_Online/
 # Guns of Icarus Alliance https://store.steampowered.com/app/608800/Guns_of_Icarus_Alliance/
 { "name": "GunsOfIcarusOnline.exe", "type": "Game" }
@@ -1256,10 +1256,6 @@
 # Counter-Strike: Condition Zero Deleted Scenes https://store.steampowered.com/app/100/CounterStrike_Condition_Zero/
 { "name": "hlds.exe", "type": "Game" }
 
-# GUILTY GEAR Xrd -SIGN- https://store.steampowered.com/app/376300/GUILTY_GEAR_Xrd_SIGN/
-# GUILTY GEAR Xrd REV 2 https://store.steampowered.com/app/520440/GUILTY_GEAR_Xrd_REV_2/
-{ "name": "GuiltyGearXrd.exe", "type": "Game" }
-
 # Day of Defeat https://store.steampowered.com/app/30/Day_of_Defeat/
 # Counter-Strike https://store.steampowered.com/app/10/CounterStrike/
 # Counter-Strike: Condition Zero https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
@@ -1294,6 +1290,10 @@
 # Hammerwatch II https://store.steampowered.com/app/1538970/Hammerwatch_II/
 # Five Nights at Freddy's: Help Wanted 2 https://store.steampowered.com/app/2287520/Five_Nights_at_Freddys_Help_Wanted_2/
 { "name": "HW2.exe", "type": "Game" }
+
+# ICBM https://store.steampowered.com/app/1178220/ICBM/
+# ICBM: Escalation https://store.steampowered.com/app/2647680/ICBM_Escalation/
+{ "name": "ICBM.exe", "type": "Game" }
 
 # Guàjī pòhuài shén IdleDiablo 挂机破坏神 IdleDiablo https://store.steampowered.com/app/4411600/_IdleDiablo/
 # Guàjī pòhuài shén IdleDiablo Demo 挂机破坏神 IdleDiablo Demo https://store.steampowered.com/app/4579600/_IdleDiablo_Demo/
@@ -1481,10 +1481,6 @@
 # 7,62 Hard Life https://store.steampowered.com/app/306290/762_Hard_Life/
 # Planet Alcatraz https://store.steampowered.com/app/289420/Planet_Alcatraz/
 { "name": "launcher-x64.exe", "type": "Game" }
-
-# Outpath https://store.steampowered.com/app/2237970/Outpath/
-# Outpath: First Journey https://store.steampowered.com/app/2237980/Outpath_First_Journey/
-{ "name": "Outpath.exe", "type": "Game" }
 
 # Wolfenstein 3D https://store.steampowered.com/app/2270/Wolfenstein_3D/
 # Another Brick in The Mall https://store.steampowered.com/app/521150/Another_Brick_in_The_Mall/
@@ -1770,6 +1766,10 @@
 # OPERATOR https://store.steampowered.com/app/1913370/OPERATOR/
 # The Operator https://store.steampowered.com/app/1771980/The_Operator/
 { "name": "OPERATOR.exe", "type": "Game" }
+
+# Outpath https://store.steampowered.com/app/2237970/Outpath/
+# Outpath: First Journey https://store.steampowered.com/app/2237980/Outpath_First_Journey/
+{ "name": "Outpath.exe", "type": "Game" }
 
 # OUTRIDERS https://store.steampowered.com/app/680420/OUTRIDERS/
 # OUTRIDERS Demo https://store.steampowered.com/app/1435990/
@@ -2421,17 +2421,9 @@
 # Tamer: King of Dinosaurs https://store.steampowered.com/app/3026730/
 { "name": "Tamer-Win64-Shipping.exe", "type": "Game" }
 
-# Tobacco Shop Simulator: Prologue https://store.steampowered.com/app/3211690/Tobacco_Shop_Simulator_Prologue/
-# Tobacco Shop Simulator https://store.steampowered.com/app/3211680/Tobacco_Shop_Simulator/
-{ "name": "TobaccoShopSim.exe", "type": "BG_CPUIO" }
-
 # Fuga: Melodies of Steel https://store.steampowered.com/app/1357860/Fuga_Melodies_of_Steel/
 # Fuga: Melodies of Steel 3 https://store.steampowered.com/app/3081320/Fuga_Melodies_of_Steel_3/
 { "name": "TANK-Win64-Shipping.exe", "type": "Game" }
-
-# Tobacco Shop Simulator https://store.steampowered.com/app/3211680/Tobacco_Shop_Simulator/
-# Tobacco Shop Simulator: Prologue https://store.steampowered.com/app/3211690/Tobacco_Shop_Simulator_Prologue/
-{ "name": "TobaccoShopSim-Win64-Shipping.exe", "type": "Game" }
 
 # Tour de France 2025 https://store.steampowered.com/app/2511320/Tour_de_France_2025/
 # Tour de France 2024 https://store.steampowered.com/app/2494340/Tour_de_France_2024/
@@ -2510,6 +2502,14 @@
 # Trackmania United Forever https://store.steampowered.com/app/7200/Trackmania_United_Forever/
 { "name": "TmForeverLauncher.exe", "type": "Game" }
 
+# Tobacco Shop Simulator: Prologue https://store.steampowered.com/app/3211690/Tobacco_Shop_Simulator_Prologue/
+# Tobacco Shop Simulator https://store.steampowered.com/app/3211680/Tobacco_Shop_Simulator/
+{ "name": "TobaccoShopSim.exe", "type": "BG_CPUIO" }
+
+# Tobacco Shop Simulator https://store.steampowered.com/app/3211680/Tobacco_Shop_Simulator/
+# Tobacco Shop Simulator: Prologue https://store.steampowered.com/app/3211690/Tobacco_Shop_Simulator_Prologue/
+{ "name": "TobaccoShopSim-Win64-Shipping.exe", "type": "Game" }
+
 # Torchlight: Infinite https://store.steampowered.com/app/1974050/Torchlight_Infinite/
 # Huǒjù zhī guāng: Wúxiàn 火炬之光：无限 https://store.steampowered.com/app/2315040/
 { "name": "torchlight_infinite.exe", "type": "Game" }
@@ -2522,10 +2522,6 @@
 # A Tower Full of Cats https://store.steampowered.com/app/2179170/A_Tower_Full_of_Cats/
 # Tower Unite https://store.steampowered.com/app/394690/Tower_Unite/
 { "name": "Tower.exe", "type": "Game" }
-
-# Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
-# Trans-Siberian Railway Simulator: Prologue https://store.steampowered.com/app/2248950/TransSiberian_Railway_Simulator_Prologue/
-{ "name": "Trans-Siberian Railway Simulator.exe", "type": "Game" }
 
 # Journey To The Savage Planet https://store.steampowered.com/app/973810/Journey_To_The_Savage_Planet/
 # Revenge of the Savage Planet https://store.steampowered.com/app/2787320/Revenge_of_the_Savage_Planet/
@@ -2548,6 +2544,10 @@
 # Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
 # Trans-Siberian Railway Simulator: Prologue https://store.steampowered.com/app/2248950/TransSiberian_Railway_Simulator_Prologue/
 { "name": "Train-Win64-Shipping.exe", "type": "Game" }
+
+# Trans-Siberian Railway Simulator https://store.steampowered.com/app/998400/TransSiberian_Railway_Simulator/
+# Trans-Siberian Railway Simulator: Prologue https://store.steampowered.com/app/2248950/TransSiberian_Railway_Simulator_Prologue/
+{ "name": "Trans-Siberian Railway Simulator.exe", "type": "Game" }
 
 # KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000 Demo https://store.steampowered.com/app/4791640/
 # My Wife Threw Out My Card Collection (So I Bought a Dump to Find Them All) ⭐ https://store.steampowered.com/app/3868310/My_Wife_Threw_Out_My_Card_Collection_So_I_Bought_a_Dump_to_Find_Them_All/

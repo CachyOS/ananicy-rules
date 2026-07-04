@@ -50,26 +50,6 @@
 { "name": "NSUNSR_option1.exe", "type": "Game"}
 { "name": "NSUNSR_option2.exe", "type": "Game"}
 
-# NEKOPARA - Catboys Paradise https://store.steampowered.com/app/1593310/NEKOPARA__Catboys_Paradise/
-{ "name": "NEKOPARA - Catboys Paradise.exe", "type": "Game" }
-
-# NEOVERSE https://store.steampowered.com/app/994220/NEOVERSE/
-{ "name": "NEOVERSE.exe", "type": "Game" }
-
-# Nickelodeon All-Star Brawl https://store.steampowered.com/app/1414850/Nickelodeon_AllStar_Brawl/
-{ "name": "Nickelodeon All-Star Brawl.exe", "type": "Game" }
-{ "name": "Launcher Nickelodeon All-Star Brawl.exe", "type": "BG_CPUIO" }
-
-# Nightmare Kart https://store.steampowered.com/app/2930160/Nightmare_Kart/
-{ "name": "NMKART.exe", "type": "Game" }
-{ "name": "NMKART-Win64-Shipping.exe", "type": "Game" }
-
-# Nimbatus - The Space Drone Constructor https://store.steampowered.com/app/383840/Nimbatus__The_Space_Drone_Constructor/
-{ "name": "Nimbatus.exe", "type": "Game" }
-
-# Nubs! https://store.steampowered.com/app/2337860/Nubs_Arena/
-{ "name": "Nubs!.exe", "type": "Game" }
-
 # NARUTO TO BORUTO: SHINOBI STRIKER https://store.steampowered.com/app/633230/NARUTO_TO_BORUTO_SHINOBI_STRIKER/
 { "name": "NARUTO.exe", "type": "BG_CPUIO" }
 { "name": "NARUTO-Win64-Shipping.exe", "type": "Game" }
@@ -248,6 +228,9 @@
 # NEKOPARA After https://store.steampowered.com/app/3655150/NEKOPARA_After/
 { "name": "nekopara_after.exe", "type": "Game" }
 
+# NEKOPARA - Catboys Paradise https://store.steampowered.com/app/1593310/NEKOPARA__Catboys_Paradise/
+{ "name": "NEKOPARA - Catboys Paradise.exe", "type": "Game" }
+
 # NEKOPARA Extra https://store.steampowered.com/app/899970/NEKOPARA_Extra/
 { "name": "nekopara_extra.exe", "type": "Game" }
 
@@ -289,6 +272,9 @@
 
 # NEO: The World Ends with You https://store.steampowered.com/app/1647550/NEO_The_World_Ends_with_You/
 { "name": "NEO The World Ends with You.exe", "type": "Game" }
+
+# NEOVERSE https://store.steampowered.com/app/994220/NEOVERSE/
+{ "name": "NEOVERSE.exe", "type": "Game" }
 
 # NERTS! Online https://store.steampowered.com/app/1131190/NERTS_Online/
 { "name": "NERTS! Online.exe", "type": "Game" }
@@ -386,6 +372,10 @@
 # Niche - a genetics survival game https://store.steampowered.com/app/440650/Niche__a_genetics_survival_game/
 { "name": "Niche.exe", "type": "Game" }
 
+# Nickelodeon All-Star Brawl https://store.steampowered.com/app/1414850/Nickelodeon_AllStar_Brawl/
+{ "name": "Nickelodeon All-Star Brawl.exe", "type": "Game" }
+{ "name": "Launcher Nickelodeon All-Star Brawl.exe", "type": "BG_CPUIO" }
+
 # Nickelodeon All-Star Brawl 2 https://store.steampowered.com/app/2017080/Nickelodeon_AllStar_Brawl_2/
 { "name": "Nickelodeon All-Star Brawl 2.exe", "type": "Game" }
 
@@ -414,6 +404,10 @@
 # Night is Coming https://store.steampowered.com/app/1011590/Night_is_Coming/
 { "name": "Night is Coming.exe", "type": "Game" }
 { "name": "NiC Launcher.exe", "type": "Game" }
+
+# Nightmare Kart https://store.steampowered.com/app/2930160/Nightmare_Kart/
+{ "name": "NMKART.exe", "type": "Game" }
+{ "name": "NMKART-Win64-Shipping.exe", "type": "Game" }
 
 # Nightmare of Decay https://store.steampowered.com/app/1848450/Nightmare_of_Decay/
 { "name": "NightmareOfDecay.exe", "type": "Game" }
@@ -461,6 +455,9 @@
 
 # Nihilumbra https://store.steampowered.com/app/252670/Nihilumbra/
 { "name": "Nihilumbra.exe", "type": "Game" }
+
+# Nimbatus - The Space Drone Constructor https://store.steampowered.com/app/383840/Nimbatus__The_Space_Drone_Constructor/
+{ "name": "Nimbatus.exe", "type": "Game" }
 
 # Nimble Writer https://store.steampowered.com/app/348200/Nimble_Writer/
 { "name": "NimWrite.exe", "type": "Game" }
@@ -808,6 +805,9 @@
 
 # Nubby's Number Factory https://store.steampowered.com/app/3191030/Nubbys_Number_Factory/
 { "name": "NNF_FULLVERSION.exe", "type": "Game" }
+
+# Nubs! https://store.steampowered.com/app/2337860/Nubs_Arena/
+{ "name": "Nubs!.exe", "type": "Game" }
 
 # Nuclear Dawn https://store.steampowered.com/app/17710/Nuclear_Dawn/
 { "name": "nucleardawn.exe", "type": "Game" }

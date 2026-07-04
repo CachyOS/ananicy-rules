@@ -140,6 +140,10 @@
 { "name": "CJSteam.exe", "type": "BG_CPUIO" }
 { "name": "CJSteam-Win64-Shipping.exe", "type": "Game" }
 
+# Samurai Bringer https://store.steampowered.com/app/1851280/Samurai_Bringer/
+{ "name": "SamuraiBringer.exe", "type": "BG_CPUIO" }
+{ "name": "Samurai-Win64-Shipping.exe", "type": "Game" }
+
 # SAMURAI SHODOWN NEOGEO COLLECTION https://store.steampowered.com/app/999660/SAMURAI_SHODOWN_NEOGEO_COLLECTION/
 { "name": "Samurai Shodown Collection.exe", "type": "Game" }
 
@@ -352,6 +356,9 @@
 # SCP: Labrat https://store.steampowered.com/app/1402020/SCP_Labrat/
 { "name": "SCP Labrat.exe", "type": "Game" }
 
+# SCP: Nine-Tailed Fox https://store.steampowered.com/app/1304510/SCP_NineTailed_Fox/
+{ "name": "SCP Nine-Tailed Fox.exe", "type": "Game" }
+
 # SCP: Secret Laboratory Dedicated Server https://store.steampowered.com/app/996560/
 { "name": "LocalAdmin.exe", "type": "Service" }
 
@@ -495,49 +502,14 @@
 # Seeds of Chaos https://store.steampowered.com/app/1205950/
 { "name": "seeds-of-chaos.exe", "type": "Game" }
 
-# Seer's Gambit https://store.steampowered.com/app/2219450/Seers_Gambit/
-{ "name": "SeersGambit.exe", "type": "Game" }
-
-# Samurai Bringer https://store.steampowered.com/app/1851280/Samurai_Bringer/
-{ "name": "SamuraiBringer.exe", "type": "BG_CPUIO" }
-{ "name": "Samurai-Win64-Shipping.exe", "type": "Game" }
-
-# SCP: Nine-Tailed Fox https://store.steampowered.com/app/1304510/SCP_NineTailed_Fox/
-{ "name": "SCP Nine-Tailed Fox.exe", "type": "Game" }
-
 # Seek Girl https://store.steampowered.com/app/998930/Seek_Girl/
 { "name": "SeekGirl.exe", "type": "Game" }
 
 # Seek Girl:Fog Ⅰ https://store.steampowered.com/app/1263370/Seek_GirlFog_I/
 { "name": "SeekGirlFogOne.exe", "type": "Game" }
 
-# Shantae and the Seven Sirens https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/
-{ "name": "ShantaeSiren.exe", "type": "Game" }
-
-# Shipped https://store.steampowered.com/app/1037190/Shipped/
-{ "name": "Shipped.exe", "type": "Game" }
-
-# SNKRX https://store.steampowered.com/app/915310/SNKRX/
-{ "name": "SNKRX.exe", "type": "Game" }
-
-# Souper Game https://store.steampowered.com/app/3181790/
-{ "name": "Souper Game.exe", "type": "Game" }
-
-# Storage Hustle https://store.steampowered.com/app/2529170/Storage_Hustle/
-{ "name": "Storage Hustle.exe", "type": "Game" }
-
-# Storm Striker https://store.steampowered.com/app/2503740/Storm_Striker/
-{ "name": "StormStrikerClient.exe", "type": "BG_CPUIO" }
-{ "name": "StormStrikerClient-Win64-Shipping.exe", "type": "Game" }
-
-# Sundered: Eldritch Edition https://store.steampowered.com/app/535480/Sundered_Eldritch_Edition/
-{ "name": "Sundered.exe", "type": "Game" }
-
-# Super Monkey Ball Banana Mania https://store.steampowered.com/app/1316910/Super_Monkey_Ball_Banana_Mania/
-{ "name": "smbbm.exe", "type": "Game" }
-
-# Surgeon Simulator 2 https://store.steampowered.com/app/774791/Surgeon_Simulator_2/
-{ "name": "Surgeon Simulator 2.exe", "type": "Game" }
+# Seer's Gambit https://store.steampowered.com/app/2219450/Seers_Gambit/
+{ "name": "SeersGambit.exe", "type": "Game" }
 
 # SEGA Bass Fishing https://store.steampowered.com/app/71240/SEGA_Bass_Fishing/
 { "name": "SEGA Bass Fishing.exe", "type": "Game" }
@@ -820,6 +792,9 @@
 # Shank 2 https://store.steampowered.com/app/102840/Shank_2/
 { "name": "shank2.exe", "type": "Game" }
 
+# Shantae and the Seven Sirens https://store.steampowered.com/app/1191630/Shantae_and_the_Seven_Sirens/
+{ "name": "ShantaeSiren.exe", "type": "Game" }
+
 # Shantae: Risky's Revenge - Director's Cut https://store.steampowered.com/app/277890/Shantae_Riskys_Revenge__Directors_Cut/
 { "name": "RiskysRevenge.exe", "type": "Game" }
 
@@ -962,6 +937,9 @@
 
 # Ship of Fools https://store.steampowered.com/app/1286580/Ship_of_Fools/
 { "name": "ShipOfFools.exe", "type": "Game" }
+
+# Shipped https://store.steampowered.com/app/1037190/Shipped/
+{ "name": "Shipped.exe", "type": "Game" }
 
 # Shipping Manager https://store.steampowered.com/app/2445660/Shipping_Manager/
 { "name": "sm_sdl_steam.exe", "type": "Game" }
@@ -1587,6 +1565,9 @@
 # Sniper Strike : Special Ops https://store.steampowered.com/app/848500/Sniper_Strike_Special_Ops/
 { "name": "Sniper Strike.exe", "type": "Game" }
 
+# SNKRX https://store.steampowered.com/app/915310/SNKRX/
+{ "name": "SNKRX.exe", "type": "Game" }
+
 # Snooker 19 https://store.steampowered.com/app/887800/Snooker_19/
 { "name": "Snooker19.exe", "type": "BG_CPUIO" }
 { "name": "Unreal-Win64-Shipping.exe", "type": "Game" }
@@ -1807,6 +1788,9 @@
 
 # Soulstone Survivors https://store.steampowered.com/app/2066020/Soulstone_Survivors/
 { "name": "Soulstone Survivors.exe", "type": "Game" }
+
+# Souper Game https://store.steampowered.com/app/3181790/
+{ "name": "Souper Game.exe", "type": "Game" }
 
 # Source Filmmaker https://store.steampowered.com/app/1840/Source_Filmmaker/
 { "name": "sfm.exe", "type": "Game" }
@@ -2631,6 +2615,9 @@
 { "name": "Storage.exe", "type": "BG_CPUIO" }
 { "name": "Storage-Win64-Shipping.exe", "type": "Game" }
 
+# Storage Hustle https://store.steampowered.com/app/2529170/Storage_Hustle/
+{ "name": "Storage Hustle.exe", "type": "Game" }
+
 # Storebound https://store.steampowered.com/app/3417410/Storebound/
 { "name": "Storebound.exe", "type": "BG_CPUIO" }
 { "name": "EmbersSauce-Win64-Shipping.exe", "type": "Game" }
@@ -2644,6 +2631,10 @@
 
 # Storm over the Pacific https://store.steampowered.com/app/302320/Storm_over_the_Pacific/
 { "name": "sop_setup.exe", "type": "Game" }
+
+# Storm Striker https://store.steampowered.com/app/2503740/Storm_Striker/
+{ "name": "StormStrikerClient.exe", "type": "BG_CPUIO" }
+{ "name": "StormStrikerClient-Win64-Shipping.exe", "type": "Game" }
 
 # Stormworks: Build and Rescue https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/
 { "name": "stormworks64.exe", "type": "Game" }
@@ -2984,6 +2975,9 @@
 # Summoners War: RUSH https://store.steampowered.com/app/3813590/Summoners_War_RUSH/
 { "name": "RUSH.exe", "type": "Game" }
 
+# Sundered: Eldritch Edition https://store.steampowered.com/app/535480/Sundered_Eldritch_Edition/
+{ "name": "Sundered.exe", "type": "Game" }
+
 # Sunderfolk https://store.steampowered.com/app/2414270/Sunderfolk/
 { "name": "Sunderfolk.exe", "type": "Game" }
 
@@ -3117,6 +3111,9 @@
 # Super Mining Mechs https://store.steampowered.com/app/2830150/Super_Mining_Mechs/
 { "name": "Super Mining Mechs.exe", "type": "Game" }
 
+# Super Monkey Ball Banana Mania https://store.steampowered.com/app/1316910/Super_Monkey_Ball_Banana_Mania/
+{ "name": "smbbm.exe", "type": "Game" }
+
 # SuperPower 2 Steam Edition https://store.steampowered.com/app/282400/SuperPower_2_Steam_Edition/
 { "name": "joshua.exe", "type": "Game" }
 
@@ -3173,6 +3170,9 @@
 
 # Surgeon Simulator http://store.steampowered.com/app/233720/Surgeon_Simulator/
 { "name": "ss2013.exe", "type": "Game" }
+
+# Surgeon Simulator 2 https://store.steampowered.com/app/774791/Surgeon_Simulator_2/
+{ "name": "Surgeon Simulator 2.exe", "type": "Game" }
 
 # SurrounDead https://store.steampowered.com/app/1645820/SurrounDead/
 { "name": "SurrounDead.exe", "type": "BG_CPUIO" }

@@ -15,19 +15,6 @@
 # 1000xRESIST https://store.steampowered.com/app/1675830/1000xRESIST/
 { "name": "1000xRESIST.exe", "type": "Game" }
 
-# 100% Orange Juice https://store.steampowered.com/app/282800/100_Orange_Juice/
-{ "name": "100orange.exe", "type": "Game" }
-{ "name": "100orange_x86.exe", "type": "Game" }
-
-# 10 Minute Tower https://store.steampowered.com/app/477010/10_Minute_Tower/
-{ "name": "10MinuteTower.exe", "type": "Game" }
-
-# 10 Second Ninja X https://store.steampowered.com/app/435790/10_Second_Ninja_X/
-{ "name": "10SNX.exe", "type": "Game" }
-
-# 11-11 Memories Retold https://store.steampowered.com/app/735580/1111_Memories_Retold/
-{ "name": "11-11 Memories Retold.exe", "type": "Game" }
-
 # 100 Aliens Cats https://store.steampowered.com/app/2845270/100_Aliens_Cats/
 { "name": "100 Aliens Cats.exe", "type": "Game" }
 
@@ -46,8 +33,21 @@
 # 100 Funny Cats https://store.steampowered.com/app/2881230/100_Funny_Cats/
 { "name": "100 Funny Cats.exe", "type": "Game" }
 
+# 100% Orange Juice https://store.steampowered.com/app/282800/100_Orange_Juice/
+{ "name": "100orange.exe", "type": "Game" }
+{ "name": "100orange_x86.exe", "type": "Game" }
+
 # 100 Romantic Cats https://store.steampowered.com/app/2827560/100_Romantic_Cats/
 { "name": "100 Romantic Cats.exe", "type": "Game" }
+
+# 10 Minute Tower https://store.steampowered.com/app/477010/10_Minute_Tower/
+{ "name": "10MinuteTower.exe", "type": "Game" }
+
+# 10 Second Ninja X https://store.steampowered.com/app/435790/10_Second_Ninja_X/
+{ "name": "10SNX.exe", "type": "Game" }
+
+# 11-11 Memories Retold https://store.steampowered.com/app/735580/1111_Memories_Retold/
+{ "name": "11-11 Memories Retold.exe", "type": "Game" }
 
 # 112 Operator https://store.steampowered.com/app/793460/112_Operator/
 { "name": "Operator 112.exe", "type": "Game" }

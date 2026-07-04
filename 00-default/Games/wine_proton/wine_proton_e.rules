@@ -21,16 +21,6 @@
 { "name": "Earth2160_START.exe", "type": "Game" }
 { "name": "Puzzle.exe", "type": "Game" }
 
-# Emily is Away Too https://store.steampowered.com/app/523780/Emily_is_Away_Too/
-{ "name": "EmilyOnline.exe", "type": "Game" }
-{ "name": "EmilyIsAwayToo.exe", "type": "Game" }
-
-# ENSCROLL https://store.steampowered.com/app/3351670/ENSCROLL/
-{ "name": "Enscroll.exe", "type": "Game" }
-
-# EXAPUNKS https://store.steampowered.com/app/716490/EXAPUNKS/
-{ "name": "EXAPUNKS.exe", "type": "Game" }
-
 # EARTH DEFENSE FORCE 4.1 The Shadow of New Despair https://store.steampowered.com/app/410320/EARTH_DEFENSE_FORCE_41_The_Shadow_of_New_Despair/
 { "name": "EDF41.exe", "type": "Game" }
 
@@ -306,6 +296,10 @@
 # Emily is Away <3 https://store.steampowered.com/app/978460/Emily_is_Away_3/
 { "name": "Emily3.exe", "type": "Game" }
 
+# Emily is Away Too https://store.steampowered.com/app/523780/Emily_is_Away_Too/
+{ "name": "EmilyOnline.exe", "type": "Game" }
+{ "name": "EmilyIsAwayToo.exe", "type": "Game" }
+
 # Emissary Zero https://store.steampowered.com/app/3176060/Emissary_Zero/
 { "name": "Project_F.exe", "type": "Game" }
 { "name": "Project_F-Win64-Shipping.exe", "type": "Game" }
@@ -467,6 +461,9 @@
 # Enotria: The Last Song https://store.steampowered.com/app/2102450/Enotria_The_Last_Song/
 { "name": "Enotria.exe", "type": "BG_CPUIO" }
 { "name": "Enotria-Win64-Shipping.exe", "type": "Game" }
+
+# ENSCROLL https://store.steampowered.com/app/3351670/ENSCROLL/
+{ "name": "Enscroll.exe", "type": "Game" }
 
 # Enshrouded https://store.steampowered.com/app/1203620/Enshrouded/
 { "name": "enshrouded.exe", "type": "Game" }
@@ -759,6 +756,9 @@
 
 # Exanima https://store.steampowered.com/app/362490/Exanima/
 { "name": "Exanima.exe", "type": "Game" }
+
+# EXAPUNKS https://store.steampowered.com/app/716490/EXAPUNKS/
+{ "name": "EXAPUNKS.exe", "type": "Game" }
 
 # Executive Assault 2 https://store.steampowered.com/app/510500/Executive_Assault_2/
 { "name": "ExecutiveAssault2.exe", "type": "Game" }

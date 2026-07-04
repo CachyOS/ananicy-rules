@@ -81,25 +81,6 @@
 { "name": "TKOM_Loader.exe", "type": "Game" }
 { "name": "TKOM_dev.exe", "type": "Game" }
 
-# Taora : Beginning https://store.steampowered.com/app/2594640/Taora__Beginning/
-{ "name": "Taora Beginning.exe", "type": "Game" }
-
-# Thief Simulator 2: Prologue https://store.steampowered.com/app/2272420/Thief_Simulator_2_Prologue/
-{ "name": "Thief Simulator 2 Prologue.exe", "type": "Game" }
-
-# Thimbleweed Park https://store.steampowered.com/app/569860/Thimbleweed_Park/
-{ "name": "ThimbleweedPark.exe", "type": "Game" }
-
-# Timberman VS https://store.steampowered.com/app/943380/Timberman_VS/
-{ "name": "TimbermanVS.exe", "type": "Game" }
-
-# Travellin Cats in Paris https://store.steampowered.com/app/2313250/Travellin_Cats_in_Paris/
-{ "name": "Travellin Cats in Paris.exe", "type": "Game" }
-
-# Trials of Fire https://store.steampowered.com/app/1038370/Trials_of_Fire/
-{ "name": "TrialsOfFire.exe", "type": "BG_CPUIO" }
-{ "name": "TableTopBase-Win64-Shipping.exe", "type": "Game" }
-
 # Talented https://store.steampowered.com/app/2435090/Talented/
 { "name": "Talented.exe", "type": "Game" }
 
@@ -204,6 +185,9 @@
 
 # Tanuki Sunset https://store.steampowered.com/app/1251460/Tanuki_Sunset/
 { "name": "Tanuki Sunset.exe", "type": "Game" }
+
+# Taora : Beginning https://store.steampowered.com/app/2594640/Taora__Beginning/
+{ "name": "Taora Beginning.exe", "type": "Game" }
 
 # Tape to Tape https://store.steampowered.com/app/1566200/Tape_to_Tape/
 { "name": "Tape to Tape.exe", "type": "Game" }
@@ -559,6 +543,12 @@
 # Thief Simulator 2 https://store.steampowered.com/app/1332720/Thief_Simulator_2/
 { "name": "Thief Simulator 2.exe", "type": "Game" }
 
+# Thief Simulator 2: Prologue https://store.steampowered.com/app/2272420/Thief_Simulator_2_Prologue/
+{ "name": "Thief Simulator 2 Prologue.exe", "type": "Game" }
+
+# Thimbleweed Park https://store.steampowered.com/app/569860/Thimbleweed_Park/
+{ "name": "ThimbleweedPark.exe", "type": "Game" }
+
 # Third Crisis https://store.steampowered.com/app/1260820/
 { "name": "ThirdCrisis.exe", "type": "Game" }
 
@@ -683,6 +673,9 @@
 
 # Timberman https://store.steampowered.com/app/398710/Timberman/
 { "name": "Timberman.exe", "type": "Game" }
+
+# Timberman VS https://store.steampowered.com/app/943380/Timberman_VS/
+{ "name": "TimbermanVS.exe", "type": "Game" }
 
 # Timber Rush https://store.steampowered.com/app/4298880/Timber_Rush/
 { "name": "Timber Rush.exe", "type": "Game" }
@@ -1335,6 +1328,9 @@
 # Travellers Rest https://store.steampowered.com/app/1139980/Travellers_Rest/
 { "name": "TravellersRest.exe", "type": "Game" }
 
+# Travellin Cats in Paris https://store.steampowered.com/app/2313250/Travellin_Cats_in_Paris/
+{ "name": "Travellin Cats in Paris.exe", "type": "Game" }
+
 # Treasure Beach https://store.steampowered.com/app/3939700/Treasure_Beach/
 { "name": "Treasure Beach.exe", "type": "Game" }
 
@@ -1356,6 +1352,10 @@
 
 # Trials Fusion https://store.steampowered.com/app/245490/Trials_Fusion/
 { "name": "trials_fusion.exe", "type": "Game" }
+
+# Trials of Fire https://store.steampowered.com/app/1038370/Trials_of_Fire/
+{ "name": "TrialsOfFire.exe", "type": "BG_CPUIO" }
+{ "name": "TableTopBase-Win64-Shipping.exe", "type": "Game" }
 
 # Trials of Mana https://store.steampowered.com/app/924980/Trials_of_Mana/
 { "name": "Trials of Mana-Win64-Shipping.exe", "type": "Game" }

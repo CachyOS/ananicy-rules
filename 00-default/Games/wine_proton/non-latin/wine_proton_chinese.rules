@@ -29,33 +29,11 @@
 # Bǐfāng de tā-Aliya2 shǔguāng Demo 彼方的她-Aliya2 曙光 Demo https://store.steampowered.com/app/4759150/Aliya_Timelink2_Dawn_Demo/
 { "name": "Aliya-Dawn Demo.exe", "type": "Game" }
 
-# Dōngfāng bīng zhī yǒngzhě jì: Xùzhāng 东方冰之勇者记：序章 https://store.steampowered.com/app/1715460/Touhou_Hero_of_Ice_Fairy_Prologue/
-{ "name": "Touhou Hero of Ice Fairy Prologue.exe", "type": "Game" }
-{ "name": "Touhou Hero of Ice Fairy Prologue.exe", "type": "Game" }
-
-# Nǚ quán zhǔyì F-ist 女拳主義F-ist https://store.steampowered.com/app/1757490/
-{ "name": "BoxingWaifu.exe", "type": "Game" }
-
-# Xìngfú de èr rén fáng 幸福的二人房 https://store.steampowered.com/app/1897120/
-{ "name": "Happiness Double Room.exe", "type": "Game" }
-
-# Dōngběi zhī xià 东北之夏 https://store.steampowered.com/app/2121360/_/
-{ "name": "DongBeiZhiXia.exe", "type": "Game" }
+# Bīngdiǎn zhī xià 冰点之下 https://store.steampowered.com/app/3711170/SubZero/
+{ "name": "Subzero.exe", "type": "Game" }
 
 # Bù hǎo la! Shīfu bèi nǚ yāojing zhuā zǒule! 不好啦！师父被女妖精抓走了！ https://store.steampowered.com/app/4225940/SIFU_Kidnapped_Adventure_in_the_Womens_Kingdom/
 { "name": "GirlsNationGame.exe", "type": "Game" }
-
-# Jiān yù 监寓 https://store.steampowered.com/app/3218580/Cellveillance/
-{ "name": "Cellveillance.exe", "type": "Game" }
-
-# Mìngyùn yóuxì 2: Bǎinián zhī yuē 命运游戏2：百年之约 https://store.steampowered.com/app/3218600/Game_of_Fate_2_A_Centurys_Promise/
-{ "name": "GameOfFate2.exe", "type": "Game" }
-
-# Mìngyùn yóuxì 3: Wángzhě qíjú 命运游戏3：王者棋局 https://store.steampowered.com/app/3406910/Game_Of_Fate_3Clash_Of_Crowns/
-{ "name": "GameOfFate3.exe", "type": "Game" }
-
-# Bīngdiǎn zhī xià 冰点之下 https://store.steampowered.com/app/3711170/SubZero/
-{ "name": "Subzero.exe", "type": "Game" }
 
 # Bù sīyì mígōng 不思议迷宫 https://store.steampowered.com/app/3112010/Gumballs__Dungeons/
 { "name": "slime.exe", "type": "Game" }
@@ -98,6 +76,13 @@
 
 # Dì xīn guītú Return From Core 地心归途 Return From Core https://store.steampowered.com/app/2171630/Return_from_Core/
 { "name": "Return From Core.exe", "type": "Game" }
+
+# Dōngběi zhī xià 东北之夏 https://store.steampowered.com/app/2121360/_/
+{ "name": "DongBeiZhiXia.exe", "type": "Game" }
+
+# Dōngfāng bīng zhī yǒngzhě jì: Xùzhāng 东方冰之勇者记：序章 https://store.steampowered.com/app/1715460/Touhou_Hero_of_Ice_Fairy_Prologue/
+{ "name": "Touhou Hero of Ice Fairy Prologue.exe", "type": "Game" }
+{ "name": "Touhou Hero of Ice Fairy Prologue.exe", "type": "Game" }
 
 # Dōngfāng guāngyào yè ~ Lost Branch of Legend 东方光耀夜 ~ Lost Branch of Legend https://store.steampowered.com/app/1140150/Touhou_Lost_Branch_of_Legend/
 { "name": "ModTheLBoL.Desktop.exe", "type": "Game" }
@@ -236,6 +221,9 @@
 # Jiànxí sǐshén Demo 见习死神 Demo https://store.steampowered.com/app/3850420/
 { "name": "DeathIntern.exe", "type": "Game" }
 
+# Jiān yù 监寓 https://store.steampowered.com/app/3218580/Cellveillance/
+{ "name": "Cellveillance.exe", "type": "Game" }
+
 # Jīn gǔ qún xiá chuán 今古群侠传 https://store.steampowered.com/app/3313720/Psychic_Kung_Fu_Master/
 { "name": "JinGu.exe", "type": "Game" }
 
@@ -318,6 +306,12 @@
 { "name": "LateMing.exe", "type": "BG_CPUIO" }
 { "name": "LateMing-Win64-Shipping.exe", "type": "Game" }
 
+# Mìngyùn yóuxì 2: Bǎinián zhī yuē 命运游戏2：百年之约 https://store.steampowered.com/app/3218600/Game_of_Fate_2_A_Centurys_Promise/
+{ "name": "GameOfFate2.exe", "type": "Game" }
+
+# Mìngyùn yóuxì 3: Wángzhě qíjú 命运游戏3：王者棋局 https://store.steampowered.com/app/3406910/Game_Of_Fate_3Clash_Of_Crowns/
+{ "name": "GameOfFate3.exe", "type": "Game" }
+
 # Mó lǐshā! Hái shū!Marisa!ReturnTheBook! 魔理沙！还书！Marisa!ReturnTheBook! https://store.steampowered.com/app/3737620/MarisaReturnTheBook/
 { "name": "MarisaReturnTheBook.exe", "type": "Game" }
 
@@ -344,6 +338,9 @@
 
 # nuǎn xuě 暖雪 Warm Snow https://store.steampowered.com/app/1296830/_Warm_Snow/
 { "name": "WarmSnow.exe", "type": "Game" }
+
+# Nǚ quán zhǔyì F-ist 女拳主義F-ist https://store.steampowered.com/app/1757490/
+{ "name": "BoxingWaifu.exe", "type": "Game" }
 
 # Nǚshén yì wén lù: Yèmù mèiyǐng 女神异闻录：夜幕魅影 https://store.steampowered.com/app/3604320/
 { "name": "P5XGame.exe", "type": "Game" }
@@ -585,6 +582,9 @@
 
 # Xí fēng gǔ zhànlüè 息风谷战略 https://store.steampowered.com/app/2646320/WindStop_Strategy/
 { "name": "WindstopStrategy.exe", "type": "Game" }
+
+# Xìngfú de èr rén fáng 幸福的二人房 https://store.steampowered.com/app/1897120/
+{ "name": "Happiness Double Room.exe", "type": "Game" }
 
 # Xīngkōng lièchē yǔ bái de lǚxíng 星空列车与白的旅行 https://store.steampowered.com/app/1567800/_/
 { "name": "星空列车与白的旅行.exe", "type": "Game" }
