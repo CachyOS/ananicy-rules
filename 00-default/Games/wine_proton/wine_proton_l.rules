@@ -51,6 +51,9 @@
 # La-Mulana https://store.steampowered.com/app/230700/LaMulana/
 { "name": "LaMulanaWin.exe", "type": "Game" }
 
+# La-Mulana 2 https://store.steampowered.com/app/835430/LaMulana_2/
+{ "name": "LaMulana2.exe", "type": "Game" }
+
 # Land Drifters https://store.steampowered.com/app/2294720/Land_Drifters/
 { "name": "Land Drifters.exe", "type": "Game" }
 
@@ -143,6 +146,10 @@
 { "name": "LayersOfFear.exe", "type": "BG_CPUIO" }
 { "name": "LayersOfFear-Win64-Shipping.exe", "type": "Game" }
 
+# Layers of Fear 2 https://store.steampowered.com/app/1029890/Layers_of_Fear_2_2019/
+{ "name": "LOF2.exe", "type": "BG_CPUIO" }
+{ "name": "LOF2-Win64-Shipping.exe", "type": "Game" }
+
 # Layers of Fear (2016) https://store.steampowered.com/app/391720/Layers_of_Fear_2016/
 { "name": "Layers of FearSub.exe", "type": "Game" }
 { "name": "Layers of Fear.exe", "type": "Game" }
@@ -172,6 +179,9 @@
 
 # League of Angels-Heaven's Fury https://store.steampowered.com/app/1379130/League_of_AngelsHeavens_Fury/
 { "name": "loa-hf-steam.exe", "type": "Game" }
+
+# League of Maidens https://store.steampowered.com/app/557180/
+{ "name": "LOM.exe", "type": "Game" }
 
 # Leap of Faith https://store.steampowered.com/app/1768640/
 { "name": "LeapofFaith.exe", "type": "Game" }
@@ -533,6 +543,10 @@
 # Limitless Survivor Demo https://store.steampowered.com/app/4624540/Limitless_Survivor_Demo/
 { "name": "Limitless Survivors.exe", "type": "Game" }
 
+# Line of Sight https://store.steampowered.com/app/436520/Line_of_Sight/
+{ "name": "LSGame.exe", "type": "Game" }
+{ "name": "LSGame_BE.exe", "type": "BG_CPUIO" }
+
 # Line War https://store.steampowered.com/app/1309610/Line_War/
 { "name": "LineWarClient.exe", "type": "Game" }
 
@@ -632,6 +646,9 @@
 
 # LivingBattle https://store.steampowered.com/app/3353830/LivingBattle/
 { "name": "LivingBattle.exe", "type": "Game" }
+
+# LIZARDS MUST DIE https://store.steampowered.com/app/2532550/LIZARDS_MUST_DIE/
+{ "name": "LizardsMustDie.exe", "type": "Game" }
 
 # LIZARDS MUST DIE 2 https://store.steampowered.com/app/3107800/LIZARDS_MUST_DIE_2/
 { "name": "Lizards_Must_Die_2.exe", "type": "Game" }
@@ -756,6 +773,12 @@
 # Loss Prevention Demo https://store.steampowered.com/app/4335770/Loss_Prevention_Demo/
 { "name": "LossPrevention.exe", "type": "Game" }
 
+# Lost https://store.steampowered.com/app/1126290/Lost/
+{ "name": "Lost.exe", "type": "Game" }
+
+# Lost2 https://store.steampowered.com/app/1930640/Lost2/
+{ "name": "Lost2.exe", "type": "Game" }
+
 # Lost and Found Co. https://store.steampowered.com/app/2101390/Lost_and_Found_Co/
 { "name": "Lost and Found Co.exe", "type": "Game" }
 
@@ -776,6 +799,9 @@
 
 # Lost Eidolons: Veil of the Witch https://store.steampowered.com/app/2530490/Lost_Eidolons_Veil_of_the_Witch/
 { "name": "VOTW.exe", "type": "Game" }
+
+# Lost in Anomaly https://store.steampowered.com/app/3312020/Lost_in_Anomaly/
+{ "name": "Lost in Anomaly.exe", "type": "Game" }
 
 # Lost in Play https://store.steampowered.com/app/1328840/Lost_in_Play/
 { "name": "LostInPlay.exe", "type": "Game" }

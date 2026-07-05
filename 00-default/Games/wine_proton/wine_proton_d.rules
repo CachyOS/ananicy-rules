@@ -49,8 +49,8 @@
 # Danganronpa: Trigger Happy Havoc https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
 { "name": "DR1_us.exe", "type": "Game" }
 
-# Danganronpa V3: Killing Harmony https://store.steampowered.com/app/567640/Danganronpa_V3_Killing_Harmony/
-{ "name": "Dangan3Win.exe", "type": "Game" }
+# Danganronpa V3: Killing Harmony Demo Ver. https://store.steampowered.com/app/589120/Danganronpa_V3_Killing_Harmony_Demo_Ver/
+{ "name": "V3Launcher.exe", "type": "Game" }
 
 # Darfall https://store.steampowered.com/app/1961600/Darfall/
 { "name": "Darfall.exe", "type": "Game" }
@@ -130,6 +130,9 @@
 { "name": "The5thFloor.exe", "type": "BG_CPUIO" }
 { "name": "The5thFloor-Win64-Shipping.exe", "type": "Game" }
 
+# Dark Roll: Free Kick Challenge https://store.steampowered.com/app/1290260/Dark_Roll_Free_Kick_Challenge/
+{ "name": "Dark Roll Free Kick Challenge.exe", "type": "Game" }
+
 # Dark Scrolls https://store.steampowered.com/app/2912550/Dark_Scrolls/
 { "name": "darkscrolls.exe", "type": "Game" }
 
@@ -172,6 +175,10 @@
 
 # DARQ https://store.steampowered.com/app/433550/DARQ_Complete_Edition/
 { "name": "DARQ.exe", "type": "Game" }
+
+# Darwin Project https://store.steampowered.com/app/544920/Darwin_Project/
+{ "name": "Darwin.exe", "type": "BG_CPUIO" }
+{ "name": "Darwin-Win64-Shipping.exe", "type": "Game" }
 
 # Darwin's Paradox! https://store.steampowered.com/app/2989180/Darwins_Paradox/
 { "name": "Darwin's Paradox.exe", "type": "BG_CPUIO" }
@@ -439,6 +446,9 @@
 # DEATH NOTE Killer Within https://store.steampowered.com/app/2213190/DEATH_NOTE_Killer_Within/
 { "name": "DEATH NOTE Killer Within.exe", "type": "Game" }
 
+# Death Rally (Classic) https://store.steampowered.com/app/358270/Death_Rally_Classic/
+{ "name": "dr.exe", "type": "Game" }
+
 # Death Road to Canada https://store.steampowered.com/app/252610/Death_Road_to_Canada/
 { "name": "prog.exe", "type": "Game" }
 
@@ -516,6 +526,9 @@
 
 # Deep Rock Galactic: Survivor https://store.steampowered.com/app/2321470/Deep_Rock_Galactic_Survivor/
 { "name": "DRG Survivor.exe", "type": "Game" }
+
+# Deep Sky Derelicts https://store.steampowered.com/app/698640/Deep_Sky_Derelicts/
+{ "name": "Deep Sky Derelicts.exe", "type": "Game" }
 
 # Deep Snow Delivery Demo https://store.steampowered.com/app/4357090/
 { "name": "DeepSnowDelivery.exe", "type": "BG_CPUIO" }
@@ -749,6 +762,9 @@
 # Detective Grimoire https://store.steampowered.com/app/272600/Detective_Grimoire/
 { "name": "Detective Grimoire.exe", "type": "Game" }
 
+# Detention https://store.steampowered.com/app/555220/Detention/
+{ "name": "Detention.exe", "type": "Game" }
+
 # DETOUR https://store.steampowered.com/app/92100/DETOUR/
 { "name": "DETOUR.exe", "type": "Game" }
 
@@ -903,6 +919,9 @@
 # Digital Mate https://store.steampowered.com/app/2488350/Digital_Mate/
 { "name": "DigitalMate.exe", "type": "Game" }
 
+# Dig or Die https://store.steampowered.com/app/315460/Dig_or_Die/
+{ "name": "DigOrDie.exe", "type": "Game" }
+
 # Digseum https://store.steampowered.com/app/3361470/Digseum/
 { "name": "Digseum.exe", "type": "Game" }
 
@@ -942,6 +961,9 @@
 
 # Dinosaur Fossil Hunter https://store.steampowered.com/app/864700/Dinosaur_Fossil_Hunter/
 { "name": "Dinosaur Fossil Hunter.exe", "type": "Game" }
+
+# Dinotica https://store.steampowered.com/app/3336520/Dinotica/
+{ "name": "Dinotica.exe", "type": "Game" }
 
 # Diplomacy is Not an Option https://store.steampowered.com/app/1272320/Diplomacy_is_Not_an_Option/
 { "name": "Diplomacy is Not an Option.exe", "type": "Game" }
@@ -1111,6 +1133,10 @@
 
 # DmC: Devil May Cry https://store.steampowered.com/app/220440/DmC_Devil_May_Cry/
 { "name": "DMC-DevilMayCry.exe", "type": "Game" }
+
+# DNF DUEL https://store.steampowered.com/app/1216060/DNF_Duel/
+{ "name": "DNFDUEL.exe", "type": "BG_CPUIO" }
+{ "name": "DNFDUEL-Win64-Shipping.exe", "type": "Game" }
 
 # Dobbel Dungeon https://store.steampowered.com/app/2622820/Dobbel_Dungeon/
 { "name": "Dobbel Dungeon.exe", "type": "Game" }
@@ -1530,6 +1556,10 @@
 # Dreamland https://store.steampowered.com/app/2176560/
 { "name": "Dreamland.exe", "type": "Game" }
 
+# Dreamscaper https://store.steampowered.com/app/1040420/Dreamscaper/
+{ "name": "Dreamscaper.exe", "type": "BG_CPUIO" }
+{ "name": "Dreamscaper-Win64-Shipping.exe", "type": "Game" }
+
 # dreamseeker.exe, the runner for byond games such as ss13 https://www.byond.com/
 { "name": "dreamseeker.exe", "type": "Game" }
 
@@ -1657,6 +1687,9 @@
 
 # Duelyst https://store.steampowered.com/app/291410/Duelyst/
 { "name": "Duelyst.exe", "type": "Game" }
+
+# Duelyst II https://store.steampowered.com/app/2004320/Duelyst_II/
+{ "name": "Duelyst2.exe", "type": "Game" }
 
 # Due Process https://store.steampowered.com/app/753650/Due_Process/
 { "name": "DueProcess.exe", "type": "Game" }

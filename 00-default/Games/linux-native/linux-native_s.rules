@@ -200,6 +200,9 @@
 # Ship of Harkinian https://www.shipofharkinian.com/
 { "name": "soh.appimage", "type": "Game" }
 
+# Shipped https://store.steampowered.com/app/1037190/Shipped/
+{ "name": "Shipped.x86_64", "type": "Game" }
+
 # Shipping Manager https://store.steampowered.com/app/2445660/Shipping_Manager/
 { "name": "sm_sdl_steam", "type": "Game" }
 
@@ -597,6 +600,10 @@
 
 # Summer's Gone - Season 1 https://store.steampowered.com/app/2240150/
 { "name": "SummersGone_Season1_Steam", "type": "Game" }
+
+# Sundered: Eldritch Edition https://store.steampowered.com/app/535480/Sundered_Eldritch_Edition/
+{ "name": "Sundered.x86", "type": "Game" }
+{ "name": "Sundered.x86_64", "type": "Game" }
 
 # Sunless Sea https://store.steampowered.com/app/304650/SUNLESS_SEA/
 { "name": "Sunless Sea.x86", "type": "Game" }

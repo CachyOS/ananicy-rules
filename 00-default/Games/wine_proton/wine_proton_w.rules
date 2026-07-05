@@ -83,6 +83,9 @@
 # War Brokers https://store.steampowered.com/app/750470/War_Brokers/
 { "name": "War_Brokers.exe", "type": "Game" }
 
+# WARCANA https://store.steampowered.com/app/2022930/WARCANA/
+{ "name": "WARCANA.exe", "type": "Game" }
+
 # Wardrum https://store.steampowered.com/app/2680670/Wardrum/
 { "name": "Wardrum.exe", "type": "Game" }
 
@@ -329,6 +332,9 @@
 # War Thunder https://store.steampowered.com/app/236390/War_Thunder/
 { "name": "aces-min-cpu.exe", "type": "Game" }
 
+# War Trigger 3 https://store.steampowered.com/app/298240/War_Trigger_3/
+{ "name": "War Trigger 3.exe", "type": "Game" }
+
 # Wartune Reborn https://store.steampowered.com/app/1469160/Wartune_Reborn/
 { "name": "WartuneReborn.exe", "type": "Game" }
 
@@ -507,6 +513,10 @@
 { "name": "LabEscape.exe", "type": "BG_CPUIO" }
 { "name": "LabEscape-Win64-Shipping.exe", "type": "Game" }
 
+# We. The Revolution https://store.steampowered.com/app/736850/We_The_Revolution/
+{ "name": "We.TheRevolution_x86.exe", "type": "Game" }
+{ "name": "We.TheRevolution_x86_64.exe", "type": "Game" }
+
 # Wet Passion https://store.steampowered.com/app/3495810/Wet_Passion/
 { "name": "Wet passion.exe", "type": "Game" }
 
@@ -544,6 +554,10 @@
 # WHAT THE GOLF? https://store.steampowered.com/app/785790/WHAT_THE_GOLF/
 { "name": "WHAT THE GOLF.exe", "type": "Game" }
 
+# WHAT THE PAK?! https://store.steampowered.com/app/2752710/
+{ "name": "ProjectHermes.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectHermes-Win64-Shipping.exe", "type": "Game" }
+
 # Wheelchair Wizards https://store.steampowered.com/app/3832630/Wheelchair_Wizards/
 { "name": "Wizards.exe", "type": "Game" }
 
@@ -560,9 +574,15 @@
 # Where Winds Meet https://store.steampowered.com/app/3564740/Where_Winds_Meet/
 { "name": "wwm.exe", "type": "Game" }
 
+# while True: learn() https://store.steampowered.com/app/619150/while_True_learn/
+{ "name": "wtl.exe", "type": "Game" }
+
 # While We Wait Here https://store.steampowered.com/app/2213120/While_We_Wait_Here/
 { "name": "While_We_Wait_Here-Win64-Shipping.exe", "type": "Game" }
 { "name": "While_We_Wait_Here.exe", "type": "BG_CPUIO" }
+
+# Whimsical Artefacts https://store.steampowered.com/app/3604800/Whimsical_Artefacts/
+{ "name": "Whimsical Artefacts.exe", "type": "Game" }
 
 # Whimsy Bake＆Craft https://store.steampowered.com/app/3713000/Whimsy_BakeCraft/
 { "name": "Whimsy Bake and Craft.exe", "type": "Game" }
@@ -582,6 +602,9 @@
 
 # Whisper of the House https://store.steampowered.com/app/2589500/Whisper_of_the_House/
 { "name": "Whisper of the House.exe", "type": "Game" }
+
+# Whispers from the Star https://store.steampowered.com/app/3730100/Whispers_from_the_Star/
+{ "name": "GaiaSWEntry.exe", "type": "Game" }
 
 # White Day: A Labyrinth Named School https://store.steampowered.com/app/466130/White_Day_A_Labyrinth_Named_School/
 { "name": "WhiteDay.exe", "type": "Game" }
@@ -743,6 +766,9 @@
 { "name": "Witchfire.exe", "type": "BG_CPUIO" }
 { "name": "Witchfire-Win64-Shipping.exe", "type": "Game" }
 
+# WitchHand https://store.steampowered.com/app/2420880/WitchHand/
+{ "name": "WitchHand.exe", "type": "Game" }
+
 # Witch It https://store.steampowered.com/app/559650/Witch_It/
 { "name": "PropWitchHuntModule-Win64-Shipping.exe", "type": "Game" }
 { "name": "WitchIt.exe", "type": "BG_CPUIO" }
@@ -866,6 +892,13 @@
 # WooLoop https://store.steampowered.com/app/1878910/WooLoop/
 { "name": "WooLoop.exe", "type": "Game" }
 
+# Wordle https://store.steampowered.com/app/1334000/Wordle/
+{ "name": "Wordle_FR.exe", "type": "Game" }
+{ "name": "Wordle_Rus.exe", "type": "Game" }
+{ "name": "Wordle.exe", "type": "Game" }
+{ "name": "Wordle_chi.exe", "type": "Game" }
+{ "name": "Wordle_DE.exe", "type": "Game" }
+
 # Wordle 2 https://store.steampowered.com/app/1386730/Wordle_2/
 { "name": "wordle2.exe", "type": "Game" }
 
@@ -969,6 +1002,9 @@
 # Worldwide Rush https://store.steampowered.com/app/3325500/Worldwide_Rush/
 { "name": "Worldwide Rush.exe", "type": "Game" }
 
+# Worm.is: The Game https://store.steampowered.com/app/466910/Wormis_The_Game/
+{ "name": "Wormis.exe", "type": "Game" }
+
 # Worms Blast https://store.steampowered.com/app/70650/Worms_Blast/
 { "name": "WormsBlast.exe", "type": "Game" }
 
@@ -1055,6 +1091,9 @@
 { "name": "Project_Plague.exe", "type": "BG_CPUIO" }
 { "name": "Project_Plague-Deck-Shipping.exe", "type": "Game" }
 { "name": "Project_Plague-Win64-Shipping.exe", "type": "Game" }
+
+# Wuppo - Definitive Edition https://store.steampowered.com/app/400630/Wuppo_Definitive_Edition/
+{ "name": "Wuppo.exe", "type": "Game" }
 
 # Wurm Online https://store.steampowered.com/app/1179680/Wurm_Online/
 { "name": "WurmLauncher64.exe", "type": "Game" }

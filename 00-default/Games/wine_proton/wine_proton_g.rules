@@ -124,6 +124,30 @@
 { "name": "Garten of Banban 0.exe", "type": "BG_CPUIO" }
 { "name": "Clay_0-Win64-Shipping.exe", "type": "Game" }
 
+# Garten of Banban 2 https://store.steampowered.com/app/2262770/Garten_of_Banban_2/
+{ "name": "Garten of Banban 2.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_2-Win64-Shipping.exe", "type": "Game" }
+
+# Garten of Banban 3 https://store.steampowered.com/app/2311190/Garten_of_Banban_3/
+{ "name": "Garten of Banban 3.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_3-Win64-Shipping.exe", "type": "Game" }
+
+# Garten of Banban 4 https://store.steampowered.com/app/2383120/Garten_of_Banban_4/
+{ "name": "Garten of Banban 4.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_4-Win64-Shipping.exe", "type": "Game" }
+
+# Garten of Banban 6 https://store.steampowered.com/app/2499800/Garten_of_Banban_6/
+{ "name": "Garten of Banban 6.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_6-Win64-Shipping.exe", "type": "Game" }
+
+# Garten of Banban 7 https://store.steampowered.com/app/2693060/Garten_of_Banban_7/
+{ "name": "Garten of Banban 7.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_7-Win64-Shipping.exe", "type": "Game" }
+
+# Garten of Banban 8: Anti Devil https://store.steampowered.com/app/2917040/Garten_of_Banban_8_Anti_Devil/
+{ "name": "Garten of Banban 8.exe", "type": "BG_CPUIO" }
+{ "name": "Clay_8-Win64-Shipping.exe", "type": "Game" }
+
 # Gary Grigsby's War in the East https://store.steampowered.com/app/370540/Gary_Grigsbys_War_in_the_East/
 { "name": "WarInTheEast.exe", "type": "Game" }
 
@@ -566,6 +590,10 @@
 # Goose Goose Duck https://store.steampowered.com/app/1568590/Goose_Goose_Duck/
 { "name": "Goose Goose Duck.exe", "type": "Game" }
 
+# Gord https://store.steampowered.com/app/1351210/Gord/
+{ "name": "Gord.exe", "type": "BG_CPUIO" }
+{ "name": "Gord-Win64-Shipping.exe", "type": "Game" }
+
 # Gordian Quest https://store.steampowered.com/app/981430/Gordian_Quest/
 { "name": "GordianQuest.exe", "type": "Game" }
 
@@ -917,6 +945,9 @@
 # GuiGui https://store.steampowered.com/app/3079150/
 { "name": "Guigui.exe", "type": "Game" }
 
+# Guild of Dungeoneering Ultimate Edition https://store.steampowered.com/app/317820/Guild_of_Dungeoneering_Ultimate_Edition/
+{ "name": "Ultimate Dungeoneering.exe", "type": "Game" }
+
 # Guild Wars 2 https://store.steampowered.com/app/1284210/Guild_Wars_2/
 { "name": "Gw2-64.exe", "type": "Game" }
 
@@ -927,9 +958,11 @@
 { "name": "GGST.exe", "type": "BG_CPUIO" }
 { "name": "GGST-Win64-Shipping.exe", "type": "Game" }
 
+# Guilty Gear X2 #Reload https://store.steampowered.com/app/314030/Guilty_Gear_X2_Reload/
+{ "name": "ggx2.exe", "type": "Game" }
+
 # GUILTY GEAR Xrd REV 2 https://store.steampowered.com/app/520440/GUILTY_GEAR_Xrd_REV_2/
 { "name": "BootGGXrd.exe", "type": "Game" }
-{ "name": "GuiltyGearXrd.exe", "type": "Game" }
 
 # GUILTY GEAR XX ACCENT CORE PLUS R https://store.steampowered.com/app/348550/GUILTY_GEAR_XX_ACCENT_CORE_PLUS_R/
 { "name": "GGXXACPR_Win.exe", "type": "Game" }

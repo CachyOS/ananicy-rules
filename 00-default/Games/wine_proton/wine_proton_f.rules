@@ -402,6 +402,9 @@
 { "name": "FATAL FURY City of the Wolves.exe", "type": "BG_CPUIO" }
 { "name": "CotW-Win64-Shipping.exe", "type": "Game" }
 
+# FatalZone https://store.steampowered.com/app/2488510/FatalZone/
+{ "name": "FatalZone.exe", "type": "Game" }
+
 # FATE https://store.steampowered.com/app/246840/FATE/
 { "name": "fate.exe", "type": "Game" }
 
@@ -530,6 +533,9 @@
 
 # Fetish Locator Week Three https://store.steampowered.com/app/2231010/
 { "name": "FetishLocatorWeek3.exe", "type": "Game" }
+
+# Fetish Locator Week Two https://store.steampowered.com/app/1684170/
+{ "name": "FetishLocatorWeek2.exe", "type": "Game" }
 
 # Fever Meme https://store.steampowered.com/app/3110070/Fever_Meme/
 { "name": "TheTrollGame.exe", "type": "BG_CPUIO" }
@@ -772,6 +778,9 @@
 # Fish Game https://store.steampowered.com/app/1372150/Fish_Game/
 { "name": "FishGame.exe", "type": "BG_CPUIO" }
 { "name": "FishGame-Win64-Shipping.exe", "type": "Game" }
+
+# Fish Hunters 🐟 https://store.steampowered.com/app/3468330/Fish_Hunters_Most_Lethal_Fishing_Simulator/
+{ "name": "FishTmp.exe", "type": "Game" }
 
 # Fishing: Barents Sea https://store.steampowered.com/app/501080/Fishing_Barents_Sea/
 { "name": "FBS.exe", "type": "BG_CPUIO" }
@@ -1136,6 +1145,9 @@
 # Freedom Planet https://store.steampowered.com/app/248310/Freedom_Planet/
 { "name": "fp.exe", "type": "Game" }
 
+# Freedom Planet 2 https://store.steampowered.com/app/595500/Freedom_Planet_2/
+{ "name": "FP2.exe", "type": "Game" }
+
 # Freeman: Guerrilla Warfare https://store.steampowered.com/app/773951/Freeman_Guerrilla_Warfare/
 { "name": "Freeman Guerrilla Warfare.exe", "type": "Game" }
 { "name": "StartFGW.exe", "type": "Game" }
@@ -1207,6 +1219,9 @@
 # From Madness with Love https://store.steampowered.com/app/2101130/From_Madness_with_Love/
 { "name": "from Madness with Love.exe", "type": "Game" }
 
+# From Space https://store.steampowered.com/app/1502190/From_Space/
+{ "name": "FromSpace.exe", "type": "Game" }
+
 # From the Depths https://store.steampowered.com/app/268650/From_the_Depths/
 { "name": "From_The_Depths.exe", "type": "Game" }
 
@@ -1249,6 +1264,9 @@
 { "name": "Frostpunk2.exe", "type": "BG_CPUIO" }
 { "name": "Frostpunk2-Win64-Shipping.exe", "type": "Game" }
 
+# Frostrain https://store.steampowered.com/app/2735630/Frostrain/
+{ "name": "Frostrain.exe", "type": "Game" }
+
 # Frozenheim https://store.steampowered.com/app/1134100/Frozenheim/
 { "name": "Frozenheim.exe", "type": "BG_CPUIO" }
 { "name": "Frozenheim-Win64-Shipping.exe", "type": "Game" }
@@ -1270,6 +1288,10 @@
 
 # FTL: Faster Than Light https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/
 { "name": "FTLGame.exe", "type": "Game" }
+
+# FUCK HITLER https://store.steampowered.com/app/2157110/FUCK_HITLER/
+{ "name": "FH.exe", "type": "BG_CPUIO" }
+{ "name": "FH-Win64-Shipping.exe", "type": "Game" }
 
 # FUCK PUTIN https://store.steampowered.com/app/1926680/FUCK_PUTIN/
 { "name": "FP.exe", "type": "BG_CPUIO" }
@@ -1335,3 +1357,6 @@
 # FUTA RUNNER: Big Dick Edition https://store.steampowered.com/app/2608630/
 { "name": "FutaRunner.exe", "type": "BG_CPUIO" }
 { "name": "FutaRunner-Win64-Shipping.exe", "type": "Game" }
+
+# Future Fragments https://store.steampowered.com/app/1238920/
+{ "name": "Future_Fragments.exe", "type": "Game" }

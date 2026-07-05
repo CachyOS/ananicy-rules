@@ -11,6 +11,10 @@
 # Oasis Driver for Windows Mixed Reality https://store.steampowered.com/app/3824490/Oasis_Driver_for_Windows_Mixed_Reality/
 { "name": "unlock_wmr.exe", "type": "Game" }
 
+# Obduction https://store.steampowered.com/app/306760/Obduction/
+{ "name": "Obduction.exe", "type": "BG_CPUIO" }
+{ "name": "Obduction-Win64-Shipping.exe", "type": "Game" }
+
 # Obenseuer https://store.steampowered.com/app/951240/Obenseuer/
 { "name": "Obenseuer.exe", "type": "Game" }
 
@@ -20,6 +24,9 @@
 
 # Obliteracers https://store.steampowered.com/app/368740/Obliteracers/
 { "name": "Obliteracers.exe", "type": "Game" }
+
+# Oblivion Override https://store.steampowered.com/app/1952370/Oblivion_Override/
+{ "name": "Oblivion Override.exe", "type": "Game" }
 
 # Oblivity https://store.steampowered.com/app/1389990/Oblivity__Find_your_perfect_Sensitivity/
 { "name": "Oblivity.exe", "type": "Game" }
@@ -72,6 +79,9 @@
 
 # Oddworld: Munch's Oddysee https://store.steampowered.com/app/15740/Oddworld_Munchs_Oddysee/
 { "name": "Munch.exe", "type": "Game" }
+
+# Oddworld: New 'n' Tasty https://store.steampowered.com/app/314660/Oddworld_New_n_Tasty/
+{ "name": "NNT.exe", "type": "Game" }
 
 # Oddworld: Stranger's Wrath HD https://store.steampowered.com/app/15750/Oddworld_Strangers_Wrath_HD/
 { "name": "stranger.exe", "type": "Game" }
@@ -542,9 +552,6 @@
 # Out of the Park Baseball 27 https://store.steampowered.com/app/4045750/Out_of_the_Park_Baseball_27/
 { "name": "ootp27.exe", "type": "Game" }
 
-# Outpath https://store.steampowered.com/app/2237970/Outpath/
-{ "name": "Outpath.exe", "type": "Game" }
-
 # Outpost: Infinity Siege https://store.steampowered.com/app/1566690/Outpost_Infinity_Siege/
 { "name": "U01.exe", "type": "BG_CPUIO" }
 { "name": "U01-Win64-Shipping.exe", "type": "Game" }
@@ -588,6 +595,10 @@
 
 # Overcooked! All You Can Eat https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/
 { "name": "Overcooked All You Can Eat.exe", "type": "Game" }
+
+# Overdungeon https://store.steampowered.com/app/919370/Overdungeon/
+{ "name": "Windows-64bit.exe", "type": "Game" }
+{ "name": "Windows-32bit.exe", "type": "Game" }
 
 # OverField https://store.steampowered.com/app/3879660/OverField/
 { "name": "PCSDKUI.exe", "type": "Game" }

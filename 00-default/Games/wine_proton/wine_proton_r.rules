@@ -44,6 +44,9 @@
 { "name": "Mutant.exe", "type": "Game" }
 { "name": "RAD.exe", "type": "Game" }
 
+# Radio Commander https://store.steampowered.com/app/871530/Radio_Commander_Vietnam_64/
+{ "name": "RC.exe", "type": "Game" }
+
 # Raft https://store.steampowered.com/app/648800/Raft/
 { "name": "Raft.exe", "type": "Game" }
 
@@ -271,6 +274,9 @@
 # Rebellion GODSOUL: Awakening https://store.steampowered.com/app/1213300/Rebellion_GODSOUL_Awakening/
 { "name": "GodSoul.exe", "type": "Game" }
 
+# Rebirth:Mr Wang https://store.steampowered.com/app/1394800/
+{ "name": "Rebirth Mr Wang.exe", "type": "Game" }
+
 # Rebuild 3: Gangs of Deadsville https://store.steampowered.com/app/257170/Rebuild_3_Gangs_of_Deadsville/
 { "name": "Rebuild3.exe", "type": "Game" }
 
@@ -345,6 +351,10 @@
 { "name": "redout2.exe", "type": "BG_CPUIO" }
 { "name": "Redout2-Win64-Shipping.exe", "type": "Game" }
 
+# Redout: Enhanced Edition https://store.steampowered.com/app/517710/Redout_Enhanced_Edition/
+{ "name": "redout.exe", "type": "BG_CPUIO" }
+{ "name": "redout-Win64-Shipping.exe", "type": "Game" }
+
 # Red Solstice 2: Survivors https://store.steampowered.com/app/768520/Red_Solstice_2_Survivors/
 { "name": "survivors.exe", "type": "BG_CPUIO" }
 { "name": "TwinStick-Win64-Shipping.exe", "type": "Game" }
@@ -354,6 +364,9 @@
 
 # Refence https://store.steampowered.com/app/3427090/Refence/
 { "name": "Refence.exe", "type": "Game" }
+
+# Refind Self: The Personality Test Game https://store.steampowered.com/app/2514960/Refind_Self_The_Personality_Test_Game/
+{ "name": "RefindSelf.exe", "type": "Game" }
 
 # Refunct https://store.steampowered.com/app/406150/Refunct/
 { "name": "Refunct-Win32-Shipping.exe", "type": "Game" }
@@ -451,6 +464,9 @@
 # Republic of Pirates https://store.steampowered.com/app/2103470/Republic_of_Pirates/
 { "name": "Republic of Pirates.exe", "type": "Game" }
 
+# Rescue HQ - The Tycoon https://store.steampowered.com/app/809720/Rescue_HQ__The_Tycoon/
+{ "name": "RHQ.exe", "type": "Game" }
+
 # Resident Evil https://store.steampowered.com/app/304240/Resident_Evil/
 { "name": "bhd.exe", "type": "Game" }
 
@@ -468,6 +484,9 @@
 
 # Resident Evil 3 Nemesis (1999) https://store.steampowered.com/app/4249120/
 { "name": "4249120_Launcher.exe", "type": "Game" }
+
+# Resident Evil 3: Raccoon City Demo  https://store.steampowered.com/app/1173690/Resident_Evil_3_Raccoon_City_Demo/
+{ "name": "re3demo.exe", "type": "Game" }
 
 # Resident Evil 4 https://store.steampowered.com/app/2050650/Resident_Evil_4/
 { "name": "re4.exe", "type": "Game" }
@@ -667,6 +686,9 @@
 # Richman 8 https://store.steampowered.com/app/2185870/Richman_8/
 { "name": "Richman8.exe", "type": "Game" }
 
+# Rick and Morty: Virtual Rick-ality https://store.steampowered.com/app/469610/Rick_and_Morty_Virtual_Rickality/
+{ "name": "RickAndMortyVR.exe", "type": "Game" }
+
 # Riddle Joker https://store.steampowered.com/app/1277930/Riddle_Joker/
 { "name": "RiddleJoker.exe", "type": "Game" }
 
@@ -726,6 +748,9 @@
 
 # Ring of Pain https://store.steampowered.com/app/998740/Ring_of_Pain/
 { "name": "Ring Of Pain.exe", "type": "Game" }
+
+# Riot Control Simulator: Rookie Day https://store.steampowered.com/app/2535680/Riot_Control_Simulator_Rookie_Day/
+{ "name": "Riot Control Simulator Rookie Day.exe", "type": "Game" }
 
 # RIPOUT https://store.steampowered.com/app/1558830/RIPOUT/
 { "name": "SpaceMyths.exe", "type": "BG_CPUIO" }
@@ -1206,6 +1231,9 @@
 # RUMBLE https://store.steampowered.com/app/890550/RUMBLE/
 { "name": "RUMBLE.exe", "type": "Game" }
 
+# Rumble Club https://store.steampowered.com/app/2639810/Rumble_Club/
+{ "name": "Rumble Club.exe", "type": "Game" }
+
 # Runaway, A Road Adventure https://store.steampowered.com/app/7210/Runaway_A_Road_Adventure/
 { "name": "Runaway.exe", "type": "Game" }
 
@@ -1220,6 +1248,9 @@
 
 # Rune Classic https://store.steampowered.com/app/210950/Rune_Classic/
 { "name": "Rune.exe", "type": "Game" }
+
+# Rune Coliseum https://store.steampowered.com/app/2360210/Rune_Coliseum/
+{ "name": "RuneCollseum.exe", "type": "Game" }
 
 # Rune Dice https://store.steampowered.com/app/3542380/Rune_Dice/
 { "name": "Rune Dice.exe", "type": "Game" }
