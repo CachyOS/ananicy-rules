@@ -21,3 +21,9 @@
 
 # ProtonPlus https://github.com/Vysp3r/ProtonPlus
 { "name": "protonplus", "type": "BG_CPUIO" }
+
+# WiVRn https://github.com/WiVRn/WiVRn
+{ "name": "wivrn-server", "type": "Service" }
+
+# WiVRn https://monado.dev/
+{ "name": "monado-service", "type": "Service" }
