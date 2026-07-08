@@ -25,5 +25,5 @@
 # WiVRn https://github.com/WiVRn/WiVRn
 { "name": "wivrn-server", "type": "Service" }
 
-# WiVRn https://monado.dev/
+# Monado https://monado.dev/
 { "name": "monado-service", "type": "Service" }
