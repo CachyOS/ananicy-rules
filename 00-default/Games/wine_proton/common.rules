@@ -2209,6 +2209,7 @@
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
 # Enderal: Forgotten Stories (Special Edition) https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/
 { "name": "SkyrimSE.exe", "type": "Game" }
+{ "name": "skse64_loader.exe", "type": "BG_CPUIO" }
 
 # Shin Megami Tensei V: Vengeance Demo https://store.steampowered.com/app/3185590/
 # Shin Megami Tensei V: Vengeance https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
@@ -2452,6 +2453,7 @@
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
 # Enderal: Forgotten Stories https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/
 { "name": "TESV.exe", "type": "Game" }
+{ "name": "skse_loader.exe", "type": "BG_CPUIO" }
 
 # The First Million https://store.steampowered.com/app/4446010/The_First_Million/
 # The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
