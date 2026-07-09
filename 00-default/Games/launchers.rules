@@ -77,6 +77,9 @@
 # Steam client
 { "name": "Steam.exe", "type": "BG_CPUIO" }
 
+# SteamVR
+{ "name": "vrserver", "type": "LowLatency_RT" }
+
 # Steam integrated web browser
 { "name": "steamwebhelper.exe", "type": "Doc-View" }
 
@@ -91,3 +94,10 @@
 # Wivrn-dashboard https://github.com/WiVRn/WiVRn
 { "name": "wivrn-dashboard", "type": "BG_CPUIO" }
 { "name": "wivrn-server", "type": "LowLatency_RT" }
+
+# Monado https://monado.dev/
+{ "name": "monado-service", "type": "LowLatency_RT" }
+
+# ALVR https://github.com/alvr-org/ALVR
+{ "name": "alvr-launcher", "type": "BG_CPUIO" }
+{ "name": "alvr-dashboard", "type": "BG_CPUIO" }
