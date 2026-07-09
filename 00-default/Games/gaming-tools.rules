@@ -22,3 +22,5 @@
 # ProtonPlus https://github.com/Vysp3r/ProtonPlus
 { "name": "protonplus", "type": "BG_CPUIO" }
 
+# WayVR https://wayvr.org/
+{ "name": "wayvr", "type": "LowLatency_RT" }
