@@ -488,14 +488,6 @@
 # theHunter: Primal https://store.steampowered.com/app/322920/theHunter_Primal/
 { "name": "theHunterPrimal.exe", "type": "Game" }
 
-# The Midnight Walk https://store.steampowered.com/app/2863640/The_Midnight_Walk/
-{ "name": "TheMidnightWalk.exe", "type": "BG_CPUIO" }
-{ "name": "TheMidnightWalk-Win64-Shipping.exe", "type": "Game" }
-
-# The Sims: Medieval https://store.steampowered.com/app/102820/The_Sims(TM)_Medieval
-{ "name": "SimsMedievalLauncher.exe", "type": "BG_CPUIO" }
-{ "name": "TSM.exe", "type": "Game" }
-
 # Them's Fightin' Herds https://store.steampowered.com/app/574980/Thems_Fightin_Herds/
 { "name": "Them's Fightin' Herds.exe", "type": "Game" }
 
