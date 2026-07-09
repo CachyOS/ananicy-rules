@@ -485,6 +485,10 @@
 # theHunter Classic https://store.steampowered.com/app/253710/theHunter_Classic/
 { "name": "theHunter.exe", "type": "Game" }
 
+# The Midnight Walk https://store.steampowered.com/app/2863640/The_Midnight_Walk/
+{ "name": "TheMidnightWalk.exe", "type": "BG_CPUIO" }
+{ "name": "TheMidnightWalk-Win64-Shipping.exe", "type": "Game" }
+
 # theHunter: Primal https://store.steampowered.com/app/322920/theHunter_Primal/
 { "name": "theHunterPrimal.exe", "type": "Game" }
 
