@@ -53,6 +53,7 @@
 { "name": "IGOProxy32.exe", "type": "BG_CPUIO" }
 { "name": "Link2EA.exe", "type": "BG_CPUIO" }
 { "name": "OriginLegacyCompatibility.exe", "type": "BG_CPUIO" }
+{ "name": "EACoreServer.exe", "type": "BG_CPUIO" }
 
 # Prism Launcher; Used to launch minecraft (https://github.com/PrismLauncher/PrismLauncher)
 { "name": "prismlauncher", "type": "Game" }
