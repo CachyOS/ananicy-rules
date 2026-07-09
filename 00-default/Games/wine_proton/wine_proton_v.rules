@@ -27,8 +27,9 @@
 # Vagrus - The Riven Realms https://store.steampowered.com/app/909660/Vagrus__The_Riven_Realms/
 { "name": "Vagrus.exe", "type": "Game" }
 
-# VAIL https://store.steampowered.com/app/801550/VAIL_Extraction/
-{ "name": "VAIL.exe", "type": "Game" }
+# VAIL https://store.steampowered.com/app/801550/VAIL/
+{ "name": "VAIL.exe", "type": "BG_CPUIO" }
+{ "name": "VAIL-Win64-Shipping.exe", "type": "Game" }
 
 # Valdis Story: Abyssal City https://store.steampowered.com/app/252030/Valdis_Story_Abyssal_City/
 { "name": "Valdis_Story_AC.exe", "type": "Game" }
