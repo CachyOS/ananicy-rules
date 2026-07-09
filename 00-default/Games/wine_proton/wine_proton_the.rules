@@ -1105,6 +1105,10 @@
 # The Sims Legacy Collection https://store.steampowered.com/app/3314060/The_Sims_Legacy_Collection/
 { "name": "Sims.exe", "type": "Game" }
 
+# The Sims: Medieval https://store.steampowered.com/app/102820/The_Sims(TM)_Medieval
+{ "name": "SimsMedievalLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "TSM.exe", "type": "Game" }
+
 # The Sinking City 2 Demo https://store.steampowered.com/app/4684710/
 { "name": "TheSinkingCity2Demo.exe", "type": "Game" }
 
