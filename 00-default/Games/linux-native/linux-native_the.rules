@@ -35,6 +35,10 @@
 { "name": "kAGEd", "type": "Game" }
 { "name": "kAGE", "type": "Game" }
 
+# The Stanley Parable Demo https://store.steampowered.com/app/247750/
+{ "name": "stanley", "type": "Game" }
+{ "name": "stanley_linux", "type": "Game" }
+
 # The Bridge https://store.steampowered.com/app/204240/The_Bridge/
 { "name": "thebridge.x86_64", "type": "Game" }
 

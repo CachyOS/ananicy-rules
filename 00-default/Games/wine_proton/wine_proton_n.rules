@@ -50,6 +50,17 @@
 { "name": "NSUNSR_option1.exe", "type": "Game"}
 { "name": "NSUNSR_option2.exe", "type": "Game"}
 
+# Neverway Prologue https://store.steampowered.com/app/4520130/
+{ "name": "Neverway.exe", "type": "Game" }
+
+# Nightwater Demo https://store.steampowered.com/app/4576520/
+{ "name": "SkylandsForaging.exe", "type": "BG_CPUIO" }
+{ "name": "SkylandsForaging-Win64-Shipping.exe", "type": "Game" }
+
+# Nuclear Epoch https://store.steampowered.com/app/4049910/Nuclear_Epoch/
+{ "name": "ProjectC.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectC-Win64-Shipping.exe", "type": "Game" }
+
 # NARUTO TO BORUTO: SHINOBI STRIKER https://store.steampowered.com/app/633230/NARUTO_TO_BORUTO_SHINOBI_STRIKER/
 { "name": "NARUTO.exe", "type": "BG_CPUIO" }
 { "name": "NARUTO-Win64-Shipping.exe", "type": "Game" }

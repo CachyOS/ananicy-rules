@@ -37,6 +37,12 @@
 # Icaria https://store.steampowered.com/app/2613890/Icaria/
 { "name": "Icaria.exe", "type": "Game" }
 
+# In Falsus Demo https://store.steampowered.com/app/4355100/
+{ "name": "if-app.exe", "type": "Game" }
+
+# Isekai: Waifu Overlord Demo https://store.steampowered.com/app/3860030/
+{ "name": "IsekaiWaifuOverlord.exe", "type": "Game" }
+
 # ICARUS https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
 { "name": "Icarus.exe", "type": "BG_CPUIO" }

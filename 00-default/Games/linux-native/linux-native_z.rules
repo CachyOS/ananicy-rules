@@ -15,6 +15,10 @@
 { "name": "gzdoom", "type": "Game" }
 { "name": "zdoom", "type": "Game" }
 
+# Zombotron https://store.steampowered.com/app/664830/Zombotron/
+{ "name": "Zombotron.x86_64", "type": "Game" }
+{ "name": "Zombotron.x86", "type": "Game" }
+
 # ZEPHON https://store.steampowered.com/app/1481170/ZEPHON/
 { "name": "Zephon.bin", "type": "Game" }
 

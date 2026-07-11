@@ -680,6 +680,16 @@
 { "name": "Will.exe", "type": "BG_CPUIO" }
 { "name": "WillProject-Win64-Shipping.exe", "type": "Game" }
 
+# War of Banners Demo https://store.steampowered.com/app/3912710/
+{ "name": "WOB.exe", "type": "BG_CPUIO" }
+{ "name": "WOB-Win64-Shipping.exe", "type": "Game" }
+
+# Whisper Mountain Outbreak Friend's Pass https://store.steampowered.com/app/2595010/Whisper_Mountain_Outbreak_Friends_Pass/
+{ "name": "Whisper Mountain Outbreak.exe", "type": "Game" }
+
+# Withering Rooms https://store.steampowered.com/app/2006140/Withering_Rooms/
+{ "name": "Withering Rooms.exe", "type": "Game" }
+
 # Will Glow the Wisp https://store.steampowered.com/app/640890/Will_Glow_the_Wisp/
 { "name": "Will Glow the Wisp.exe", "type": "Game" }
 

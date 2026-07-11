@@ -38,6 +38,10 @@
 # UFO 50 https://store.steampowered.com/app/1147860/UFO_50/
 { "name": "ufo50.exe", "type": "Game" }
 
+# UNDER the SAND https://store.steampowered.com/app/1062960/Under_the_Sand_REDUX__a_road_trip_simulator/
+{ "name": "UnderTheSandREDUX.exe", "type": "BG_CPUIO" }
+{ "name": "UnderTheSandREDUX-Win64-Shipping.exe", "type": "Game" }
+
 # Ukrainian Fight Drone Simulator https://store.steampowered.com/app/2862860/Ukrainian_Fight_Drone_Simulator_UFDS__FPV_drone_simulator/
 { "name": "UFDS.exe", "type": "BG_CPUIO" }
 { "name": "UFDS-Win64-Shipping.exe", "type": "Game" }
