@@ -306,9 +306,6 @@
 # Never Second in Rome https://store.steampowered.com/app/3169580/Never_Second_in_Rome/
 { "name": "Never Second in Rome.exe", "type": "Game" }
 
-# Neverway https://store.steampowered.com/app/2318330/Neverway/
-{ "name": "Neverway.exe", "type": "Game" }
-
 # Neverwinter https://store.steampowered.com/app/109600/Neverwinter/
 { "name": "Neverwinter.exe", "type": "Game" }
 
@@ -452,6 +449,10 @@
 
 # Night Swarm https://store.steampowered.com/app/3668370/Night_Swarm/
 { "name": "night_swarm.exe", "type": "Game" }
+
+# Nightwater Demo https://store.steampowered.com/app/4576520/
+{ "name": "SkylandsForaging.exe", "type": "BG_CPUIO" }
+{ "name": "SkylandsForaging-Win64-Shipping.exe", "type": "Game" }
 
 # Nihilumbra https://store.steampowered.com/app/252670/Nihilumbra/
 { "name": "Nihilumbra.exe", "type": "Game" }
@@ -811,10 +812,6 @@
 
 # Nuclear Dawn https://store.steampowered.com/app/17710/Nuclear_Dawn/
 { "name": "nucleardawn.exe", "type": "Game" }
-
-# Nuclear Epoch Demo https://store.steampowered.com/app/4223270/
-{ "name": "ProjectC.exe", "type": "BG_CPUIO" }
-{ "name": "ProjectC-Win64-Shipping.exe", "type": "Game" }
 
 # Nucleares https://store.steampowered.com/app/1428420/Nucleares/
 { "name": "Nucleares.exe", "type": "Game" }

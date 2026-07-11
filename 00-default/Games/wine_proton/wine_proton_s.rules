@@ -80,6 +80,9 @@
 # Sakuna: Of Rice and Ruin https://store.steampowered.com/app/1356670/Sakuna_Of_Rice_and_Ruin/
 { "name": "Sakuna.exe", "type": "Game" }
 
+# Sakura Arms ~Radiant Duels~ Demo https://store.steampowered.com/app/4406150/
+{ "name": "furuyoni_digital.exe", "type": "Game" }
+
 # Sakura Clicker https://store.steampowered.com/app/383080/Sakura_Clicker/
 { "name": "Sakura Clicker.exe", "type": "Game" }
 
@@ -521,9 +524,6 @@
 { "name": "SEGAGameRoom.exe", "type": "Game" }
 { "name": "SEGAGenesisClassics.exe", "type": "Game" }
 
-# Sejm The Game https://store.steampowered.com/app/2999060/Politics_The_Game/
-{ "name": "SejmTheGame.exe", "type": "Game" }
-
 # Sekiro: Shadows Die Twice - GOTY Edition https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/
 { "name": "sekiro.exe", "type": "Game" }
 
@@ -629,6 +629,9 @@
 { "name": "NinjaGarden.exe", "type": "BG_CPUIO" }
 { "name": "NinjaGarden-Win64-Shipping.exe", "type": "Game" }
 
+# Servant of the Lake Demo https://store.steampowered.com/app/3996940/Servant_of_the_Lake_Demo/
+{ "name": "ServantOfTheLakeDemo.exe", "type": "Game" }
+
 # ServiceIT: You can do IT https://store.steampowered.com/app/2194730/ServiceIT_You_can_do_IT/
 { "name": "SymulatorIT.exe", "type": "BG_CPUIO" }
 { "name": "SymulatorIT-Win64-Shipping.exe", "type": "Game" }
@@ -664,6 +667,21 @@
 # Sex Chess https://store.steampowered.com/app/1948450/Sex_Chess/
 { "name": "BattleChess-Win64-Shipping.exe", "type": "Game" }
 { "name": "BattleChess.exe", "type": "BG_CPUIO" }
+
+# SEX CLUB Simulator 🔞🍓 https://store.steampowered.com/app/3288380/
+{ "name": "SEX CLUB Simulator.exe", "type": "Game" }
+
+# Sex Detective [18+] https://store.steampowered.com/app/2732510/
+{ "name": "Sex Detective [18+].exe", "type": "Game" }
+
+# SEX Doll Simulator🔞 https://store.steampowered.com/app/2299130/
+{ "name": "SEX Doll Simulator🔞.exe", "type": "Game" }
+
+# SEX Massage 🔞 https://store.steampowered.com/app/2666200/
+{ "name": "SEX Massage.exe", "type": "Game" }
+
+# SEX Massage 2 🔞 https://store.steampowered.com/app/3066910/
+{ "name": "Sex Massage 2.exe", "type": "Game" }
 
 # Sexorcism: Lust Confession https://store.steampowered.com/app/4039810/Sexorcism_Lust_Confession/
 { "name": "Sexorcism Lust Confession.exe", "type": "Game" }
@@ -921,6 +939,9 @@
 
 # SHINOBI: Art of Vengeance https://store.steampowered.com/app/2361770/SHINOBI_Art_of_Vengeance/
 { "name": "SHINOBI_AOV.exe", "type": "Game" }
+
+# SHINOBI: Art of Vengeance Demo https://store.steampowered.com/app/3489510/SHINOBI_Art_of_Vengeance_Demo/
+{ "name": "SHINOBI_AOV_DEMO.exe", "type": "Game" }
 
 # Shinobi Warfare https://store.steampowered.com/app/1895300/Shinobi_Warfare/
 { "name": "Shinobi Warfare.exe", "type": "Game" }
@@ -1259,6 +1280,9 @@
 # Sketchy's Contract https://store.steampowered.com/app/2823080/Sketchys_Contract/
 { "name": "LootWorthy.exe", "type": "BG_CPUIO" }
 { "name": "LootWorthy-Win64-Shipping.exe", "type": "Game" }
+
+# Skewer Squad https://store.steampowered.com/app/3926160/Skewer_Squad/
+{ "name": "Skewer Squad.exe", "type": "Game" }
 
 # Skill Legends Royale https://store.steampowered.com/app/3114410/Skill_Legends_Royale/
 { "name": "SkillLegendsRoyale.exe", "type": "Game" }
@@ -1984,6 +2008,9 @@
 # SpellRogue https://store.steampowered.com/app/1990110/SpellRogue/
 { "name": "SpellRogue.exe", "type": "Game" }
 
+# Spellstone https://store.steampowered.com/app/452230/Spellstone/
+{ "name": "Spellstone.exe", "type": "Game" }
+
 # Spelunky https://store.steampowered.com/app/239350/Spelunky/
 { "name": "Spelunky.exe", "type": "Game" }
 
@@ -2502,6 +2529,10 @@
 
 # SteamOS Devkit Client https://store.steampowered.com/app/943760/
 { "name": "devkit-gui.exe", "type": "Game" }
+
+# SteamVR https://store.steampowered.com/app/250820/SteamVR/
+{ "name": "vrstartup.exe", "type": "Game" }
+{ "name": "vrmonitor.exe", "type": "Game" }
 
 # SteamWorld Build https://store.steampowered.com/app/2134770/SteamWorld_Build/
 { "name": "SteamWorld Build.exe", "type": "Game" }

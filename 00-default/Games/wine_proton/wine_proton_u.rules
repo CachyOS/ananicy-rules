@@ -209,6 +209,10 @@
 # Under The Island https://store.steampowered.com/app/1583520/Under_The_Island/
 { "name": "UnderTheIsland.exe", "type": "Game" }
 
+# UNDER the SAND https://store.steampowered.com/app/1062960/Under_the_Sand_REDUX__a_road_trip_simulator/
+{ "name": "UnderTheSandREDUX.exe", "type": "BG_CPUIO" }
+{ "name": "UnderTheSandREDUX-Win64-Shipping.exe", "type": "Game" }
+
 # Under The Waves https://store.steampowered.com/app/1975440/
 { "name": "UnderTheWaves.exe", "type": "BG_CPUIO" }
 { "name": "UnderTheWaves-Win64-Shipping.exe", "type": "Game" }

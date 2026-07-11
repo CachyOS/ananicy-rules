@@ -325,9 +325,6 @@
 # Temtem https://store.steampowered.com/app/745920/Temtem/
 { "name": "Temtem.exe", "type": "Game" }
 
-# Temtem: Swarm https://store.steampowered.com/app/2510960/Temtem_Swarm/
-{ "name": "TemtemSwarm.exe", "type": "Game" }
-
 # Tennis Elbow 2013 https://store.steampowered.com/app/346470/Tennis_Elbow_2013/
 { "name": "TennisElbow.exe", "type": "Game" }
 
@@ -465,6 +462,9 @@
 
 # That's not my Neighbor https://store.steampowered.com/app/3431040/Thats_not_my_Neighbor/
 { "name": "That's not my neighbor (Steam).exe", "type": "Game" }
+
+# That Time I Got Reincarnated as a Demon Hand https://store.steampowered.com/app/3264850/
+{ "name": "DemonHand.exe", "type": "Game" }
 
 # That Time I Got Reincarnated as a Slime ISEKAI Chronicles https://store.steampowered.com/app/2197680/That_Time_I_Got_Reincarnated_as_a_Slime_ISEKAI_Chronicles/
 { "name": "Slime.exe", "type": "Game" }
@@ -607,11 +607,17 @@
 # Three Kingdoms Zhao Yun https://store.steampowered.com/app/2201710/Three_Kingdoms_Zhao_Yun/
 { "name": "zygame_steam.exe", "type": "Game" }
 
+# Thrifty Business https://store.steampowered.com/app/3693650/Thrifty_Business/
+{ "name": "ThriftyBusiness.exe", "type": "Game" }
+
 # Thrive https://store.steampowered.com/app/1779200/Thrive/
 { "name": "ThriveLauncher.exe", "type": "Game" }
 
 # Thriving City: Song https://store.steampowered.com/app/1956800/Thriving_City_Song/
 { "name": "Song.exe", "type": "Game" }
+
+# Throbbin Hood 🏹🔞 https://store.steampowered.com/app/4439310/
+{ "name": "Throbbin Hood 🏹🔞.exe", "type": "Game" }
 
 # THRONE AND LIBERTY https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
 { "name": "TL.exe", "type": "Game" }
@@ -733,9 +739,6 @@
 
 # Tiny Dino: Royale https://store.steampowered.com/app/3067650/Tiny_Dino_Royale/
 { "name": "Tiny Dino Royale.exe", "type": "Game" }
-
-# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
-{ "name": "tiny-glade.exe", "type": "Game" }
 
 # Tinykin https://store.steampowered.com/app/1599020/Tinykin/
 { "name": "Tinykin.exe", "type": "Game" }
@@ -1533,9 +1536,6 @@
 # Turmoil https://store.steampowered.com/app/361280/Turmoil/
 { "name": "Turmoil.exe", "type": "Game" }
 { "name": "Turmoil_PC_Full.exe", "type": "Game" }
-
-# Turnbound https://store.steampowered.com/app/3802470/Turnbound/
-{ "name": "Turnbound.exe", "type": "Game" }
 
 # Turnip Boy Commits Tax Evasion https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/
 { "name": "Turnip Boy Commits Tax Evasion.exe", "type": "Game" }

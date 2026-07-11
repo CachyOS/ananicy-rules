@@ -166,6 +166,9 @@
 { "name": "Rance03.exe", "type": "Game" }
 { "name": "Rance03D3D9.exe", "type": "Game" }
 
+# Ranch Farm and Store Simulator https://store.steampowered.com/app/3706960/Ranch_Farm_and_Store_Simulator/
+{ "name": "Ranch Farm and Store Simulator.exe", "type": "Game" }
+
 # Ranch Simulator: Build, Hunt, Farm https://store.steampowered.com/app/1119730/Ranch_Simulator_Build_Hunt_Farm/
 { "name": "Ranch_Simulator.exe", "type": "BG_CPUIO" }
 { "name": "Ranch_Simulator-Win64-Shipping.exe", "type": "Game" }
@@ -1206,6 +1209,10 @@
 
 # R-Type Dimensions EX https://store.steampowered.com/app/928390/RType_Dimensions_EX/
 { "name": "R-Type_Dimensions.exe", "type": "Game" }
+
+# R-Type Final 2 https://store.steampowered.com/app/1442820/RType_Final_2/
+{ "name": "RTypeFinal2.exe", "type": "BG_CPUIO" }
+{ "name": "RTypeFinal2-Win64-Shipping.exe", "type": "Game" }
 
 # R-Type Tactics I • II Cosmos https://store.steampowered.com/app/2169930/RType_Tactics_I_o_II_Cosmos/
 { "name": "RTypeTacticsCosmos.exe", "type": "BG_CPUIO" }

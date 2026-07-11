@@ -38,9 +38,6 @@
 # Yakuza Kiwami 2 (Legacy) https://store.steampowered.com/app/927380/Yakuza_Kiwami_2/
 { "name": "YakuzaKiwami2.exe", "type": "Game" }
 
-# Yakuza Kiwami 3 & Dark Ties https://store.steampowered.com/app/3937550/Yakuza_Kiwami_3__Dark_Ties/
-{ "name": "yakuzakiwami3.exe", "type": "Game" }
-
 # Yakuza Kiwami (Legacy) https://store.steampowered.com/app/834530/Yakuza_Kiwami/
 { "name": "YakuzaKiwami.exe", "type": "Game" }
 
@@ -80,6 +77,9 @@
 
 # Yellow Taxi Goes Vroom https://store.steampowered.com/app/2011780/Yellow_Taxi_Goes_Vroom/
 { "name": "Yellow Taxi Goes Vroom.exe", "type": "Game" }
+
+# Yellow: The Yellow Artifact https://store.steampowered.com/app/486820/
+{ "name": "yellow.exe", "type": "Game" }
 
 # Yesterday https://store.steampowered.com/app/205840/Yesterday/
 { "name": "Yesterday.exe", "type": "Game" }
@@ -251,8 +251,11 @@
 { "name": "ys6_win_dx9.exe", "type": "Game" }
 { "name": "ys6_win.exe", "type": "Game" }
 
-# Ys X: Proud Nordics https://store.steampowered.com/app/3949290/Ys_X_Proud_Nordics/
+# Ys X: Proud Nordics (20 Feb, 2026) https://store.steampowered.com/app/3949290/Ys_X_Proud_Nordics/
 { "name": "ysx_pn.exe", "type": "Game" }
+
+# Ys X: Proud Nordics (21 Aug, 2025) https://store.steampowered.com/app/3821790/Ys_X_Proud_Nordics/
+{ "name": "ysx.exe", "type": "Game" }
 
 # Yu-Gi-Oh! Duel Links https://store.steampowered.com/app/601510/YuGiOh_Duel_Links/
 { "name": "dlpc.exe", "type": "Game" }

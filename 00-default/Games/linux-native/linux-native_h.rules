@@ -53,6 +53,9 @@
 # Hamster Playground https://store.steampowered.com/app/1442670/Hamster_Playground/
 { "name": "Hamster Playground.x86_64", "type": "Game" }
 
+# Handmancers Demo https://store.steampowered.com/app/2451240/Handmancers_Demo/
+{ "name": "Handmancers.x86_64", "type": "Game" }
+
 # Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
 { "name": "Hand of Fate.x86", "type": "Game" }
 { "name": "Hand of Fate.x86_64", "type": "Game" }
@@ -70,9 +73,6 @@
 # Hard West https://store.steampowered.com/app/307670/Hard_West/
 { "name": "HardWest.x86", "type": "Game" }
 { "name": "HardWest.x86_64", "type": "Game" }
-
-# Haste https://store.steampowered.com/app/1796470/Haste/
-{ "name": "Haste.x86_64", "type": "Game" }
 
 # Hatred https://store.steampowered.com/app/341940/Hatred/
 { "name": "Hatred-Linux-Shipping", "type": "Game" }
@@ -117,6 +117,9 @@
 
 # Heroes of Science and Fiction https://store.steampowered.com/app/2147380/Heroes_of_Science_and_Fiction/
 { "name": "silence_of_the_siren.x86_64", "type": "Game" }
+
+# Heroes Wanted https://store.steampowered.com/app/2667410/Heroes_Wanted/
+{ "name": "HeroesWanted.x86_64", "type": "Game" }
 
 # Heroine's Quest: The Herald of Ragnarok https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
 { "name": "Heroine'sQuest", "type": "Game" }

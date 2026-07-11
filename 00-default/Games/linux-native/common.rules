@@ -45,6 +45,7 @@
 # Perfume Atelier https://store.steampowered.com/app/3962270/Perfume_Atelier/
 # Treasure Beach https://store.steampowered.com/app/3939700/Treasure_Beach/
 # Cozy Cleaner  https://store.steampowered.com/app/2742710/Cozy_Cleaner/
+# Plinbo https://store.steampowered.com/app/3948580/Plinbo_Roguelike_Plinko/
 { "name": "app.x86_64", "type": "Game" }
 
 # Backpack Battles Demo https://store.steampowered.com/app/2444170/Backpack_Battles/
@@ -90,6 +91,10 @@
 # Dimhaven Enigmas Demo https://store.steampowered.com/app/3010310/
 # Dimhaven - The Lost Source https://store.steampowered.com/app/2458980/Dimhaven__The_Lost_Source/
 { "name": "Dimhaven Enigmas.x86_64", "type": "Game" }
+
+# Dome Keeper Demo https://store.steampowered.com/app/1650980/Dome_Keeper_Demo/
+# Dome Keeper https://store.steampowered.com/app/1637320/Dome_Keeper/
+{ "name": "domekeeper.x86_64", "type": "Game" }
 
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
@@ -138,10 +143,15 @@
 # FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
 { "name": "FreshWomen", "type": "Game" }
 
+# Gamblers Table Demo https://store.steampowered.com/app/3747250/Gamblers_Table_Demo/
+# Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
+{ "name": "gamblers-table.x86_64", "type": "Game" }
+
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
 # Everafter Falls https://store.steampowered.com/app/1416960/Everafter_Falls/
 # Idol Hands 2 https://store.steampowered.com/app/2053940/
+# MARVEL Cosmic Invasion Demo https://store.steampowered.com/app/4013980/MARVEL_Cosmic_Invasion_Demo/
 { "name": "Game", "type": "Game" }
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
@@ -152,6 +162,10 @@
 # Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
+
+# Haste Demo https://store.steampowered.com/app/2940200/Haste_Demo/
+# Haste https://store.steampowered.com/app/1796470/Haste/
+{ "name": "Haste.x86_64", "type": "Game" }
 
 # Northgard: Definitive Edition https://store.steampowered.com/app/466560/Northgard_Definitive_Edition/
 # Fraymakers https://store.steampowered.com/app/1420350/Fraymakers/
@@ -173,6 +187,7 @@
 # Synergy https://store.steampowered.com/app/17520/Synergy/
 # Half-Life 2: Update https://store.steampowered.com/app/290930/HalfLife_2_Update/
 # Treason https://store.steampowered.com/app/1786950/Klaus_Veens_Treason/
+# Half-Life 2: Demo https://store.steampowered.com/app/219/
 { "name": "hl2_linux", "type": "Game" }
 
 # Half-Life: Source https://store.steampowered.com/app/280/HalfLife_Source/
@@ -234,6 +249,7 @@
 
 # Gourdlets https://store.steampowered.com/app/2013730/Gourdlets/
 # Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
+# Backpack Hero Demo https://store.steampowered.com/app/2066510/
 # Watermelon https://store.steampowered.com/app/2373450/Watermelon/
 { "name": "linux.x86_64", "type": "Game" }
 
@@ -245,9 +261,17 @@
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro", "type": "Game" }
 
+# Five Hearts Under One Roof Demo https://store.steampowered.com/app/3166530/Five_Hearts_Under_One_Roof_Demo/
+# Five Hearts Under One Roof https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/
+{ "name": "MilkGame.x86_64", "type": "Game" }
+
 # My Dorm - Season 1 https://store.steampowered.com/app/3510160/
 # My Dorm - Season 2 https://store.steampowered.com/app/4178920/
 { "name": "MyDorm", "type": "Game" }
+
+# Neverway Prologue https://store.steampowered.com/app/4520130/
+# Neverway https://store.steampowered.com/app/2318330/Neverway/
+{ "name": "Neverway", "type": "Game" }
 
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 # RPG MO https://store.steampowered.com/app/372800/RPG_MO/
@@ -258,6 +282,7 @@
 # Dorm Janitor's Revenge https://store.steampowered.com/app/3416960/
 # Meltys Quest https://store.steampowered.com/app/723090/
 # Liveza: Death of the Earth https://store.steampowered.com/app/463100/Liveza_Death_of_the_Earth/
+# Yellow: The Yellow Artifact https://store.steampowered.com/app/486820/
 { "name": "nw", "type": "Game" }
 
 # Out of the Park Baseball 18 https://store.steampowered.com/app/465650/Out_of_the_Park_Baseball_18/
@@ -377,6 +402,10 @@
 # Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
 { "name": "srcds_run", "type": "Service" }
 
+# The Stanley Parable Demo https://store.steampowered.com/app/247750/
+# The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
+{ "name": "stanley", "type": "Game" }
+
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 # Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
 # Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
@@ -400,6 +429,14 @@
 # The First Million https://store.steampowered.com/app/4446010/The_First_Million/
 # The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
 { "name": "TheFirstMillion.x86_64", "type": "Game" }
+
+# Tiny Glade Demo https://store.steampowered.com/app/2932580/
+# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
+{ "name": "tiny-glade", "type": "Game" }
+
+# Turnbound Demo https://store.steampowered.com/app/3810040/
+# Turnbound https://store.steampowered.com/app/3802470/Turnbound/
+{ "name": "Turnbound.x86_64", "type": "Game" }
 
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
 # Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/

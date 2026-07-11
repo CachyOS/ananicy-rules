@@ -44,6 +44,9 @@
 { "name": "Deluxe2.exe", "type": "BG_CPUIO" }
 { "name": "Deluxe2-Win64-Shipping.exe", "type": "Game" }
 
+# The Backrooms World Demo https://store.steampowered.com/app/2016860/
+{ "name": "TheBackroomsWorld.exe", "type": "BG_CPUIO" }
+
 # The Ball https://store.steampowered.com/app/35460/The_Ball/
 { "name": "TheBall.exe", "type": "Game" }
 
@@ -170,9 +173,6 @@
 
 # The Censor DX Edition https://store.steampowered.com/app/2755480/
 { "name": "TheCensor.exe", "type": "Game" }
-
-# The Chef's Shift https://store.steampowered.com/app/2390230/The_Chefs_Shift/
-{ "name": "The Chef's Shift.exe", "type": "Game" }
 
 # The Chronicles of Riddick: Assault on Dark Athena https://steamdb.info/app/9860/
 { "name": "DarkAthena.exe", "type": "Game" }
@@ -368,6 +368,9 @@
 { "name": "TheEternalCylinder.exe", "type": "BG_CPUIO" }
 { "name": "TheEternalCylinder-Win64-Shipping.exe", "type": "Game" }
 
+# The Eternal Life of Goldman Demo https://store.steampowered.com/app/4315490/The_Eternal_Life_of_Goldman_Demo/
+{ "name": "GoldmanDemo.exe", "type": "Game" }
+
 # The Evil Within https://store.steampowered.com/app/268050/The_Evil_Within/
 { "name": "evilwithin.exe", "type": "Game" }
 
@@ -535,6 +538,10 @@
 
 # The Hungry Lamb: Traveling in the Late Ming Dynasty https://store.steampowered.com/app/2593370/The_Hungry_Lamb_Traveling_in_the_Late_Ming_Dynasty/
 { "name": "The Hungry Lamb.exe", "type": "Game" }
+
+# THE IDOLM@STER STARLIT SEASON  https://store.steampowered.com/app/1046480/
+{ "name": "StarlitSeason.exe", "type": "BG_CPUIO" }
+{ "name": "StarlitSeason-Win64-Shipping.exe", "type": "Game" }
 
 # The Imaginary Kingdom https://store.steampowered.com/app/4380400/Imaginary_Kingdom/
 { "name": "second_year.exe", "type": "Game" }
@@ -1038,9 +1045,6 @@
 # The Scourge | Tai Ương https://store.steampowered.com/app/2456350/The_Scourge__Tai_ng/
 { "name": "TheScourge.exe", "type": "Game" }
 
-# The Scouring https://store.steampowered.com/app/3338950/The_Scouring/
-{ "name": "TheScouring.exe", "type": "Game" }
-
 # The Scroll Of Taiwu https://store.steampowered.com/app/838350/The_Scroll_Of_Taiwu/
 { "name": "The Scroll of Taiwu.exe", "type": "Game" }
 
@@ -1131,9 +1135,6 @@
 # The Spotter: Dig or Die https://store.steampowered.com/app/3976500/The_Spotter_Dig_or_Die/
 { "name": "The_Spotter.exe", "type": "BG_CPUIO" }
 { "name": "The_Spotter-Win64-Shipping.exe", "type": "Game" }
-
-# The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
-{ "name": "stanley.exe", "type": "Game" }
 
 # The Stanley Parable: Ultra Deluxe https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/
 { "name": "The Stanley Parable Ultra Deluxe.exe", "type": "Game" }

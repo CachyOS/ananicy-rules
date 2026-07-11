@@ -86,9 +86,6 @@
 { "name": "PanelkiProject-Win64-Shipping.exe", "type": "Game" }
 { "name": "PanelkiProject.exe", "type": "BG_CPUIO" }
 
-# PANICORE https://store.steampowered.com/app/2695940/PANICORE/
-{ "name": "Panicore.exe", "type": "Game" }
-
 # Pankapu https://store.steampowered.com/app/418670/Pankapu/
 { "name": "pankapu.exe", "type": "Game" }
 
@@ -319,8 +316,15 @@
 # Pawns of War https://store.steampowered.com/app/3509740/Pawns_of_War/
 { "name": "Pawns OF WAR.exe", "type": "Game" }
 
+# PAW Patrol World https://store.steampowered.com/app/1952520/PAW_Patrol_World/
+{ "name": "PPA.exe", "type": "BG_CPUIO" }
+{ "name": "PPA-Win64-Shipping.exe", "type": "Game" }
+
 # Paws and Whiskers https://store.steampowered.com/app/3174160/Paws_and_Whiskers/
 { "name": "PawsAndWhiskers.exe", "type": "Game" }
+
+# Pawsome Resort https://store.steampowered.com/app/3759220/Pawsome_Resort/
+{ "name": "Pawsome Resort.exe", "type": "Game" }
 
 # Pax Augusta https://store.steampowered.com/app/1989760/Pax_Augusta/
 { "name": "PaxAugusta.exe", "type": "Game" }
@@ -834,6 +838,9 @@
 # Plentiful Demo https://store.steampowered.com/app/3224230/Plentiful_Demo/
 { "name": "Plentiful.exe", "type": "Game" }
 
+# Plinbo https://store.steampowered.com/app/3948580/Plinbo_Roguelike_Plinko/
+{ "name": "Plinbo.exe", "type": "Game" }
+
 # Plutocracy https://store.steampowered.com/app/754500/Plutocracy/
 { "name": "plutocracy.exe", "type": "Game" }
 
@@ -1170,9 +1177,6 @@
 { "name": "Prison Architect.exe", "type": "Game" }
 { "name": "prison architect64.exe", "type": "Game" }
 
-# Prison Escape Simulator: Dig Out https://store.steampowered.com/app/3672720/Prison_Escape_Simulator_Dig_Out/
-{ "name": "Prison Escape Simulator.exe", "type": "Game" }
-
 # Prison Life https://store.steampowered.com/app/1904820/Prison_Life/
 { "name": "Prison Life.exe", "type": "Game" }
 
@@ -1187,6 +1191,9 @@
 
 # Pro Basketball Manager 2026 https://store.steampowered.com/app/3585230/Pro_Basketball_Manager_2026/
 { "name": "PBM2026.exe", "type": "Game" }
+
+# Procelio https://store.steampowered.com/app/4173970/Procelio/
+{ "name": "Procelio.exe", "type": "Game" }
 
 # Pro Cycling Manager 2020 https://store.steampowered.com/app/1178400/Pro_Cycling_Manager_2020/
 { "name": "PCM64Beta_protect.exe", "type": "Game" }

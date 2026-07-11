@@ -98,10 +98,6 @@
 # Last Evil https://store.steampowered.com/app/823910/
 { "name": "LastEvil.exe", "type": "Game" }
 
-# Last Flag https://store.steampowered.com/app/2721340/Last_Flag/
-{ "name": "LastFlagClient.exe", "type": "BG_CPUIO" }
-{ "name": "LastFlagClient-Win64-Shipping.exe", "type": "Game" }
-
 # Last Group Out https://store.steampowered.com/app/1843730/Last_Group_Out/
 { "name": "Last Group Out.exe", "type": "Game" }
 
@@ -607,6 +603,10 @@
 # Little Nightmares II https://store.steampowered.com/app/860510/Little_Nightmares_II/
 { "name": "Little Nightmares II.exe", "type": "Game" }
 
+# Little Nightmares II Demo https://store.steampowered.com/app/1443440/
+{ "name": "Little Nightmares II Demo.exe", "type": "BG_CPUIO" }
+{ "name": "Helios-Win64-Shipping.exe", "type": "Game" }
+
 # Little Nightmares III https://store.steampowered.com/app/1392860/Little_Nightmares_III/
 { "name": "LittleNightmaresIII.exe", "type": "Game" }
 
@@ -646,6 +646,10 @@
 
 # LivingBattle https://store.steampowered.com/app/3353830/LivingBattle/
 { "name": "LivingBattle.exe", "type": "Game" }
+
+# LivingForest https://store.steampowered.com/app/3027490/LivingForest/
+{ "name": "LivingForest.exe", "type": "BG_CPUIO" }
+{ "name": "UMSPV5-Win64-Shipping.exe", "type": "Game" }
 
 # LIZARDS MUST DIE https://store.steampowered.com/app/2532550/LIZARDS_MUST_DIE/
 { "name": "LizardsMustDie.exe", "type": "Game" }
@@ -991,8 +995,14 @@
 # Lust Age Demo https://store.steampowered.com/app/4734810/
 { "name": "LustAge.exe", "type": "Game" }
 
+# Lust Epidemic 18+ https://store.steampowered.com/app/3172860/
+{ "name": "Lust Epidemic 18+.exe", "type": "Game" }
+
 # Lust from Beyond https://store.steampowered.com/app/1035120/
 { "name": "Lust From Beyond.exe", "type": "Game" }
+
+# Lustful Dead 🔞 https://store.steampowered.com/app/3375580/
+{ "name": "Lustful Dead.exe", "type": "Game" }
 
 # Lust Goddess https://store.steampowered.com/app/2808930/Lust_Goddess/
 { "name": "Adult_wars.exe", "type": "Game" }

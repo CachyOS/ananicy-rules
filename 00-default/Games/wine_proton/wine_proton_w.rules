@@ -254,6 +254,10 @@
 # WARNO https://store.steampowered.com/app/1611600/WARNO/
 { "name": "WARNO.exe", "type": "Game" }
 
+# War of Banners Demo https://store.steampowered.com/app/3912710/
+{ "name": "WOB.exe", "type": "BG_CPUIO" }
+{ "name": "WOB-Win64-Shipping.exe", "type": "Game" }
+
 # War of Rights https://store.steampowered.com/app/424030/War_of_Rights/
 { "name": "War of Rights Launcher.exe", "type": "Game" }
 { "name": "WarOfRights.exe", "type": "BG_CPUIO" }
@@ -597,9 +601,6 @@
 # Whispering Willows https://store.steampowered.com/app/288060/Whispering_Willows/
 { "name": "WhisperingWillows.exe", "type": "Game" }
 
-# Whisper Mountain Outbreak https://store.steampowered.com/app/1953230/Whisper_Mountain_Outbreak/
-{ "name": "Whisper Mountain Outbreak.exe", "type": "Game" }
-
 # Whisper of the House https://store.steampowered.com/app/2589500/Whisper_of_the_House/
 { "name": "Whisper of the House.exe", "type": "Game" }
 
@@ -788,6 +789,9 @@
 
 # Witchy Business https://store.steampowered.com/app/3415230/Witchy_Business/
 { "name": "Witchy Business.exe", "type": "Game" }
+
+# Withering Rooms https://store.steampowered.com/app/2006140/Withering_Rooms/
+{ "name": "Withering Rooms.exe", "type": "Game" }
 
 # With Me: Aquatic Time https://store.steampowered.com/app/3395760/With_Me_Aquatic_Time/
 { "name": "AquaticTime.exe", "type": "Game" }

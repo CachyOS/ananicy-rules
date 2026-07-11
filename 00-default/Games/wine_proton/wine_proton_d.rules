@@ -104,9 +104,6 @@
 { "name": "DarkFuture.exe", "type": "BG_CPUIO" }
 { "name": "DarkFuture-Win64-Shipping.exe", "type": "Game" }
 
-# Dark Hours https://store.steampowered.com/app/2208570/Dark_Hours/
-{ "name": "Dark Hours.exe", "type": "BG_CPUIO" }
-
 # Dark Hours: Prologue https://store.steampowered.com/app/3064370/Dark_Hours_Prologue/
 { "name": "Dark Hours Prologue.exe", "type": "BG_CPUIO" }
 
@@ -409,6 +406,9 @@
 # Dead State: Reanimated https://store.steampowered.com/app/239840/Dead_State_Reanimated/
 { "name": "ZRPG.exe", "type": "Game" }
 
+# Deadswitch Combat https://store.steampowered.com/app/3408170/Deadswitch_Combat/
+{ "name": "deadswitch-combat.exe", "type": "Game" }
+
 # Dead Synchronicity: Tomorrow Comes Today https://store.steampowered.com/app/339190/Dead_Synchronicity_Tomorrow_Comes_Today/
 { "name": "Dead Synchronicity.exe", "type": "Game" }
 
@@ -569,6 +569,9 @@
 # Deified https://store.steampowered.com/app/3623530/Deified/
 { "name": "Deified.exe", "type": "Game" }
 
+# Delicious! Pretty Girls Mahjong Solitaire https://store.steampowered.com/app/540610/Delicious_Pretty_Girls_Mahjong_Solitaire/
+{ "name": "DeliciousPGMS.exe", "type": "Game" }
+
 # Deliver At All Costs https://store.steampowered.com/app/1880610/Deliver_At_All_Costs/
 { "name": "Deliver At All Costs.exe", "type": "Game" }
 
@@ -629,10 +632,6 @@
 # Demon Lord: Just a Block https://store.steampowered.com/app/3720420/Demon_Lord_Just_a_Block/
 { "name": "DemonLordJustABlock.exe", "type": "Game" }
 
-# Demonologist https://store.steampowered.com/app/1929610/Demonologist/
-{ "name": "Demonologist.exe", "type": "BG_CPUIO" }
-{ "name": "Shivers-Win64-Shipping.exe", "type": "Game" }
-
 # Demonschool https://store.steampowered.com/app/1900250/Demonschool/
 { "name": "Demonschool.exe", "type": "Game" }
 
@@ -653,6 +652,9 @@
 
 # Demon Tides https://store.steampowered.com/app/2585890/Demon_Tides/
 { "name": "Demon Tides.exe", "type": "Game" }
+
+# DEMON WORK WALK ～hello work poke park 葛葉の魔界大作戦～ https://store.steampowered.com/app/4216070/DEMON_WORK_WALK_hello_work_poke_park/
+{ "name": "DWW.exe", "type": "Game" }
 
 # DeoVR Video Player https://store.steampowered.com/app/837380/DeoVR__VR_Video_Streaming_Platform/
 { "name": "DeoVR.exe", "type": "Game" }
@@ -694,9 +696,6 @@
 
 # Deskrawl: Idle ARPG Demo https://store.steampowered.com/app/4765010/Deskrawl_Idle_ARPG_Demo/
 { "name": "Deskrawl.exe", "type": "Game" }
-
-# Desk Space Demo https://store.steampowered.com/app/4756760/Desk_Space_Demo/
-{ "name": "Desk Space.exe", "type": "Game" }
 
 # Desktop+ https://store.steampowered.com/app/1494460/Desktop/
 { "name": "DesktopPlus.exe", "type": "Game" }
@@ -1077,8 +1076,8 @@
 { "name": "Disney_Speedstorm_x64_r.exe", "type": "Game" }
 { "name": "Disney_Speedstorm_x64_rtl.exe", "type": "Game" }
 
-# Dispatch https://store.steampowered.com/app/2592160/Dispatch/
-{ "name": "Dispatch.exe", "type": "Game" }
+# Dispatch Demo https://store.steampowered.com/app/3674060/Dispatch_Demo/
+{ "name": "Dispatch-Win64-Shipping.exe", "type": "Game" }
 
 # DISSIDIA FINAL FANTASY NT Free Edition https://store.steampowered.com/app/921590/DISSIDIA_FINAL_FANTASY_NT_Free_Edition/
 { "name": "dffnt.exe", "type": "Game" }
@@ -1195,9 +1194,6 @@
 
 # Doloc Town https://store.steampowered.com/app/2285550/Doloc_Town/
 { "name": "DolocTown.exe", "type": "Game" }
-
-# Dome Keeper https://store.steampowered.com/app/1637320/Dome_Keeper/
-{ "name": "domekeeper.exe", "type": "Game" }
 
 # Dominion https://store.steampowered.com/app/1131620/Dominion/
 { "name": "Dominion.exe", "type": "Game" }
@@ -1510,6 +1506,9 @@
 
 # Draw & Guess https://store.steampowered.com/app/1483870/Draw__Guess/
 { "name": "Draw&Guess.exe", "type": "Game" }
+
+# Drawquarium Demo https://store.steampowered.com/app/4331760/
+{ "name": "Drawquarium.exe", "type": "Game" }
 
 # Draw Steel https://store.steampowered.com/app/2902740/Draw_Steel/
 { "name": "Codex.exe", "type": "Game" }
@@ -1828,6 +1827,9 @@
 # Dungeon Team https://store.steampowered.com/app/1509060/Dungeon_Team/
 { "name": "Dungeon Team.exe", "type": "Game" }
 
+# Dungeon Travelers: To Heart 2 in Another World https://store.steampowered.com/app/1901620/
+{ "name": "DT1.exe", "type": "Game" }
+
 # Dungeon Tycoon https://store.steampowered.com/app/2400770/Dungeon_Tycoon/
 { "name": "DungeonTycoon.exe", "type": "Game" }
 
@@ -1917,6 +1919,9 @@
 
 # DYNASTY WARRIORS: ORIGINS https://store.steampowered.com/app/2384580/DYNASTY_WARRIORS_ORIGINS/
 { "name": "DWORIGINS.exe", "type": "Game" }
+
+# DYNASTY WARRIORS: ORIGINS Demo https://store.steampowered.com/app/3273240/DYNASTY_WARRIORS_ORIGINS_Demo/
+{ "name": "DWORIGINS_Demo.exe", "type": "Game" }
 
 # Dynomite! Deluxe https://store.steampowered.com/app/3380/Dynomite_Deluxe/
 { "name": "Dynomite.exe", "type": "Game" }
