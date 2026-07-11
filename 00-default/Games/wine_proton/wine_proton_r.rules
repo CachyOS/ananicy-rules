@@ -542,7 +542,8 @@
 { "name": "Resonance.exe", "type": "Game" }
 
 # Resonite https://store.steampowered.com/app/2519830/Resonite/
-{ "name": "Resonite.exe", "type": "Game" }
+{ "name": "Resonite.exe", "type": "BG_CPUIO" }
+{ "name": "Renderite.Renderer.exe", "type": "Game" }
 
 # Rest Area Simulator https://store.steampowered.com/app/3732960/Rest_Area_Simulator/
 { "name": "RestAreaSimulator.exe", "type": "BG_CPUIO" }
