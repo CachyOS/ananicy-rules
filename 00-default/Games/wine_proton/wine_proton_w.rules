@@ -254,6 +254,10 @@
 # WARNO https://store.steampowered.com/app/1611600/WARNO/
 { "name": "WARNO.exe", "type": "Game" }
 
+# War of Banners Demo https://store.steampowered.com/app/3912710/
+{ "name": "WOB.exe", "type": "BG_CPUIO" }
+{ "name": "WOB-Win64-Shipping.exe", "type": "Game" }
+
 # War of Rights https://store.steampowered.com/app/424030/War_of_Rights/
 { "name": "War of Rights Launcher.exe", "type": "Game" }
 { "name": "WarOfRights.exe", "type": "BG_CPUIO" }
@@ -677,13 +681,6 @@
 { "name": "Will.exe", "type": "BG_CPUIO" }
 { "name": "WillProject-Win64-Shipping.exe", "type": "Game" }
 
-# War of Banners Demo https://store.steampowered.com/app/3912710/
-{ "name": "WOB.exe", "type": "BG_CPUIO" }
-{ "name": "WOB-Win64-Shipping.exe", "type": "Game" }
-
-# Withering Rooms https://store.steampowered.com/app/2006140/Withering_Rooms/
-{ "name": "Withering Rooms.exe", "type": "Game" }
-
 # Will Glow the Wisp https://store.steampowered.com/app/640890/Will_Glow_the_Wisp/
 { "name": "Will Glow the Wisp.exe", "type": "Game" }
 
@@ -792,6 +789,9 @@
 
 # Witchy Business https://store.steampowered.com/app/3415230/Witchy_Business/
 { "name": "Witchy Business.exe", "type": "Game" }
+
+# Withering Rooms https://store.steampowered.com/app/2006140/Withering_Rooms/
+{ "name": "Withering Rooms.exe", "type": "Game" }
 
 # With Me: Aquatic Time https://store.steampowered.com/app/3395760/With_Me_Aquatic_Time/
 { "name": "AquaticTime.exe", "type": "Game" }

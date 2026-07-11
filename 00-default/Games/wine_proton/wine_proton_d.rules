@@ -52,27 +52,6 @@
 # Danganronpa V3: Killing Harmony Demo Ver. https://store.steampowered.com/app/589120/Danganronpa_V3_Killing_Harmony_Demo_Ver/
 { "name": "V3Launcher.exe", "type": "Game" }
 
-# Deadswitch Combat https://store.steampowered.com/app/3408170/Deadswitch_Combat/
-{ "name": "deadswitch-combat.exe", "type": "Game" }
-
-# Delicious! Pretty Girls Mahjong Solitaire https://store.steampowered.com/app/540610/Delicious_Pretty_Girls_Mahjong_Solitaire/
-{ "name": "DeliciousPGMS.exe", "type": "Game" }
-
-# DEMON WORK WALK ～hello work poke park 葛葉の魔界大作戦～ https://store.steampowered.com/app/4216070/DEMON_WORK_WALK_hello_work_poke_park/
-{ "name": "DWW.exe", "type": "Game" }
-
-# Dispatch Demo https://store.steampowered.com/app/3674060/Dispatch_Demo/
-{ "name": "Dispatch-Win64-Shipping.exe", "type": "Game" }
-
-# Drawquarium Demo https://store.steampowered.com/app/4331760/
-{ "name": "Drawquarium.exe", "type": "Game" }
-
-# Dungeon Travelers: To Heart 2 in Another World https://store.steampowered.com/app/1901620/
-{ "name": "DT1.exe", "type": "Game" }
-
-# DYNASTY WARRIORS: ORIGINS Demo https://store.steampowered.com/app/3273240/DYNASTY_WARRIORS_ORIGINS_Demo/
-{ "name": "DWORIGINS_Demo.exe", "type": "Game" }
-
 # Darfall https://store.steampowered.com/app/1961600/Darfall/
 { "name": "Darfall.exe", "type": "Game" }
 
@@ -427,6 +406,9 @@
 # Dead State: Reanimated https://store.steampowered.com/app/239840/Dead_State_Reanimated/
 { "name": "ZRPG.exe", "type": "Game" }
 
+# Deadswitch Combat https://store.steampowered.com/app/3408170/Deadswitch_Combat/
+{ "name": "deadswitch-combat.exe", "type": "Game" }
+
 # Dead Synchronicity: Tomorrow Comes Today https://store.steampowered.com/app/339190/Dead_Synchronicity_Tomorrow_Comes_Today/
 { "name": "Dead Synchronicity.exe", "type": "Game" }
 
@@ -587,6 +569,9 @@
 # Deified https://store.steampowered.com/app/3623530/Deified/
 { "name": "Deified.exe", "type": "Game" }
 
+# Delicious! Pretty Girls Mahjong Solitaire https://store.steampowered.com/app/540610/Delicious_Pretty_Girls_Mahjong_Solitaire/
+{ "name": "DeliciousPGMS.exe", "type": "Game" }
+
 # Deliver At All Costs https://store.steampowered.com/app/1880610/Deliver_At_All_Costs/
 { "name": "Deliver At All Costs.exe", "type": "Game" }
 
@@ -667,6 +652,9 @@
 
 # Demon Tides https://store.steampowered.com/app/2585890/Demon_Tides/
 { "name": "Demon Tides.exe", "type": "Game" }
+
+# DEMON WORK WALK ～hello work poke park 葛葉の魔界大作戦～ https://store.steampowered.com/app/4216070/DEMON_WORK_WALK_hello_work_poke_park/
+{ "name": "DWW.exe", "type": "Game" }
 
 # DeoVR Video Player https://store.steampowered.com/app/837380/DeoVR__VR_Video_Streaming_Platform/
 { "name": "DeoVR.exe", "type": "Game" }
@@ -1087,6 +1075,9 @@
 # Disney Speedstorm https://store.steampowered.com/app/1537830/Disney_Speedstorm/
 { "name": "Disney_Speedstorm_x64_r.exe", "type": "Game" }
 { "name": "Disney_Speedstorm_x64_rtl.exe", "type": "Game" }
+
+# Dispatch Demo https://store.steampowered.com/app/3674060/Dispatch_Demo/
+{ "name": "Dispatch-Win64-Shipping.exe", "type": "Game" }
 
 # DISSIDIA FINAL FANTASY NT Free Edition https://store.steampowered.com/app/921590/DISSIDIA_FINAL_FANTASY_NT_Free_Edition/
 { "name": "dffnt.exe", "type": "Game" }
@@ -1516,6 +1507,9 @@
 # Draw & Guess https://store.steampowered.com/app/1483870/Draw__Guess/
 { "name": "Draw&Guess.exe", "type": "Game" }
 
+# Drawquarium Demo https://store.steampowered.com/app/4331760/
+{ "name": "Drawquarium.exe", "type": "Game" }
+
 # Draw Steel https://store.steampowered.com/app/2902740/Draw_Steel/
 { "name": "Codex.exe", "type": "Game" }
 { "name": "local-game-server-windows.exe", "type": "Service" }
@@ -1833,6 +1827,9 @@
 # Dungeon Team https://store.steampowered.com/app/1509060/Dungeon_Team/
 { "name": "Dungeon Team.exe", "type": "Game" }
 
+# Dungeon Travelers: To Heart 2 in Another World https://store.steampowered.com/app/1901620/
+{ "name": "DT1.exe", "type": "Game" }
+
 # Dungeon Tycoon https://store.steampowered.com/app/2400770/Dungeon_Tycoon/
 { "name": "DungeonTycoon.exe", "type": "Game" }
 
@@ -1922,6 +1919,9 @@
 
 # DYNASTY WARRIORS: ORIGINS https://store.steampowered.com/app/2384580/DYNASTY_WARRIORS_ORIGINS/
 { "name": "DWORIGINS.exe", "type": "Game" }
+
+# DYNASTY WARRIORS: ORIGINS Demo https://store.steampowered.com/app/3273240/DYNASTY_WARRIORS_ORIGINS_Demo/
+{ "name": "DWORIGINS_Demo.exe", "type": "Game" }
 
 # Dynomite! Deluxe https://store.steampowered.com/app/3380/Dynomite_Deluxe/
 { "name": "Dynomite.exe", "type": "Game" }

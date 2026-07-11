@@ -15,10 +15,6 @@
 { "name": "gzdoom", "type": "Game" }
 { "name": "zdoom", "type": "Game" }
 
-# Zombotron https://store.steampowered.com/app/664830/Zombotron/
-{ "name": "Zombotron.x86_64", "type": "Game" }
-{ "name": "Zombotron.x86", "type": "Game" }
-
 # ZEPHON https://store.steampowered.com/app/1481170/ZEPHON/
 { "name": "Zephon.bin", "type": "Game" }
 
@@ -38,6 +34,10 @@
 
 # Zombie Panic! Source https://store.steampowered.com/app/17500/Zombie_Panic_Source/
 { "name": "zps_linux", "type": "Game" }
+
+# Zombotron https://store.steampowered.com/app/664830/Zombotron/
+{ "name": "Zombotron.x86_64", "type": "Game" }
+{ "name": "Zombotron.x86", "type": "Game" }
 
 # Zomcats Invasion https://store.steampowered.com/app/2699240/Zomcats_Invasion/
 { "name": "ZomcatsInvasionLinux.x86_64", "type": "Game" }

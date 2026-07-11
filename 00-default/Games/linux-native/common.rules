@@ -26,18 +26,6 @@
 # Alabaster Dawn https://store.steampowered.com/app/3110760/Alabaster_Dawn/
 { "name": "alabaster_dawn", "type": "Game" }
 
-# Gamblers Table Demo https://store.steampowered.com/app/3747250/Gamblers_Table_Demo/
-# Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
-{ "name": "gamblers-table.x86_64", "type": "Game" }
-
-# Haste Demo https://store.steampowered.com/app/2940200/Haste_Demo/
-# Haste https://store.steampowered.com/app/1796470/Haste/
-{ "name": "Haste.x86_64", "type": "Game" }
-
-# Dome Keeper Demo https://store.steampowered.com/app/1650980/Dome_Keeper_Demo/
-# Dome Keeper https://store.steampowered.com/app/1637320/Dome_Keeper/
-{ "name": "domekeeper.x86_64", "type": "Game" }
-
 # aleph one https://alephone.lhowon.org/
 # Classic Marathon https://store.steampowered.com/app/2398450/Classic_Marathon/
 { "name": "alephone", "type": "Game" }
@@ -104,6 +92,10 @@
 # Dimhaven - The Lost Source https://store.steampowered.com/app/2458980/Dimhaven__The_Lost_Source/
 { "name": "Dimhaven Enigmas.x86_64", "type": "Game" }
 
+# Dome Keeper Demo https://store.steampowered.com/app/1650980/Dome_Keeper_Demo/
+# Dome Keeper https://store.steampowered.com/app/1637320/Dome_Keeper/
+{ "name": "domekeeper.x86_64", "type": "Game" }
+
 # Don't Starve https://store.steampowered.com/app/219740/Dont_Starve/
 # Don't Starve Together https://store.steampowered.com/app/322330/Dont_Starve_Together/
 { "name": "dontstarve_steam", "type": "Game" }
@@ -151,6 +143,10 @@
 # FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
 { "name": "FreshWomen", "type": "Game" }
 
+# Gamblers Table Demo https://store.steampowered.com/app/3747250/Gamblers_Table_Demo/
+# Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
+{ "name": "gamblers-table.x86_64", "type": "Game" }
+
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
 # Everafter Falls https://store.steampowered.com/app/1416960/Everafter_Falls/
@@ -162,30 +158,14 @@
 # Space Hulk https://store.steampowered.com/app/242570/Space_Hulk/
 { "name": "game.x86", "type": "Game" }
 
-# Five Hearts Under One Roof Demo https://store.steampowered.com/app/3166530/Five_Hearts_Under_One_Roof_Demo/
-# Five Hearts Under One Roof https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/
-{ "name": "MilkGame.x86_64", "type": "Game" }
-
-# Turnbound Demo https://store.steampowered.com/app/3810040/
-# Turnbound https://store.steampowered.com/app/3802470/Turnbound/
-{ "name": "Turnbound.x86_64", "type": "Game" }
-
-# Tiny Glade Demo https://store.steampowered.com/app/2932580/
-# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
-{ "name": "tiny-glade", "type": "Game" }
-
-# The Stanley Parable Demo https://store.steampowered.com/app/247750/
-# The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
-{ "name": "stanley", "type": "Game" }
-
-# Neverway Prologue https://store.steampowered.com/app/4520130/
-# Neverway https://store.steampowered.com/app/2318330/Neverway/
-{ "name": "Neverway", "type": "Game" }
-
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 # Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
+
+# Haste Demo https://store.steampowered.com/app/2940200/Haste_Demo/
+# Haste https://store.steampowered.com/app/1796470/Haste/
+{ "name": "Haste.x86_64", "type": "Game" }
 
 # Northgard: Definitive Edition https://store.steampowered.com/app/466560/Northgard_Definitive_Edition/
 # Fraymakers https://store.steampowered.com/app/1420350/Fraymakers/
@@ -281,9 +261,17 @@
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
 { "name": "metro", "type": "Game" }
 
+# Five Hearts Under One Roof Demo https://store.steampowered.com/app/3166530/Five_Hearts_Under_One_Roof_Demo/
+# Five Hearts Under One Roof https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/
+{ "name": "MilkGame.x86_64", "type": "Game" }
+
 # My Dorm - Season 1 https://store.steampowered.com/app/3510160/
 # My Dorm - Season 2 https://store.steampowered.com/app/4178920/
 { "name": "MyDorm", "type": "Game" }
+
+# Neverway Prologue https://store.steampowered.com/app/4520130/
+# Neverway https://store.steampowered.com/app/2318330/Neverway/
+{ "name": "Neverway", "type": "Game" }
 
 # Screeps: World https://store.steampowered.com/app/464350/Screeps_World/
 # RPG MO https://store.steampowered.com/app/372800/RPG_MO/
@@ -414,6 +402,10 @@
 # Left 4 Dead Dedicated Server https://store.steampowered.com/app/222840/
 { "name": "srcds_run", "type": "Service" }
 
+# The Stanley Parable Demo https://store.steampowered.com/app/247750/
+# The Stanley Parable https://store.steampowered.com/app/221910/The_Stanley_Parable/
+{ "name": "stanley", "type": "Game" }
+
 # Deponia: The Complete Journey https://store.steampowered.com/app/292910/Deponia_The_Complete_Journey/
 # Anna's Quest https://store.steampowered.com/app/327220/Annas_Quest/
 # Edna & Harvey: Harvey's New Eyes https://store.steampowered.com/app/219910/Edna__Harvey_Harveys_New_Eyes/
@@ -437,6 +429,14 @@
 # The First Million https://store.steampowered.com/app/4446010/The_First_Million/
 # The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
 { "name": "TheFirstMillion.x86_64", "type": "Game" }
+
+# Tiny Glade Demo https://store.steampowered.com/app/2932580/
+# Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
+{ "name": "tiny-glade", "type": "Game" }
+
+# Turnbound Demo https://store.steampowered.com/app/3810040/
+# Turnbound https://store.steampowered.com/app/3802470/Turnbound/
+{ "name": "Turnbound.x86_64", "type": "Game" }
 
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
 # Chivalry: Medieval Warfare https://store.steampowered.com/app/219640/Chivalry_Medieval_Warfare/

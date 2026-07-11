@@ -50,10 +50,6 @@
 { "name": "NSUNSR_option1.exe", "type": "Game"}
 { "name": "NSUNSR_option2.exe", "type": "Game"}
 
-# Nightwater Demo https://store.steampowered.com/app/4576520/
-{ "name": "SkylandsForaging.exe", "type": "BG_CPUIO" }
-{ "name": "SkylandsForaging-Win64-Shipping.exe", "type": "Game" }
-
 # NARUTO TO BORUTO: SHINOBI STRIKER https://store.steampowered.com/app/633230/NARUTO_TO_BORUTO_SHINOBI_STRIKER/
 { "name": "NARUTO.exe", "type": "BG_CPUIO" }
 { "name": "NARUTO-Win64-Shipping.exe", "type": "Game" }
@@ -453,6 +449,10 @@
 
 # Night Swarm https://store.steampowered.com/app/3668370/Night_Swarm/
 { "name": "night_swarm.exe", "type": "Game" }
+
+# Nightwater Demo https://store.steampowered.com/app/4576520/
+{ "name": "SkylandsForaging.exe", "type": "BG_CPUIO" }
+{ "name": "SkylandsForaging-Win64-Shipping.exe", "type": "Game" }
 
 # Nihilumbra https://store.steampowered.com/app/252670/Nihilumbra/
 { "name": "Nihilumbra.exe", "type": "Game" }

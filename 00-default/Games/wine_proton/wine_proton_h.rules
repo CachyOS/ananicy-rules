@@ -13,6 +13,9 @@
 { "name": "HabboHotel-obr-xl.exe", "type": "Game" }
 { "name": "HabboHotel-ous.exe", "type": "Game" }
 
+# HABROMANIA Demo https://store.steampowered.com/app/3682970/HABROMANIA_Demo/
+{ "name": "HabromaniaDemo.exe", "type": "Game" }
+
 # Hachishaku https://store.steampowered.com/app/3572580/Hachishaku/
 { "name": "Hachishaku.exe", "type": "BG_CPUIO" }
 { "name": "Hachishaku-Win64-Shipping.exe", "type": "Game" }
@@ -114,19 +117,6 @@
 # Hammerwatch https://store.steampowered.com/app/239070/Hammerwatch/
 { "name": "Hammerwatch.exe", "type": "Game" }
 
-# HABROMANIA Demo https://store.steampowered.com/app/3682970/HABROMANIA_Demo/
-{ "name": "HabromaniaDemo.exe", "type": "Game" }
-
-# Handmancers Demo https://store.steampowered.com/app/2451240/Handmancers_Demo/
-{ "name": "Handmancers.exe", "type": "Game" }
-
-# Heroes Wanted https://store.steampowered.com/app/2667410/Heroes_Wanted/
-{ "name": "HeroesWanted.exe", "type": "Game" }
-
-# HUSHED https://store.steampowered.com/app/4532140/HUSHED/
-{ "name": "HUSHED.exe", "type": "BG_CPUIO" }
-{ "name": "HUSHED-Win64-Shipping.exe", "type": "Game" }
-
 # Hamster Combat https://store.steampowered.com/app/2376170/Hamster_Combat/
 { "name": "Hamster Combat.exe", "type": "Game" }
 
@@ -154,6 +144,9 @@
 
 # Handball 21 https://store.steampowered.com/app/891020/Handball_21/
 { "name": "Handball 21.exe", "type": "Game" }
+
+# Handmancers Demo https://store.steampowered.com/app/2451240/Handmancers_Demo/
+{ "name": "Handmancers.exe", "type": "Game" }
 
 # Hand of Fate https://store.steampowered.com/app/266510/Hand_of_Fate/
 { "name": "Hand of Fate.exe", "type": "Game" }
@@ -536,6 +529,9 @@
 # Heroes of Valor https://store.steampowered.com/app/2504090/Heroes_of_Valor/
 { "name": "HeroesOfValor.exe", "type": "BG_CPUIO" }
 { "name": "HeroesOfValor-Win64-Shipping.exe", "type": "Game" }
+
+# Heroes Wanted https://store.steampowered.com/app/2667410/Heroes_Wanted/
+{ "name": "HeroesWanted.exe", "type": "Game" }
 
 # Heroine's Quest: The Herald of Ragnarok https://store.steampowered.com/app/283880/Heroines_Quest_The_Herald_of_Ragnarok/
 { "name": "Heroine's Quest.exe", "type": "Game" }
@@ -1061,6 +1057,10 @@
 { "name": "Hurtworld.exe", "type": "Game" }
 { "name": "hurtworld.exe", "type": "Game" }
 { "name": "HurtworldClient.exe", "type": "Game" }
+
+# HUSHED https://store.steampowered.com/app/4532140/HUSHED/
+{ "name": "HUSHED.exe", "type": "BG_CPUIO" }
+{ "name": "HUSHED-Win64-Shipping.exe", "type": "Game" }
 
 # Hush Hush - Only Your Love Can Save Them https://store.steampowered.com/app/782250/Hush_Hush__Only_Your_Love_Can_Save_Them/
 { "name": "HushHush.exe", "type": "Game" }

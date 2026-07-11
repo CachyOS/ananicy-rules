@@ -38,6 +38,9 @@
 # Bù sīyì mígōng 不思议迷宫 https://store.steampowered.com/app/3112010/Gumballs__Dungeons/
 { "name": "slime.exe", "type": "Game" }
 
+# Chángyè zhīhòu (After Long Night) 长夜之后 (After Long Night) https://store.steampowered.com/app/3351650/After_Long_Night/
+{ "name": "AfterLongNight.exe", "type": "Game" }
+
 # Chéngxù yuán de kèbǎn yìnxiàng Playtest 程序员的刻板印象 Playtest https://store.steampowered.com/app/4143470/_/
 { "name": "coder.exe", "type": "Game" }
 
@@ -61,6 +64,10 @@
 
 # Dà jiānghú zhī cānglóng yǔ bái niǎo 大江湖之苍龙与白鸟 https://store.steampowered.com/app/1407450/The_World_of_Kungfu_Dragon_and_Eagle/
 { "name": "TheWorldOfKongFu.exe", "type": "Game" }
+
+# Dǎodàn wā (Croak Squad) 捣蛋蛙（Croak Squad） https://store.steampowered.com/app/3675400/Croak_Squad/
+{ "name": "C2Dgame.exe", "type": "Game" }
+{ "name": "C2Dgame-Win64-Shipping.exe", "type": "Game" }
 
 # Dié: Jīngzhé 谍：惊蛰 https://store.steampowered.com/app/2374000/Insects_Awaken/
 { "name": "Awaken.exe", "type": "Game" }
@@ -265,6 +272,9 @@
 
 # Lúnhuí xiūxiān lù 轮回修仙路 https://store.steampowered.com/app/1993150/_/
 { "name": "轮回修仙路.exe", "type": "Game" }
+
+# Luòmù zhīqián Before the Fall Demo 落幕之前 Before the Fall Demo https://store.steampowered.com/app/4880830/_Before_the_Fall_Demo/
+{ "name": "落幕之前 Before the Fall.exe", "type": "Game" }
 
 # Luò xīng 落星 https://store.steampowered.com/app/3324610/MeteoriteFall/
 { "name": "METEORITEFALL.exe", "type": "Game" }
@@ -538,6 +548,9 @@
 # Wú huáng wànsuì 吾皇万岁 https://store.steampowered.com/app/3634340/_/
 { "name": "Long Live The Emperor.exe", "type": "Game" }
 
+# Wǔlín zhì (Wushu Chronicles) 武林志（Wushu Chronicles） https://store.steampowered.com/app/921390/Wushu_Chronicles/
+{ "name": "winpc_launcher.exe", "type": "Game" }
+
 # Wú zuì zhī tíng/Trials of Innocence 无罪之庭/Trials of Innocence https://store.steampowered.com/app/2983140/Trials_of_Innocence/
 { "name": "Trials of Innocence.exe", "type": "Game" }
 
@@ -624,19 +637,6 @@
 
 # Yīnghún zhī rèn 英魂之刃 https://store.steampowered.com/app/1591600/
 { "name": "CosClient.exe", "type": "Game" }
-
-# Wǔlín zhì (Wushu Chronicles) 武林志（Wushu Chronicles） https://store.steampowered.com/app/921390/Wushu_Chronicles/
-{ "name": "winpc_launcher.exe", "type": "Game" }
-
-# Chángyè zhīhòu (After Long Night) 长夜之后 (After Long Night) https://store.steampowered.com/app/3351650/After_Long_Night/
-{ "name": "AfterLongNight.exe", "type": "Game" }
-
-# Dǎodàn wā (Croak Squad) 捣蛋蛙（Croak Squad） https://store.steampowered.com/app/3675400/Croak_Squad/
-{ "name": "C2Dgame.exe", "type": "Game" }
-{ "name": "C2Dgame-Win64-Shipping.exe", "type": "Game" }
-
-# Luòmù zhīqián Before the Fall Demo 落幕之前 Before the Fall Demo https://store.steampowered.com/app/4880830/_Before_the_Fall_Demo/
-{ "name": "落幕之前 Before the Fall.exe", "type": "Game" }
 
 # Yīngxióng dào 英雄道 https://store.steampowered.com/app/1730910/Hero_Road_Online/
 { "name": "patch.exe", "type": "Game" }

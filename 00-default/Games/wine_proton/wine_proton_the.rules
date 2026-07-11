@@ -44,6 +44,9 @@
 { "name": "Deluxe2.exe", "type": "BG_CPUIO" }
 { "name": "Deluxe2-Win64-Shipping.exe", "type": "Game" }
 
+# The Backrooms World Demo https://store.steampowered.com/app/2016860/
+{ "name": "TheBackroomsWorld.exe", "type": "BG_CPUIO" }
+
 # The Ball https://store.steampowered.com/app/35460/The_Ball/
 { "name": "TheBall.exe", "type": "Game" }
 
@@ -96,16 +99,6 @@
 
 # The Blackwell Legacy https://store.steampowered.com/app/80330/The_Blackwell_Legacy/
 { "name": "Blackwell Legacy.exe", "type": "Game" }
-
-# The Backrooms World Demo https://store.steampowered.com/app/2016860/
-{ "name": "TheBackroomsWorld.exe", "type": "BG_CPUIO" }
-
-# The Eternal Life of Goldman Demo https://store.steampowered.com/app/4315490/The_Eternal_Life_of_Goldman_Demo/
-{ "name": "GoldmanDemo.exe", "type": "Game" }
-
-# THE IDOLM@STER STARLIT SEASON  https://store.steampowered.com/app/1046480/
-{ "name": "StarlitSeason.exe", "type": "BG_CPUIO" }
-{ "name": "StarlitSeason-Win64-Shipping.exe", "type": "Game" }
 
 # The Bloodline https://store.steampowered.com/app/1159290/The_Bloodline/
 { "name": "TheBloodline.exe", "type": "Game" }
@@ -375,6 +368,9 @@
 { "name": "TheEternalCylinder.exe", "type": "BG_CPUIO" }
 { "name": "TheEternalCylinder-Win64-Shipping.exe", "type": "Game" }
 
+# The Eternal Life of Goldman Demo https://store.steampowered.com/app/4315490/The_Eternal_Life_of_Goldman_Demo/
+{ "name": "GoldmanDemo.exe", "type": "Game" }
+
 # The Evil Within https://store.steampowered.com/app/268050/The_Evil_Within/
 { "name": "evilwithin.exe", "type": "Game" }
 
@@ -542,6 +538,10 @@
 
 # The Hungry Lamb: Traveling in the Late Ming Dynasty https://store.steampowered.com/app/2593370/The_Hungry_Lamb_Traveling_in_the_Late_Ming_Dynasty/
 { "name": "The Hungry Lamb.exe", "type": "Game" }
+
+# THE IDOLM@STER STARLIT SEASON  https://store.steampowered.com/app/1046480/
+{ "name": "StarlitSeason.exe", "type": "BG_CPUIO" }
+{ "name": "StarlitSeason-Win64-Shipping.exe", "type": "Game" }
 
 # The Imaginary Kingdom https://store.steampowered.com/app/4380400/Imaginary_Kingdom/
 { "name": "second_year.exe", "type": "Game" }
