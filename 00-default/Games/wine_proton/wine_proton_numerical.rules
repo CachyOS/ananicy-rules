@@ -33,9 +33,6 @@
 # 6.0 https://store.steampowered.com/app/1165860/60/
 { "name": "6.0.exe", "type": "Game" }
 
-# 9 Kings Demo https://store.steampowered.com/app/3122250/9_Kings_Demo/
-{ "name": "9Kings.exe", "type": "Game" }
-
 # 100 Dino Cats https://store.steampowered.com/app/2803000/100_Dino_Cats/
 { "name": "100 Dino Cats.exe", "type": "Game" }
 
@@ -202,9 +199,6 @@
 # 9 Days https://store.steampowered.com/app/2075720/9_Days/
 { "name": "FifteenDays.exe", "type": "BG_CPUIO" }
 { "name": "FifteenDays-Win64-Shipping.exe", "type": "Game" }
-
-# 9 Kings https://store.steampowered.com/app/2784470/9_Kings/
-{ "name": "9Kings.exe", "type": "Game" }
 
 # 9-nine-:Episode 1 https://store.steampowered.com/app/976390/9nineEpisode_1/
 { "name": "nine_kokoiro.exe", "type": "Game" }

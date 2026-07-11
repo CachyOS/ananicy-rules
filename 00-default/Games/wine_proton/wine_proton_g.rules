@@ -43,9 +43,6 @@
 { "name": "GoF2Launcher.exe", "type": "Game" }
 { "name": "GOF2.exe", "type": "Game" }
 
-# Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
-{ "name": "gamblers-table.exe", "type": "Game" }
-
 # Gamble With Your Friends https://store.steampowered.com/app/3892270/Gamble_With_Your_Friends/
 { "name": "Gamble With Your Friends.exe", "type": "Game" }
 
@@ -66,13 +63,6 @@
 
 # Game of Thrones Winter is Coming https://store.steampowered.com/app/1105420/Game_of_Thrones_Winter_is_Coming/
 { "name": "GotPC.exe", "type": "Game" }
-
-# Gamblers Table Demo https://store.steampowered.com/app/3747250/Gamblers_Table_Demo/
-{ "name": "gamblers-table.exe", "type": "Game" }
-
-# Ghostrunner Demo https://store.steampowered.com/app/1249200/
-{ "name": "Ghostrunner.exe", "type": "BG_CPUIO" }
-{ "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
 
 # Glass Masquerade 4: Constellations https://store.steampowered.com/app/3845830/Glass_Masquerade_4_Constellations/
 { "name": "Glass Masquerade 4.exe", "type": "Game" }
@@ -305,10 +295,6 @@
 
 # Ghost of Tsushima DIRECTOR'S CUT https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/
 { "name": "GhostOfTsushima.exe", "type": "Game" }
-
-# Ghostrunner https://store.steampowered.com/app/1139900/Ghostrunner/
-{ "name": "Ghostrunner.exe", "type": "BG_CPUIO" }
-{ "name": "Ghostrunner-Win64-Shipping.exe", "type": "Game" }
 
 # Ghostrunner 2 https://store.steampowered.com/app/2144740/Ghostrunner_2/
 { "name": "Ghostrunner2.exe", "type": "BG_CPUIO" }

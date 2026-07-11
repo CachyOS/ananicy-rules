@@ -54,10 +54,6 @@
 { "name": "Octopath_Traveler-Win64-Shipping.exe", "type": "Game" }
 { "name": "Octopath_Traveler.exe", "type": "BG_CPUIO" }
 
-# OCTOPATH TRAVELER 0 https://store.steampowered.com/app/3014320/OCTOPATH_TRAVELER_0/
-{ "name": "Octopath_Traveler0.exe", "type": "BG_CPUIO" }
-{ "name": "Octopath_Traveler0-Win64-Shipping.exe", "type": "Game" }
-
 # OCTOPATH TRAVELER II https://store.steampowered.com/app/1971650/OCTOPATH_TRAVELER_II/
 { "name": "Octopath_Traveler2-Win64-Shipping.exe", "type": "Game" }
 
@@ -570,10 +566,6 @@
 
 # Outward Definitive Edition https://store.steampowered.com/app/794260/Outward_Definitive_Edition/
 { "name": "Outward.exe", "type": "Game" }
-
-# OCTOPATH TRAVELER 0 Prologue Demo https://store.steampowered.com/app/3014330/
-{ "name": "Octopath_Traveler0.exe", "type": "BG_CPUIO" }
-{ "name": "Octopath_Traveler0-Win64-Shipping.exe", "type": "Game" }
 
 # One Billion Ducks Demo https://store.steampowered.com/app/4642580/One_Billion_Ducks_Demo/
 { "name": "one_billion_ducks.exe", "type": "Game" }

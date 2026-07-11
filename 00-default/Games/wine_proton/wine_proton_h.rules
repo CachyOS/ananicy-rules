@@ -117,14 +117,8 @@
 # HABROMANIA Demo https://store.steampowered.com/app/3682970/HABROMANIA_Demo/
 { "name": "HabromaniaDemo.exe", "type": "Game" }
 
-# Half-Life 2: Demo https://store.steampowered.com/app/219/
-{ "name": "hl2.exe", "type": "Game" }
-
 # Handmancers Demo https://store.steampowered.com/app/2451240/Handmancers_Demo/
 { "name": "Handmancers.exe", "type": "Game" }
-
-# Haste Demo https://store.steampowered.com/app/2940200/Haste_Demo/
-{ "name": "Haste.exe", "type": "Game" }
 
 # Heroes Wanted https://store.steampowered.com/app/2667410/Heroes_Wanted/
 { "name": "HeroesWanted.exe", "type": "Game" }
@@ -235,9 +229,6 @@
 
 # Hasbro's BATTLESHIP https://store.steampowered.com/app/893050/Hasbros_BATTLESHIP/
 { "name": "Battleship.exe", "type": "Game" }
-
-# Haste https://store.steampowered.com/app/1796470/Haste/
-{ "name": "Haste.exe", "type": "Game" }
 
 # Hatred https://store.steampowered.com/app/341940/Hatred/
 { "name": "Hatred.exe", "type": "BG_CPUIO" }
@@ -424,9 +415,6 @@
 
 # HELLMART https://store.steampowered.com/app/3762550/HELLMART/
 { "name": "Hellmart.exe", "type": "Game" }
-
-# Hello Charlotte https://store.steampowered.com/app/557630/Hello_Charlotte_EP2_Requiem_Aeternam_Deo/
-{ "name": "Game_original.exe", "type": "Game" }
 
 # Hello Kitty Island Adventure https://store.steampowered.com/app/2495100/Hello_Kitty_Island_Adventure/
 { "name": "Hello Kitty.exe", "type": "Game" }

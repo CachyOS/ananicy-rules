@@ -50,16 +50,9 @@
 { "name": "NSUNSR_option1.exe", "type": "Game"}
 { "name": "NSUNSR_option2.exe", "type": "Game"}
 
-# Neverway Prologue https://store.steampowered.com/app/4520130/
-{ "name": "Neverway.exe", "type": "Game" }
-
 # Nightwater Demo https://store.steampowered.com/app/4576520/
 { "name": "SkylandsForaging.exe", "type": "BG_CPUIO" }
 { "name": "SkylandsForaging-Win64-Shipping.exe", "type": "Game" }
-
-# Nuclear Epoch https://store.steampowered.com/app/4049910/Nuclear_Epoch/
-{ "name": "ProjectC.exe", "type": "BG_CPUIO" }
-{ "name": "ProjectC-Win64-Shipping.exe", "type": "Game" }
 
 # NARUTO TO BORUTO: SHINOBI STRIKER https://store.steampowered.com/app/633230/NARUTO_TO_BORUTO_SHINOBI_STRIKER/
 { "name": "NARUTO.exe", "type": "BG_CPUIO" }
@@ -316,9 +309,6 @@
 
 # Never Second in Rome https://store.steampowered.com/app/3169580/Never_Second_in_Rome/
 { "name": "Never Second in Rome.exe", "type": "Game" }
-
-# Neverway https://store.steampowered.com/app/2318330/Neverway/
-{ "name": "Neverway.exe", "type": "Game" }
 
 # Neverwinter https://store.steampowered.com/app/109600/Neverwinter/
 { "name": "Neverwinter.exe", "type": "Game" }
@@ -822,10 +812,6 @@
 
 # Nuclear Dawn https://store.steampowered.com/app/17710/Nuclear_Dawn/
 { "name": "nucleardawn.exe", "type": "Game" }
-
-# Nuclear Epoch Demo https://store.steampowered.com/app/4223270/
-{ "name": "ProjectC.exe", "type": "BG_CPUIO" }
-{ "name": "ProjectC-Win64-Shipping.exe", "type": "Game" }
 
 # Nucleares https://store.steampowered.com/app/1428420/Nucleares/
 { "name": "Nucleares.exe", "type": "Game" }

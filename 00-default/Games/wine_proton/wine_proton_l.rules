@@ -42,14 +42,6 @@
 # Lakeside Bar https://store.steampowered.com/app/3417120/Lakeside_Bar/
 { "name": "Lakeside Bar.exe", "type": "Game" }
 
-# Last Flag Demo https://store.steampowered.com/app/3874250/
-{ "name": "LastFlagClient.exe", "type": "BG_CPUIO" }
-{ "name": "LastFlagClient-Win64-Shipping.exe", "type": "Game" }
-
-# Legend of Mysteria https://store.steampowered.com/app/407230/Legend_of_Mysteria_RPG/
-{ "name": "EQLauncher.exe", "type": "Game" }
-{ "name": "Game.exe", "type": "Game" }
-
 # Little Nightmares II Demo https://store.steampowered.com/app/1443440/
 { "name": "Little Nightmares II Demo.exe", "type": "BG_CPUIO" }
 { "name": "Helios-Win64-Shipping.exe", "type": "Game" }
@@ -119,10 +111,6 @@
 
 # Last Evil https://store.steampowered.com/app/823910/
 { "name": "LastEvil.exe", "type": "Game" }
-
-# Last Flag https://store.steampowered.com/app/2721340/Last_Flag/
-{ "name": "LastFlagClient.exe", "type": "BG_CPUIO" }
-{ "name": "LastFlagClient-Win64-Shipping.exe", "type": "Game" }
 
 # Last Group Out https://store.steampowered.com/app/1843730/Last_Group_Out/
 { "name": "Last Group Out.exe", "type": "Game" }

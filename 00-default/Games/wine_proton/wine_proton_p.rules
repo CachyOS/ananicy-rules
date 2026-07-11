@@ -86,10 +86,6 @@
 { "name": "PanelkiProject-Win64-Shipping.exe", "type": "Game" }
 { "name": "PanelkiProject.exe", "type": "BG_CPUIO" }
 
-# PANICORE Demo https://store.steampowered.com/app/2809040/
-{ "name": "Panicore.exe", "type": "BG_CPUIO" }
-{ "name": "Panicore-Win64-Shipping.exe", "type": "Game" }
-
 # PAW Patrol World https://store.steampowered.com/app/1952520/PAW_Patrol_World/
 { "name": "PPA.exe", "type": "BG_CPUIO" }
 { "name": "PPA-Win64-Shipping.exe", "type": "Game" }
@@ -100,14 +96,8 @@
 # Plinbo https://store.steampowered.com/app/3948580/Plinbo_Roguelike_Plinko/
 { "name": "Plinbo.exe", "type": "Game" }
 
-# Prison Escape Simulator: Dig Out Demo https://store.steampowered.com/app/3710390/Prison_Escape_Simulator_Dig_Out_Demo/
-{ "name": "Prison Escape Simulator.exe", "type": "Game" }
-
 # Procelio https://store.steampowered.com/app/4173970/Procelio/
 { "name": "Procelio.exe", "type": "Game" }
-
-# PANICORE https://store.steampowered.com/app/2695940/PANICORE/
-{ "name": "Panicore.exe", "type": "Game" }
 
 # Pankapu https://store.steampowered.com/app/418670/Pankapu/
 { "name": "pankapu.exe", "type": "Game" }
@@ -1189,9 +1179,6 @@
 # Prison Architect https://store.steampowered.com/app/233450/Prison_Architect/
 { "name": "Prison Architect.exe", "type": "Game" }
 { "name": "prison architect64.exe", "type": "Game" }
-
-# Prison Escape Simulator: Dig Out https://store.steampowered.com/app/3672720/Prison_Escape_Simulator_Dig_Out/
-{ "name": "Prison Escape Simulator.exe", "type": "Game" }
 
 # Prison Life https://store.steampowered.com/app/1904820/Prison_Life/
 { "name": "Prison Life.exe", "type": "Game" }
