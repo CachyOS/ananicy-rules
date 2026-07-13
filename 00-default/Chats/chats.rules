@@ -1,13 +1,13 @@
-# Zoom - https://zoom.us
+# Zoom: https://zoom.us
 { "name": "zoom", "type": "Chat" }
 
 # weechat: https://weechat.org/
 { "name": "weechat", "type": "Chat" }
 
-# https://www.viber.com
+# Viber: https://www.viber.com
 { "name": "viber", "type": "Chat" }
 
-# https://desktop.telegram.org/
+# Telegram: https://desktop.telegram.org/
 { "name": "Telegram", "type": "Chat" }
 { "name": "telegram-desktop", "type": "Chat" }
 { "name": "telegram-desktop.bin", "type": "Chat" }
@@ -31,7 +31,7 @@
 { "name": "fluxer_desktop", "type": "Chat" }
 { "name": "fluxer-canary", "type": "Chat" }
 
-# https://hexchat.github.io
+# Hexchat: https://hexchat.github.io
 { "name": "hexchat", "type": "Chat" }
 
 # Teams: https://teams.microsoft.com/downloadsallDevicesSection
@@ -42,10 +42,13 @@
 # 64gram: https://64gr.am/
 { "name": "64gram-desktop", "type": "Chat" }
 
-# https://archlinux.org/packages/extra/x86_64/gurk/
+# AyuGram: https://github.com/AyuGram/AyuGramDesktop
+{ "name": "AyuGram", "type": "Chat" }
+
+# Gurk: https://archlinux.org/packages/extra/x86_64/gurk/
 { "name": "gurk", "type": "Chat" }
 
-# http://vk.com/messenger
+# Vk: http://vk.com/messenger
 { "name": "caprine", "type": "Chat" }
 { "name": "qtox", "type": "Chat" }
 { "name": "rambox", "type": "Chat" }
@@ -56,10 +59,10 @@
 { "name": "vk", "type": "Chat" }
 { "name": "mailspring", "type": "Chat" }
 
-# https://www.mozilla.org/en-US/thunderbird/
+# Thunderbird: https://www.mozilla.org/en-US/thunderbird/
 { "name": "thunderbird", "type": "Chat" }
 
-# https://github.com/Betterbird/thunderbird-patches
+# Betterbird: https://github.com/Betterbird/thunderbird-patches
 { "name": "betterbird", "type": "Chat" }
 { "name": "betterbird-bin", "type": "Chat" }
 
