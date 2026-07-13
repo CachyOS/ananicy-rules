@@ -487,6 +487,10 @@
 { "name": "MZGame.exe", "type": "BG_CPUIO" }
 { "name": "MZGame-Win64-Shipping.exe", "type": "Game" }
 
+# GODDESS OF VICTORY: NIKKE https://nikke-en.com/
+{ "name": "nikke_launcher.exe", "type": "BG_CPUIO" }
+{ "name": "nikke.exe", "type": "Game" }
+
 # Godsbane Idle https://store.steampowered.com/app/1565140/Godsbane_Idle/
 { "name": "Godsbane.exe", "type": "Game" }
 
