@@ -60,6 +60,9 @@
 # https://github.com/ElyPrismLauncher/ElyPrismLauncher
 { "name": "elyprismlauncher", "type": "Game" }
 
+# Modrinth App for launching minecraft (https://github.com/modrinth/code)
+{ "name": "modrinth", "type": "Game" }
+
 # Fjord Launcher https://github.com/unmojang/FjordLauncher
 { "name": "fjordlauncher", "type": "Game" }
 
