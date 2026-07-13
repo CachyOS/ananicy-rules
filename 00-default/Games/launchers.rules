@@ -66,6 +66,9 @@
 # Fjord Launcher https://github.com/unmojang/FjordLauncher
 { "name": "fjordlauncher", "type": "Game" }
 
+# Bottles https://github.com/bottlesdevs/bottles
+{ "name": "bottles", "type": "BG_CPUIO" } 
+
 # integrated web engine
 { "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
 
