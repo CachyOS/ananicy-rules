@@ -89,6 +89,9 @@
 # Call of Duty: Black Ops 4 https://us.shop.battle.net/en-us/family/call-of-duty-black-ops-4
 { "name": "BlackOps4.exe", "type": "Game" }
 
+# Call of Duty: Black Ops 6 https://store.steampowered.com/app/4384550/Call_of_Duty_Black_Ops_6/
+{ "name": "cod24-cod.exe", "type": "Game" }
+
 # Call of Duty: Black Ops Cold War https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/
 { "name": "BlackOpsColdWar.exe", "type": "Game" }
 
@@ -939,6 +942,9 @@
 # Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
 { "name": "ClearedHot.exe", "type": "Game"}
 
+# ClearMem :: Free Up Your RAM https://store.steampowered.com/app/780100/ClearMem__Free_Up_Your_RAM/
+{ "name": "ClearMem.exe", "type": "BG_CPUIO" }
+
 # Click & Cum 💘💦 https://store.steampowered.com/app/2298610/
 { "name": "Click & Cum 💘💦.exe", "type": "Game" }
 
@@ -1003,12 +1009,6 @@
 
 # Clothing Store Simulator https://store.steampowered.com/app/2923390/Clothing_Store_Simulator/
 { "name": "Clothing Store Simulator.exe", "type": "Game" }
-
-# Call of Duty: Black Ops 6 https://store.steampowered.com/app/4384550/Call_of_Duty_Black_Ops_6/
-{ "name": "cod24-cod.exe", "type": "Game" }
-
-# ClearMem :: Free Up Your RAM https://store.steampowered.com/app/780100/ClearMem__Free_Up_Your_RAM/
-{ "name": "ClearMem.exe", "type": "BG_CPUIO" }
 
 # Cloud Gardens https://store.steampowered.com/app/1372320/Cloud_Gardens/
 { "name": "Cloud Gardens.exe", "type": "Game" }

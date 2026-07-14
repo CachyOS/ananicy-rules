@@ -26,13 +26,6 @@
 # NAMCO MUSEUM ARCHIVES Vol 2 https://store.steampowered.com/app/1254620/NAMCO_MUSEUM_ARCHIVES_Vol_2/
 { "name": "NMA2.exe", "type": "Game"}
 
-# NTE: Neverness to Everness https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/
-{ "name": "NTEGlobalGame.exe", "type": "Game" }
-{ "name": "NTEGlobalBrowser.exe", "type": "Game" }
-{ "name": "NTEGlobalLauncher.exe", "type": "Game" }
-{ "name": "NTEGlobalWebBooster.exe", "type": "Game" }
-{ "name": "HTGame.exe", "type": "Game" }
-
 # nanos world Playtest https://store.steampowered.com/app/2189700/nanos_world/
 { "name": "NanosWorld.exe", "type": "BG_CPUIO" }
 { "name": "NanosWorld-Win64-Shipping.exe", "type": "Game" }
@@ -797,6 +790,13 @@
 
 # NSFW Solitaire & Puzzles https://store.steampowered.com/app/2274120/NSFW_Solitaire/
 { "name": "NSFWSolitaire.exe", "type": "Game" }
+
+# NTE: Neverness to Everness https://store.steampowered.com/app/4508340/NTE_Neverness_to_Everness/
+{ "name": "NTEGlobalGame.exe", "type": "Game" }
+{ "name": "NTEGlobalBrowser.exe", "type": "Game" }
+{ "name": "NTEGlobalLauncher.exe", "type": "Game" }
+{ "name": "NTEGlobalWebBooster.exe", "type": "Game" }
+{ "name": "HTGame.exe", "type": "Game" }
 
 # NTRaholic https://store.steampowered.com/app/3412290/
 { "name": "Ntraholic.exe", "type": "Game" }

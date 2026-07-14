@@ -49,6 +49,9 @@
 # Gambonanza https://store.steampowered.com/app/3509230/Gambonanza/
 { "name": "Gambonanza.exe", "type": "Game" }
 
+# Game Compressor https://store.steampowered.com/app/4339880/Game_Compressor/
+{ "name": "GameCompressor.exe", "type": "Game" }
+
 # Gamedec - Definitive Edition https://store.steampowered.com/app/917720/Gamedec__Definitive_Edition/
 { "name": "GameDEC-Win64-Shipping.exe", "type": "Game" }
 
@@ -70,16 +73,6 @@
 
 # Gang Beasts https://store.steampowered.com/app/285900/Gang_Beasts/
 { "name": "Gang Beasts.exe", "type": "Game" }
-
-# Game Compressor https://store.steampowered.com/app/4339880/Game_Compressor/
-{ "name": "GameCompressor.exe", "type": "Game" }
-
-# GERONIMO https://store.steampowered.com/app/2019620/GERONIMO/
-{ "name": "Geronimo.exe", "type": "BG_CPUIO" }
-{ "name": "Geronimo-Win64-Shipping.exe", "type": "Game" }
-
-# Goblin Camp https://store.steampowered.com/app/2431980/Goblin_Camp/
-{ "name": "GoblinCamp.exe", "type": "Game" }
 
 # Gang of Frogs https://store.steampowered.com/app/3081510/Gang_of_Frogs/
 { "name": "NebulaCoopProject.exe", "type": "BG_CPUIO" }
@@ -266,6 +259,10 @@
 # Geometry Wars: Retro Evolved https://store.steampowered.com/app/8400/Geometry_Wars_Retro_Evolved/
 { "name": "GeometryWars.exe", "type": "Game" }
 
+# GERONIMO https://store.steampowered.com/app/2019620/GERONIMO/
+{ "name": "Geronimo.exe", "type": "BG_CPUIO" }
+{ "name": "Geronimo-Win64-Shipping.exe", "type": "Game" }
+
 # Gestalt: Steam & Cinder https://store.steampowered.com/app/1231990/Gestalt_Steam__Cinder/
 { "name": "Gestalt.exe", "type": "Game" }
 
@@ -422,6 +419,9 @@
 # Goat Simulator: Remastered https://store.steampowered.com/app/1762930/Goat_Simulator_Remastered/
 { "name": "Goatsim_UE4.exe", "type": "BG_CPUIO" }
 { "name": "Goatsim_UE4-Win64-Shipping.exe", "type": "Game" }
+
+# Goblin Camp https://store.steampowered.com/app/2431980/Goblin_Camp/
+{ "name": "GoblinCamp.exe", "type": "Game" }
 
 # Goblin Cleanup https://store.steampowered.com/app/2748340/Goblin_Cleanup/
 { "name": "Goblin Cleanup.exe", "type": "Game" }

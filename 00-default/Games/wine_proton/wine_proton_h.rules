@@ -126,9 +126,6 @@
 # Hamsteria Demo https://store.steampowered.com/app/4440600/Hamsteria_Demo/
 { "name": "HamsteriaDemo.exe", "type": "Game" }
 
-# Hold The Mine https://store.steampowered.com/app/3164960/Hold_The_Mine/
-{ "name": "HoldTheMine.exe", "type": "Game" }
-
 # Hamster Playground https://store.steampowered.com/app/1442670/Hamster_Playground/
 { "name": "Hamster Playground.exe", "type": "Game" }
 
@@ -743,6 +740,9 @@
 
 # Holding Pattern https://store.steampowered.com/app/4309180/Holding_Pattern/
 { "name": "index.exe", "type": "Game" }
+
+# Hold The Mine https://store.steampowered.com/app/3164960/Hold_The_Mine/
+{ "name": "HoldTheMine.exe", "type": "Game" }
 
 # Hold Your King https://store.steampowered.com/app/3564340/Hold_Your_King/
 { "name": "Hold Your King.exe", "type": "Game" }

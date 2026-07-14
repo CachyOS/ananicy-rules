@@ -46,9 +46,6 @@
 # KALPA: Cosmic Symphony https://store.steampowered.com/app/2717010/KALPA_Cosmic_Symphony/
 { "name": "KALPA CosmicSymphony.exe", "type": "Game" }
 
-# KAZ https://store.steampowered.com/app/3633760/KAZ/
-{ "name": "Kaz_Win64.exe", "type": "Game" }
-
 # KAMI https://store.steampowered.com/app/272040/KAMI/
 { "name": "KAMI.exe", "type": "Game" }
 
@@ -126,6 +123,9 @@
 
 # Kats Trigger https://store.steampowered.com/app/3324650/Kats_Trigger/
 { "name": "GixJK.exe", "type": "Game" }
+
+# KAZ https://store.steampowered.com/app/3633760/KAZ/
+{ "name": "Kaz_Win64.exe", "type": "Game" }
 
 # Kebab Chefs! - Restaurant Simulator https://store.steampowered.com/app/1001270/Kebab_Chefs__Restaurant_Simulator/
 { "name": "Kebab Chefs! - Restaurant Simulator.exe", "type": "Game" }

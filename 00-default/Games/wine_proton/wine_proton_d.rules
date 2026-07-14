@@ -65,18 +65,6 @@
 # Dark and Light https://store.steampowered.com/app/529180/Dark_and_Light/
 { "name": "DNL.exe", "type": "Game" }
 
-# Dead Weight Demo https://store.steampowered.com/app/2796120/Dead_Weight_Demo/
-{ "name": "Dead_weight.exe", "type": "Game" }
-
-# Destiny of Immortal https://store.steampowered.com/app/2377930/Destiny_of_Immortal/
-{ "name": "Zaohua.exe", "type": "Game" }
-
-# Dynast.io https://store.steampowered.com/app/792200/Dynastio/
-{ "name": "Dynast.io.exe", "type": "Game" }
-
-# DYO https://store.steampowered.com/app/791470/DYO/
-{ "name": "DYO.exe", "type": "Game" }
-
 # DarkBase 01 https://store.steampowered.com/app/358480/
 { "name": "darkbase01.exe", "type": "Game" }
 
@@ -424,6 +412,9 @@
 # Dead Synchronicity: Tomorrow Comes Today https://store.steampowered.com/app/339190/Dead_Synchronicity_Tomorrow_Comes_Today/
 { "name": "Dead Synchronicity.exe", "type": "Game" }
 
+# Dead Weight Demo https://store.steampowered.com/app/2796120/Dead_Weight_Demo/
+{ "name": "Dead_weight.exe", "type": "Game" }
+
 # Deadzone: Rogue https://store.steampowered.com/app/3228590/Deadzone_Rogue/
 { "name": "DeadzoneSteam.exe", "type": "BG_CPUIO" }
 { "name": "DeadzoneSteam-Win64-Shipping.exe", "type": "Game" }
@@ -765,6 +756,9 @@
 
 # Destiny 2 https://store.steampowered.com/app/1085660/Destiny_2/
 { "name": "destiny2.exe", "type": "Game" }
+
+# Destiny of Immortal https://store.steampowered.com/app/2377930/Destiny_of_Immortal/
+{ "name": "Zaohua.exe", "type": "Game" }
 
 # Desynced https://store.steampowered.com/app/1450900/Desynced/
 { "name": "Desynced.exe", "type": "Game" }
@@ -1915,6 +1909,9 @@
 # Dynamic Dungeons Editor https://store.steampowered.com/app/1694430/Dynamic_Dungeons_Editor/
 { "name": "Dynamic Dungeons Editor.exe", "type": "Game" }
 
+# Dynast.io https://store.steampowered.com/app/792200/Dynastio/
+{ "name": "Dynast.io.exe", "type": "Game" }
+
 # DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition https://store.steampowered.com/app/968790/DYNASTY_WARRIORS_7_Xtreme_Legends_Definitive_Edition/
 { "name": "SM6EN.exe", "type": "Game" }
 { "name": "SM6JP.exe", "type": "Game" }
@@ -1937,6 +1934,9 @@
 
 # Dynomite! Deluxe https://store.steampowered.com/app/3380/Dynomite_Deluxe/
 { "name": "Dynomite.exe", "type": "Game" }
+
+# DYO https://store.steampowered.com/app/791470/DYO/
+{ "name": "DYO.exe", "type": "Game" }
 
 # DYSMANTLE https://store.steampowered.com/app/846770/DYSMANTLE/
 { "name": "DYSMANTLE-OpenGL.exe", "type": "Game" }

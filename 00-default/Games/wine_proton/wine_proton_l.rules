@@ -126,22 +126,12 @@
 # Laundry Store Simulator https://store.steampowered.com/app/3150440/Laundry_Store_Simulator/
 { "name": "Laundry Store Simulator.exe", "type": "Game" }
 
+# Lawgivers II https://store.steampowered.com/app/1407180/Lawgivers_II/
+{ "name": "Lawgivers II.exe", "type": "Game" }
+
 # Lawnmower Game https://store.steampowered.com/app/658600/Lawnmower_Game/
 { "name": "Lawnmowergame.exe", "type": "BG_CPUIO" }
 { "name": "Lawnmowergame-Win64-Shipping.exe", "type": "Game" }
-
-# LEGO Horizon Adventures https://store.steampowered.com/app/2428810/LEGO_Horizon_Adventures/
-{ "name": "LegoHorizonAdventures-Win64-Shipping.exe", "type": "Game" }
-{ "name": "LegoHorizonAdventures.exe", "type": "BG_CPUIO" }
-
-# Loop Tower: Prologue https://store.steampowered.com/app/4491220/Loop_Tower_Prologue/
-{ "name": "Loop Tower.exe", "type": "Game" }
-
-# Lust Arcanum https://store.steampowered.com/app/3593520/
-{ "name": "LustArcanum.exe", "type": "Game" }
-
-# Lawgivers II https://store.steampowered.com/app/1407180/Lawgivers_II/
-{ "name": "Lawgivers II.exe", "type": "Game" }
 
 # Lawn Mowing Simulator https://store.steampowered.com/app/1480560/Lawn_Mowing_Simulator/
 { "name": "Lawn Mowing Simulator.exe", "type": "Game" }
@@ -324,6 +314,10 @@
 
 # LEGO Harry Potter: Years 5-7 https://store.steampowered.com/app/204120/LEGO_Harry_Potter_Years_57/
 { "name": "harry2.exe", "type": "Game" }
+
+# LEGO Horizon Adventures https://store.steampowered.com/app/2428810/LEGO_Horizon_Adventures/
+{ "name": "LegoHorizonAdventures-Win64-Shipping.exe", "type": "Game" }
+{ "name": "LegoHorizonAdventures.exe", "type": "BG_CPUIO" }
 
 # LEGO Indiana Jones 2: The Adventure Continues https://store.steampowered.com/app/32450/LEGO_Indiana_Jones_2_The_Adventure_Continues/
 { "name": "LEGOIndy2.exe", "type": "Game" }
@@ -729,6 +723,9 @@
 # Loop Queen-Escape Dungeon 3 https://store.steampowered.com/app/1950450/
 { "name": "LoopQueen.exe", "type": "Game" }
 
+# Loop Tower: Prologue https://store.steampowered.com/app/4491220/Loop_Tower_Prologue/
+{ "name": "Loop Tower.exe", "type": "Game" }
+
 # Lootborne Demo https://store.steampowered.com/app/4677640/Lootborne_Demo/
 { "name": "Lootborne.exe", "type": "Game" }
 
@@ -1008,6 +1005,9 @@
 
 # Lust Age Demo https://store.steampowered.com/app/4734810/
 { "name": "LustAge.exe", "type": "Game" }
+
+# Lust Arcanum https://store.steampowered.com/app/3593520/
+{ "name": "LustArcanum.exe", "type": "Game" }
 
 # Lust Epidemic 18+ https://store.steampowered.com/app/3172860/
 { "name": "Lust Epidemic 18+.exe", "type": "Game" }

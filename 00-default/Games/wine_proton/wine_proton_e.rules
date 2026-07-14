@@ -30,16 +30,16 @@
 # EARTH DEFENSE FORCE 6 https://store.steampowered.com/app/2291060/EARTH_DEFENSE_FORCE_6/
 { "name": "EDF6.exe", "type": "Game" }
 
-# EA SPORTS College Football 27 https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27/
-{ "name": "CollegeFB27.exe", "type": "Game" }
-{ "name": "CollegeFB27_Trial.exe", "type": "Game" }
-
 # Earth Defense Force: Insect Armageddon https://store.steampowered.com/app/23530/Earth_Defense_Force_Insect_Armageddon/
 { "name": "EDF-IA.exe", "type": "Game" }
 
 # EARTH DEFENSE FORCE: WORLD BROTHERS 2 https://store.steampowered.com/app/2370170/EARTH_DEFENSE_FORCE_WORLD_BROTHERS_2/
 { "name": "LaunchGame.exe", "type": "BG_CPUIO" }
 { "name": "EDFWB-Win64-Shipping.exe", "type": "Game" }
+
+# EA SPORTS College Football 27 https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27/
+{ "name": "CollegeFB27.exe", "type": "Game" }
+{ "name": "CollegeFB27_Trial.exe", "type": "Game" }
 
 # EA SPORTS FC 24 https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/
 { "name": "FC24_Trial.exe", "type": "Game" }

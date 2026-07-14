@@ -631,6 +631,9 @@
 # Through Abandoned: The Forest https://store.steampowered.com/app/513340/Through_Abandoned_The_Forest/
 { "name": "2 Through Abandoned - The Forest.exe", "type": "Game" }
 
+# Through Abandoned: The Refuge https://store.steampowered.com/app/1012460/Through_Abandoned_The_Refuge/
+{ "name": "ta3.exe", "type": "Game" }
+
 # Through Abandoned: The Underground City https://store.steampowered.com/app/389270/Through_Abandoned_The_Underground_City/
 { "name": "1 Through Abandoned - The Underground City.exe", "type": "Game" }
 
@@ -651,6 +654,9 @@
 # Thymesia https://store.steampowered.com/app/1343240/Thymesia/
 { "name": "PlagueProject.exe", "type": "BG_CPUIO" }
 { "name": "PlagueProject-Win64-Shipping.exe", "type": "Game" }
+
+# Tiamat X https://store.steampowered.com/app/343340/Tiamat_X/
+{ "name": "Tiamat X.exe", "type": "Game" }
 
 # Ticket to Ride https://store.steampowered.com/app/2477010/Ticket_to_Ride/
 { "name": "TicketToRide.exe", "type": "Game" }
@@ -1359,12 +1365,6 @@
 # Trials of Fire https://store.steampowered.com/app/1038370/Trials_of_Fire/
 { "name": "TrialsOfFire.exe", "type": "BG_CPUIO" }
 { "name": "TableTopBase-Win64-Shipping.exe", "type": "Game" }
-
-# Through Abandoned: The Refuge https://store.steampowered.com/app/1012460/Through_Abandoned_The_Refuge/
-{ "name": "ta3.exe", "type": "Game" }
-
-# Tiamat X https://store.steampowered.com/app/343340/Tiamat_X/
-{ "name": "Tiamat X.exe", "type": "Game" }
 
 # Trials of Mana https://store.steampowered.com/app/924980/Trials_of_Mana/
 { "name": "Trials of Mana-Win64-Shipping.exe", "type": "Game" }

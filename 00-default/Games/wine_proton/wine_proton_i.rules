@@ -37,15 +37,6 @@
 # Icaria https://store.steampowered.com/app/2613890/Icaria/
 { "name": "Icaria.exe", "type": "Game" }
 
-# Idle Looter https://store.steampowered.com/app/4118640/Idle_Looter/
-{ "name": "Idle Looter.exe", "type": "Game" }
-
-# Immerse Gamepack https://store.steampowered.com/app/3138960/Immerse_Gamepack/
-{ "name": "Immerse Gamepack.exe", "type": "Game" }
-
-# Imperial Ambitions Demo https://store.steampowered.com/app/2918290/
-{ "name": "Imperial Ambitions.exe", "type": "Game" }
-
 # ICARUS https://store.steampowered.com/app/1149460/ICARUS/
 { "name": "Icarus-Win64-Shipping.exe", "type": "Game" }
 { "name": "Icarus.exe", "type": "BG_CPUIO" }
@@ -134,6 +125,9 @@
 
 # Idle Knight https://store.steampowered.com/app/4579750/Idle_Knight/
 { "name": "Idle Knight.exe", "type": "Game" }
+
+# Idle Looter https://store.steampowered.com/app/4118640/Idle_Looter/
+{ "name": "Idle Looter.exe", "type": "Game" }
 
 # Idle Monster TD https://store.steampowered.com/app/1482910/Idle_Monster_TD/
 { "name": "IdleMonsterTD.exe", "type": "Game" }
@@ -256,6 +250,9 @@
 # Illusion Carnival https://store.steampowered.com/app/2796340/Illusion_Carnival/
 { "name": "Illusion Carnival.exe", "type": "Game" }
 
+# Immerse Gamepack https://store.steampowered.com/app/3138960/Immerse_Gamepack/
+{ "name": "Immerse Gamepack.exe", "type": "Game" }
+
 # Immoral-Bathhouse https://store.steampowered.com/app/3734630/
 { "name": "Immoral-Bathhouse.exe", "type": "Game" }
 
@@ -289,6 +286,9 @@
 
 # Imperator: Rome https://store.steampowered.com/app/859580/Imperator_Rome/
 { "name": "imperator.exe", "type": "Game" }
+
+# Imperial Ambitions Demo https://store.steampowered.com/app/2918290/
+{ "name": "Imperial Ambitions.exe", "type": "Game" }
 
 # Imperial Glory https://store.steampowered.com/app/277450/Imperial_Glory/
 { "name": "ImperialGlory.exe", "type": "Game" }
