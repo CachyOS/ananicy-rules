@@ -34,13 +34,6 @@
 { "name": "CollegeFB27.exe", "type": "Game" }
 { "name": "CollegeFB27_Trial.exe", "type": "Game" }
 
-# Echoes of Aincrad https://store.steampowered.com/app/2244210/Echoes_of_Aincrad/
-{ "name": "EchoesofAincrad-Win64-Shipping.exe", "type": "Game" }
-{ "name": "EchoesofAincrad.exe", "type": "BG_CPUIO" }
-
-# Esports Manager 2026 https://store.steampowered.com/app/2749950/Esports_Manager_2026/
-{ "name": "EsportsManager.exe", "type": "Game" }
-
 # Earth Defense Force: Insect Armageddon https://store.steampowered.com/app/23530/Earth_Defense_Force_Insect_Armageddon/
 { "name": "EDF-IA.exe", "type": "Game" }
 
@@ -99,10 +92,6 @@
 # Echocalypse: The Scarlet Covenant https://store.steampowered.com/app/2917030/Echocalypse_The_Scarlet_Covenant/
 { "name": "yzLauncher.exe", "type": "Game" }
 { "name": "Echocalypse.exe", "type": "Game" }
-
-# Echoes of Aincrad DEMO Version https://store.steampowered.com/app/4148250/
-{ "name": "EchoesofAincrad.exe", "type": "BG_CPUIO" }
-{ "name": "EchoesofAincrad-Win64-Shipping.exe", "type": "Game" }
 
 # Echoes of Elysium https://store.steampowered.com/app/2644050/Echoes_of_Elysium/
 { "name": "Elysium.exe", "type": "Game" }
@@ -618,9 +607,6 @@
 
 # Esports Godfather https://store.steampowered.com/app/1278540/Esports_Godfather/
 { "name": "Esport Godfather.exe", "type": "Game" }
-
-# Esports Manager 2026 Demo https://store.steampowered.com/app/4006000/Esports_Manager_2026_Demo/
-{ "name": "EsportsManager.exe", "type": "Game" }
 
 # Espresso Tycoon https://store.steampowered.com/app/1543280/Espresso_Tycoon/
 { "name": "Espresso Tycoon.exe", "type": "Game" }

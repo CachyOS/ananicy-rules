@@ -82,9 +82,6 @@
 { "name": "LastTrain.exe", "type": "BG_CPUIO" }
 { "name": "LastTrain-Win64-Shipping.exe", "type": "Game" }
 
-# Fort Defense https://store.steampowered.com/app/343930/Fort_Defense/
-{ "name": "Game.exe", "type": "Game" }
-
 # Frozen Ship Demo https://store.steampowered.com/app/3733060/
 { "name": "FrozenShip.exe", "type": "Game" }
 
