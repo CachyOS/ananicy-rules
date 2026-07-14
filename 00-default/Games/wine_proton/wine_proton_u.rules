@@ -42,6 +42,10 @@
 { "name": "UFDS.exe", "type": "BG_CPUIO" }
 { "name": "UFDS-Win64-Shipping.exe", "type": "Game" }
 
+# Urban Strife https://store.steampowered.com/app/710230/Urban_Strife/
+{ "name": "USG.exe", "type": "BG_CPUIO" }
+{ "name": "USG-Win64-Shipping.exe", "type": "Game" }
+
 # Ukrainian Warfare: Gostomel Heroes https://store.steampowered.com/app/3902520/Ukrainian_Warfare_Gostomel_Heroes/
 { "name": "Gostomel.exe", "type": "Game" }
 
