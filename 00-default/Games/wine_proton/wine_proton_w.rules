@@ -967,8 +967,9 @@
 # World of Tanks: HEAT https://store.steampowered.com/app/2100280/World_of_Tanks_HEAT/
 { "name": "wgcs_api.exe", "type": "Game" }
 
-# World of Warcraft https://worldofwarcraft.blizzard.com/en-us/
+# World of Warcraft & World of Warcraft Classic https://worldofwarcraft.blizzard.com/en-us/
 { "name": "Wow.exe", "type": "Game" }
+{ "name": "WowClassic.exe", "type": "Game" }
 
 # World of Warplanes https://store.steampowered.com/app/790710/World_of_Warplanes/
 { "name": "WorldOfWarplanes.exe", "type": "Game" }
