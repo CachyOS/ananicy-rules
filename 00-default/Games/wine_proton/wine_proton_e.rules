@@ -37,6 +37,10 @@
 { "name": "LaunchGame.exe", "type": "BG_CPUIO" }
 { "name": "EDFWB-Win64-Shipping.exe", "type": "Game" }
 
+# EA SPORTS College Football 27 https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27/
+{ "name": "CollegeFB27.exe", "type": "Game" }
+{ "name": "CollegeFB27_Trial.exe", "type": "Game" }
+
 # EA SPORTS FC 24 https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/
 { "name": "FC24_Trial.exe", "type": "Game" }
 { "name": "FC24.exe", "type": "Game" }
@@ -88,10 +92,6 @@
 # Echocalypse: The Scarlet Covenant https://store.steampowered.com/app/2917030/Echocalypse_The_Scarlet_Covenant/
 { "name": "yzLauncher.exe", "type": "Game" }
 { "name": "Echocalypse.exe", "type": "Game" }
-
-# Echoes of Aincrad DEMO Version https://store.steampowered.com/app/4148250/
-{ "name": "EchoesofAincrad.exe", "type": "BG_CPUIO" }
-{ "name": "EchoesofAincrad-Win64-Shipping.exe", "type": "Game" }
 
 # Echoes of Elysium https://store.steampowered.com/app/2644050/Echoes_of_Elysium/
 { "name": "Elysium.exe", "type": "Game" }
@@ -607,9 +607,6 @@
 
 # Esports Godfather https://store.steampowered.com/app/1278540/Esports_Godfather/
 { "name": "Esport Godfather.exe", "type": "Game" }
-
-# Esports Manager 2026 Demo https://store.steampowered.com/app/4006000/Esports_Manager_2026_Demo/
-{ "name": "EsportsManager.exe", "type": "Game" }
 
 # Espresso Tycoon https://store.steampowered.com/app/1543280/Espresso_Tycoon/
 { "name": "Espresso Tycoon.exe", "type": "Game" }

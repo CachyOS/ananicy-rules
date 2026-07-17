@@ -371,6 +371,10 @@
 # Urban Rivals https://store.steampowered.com/app/715310/Urban_Rivals/
 { "name": "Urban Rivals.exe", "type": "Game" }
 
+# Urban Strife https://store.steampowered.com/app/710230/Urban_Strife/
+{ "name": "USG.exe", "type": "BG_CPUIO" }
+{ "name": "USG-Win64-Shipping.exe", "type": "Game" }
+
 # Urban Trial Freestyle https://store.steampowered.com/app/243450/Urban_Trial_Freestyle/
 { "name": "UrbanTrialFreestyle.exe", "type": "Game" }
 

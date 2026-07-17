@@ -89,6 +89,9 @@
 # Call of Duty: Black Ops 4 https://us.shop.battle.net/en-us/family/call-of-duty-black-ops-4
 { "name": "BlackOps4.exe", "type": "Game" }
 
+# Call of Duty: Black Ops 6 https://store.steampowered.com/app/4384550/Call_of_Duty_Black_Ops_6/
+{ "name": "cod24-cod.exe", "type": "Game" }
+
 # Call of Duty: Black Ops Cold War https://store.steampowered.com/app/1985810/Call_of_Duty_Black_Ops_Cold_War/
 { "name": "BlackOpsColdWar.exe", "type": "Game" }
 
@@ -491,9 +494,6 @@
 
 # Catherine Classic https://store.steampowered.com/app/893180/Catherine_Classic/
 { "name": "Catherine.exe", "type": "Game" }
-
-# Cat Mail Co. Demo https://store.steampowered.com/app/4622530/Cat_Mail_Co_Demo/
-{ "name": "CatMailCo.exe", "type": "Game" }
 
 # CATO: Buttered Cat https://store.steampowered.com/app/1999520/CATO_Buttered_Cat/
 { "name": "CATO.exe", "type": "Game" }
@@ -942,6 +942,9 @@
 # Cleared Hot https://store.steampowered.com/app/1710820/Cleared_Hot/
 { "name": "ClearedHot.exe", "type": "Game"}
 
+# ClearMem :: Free Up Your RAM https://store.steampowered.com/app/780100/ClearMem__Free_Up_Your_RAM/
+{ "name": "ClearMem.exe", "type": "BG_CPUIO" }
+
 # Click & Cum 💘💦 https://store.steampowered.com/app/2298610/
 { "name": "Click & Cum 💘💦.exe", "type": "Game" }
 
@@ -1227,7 +1230,7 @@
 { "name": "SUN.EXE", "type": "Game" }
 { "name": "FinalSun.exe", "type": "Game" }
 
-# Command & Conquer™ Tiberium Alliances https://store.steampowered.com/app/3106530/
+# Command & Conquer Tiberium Alliances https://store.steampowered.com/app/3106530/
 { "name": "TiberiumAlliances.exe", "type": "Game" }
 
 # Commander Keen https://store.steampowered.com/app/9180/Commander_Keen/

@@ -725,6 +725,9 @@
 # Find Matt's Cats https://store.steampowered.com/app/2624670/Find_Matts_Cats/
 { "name": "Find Matt's Cats.exe", "type": "Game" }
 
+# Fine Sweeper https://store.steampowered.com/app/367000/Fine_Sweeper/
+{ "name": "Fine Sweeper.exe", "type": "Game" }
+
 # Finn Dorset's Institute For Livestock Replication https://store.steampowered.com/app/3135530/Finn_Dorsets_Institute_For_Livestock_Replication/
 { "name": "finndorsets.exe", "type": "Game" }
 
@@ -958,6 +961,9 @@
 # Focus Grove Demo https://store.steampowered.com/app/4124020/Focus_Grove_Demo/
 { "name": "Focus Grove.exe", "type": "Game" }
 
+# Fogpiercer Demo https://store.steampowered.com/app/3350900/Fogpiercer_Demo/
+{ "name": "Fogpiercer-demo.exe", "type": "Game" }
+
 # Folie Fatale https://store.steampowered.com/app/2734450/Folie_Fatale/
 { "name": "FolieFatale.exe", "type": "Game" }
 
@@ -1010,8 +1016,15 @@
 # Forefront https://store.steampowered.com/app/2981220/Forefront/
 { "name": "Forefront_Internal.exe", "type": "Game" }
 
+# Forensics: Crime Scene Detective https://store.steampowered.com/app/3765010/Forensics_Crime_Scene_Detective/
+{ "name": "Forensics.exe", "type": "Game" }
+
 # Forensics: Crime Scene Detective Demo https://store.steampowered.com/app/4753480/
 { "name": "Forensics Demo.exe", "type": "Game" }
+
+# Forest Escape: Last Train https://store.steampowered.com/app/4090360/Forest_Escape_Last_Train/
+{ "name": "LastTrain.exe", "type": "BG_CPUIO" }
+{ "name": "LastTrain-Win64-Shipping.exe", "type": "Game" }
 
 # Forest Escape: Last Train Demo https://store.steampowered.com/app/4405670/Forest_Escape_Last_Train_Demo/
 { "name": "LastTrainDemo.exe", "type": "BG_CPUIO" }
@@ -1292,6 +1305,9 @@
 # Frozenheim https://store.steampowered.com/app/1134100/Frozenheim/
 { "name": "Frozenheim.exe", "type": "BG_CPUIO" }
 { "name": "Frozenheim-Win64-Shipping.exe", "type": "Game" }
+
+# Frozen Ship Demo https://store.steampowered.com/app/3733060/
+{ "name": "FrozenShip.exe", "type": "Game" }
 
 # Frozen Synapse https://store.steampowered.com/app/98200/Frozen_Synapse/
 { "name": "FrozenSynapse.exe", "type": "Game" }
