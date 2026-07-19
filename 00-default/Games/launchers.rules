@@ -74,15 +74,15 @@
 
 # Rules for Steam
 # Steam client
-{ "name": "steam", "type": "BG_CPUIO" }
-{ "name": "steam.sh", "type": "BG_CPUIO" }
+{ "name": "steam", "type": "Launcher" }
+{ "name": "steam.sh", "type": "Launcher" }
 
 # Steam integrated web browser
 { "name": "steamwebhelper", "type": "Doc-View" }
 
 # Rules for Steam on Wine
 # Steam client
-{ "name": "Steam.exe", "type": "BG_CPUIO" }
+{ "name": "Steam.exe", "type": "Launcher" }
 
 # SteamVR
 { "name": "vrserver", "type": "LowLatency_RT" }
