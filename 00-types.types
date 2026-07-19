@@ -6,41 +6,41 @@
 # Type: Player Audio/Video
 # Try to add more CPU power to decrease latency/lags
 # Try to add real time io for avoiding lags
-{ "type": "Player-Audio", "nice": -4, "sched": "normal" }
-{ "type": "Player-Video", "nice": -4, "sched": "normal" }
+{ "type": "Player-Audio", "nice": -4 }
+{ "type": "Player-Video", "nice": -4 }
 
 # Must have more CPU/IO time, but not so much as other apps
-{ "type": "Image-View", "nice": -4, "sched": "normal" }
-{ "type": "Doc-View",   "nice": -4, "sched": "normal" }
+{ "type": "Image-View", "nice": -4 }
+{ "type": "Doc-View",   "nice": -4 }
 
 # Type: Low Latency Realtime Apps
 # In general case not so heavy, but must not lag
-{ "type": "LowLatency_RT", "nice": -12, "ioclass": "best-effort", "sched": "normal" }
+{ "type": "LowLatency_RT", "nice": -12, "ioclass": "best-effort" }
 
 # Type: BackGround CPU/IO Load
 # Background CPU/IO it's needed, but it must be as silent as possible
 { "type": "BG_CPUIO", "nice": 16, "ioclass": "idle", "sched": "idle" }
 
+# Type: Background CPU but demands more I/O, One example: File Synchronization
+{ "type": "BG_CPU", "nice": 14, "ioclass": "best-effort", "sched": "idle" }
+
 # Type: Background Launcher
 # Runs quietly but may spawn foreground or latency-sensitive workloads
 { "type": "Launcher", "nice": 16, "ioclass": "idle", "sched": "normal" }
 
-# Type: Background CPU but demands more I/O, One example: File Synchronization
-{ "type": "BG_CPU", "nice": 14, "ioclass": "best-effort", "sched": "idle" }
-
 # Type: Heavy CPU Load
 # It must work fast enough but must not create so much noise
-{ "type": "Heavy_CPU", "nice": 9, "ioclass": "best-effort", "ionice": 7, "sched": "normal" }
+{ "type": "Heavy_CPU", "nice": 9, "ioclass": "best-effort", "ionice": 7 }
 
 # Type: Chat
-{ "type": "Chat", "nice": -3, "ioclass": "best-effort", "ionice": 7, "sched": "normal" }
+{ "type": "Chat", "nice": -3, "ioclass": "best-effort", "ionice": 7 }
 
 # Type: Service
-{ "type": "Service", "nice": 10, "ioclass": "best-effort", "ionice": 6, "sched": "normal" }
+{ "type": "Service", "nice": 10, "ioclass": "best-effort", "ionice": 6 }
 
 # Type: Indifference
-{ "type": "IN_DIFF", "nice": 0, "ioclass": "best-effort", "ionice": 7, "sched": "normal" }
+{ "type": "IN_DIFF", "nice": 0, "ioclass": "best-effort", "ionice": 7 }
 
 # Type: Adj OOM Score
-{ "type": "OOM_KILL", "oom_score_adj": 1000, "sched": "normal" }
-{ "type": "OOM_NO_KILL", "oom_score_adj": -1000, "sched": "normal" }
+{ "type": "OOM_KILL", "oom_score_adj": 1000 }
+{ "type": "OOM_NO_KILL", "oom_score_adj": -1000 }
