@@ -21,6 +21,10 @@
 # Background CPU/IO it's needed, but it must be as silent as possible
 { "type": "BG_CPUIO", "nice": 16, "ioclass": "idle", "sched": "idle" }
 
+# Type: Background Launcher
+# Runs quietly but may spawn foreground or latency-sensitive workloads
+{ "type": "Launcher", "nice": 16, "ioclass": "idle", "sched": "normal" }
+
 # Type: Background CPU but demands more I/O, One example: File Synchronization
 { "type": "BG_CPU", "nice": 14, "ioclass": "best-effort", "sched": "idle" }
 
