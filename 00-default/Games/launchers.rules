@@ -6,7 +6,7 @@
 # Hydra is a game launcher that allows you to download, play, track your stats and manage your games all in one place: https://hydralauncher.gg/
 {"name" : "hydralauncher", "type": "Doc-View"}
 {"name" : "hydra-python-rpc", "type": "BG_CPUIO"}
-{"name" : "Hydra", "type": "BG_CPUIO"}
+{"name" : "Hydra", "type": "Launcher"}
 
 # Arc Launcher, bundled with games published by Arc
 # Technically available as a standalone app. https://www.arcgames.com/en/about/client
@@ -25,19 +25,19 @@
 
 # Rules for Epic Games Launcher
 # Epic Games Launcher
-{ "name": "EpicGamesLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "EpicGamesLauncher.exe", "type": "Launcher" }
 
 # integrated web browser
-{ "name": "EpicWebHelper.exe", "type": "BG_CPUIO" }
+{ "name": "EpicWebHelper.exe", "type": "Doc-View" }
 
 # Rules for EA Origin Launcher
 # EA Origin Launcher
-{ "name": "Origin.exe", "type": "BG_CPUIO" }
+{ "name": "Origin.exe", "type": "Doc-View" }
 
 # Rules for EA Desktop App
 # Launcher
-{ "name": "EADesktop.exe", "type": "BG_CPUIO" }
-{ "name": "EALauncher.exe", "type": "BG_CPUIO" }
+{ "name": "EADesktop.exe", "type": "Doc-View" }
+{ "name": "EALauncher.exe", "type": "Launcher" }
 
 # integrated services
 { "name": "EABackgroundService.exe", "type": "BG_CPUIO" }
@@ -93,7 +93,7 @@
 # Uplay is a Digital distribution, digital rights management, multiplayer and communications service developed by Ubisoft https://uplay.ubisoft.com/
 { "name": "UbisoftGameLaun", "type": "BG_CPUIO" }
 { "name": "upc.exe", "type": "BG_CPUIO" }
-{ "name": "UplayWebCore.exe", "type": "BG_CPUIO" }
+{ "name": "UplayWebCore.exe", "type": "Doc-View" }
 
 # Unified games launcher: https://github.com/tkashkin/GameHub
 { "name": "com.github.tkashkin.gamehub", "type": "BG_CPUIO" }
@@ -106,5 +106,5 @@
 { "name": "monado-service", "type": "LowLatency_RT" }
 
 # ALVR https://github.com/alvr-org/ALVR
-{ "name": "alvr-launcher", "type": "BG_CPUIO" }
+{ "name": "alvr-launcher", "type": "Launcher" }
 { "name": "alvr-dashboard", "type": "BG_CPUIO" }
