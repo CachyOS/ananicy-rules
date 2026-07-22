@@ -46,26 +46,6 @@
 # KALPA: Cosmic Symphony https://store.steampowered.com/app/2717010/KALPA_Cosmic_Symphony/
 { "name": "KALPA CosmicSymphony.exe", "type": "Game" }
 
-# Kao the Kangaroo https://store.steampowered.com/app/1370140/Kao_the_Kangaroo/
-{ "name": "Kao the Kangaroo.exe", "type": "BG_CPUIO" }
-{ "name": "Kao-Win64-Shipping.exe", "type": "Game" }
-
-# Kayak VR: Mirage https://store.steampowered.com/app/1683340/Kayak_VR_Mirage/
-{ "name": "Kayak_VR.exe", "type": "BG_CPUIO" }
-{ "name": "Kayak_VR-Win64-Shipping.exe", "type": "Game" }
-
-# Kind Words https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/
-{ "name": "Kind Words.exe", "type": "Game" }
-
-# King Of The Castle https://store.steampowered.com/app/1839880/King_Of_The_Castle/
-{ "name": "KingOfTheCastle.exe", "type": "Game" }
-
-# Kuroinu Redux https://store.steampowered.com/app/2348170/Kuroinu_Redux/
-{ "name": "Kuroinu Redux.exe", "type": "Game" }
-
-# KYOTO XANADU -the Blooming Phantom- https://store.steampowered.com/app/4449410/KYOTO_XANADU_the_Blooming_Phantom/
-{ "name": "kyoto_xanadu.exe", "type": "Game" }
-
 # KAMI https://store.steampowered.com/app/272040/KAMI/
 { "name": "KAMI.exe", "type": "Game" }
 
@@ -84,6 +64,10 @@
 
 # Kane & Lynch 2: Dog Days https://store.steampowered.com/app/28000/Kane__Lynch_2_Dog_Days/
 { "name": "KL2.exe", "type": "Game" }
+
+# Kao the Kangaroo https://store.steampowered.com/app/1370140/Kao_the_Kangaroo/
+{ "name": "Kao the Kangaroo.exe", "type": "BG_CPUIO" }
+{ "name": "Kao-Win64-Shipping.exe", "type": "Game" }
 
 # Kao the Kangaroo: Round 2 https://store.steampowered.com/app/1048540/Kao_the_Kangaroo_Round_2_2003_rerelease/
 { "name": "kao2.exe", "type": "Game" }
@@ -143,6 +127,10 @@
 
 # Kats Trigger https://store.steampowered.com/app/3324650/Kats_Trigger/
 { "name": "GixJK.exe", "type": "Game" }
+
+# Kayak VR: Mirage https://store.steampowered.com/app/1683340/Kayak_VR_Mirage/
+{ "name": "Kayak_VR.exe", "type": "BG_CPUIO" }
+{ "name": "Kayak_VR-Win64-Shipping.exe", "type": "Game" }
 
 # KAZ https://store.steampowered.com/app/3633760/KAZ/
 { "name": "Kaz_Win64.exe", "type": "Game" }
@@ -298,6 +286,9 @@
 # Kindergarten 3 https://store.steampowered.com/app/2695570/Kindergarten_3/
 { "name": "Kindergarten3.exe", "type": "Game" }
 
+# Kind Words https://store.steampowered.com/app/1070710/Kind_Words_lo_fi_chill_beats_to_write_to/
+{ "name": "Kind Words.exe", "type": "Game" }
+
 # Kinetic Void https://store.steampowered.com/app/227160/Kinetic_Void/
 { "name": "Kinetic Void.exe", "type": "Game" }
 
@@ -382,6 +373,9 @@
 # King of Retail 2 https://store.steampowered.com/app/2425150/King_of_Retail_2/
 { "name": "KingofRetail2.exe", "type": "BG_CPUIO" }
 { "name": "KingofRetail2-Win64-Shipping.exe", "type": "Game" }
+
+# King Of The Castle https://store.steampowered.com/app/1839880/King_Of_The_Castle/
+{ "name": "KingOfTheCastle.exe", "type": "Game" }
 
 # Kingpin — Life of Crime https://store.steampowered.com/app/38430/Kingpin__Life_of_Crime/
 { "name": "kingpin.exe", "type": "Game" }
@@ -549,9 +543,15 @@
 # Kunitsu-Gami: Path of the Goddess https://store.steampowered.com/app/2510710/KunitsuGami_Path_of_the_Goddess/
 { "name": "KunitsuGami.exe", "type": "Game" }
 
+# Kuroinu Redux https://store.steampowered.com/app/2348170/Kuroinu_Redux/
+{ "name": "Kuroinu Redux.exe", "type": "Game" }
+
 # KurtzPel https://store.steampowered.com/app/844870/KurtzPel/
 { "name": "TheChase.exe", "type": "BG_CPUIO" }
 { "name": "TheChase-Win64-Shipping.exe", "type": "Game" }
 
 # Kynseed https://store.steampowered.com/app/758870/Kynseed/
 { "name": "Kynseed.exe", "type": "Game" }
+
+# KYOTO XANADU -the Blooming Phantom- https://store.steampowered.com/app/4449410/KYOTO_XANADU_the_Blooming_Phantom/
+{ "name": "kyoto_xanadu.exe", "type": "Game" }

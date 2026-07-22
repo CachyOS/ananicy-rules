@@ -35,16 +35,6 @@
 # UBOAT https://store.steampowered.com/app/494840/UBOAT/
 { "name": "UBOAT.exe", "type": "Game" }
 
-# UNBEATABLE [white label] https://store.steampowered.com/app/1290490/UNBEATABLE_white_label/
-{ "name": "UNBEATABLE [white label].exe", "type": "Game" }
-
-# Underground Garage https://store.steampowered.com/app/1452250/Underground_Garage/
-{ "name": "UndergroundGarage.exe", "type": "BG_CPUIO" }
-{ "name": "UndergroundGarage-Win64-Shipping.exe", "type": "Game" }
-
-# UNSIGHTED https://store.steampowered.com/app/1062110/UNSIGHTED/
-{ "name": "UNSIGHTED.exe", "type": "Game" }
-
 # UFO 50 https://store.steampowered.com/app/1147860/UFO_50/
 { "name": "ufo50.exe", "type": "Game" }
 
@@ -132,6 +122,9 @@
 # UNBEATABLE https://store.steampowered.com/app/2240620/UNBEATABLE/
 { "name": "UNBEATABLE.exe", "type": "Game" }
 
+# UNBEATABLE [white label] https://store.steampowered.com/app/1290490/UNBEATABLE_white_label/
+{ "name": "UNBEATABLE [white label].exe", "type": "Game" }
+
 # Unboxing the Cryptic Killer https://store.steampowered.com/app/2069040/Unboxing_the_Cryptic_Killer/
 { "name": "UnboxingTheCrypticKiller.exe", "type": "Game" }
 
@@ -188,6 +181,10 @@
 
 # Underground Blossom https://store.steampowered.com/app/2291850/Underground_Blossom/
 { "name": "undergroundblossom.exe", "type": "Game" }
+
+# Underground Garage https://store.steampowered.com/app/1452250/Underground_Garage/
+{ "name": "UndergroundGarage.exe", "type": "BG_CPUIO" }
+{ "name": "UndergroundGarage-Win64-Shipping.exe", "type": "Game" }
 
 # UnderMine https://store.steampowered.com/app/656350/UnderMine/
 { "name": "UnderMine.exe", "type": "Game" }
@@ -333,6 +330,9 @@
 
 # UnReal World https://store.steampowered.com/app/351700/UnReal_World/
 { "name": "urw.exe", "type": "Game" }
+
+# UNSIGHTED https://store.steampowered.com/app/1062110/UNSIGHTED/
+{ "name": "UNSIGHTED.exe", "type": "Game" }
 
 # Unsolved Case https://store.steampowered.com/app/2084050/Unsolved_Case/
 { "name": "Unsolved Case.exe", "type": "Game" }

@@ -30,22 +30,6 @@
 { "name": "NanosWorld.exe", "type": "BG_CPUIO" }
 { "name": "NanosWorld-Win64-Shipping.exe", "type": "Game" }
 
-# Neko Station https://store.steampowered.com/app/4141710/Neko_Station/
-{ "name": "Neko Station.exe", "type": "Game" }
-
-# Nevergrind https://store.steampowered.com/app/948820/Nevergrind/
-{ "name": "nevergrind.exe", "type": "Game" }
-
-# Nidhogg 2 https://store.steampowered.com/app/535520/Nidhogg_2/
-{ "name": "Nidhogg_2.exe", "type": "Game" }
-
-# NORCO https://store.steampowered.com/app/1221250/NORCO/
-{ "name": "norco.exe", "type": "Game" }
-
-# No Return https://store.steampowered.com/app/1967220/No_Return/
-{ "name": "NoReturn.exe", "type": "BG_CPUIO" }
-{ "name": "LBRR996.exe", "type": "Game" }
-
 # Narcissu 1st & 2nd https://store.steampowered.com/app/264380/Narcissu_1st__2nd/
 { "name": "narci2.exe", "type": "Game" }
 
@@ -265,6 +249,9 @@
 # NEKOPARA Vol. 4 https://store.steampowered.com/app/1406990/NEKOPARA_Vol_4/
 { "name": "nekopara_vol4.exe", "type": "Game" }
 
+# Neko Station https://store.steampowered.com/app/4141710/Neko_Station/
+{ "name": "Neko Station.exe", "type": "Game" }
+
 # Nelke & the Legendary Alchemists ~Ateliers of the New World~ https://store.steampowered.com/app/886820/Nelke__the_Legendary_Alchemists_Ateliers_of_the_New_World/
 { "name": "Nelke_and_the_Legendary_Alchemists.exe", "type": "Game"}
 
@@ -309,6 +296,9 @@
 
 # Never Grave https://store.steampowered.com/app/2395770/Never_Grave_The_Witch_and_The_Curse/
 { "name": "NeverGrave.exe", "type": "Game" }
+
+# Nevergrind https://store.steampowered.com/app/948820/Nevergrind/
+{ "name": "nevergrind.exe", "type": "Game" }
 
 # Nevergrind Online https://store.steampowered.com/app/853450/Nevergrind_Online/
 { "name": "nevergrind-online.exe", "type": "Game" }
@@ -388,6 +378,9 @@
 
 # Nidhogg https://store.steampowered.com/app/94400/Nidhogg/
 { "name": "Nidhogg.exe", "type": "Game" }
+
+# Nidhogg 2 https://store.steampowered.com/app/535520/Nidhogg_2/
+{ "name": "Nidhogg_2.exe", "type": "Game" }
 
 # NieR:Automata https://store.steampowered.com/app/524220/NieRAutomata/
 { "name": "NierAutomata.exe", "type": "Game" }
@@ -695,6 +688,9 @@
 # No Place Like Home https://store.steampowered.com/app/1472660/No_Place_Like_Home/
 { "name": "NPLH.exe", "type": "Game" }
 
+# NORCO https://store.steampowered.com/app/1221250/NORCO/
+{ "name": "norco.exe", "type": "Game" }
+
 # Nordhold https://store.steampowered.com/app/3028310/Nordhold/
 { "name": "NordHold.exe", "type": "Game" }
 
@@ -703,6 +699,10 @@
 
 # No Rest for the Wicked https://store.steampowered.com/app/1371980/No_Rest_for_the_Wicked/
 { "name": "NoRestForTheWicked.exe", "type": "Game" }
+
+# No Return https://store.steampowered.com/app/1967220/No_Return/
+{ "name": "NoReturn.exe", "type": "BG_CPUIO" }
+{ "name": "LBRR996.exe", "type": "Game" }
 
 # Norland https://store.steampowered.com/app/1857090/Norland/
 { "name": "Norland.exe", "type": "Game"}

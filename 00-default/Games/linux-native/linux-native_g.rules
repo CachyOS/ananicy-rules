@@ -27,9 +27,6 @@
 # GearBlocks https://store.steampowered.com/app/1305080/GearBlocks/
 { "name": "GearBlocks.x86_64", "type": "Game" }
 
-# Geometry Wars 3: Dimensions Evolved https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/
-{ "name": "GeometryWars3", "type": "Game" }
-
 # GearCity https://store.steampowered.com/app/285110/GearCity/
 { "name": "GearCityFBS1", "type": "Game" }
 { "name": "GearCityStart", "type": "Game" }
@@ -47,6 +44,9 @@
 { "name": "GeminiRue.bin.x86", "type": "Game" }
 { "name": "GeminiRue.bin.x86_64", "type": "Game" }
 { "name": "winsetup", "type": "Game" }
+
+# Geometry Wars 3: Dimensions Evolved https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/
+{ "name": "GeometryWars3", "type": "Game" }
 
 # Getting Over It with Bennett Foddy https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/
 { "name": "GettingOverIt.x86_64", "type": "Game" }

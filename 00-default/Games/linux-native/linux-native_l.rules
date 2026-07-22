@@ -11,6 +11,13 @@
 # La-Mulana https://store.steampowered.com/app/230700/LaMulana/
 { "name": "LaMulana.bin.x86", "type": "Game" }
 
+# Langoth https://store.steampowered.com/app/581100/Langoth/
+{ "name": "UE4Game", "type": "Game" }
+
+# Lara Croft GO https://store.steampowered.com/app/540840/Lara_Croft_GO/
+{ "name": "Lara Croft GO.x86_64", "type": "Game" }
+{ "name": "Lara Croft GO.x86", "type": "Game" }
+
 # Last Call BBS https://store.steampowered.com/app/1511780/Last_Call_BBS/
 { "name": "LastCallBBS", "type": "Game" }
 
@@ -41,22 +48,6 @@
 # Legend of Keepers https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/
 { "name": "LegendOfKeepers.x86_64", "type": "Game" }
 
-# Langoth https://store.steampowered.com/app/581100/Langoth/
-{ "name": "UE4Game", "type": "Game" }
-
-# Lara Croft GO https://store.steampowered.com/app/540840/Lara_Croft_GO/
-{ "name": "Lara Croft GO.x86_64", "type": "Game" }
-{ "name": "Lara Croft GO.x86", "type": "Game" }
-
-# LEWDAPOCALYPSE https://store.steampowered.com/app/1271710/
-{ "name": "Lewdapocalypse.x86_64", "type": "Game" }
-
-# Lewd Cup https://store.steampowered.com/app/4265260/
-{ "name": "LewdCup", "type": "Game" }
-
-# Lucy Got Problems https://store.steampowered.com/app/879510/
-{ "name": "LGP", "type": "Game" }
-
 # Legends of Dragaea: Idle Dungeons https://store.steampowered.com/app/2712380/Legends_of_Dragaea_Idle_Dungeons/
 { "name": "Dragaea.x86_64", "type": "Game" }
 
@@ -74,6 +65,12 @@
 
 # Level Devil https://store.steampowered.com/app/3242750/Level_Devil/
 { "name": "LevelDevil.x86_64", "type": "Game" }
+
+# LEWDAPOCALYPSE https://store.steampowered.com/app/1271710/
+{ "name": "Lewdapocalypse.x86_64", "type": "Game" }
+
+# Lewd Cup https://store.steampowered.com/app/4265260/
+{ "name": "LewdCup", "type": "Game" }
 
 # Life Below https://store.steampowered.com/app/2932150/Life_Below/
 { "name": "LifeBelow", "type": "Game" }
@@ -173,6 +170,9 @@
 
 # Luck be a Landlord https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/
 { "name": "Luck be a Landlord.x86_64", "type": "Game" }
+
+# Lucy Got Problems https://store.steampowered.com/app/879510/
+{ "name": "LGP", "type": "Game" }
 
 # LUFTRAUSERS https://store.steampowered.com/app/233150/LUFTRAUSERS/
 { "name": "luftrausers", "type": "Game" }

@@ -11,25 +11,6 @@
 # Abalon https://store.steampowered.com/app/1681840/Abalon_Roguelike_Tactics_CCG/
 { "name": "Abalon.exe", "type": "Game" }
 
-# Aimtastic https://store.steampowered.com/app/757240/Aimtastic/
-{ "name": "Aimtastic.exe", "type": "Game" }
-
-# Alien: Rogue Incursion Evolved Edition https://store.steampowered.com/app/3655390/Alien_Rogue_Incursion_Evolved_Edition/
-{ "name": "Midnight-Win64-Shippingarm64ec.exe", "type": "Game" }
-
-# Alter World https://store.steampowered.com/app/357280/Alter_World/
-{ "name": "AlterWorld.exe", "type": "Game" }
-
-# APE OUT https://store.steampowered.com/app/447150/APE_OUT/
-{ "name": "ApeOut.exe", "type": "Game" }
-
-# Assassin’s Creed Chronicles: China https://store.steampowered.com/app/354380/Assassins_Creed_Chronicles_China/
-{ "name": "ACCGame-Win32-Shipping.exe", "type": "Game" }
-
-# AURA: Hentai Cards https://store.steampowered.com/app/2440200/
-{ "name": "game-launcher.exe", "type": "Game" }
-{ "name": "AURAHentaiCards.exe", "type": "Game" }
-
 # Abiotic Factor https://store.steampowered.com/app/427410/Abiotic_Factor/
 { "name": "AbioticFactor.exe", "type": "Game" }
 
@@ -408,6 +389,9 @@
 # Aimlabs https://store.steampowered.com/app/714010/Aimlabs/
 { "name": "AimLab_tb.exe", "type": "Game" }
 
+# Aimtastic https://store.steampowered.com/app/757240/Aimtastic/
+{ "name": "Aimtastic.exe", "type": "Game" }
+
 # AION Free-to-Play https://store.steampowered.com/app/261430/AION_MMO/
 { "name": "NCLauncher.exe", "type": "Game" }
 { "name": "NCLauncher32.exe", "type": "Game" }
@@ -538,6 +522,9 @@
 { "name": "ARageMP.exe", "type": "Game" }
 { "name": "ShippingPC-AFEARGame.exe", "type": "Game" }
 
+# Alien: Rogue Incursion Evolved Edition https://store.steampowered.com/app/3655390/Alien_Rogue_Incursion_Evolved_Edition/
+{ "name": "Midnight-Win64-Shippingarm64ec.exe", "type": "Game" }
+
 # Aliens: Colonial Marines Collection https://store.steampowered.com/app/49540/Aliens_Colonial_Marines_Collection/
 { "name": "ACM.exe", "type": "Game" }
 
@@ -624,6 +611,9 @@
 # Alpha Protocol https://store.steampowered.com/app/34010/Alpha_Protocol/
 { "name": "APLauncher.exe", "type": "BG_CPUIO" }
 { "name": "APGame.exe", "type": "Game" }
+
+# Alter World https://store.steampowered.com/app/357280/Alter_World/
+{ "name": "AlterWorld.exe", "type": "Game" }
 
 # ALTF4 https://store.steampowered.com/app/1137460/ALTF4/
 { "name": "ALTF4_F.exe", "type": "BG_CPUIO" }
@@ -965,6 +955,9 @@
 { "name": "APBLauncher.exe", "type": "BG_CPUIO" }
 { "name": "APB.exe", "type": "Game" }
 
+# APE OUT https://store.steampowered.com/app/447150/APE_OUT/
+{ "name": "ApeOut.exe", "type": "Game" }
+
 # Aperture Desk Job https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
 { "name": "deskjob.exe", "type": "Game" }
 
@@ -1302,6 +1295,9 @@
 { "name": "ACBSP.exe", "type": "Game" }
 { "name": "ACBMP.exe", "type": "Game" }
 
+# Assassin’s Creed Chronicles: China https://store.steampowered.com/app/354380/Assassins_Creed_Chronicles_China/
+{ "name": "ACCGame-Win32-Shipping.exe", "type": "Game" }
+
 # Assassin's Creed: Director's Cut Edition https://store.steampowered.com/app/15100/Assassins_Creed_Directors_Cut_Edition/
 { "name": "AssassinsCreed_Dx9.exe", "type": "Game" }
 { "name": "AssassinsCreed_Dx10.exe", "type": "Game" }
@@ -1590,6 +1586,10 @@
 
 # Audiosurf 2 https://store.steampowered.com/app/235800/Audiosurf_2/
 { "name": "Audiosurf2.exe", "type": "Game" }
+
+# AURA: Hentai Cards https://store.steampowered.com/app/2440200/
+{ "name": "game-launcher.exe", "type": "Game" }
+{ "name": "AURAHentaiCards.exe", "type": "Game" }
 
 # Aura Kingdom https://store.steampowered.com/app/268420/Aura_Kingdom/
 { "name": "_Launcher.exe", "type": "Game" }

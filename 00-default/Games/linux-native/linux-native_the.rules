@@ -47,6 +47,9 @@
 # The Colonists https://store.steampowered.com/app/677340/The_Colonists/
 { "name": "TheColonists.x86", "type": "Game" }
 
+# The Coma 2: Vicious Sisters https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/
+{ "name": "TheComa2ViciousSisters.x86_64", "type": "Game" }
+
 # The Coma: Recut https://store.steampowered.com/app/600090/The_Coma_Recut/
 { "name": "TheComaRecut.x86_64", "type": "Game" }
 
@@ -55,12 +58,6 @@
 
 # The Dark Eye: Chains of Satinav https://store.steampowered.com/app/203830/The_Dark_Eye_Chains_of_Satinav/
 { "name": "satinav", "type": "Game" }
-
-# The Coma 2: Vicious Sisters https://store.steampowered.com/app/1045720/The_Coma_2_Vicious_Sisters/
-{ "name": "TheComa2ViciousSisters.x86_64", "type": "Game" }
-
-# The Incident at Galley House https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/
-{ "name": "galleyhouse", "type": "Game" }
 
 # The Dark Queen of Mortholme https://store.steampowered.com/app/3587610/The_Dark_Queen_of_Mortholme/
 { "name": "The Dark Queen of Mortholme.x86_64", "type": "Game" }
@@ -119,6 +116,9 @@
 
 # The Impossible Game https://store.steampowered.com/app/251630/The_Impossible_Game/
 { "name": "ImpossibleGame", "type": "Game" }
+
+# The Incident at Galley House https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/
+{ "name": "galleyhouse", "type": "Game" }
 
 # The Jackbox Megapicker https://store.steampowered.com/app/2828500/The_Jackbox_Megapicker/
 { "name": "The Jackbox Megapicker", "type": "Game" }

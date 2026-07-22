@@ -139,45 +139,17 @@
 # Football Manager Touch 2017 https://store.steampowered.com/app/482750/
 { "name": "fm", "type": "Game" }
 
-# Hyposphere https://store.steampowered.com/app/461880/Hyposphere/
-# Langoth https://store.steampowered.com/app/581100/Langoth/
-{ "name": "UE4Game-Linux-Shipping", "type": "Game" }
-
-# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
-# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
-{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
-
 # FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
 # FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
 { "name": "FreshWomen", "type": "Game" }
-
-# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
-# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
-{ "name": "WreckRunners.exe", "type": "BG_CPUIO" }
-
-# The Seven Realms: High Lathión https://store.steampowered.com/app/2580130/
-# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
-{ "name": "TheSevenRealms", "type": "Game" }
 
 # Gamblers Table Demo https://store.steampowered.com/app/3747250/Gamblers_Table_Demo/
 # Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
 { "name": "gamblers-table.x86_64", "type": "Game" }
 
-# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
-# Pathogenic https://store.steampowered.com/app/3808690/Pathogenic/
-{ "name": "pathogenic.x86_64", "type": "Game" }
-
-# LookPilot Demo https://store.steampowered.com/app/3517680/
-# LookPilot https://store.steampowered.com/app/3326890/LookPilot/
-{ "name": "LookPilot", "type": "Game" }
-
-# Happy Endings https://store.steampowered.com/app/4689440/
-# Happy Endings Demo https://store.steampowered.com/app/4738790/
-{ "name": "happy-endings", "type": "Game" }
-
-# Lust Academy Season 3 https://store.steampowered.com/app/2655960/
-# Lust Academy https://store.steampowered.com/app/1846920/
-{ "name": "Lust-Academy", "type": "Game" }
+# Guacamelee! Gold Edition https://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/
+# How to lose one's virginity https://store.steampowered.com/app/2578880/
+{ "name": "game", "type": "Game" }
 
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
@@ -198,6 +170,10 @@
 # Arctic Eggs https://store.steampowered.com/app/2763670/Arctic_Eggs/
 # The Case of the Golden Idol https://store.steampowered.com/app/1677770/The_Case_of_the_Golden_Idol/
 { "name": "game.x86_64", "type": "Game" }
+
+# Happy Endings https://store.steampowered.com/app/4689440/
+# Happy Endings Demo https://store.steampowered.com/app/4738790/
+{ "name": "happy-endings", "type": "Game" }
 
 # Haste Demo https://store.steampowered.com/app/2940200/Haste_Demo/
 # Haste https://store.steampowered.com/app/1796470/Haste/
@@ -289,9 +265,17 @@
 # Watermelon https://store.steampowered.com/app/2373450/Watermelon/
 { "name": "linux.x86_64", "type": "Game" }
 
+# LookPilot Demo https://store.steampowered.com/app/3517680/
+# LookPilot https://store.steampowered.com/app/3326890/LookPilot/
+{ "name": "LookPilot", "type": "Game" }
+
 # Move or Die https://store.steampowered.com/app/323850/Move_or_Die/
 # LOOTPLOT https://store.steampowered.com/app/3057190/LOOTPLOT/
 { "name": "love", "type": "Game" }
+
+# Lust Academy Season 3 https://store.steampowered.com/app/2655960/
+# Lust Academy https://store.steampowered.com/app/1846920/
+{ "name": "Lust-Academy", "type": "Game" }
 
 # Metro 2033 Redux https://store.steampowered.com/app/286690/Metro_2033_Redux/
 # Metro: Last Light Redux https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/
@@ -340,6 +324,10 @@
 # Planetary Annihilation https://steamdb.info/app/233250/
 # Planetary Annihilation: TITANS https://store.steampowered.com/app/386070/Planetary_Annihilation_TITANS/
 { "name": "PA", "type": "Game" }
+
+# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
+# Pathogenic https://store.steampowered.com/app/3808690/Pathogenic/
+{ "name": "pathogenic.x86_64", "type": "Game" }
 
 # X-Plane 11 https://store.steampowered.com/app/269950/XPlane_11/
 # X-Plane 12 https://store.steampowered.com/app/2014780/XPlane_12/
@@ -414,10 +402,6 @@
 # Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
 { "name": "Shadow Tactics", "type": "Game" }
 
-# Guacamelee! Gold Edition https://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/
-# How to lose one's virginity https://store.steampowered.com/app/2578880/
-{ "name": "game", "type": "Game" }
-
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 # shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/
 { "name": "shapez 2.x86_64", "type": "Game" }
@@ -478,6 +462,10 @@
 # The First Million Demo https://store.steampowered.com/app/4553590/The_First_Million_Demo/
 { "name": "TheFirstMillion.x86_64", "type": "Game" }
 
+# The Seven Realms: High Lathión https://store.steampowered.com/app/2580130/
+# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
+{ "name": "TheSevenRealms", "type": "Game" }
+
 # Tiny Glade Demo https://store.steampowered.com/app/2932580/
 # Tiny Glade https://store.steampowered.com/app/2198150/Tiny_Glade/
 { "name": "tiny-glade", "type": "Game" }
@@ -491,6 +479,10 @@
 # Tower of Guns https://store.steampowered.com/app/266110/Tower_of_Guns/
 { "name": "UDKGame-Linux", "type": "Game" }
 
+# Hyposphere https://store.steampowered.com/app/461880/Hyposphere/
+# Langoth https://store.steampowered.com/app/581100/Langoth/
+{ "name": "UE4Game-Linux-Shipping", "type": "Game" }
+
 # Wargame: AirLand Battle https://store.steampowered.com/app/222750/Wargame_Airland_Battle/
 # Wargame: European Escalation https://store.steampowered.com/app/58610/Wargame_European_Escalation/
 { "name": "Wargame", "type": "Game" }
@@ -502,6 +494,14 @@
 # Wordle https://store.steampowered.com/app/1334000/Wordle/
 # Wordle 3 https://store.steampowered.com/app/1428820/Wordle_3/
 { "name": "wordle.x86", "type": "Game" }
+
+# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+{ "name": "WreckRunners.exe", "type": "BG_CPUIO" }
+
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
+{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
 
 # Wurm Online https://store.steampowered.com/app/1179680/Wurm_Online/
 # Wurm Unlimited https://store.steampowered.com/app/366220/Wurm_Unlimited/

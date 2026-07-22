@@ -57,9 +57,6 @@
 # Mark of the Ninja https://store.steampowered.com/app/214560/Mark_of_the_Ninja/
 { "name": "ninja-bin32", "type": "Game" }
 
-# Modern Tanks https://store.steampowered.com/app/782660/Modern_Tanks_War_Tank_Games/
-{ "name": "Modern Tanks.x86_64", "type": "Game" }
-
 # Mark of the Ninja: Remastered https://store.steampowered.com/app/860950/
 { "name": "Ninja", "type": "Game" }
 
@@ -194,6 +191,9 @@
 
 # Mobmod https://gamebanana.com/mods/464620/
 { "name": "Mobbos", "type": "Game" }
+
+# Modern Tanks https://store.steampowered.com/app/782660/Modern_Tanks_War_Tank_Games/
+{ "name": "Modern Tanks.x86_64", "type": "Game" }
 
 # Momentum Mod Playtest https://store.steampowered.com/app/1802710/Momentum_Mod/
 { "name": "momentum", "type": "Game" }

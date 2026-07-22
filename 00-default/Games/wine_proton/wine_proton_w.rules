@@ -5,6 +5,9 @@
 
 ### W ###
 
+# Wabisabi SushiDerby https://store.steampowered.com/app/4113050/Wabisabi_SushiDerby/
+{ "name": "Wabisabi.exe", "type": "Game" }
+
 # Wagotabi https://store.steampowered.com/app/2701720/Wagotabi_A_Japanese_Journey/
 { "name": "Wagotabi.exe", "type": "Game" }
 
@@ -481,8 +484,15 @@
 # Welcome to ParadiZe https://store.steampowered.com/app/1519090/Welcome_to_ParadiZe/
 { "name": "Zombie3.exe", "type": "Game" }
 
+# Welcome to the Game https://store.steampowered.com/app/485380/Welcome_to_the_Game/
+{ "name": "WTTG.exe", "type": "Game" }
+
 # Welcome to the Game II https://store.steampowered.com/app/720250/Welcome_to_the_Game_II/
 { "name": "WTTG2.exe", "type": "Game" }
+
+# Welcome to the Game III https://store.steampowered.com/app/3869850/Welcome_to_the_Game_III/
+{ "name": "WTTG3.exe", "type": "BG_CPUIO" }
+{ "name": "WTTGSD-Win64-Shipping.exe", "type": "Game" }
 
 # We Love Katamari REROLL+ Royal Reverie https://store.steampowered.com/app/1730700/We_Love_Katamari_REROLL_Royal_Reverie/
 { "name": "WLKRR.exe", "type": "Game" }
@@ -516,6 +526,9 @@
 # Westworld Awakening https://store.steampowered.com/app/1133320/Westworld_Awakening/
 { "name": "LabEscape.exe", "type": "BG_CPUIO" }
 { "name": "LabEscape-Win64-Shipping.exe", "type": "Game" }
+
+# Wet Girl https://store.steampowered.com/app/1008710/Wet_Girl/
+{ "name": "WetGirl.exe", "type": "Game" }
 
 # We. The Revolution https://store.steampowered.com/app/736850/We_The_Revolution/
 { "name": "We.TheRevolution_x86.exe", "type": "Game" }
@@ -598,6 +611,9 @@
 { "name": "Whiskerwood.exe", "type": "BG_CPUIO" }
 { "name": "Whiskerwood-Win64-Shipping.exe", "type": "Game" }
 
+# Whispering Ledger https://store.steampowered.com/app/4323500/
+{ "name": "WhisperingLedger.exe", "type": "Game" }
+
 # Whispering Willows https://store.steampowered.com/app/288060/Whispering_Willows/
 { "name": "WhisperingWillows.exe", "type": "Game" }
 
@@ -619,28 +635,6 @@
 
 # Who's Next? https://store.steampowered.com/app/2891940/Whos_Next/
 { "name": "WhosNext.exe", "type": "Game" }
-
-# Wabisabi SushiDerby https://store.steampowered.com/app/4113050/Wabisabi_SushiDerby/
-{ "name": "Wabisabi.exe", "type": "Game" }
-
-# Welcome to the Game https://store.steampowered.com/app/485380/Welcome_to_the_Game/
-{ "name": "WTTG.exe", "type": "Game" }
-
-# Welcome to the Game III https://store.steampowered.com/app/3869850/Welcome_to_the_Game_III/
-{ "name": "WTTG3.exe", "type": "BG_CPUIO" }
-{ "name": "WTTGSD-Win64-Shipping.exe", "type": "Game" }
-
-# Wet Girl https://store.steampowered.com/app/1008710/Wet_Girl/
-{ "name": "WetGirl.exe", "type": "Game" }
-
-# Whispering Ledger https://store.steampowered.com/app/4323500/
-{ "name": "WhisperingLedger.exe", "type": "Game" }
-
-# Witch Hunt https://store.steampowered.com/app/661790/Witch_Hunt/
-{ "name": "Witch_Hunt.exe", "type": "Game" }
-
-# With Eyes Closed - Season 1 https://store.steampowered.com/app/2492780/
-{ "name": "WithEyesClosed.exe", "type": "Game" }
 
 # WHO'S WHO 2.0 https://store.steampowered.com/app/3391260/WHOS_WHO_20/
 { "name": "WHO'S WHO 2.0.exe", "type": "Game" }
@@ -792,6 +786,9 @@
 # WitchHand https://store.steampowered.com/app/2420880/WitchHand/
 { "name": "WitchHand.exe", "type": "Game" }
 
+# Witch Hunt https://store.steampowered.com/app/661790/Witch_Hunt/
+{ "name": "Witch_Hunt.exe", "type": "Game" }
+
 # Witch It https://store.steampowered.com/app/559650/Witch_It/
 { "name": "PropWitchHuntModule-Win64-Shipping.exe", "type": "Game" }
 { "name": "WitchIt.exe", "type": "BG_CPUIO" }
@@ -814,6 +811,9 @@
 
 # Withering Rooms https://store.steampowered.com/app/2006140/Withering_Rooms/
 { "name": "Withering Rooms.exe", "type": "Game" }
+
+# With Eyes Closed - Season 1 https://store.steampowered.com/app/2492780/
+{ "name": "WithEyesClosed.exe", "type": "Game" }
 
 # With Me: Aquatic Time https://store.steampowered.com/app/3395760/With_Me_Aquatic_Time/
 { "name": "AquaticTime.exe", "type": "Game" }

@@ -44,9 +44,6 @@
 # Yakuza: Like a Dragon https://store.steampowered.com/app/1235140/Yakuza_Like_a_Dragon/
 { "name": "YakuzaLikeADragon.exe", "type": "Game" }
 
-# Yet Another Incremental Game https://store.steampowered.com/app/3729810/Yet_Another_Incremental_Game_but_this_time_about_coding/
-{ "name": "yaig.exe", "type": "Game" }
-
 # Yakuza Rogue: Yokohama massage parlor chapter https://store.steampowered.com/app/2857880/
 { "name": "MassageShop.exe", "type": "Game" }
 
@@ -92,6 +89,9 @@
 
 # Yes, Your Grace 2: Snowfall https://store.steampowered.com/app/1373090/Yes_Your_Grace_2_Snowfall/
 { "name": "Yes Your Grace Snowfall.exe", "type": "Game" }
+
+# Yet Another Incremental Game https://store.steampowered.com/app/3729810/Yet_Another_Incremental_Game_but_this_time_about_coding/
+{ "name": "yaig.exe", "type": "Game" }
 
 # Yet Another Zombie Defense https://store.steampowered.com/app/270550/Yet_Another_Zombie_Defense/
 { "name": "YetAnotherZombieDefense.exe", "type": "Game" }

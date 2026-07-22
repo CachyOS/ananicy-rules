@@ -86,15 +86,6 @@
 { "name": "Bloodlines2-Win64-Shipping.exe", "type": "Game" }
 { "name": "Bloodlines2.exe", "type": "BG_CPUIO" }
 
-# Vaygren - Lustful Temptation https://store.steampowered.com/app/1771700/
-{ "name": "VaygrenLT.exe", "type": "Game" }
-
-# Veritas Tales: Witch of the Dark Castle https://store.steampowered.com/app/4508570/Veritas_Tales_Witch_of_the_Dark_Castle/
-{ "name": "DarkCastle.exe", "type": "Game" }
-
-# Vertigo 2 https://store.steampowered.com/app/843390/Vertigo_2/
-{ "name": "vertigo2.exe", "type": "Game" }
-
 # Vampire: The Masquerade Bloodlines : Unofficial Patch https://www.moddb.com/mods/vtmb-unofficial-patch
 { "name": "Vampire.exe", "type": "Game" }
 
@@ -133,6 +124,9 @@
 
 # Vault of the Void https://store.steampowered.com/app/1135810/Vault_of_the_Void/
 { "name": "VaultoftheVoid.exe", "type": "Game" }
+
+# Vaygren - Lustful Temptation https://store.steampowered.com/app/1771700/
+{ "name": "VaygrenLT.exe", "type": "Game" }
 
 # VBridger https://store.steampowered.com/app/1898830/VBridger/
 { "name": "VBridger.exe", "type": "Game" }
@@ -190,6 +184,12 @@
 
 # Verho - Curse of Faces https://store.steampowered.com/app/3017330/Verho__Curse_of_Faces/
 { "name": "Verho.exe", "type": "Game" }
+
+# Veritas Tales: Witch of the Dark Castle https://store.steampowered.com/app/4508570/Veritas_Tales_Witch_of_the_Dark_Castle/
+{ "name": "DarkCastle.exe", "type": "Game" }
+
+# Vertigo 2 https://store.steampowered.com/app/843390/Vertigo_2/
+{ "name": "vertigo2.exe", "type": "Game" }
 
 # VGDD2 https://store.steampowered.com/app/2457540/Cardfight_Vanguard_Dear_Days_2/
 { "name": "VGDD2.exe", "type": "Game" }

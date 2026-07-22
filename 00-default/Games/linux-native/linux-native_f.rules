@@ -31,9 +31,6 @@
 { "name": "Farabel.x86_64", "type": "Game" }
 { "name": "Farabel.x86", "type": "Game" }
 
-# Fetish Locator Week One https://store.steampowered.com/app/1360980/
-{ "name": "FetishLocator", "type": "Game" }
-
 # Farm Empire https://store.steampowered.com/app/2320130/Farm_Empire/
 { "name": "FarmEmpire.x86_64", "type": "Game" }
 
@@ -61,6 +58,9 @@
 
 # Fetish Locator: S&M Studio https://store.steampowered.com/app/3763690/
 { "name": "SM", "type": "Game" }
+
+# Fetish Locator Week One https://store.steampowered.com/app/1360980/
+{ "name": "FetishLocator", "type": "Game" }
 
 # Fetish Locator Week Three https://store.steampowered.com/app/2231010/
 { "name": "FetishLocatorWeek3", "type": "Game" }

@@ -43,6 +43,10 @@
 { "name": "GoF2Launcher.exe", "type": "Game" }
 { "name": "GOF2.exe", "type": "Game" }
 
+# Gal*Gun 2 https://store.steampowered.com/app/851890/GalGun_2/
+{ "name": "GalGun2.exe", "type": "BG_CPUIO" }
+{ "name": "GalGun2-Win64-Shipping.exe", "type": "Game" }
+
 # Gamble With Your Friends https://store.steampowered.com/app/3892270/Gamble_With_Your_Friends/
 { "name": "Gamble With Your Friends.exe", "type": "Game" }
 
@@ -70,29 +74,6 @@
 # Gaming Cafe Simulator https://store.steampowered.com/app/2978540/Gaming_Cafe_Simulator/
 { "name": "GamingCafeSimulator.exe", "type": "BG_CPUIO" }
 { "name": "GamingCafeSimulator-Win64-Shipping.exe", "type": "Game" }
-
-# Gal*Gun 2 https://store.steampowered.com/app/851890/GalGun_2/
-{ "name": "GalGun2.exe", "type": "BG_CPUIO" }
-{ "name": "GalGun2-Win64-Shipping.exe", "type": "Game" }
-
-# Geometry Wars 3: Dimensions Evolved https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/
-{ "name": "GW3.exe", "type": "Game" }
-
-# Goblin Attack https://store.steampowered.com/app/4502210/Goblin_Attack/
-{ "name": "Goblin Attack-Idle Game.exe", "type": "Game" }
-
-# Gone In November https://store.steampowered.com/app/507390/Gone_In_November/
-{ "name": "November.exe", "type": "Game" }
-
-# GORN https://store.steampowered.com/app/578620/GORN/
-{ "name": "GORN.exe", "type": "Game" }
-
-# Greed of Man https://store.steampowered.com/app/2336720/Greed_of_Man/
-{ "name": "RPGame.exe", "type": "BG_CPUIO" }
-{ "name": "RPGame-Win64-Shipping.exe", "type": "Game" }
-
-# GTTOD https://store.steampowered.com/app/541200/GTTOD/
-{ "name": "Get To The Orange Door.exe", "type": "Game" }
 
 # Gang Beasts https://store.steampowered.com/app/285900/Gang_Beasts/
 { "name": "Gang Beasts.exe", "type": "Game" }
@@ -275,6 +256,9 @@
 # Geometry Dash https://store.steampowered.com/app/322170/Geometry_Dash/
 { "name": "GeometryDash.exe", "type": "Game" }
 
+# Geometry Wars 3: Dimensions Evolved https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/
+{ "name": "GW3.exe", "type": "Game" }
+
 # Geometry Wars: Retro Evolved https://store.steampowered.com/app/8400/Geometry_Wars_Retro_Evolved/
 { "name": "GeometryWars.exe", "type": "Game" }
 
@@ -439,6 +423,9 @@
 { "name": "Goatsim_UE4.exe", "type": "BG_CPUIO" }
 { "name": "Goatsim_UE4-Win64-Shipping.exe", "type": "Game" }
 
+# Goblin Attack https://store.steampowered.com/app/4502210/Goblin_Attack/
+{ "name": "Goblin Attack-Idle Game.exe", "type": "Game" }
+
 # Goblin Camp https://store.steampowered.com/app/2431980/Goblin_Camp/
 { "name": "GoblinCamp.exe", "type": "Game" }
 
@@ -470,6 +457,10 @@
 # GODBREAKERS https://store.steampowered.com/app/2687400/GODBREAKERS/
 { "name": "Godbreakers.exe", "type": "BG_CPUIO" }
 { "name": "Godbreakers_Steam-Win64-Shipping.exe", "type": "Game" }
+
+# GODDESS OF VICTORY: NIKKE https://nikke-en.com/
+{ "name": "nikke_launcher.exe", "type": "Launcher" }
+{ "name": "nikke.exe", "type": "Game" }
 
 # GOD EATER 2 Rage Burst https://store.steampowered.com/app/438490/GOD_EATER_2_Rage_Burst/
 { "name": "GE2RB.exe", "type": "Game" }
@@ -515,10 +506,6 @@
 # God Save Birmingham Playtest https://store.steampowered.com/app/3891040/
 { "name": "MZGame.exe", "type": "BG_CPUIO" }
 { "name": "MZGame-Win64-Shipping.exe", "type": "Game" }
-
-# GODDESS OF VICTORY: NIKKE https://nikke-en.com/
-{ "name": "nikke_launcher.exe", "type": "Launcher" }
-{ "name": "nikke.exe", "type": "Game" }
 
 # Godsbane Idle https://store.steampowered.com/app/1565140/Godsbane_Idle/
 { "name": "Godsbane.exe", "type": "Game" }
@@ -589,6 +576,9 @@
 { "name": "GoneHome.exe", "type": "Game" }
 { "name": "GoneHome32.exe", "type": "Game" }
 
+# Gone In November https://store.steampowered.com/app/507390/Gone_In_November/
+{ "name": "November.exe", "type": "Game" }
+
 # Goobies https://store.steampowered.com/app/2294130/Goobies/
 { "name": "Goobies_Vulkan.exe", "type": "BG_CPUIO" }
 { "name": "Goobies_DX11.exe", "type": "BG_CPUIO" }
@@ -642,6 +632,9 @@
 # Gorky 17 https://store.steampowered.com/app/253920/Gorky_17/
 { "name": "Gorky17.exe", "type": "Game" }
 { "name": "puzzle.exe", "type": "Game" }
+
+# GORN https://store.steampowered.com/app/578620/GORN/
+{ "name": "GORN.exe", "type": "Game" }
 
 # GORN 2 https://store.steampowered.com/app/3391450/GORN_2/
 { "name": "GORN2.exe", "type": "Game" }
@@ -829,6 +822,10 @@
 { "name": "NewGreedland.exe", "type": "BG_CPUIO" }
 { "name": "NewGreedland-Win64-Shipping.exe", "type": "Game" }
 
+# Greed of Man https://store.steampowered.com/app/2336720/Greed_of_Man/
+{ "name": "RPGame.exe", "type": "BG_CPUIO" }
+{ "name": "RPGame-Win64-Shipping.exe", "type": "Game" }
+
 # Green Project https://store.steampowered.com/app/1274490/Green_Project/
 { "name": "Green Project.exe", "type": "Game" }
 
@@ -960,6 +957,9 @@
 
 # GTFO https://store.steampowered.com/app/493520/GTFO/
 { "name": "GTFO.exe", "type": "Game" }
+
+# GTTOD https://store.steampowered.com/app/541200/GTTOD/
+{ "name": "Get To The Orange Door.exe", "type": "Game" }
 
 # Guacamelee! 2 https://store.steampowered.com/app/534550/Guacamelee_2/
 { "name": "Guac2_x64.exe", "type": "Game" }
