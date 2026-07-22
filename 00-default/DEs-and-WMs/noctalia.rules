@@ -1,2 +1,3 @@
 # Noctalia https://github.com/noctalia-dev/noctalia
-{ "name": "noctalia", "type": "Service" }
+{ "name": "noctalia", "type": "LowLatency_RT" }
+{ "name": "noctalia-qs", "type": "LowLatency_RT" }
