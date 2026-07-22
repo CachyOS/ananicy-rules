@@ -111,6 +111,10 @@
 # Arma Reforger https://store.steampowered.com/app/1874880/Arma_Reforger/
 { "name": "ArmaReforgerSteam.exe", "type": "Game" }
 
+# Artesnaut Demo https://store.steampowered.com/app/4710300/Artesnaut_Demo/
+# Arutesunōto アルテスノート https://store.steampowered.com/app/4485620/Artesnaut/
+{ "name": "artesnaut.exe", "type": "Game" }
+
 # JoJo's Bizarre Adventure: All-Star Battle R https://store.steampowered.com/app/1372110/JoJos_Bizarre_Adventure_AllStar_Battle_R/
 # JoJo's Bizarre Adventure: All-Star Battle R Demo version https://store.steampowered.com/app/2011600/
 { "name": "ASB.exe", "type": "Game" }
@@ -118,6 +122,14 @@
 # JoJo's Bizarre Adventure: All-Star Battle R https://store.steampowered.com/app/1372110/JoJos_Bizarre_Adventure_AllStar_Battle_R/
 # JoJo's Bizarre Adventure: All-Star Battle R Demo version https://store.steampowered.com/app/2011600/
 { "name": "ASBR.exe", "type": "Game" }
+
+# Ascend to ZERO Demo https://store.steampowered.com/app/3279910/Ascend_to_ZERO_Demo/
+# Ascend to ZERO https://store.steampowered.com/app/2697940/Ascend_to_ZERO/
+{ "name": "AscendtoZERO.exe", "type": "BG_CPUIO" }
+
+# Ascend to ZERO Demo https://store.steampowered.com/app/3279910/Ascend_to_ZERO_Demo/
+# Ascend to ZERO https://store.steampowered.com/app/2697940/Ascend_to_ZERO/
+{ "name": "AscendtoZERO-Win64-Shipping.exe", "type": "Game" }
 
 # Jusant https://store.steampowered.com/app/1977170/Jusant/
 # Formula Legends https://store.steampowered.com/app/3194360/Formula_Legends/
@@ -143,6 +155,10 @@
 # Fàngzhì dìláo 放置地牢 https://store.steampowered.com/app/2434370/Auto_DungeonIdle_Adventure/
 { "name": "AutoDungeon.exe", "type": "Game" }
 
+# Dié: Jīngzhé 谍：惊蛰 https://store.steampowered.com/app/2374000/Insects_Awaken/
+# AWAKEN - Astral Blade https://store.steampowered.com/app/1716310/AWAKEN__Astral_Blade/
+{ "name": "Awaken.exe", "type": "Game" }
+
 # Life Makeover https://store.steampowered.com/app/2626940/Life_Makeover/
 # Life Makeover https://store.steampowered.com/app/2440960/
 { "name": "Azure.exe", "type": "BG_CPUIO" }
@@ -154,6 +170,10 @@
 # Backpack Battles Demo https://store.steampowered.com/app/2444170/Backpack_Battles/
 # Backpack Battles https://store.steampowered.com/app/2427700/Backpack_Battles/
 { "name": "BackpackBattles.exe", "type": "Game" }
+
+# Bèibāo dìláo 背包地牢 https://store.steampowered.com/app/4478640/Backpack_Dungeon/
+# Bèibāo dìláo Demo 背包地牢 Demo https://store.steampowered.com/app/4524110/Backpack_Dungeon_Demo/
+{ "name": "Backpack-Dungeon.exe", "type": "Game" }
 
 # Backpack Hero Demo https://store.steampowered.com/app/2066510/
 # Backpack Hero https://store.steampowered.com/app/1970580/Backpack_Hero/
@@ -192,6 +212,10 @@
 # Batman: Arkham City - Game of the Year Edition https://store.steampowered.com/app/200260/Batman_Arkham_City__Game_of_the_Year_Edition/
 # Batman: Arkham City https://steamdb.info/app/57400/
 { "name": "BatmanAC.exe", "type": "Game" }
+
+# Beam Eye Tracker Demo https://store.steampowered.com/app/2582050/
+# Beam Eye Tracker https://store.steampowered.com/app/2375780/Beam_Eye_Tracker/
+{ "name": "BeamEyeTracker.exe", "type": "Game" }
 
 # Metro Exodus Enhanced Edition https://store.steampowered.com/app/1449560/Metro_Exodus/
 # Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
@@ -287,6 +311,10 @@
 # Car Dealer Simulator: Prologue - Early Days https://store.steampowered.com/app/3115010/Car_Dealer_Simulator_Prologue__Early_Days/
 { "name": "CarDealerSim-Win64-Shipping.exe", "type": "Game" }
 
+# Carpet Cleaning Simulator Demo https://store.steampowered.com/app/4798550/
+# Jūtan o arau gēmu 絨毯を洗うゲーム https://store.steampowered.com/app/4634560/Carpet_Cleaning_Simulator/
+{ "name": "Carpet.exe", "type": "Game" }
+
 # Cataclismo https://store.steampowered.com/app/1422440/Cataclismo/
 # A Castle Full of Cats https://store.steampowered.com/app/2070550/A_Castle_Full_of_Cats/
 { "name": "Castle.exe", "type": "Game" }
@@ -302,6 +330,18 @@
 # Poker Night at the Inventory https://store.steampowered.com/app/3897800/Poker_Night_at_the_Inventory/
 # Poker Night at the Inventory (2010 Original Version) https://store.steampowered.com/app/31280/Poker_Night_at_the_Inventory/
 { "name": "CelebrityPoker.exe", "type": "Game" }
+
+# Chained Beasts Demo https://store.steampowered.com/app/3978510/Chained_Beasts_Demo/
+# Chained Beasts Playtest https://store.steampowered.com/app/3823120/
+{ "name": "ChainedBeasts.exe", "type": "Game" }
+
+# A Game About Chopping Trees https://store.steampowered.com/app/4512570/A_Game_About_Chopping_Trees/
+# A Game About Chopping Trees Demo https://store.steampowered.com/app/4738320/A_Game_About_Chopping_Trees_Demo/
+{ "name": "ChoppingTrees.exe", "type": "BG_CPUIO" }
+
+# A Game About Chopping Trees Demo https://store.steampowered.com/app/4738320/A_Game_About_Chopping_Trees_Demo/
+# A Game About Chopping Trees https://store.steampowered.com/app/4512570/A_Game_About_Chopping_Trees/
+{ "name": "ChoppingTrees-Win64-Shipping.exe", "type": "Game" }
 
 # Naval Action https://store.steampowered.com/app/311310/Naval_Action/
 # Mabinogi https://store.steampowered.com/app/212200/Mabinogi/
@@ -428,6 +468,10 @@
 # Dead Space (2008) https://store.steampowered.com/app/17470/Dead_Space_2008/
 { "name": "Dead Space.exe", "type": "Game" }
 
+# Dead Weight https://store.steampowered.com/app/2646720/Dead_Weight/
+# Dead Weight Demo https://store.steampowered.com/app/2796120/Dead_Weight_Demo/
+{ "name": "Dead_weight.exe", "type": "Game" }
+
 # Decktamer Demo https://store.steampowered.com/app/2870360/Decktamer_Demo/
 # Decktamer https://store.steampowered.com/app/2870340/Decktamer/
 { "name": "Decktamer.exe", "type": "Game" }
@@ -499,6 +543,10 @@
 # DiRT 3 https://steamdb.info/app/44320/
 # DiRT 3 Complete Edition https://store.steampowered.com/app/321040/
 { "name": "dirt3_game.exe", "type": "Game" }
+
+# Disc Golf Masters https://store.steampowered.com/app/2819400/Disc_Golf_Masters/
+# Disc Golf Masters Demo https://store.steampowered.com/app/4196270/Disc_Golf_Masters_Demo/
+{ "name": "Disc Golf Masters.exe", "type": "Game" }
 
 # Disciples II: Gallean's Return https://store.steampowered.com/app/1640/Disciples_II_Galleans_Return/
 # Disciples II: Rise of the Elves https://store.steampowered.com/app/1630/Disciples_II_Rise_of_the_Elves/
@@ -760,6 +808,10 @@
 # Fallout: New Vegas https://store.steampowered.com/app/22380/Fallout_New_Vegas/
 { "name": "FalloutNV.exe", "type": "Game" }
 
+# Farm Frenzy 2 https://store.steampowered.com/app/38130/Farm_Frenzy_2/
+# Farm Frenzy Collection https://store.steampowered.com/app/391000/Farm_Frenzy_Collection/
+{ "name": "farm2.exe", "type": "Game" }
+
 # FATAL FRAME II: Crimson Butterfly REMAKE DEMO https://store.steampowered.com/app/4226020/
 # FATAL FRAME II: Crimson Butterfly REMAKE https://store.steampowered.com/app/3920610/FATAL_FRAME_II_Crimson_Butterfly_REMAKE/
 { "name": "FatalFrameII.exe", "type": "Game" }
@@ -975,6 +1027,9 @@
 # Tǎ fáng shān zéi mónǐ qì Demo 塔防山贼模拟器 Demo https://store.steampowered.com/app/4325840/
 # Bang Average Football https://store.steampowered.com/app/2393770/Bang_Average_Football__Play_Manage_Create/
 # Beach Defense: Zombie Invasion https://store.steampowered.com/app/4754260/Beach_Defense_Zombie_Invasion/
+# Bullet Girls Phantasia https://store.steampowered.com/app/1163590/Bullet_Girls_Phantasia/
+# How to lose one's virginity https://store.steampowered.com/app/2578880/
+# Space Hulk Ascension (Classic) https://store.steampowered.com/app/317620/Space_Hulk_Ascension_Classic/
 { "name": "game.exe", "type": "Game" }
 
 # STEINS;GATE 0 https://store.steampowered.com/app/825630/STEINSGATE_0/
@@ -1121,6 +1176,16 @@
 # Legend of Mysteria https://store.steampowered.com/app/407230/Legend_of_Mysteria_RPG/
 # The Adventures of HILLS https://store.steampowered.com/app/2859100/
 # Symphony of the Serpent Demo https://store.steampowered.com/app/4657880/
+# Daily life with my succubus boss https://store.steampowered.com/app/2059310/
+# Liè wū nísī de wǎngē 列乌尼斯的挽歌 https://store.steampowered.com/app/3371260/Requiem_of_Reuinis/
+# Scars of Summer https://store.steampowered.com/app/1405470/Scars_of_Summer/
+# Naked Interrogation Simulator https://store.steampowered.com/app/3436350/
+# Lovey-Dovey Lockdown https://store.steampowered.com/app/2329630/
+# Lewd gym https://store.steampowered.com/app/2019680/
+# Jerez's Arena II https://store.steampowered.com/app/1837230/
+# Latex Dungeon https://store.steampowered.com/app/1622780/
+# Detective Girl of the Steam City https://store.steampowered.com/app/1012030/Detective_Girl_of_the_Steam_City/
+# Deathblight Jormungandr https://store.steampowered.com/app/3468280/
 # Terra Firma 2 https://store.steampowered.com/app/3422270/Terra_Firma_2/
 # The Aquarium does not dance https://store.steampowered.com/app/2814910/The_Aquarium_does_not_dance/
 # Treasure Hunter Claire https://store.steampowered.com/app/828070/Treasure_Hunter_Claire/
@@ -1182,6 +1247,10 @@
 # GIRLS' FRONTLINE 2: EXILIUM https://store.steampowered.com/app/3347400/GIRLS_FRONTLINE_2_EXILIUM/
 { "name": "GF2_Exilium.exe", "type": "Game" }
 
+# Go-Go Town! https://store.steampowered.com/app/2195120/GoGo_Town/
+# Go-Go Town! Demo https://store.steampowered.com/app/2445480/
+{ "name": "GGT.exe", "type": "Game" }
+
 # Green Hell https://store.steampowered.com/app/815370/Green_Hell/
 # Gloomhaven https://store.steampowered.com/app/780290/Gloomhaven/
 { "name": "GH.exe", "type": "Game" }
@@ -1241,6 +1310,14 @@
 # Granny https://store.steampowered.com/app/962400/Granny/
 { "name": "Granny.exe", "type": "Game" }
 
+# Gas Station Simulator: Prologue - Early Days https://store.steampowered.com/app/1528080/Gas_Station_Simulator_Prologue__Early_Days/
+# Gas Station Simulator https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
+{ "name": "GSS2.exe", "type": "BG_CPUIO" }
+
+# Gas Station Simulator https://store.steampowered.com/app/1149620/Gas_Station_Simulator/
+# Gas Station Simulator: Prologue - Early Days https://store.steampowered.com/app/1528080/Gas_Station_Simulator_Prologue__Early_Days/
+{ "name": "GSS2-Win64-Shipping.exe", "type": "Game" }
+
 # GUILTY GEAR Xrd -SIGN- https://store.steampowered.com/app/376300/GUILTY_GEAR_Xrd_SIGN/
 # GUILTY GEAR Xrd REV 2 https://store.steampowered.com/app/520440/GUILTY_GEAR_Xrd_REV_2/
 { "name": "GuiltyGearXrd.exe", "type": "Game" }
@@ -1283,6 +1360,10 @@
 # Hamster https://store.steampowered.com/app/3046430/Hamster/
 # Hamster Pet: Desktop Companion https://store.steampowered.com/app/4565910/Hamster_Pet_Desktop_Companion/
 { "name": "Hamster.exe", "type": "Game" }
+
+# Happy Endings Demo https://store.steampowered.com/app/4738790/
+# Happy Endings https://store.steampowered.com/app/4689440/
+{ "name": "Happy Endings.exe", "type": "Game" }
 
 # Haste https://store.steampowered.com/app/1796470/Haste/
 # Haste Demo https://store.steampowered.com/app/2940200/Haste_Demo/
@@ -1382,6 +1463,14 @@
 # House Flipper Remastered Collection https://store.steampowered.com/app/3710840/House_Flipper_Remastered_Collection/
 # House Flipper https://store.steampowered.com/app/613100/House_Flipper/
 { "name": "HouseFlipper.exe", "type": "Game" }
+
+# Hunt: Showdown 1896 (Test Server) https://store.steampowered.com/app/770720/Hunt_Showdown_1896_Test_Server/
+# Hunt: Showdown 1896 https://store.steampowered.com/app/594650/Hunt_Showdown_1896/
+{ "name": "hunt.exe", "type": "Game" }
+
+# Hunt: Showdown 1896 https://store.steampowered.com/app/594650/Hunt_Showdown_1896/
+# Hunt: Showdown 1896 (Test Server) https://store.steampowered.com/app/770720/Hunt_Showdown_1896_Test_Server/
+{ "name": "HuntGame.exe", "type": "Game" }
 
 # Hammerwatch II https://store.steampowered.com/app/1538970/Hammerwatch_II/
 # Five Nights at Freddy's: Help Wanted 2 https://store.steampowered.com/app/2287520/Five_Nights_at_Freddys_Help_Wanted_2/
@@ -1502,6 +1591,10 @@
 # Kingdom: Classic https://store.steampowered.com/app/368230/Kingdom_Classic/
 # Kingdom: New Lands https://store.steampowered.com/app/496300/Kingdom_New_Lands/
 { "name": "Kingdom.exe", "type": "Game" }
+
+# K-pop Idol Stories: Road to Debut https://store.steampowered.com/app/1662160/Kpop_Idol_Stories_Road_to_Debut/
+# K-pop Idol Stories - Road to Debut Demo https://store.steampowered.com/app/2473160/Kpop_Idol_Stories__Road_to_Debut_Demo/
+{ "name": "KISS.exe", "type": "Game" }
 
 # LAST CLOUDIA https://store.steampowered.com/app/1687670/
 # LastCloudiaTc https://steamdb.info/app/1499560/
@@ -1638,9 +1731,17 @@
 # Long Drive North https://store.steampowered.com/app/3179350/Long_Drive_North_CoOp_RV_Simulator/
 { "name": "Long Drive North.exe", "type": "Game" }
 
+# LookPilot Demo https://store.steampowered.com/app/3517680/
+# LookPilot https://store.steampowered.com/app/3326890/LookPilot/
+{ "name": "LookPilot.exe", "type": "Game" }
+
 # LumenTale: Memories of Trey https://store.steampowered.com/app/2261430/LumenTale_Memories_of_Trey/
 # LumenTale: Memories of Trey - Demo https://store.steampowered.com/app/2275930/LumenTale_Memories_of_Trey/
 { "name": "LumenTale Memories of Trey.exe", "type": "Game" }
+
+# Lust Academy Season 3 https://store.steampowered.com/app/2655960/
+# Lust Academy https://store.steampowered.com/app/1846920/
+{ "name": "Lust-Academy.exe", "type": "Game" }
 
 # Majesty 2 https://store.steampowered.com/app/25980/Majesty_2/
 # Majesty 2 Collection https://store.steampowered.com/app/73020/Majesty_2_Collection/
@@ -1717,6 +1818,14 @@
 # Metro Exodus Enhanced Edition https://store.steampowered.com/app/1449560/Metro_Exodus/
 # Metro Exodus https://store.steampowered.com/app/412020/Metro_Exodus/
 { "name": "MetroExodus.exe", "type": "Game" }
+
+# Alien: Rogue Incursion Evolved Edition https://store.steampowered.com/app/3655390/Alien_Rogue_Incursion_Evolved_Edition/
+# Alien: Rogue Incursion VR https://store.steampowered.com/app/1850050/Alien_Rogue_Incursion_VR/
+{ "name": "Midnight.exe", "type": "BG_CPUIO" }
+
+# Alien: Rogue Incursion VR https://store.steampowered.com/app/1850050/Alien_Rogue_Incursion_VR/
+# Alien: Rogue Incursion Evolved Edition https://store.steampowered.com/app/3655390/Alien_Rogue_Incursion_Evolved_Edition/
+{ "name": "Midnight-Win64-Shipping.exe", "type": "Game" }
 
 # Five Hearts Under One Roof Demo https://store.steampowered.com/app/3166530/Five_Hearts_Under_One_Roof_Demo/
 # Five Hearts Under One Roof https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/
@@ -1971,6 +2080,10 @@
 # Liúwáng àn dào 2 流亡黯道2 https://store.steampowered.com/app/3260140/Path_of_Exile_2/
 { "name": "PathOfExile_x64Steam.exe", "type": "Game" }
 
+# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
+# Pathogenic https://store.steampowered.com/app/3808690/Pathogenic/
+{ "name": "pathogenic.exe", "type": "Game" }
+
 # Pat the Cat https://store.steampowered.com/app/3924280/Pat_the_Cat/
 # Pat the Cat Demo https://store.steampowered.com/app/4154660/
 { "name": "Pat The Cat.exe", "type": "Game" }
@@ -2223,6 +2336,10 @@
 # Ragnarok X: Next Generation (otherversion) https://store.steampowered.com/app/4007140/
 { "name": "rox.exe", "type": "Game" }
 
+# Grimm's Hollow https://store.steampowered.com/app/1170880/Grimms_Hollow/
+# Yume Nikki https://store.steampowered.com/app/650700/Yume_Nikki/
+{ "name": "RPG_RT.exe", "type": "Game" }
+
 # Road to Vostok https://store.steampowered.com/app/1963610/Road_to_Vostok/
 # Road to Vostok Demo https://store.steampowered.com/app/2141300/Road_to_Vostok/
 { "name": "RTV.exe", "type": "Game" }
@@ -2394,6 +2511,10 @@
 # Sineus Arena Survivors https://store.steampowered.com/app/4227400/Sineus_Arena_Survivors/
 { "name": "SineusArena.exe", "type": "Game" }
 
+# Skill Legends Royale Demo https://store.steampowered.com/app/3164420/
+# Skill Legends Royale https://store.steampowered.com/app/3114410/Skill_Legends_Royale/
+{ "name": "SkillLegendsRoyale.exe", "type": "Game" }
+
 # The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
 # Enderal: Forgotten Stories (Special Edition) https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/
@@ -2402,7 +2523,8 @@
 # The Elder Scrolls V: Skyrim Special Edition https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/
 # The Elder Scrolls V: Skyrim https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim/
 # Enderal: Forgotten Stories https://store.steampowered.com/app/933480/Enderal_Forgotten_Stories/
-{ "name": "skse_loader.exe", "type": "BG_CPUIO" }
+# Skyrim Script Extender (SKSE) https://store.steampowered.com/app/365720/Skyrim_Script_Extender_SKSE/
+{ "name": "skse_loader.exe", "type": "Game" }
 
 # Shin Megami Tensei V: Vengeance Demo https://store.steampowered.com/app/3185590/
 # Shin Megami Tensei V: Vengeance https://store.steampowered.com/app/1875830/Shin_Megami_Tensei_V_Vengeance/
@@ -2461,6 +2583,10 @@
 # Species: Unknown https://store.steampowered.com/app/2747330/Species_Unknown/
 # Species: Unknown Demo https://store.steampowered.com/app/3851240/
 { "name": "SpeciesUnknown-Win64-Shipping.exe", "type": "Game" }
+
+# SpiritVale Playtest https://store.steampowered.com/app/3918510/SpiritVale/
+# SpiritVale https://store.steampowered.com/app/3767850/SpiritVale/
+{ "name": "SpiritVale.exe", "type": "Game" }
 
 # SPORE https://store.steampowered.com/app/17390/SPORE/
 # SPORE Creepy & Cute Parts Pack https://store.steampowered.com/app/17440/SPORE_Creepy__Cute_Parts_Pack/
@@ -2668,9 +2794,25 @@
 # The Message from Deep Space Demo https://store.steampowered.com/app/4624860/
 { "name": "The Message From Deep Space.exe", "type": "Game" }
 
+# The Mound: Omen of Cthulhu https://store.steampowered.com/app/2569760/
+# The Mound: Omen of Cthulhu Demo https://store.steampowered.com/app/4669520/
+{ "name": "TheMound.exe", "type": "BG_CPUIO" }
+
+# The Mound: Omen of Cthulhu Demo https://store.steampowered.com/app/4669520/
+# The Mound: Omen of Cthulhu https://store.steampowered.com/app/2569760/
+{ "name": "TheMound-Win64-Shipping.exe", "type": "Game" }
+
 # The Scouring Demo https://store.steampowered.com/app/3354780/The_Scouring_Demo/
 # The Scouring https://store.steampowered.com/app/3338950/The_Scouring/
 { "name": "TheScouring.exe", "type": "Game" }
+
+# The Seven Realms: High Lathión https://store.steampowered.com/app/2580130/
+# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
+{ "name": "TheSevenRealms-32.exe", "type": "Game" }
+
+# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
+# The Seven Realms: High Lathión https://store.steampowered.com/app/2580130/
+{ "name": "TheSevenRealms.exe", "type": "Game" }
 
 # The Spell Brigade https://store.steampowered.com/app/2904000/The_Spell_Brigade/
 # The Spell Brigade Demo https://store.steampowered.com/app/3002370/The_Spell_Brigade/
@@ -2804,6 +2946,7 @@
 
 # NaissanceE https://store.steampowered.com/app/265690/NaissanceE/
 # Homesick https://store.steampowered.com/app/244910/Homesick/
+# Them and Us https://store.steampowered.com/app/915600/Them_and_Us/
 # Antichamber https://store.steampowered.com/app/219890/Antichamber/
 # Project Nimbus: Complete Edition https://store.steampowered.com/app/257030/Project_Nimbus_Complete_Edition/
 # Strike Vector https://store.steampowered.com/app/246700/Strike_Vector/

@@ -85,6 +85,9 @@
 # Dark Devotion https://store.steampowered.com/app/718590/Dark_Devotion/
 { "name": "DarkDevotion.exe", "type": "Game" }
 
+# Dark Envoy https://store.steampowered.com/app/945770/Dark_Envoy/
+{ "name": "DarkEnvoy.exe", "type": "Game" }
+
 # DARKEST DAYS https://store.steampowered.com/app/1548520/DARKEST_DAYS/
 { "name": "ProjectNow.exe", "type": "BG_CPUIO" }
 { "name": "ProjectNow-Win64-Shipping.exe", "type": "Game" }
@@ -272,6 +275,9 @@
 # Dead Bits https://store.steampowered.com/app/303390/Dead_Bits/
 { "name": "Dead Bits.exe", "type": "Game" }
 
+# DEADBOLT https://store.steampowered.com/app/394970/DEADBOLT/
+{ "name": "deadbolt_game.exe", "type": "Game" }
+
 # Dead by Daylight https://store.steampowered.com/app/381210/Dead_by_Daylight/
 { "name": "DeadByDaylight.exe", "type": "BG_CPUIO" }
 { "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
@@ -412,9 +418,6 @@
 # Dead Synchronicity: Tomorrow Comes Today https://store.steampowered.com/app/339190/Dead_Synchronicity_Tomorrow_Comes_Today/
 { "name": "Dead Synchronicity.exe", "type": "Game" }
 
-# Dead Weight Demo https://store.steampowered.com/app/2796120/Dead_Weight_Demo/
-{ "name": "Dead_weight.exe", "type": "Game" }
-
 # Deadzone: Rogue https://store.steampowered.com/app/3228590/Deadzone_Rogue/
 { "name": "DeadzoneSteam.exe", "type": "BG_CPUIO" }
 { "name": "DeadzoneSteam-Win64-Shipping.exe", "type": "Game" }
@@ -451,6 +454,9 @@
 
 # Death Rally (Classic) https://store.steampowered.com/app/358270/Death_Rally_Classic/
 { "name": "dr.exe", "type": "Game" }
+
+# Death Roads: Tournament https://store.steampowered.com/app/1619570/Death_Roads_Tournament/
+{ "name": "Death Roads.exe", "type": "Game" }
 
 # Death Road to Canada https://store.steampowered.com/app/252610/Death_Road_to_Canada/
 { "name": "prog.exe", "type": "Game" }
@@ -601,6 +607,9 @@
 # Delver https://store.steampowered.com/app/249630/Delver/
 { "name": "delver.exe", "type": "Game" }
 
+# Delverium Playtest https://store.steampowered.com/app/2710220/
+{ "name": "Delverium.exe", "type": "Game" }
+
 # Dementium II HD https://store.steampowered.com/app/217100/Dementium_II_HD/
 { "name": "DII_Beta.exe", "type": "Game" }
 
@@ -658,6 +667,13 @@
 
 # DEMON WORK WALK ～hello work poke park 葛葉の魔界大作戦～ https://store.steampowered.com/app/4216070/DEMON_WORK_WALK_hello_work_poke_park/
 { "name": "DWW.exe", "type": "Game" }
+
+# Denizen https://store.steampowered.com/app/2010030/Denizen/
+{ "name": "Denizen.exe", "type": "Game" }
+
+# Denshattack! https://store.steampowered.com/app/2524850/Denshattack/
+{ "name": "Denshattack_Proto.exe", "type": "BG_CPUIO" }
+{ "name": "Denshattack_Proto-Win64-Shipping.exe", "type": "Game" }
 
 # DeoVR Video Player https://store.steampowered.com/app/837380/DeoVR__VR_Video_Streaming_Platform/
 { "name": "DeoVR.exe", "type": "Game" }
@@ -759,6 +775,9 @@
 
 # Destiny of Immortal https://store.steampowered.com/app/2377930/Destiny_of_Immortal/
 { "name": "Zaohua.exe", "type": "Game" }
+
+# Destroyer: The U-Boat Hunter https://store.steampowered.com/app/1272010/Destroyer_The_UBoat_Hunter/
+{ "name": "Destroyer The U-Boat Hunter.exe", "type": "Game" }
 
 # Desynced https://store.steampowered.com/app/1450900/Desynced/
 { "name": "Desynced.exe", "type": "Game" }
@@ -901,6 +920,9 @@
 # Digger: Galactic Treasures https://store.steampowered.com/app/3604430/Digger_Galactic_Treasures/
 { "name": "Digger-Win64-Shipping.exe", "type": "Game" }
 
+# Diggin https://store.steampowered.com/app/4157430/Diggin/
+{ "name": "Diggin.exe", "type": "Game" }
+
 # Diggles: The Myth of Fenris https://store.steampowered.com/app/1478650/Diggles_The_Myth_of_Fenris/
 { "name": "Diggles.exe", "type": "Game" }
 
@@ -1004,9 +1026,6 @@
 
 # Dirty League https://store.steampowered.com/app/3017450/
 { "name": "DirtyLeague.exe", "type": "Game" }
-
-# Disc Golf Masters Demo https://store.steampowered.com/app/4196270/Disc_Golf_Masters_Demo/
-{ "name": "Disc Golf Masters.exe", "type": "Game" }
 
 # Disc Golf Valley https://store.steampowered.com/app/1642890/Disc_Golf_Valley/
 { "name": "DiscGolf.exe", "type": "Game" }
@@ -1348,6 +1367,10 @@
 # Double Dragon: Neon https://store.steampowered.com/app/252350/Double_Dragon_Neon/
 { "name": "DoubleDragon.exe", "type": "Game" }
 
+# Double Shoulders https://store.steampowered.com/app/3393620/Double_Shoulders/
+{ "name": "DoubleShoulders.exe", "type": "BG_CPUIO" }
+{ "name": "DoubleShoulders-Win64-Shipping.exe", "type": "Game" }
+
 # Doug and Lily https://store.steampowered.com/app/601180/Doug_and_Lily/
 { "name": "dl.exe", "type": "Game" }
 
@@ -1602,6 +1625,9 @@
 # Drink Factory Simulator - Prologue https://store.steampowered.com/app/4738020/Drink_Factory_Simulator__Prologue/
 { "name": "Drink Factory Simulator Prologue.exe", "type": "Game" }
 
+# #DRIVE Rally https://store.steampowered.com/app/2494780/DRIVE_Rally/
+{ "name": "DRIVERally.exe", "type": "Game" }
+
 # Driver Booster for Steam https://store.steampowered.com/app/920490/Driver_Booster_for_Steam/
 { "name": "DriverBooster.exe", "type": "Game" }
 { "name": "Boost.exe", "type": "Game" }
@@ -1646,6 +1672,9 @@
 
 # DSX https://store.steampowered.com/app/1812620/DSX/
 { "name": "DSX.exe", "type": "Game" }
+
+# D-topia https://store.steampowered.com/app/1895460/Dtopia/
+{ "name": "D-topia.exe", "type": "Game" }
 
 # DUCATI - 90th Anniversary https://store.steampowered.com/app/456780/DUCATI__90th_Anniversary/
 { "name": "Ducati.exe", "type": "Game" }
@@ -1737,6 +1766,9 @@
 { "name": "DDS.exe", "type": "BG_CPUIO" }
 { "name": "DDS-Win64-Shipping.exe", "type": "Game" }
 
+# Dungeon Drafters https://store.steampowered.com/app/1824580/Dungeon_Drafters/
+{ "name": "Dungeon Drafters.exe", "type": "Game" }
+
 # Dungeon Fighter Online https://store.steampowered.com/app/495910/Dungeon_Fighter_Online/
 { "name": "DFO.exe", "type": "Game" }
 { "name": "NeopleLauncher.exe", "type": "BG_CPUIO" }
@@ -1814,6 +1846,9 @@
 
 # Dungeon Siege III https://store.steampowered.com/app/39160/Dungeon_Siege_III/
 { "name": "Dungeon Siege III.exe", "type": "Game" }
+
+# DUNGEON SLASHER https://store.steampowered.com/app/2712460/DUNGEON_SLASHER/
+{ "name": "dungeonslasher.exe", "type": "Game" }
 
 # Dungeons of Blood and Dream https://store.steampowered.com/app/2488590/Dungeons_of_Blood_and_Dream/
 { "name": "dobad.exe", "type": "Game" }

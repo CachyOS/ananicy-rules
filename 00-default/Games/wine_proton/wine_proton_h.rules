@@ -48,6 +48,9 @@
 # Hades' Star https://store.steampowered.com/app/755800/Hades_Star/
 { "name": "hadesstar.exe", "type": "Game" }
 
+# Haiku, the Robot https://store.steampowered.com/app/1231880/Haiku_the_Robot/
+{ "name": "Haiku.exe", "type": "Game" }
+
 # Hail to the Rainbow https://store.steampowered.com/app/1699230/Hail_to_the_Rainbow/
 { "name": "Hail to the Rainbow.exe", "type": "Game" }
 
@@ -163,9 +166,6 @@
 # Handyman Legend https://store.steampowered.com/app/2127010/
 { "name": "Handyman Legend.exe", "type": "Game" }
 
-# Happy Endings Demo https://store.steampowered.com/app/4738790/
-{ "name": "Happy Endings.exe", "type": "Game" }
-
 # Happy Island Fantasy https://store.steampowered.com/app/3668560/
 { "name": "Happy Island Fantasy.exe", "type": "Game" }
 
@@ -222,6 +222,11 @@
 
 # Hasbro's BATTLESHIP https://store.steampowered.com/app/893050/Hasbros_BATTLESHIP/
 { "name": "Battleship.exe", "type": "Game" }
+
+# Hashihime of the Old Book Town https://store.steampowered.com/app/1039940/
+{ "name": "hashihime_zh_hans.exe", "type": "Game" }
+{ "name": "hashihime_zh_hant.exe", "type": "Game" }
+{ "name": "hashihime.exe", "type": "Game" }
 
 # Hatred https://store.steampowered.com/app/341940/Hatred/
 { "name": "Hatred.exe", "type": "BG_CPUIO" }
@@ -406,6 +411,9 @@
 { "name": "Launch_HLL.exe", "type": "Game" }
 { "name": "Launch_HLL_Test.exe", "type": "Game" }
 
+# Hell Maiden https://store.steampowered.com/app/3372060/Hell_Maiden/
+{ "name": "Hell Maiden.exe", "type": "Game" }
+
 # HELLMART https://store.steampowered.com/app/3762550/HELLMART/
 { "name": "Hellmart.exe", "type": "Game" }
 
@@ -443,6 +451,10 @@
 
 # HellSlave II: Judgment of the Archon Demo https://store.steampowered.com/app/4540450/HellSlave_II_Judgment_of_the_Archon_Demo/
 { "name": "HellSlave II Demo.exe", "type": "Game" }
+
+# Hellsplit: Arena https://store.steampowered.com/app/1039880/Hellsplit_Arena/
+{ "name": "Hellsplit_Arena.exe", "type": "BG_CPUIO" }
+{ "name": "Hellsplit_Arena-Win64-Shipping.exe", "type": "Game" }
 
 # Helltaker https://store.steampowered.com/app/1289310/Helltaker/
 { "name": "Helltaker.exe", "type": "Game" }
@@ -493,6 +505,10 @@
 
 # Hermit and Pig https://store.steampowered.com/app/2408350/Hermit_and_Pig/
 { "name": "hermit_and_pig.exe", "type": "Game" }
+
+# Her New Memory https://store.steampowered.com/app/1296770/
+{ "name": "HerNewMemory.exe", "type": "Game" }
+{ "name": "HerNewMemory-32.exe", "type": "Game" }
 
 # Heroes & Generals https://store.steampowered.com/app/227940/Heroes__Generals/
 { "name": "hngsteamlauncher.exe", "type": "Game" }
@@ -605,6 +621,9 @@
 # Hex of Steel https://store.steampowered.com/app/1240630/Hex_of_Steel/
 { "name": "Hex of Steel.exe", "type": "Game" }
 
+# Hey Stranger! I Dare You to Love Me! https://store.steampowered.com/app/1703220/
+{ "name": "Hey Stranger! I Dare You to Love Me!.exe", "type": "Game" }
+
 # H-Hour: World's Elite https://store.steampowered.com/app/293220/HHour_Worlds_Elite/
 { "name": "Launch_H-Hour.exe", "type": "BG_CPUIO" }
 { "name": "HHourGame-Win64-Shipping.exe", "type": "Game" }
@@ -625,6 +644,9 @@
 
 # Hidden Folks https://store.steampowered.com/app/435400/Hidden_Folks/
 { "name": "Hidden Folks.exe", "type": "Game" }
+
+# Hidden Through Time https://store.steampowered.com/app/524910/Hidden_Through_Time/
+{ "name": "Hidden.exe", "type": "Game" }
 
 # Hide and Shriek https://store.steampowered.com/app/480430/Hide_and_Shriek/
 { "name": "HideandShriek.exe", "type": "BG_CPUIO" }
@@ -817,6 +839,10 @@
 { "name": "Home Sheep Home Farmageddon Party Edition.exe", "type": "Game" }
 { "name": "HomeSheepHome2.exe", "type": "Game" }
 
+# Home Sweet Home https://store.steampowered.com/app/617160/Home_Sweet_Home/
+{ "name": "HomeSweetHome.exe", "type": "BG_CPUIO" }
+{ "name": "HomeSweetHome-Win32-Shipping.exe", "type": "Game" }
+
 # Homeworld 3 https://store.steampowered.com/app/1840080/Homeworld_3/
 { "name": "Homeworld3.exe", "type": "Game" }
 
@@ -850,6 +876,9 @@
 
 # Hook https://store.steampowered.com/app/367580/Hook/
 { "name": "Hook.exe", "type": "Game" }
+
+# Hookah Haze https://store.steampowered.com/app/2470300/Hookah_Haze/
+{ "name": "HookahHaze.exe", "type": "Game" }
 
 # Hooked on You: A Dead by Daylight Dating Sim https://store.steampowered.com/app/1866180/Hooked_on_You_A_Dead_by_Daylight_Dating_Sim/
 { "name": "Hooked on You.exe", "type": "Game" }
@@ -1052,10 +1081,6 @@
 { "name": "Hunter.exe", "type": "BG_CPUIO" }
 { "name": "Hunter-Win64-Shipping.exe", "type": "Game" }
 
-# Hunt: Showdown 1896 https://store.steampowered.com/app/594650/Hunt_Showdown_1896/
-{ "name": "hunt.exe", "type": "Game" }
-{ "name": "HuntGame.exe", "type": "Game" }
-
 # Hurtworld https://store.steampowered.com/app/393420/Hurtworld/
 { "name": "Hurtworld.exe", "type": "Game" }
 { "name": "hurtworld.exe", "type": "Game" }
@@ -1073,6 +1098,9 @@
 
 # Hydrophobia: Prophecy https://store.steampowered.com/app/92000/Hydrophobia_Prophecy/
 { "name": "HydroPC.exe", "type": "Game" }
+
+# Hylics 2 https://store.steampowered.com/app/1286710/Hylics_2/
+{ "name": "Hylics2_Windows.exe", "type": "Game" }
 
 # HYPERCHARGE: Unboxed https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/
 { "name": "Unboxed.exe", "type": "BG_CPUIO" }

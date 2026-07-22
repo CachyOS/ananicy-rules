@@ -45,6 +45,9 @@
 { "name": "GeminiRue.bin.x86_64", "type": "Game" }
 { "name": "winsetup", "type": "Game" }
 
+# Geometry Wars 3: Dimensions Evolved https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/
+{ "name": "GeometryWars3", "type": "Game" }
+
 # Getting Over It with Bennett Foddy https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/
 { "name": "GettingOverIt.x86_64", "type": "Game" }
 
@@ -147,9 +150,6 @@
 
 # Growing Things Up - Season 1 https://store.steampowered.com/app/3910610/
 { "name": "GrowingThingsUp", "type": "Game" }
-
-# Guacamelee! Gold Edition https://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/
-{ "name": "game", "type": "Game" }
 
 # Guardians of Victoria https://store.steampowered.com/app/385080/Guardians_of_Victoria/
 { "name": "guardiansofvictoria", "type": "Game" }

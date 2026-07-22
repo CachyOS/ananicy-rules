@@ -64,9 +64,6 @@
 { "name": "Hand of Fate 2.x86", "type": "Game" }
 { "name": "Hand of Fate 2.x86_64", "type": "Game" }
 
-# Happy Endings Demo https://store.steampowered.com/app/4738790/
-{ "name": "happy-endings", "type": "Game" }
-
 # Happy Room https://store.steampowered.com/app/550010/Happy_Room/
 { "name": "Happy Room.x86_64", "type": "Game" }
 
@@ -311,9 +308,6 @@
 
 # Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
 { "name": "HypnOS", "type": "Game" }
-
-# Hyposphere https://store.steampowered.com/app/461880/Hyposphere/
-{ "name": "UE4Game-Linux-Shipping", "type": "Game" }
 
 # Hytale https://hytale.com/
 { "name": "HytaleClient", "type": "Game" }
