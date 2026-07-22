@@ -194,25 +194,14 @@
 # The Knight Witch https://store.steampowered.com/app/1872680/The_Knight_Witch/
 { "name": "TheKnightWitch.exe", "type": "Game" }
 
-# Them and Us https://store.steampowered.com/app/915600/Them_and_Us/
-{ "name": "UDK.exe", "type": "Game" }
-
 # The Mermaid Mask https://store.steampowered.com/app/1696770/The_Mermaid_Mask/
 { "name": "The Mermaid Mask.exe", "type": "Game" }
-
-# The Mound: Omen of Cthulhu https://store.steampowered.com/app/2569760/
-{ "name": "TheMound.exe", "type": "BG_CPUIO" }
-{ "name": "TheMound-Win64-Shipping.exe", "type": "Game" }
 
 # The NOexistenceN of Lilith https://store.steampowered.com/app/4643090/The_NOexistenceN_of_Lilith/
 { "name": "Lilith.exe", "type": "Game" }
 
 # The Secret Atelier https://store.steampowered.com/app/2799690/
 { "name": "The Secret Atelier.exe", "type": "Game" }
-
-# The Seven Realms: High Lathión https://store.steampowered.com/app/2580130/
-{ "name": "TheSevenRealms.exe", "type": "Game" }
-{ "name": "TheSevenRealms-32.exe", "type": "Game" }
 
 # The Cat Lady https://store.steampowered.com/app/253110/The_Cat_Lady/
 { "name": "TheCatLady.exe", "type": "Game" }
@@ -942,10 +931,6 @@
 # The Mosquito Gang https://store.steampowered.com/app/2811100/The_Mosquito_Gang/
 { "name": "MosquitoGang-Win64-Shipping.exe", "type": "Game" }
 
-# The Mound: Omen of Cthulhu Demo https://store.steampowered.com/app/4669520/
-{ "name": "TheMound.exe", "type": "BG_CPUIO" }
-{ "name": "TheMound-Win64-Shipping.exe", "type": "Game" }
-
 # The Mr. Rabbit Magic Show https://store.steampowered.com/app/3472550/The_Mr_Rabbit_Magic_Show/
 { "name": "themrrabbitmagicshow.exe", "type": "Game" }
 
@@ -1131,10 +1116,6 @@
 # The Seven Deadly Sins: Origin https://store.steampowered.com/app/3679080/The_Seven_Deadly_Sins_Origin/
 { "name": "SevenDeadlySins_Origin-Win64-Shipping.exe", "type": "Game" }
 { "name": "SevenDeadlySins_Origin.exe", "type": "BG_CPUIO" }
-
-# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
-{ "name": "TheSevenRealms-32.exe", "type": "Game" }
-{ "name": "TheSevenRealms.exe", "type": "Game" }
 
 # The Shattering https://store.steampowered.com/app/596000/The_Shattering/
 { "name": "Shattering.exe", "type": "Game" }

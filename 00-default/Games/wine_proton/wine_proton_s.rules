@@ -577,9 +577,6 @@
 # Sayonara Wild Hearts https://store.steampowered.com/app/1122720/Sayonara_Wild_Hearts/
 { "name": "Sayonara Wild Hearts.exe", "type": "Game" }
 
-# Scars of Summer https://store.steampowered.com/app/1405470/Scars_of_Summer/
-{ "name": "Game.exe", "type": "Game" }
-
 # SCP: Fragmented Minds https://store.steampowered.com/app/1184790/SCP_Fragmented_Minds/
 { "name": "SCPFragmentedMinds.exe", "type": "BG_CPUIO" }
 { "name": "SCPFragmentedMinds-Win64-Shipping.exe", "type": "Game" }
@@ -619,12 +616,8 @@
 # Sisterly Lust https://store.steampowered.com/app/1224160/
 { "name": "SL.exe", "type": "Game" }
 
-# Skill Legends Royale Demo https://store.steampowered.com/app/3164420/
-{ "name": "SkillLegendsRoyale.exe", "type": "Game" }
-
 # Skyrim Script Extender (SKSE) https://store.steampowered.com/app/365720/Skyrim_Script_Extender_SKSE/
 { "name": "skse_steam_boot.exe", "type": "Game" }
-{ "name": "skse_loader.exe", "type": "Game" }
 
 # Snake Force https://store.steampowered.com/app/1806040/Snake_Force/
 { "name": "Snake Force.exe", "type": "Game" }
@@ -635,17 +628,11 @@
 # Soulforge Lost Path https://store.steampowered.com/app/3839250/Soulforge_Lost_Path/
 { "name": "ForgeRoguelike.exe", "type": "Game" }
 
-# Space Hulk Ascension (Classic) https://store.steampowered.com/app/317620/Space_Hulk_Ascension_Classic/
-{ "name": "game.exe", "type": "Game" }
-
 # Space Pirate Trainer https://store.steampowered.com/app/418650/Space_Pirate_Trainer/
 { "name": "SpacePirateVR.exe", "type": "Game" }
 
 # Space Reign https://store.steampowered.com/app/1762570/Space_Reign/
 { "name": "Space Reign.exe", "type": "Game" }
-
-# SpiritVale https://store.steampowered.com/app/3767850/SpiritVale/
-{ "name": "SpiritVale.exe", "type": "Game" }
 
 # Stackflow https://store.steampowered.com/app/3908810/Stackflow/
 { "name": "stackflow.exe", "type": "Game" }
@@ -1399,9 +1386,6 @@
 
 # Skewer Squad https://store.steampowered.com/app/3926160/Skewer_Squad/
 { "name": "Skewer Squad.exe", "type": "Game" }
-
-# Skill Legends Royale https://store.steampowered.com/app/3114410/Skill_Legends_Royale/
-{ "name": "SkillLegendsRoyale.exe", "type": "Game" }
 
 # Skillshot City https://store.steampowered.com/app/308600/Skillshot_City/
 { "name": "SkillshotCity.exe", "type": "Game" }
@@ -2192,9 +2176,6 @@
 
 # Spirittea https://store.steampowered.com/app/1931010/Spirittea/
 { "name": "Spirittea.exe", "type": "Game" }
-
-# SpiritVale Playtest https://store.steampowered.com/app/3918510/SpiritVale/
-{ "name": "SpiritVale.exe", "type": "Game" }
 
 # Spirit Valley https://store.steampowered.com/app/2649480/
 { "name": "SpiritValley.exe", "type": "Game" }

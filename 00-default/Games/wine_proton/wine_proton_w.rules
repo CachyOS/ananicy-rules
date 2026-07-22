@@ -642,10 +642,6 @@
 # With Eyes Closed - Season 1 https://store.steampowered.com/app/2492780/
 { "name": "WithEyesClosed.exe", "type": "Game" }
 
-# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
-{ "name": "WreckRunners.exe", "type": "BG_CPUIO" }
-{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
-
 # WHO'S WHO 2.0 https://store.steampowered.com/app/3391260/WHOS_WHO_20/
 { "name": "WHO'S WHO 2.0.exe", "type": "Game" }
 
@@ -1104,10 +1100,6 @@
 
 # Wreckfest 2 https://store.steampowered.com/app/1203190/Wreckfest_2/
 { "name": "Wreckfest2.exe", "type": "Game" }
-
-# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
-{ "name": "WreckRunners.exe", "type": "BG_CPUIO" }
-{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
 
 # Wrench https://store.steampowered.com/app/936720/Wrench/
 { "name": "WrenchGame.exe", "type": "BG_CPUIO" }

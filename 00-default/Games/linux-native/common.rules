@@ -139,23 +139,59 @@
 # Football Manager Touch 2017 https://store.steampowered.com/app/482750/
 { "name": "fm", "type": "Game" }
 
+# Hyposphere https://store.steampowered.com/app/461880/Hyposphere/
+# Langoth https://store.steampowered.com/app/581100/Langoth/
+{ "name": "UE4Game-Linux-Shipping", "type": "Game" }
+
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
+{ "name": "WreckRunners-Win64-Shipping.exe", "type": "Game" }
+
 # FreshWomen - Season 2 https://store.steampowered.com/app/3478650/
 # FreshWomen - Season 1 https://store.steampowered.com/app/1350650/
 { "name": "FreshWomen", "type": "Game" }
+
+# Wreck Runners https://store.steampowered.com/app/1473960/Wreck_Runners/
+# Wreck Runners Playtest https://store.steampowered.com/app/3542410/
+{ "name": "WreckRunners.exe", "type": "BG_CPUIO" }
+
+# The Seven Realms: High Lathión https://store.steampowered.com/app/2580130/
+# The Seven Realms: Terran https://store.steampowered.com/app/2154330/
+{ "name": "TheSevenRealms", "type": "Game" }
 
 # Gamblers Table Demo https://store.steampowered.com/app/3747250/Gamblers_Table_Demo/
 # Gamblers Table https://store.steampowered.com/app/3618390/Gamblers_Table/
 { "name": "gamblers-table.x86_64", "type": "Game" }
 
+# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
+# Pathogenic https://store.steampowered.com/app/3808690/Pathogenic/
+{ "name": "pathogenic.x86_64", "type": "Game" }
+
+# LookPilot Demo https://store.steampowered.com/app/3517680/
+# LookPilot https://store.steampowered.com/app/3326890/LookPilot/
+{ "name": "LookPilot", "type": "Game" }
+
+# Happy Endings https://store.steampowered.com/app/4689440/
+# Happy Endings Demo https://store.steampowered.com/app/4738790/
+{ "name": "happy-endings", "type": "Game" }
+
+# Lust Academy Season 3 https://store.steampowered.com/app/2655960/
+# Lust Academy https://store.steampowered.com/app/1846920/
+{ "name": "Lust-Academy", "type": "Game" }
+
 # Warlock 2: The Exiled https://store.steampowered.com/app/205990/Warlock_2_The_Exiled/
 # Scott Pilgrim EX https://store.steampowered.com/app/2640950/Scott_Pilgrim_EX/
 # Everafter Falls https://store.steampowered.com/app/1416960/Everafter_Falls/
 # Idol Hands 2 https://store.steampowered.com/app/2053940/
+# Daily life with my succubus boss https://store.steampowered.com/app/2059310/
+# Lovey-Dovey Lockdown https://store.steampowered.com/app/2329630/
+# Lewd gym https://store.steampowered.com/app/2019680/
 # MARVEL Cosmic Invasion Demo https://store.steampowered.com/app/4013980/MARVEL_Cosmic_Invasion_Demo/
 { "name": "Game", "type": "Game" }
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
 # Space Hulk https://store.steampowered.com/app/242570/Space_Hulk/
+# Space Hulk Ascension (Classic) https://store.steampowered.com/app/317620/Space_Hulk_Ascension_Classic/
 { "name": "game.x86", "type": "Game" }
 
 # XCOM: Enemy Unknown https://store.steampowered.com/app/200510/XCOM_Enemy_Unknown/
@@ -282,6 +318,8 @@
 # Dorm Janitor's Revenge https://store.steampowered.com/app/3416960/
 # Meltys Quest https://store.steampowered.com/app/723090/
 # Liveza: Death of the Earth https://store.steampowered.com/app/463100/Liveza_Death_of_the_Earth/
+# Liè wū nísī de wǎngē 列乌尼斯的挽歌 https://store.steampowered.com/app/3371260/Requiem_of_Reuinis/
+# Latex Dungeon https://store.steampowered.com/app/1622780/
 # Yellow: The Yellow Artifact https://store.steampowered.com/app/486820/
 { "name": "nw", "type": "Game" }
 
@@ -365,6 +403,7 @@
 # The Red Strings Club https://store.steampowered.com/app/589780/The_Red_Strings_Club/
 # Madrobot X https://store.steampowered.com/app/513610/Madrobot_X/
 # Tiamat X https://store.steampowered.com/app/343340/Tiamat_X/
+# DEADBOLT https://store.steampowered.com/app/394970/DEADBOLT/
 { "name": "runner", "type": "Game" }
 
 # Scapewatch: Idle MMO Demo https://store.steampowered.com/app/4750660/Scapewatch_Idle_MMO_Demo/
@@ -374,6 +413,10 @@
 # Shadow Tactics: Blades of the Shogun https://store.steampowered.com/app/418240/Shadow_Tactics_Blades_of_the_Shogun/
 # Shadow Tactics: Blades of the Shogun - Aiko's Choice https://store.steampowered.com/app/1579380/Shadow_Tactics_Aikos_Choice/
 { "name": "Shadow Tactics", "type": "Game" }
+
+# Guacamelee! Gold Edition https://store.steampowered.com/app/214770/Guacamelee_Gold_Edition/
+# How to lose one's virginity https://store.steampowered.com/app/2578880/
+{ "name": "game", "type": "Game" }
 
 # shapez 2 https://store.steampowered.com/app/2162800/shapez_2/
 # shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2__Factory/

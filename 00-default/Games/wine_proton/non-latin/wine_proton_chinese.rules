@@ -26,9 +26,6 @@
 # Zhǔjiǎo 主角 https://store.steampowered.com/app/4234260/_/
 { "name": "Protagonist.exe", "type": "Game" }
 
-# Bèibāo dìláo 背包地牢 https://store.steampowered.com/app/4478640/Backpack_Dungeon/
-{ "name": "Backpack-Dungeon.exe", "type": "Game" }
-
 # Xiàfán Demo 下凡 Demo https://store.steampowered.com/app/3868170/_Demo/
 { "name": "TheMortal.exe", "type": "BG_CPUIO" }
 { "name": "TheMortal-Win64-Shipping.exe", "type": "Game" }
@@ -39,9 +36,6 @@
 
 # Zhuā dào màoxiǎn zhě jiàngle!~Live2D chùshǒu mónǐ qì ~ 抓到冒險者醬了！～Live2D觸手模擬器～ https://store.steampowered.com/app/3012420/
 { "name": "boukensyachan_syokusyuSLG.exe", "type": "Game" }
-
-# Liè wū nísī de wǎngē 列乌尼斯的挽歌 https://store.steampowered.com/app/3371260/Requiem_of_Reuinis/
-{ "name": "Game.exe", "type": "Game" }
 
 # Guàjī māo māo chuán 挂机猫猫传 https://store.steampowered.com/app/3520820/Idle_Kitty/
 { "name": "IdleKitty.exe", "type": "Game" }
@@ -57,9 +51,6 @@
 
 # Bèibāo chuǎngjiānghú 背包闯江湖 https://store.steampowered.com/app/3972650/Backpack_Jianghu/
 { "name": "BackpackJianghu.exe", "type": "Game" }
-
-# Bèibāo dìláo Demo 背包地牢 Demo https://store.steampowered.com/app/4524110/Backpack_Dungeon_Demo/
-{ "name": "Backpack-Dungeon.exe", "type": "Game" }
 
 # Bēng jìng huíshōu zhàn 嘣境回收战 https://store.steampowered.com/app/2411910/miniBONG/
 { "name": "miniBONG.exe", "type": "Game" }
@@ -106,9 +97,6 @@
 # Dǎodàn wā (Croak Squad) 捣蛋蛙（Croak Squad） https://store.steampowered.com/app/3675400/Croak_Squad/
 { "name": "C2Dgame.exe", "type": "Game" }
 { "name": "C2Dgame-Win64-Shipping.exe", "type": "Game" }
-
-# Dié: Jīngzhé 谍：惊蛰 https://store.steampowered.com/app/2374000/Insects_Awaken/
-{ "name": "Awaken.exe", "type": "Game" }
 
 # Dìguó huànxiǎng xiāng ~TOHOTOPIA 帝国幻想乡~TOHOTOPIA https://store.steampowered.com/app/3774440/TOHOTOPIA/
 { "name": "TOHOTOPIA.exe", "type": "Game" }

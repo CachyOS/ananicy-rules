@@ -32,12 +32,6 @@
 # Halfway House https://store.steampowered.com/app/3678710/
 { "name": "Halfway_House_Steam", "type": "Game" }
 
-# Happy Endings https://store.steampowered.com/app/4689440/
-{ "name": "happy-endings", "type": "Game" }
-
-# How to lose one's virginity https://store.steampowered.com/app/2578880/
-{ "name": "game", "type": "Game" }
-
 # Halls of Torment https://store.steampowered.com/app/2218750/Halls_of_Torment/
 { "name": "HallsOfTorment.x86_64", "type": "Game" }
 
@@ -69,9 +63,6 @@
 # Hand of Fate 2 https://store.steampowered.com/app/456670/
 { "name": "Hand of Fate 2.x86", "type": "Game" }
 { "name": "Hand of Fate 2.x86_64", "type": "Game" }
-
-# Happy Endings Demo https://store.steampowered.com/app/4738790/
-{ "name": "happy-endings", "type": "Game" }
 
 # Happy Room https://store.steampowered.com/app/550010/Happy_Room/
 { "name": "Happy Room.x86_64", "type": "Game" }
@@ -317,9 +308,6 @@
 
 # Hypnospace Outlaw https://store.steampowered.com/app/844590/Hypnospace_Outlaw/
 { "name": "HypnOS", "type": "Game" }
-
-# Hyposphere https://store.steampowered.com/app/461880/Hyposphere/
-{ "name": "UE4Game-Linux-Shipping", "type": "Game" }
 
 # Hytale https://hytale.com/
 { "name": "HytaleClient", "type": "Game" }

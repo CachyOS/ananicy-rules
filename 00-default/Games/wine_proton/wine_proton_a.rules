@@ -11,21 +11,11 @@
 # Abalon https://store.steampowered.com/app/1681840/Abalon_Roguelike_Tactics_CCG/
 { "name": "Abalon.exe", "type": "Game" }
 
-# A Game About Chopping Trees https://store.steampowered.com/app/4512570/A_Game_About_Chopping_Trees/
-{ "name": "ChoppingTrees.exe", "type": "BG_CPUIO" }
-{ "name": "ChoppingTrees-Win64-Shipping.exe", "type": "Game" }
-
 # Aimtastic https://store.steampowered.com/app/757240/Aimtastic/
 { "name": "Aimtastic.exe", "type": "Game" }
 
 # Alien: Rogue Incursion Evolved Edition https://store.steampowered.com/app/3655390/Alien_Rogue_Incursion_Evolved_Edition/
-{ "name": "Midnight.exe", "type": "BG_CPUIO" }
-{ "name": "Midnight-Win64-Shipping.exe", "type": "Game" }
 { "name": "Midnight-Win64-Shippingarm64ec.exe", "type": "Game" }
-
-# Alien: Rogue Incursion VR https://store.steampowered.com/app/1850050/Alien_Rogue_Incursion_VR/
-{ "name": "Midnight.exe", "type": "BG_CPUIO" }
-{ "name": "Midnight-Win64-Shipping.exe", "type": "Game" }
 
 # Alter World https://store.steampowered.com/app/357280/Alter_World/
 { "name": "AlterWorld.exe", "type": "Game" }
@@ -33,23 +23,12 @@
 # APE OUT https://store.steampowered.com/app/447150/APE_OUT/
 { "name": "ApeOut.exe", "type": "Game" }
 
-# Ascend to ZERO https://store.steampowered.com/app/2697940/Ascend_to_ZERO/
-{ "name": "AscendtoZERO.exe", "type": "BG_CPUIO" }
-{ "name": "AscendtoZERO-Win64-Shipping.exe", "type": "Game" }
-
-# Ascend to ZERO Demo https://store.steampowered.com/app/3279910/Ascend_to_ZERO_Demo/
-{ "name": "AscendtoZERO.exe", "type": "BG_CPUIO" }
-{ "name": "AscendtoZERO-Win64-Shipping.exe", "type": "Game" }
-
 # Assassin’s Creed Chronicles: China https://store.steampowered.com/app/354380/Assassins_Creed_Chronicles_China/
 { "name": "ACCGame-Win32-Shipping.exe", "type": "Game" }
 
 # AURA: Hentai Cards https://store.steampowered.com/app/2440200/
 { "name": "game-launcher.exe", "type": "Game" }
 { "name": "AURAHentaiCards.exe", "type": "Game" }
-
-# AWAKEN - Astral Blade https://store.steampowered.com/app/1716310/AWAKEN__Astral_Blade/
-{ "name": "Awaken.exe", "type": "Game" }
 
 # Abiotic Factor https://store.steampowered.com/app/427410/Abiotic_Factor/
 { "name": "AbioticFactor.exe", "type": "Game" }
@@ -280,10 +259,6 @@
 
 # Against the Storm https://store.steampowered.com/app/1336490/Against_the_Storm/
 { "name": "Against the Storm.exe", "type": "Game" }
-
-# A Game About Chopping Trees Demo https://store.steampowered.com/app/4738320/A_Game_About_Chopping_Trees_Demo/
-{ "name": "ChoppingTrees.exe", "type": "BG_CPUIO" }
-{ "name": "ChoppingTrees-Win64-Shipping.exe", "type": "Game" }
 
 # A Game About Digging A Hole https://store.steampowered.com/app/3244220/A_Game_About_Digging_A_Hole/
 { "name": "A_Tale_About_Digging_A_Hole_CN.exe", "type": "Game" }
@@ -1249,9 +1224,6 @@
 
 # Artemis https://store.steampowered.com/app/1775530/
 { "name": "_ARTEMIS.exe", "type": "Game" }
-
-# Artesnaut Demo https://store.steampowered.com/app/4710300/Artesnaut_Demo/
-{ "name": "artesnaut.exe", "type": "Game" }
 
 # Artifact Classic https://store.steampowered.com/app/583950/Artifact/
 { "name": "dcg.exe", "type": "Game" }
