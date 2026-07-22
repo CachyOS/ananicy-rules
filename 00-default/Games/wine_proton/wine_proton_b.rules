@@ -879,6 +879,43 @@
 # Blade Symphony https://store.steampowered.com/app/225600/Blade_Symphony/
 { "name": "berimbau.exe", "type": "Game" }
 
+# Bakery Cafe Simulator https://store.steampowered.com/app/3444080/Bakery_Cafe_Simulator/
+{ "name": "SimulatorGame.exe", "type": "BG_CPUIO" }
+{ "name": "SimulatorGame-Win64-Shipping.exe", "type": "Game" }
+
+# Battlezone 98 Redux https://store.steampowered.com/app/301650/Battlezone_98_Redux/
+{ "name": "BZLauncher.exe", "type": "BG_CPUIO" }
+{ "name": "battlezone98redux.exe", "type": "Game" }
+
+# Beam Eye Tracker Demo https://store.steampowered.com/app/2582050/
+{ "name": "BeamEyeTracker.exe", "type": "Game" }
+
+# Behind the Frame: The Finest Scenery https://store.steampowered.com/app/1634150/Behind_the_Frame_The_Finest_Scenery/
+{ "name": "Behind the Frame.exe", "type": "Game" }
+
+# Beyond Hanwell https://store.steampowered.com/app/2565550/Beyond_Hanwell/
+{ "name": "BeyondHanwell.exe", "type": "BG_CPUIO" }
+{ "name": "BeyondHanwell-Win64-Shipping.exe", "type": "Game" }
+
+# BlazBlue: Continuum Shift Extend https://store.steampowered.com/app/294810/BlazBlue_Continuum_Shift_Extend/
+{ "name": "BBCSE.exe", "type": "Game" }
+
+# Blightstone https://store.steampowered.com/app/2832280/Blightstone/
+{ "name": "Blightstone.exe", "type": "Game" }
+
+# Blood Typers https://store.steampowered.com/app/2790330/Blood_Typers/
+{ "name": "Blood Typers.exe", "type": "Game" }
+
+# Brewmaster: Beer Brewing Simulator https://store.steampowered.com/app/1569200/Brewmaster_Beer_Brewing_Simulator/
+{ "name": "BrewmasterMain.exe", "type": "BG_CPUIO" }
+{ "name": "BrewmasterMain-Win64-Shipping.exe", "type": "Game" }
+
+# Bullet Girls Phantasia https://store.steampowered.com/app/1163590/Bullet_Girls_Phantasia/
+{ "name": "game.exe", "type": "Game" }
+
+# ButtKnight https://store.steampowered.com/app/2772820/
+{ "name": "ButtKnight.exe", "type": "Game" }
+
 # Blair Witch https://store.steampowered.com/app/1092660/
 { "name": "Blairwitch.exe", "type": "BG_CPUIO" }
 { "name": "Blairwitch-Win64-Shipping-Win7.exe", "type": "Game" }

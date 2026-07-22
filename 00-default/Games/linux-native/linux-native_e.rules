@@ -20,6 +20,14 @@
 # ECWolf : an advanced source port for Wolfenstein 3D http://maniacsvault.net/ecwolf/
 { "name": "ecwolf", "type": "Game" }
 
+# Epistory - Typing Chronicles https://store.steampowered.com/app/398850/Epistory__Typing_Chronicles/
+{ "name": "Epistory.x86", "type": "Game" }
+{ "name": "Epistory.x86_64", "type": "Game" }
+
+# Everything https://store.steampowered.com/app/582270/Everything/
+{ "name": "Everything.x86", "type": "Game" }
+{ "name": "Everything.x86_64", "type": "Game" }
+
 # EDGE https://store.steampowered.com/app/38740/EDGE/
 { "name": "EDGE.bin.x86", "type": "Game" }
 

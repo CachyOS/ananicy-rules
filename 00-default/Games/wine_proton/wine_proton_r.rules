@@ -40,6 +40,20 @@
 # Race The Sun https://store.steampowered.com/app/253030/Race_The_Sun/
 { "name": "RaceTheSun.exe", "type": "Game" }
 
+# Ragnarock https://store.steampowered.com/app/1345820/Ragnarock/
+{ "name": "Ragnarock.exe", "type": "BG_CPUIO" }
+{ "name": "Ragnarock-Win64-Shipping.exe", "type": "Game" }
+
+# Red Flag https://store.steampowered.com/app/4601770/RED_FLAG/
+{ "name": "RedFlag.exe", "type": "BG_CPUIO" }
+{ "name": "RedFlag-Win64-Shipping.exe", "type": "Game" }
+
+# Rock Bottom https://store.steampowered.com/app/4297840/Rock_Bottom/
+{ "name": "RockBottom.exe", "type": "Game" }
+
+# Röki https://store.steampowered.com/app/1067540/Rki/
+{ "name": "Röki.exe", "type": "Game" }
+
 # RAD https://store.steampowered.com/app/722560/RAD/
 { "name": "Mutant.exe", "type": "Game" }
 { "name": "RAD.exe", "type": "Game" }

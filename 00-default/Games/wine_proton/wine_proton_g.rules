@@ -71,6 +71,39 @@
 { "name": "GamingCafeSimulator.exe", "type": "BG_CPUIO" }
 { "name": "GamingCafeSimulator-Win64-Shipping.exe", "type": "Game" }
 
+# Gal*Gun 2 https://store.steampowered.com/app/851890/GalGun_2/
+{ "name": "GalGun2.exe", "type": "BG_CPUIO" }
+{ "name": "GalGun2-Win64-Shipping.exe", "type": "Game" }
+
+# Gas Station Simulator: Prologue - Early Days https://store.steampowered.com/app/1528080/Gas_Station_Simulator_Prologue__Early_Days/
+{ "name": "GSS2.exe", "type": "BG_CPUIO" }
+{ "name": "GSS2-Win64-Shipping.exe", "type": "Game" }
+
+# Geometry Wars 3: Dimensions Evolved https://store.steampowered.com/app/310790/Geometry_Wars_3_Dimensions_Evolved/
+{ "name": "GW3.exe", "type": "Game" }
+
+# Goblin Attack https://store.steampowered.com/app/4502210/Goblin_Attack/
+{ "name": "Goblin Attack-Idle Game.exe", "type": "Game" }
+
+# Go-Go Town! Demo https://store.steampowered.com/app/2445480/
+{ "name": "GGT.exe", "type": "Game" }
+
+# Gone In November https://store.steampowered.com/app/507390/Gone_In_November/
+{ "name": "November.exe", "type": "Game" }
+
+# GORN https://store.steampowered.com/app/578620/GORN/
+{ "name": "GORN.exe", "type": "Game" }
+
+# Greed of Man https://store.steampowered.com/app/2336720/Greed_of_Man/
+{ "name": "RPGame.exe", "type": "BG_CPUIO" }
+{ "name": "RPGame-Win64-Shipping.exe", "type": "Game" }
+
+# Grimm's Hollow https://store.steampowered.com/app/1170880/Grimms_Hollow/
+{ "name": "RPG_RT.exe", "type": "Game" }
+
+# GTTOD https://store.steampowered.com/app/541200/GTTOD/
+{ "name": "Get To The Orange Door.exe", "type": "Game" }
+
 # Gang Beasts https://store.steampowered.com/app/285900/Gang_Beasts/
 { "name": "Gang Beasts.exe", "type": "Game" }
 

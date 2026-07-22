@@ -33,6 +33,10 @@
 # Old World https://store.steampowered.com/app/597180/Old_World/
 { "name": "OldWorld", "type": "Game" }
 
+# Overload https://store.steampowered.com/app/448850/Overload/
+{ "name": "Overload.x86", "type": "Game" }
+{ "name": "Overload.x86_64", "type": "Game" }
+
 # OMON Simulator https://store.steampowered.com/app/1140440/OMON_Simulator/
 { "name": "OMON_Simulator.x86_64", "type": "Game" }
 
