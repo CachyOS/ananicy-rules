@@ -1,2 +1,4 @@
 # ClamAV Daemon
 { "name": "clamd", "type": "BG_CPUIO" }
+# ClamUI
+{ "name": "clamui", "type": "Service" }

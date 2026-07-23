@@ -1,4 +1,4 @@
 #gpu-screen-recorder: https://git.dec05eba.com/gpu-screen-recorder/about/
-{ name: "gpu-screen-recorder", type: "LowLatency_RT" } 
-{ name: "gsr-ui", type: "IN_DIFF" }
-{ name: "gsr-game-tracker", type: "BG_CPUIO" }
+{ "name": "gpu-screen-recorder", "type": "LowLatency_RT" } 
+{ "name": "gsr-ui", "type": "IN_DIFF" }
+{ "name": "gsr-game-tracker", "type": "BG_CPUIO" }
