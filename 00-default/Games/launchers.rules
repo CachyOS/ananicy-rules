@@ -63,7 +63,6 @@
 # Modrinth App for launching minecraft (https://github.com/modrinth/code)
 { "name": "modrinth-app", "type": "Launcher" }
 { "name": "modrinth-app-wrapped", "type": "Launcher" }
-{ "name": "java", "cmdlines": ["com.modrinth.theseus.MinecraftLaunch"], "type": "Game" }
 
 # Fjord Launcher https://github.com/unmojang/FjordLauncher
 { "name": "fjordlauncher", "type": "Game" }
