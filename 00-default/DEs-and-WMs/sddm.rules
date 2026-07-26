@@ -1,3 +1,2 @@
 # SDDM is a modern display manager for X11 and Wayland
-{ "name": "sddm", "type": "BG_CPUIO" }
-{ "name": "sddm-helper", "type": "BG_CPUIO" }
+# Disabled to fix desktop hang
