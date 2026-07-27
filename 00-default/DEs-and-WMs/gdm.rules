@@ -2,9 +2,9 @@
 { "name": "gdm3", "type": "BG_CPUIO" }
 { "name": "gdm", "type": "BG_CPUIO" }
 { "name": "gdm-wayland-session", "type": "BG_CPUIO" }
-{ "name": "gdm-session-worker", "type": "BG_CPUIO" }
+{ "name": "gdm-session-worker", "type": "Launcher" }
 
 # gnome shell
 { "name": "gnome-shell","type": "LowLatency_RT"}
-{ "name": "gnome-session-binary","type": "BG_CPUIO"}
+{ "name": "gnome-session-binary","type": "Launcher"}
 { "name": "gnome-session-ctl","type": "BG_CPUIO"}

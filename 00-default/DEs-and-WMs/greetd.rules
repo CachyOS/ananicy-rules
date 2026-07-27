@@ -1,10 +1,10 @@
 # greetd itself
-{ "name": "greetd", "type": "BG_CPUIO" }
+{ "name": "greetd", "type": "Launcher" }
 
 # various greetd-based greeters
-{ "name": "tuigreet", "type": "BG_CPUIO" }
-{ "name": "regreet", "type": "BG_CPUIO" }
-{ "name": "nwg-hello", "type": "BG_CPUIO" }
+{ "name": "tuigreet", "type": "Launcher" }
+{ "name": "regreet", "type": "Launcher" }
+{ "name": "nwg-hello", "type": "Launcher" }
 { "name": "wlgreet", "type": "BG_CPUIO" }
 { "name": "gtkgreet", "type": "BG_CPUIO" }
 { "name": "qtgreet", "type": "BG_CPUIO" }
