@@ -79,3 +79,8 @@
 # Mullvad - https://mullvad.net/en/browser
 { "name": "mullvadbrowser.real", "type": "Doc-View" }
 
+# Yandex Browser - https://browser.yandex.ru/
+{ "name": "yandex_browser", "type": "Doc-View" }
+{ "name": "yandex-browser", "type": "Doc-View" }
+{ "name": "yandex-browser-stable", "type": "Doc-View" }
+{ "name": "yandex-browser-beta", "type": "Doc-View" }
