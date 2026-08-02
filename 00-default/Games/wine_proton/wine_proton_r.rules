@@ -64,6 +64,10 @@
 # Raging Loop https://store.steampowered.com/app/648100/Raging_Loop/
 { "name": "ragingloop.exe", "type": "Game" }
 
+# Ragnarock https://store.steampowered.com/app/1345820/Ragnarock/
+{ "name": "Ragnarock.exe", "type": "BG_CPUIO" }
+{ "name": "Ragnarock-Win64-Shipping.exe", "type": "Game" }
+
 # Ragnarok Clicker https://steamdb.info/app/493370/
 { "name": "Ragnarok Clicker.exe", "type": "Game" }
 
@@ -344,6 +348,10 @@
 
 # Redfall https://store.steampowered.com/app/1294810/Redfall/
 { "name": "Redfall.exe", "type": "Game" }
+
+# Red Flag https://store.steampowered.com/app/4601770/RED_FLAG/
+{ "name": "RedFlag.exe", "type": "BG_CPUIO" }
+{ "name": "RedFlag-Win64-Shipping.exe", "type": "Game" }
 
 # Redmatch 2 https://store.steampowered.com/app/1280770/Redmatch_2/
 { "name": "Redmatch 2.exe", "type": "Game" }
@@ -950,6 +958,9 @@
 # Rochard https://store.steampowered.com/app/107800/Rochard/
 { "name": "Rochard.exe", "type": "Game" }
 
+# Rock Bottom https://store.steampowered.com/app/4297840/Rock_Bottom/
+{ "name": "RockBottom.exe", "type": "Game" }
+
 # Rocket Boots Mania https://store.steampowered.com/app/942200/Rocket_Boots_Mania/
 { "name": "Rocket Boots Mania.exe", "type": "Game" }
 
@@ -1055,6 +1066,9 @@
 # Rogue Waters https://store.steampowered.com/app/1691190/Rogue_Waters/
 { "name": "Odysseus.exe", "type": "Game" }
 { "name": "RogueWaters.exe", "type": "Game" }
+
+# Röki https://store.steampowered.com/app/1067540/Rki/
+{ "name": "Röki.exe", "type": "Game" }
 
 # RollerCoaster Tycoon 2: Triple Thrill Pack https://store.steampowered.com/app/285330/RollerCoaster_Tycoon_2_Triple_Thrill_Pack/
 { "name": "RCT2.EXE", "type": "Game" }

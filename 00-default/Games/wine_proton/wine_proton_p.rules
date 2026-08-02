@@ -30,6 +30,9 @@
 # PAC-MAN WORLD Re-PAC https://store.steampowered.com/app/1859470/PACMAN_WORLD_RePAC/
 { "name": "PAC-MAN WORLD Re-PAC.exe", "type": "Game" }
 
+# Pacremental https://store.steampowered.com/app/4599460/Pacremental/
+{ "name": "Pacremental.exe", "type": "Game" }
+
 # Paddle Paddle Paddle https://store.steampowered.com/app/3570070/Paddle_Paddle_Paddle/
 { "name": "Paddle Paddle Paddle.exe", "type": "Game" }
 
@@ -230,6 +233,9 @@
 # Partisans 1941 https://store.steampowered.com/app/1227530/Partisans_1941/
 { "name": "Partisans.exe", "type": "Game" }
 
+# Part-Time Witch https://store.steampowered.com/app/3108980/
+{ "name": "PartTimeWitch.exe", "type": "Game" }
+
 # Party Animals https://store.steampowered.com/app/1260320/Party_Animals/
 { "name": "PartyAnimals.exe", "type": "Game" }
 
@@ -242,6 +248,9 @@
 # Party Hard 2  https://store.steampowered.com/app/572430/Party_Hard_2/
 { "name": "PartyHard2Game.exe", "type": "Game" }
 { "name": "ph2.exe", "type": "Game" }
+
+# Party Panic https://store.steampowered.com/app/506500/Party_Panic/
+{ "name": "PartyPanic.exe", "type": "Game" }
 
 # Party Quiz https://store.steampowered.com/app/2024070/Party_Quiz/
 { "name": "Party Quiz.exe", "type": "Game" }
@@ -282,8 +291,9 @@
 # Path of ldle: old Gods Rising Demo https://store.steampowered.com/app/4256290/Path_of_Idle_Old_Gods_Rising/
 { "name": "PathOfIdle.exe", "type": "Game" }
 
-# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
-{ "name": "pathogenic.exe", "type": "Game" }
+# Pathogenesis: Overcome https://store.steampowered.com/app/1067320/Pathogenesis_Overcome/
+{ "name": "Pathogenesis.exe", "type": "BG_CPUIO" }
+{ "name": "Pathogenesis-Win64-Shipping.exe", "type": "Game" }
 
 # Pathologic 2 https://store.steampowered.com/app/505230/Pathologic_2/
 { "name": "Pathologic.exe", "type": "Game" }
@@ -305,6 +315,9 @@
 
 # Patron https://store.steampowered.com/app/1538570/Patron/
 { "name": "Patron.exe", "type": "Game" }
+
+# Paunch https://store.steampowered.com/app/792220/Paunch/
+{ "name": "Paunch.exe", "type": "Game" }
 
 # Pavlov https://store.steampowered.com/app/555160/Pavlov/
 { "name": "Pavlov.exe", "type": "BG_CPUIO" }
@@ -742,6 +755,9 @@
 # Planetbase https://store.steampowered.com/app/403190/Planetbase/
 { "name": "Planetbase.exe", "type": "Game" }
 
+# Planet Centauri https://store.steampowered.com/app/385380/Planet_Centauri/
+{ "name": "PlanetCentauri.exe", "type": "Game" }
+
 # Planet Coaster https://store.steampowered.com/app/493340/Planet_Coaster/
 { "name": "PlanetCoaster.exe", "type": "Game" }
 
@@ -818,6 +834,11 @@
 
 # Playing History - The Plague https://store.steampowered.com/app/395920/Playing_History__The_Plague/
 { "name": "PH1Plague.exe", "type": "Game" }
+
+# PLAYNE https://store.steampowered.com/app/865540/PLAYNE__The_Meditation_Game/
+{ "name": "PLAYNE.exe", "type": "BG_CPUIO" }
+{ "name": "Playne.exe", "type": "BG_CPUIO" }
+{ "name": "Playne-Win64-Shipping.exe", "type": "Game" }
 
 # PlayStation VR2 App https://store.steampowered.com/app/2580190/PlayStationVR2_App/
 { "name": "PlayStationVR2App.exe", "type": "BG_CPUIO" }
@@ -1119,6 +1140,9 @@
 # Priestess Lust https://store.steampowered.com/app/2073030/
 { "name": "Priestess Lust.exe", "type": "Game" }
 
+# Primal Planet https://store.steampowered.com/app/2350270/Primal_Planet/
+{ "name": "primalplanet.exe", "type": "Game" }
+
 # Prime Monster https://store.steampowered.com/app/3214480/Prime_Monster/
 { "name": "PrimeMonster.exe", "type": "Game" }
 
@@ -1168,6 +1192,10 @@
 
 # Prince of Suburbia - Part 1 https://store.steampowered.com/app/1896170/
 { "name": "PrinceOfSuburbiaRewrite.exe", "type": "Game" }
+
+# Princess&Blade https://store.steampowered.com/app/1639430/PrincessBlade/
+{ "name": "WSgames.exe", "type": "BG_CPUIO" }
+{ "name": "WSgames-Win64-Shipping.exe", "type": "Game" }
 
 # Princess Maker 2 Refine https://store.steampowered.com/app/523000/Princess_Maker_2_Refine/
 { "name": "pm2.exe", "type": "Game" }
@@ -1235,6 +1263,10 @@
 # Professional Lumberjack 2015 https://store.steampowered.com/app/316240/Professional_Lumberjack_2015/
 { "name": "WoodCutter2015.exe", "type": "Game" }
 
+# Professional Ship Simulator Demo https://store.steampowered.com/app/3971210/
+{ "name": "NauticXP-Win64-Shipping.exe", "type": "Game" }
+{ "name": "NauticXP.exe", "type": "BG_CPUIO" }
+
 # Professor Simulator Demo  https://store.steampowered.com/app/4066760/
 { "name": "ProfessorSimulatorDemo.exe", "type": "Game" }
 
@@ -1271,6 +1303,10 @@
 
 # Project: Gorgon https://store.steampowered.com/app/342940/Project_Gorgon/
 { "name": "WindowsPlayer.exe", "type": "Game" }
+
+# Project Gunship https://store.steampowered.com/app/1968340/Project_Gunship/
+{ "name": "CS_AC130.exe", "type": "BG_CPUIO" }
+{ "name": "CS_AC130-Win64-Shipping.exe", "type": "Game" }
 
 # Project Hospital https://store.steampowered.com/app/868360/Project_Hospital/
 { "name": "ProjectHospital.exe", "type": "Game" }

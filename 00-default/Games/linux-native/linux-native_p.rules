@@ -61,15 +61,16 @@
 # Party Hard https://store.steampowered.com/app/356570/Party_Hard/
 { "name": "PartyHardGame.x86_64", "type": "Game" }
 
+# Party Panic https://store.steampowered.com/app/506500/Party_Panic/
+{ "name": "PartyPanic.x86", "type": "Game" }
+{ "name": "PartyPanic.x86_64", "type": "Game" }
+
 # Party Quiz https://store.steampowered.com/app/2024070/Party_Quiz/
 { "name": "Party Quiz.x86_64", "type": "Game" }
 
 # Passpartout: The Starving Artist https://store.steampowered.com/app/582550/Passpartout_The_Starving_Artist/
 { "name": "Passpartout.x86", "type": "Game" }
 { "name": "Passpartout.x86_64", "type": "Game" }
-
-# Pathogenic Demo https://store.steampowered.com/app/4029380/Pathogenic_Demo/
-{ "name": "pathogenic.x86_64", "type": "Game" }
 
 # Patrick's Parabox https://store.steampowered.com/app/1260520/Patricks_Parabox/
 { "name": "Patrick's Parabox.x86_64", "type": "Game" }
@@ -158,6 +159,9 @@
 
 # Planescape: Torment: Enhanced Edition https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/
 { "name": "Torment", "type": "Game" }
+
+# Planet Centauri https://store.steampowered.com/app/385380/Planet_Centauri/
+{ "name": "PlanetCentauri", "type": "Game" }
 
 # Planet Explorers https://store.steampowered.com/app/237870/Planet_Explorers/
 { "name": "PE_Launcher", "type": "Game" }

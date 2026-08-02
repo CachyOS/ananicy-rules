@@ -104,6 +104,10 @@
 { "name": "Overgrowth.bin.x86", "type": "Game" }
 { "name": "Overgrowth.bin.x86_64", "type": "Game" }
 
+# Overload https://store.steampowered.com/app/448850/Overload/
+{ "name": "Overload.x86", "type": "Game" }
+{ "name": "Overload.x86_64", "type": "Game" }
+
 # Overlord II https://store.steampowered.com/app/12810/Overlord_II/
 { "name": "overlord2", "type": "Game" }
 
