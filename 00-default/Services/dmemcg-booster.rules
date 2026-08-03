@@ -1,0 +1,6 @@
+{ "name": "dmemcg-booster", "type": "Service" }
+
+# KDE Booster
+{ "name": "foreground_booster", "type": "Service" }
+# Niri Booster
+{ "name": "niri-focused-booster", "type": "Service" }
