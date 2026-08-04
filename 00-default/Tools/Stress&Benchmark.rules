@@ -1,11 +1,11 @@
-# S-Tui https://github.com/amanusk/s-tui
-{ "name": "s-tui", "type": "Game" }
-
 # GeekBench https://www.geekbench.com/
 { "name": "geekbench_avx2", "type": "Game" }
 { "name": "geekbench_x86_64", "type": "Game" }
 { "name": "geekbench7", "type": "BG_CPUIO" }
 { "name": "geekbench6", "type": "BG_CPUIO" }
+
+# S-Tui https://github.com/amanusk/s-tui
+{ "name": "s-tui", "type": "Game" }
 
 # Unigine Benchmarks https://benchmark.unigine.com/
 # Superposition
