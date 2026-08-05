@@ -377,6 +377,9 @@
 # Conan Exiles - Public Beta Client https://store.steampowered.com/app/931180/
 { "name": "ConanSandbox_BE.exe", "type": "Game" }
 
+# Living With Sister: Monochrome Fantasy https://www.gog.com/en/game/living_with_sister_monochrome_fantasy
+{ "name": "Config.exe", "type": "Game" }
+
 # Contraband Police https://store.steampowered.com/app/756800/Contraband_Police/
 # Contraband Police: Prologue https://store.steampowered.com/app/1396240/Contraband_Police_Prologue/
 { "name": "ContrabandPolice.exe", "type": "Game"}
@@ -752,6 +755,9 @@
 # COMBAT ARMS: THE CLASSIC https://steamdb.info/app/1263550/
 # CombatArms: Reloaded https://store.steampowered.com/app/905640/Combat_Arms_Reloaded/
 { "name": "Engine.exe", "type": "Game" }
+
+# Shoujo Ramune https://archive.org/details/ShoujoRamune
+{ "name": "EnvSetting.exe", "type": "Game" }
 
 # Divinity: Original Sin - Enhanced Edition https://store.steampowered.com/app/373420/Divinity_Original_Sin__Enhanced_Edition/
 # Divinity: Original Sin 2 https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/
@@ -1631,6 +1637,7 @@
 # Dynast.io https://store.steampowered.com/app/792200/Dynastio/
 { "name": "launcher.exe", "type": "Game" }
 
+# Shoujo Ramune https://archive.org/details/ShoujoRamune
 # Sonic Adventure 2 Sonic & All-Stars Racing
 # Eador. Masters of the Broken World https://store.steampowered.com/app/232050/Eador_Masters_of_the_Broken_World/
 # Amnesia: A Machine for Pigs https://store.steampowered.com/app/239200/Amnesia_A_Machine_for_Pigs/
