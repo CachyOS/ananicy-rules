@@ -9,10 +9,10 @@
 
 { "name": "pressure-vessel-wrap", "type": "LowLatency_RT" }
 
-{ "name": "i386-gnu-inspect-library", "type": "LowLatency_RT" }
+{ "name": "i386-gnu-inspect-lib", "type": "LowLatency_RT" }
 
-{ "name": "x86_64-gnu-inspect-library", "type": "LowLatency_RT" }
+{ "name": "x86_64-gnu-inspect-l", "type": "LowLatency_RT" }
 
-{ "name": "i386-linux-gnu-srt-launcher-service", "type": "LowLatency_RT" }
+{ "name": "i386-linux-gnu-srt-l", "type": "LowLatency_RT" }
 
-{ "name": "x86_64-linux-gnu-srt-launcher-service", "type": "LowLatency_RT" }
+{ "name": "x86_64-linux-gnu-srt", "type": "LowLatency_RT" }
