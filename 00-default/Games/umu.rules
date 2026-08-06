@@ -3,8 +3,16 @@
 # They are REALLY both CPU and IO heavy, so must not lag
 # https://github.com/Open-Wine-Components/umu-launcher
 
-#{ "name": "To-Be-Replaced-1", "type": "LowLatency_RT" }
+{ "name": "pv-adverb", "type": "LowLatency_RT" }
 
-#{ "name": "To-Be-Replaced-2", "type": "LowLatency_RT" }
+{ "name": "ldconfig", "type": "LowLatency_RT" }
 
-#{ "name": "To-Be-Replaced-3", "type": "LowLatency_RT" }
+{ "name": "pressure-vessel-wrap", "type": "LowLatency_RT" }
+
+{ "name": "i386-gnu-inspect-library", "type": "LowLatency_RT" }
+
+{ "name": "x86_64-gnu-inspect-library", "type": "LowLatency_RT" }
+
+{ "name": "i386-linux-gnu-srt-launcher-service", "type": "LowLatency_RT" }
+
+{ "name": "x86_64-linux-gnu-srt-launcher-service", "type": "LowLatency_RT" }
