@@ -1,0 +1,10 @@
+# Reschedule UMU components for better performance and quick launch times
+# Most of those go away after opening the game, they are needed for launching the container
+# They are REALLY both CPU and IO heavy, so must not lag
+# https://github.com/Open-Wine-Components/umu-launcher
+
+#{ "name": "To-Be-Replaced-1", "type": "LowLatency_RT" }
+
+#{ "name": "To-Be-Replaced-2", "type": "LowLatency_RT" }
+
+#{ "name": "To-Be-Replaced-3", "type": "LowLatency_RT" }
