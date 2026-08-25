@@ -51,6 +51,8 @@ Duplicate entries can be detected with this command: ```grep -rhoP --include='*.
 
 Games can be sorted with sort-games.sh, for more information run this in terminal ```./sort-games.sh --help```
 
+Rules can be linted against JSONSchema with `lint.py` script. It reqires `python-fastjsonschema` to be installed, then it can be run with `python lint.py`. No output means everything is fine.
+
 ### <u>You can also contribute by opening an [issue](https://github.com/CachyOS/ananicy-rules/issues) and providing information about the application </u>
 **Make sure the app is not already in the repository before opening an issue.**
 ## How to find out proper process name?
