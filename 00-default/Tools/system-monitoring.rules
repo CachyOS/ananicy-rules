@@ -13,3 +13,26 @@
 # https://gitlab.com/mission-center-devs/mission-center
 { "name": "missioncenter", "type": "Doc-View" }
 { "name": "missioncenter-gatherer", "type": "Doc-View" }
+
+{ "name": "top", "type": "Doc-View" }
+{ "name": "qtop", "type": "Doc-View" }
+{ "name": "itop", "type": "Doc-View" }
+{ "name": "iotop", "type": "Doc-View" }
+
+# https://people.redhat.com/~rjones/virt-top/
+{ "name": "virt-top", "type": "Doc-View" }
+
+# https://github.com/clbr/radeontop
+{ "name": "radeontop", "type": "Doc-View" }
+
+#  https://github.com/yadutaf/ctop
+{ "name": "ctop", "type": "Doc-View" }
+
+# https://www.ex-parrot.com/pdw/iftop/
+{ "name": "iftop", "type": "Doc-View" }
+
+# https://01.org/powertop/
+{ "name": "powertop", "type": "Doc-View" }
+
+# http://nmon.sourceforge.net/
+{ "name": "nmon", "type": "Doc-View" }

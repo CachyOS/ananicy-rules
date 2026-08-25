@@ -1,0 +1,7 @@
+# https://fwupd.org/
+{ "name": "dbxtool", "type": "BG_CPUIO" }
+{ "name": "fwupdmgr", "type": "BG_CPUIO" }
+{ "name": "fwupdtool", "type": "BG_CPUIO" }
+{ "name": "fwupd", "type": "BG_CPUIO" }
+{ "name": "fwupd-detect-cet", "type": "BG_CPUIO" }
+{ "name": "fwupdoffline", "type": "BG_CPUIO" }

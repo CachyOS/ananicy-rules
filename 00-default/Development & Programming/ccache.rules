@@ -1,0 +1,3 @@
+# https://ccache.dev/
+{ "name": "ccache", "type": "BG_CPUIO" }
+{ "name": "update-ccache-symlinks", "type": "BG_CPUIO" }

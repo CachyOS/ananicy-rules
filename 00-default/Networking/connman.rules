@@ -1,0 +1,3 @@
+# https://git.kernel.org/pub/scm/network/connman/connman.git
+{ "name": "connmand", "type": "LowLatency_RT", "ionice": 1  }
+{ "name": "connman-vpnd", "type": "LowLatency_RT", "ionice": 1 }

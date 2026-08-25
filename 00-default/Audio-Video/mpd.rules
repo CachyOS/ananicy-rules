@@ -2,3 +2,4 @@
 { "name": "mpd", "type": "Player-Audio" }
 
 { "name": "mpd-mpris", "type": "Service" }
+{ "name": "mpDris2", "type": "Service" }

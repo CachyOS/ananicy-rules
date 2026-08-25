@@ -1,0 +1,6 @@
+# https://docker.io
+{ "name": "docker", "type": "Service" }
+{ "name": "dnet", "type": "Service" }
+{ "name": "docket-init", "type": "Service" }
+{ "name": "docker-proxy", "type": "Service" }
+{ "name": "dockerd", "type": "Service" }

@@ -1,0 +1,27 @@
+# https://e2fsprogs.sourceforge.net/
+{ "name": "badblocks", "type": "BG_CPUIO" }
+{ "name": "debugfs", "type": "BG_CPUIO" }
+{ "name": "dumpe2fs", "type": "BG_CPUIO" }
+{ "name": "e2fsck", "type": "BG_CPUIO" }
+{ "name": "e2image", "type": "BG_CPUIO" }
+{ "name": "e2label", "type": "BG_CPUIO" }
+{ "name": "e2mmpstatus", "type": "BG_CPUIO" }
+{ "name": "e2scrub", "type": "BG_CPUIO" }
+{ "name": "e2scrub_all", "type": "BG_CPUIO" }
+{ "name": "e2undo", "type": "BG_CPUIO" }
+{ "name": "fsck.ext2", "type": "BG_CPUIO" }
+{ "name": "fsck.ext3", "type": "BG_CPUIO" }
+{ "name": "fsck.ext4", "type": "BG_CPUIO" }
+{ "name": "mke2fs", "type": "BG_CPUIO" }
+{ "name": "mkfs.ext2", "type": "BG_CPUIO" }
+{ "name": "mkfs.ext3", "type": "BG_CPUIO" }
+{ "name": "mkfs.ext4", "type": "BG_CPUIO" }
+{ "name": "resize2fs", "type": "BG_CPUIO" }
+{ "name": "tune2fs", "type": "BG_CPUIO" }
+{ "name": "chattr", "type": "BG_CPUIO" }
+{ "name": "lsattr", "type": "BG_CPUIO" }
+{ "name": "e2scrub_all_cron", "type": "BG_CPUIO" }
+{ "name": "e2scrub_fail", "type": "BG_CPUIO" }
+{ "name": "e2freefrag", "type": "BG_CPUIO" }
+{ "name": "e4defrag", "type": "BG_CPUIO" }
+{ "name": "mklost+found", "type": "BG_CPUIO" }

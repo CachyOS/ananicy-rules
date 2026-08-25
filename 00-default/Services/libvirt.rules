@@ -1,0 +1,5 @@
+# https://www.libvirt.org
+{ "name": "libvirtd", "type": "Service" }
+{ "name": "virtlogd", "type": "Service" }
+{ "name": "virtlockd", "type": "Service" }
+{ "name": "virt-ssh-helper", "type": "Service" }
