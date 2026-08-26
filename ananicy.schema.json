@@ -1,14 +1,10 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Ananicy Rule",
-  "description": "Schema for Ananicy rule files.",
+  "title": "Ananicy Type",
+  "description": "Schema for Ananicy type files.",
   "type": "object",
   "additionalProperties": false,
   "properties": {
-    "name": {
-      "type": "string",
-      "description": "Name of the process"
-    },
     "nice": {
       "type": "integer",
       "minimum": -20,

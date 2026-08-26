@@ -2,41 +2,66 @@ import fileinput
 import json
 from pathlib import Path
 import fastjsonschema
+import sys
+
+types = set()
+names = dict()
+errors = list()
 
 def iterate_files(files, validator):
     with fileinput.input(files=files, encoding="utf-8") as f:
         for ln, line in enumerate(f):
-            result = validate_line(line, validator)
-            if result is not True:
-                print("Error in file {filename} on line {ln}"
-                    .format(ln=ln, filename=f.filename()))
-                print("Line: %s" % line)
-                print("Error: %s" % result)
+            try:
+                validate_line(line, validator, f.filename())
+            except ValueError as e:
+                errors.append({
+                    'filename': f.filename(),
+                    'ln': ln,
+                    'line': line.rstrip(),
+                    'message': e
+                })
 
-
-def validate_line(line, validator):
+def validate_line(line, validator, filename):
     if line.startswith('#') or line.strip() == "":
         return True
     try:
         record = json.loads(line)
         validator(record)
+        if filename.suffix == '.types':
+            types.add(record['type'])
+        elif filename.suffix == '.rules':
+            if 'type' in record and record['type'] not in types:
+                raise ValueError(f'Invalid type: {record['type']}')
+            if 'name' in record and record['name'] in names:
+                raise ValueError(f'Duplicate name: {record['name']}, present also in {names[record['name']]}')
+            names[record['name']] = filename
     except json.JSONDecodeError as e:
-        return f'Invalid JSON: {e.msg}'
+        raise ValueError(f'Invalid JSON: {e.msg}')
     except fastjsonschema.JsonSchemaException as e:
-        return e.message
+        raise ValueError(e.message)
     return True
 
-with open('ananicy-cgroups.schema.json', 'r') as cgroups_schema_file:
-    cgroups_schema = json.load(cgroups_schema_file)
-    cgroups_validator = fastjsonschema.compile(cgroups_schema)
-    exts = [".cgroups"]
-    files = list([p for p in Path('.').rglob('*') if p.suffix in exts])
-    iterate_files(files, cgroups_validator)
+def validate_with_schema(schema_file, glob):
+    with Path(schema_file).resolve().open('r', encoding="utf-8") as f:
+        schema = json.load(f)
+        if glob == "*.rules":
+            schema['required'] = ["name"]
+            schema["properties"]["name"] = {
+                "type": "string",
+                "description": "Name of the process"
+            }
+        validator = fastjsonschema.compile(schema)
+        files = list(Path('.').rglob(glob))
+        iterate_files(files, validator)
 
-with open('ananicy.schema.json', 'r') as rule_schema_file:
-    rule_schema = json.load(rule_schema_file)
-    rule_validator = fastjsonschema.compile(rule_schema)
-    exts = [".rules", ".types"]
-    files = list([p for p in Path('.').rglob('*') if p.suffix in exts])
-    iterate_files(files, rule_validator)
+validate_with_schema('ananicy-cgroups.schema.json', '*.cgroups')
+validate_with_schema('ananicy.schema.json', '*.types')
+validate_with_schema('ananicy.schema.json', '*.rules')
 
+if len(errors) > 0:
+    for error in errors:
+        print(f"""Error in file {error['filename']} on line {error['ln']}
+Line: {error['line']}
+{error['message']}
+""")
+    sys.exit(1)
