@@ -2,3 +2,4 @@
 { "name": "update-grub", "type": "BG_CPUIO" }
 { "name": "update-grub2", "type": "BG_CPUIO" }
 { "name": "grub-install", "type": "BG_CPUIO" }
+{ "name": "grub-mkconfig", "type": "BG_CPUIO" }

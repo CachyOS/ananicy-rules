@@ -19,3 +19,6 @@
 
 # https://theunarchiver.com/command-line
 { "name": "unar", "type": "BG_CPUIO" }
+
+# https://www.rarlab.com/rar_add.htm
+{ "name": "unrar", "type": "BG_CPUIO" }
