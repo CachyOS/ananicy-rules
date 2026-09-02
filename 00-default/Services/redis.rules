@@ -1,0 +1,4 @@
+# https://redis.io
+{ "name": "redis-server", "type": "Service" }
+# https://valkey.io
+{ "name": "valkey-server", "type": "Service" }

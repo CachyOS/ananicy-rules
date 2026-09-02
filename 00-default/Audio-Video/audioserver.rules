@@ -2,3 +2,4 @@
 { "name": "pipewire-pulse", "type": "LowLatency_RT" }
 { "name": "wireplumber", "type": "LowLatency_RT" }
 { "name": "pulseaudio", "type": "LowLatency_RT" }
+{ "name": "pw-jack", "type": "LowLatency_RT" }

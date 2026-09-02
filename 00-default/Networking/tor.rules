@@ -1,2 +1,4 @@
 # tor: https://www.torproject.org/
 { "name": "tor", "type": "Service" }
+# https://gitlab.com/yawning/obfs4
+{ "name": "obfs4proxy", "type": "Service" }

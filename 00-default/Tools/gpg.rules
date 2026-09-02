@@ -1,0 +1,13 @@
+{ "name": "gpg-agent", "type": "Service" }
+{ "name": "dirmngr", "type": "Service" }
+{ "name": "gpg-wks-server", "type": "Service" }
+{ "name": "gpg", "type": "BG_CPUIO" }
+{ "name": "gpg2", "type": "BG_CPUIO" }
+{ "name": "gpgcompose", "type": "BG_CPUIO" }
+{ "name": "gpg-dearmor", "type": "BG_CPUIO" }
+{ "name": "gpgparsemail", "type": "BG_CPUIO" }
+{ "name": "gpgsm", "type": "BG_CPUIO" }
+{ "name": "gpgsplit", "type": "BG_CPUIO" }
+{ "name": "gpgtar", "type": "BG_CPUIO" }
+{ "name": "gpgv", "type": "BG_CPUIO" }
+{ "name": "gpg-zip", "type": "BG_CPUIO" }
