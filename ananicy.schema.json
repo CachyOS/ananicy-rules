@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ananicy Type",
+  "description": "Schema for Ananicy type files.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "nice": {
+      "type": "integer",
+      "minimum": -20,
+      "maximum": 19,
+      "description": "nice level"
+    },
+    "latency_nice": {
+      "type": "integer",
+      "minimum": -20,
+      "maximum": 19,
+      "description": "latency_nice level"
+    },
+    "ionice": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 7,
+      "description": "ionice level"
+    },
+    "sched": {
+      "type": "string",
+      "description": "Scheduling policy",
+      "enum": [
+        "fifo",
+        "rr",
+        "normal",
+        "batch",
+        "idle"
+      ]
+    },
+    "rtprio": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 99,
+      "description": "Static priority of a process. Only relevant if the actual scheduling policy of a process is a realtime one, i.e. fifo, rr or deadline."
+    },
+    "ioclass": {
+      "type": "string",
+      "enum": [
+        "best-effort",
+        "realtime",
+        "idle",
+        "none"
+      ],
+      "description": "Define the IO scheduling policy."
+    },
+    "oom_score_adj": {
+      "type": "integer",
+      "minimum": -1000,
+      "maximum": 1000,
+      "description": "Adjust the Out Of Memory killer score of  a process. Negative value decrease the score of the process, making it less likely to be killed if available memory gets very low."
+    },
+    "cpuset": {
+      "oneOf": [
+        {
+          "type": "string",
+          "enum": [
+            "big-cores",
+            "little-cores",
+            "turbo-cores",
+            "performance-cores",
+            "efficiency-cores",
+            "all-cores",
+            "x3d-cache",
+            "x3d-frequency"
+          ]
+        },
+        {
+          "type": "string",
+          "pattern": "^\\d+-\\d+$",
+          "examples": ["0-7"]
+        },
+        {
+          "type": "string",
+          "pattern": "^(\\d+(-\\d+)?)[^,]?+$",
+          "examples": ["0,2,4", "0-3,8-11"]
+        },
+        {
+          "type": "string",
+          "pattern": "^(llc|node)-[\\d]+$",
+          "examples": ["llc-1", "node-0"]
+        }
+       ],
+       "description": "Pin the process to the specified CPU cores using Linux cpuset notation."
+    },
+    "cgroup": {
+      "type": "string",
+      "description": "Put the process in the specified cgroup. This can be any cgroup, including those created outside ananicy-cpp."
+    },
+    "type": {
+      "type": "string",
+      "description": "Set the type of the rule. All options defined in the type will be used as if written explicitly in the rule, although you can override each option if needed."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Ananicy cgroups definition",
+  "description": "Schema for Ananicy cgroups files.",
+  "type": "object",
+  "required": [
+    "cgroup"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "cgroup": {
+      "type": "string",
+      "description": "cgroup name"
+    },
+    "CPUQuota": {
+      "type": "integer",
+      "minimum": 0
+    }
+  }
+}
