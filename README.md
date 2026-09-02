@@ -1,27 +1,40 @@
 # Ananicy-cpp-rules for CachyOS
+
 This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS team and the community.
 
 ## Ananicy-cpp & ananicy-cpp-rules
+
 - **[ananicy-cpp](https://gitlab.com/ananicy-cpp/ananicy-cpp)** - daemon that automatically adjusts the nice levels of processes.
 - **ananicy-cpp-rules** - list of rules used to assign specific nice values to specific processes.
+
 > The nice value determines the priority of a process, with higher values indicating lower priority and making the process "nicer" to other processes. By default, on Linux workstations, the nice value is set to 0.
+
+## Installation
+
+```sh
+sudo make install
+```
+
+This script will copy all the rules from this repo to `/etc/ananicy.d` dir.
 
 ## How to contribute
 
-You can add your favorite games, apps, and more. Any help would be greatly appreciated!  
+You can add your favorite games, apps, and more. Any help would be greatly appreciated!
 **For example, let's say you want to add a game:**
+
 1. Go to [00-default](https://github.com/CachyOS/ananicy-rules/tree/master/00-default)
 2. Go to [Games](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games)
 3. Navigate to the desired folder depending on:
-	- Game is meant to be ran under with Proton: [`wine_proton`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/wine_proton) - *Open the corresponding file depending on the letter.*
-	- Provides a native version for Linux: [`linux-native`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/linux-native) - *Open the corresponding file depending on the letter.*
+	- Game is meant to be ran under with Proton: [`wine_proton`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/wine_proton) → *Open the corresponding file depending on the letter.*
+	- Provides a native version for Linux: [`linux-native`](https://github.com/CachyOS/ananicy-rules/tree/master/00-default/Games/linux-native) → *Open the corresponding file depending on the letter.*
 4. Open the corresponding file depending on the letter.
 5. Follow the examples from below.
 
 ### Examples of rules
+
 The **first example** is simple. In the **second example**, it is different because some games generate multiple processes. In such cases, you need to add all the processes related to the game.
 
-Please also add the name of the game next to the url, which you get the name of said game from the Steam store. 
+Please also add the name of the game next to the url, which you get the name of said game from the Steam store.
 
 If not from any store add name you think it needs.
 
@@ -47,23 +60,35 @@ If not from any store add name you think it needs.
 { "name": "portal2_linux", "type": "Game" }
 ```
 
-Duplicate entries can be detected with this command: ```grep -rhoP --include='*.rules' '"name"\s*:\s*"\K[^"]+' . | sort | uniq -d```
-
-Games can be sorted with sort-games.sh, for more information run this in terminal ```./sort-games.sh --help```
-
-Rules can be linted against JSONSchema with `lint.py` script. It reqires `python-fastjsonschema` to be installed, then it can be run with `python lint.py`. No output means everything is fine.
-
 ### <u>You can also contribute by opening an [issue](https://github.com/CachyOS/ananicy-rules/issues) and providing information about the application </u>
+
 **Make sure the app is not already in the repository before opening an issue.**
+
+### Linting
+
+```sh
+make lint
+```
+
+This will check rules syntax and also check for duplicates. Script requires Python and [python-fastjsonschema](https://horejsek.github.io/python-fastjsonschema/) to be available.
+
+Games can be sorted with `sort-games.sh`, for more information run this in terminal: `./sort-games.sh --help`
+
 ## How to find out proper process name?
+
 Here is a list of tools
+
 ### CLI
+
 - [htop](https://htop.dev/)
 - [btop](https://github.com/aristocratos/btop)
+
 ### GUI
+
 - System Monitor [KDE Plasma](https://apps.kde.org/plasma-systemmonitor/) or [GNOME](https://help.gnome.org/users/gnome-system-monitor/)
 
 **Don't use absolute paths for the executables. Process name alone is enough.**
 
 ## [GameMode](https://github.com/FeralInteractive/gamemode) + [ananicy-cpp](https://gitlab.com/ananicy-cpp/ananicy-cpp) = bad idea
+
 GameMode and ananicy-cpp both adjust the nice levels of processes. However, combining both tools is not recommended, and we strongly advise against doing so.
