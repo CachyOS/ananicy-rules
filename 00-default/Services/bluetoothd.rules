@@ -1,5 +1,6 @@
 # bluetoothd
 { "name": "bluetoothd", "type": "BG_CPUIO" }
-
 # obexd
 { "name": "obexd", "type": "BG_CPUIO" }
+# https://github.com/bluez/bluez/blob/master/tools/mpris-proxy.c
+{ "name": "mpris-proxy", "type": "Service" }

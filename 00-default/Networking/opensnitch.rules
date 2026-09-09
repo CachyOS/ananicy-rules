@@ -1,0 +1,4 @@
+# https://github.com/evilsocket/opensnitch
+{ "name": "opensnitchd", "type": "LowLatency_RT" }
+{ "name": "opensnitch-ui", "type": "Doc-View" }
+

@@ -1,0 +1,10 @@
+# https://pip.pypa.io/
+{"name": "pip", "type": "BG_CPUIO" }
+# https://pypa.github.io/pipx/
+{"name": "pipx", "type": "BG_CPUIO"}
+# https://python-poetry.org/
+{"name": "poetry", "type": "BG_CPUIO"}
+# https://docs.astral.sh/uv/
+{"name": "uv", "type": "BG_CPUIO"}
+# https://docs.astral.sh/uv/concepts/tools/
+{"name": "uvx", "type": "BG_CPUIO"}

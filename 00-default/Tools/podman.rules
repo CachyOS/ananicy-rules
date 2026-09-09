@@ -1,2 +1,13 @@
 # A tool for managing OCI containers and pods: https://github.com/containers/podman
 { "name": "podman", "type": "Service" }
+{ "name": "rootlessport", "type": "Service" }
+{ "name": "rootlessport-child", "type": "Service" }
+# https://containerd.io
+{ "name": "containerd", "type": "Service" }
+# https://passt.top/passt/about/
+{ "name": "pasta", "type": "Service" }
+{ "name": "pasta.avx2", "type": "Service" }
+# https://github.com/containers/conmon
+{ "name": "conmon", "type": "Service" }
+# https://github.com/containers/aardvark-dns
+{ "name": "aardvark-dns", "type": "Service" }

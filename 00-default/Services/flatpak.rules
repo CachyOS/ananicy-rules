@@ -1,3 +1,9 @@
+# https://flatpak.org/
+{ "name": "flatpak", "type": "BG_CPUIO" }
+{ "name": "flatpak-portal", "type": "Service" }
+{ "name": "flatpak-session-helper", "type": "Service" }
+{ "name": "flatpak-system-helper", "type": "Service" }
+
 # https://flatpak.github.io/xdg-desktop-portal/
 { "name": "xdg-desktop-portal", "type": "Service" }
 { "name": "xdg-desktop-portal-gtk", "type": "Service" }
@@ -8,6 +14,8 @@
 { "name": "xdg-desktop-portal-shana", "type": "Service" }
 { "name": "xdg-desktop-portal-wlr", "type": "Service" }
 { "name": "xdg-desktop-portal-xapp", "type": "Service" }
-
 { "name": "xdg-document-portal", "type": "Service" }
 { "name": "xdg-permission-store", "type": "Service" }
+
+# https://github.com/flatpak/xdg-dbus-proxy
+{ "name": "xdg-dbus-proxy", "type": "Service" }

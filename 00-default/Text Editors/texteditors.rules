@@ -12,7 +12,9 @@
 { "name": "code", "type": "Doc-View" }
 { "name": "code-insiders", "type": "Doc-View" }
 { "name": "code.js", "type": "Doc-View" }
-{ "name": "micro", "type": "Doc-View" }
+
+# https://kilo.ai
+{ "name": "kilo", "type": "Doc-View" }
 
 # vim: https://www.vim.org/
 # nvim: https://neovim.io/
@@ -81,8 +83,11 @@
 # RustRover: An IDE for Rust. https://www.jetbrains.com/rust/
 { "name": "rustrover", "type": "Heavy_CPU" }
 
-# Mochi is a note-taking and spaced-repetition flashcard app, built on top of Markdown. 
+# Mochi is a note-taking and spaced-repetition flashcard app, built on top of Markdown.
 { "name": "mochi", "type": "Doc-View" }
 
 # Notepad++ is a free source code editor and Notepad replacement https://notepad-plus-plus.org
 { "name": "notepad++.exe", "type": "Doc-View" }
+
+# https://micro-editor.github.io/
+{ "name": "micro", "type": "Doc-View" }
