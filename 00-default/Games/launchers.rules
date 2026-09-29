@@ -56,16 +56,16 @@
 { "name": "EACoreServer.exe", "type": "BG_CPUIO" }
 
 # Prism Launcher; Used to launch minecraft (https://github.com/PrismLauncher/PrismLauncher)
-{ "name": "prismlauncher", "type": "Game" }
+{ "name": "prismlauncher", "type": "Launcher" }
 # https://github.com/ElyPrismLauncher/ElyPrismLauncher
-{ "name": "elyprismlauncher", "type": "Game" }
+{ "name": "elyprismlauncher", "type": "Launcher" }
 
 # Modrinth App for launching minecraft (https://github.com/modrinth/code)
 { "name": "modrinth-app", "type": "Launcher" }
 { "name": "modrinth-app-wrapped", "type": "Launcher" }
 
 # Fjord Launcher https://github.com/unmojang/FjordLauncher
-{ "name": "fjordlauncher", "type": "Game" }
+{ "name": "fjordlauncher", "type": "Launcher" }
 
 # Bottles https://github.com/bottlesdevs/bottles
 { "name": "bottles", "type": "Launcher" }
