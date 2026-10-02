@@ -8,6 +8,7 @@
 { "name": "xdg-desktop-portal-shana", "type": "Service" }
 { "name": "xdg-desktop-portal-wlr", "type": "Service" }
 { "name": "xdg-desktop-portal-xapp", "type": "Service" }
+{ "name": "xdg-desktop-portal-umbriel", "type": "Service" }
 
 { "name": "xdg-document-portal", "type": "Service" }
 { "name": "xdg-permission-store", "type": "Service" }
