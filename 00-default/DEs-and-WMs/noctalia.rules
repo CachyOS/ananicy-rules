@@ -1,3 +1,7 @@
 # Noctalia https://github.com/noctalia-dev/noctalia
 { "name": "noctalia", "type": "LowLatency_RT" }
 { "name": "noctalia-qs", "type": "LowLatency_RT" }
+
+# Umbriel https://github.com/noctalia-dev/umbriel
+{ "name": "umbriel", "type": "LowLatency_RT" }
+{ "name": "start-umbriel", "type": "LowLatency_RT" }
