@@ -169,6 +169,9 @@
 # shapez https://store.steampowered.com/app/1318690/shapez/
 { "name": "shapezio", "type": "Game" }
 
+# shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2_Factory/
+{ "name": "shapez 2.x86_64", "type": "Game" }
+
 # Shatter https://store.steampowered.com/app/20820/Shatter/
 { "name": "Shatter.bin.x86", "type": "Game" }
 
@@ -177,6 +180,7 @@
 
 # Shattered Pixel Dungeon https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/
 { "name": "Shattered Pixel Dungeon", "type": "Game" }
+{ "name": "shattered-pixel-dungeon", "type": "Game" }
 
 # sheepChat https://store.steampowered.com/app/944770/sheepChat/
 { "name": "sheepchat", "type": "Game" }
@@ -493,6 +497,8 @@
 
 # Stardew Valley https://store.steampowered.com/app/413150/Stardew_Valley/
 { "name": "Stardew Valley", "type": "Game" }
+{ "name": "StardewValley-original", "type": "Game" }
+{ "name": "StardewValley", "type": "Game" }
 { "name": "StardewModdingAPI", "type": "Game" }
 
 # StarDrive 2 https://store.steampowered.com/app/252450/StarDrive_2/
