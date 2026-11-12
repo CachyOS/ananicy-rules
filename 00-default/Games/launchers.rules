@@ -113,3 +113,7 @@
 # San Andreas Multiplayer, a community modification to play Grand Theft Auto: San Andreas online
 # https://sa-mp.mp/ (community-run; official website was shutdown)
 { "name": "samp.exe", "type": "Launcher" }
+
+# Xash3D FWGS https://github.com/FWGS/xash3d-fwgs
+{ "name": "xash", "type": "Launcher" }
+{ "name": "xash3d", "type": "Launcher" }
