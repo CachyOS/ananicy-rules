@@ -67,6 +67,9 @@
 # Fjord Launcher https://github.com/unmojang/FjordLauncher
 { "name": "fjordlauncher", "type": "Game" }
 
+# BedrockOnLinux AppImage https://github.com/Wyze3306/BedrockOnLinux
+{ "name": "BedrockOnLinux", "type": "Launcher" }
+
 # Bottles https://github.com/bottlesdevs/bottles
 { "name": "bottles", "type": "Launcher" }
 
