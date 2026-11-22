@@ -874,6 +874,9 @@
 # shapez https://store.steampowered.com/app/1318690/shapez/
 { "name": "shapezio.exe", "type": "Game" }
 
+# shapez 2 - Factory https://store.steampowered.com/app/2162800/shapez_2_Factory/
+{ "name": "shapez 2.exe", "type": "Game" }
+
 # Shards Of Solitude https://store.steampowered.com/app/4256690/Shards_Of_Solitude/
 { "name": "Sos.exe", "type": "BG_CPUIO" }
 { "name": "Project_Exorcism-Win64-Shipping.exe", "type": "Game" }
@@ -1063,6 +1066,9 @@
 
 # Shovel Knight: Treasure Trove https://store.steampowered.com/app/250760/Shovel_Knight_Treasure_Trove/
 { "name": "ShovelKnight.exe", "type": "Game" }
+
+# Shovel Knight Pocket Dungeon https://store.steampowered.com/app/1184760/Shovel_Knight_Pocket_Dungeon/
+{ "name": "Shovel Knight Pocket Dungeon.exe", "type": "Game" }
 
 # Showgunners https://store.steampowered.com/app/1155330/Showgunners/
 { "name": "Showgunners.exe", "type": "BG_CPUIO" }
@@ -2331,6 +2337,7 @@
 
 # Stardew Valley https://store.steampowered.com/app/413150/Stardew_Valley/
 { "name": "Stardew Valley.exe", "type": "Game" }
+{ "name": "StardewModdingAPI.exe", "type": "Game" }
 
 # Stardom 3 Deluxe https://store.steampowered.com/app/1611410/Stardom_3/
 { "name": "Stardom3.exe", "type": "Game" }
