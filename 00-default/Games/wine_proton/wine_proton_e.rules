@@ -37,6 +37,9 @@
 { "name": "LaunchGame.exe", "type": "BG_CPUIO" }
 { "name": "EDFWB-Win64-Shipping.exe", "type": "Game" }
 
+# EarthX 2: https://store.steampowered.com/app/1486940/EarthX_2/
+{ "name": "EarthX2.exe", "type": "Game" }
+
 # EA SPORTS College Football 27 https://store.steampowered.com/app/4032350/EA_SPORTS_College_Football_27/
 { "name": "CollegeFB27.exe", "type": "Game" }
 { "name": "CollegeFB27_Trial.exe", "type": "Game" }
