@@ -465,6 +465,10 @@
 { "name": "Spinel_02.exe", "type": "BG_CPUIO" }
 { "name": "Spinel_02-Win64-Shipping.exe", "type": "Game" }
 
+# Beast of Reincarnation https://store.steampowered.com/app/2001760/Beast_of_Reincarnation/
+{ "name": "BeastOfReincarnation.exe", "type": "BG_CPUIO" }
+{ "name": "BeastOfReincarnation-Win64-Shipping.exe", "type": "Game" }
+
 # Beasts of Bermuda https://store.steampowered.com/app/719890/Beasts_of_Bermuda/
 { "name": "BeastsOfBermuda.exe", "type": "Game" }
 

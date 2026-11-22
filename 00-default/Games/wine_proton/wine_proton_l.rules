@@ -902,6 +902,10 @@
 # Lost Skies https://store.steampowered.com/app/1931180/Lost_Skies/
 { "name": "LostSkies.exe", "type": "Game" }
 
+# Lost Soul Aside™ https://store.steampowered.com/app/3378960/Lost_Soul_Aside/
+{ "name": "LostSoulAside.exe", "type": "BG_CPUIO" }
+{ "name": "ProjectlsaSteam-Win64-Shipping.exe", "type": "Game" }
+
 # LostWinds https://store.steampowered.com/app/447780/LostWinds/
 { "name": "LW1.exe", "type": "Game" }
 
