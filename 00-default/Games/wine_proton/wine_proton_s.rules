@@ -430,6 +430,7 @@
 
 # SCUM https://store.steampowered.com/app/513710/SCUM/
 { "name": "SCUM.exe", "type": "Game" }
+{ "name": "SCUM_Launcher.exe", "type": "Launcher" }
 
 # SCUM Server https://store.steampowered.com/app/3792580/
 { "name": "SCUMServer.exe", "type": "Service" }
