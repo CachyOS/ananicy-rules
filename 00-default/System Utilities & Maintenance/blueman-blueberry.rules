@@ -1,3 +1,4 @@
 # Bluetooth tools: https://github.com/blueman-project/blueman
 { "name": "blueberry-tray", "type": "BG_CPUIO" }
 { "name": "blueman-applet", "type": "BG_CPUIO" }
+{ "name": "blueman-tray", "type": "BG_CPUIO" }

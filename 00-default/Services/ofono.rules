@@ -1,0 +1,3 @@
+# https://git.kernel.org/pub/scm/network/ofono/ofono.git
+{ "name": "ofonod", "type": "Service" }
+{ "name": "dundee", "type": "Service" }

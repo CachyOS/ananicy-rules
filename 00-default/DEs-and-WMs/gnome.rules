@@ -1,5 +1,5 @@
-# http://live.gnome.org/ThumbnailerSpec 
-{ "name": "tumblerd", "type": "TODO" }
+# http://live.gnome.org/ThumbnailerSpec
+{ "name": "tumblerd", "type": "BG_CPUIO" }
 
 # Used for password management - https://wiki.archlinux.org/title/GNOME/Keyring
 { "name": "gnome-keyring-daemon", "type": "Service" }

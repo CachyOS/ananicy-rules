@@ -1,0 +1,10 @@
+# ImageMagick - image viewing/manipulation program: https://imagemagick.org
+{ "name": "convert", "type": "BG_CPUIO" }
+{ "name": "montage", "type": "BG_CPUIO" }
+{ "name": "animate", "type": "BG_CPUIO" }
+{ "name": "composite", "type": "BG_CPUIO" }
+{ "name": "conjure", "type": "BG_CPUIO" }
+{ "name": "import", "type": "BG_CPUIO" }
+{ "name": "mogrify", "type": "BG_CPUIO" }
+{ "name": "identify", "type": "BG_CPUIO" }
+{ "name": "display", "type": "Image-View" }

@@ -9,3 +9,9 @@
 # Sway idle daemon
 # https://github.com/swaywm/swayidle
 { "name": "swayidle", "type": "Service" }
+
+# https://github.com/swaywm/swaybg
+{ "name": "swaybg", "type": "Service" }
+
+# https://github.com/swaywm/swaylock
+{ "name": "swaylock", "type": "Service" }

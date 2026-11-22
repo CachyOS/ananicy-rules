@@ -81,3 +81,11 @@
 
 # Mumble: https://www.mumble.info/
 { "name": "mumble", "type": "Chat" }
+
+# https://dino.im/
+{ "name": "dino-im", "type": "Chat" }
+
+# https://jami.net/
+{ "name": "jami-qt", "type": "Chat" }
+{ "name": "jami-gnome", "type": "Chat" }
+{ "name": "dring", "type": "Service" }

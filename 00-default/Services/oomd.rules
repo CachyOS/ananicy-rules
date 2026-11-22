@@ -1,0 +1,2 @@
+# https://github.com/facebookincubator/oomd
+{ "name": "oomd", "type": "LowLatency_RT", "oom_score_adj": -1000 }

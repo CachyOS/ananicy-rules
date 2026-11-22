@@ -658,10 +658,6 @@
 # Drive Beyond Horizons Demo https://store.steampowered.com/app/2859390/Drive_Beyond_Horizons/
 { "name": "DriveBeyondHorizons-Win64-Shipping.exe", "type": "Game" }
 
-# DEATH STRANDING https://store.steampowered.com/app/1190460/DEATH_STRANDING/
-# DEATH STRANDING DIRECTOR'S CUT https://store.steampowered.com/app/1850570/DEATH_STRANDING_DIRECTORS_CUT/
-{ "name": "ds.exe", "type": "Game" }
-
 # Dungeon Defenders II https://store.steampowered.com/app/236110/Dungeon_Defenders_II/
 # Dungeon Defenders https://store.steampowered.com/app/65800/Dungeon_Defenders/
 { "name": "DunDefGame.exe", "type": "Game" }
@@ -3202,7 +3198,7 @@
 # Zula Türkiye https://store.steampowered.com/app/714210/
 { "name": "zula_launcher.exe", "type": "Game" }
 
-### Other (no sorting required) ### 
+### Other (no sorting required) ###
 
 # Call of Duty Launcher
 { "name": "bootstrapper.exe", "type": "BG_CPUIO" }
@@ -3225,7 +3221,7 @@
 # some sort of windows cd/dvd shit process for launching installer
 { "name": "autorun.exe", "type": "BG_CPUIO" }
 
-# Adobe Integrated Runtime binary 
+# Adobe Integrated Runtime binary
 { "name": "CaptiveAppEntry.exe", "type": "BG_CPUIO" }
 
 # source2 background process https://www.source2.wiki/EngineTools/VConsole

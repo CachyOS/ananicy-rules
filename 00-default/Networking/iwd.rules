@@ -1,0 +1,2 @@
+# https://git.kernel.org/pub/scm/network/wireless/iwd.git
+{ "name": "iwd", "type": "LowLatency_RT", "ionice": 1 }
