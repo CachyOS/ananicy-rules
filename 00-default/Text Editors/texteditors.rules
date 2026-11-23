@@ -44,6 +44,9 @@
 # https://zed.dev
 { "name": "zed-editor", "type": "Doc-View" }
 
+# The Gram Code Editor: https://gram-editor.com/
+{ "name": "gram-editor", "type": "Doc-View" }
+
 # https://tug.org/texworks/
 { "name": "texworks", "type": "Doc-View" }
 
@@ -81,7 +84,7 @@
 # RustRover: An IDE for Rust. https://www.jetbrains.com/rust/
 { "name": "rustrover", "type": "Heavy_CPU" }
 
-# Mochi is a note-taking and spaced-repetition flashcard app, built on top of Markdown. 
+# Mochi is a note-taking and spaced-repetition flashcard app, built on top of Markdown.
 { "name": "mochi", "type": "Doc-View" }
 
 # Notepad++ is a free source code editor and Notepad replacement https://notepad-plus-plus.org
