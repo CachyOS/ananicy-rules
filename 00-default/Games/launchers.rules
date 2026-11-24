@@ -1,12 +1,12 @@
 # An Open Source Epic Games and GOG launcher: https://heroicgameslauncher.com/
-{ "name": "gogdl", "type": "BG_CPUIO" }
-{ "name": "heroic", "type": "Service" }
+{ "name": "gogdl", "type": "IN_DIFF" }
+{ "name": "heroic", "type": "IN_DIFF" }
 { "name": "legendary", "type": "IN_DIFF" }
 
 # Hydra is a game launcher that allows you to download, play, track your stats and manage your games all in one place: https://hydralauncher.gg/
 {"name" : "hydralauncher", "type": "Doc-View"}
 {"name" : "hydra-python-rpc", "type": "BG_CPUIO"}
-{"name" : "Hydra", "type": "Launcher"}
+{"name" : "Hydra", "type": "IN_DIFF"}
 
 # Arc Launcher, bundled with games published by Arc
 # Technically available as a standalone app. https://www.arcgames.com/en/about/client
@@ -21,11 +21,11 @@
 { "name": "ArcWebviewRender.exe", "type": "Doc-View" }
 
 # VK Play GameCenter is a launcher of the vkplay
-{ "name": "GameCenter.exe", "type": "BG_CPUIO" }
+{ "name": "GameCenter.exe", "type": "IN_DIFF" }
 
 # Rules for Epic Games Launcher
 # Epic Games Launcher
-{ "name": "EpicGamesLauncher.exe", "type": "Launcher" }
+{ "name": "EpicGamesLauncher.exe", "type": "IN_DIFF" }
 
 # integrated web browser
 { "name": "EpicWebHelper.exe", "type": "Doc-View" }
@@ -37,7 +37,7 @@
 # Rules for EA Desktop App
 # Launcher
 { "name": "EADesktop.exe", "type": "Doc-View" }
-{ "name": "EALauncher.exe", "type": "Launcher" }
+{ "name": "EALauncher.exe", "type": "IN_DIFF" }
 
 # integrated services
 { "name": "EABackgroundService.exe", "type": "BG_CPUIO" }
@@ -61,29 +61,29 @@
 { "name": "elyprismlauncher", "type": "Game" }
 
 # Modrinth App for launching minecraft (https://github.com/modrinth/code)
-{ "name": "modrinth-app", "type": "Launcher" }
-{ "name": "modrinth-app-wrapped", "type": "Launcher" }
+{ "name": "modrinth-app", "type": "Game" }
+{ "name": "modrinth-app-wrapped", "type": "Game" }
 
 # Fjord Launcher https://github.com/unmojang/FjordLauncher
 { "name": "fjordlauncher", "type": "Game" }
 
 # Bottles https://github.com/bottlesdevs/bottles
-{ "name": "bottles", "type": "Launcher" }
+{ "name": "bottles", "type": "IN_DIFF" }
 
 # integrated web engine
 { "name": "QtWebEngineProcess.exe", "type": "BG_CPUIO" }
 
 # Rules for Steam
 # Steam client
-{ "name": "steam", "type": "Launcher" }
-{ "name": "steam.sh", "type": "Launcher" }
+{ "name": "steam", "type": "IN_DIFF" }
+{ "name": "steam.sh", "type": "IN_DIFF" }
 
 # Steam integrated web browser
 { "name": "steamwebhelper", "type": "Doc-View" }
 
 # Rules for Steam on Wine
 # Steam client
-{ "name": "Steam.exe", "type": "Launcher" }
+{ "name": "Steam.exe", "type": "IN_DIFF" }
 
 # SteamVR
 { "name": "vrserver", "type": "LowLatency_RT" }
@@ -92,12 +92,12 @@
 { "name": "steamwebhelper.exe", "type": "Doc-View" }
 
 # Uplay is a Digital distribution, digital rights management, multiplayer and communications service developed by Ubisoft https://uplay.ubisoft.com/
-{ "name": "UbisoftGameLaun", "type": "BG_CPUIO" }
+{ "name": "UbisoftGameLaun", "type": "IN_DIFF" }
 { "name": "upc.exe", "type": "BG_CPUIO" }
 { "name": "UplayWebCore.exe", "type": "Doc-View" }
 
 # Unified games launcher: https://github.com/tkashkin/GameHub
-{ "name": "com.github.tkashkin.gamehub", "type": "BG_CPUIO" }
+{ "name": "com.github.tkashkin.gamehub", "type": "IN_DIFF" }
 
 # Wivrn-dashboard https://github.com/WiVRn/WiVRn
 { "name": "wivrn-dashboard", "type": "BG_CPUIO" }
@@ -107,7 +107,7 @@
 { "name": "monado-service", "type": "LowLatency_RT" }
 
 # ALVR https://github.com/alvr-org/ALVR
-{ "name": "alvr-launcher", "type": "Launcher" }
+{ "name": "alvr-launcher", "type": "IN_DIFF" }
 { "name": "alvr-dashboard", "type": "BG_CPUIO" }
 
 # San Andreas Multiplayer, a community modification to play Grand Theft Auto: San Andreas online
