@@ -2,8 +2,6 @@
 
 # https://github.com/KDE/dolphin
 { "name": "dolphin", "type": "LowLatency_RT" }
-# https://apps.kde.org/spectacle/
-{ "name": "spectacle", "type": "LowLatency_RT" }
 # https://github.com/KDE/discover
 { "name": "plasma-discover", "type": "OOM_NO_KILL" }
 { "name": "DiscoverNotifier", "type": "BG_CPUIO" }
