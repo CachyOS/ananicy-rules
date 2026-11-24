@@ -54,6 +54,8 @@
 
 # Celeste https://store.steampowered.com/app/504230/Celeste/
 { "name": "Celeste.bin.x86_64", "type": "Game" }
+{ "name": "Celeste.bin.x86", "type": "Game" }
+{ "name": "Celeste", "type": "Game" }
 
 # Chained Echoes https://store.steampowered.com/app/1229240/Chained_Echoes/
 { "name": "Chained_Echoes.x86_64", "type": "Game" }

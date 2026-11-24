@@ -1,11 +1,11 @@
 # greetd itself
-{ "name": "greetd", "type": "Launcher" }
+{ "name": "greetd", "type": "IN_DIFF" }
 
 # various greetd-based greeters
-{ "name": "tuigreet", "type": "Launcher" }
-{ "name": "regreet", "type": "Launcher" }
-{ "name": "nwg-hello", "type": "Launcher" }
-{ "name": "wlgreet", "type": "BG_CPUIO" }
-{ "name": "gtkgreet", "type": "BG_CPUIO" }
-{ "name": "qtgreet", "type": "BG_CPUIO" }
-{ "name": "cosmic-greeter", "type": "BG_CPUIO" }
+{ "name": "tuigreet", "type": "IN_DIFF" }
+{ "name": "regreet", "type": "IN_DIFF" }
+{ "name": "nwg-hello", "type": "IN_DIFF" }
+{ "name": "wlgreet", "type": "IN_DIFF" }
+{ "name": "gtkgreet", "type": "IN_DIFF" }
+{ "name": "qtgreet", "type": "IN_DIFF" }
+{ "name": "cosmic-greeter", "type": "IN_DIFF" }

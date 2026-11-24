@@ -959,6 +959,9 @@
 # Mindustry https://store.steampowered.com/app/1127400/Mindustry/
 { "name": "Mindustry.exe", "type": "Game" }
 
+# Minecraft Bedrock https://github.com/Wyze3306/BedrockOnLinux
+{ "name": "Minecraft.Windows.exe", "type": "Game" }
+
 # Minecraft Dungeons https://store.steampowered.com/app/1672970/Minecraft_Dungeons/
 { "name": "Dungeons.exe", "type": "Game" }
 
