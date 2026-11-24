@@ -1,2 +1,2 @@
 # https://github.com/polybar/polybar
-{ "name": "polybar", "type": "Service" }
+{ "name": "polybar", "nice": -6 }
