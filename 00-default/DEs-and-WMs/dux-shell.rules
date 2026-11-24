@@ -1,0 +1,4 @@
+# https://github.com/duxlabs-dev/dux-shell
+{ "name": "dms", "type": "LowLatency_RT" }
+# https://quickshell.org/
+{ "name": "qs", "type": "LowLatency_RT" }

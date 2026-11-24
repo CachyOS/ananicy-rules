@@ -1,0 +1,9 @@
+# https://github.com/hyprwm/Hyprland
+{ "name": "Hyprland", "type": "LowLatency_RT" }
+
+# https://github.com/hyprland-community/pyprland
+{ "name": "pypr", "type": "Image-View" }
+
+{ "name": "hyprpaper", "type": "Service" }
+{ "name": "hypridle", "type": "Service" }
+{ "name": "hyprlock", "type": "Image-View" }
