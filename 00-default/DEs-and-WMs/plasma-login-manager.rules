@@ -1,4 +1,4 @@
 # KDE's Display Manager fork from SDDM (https://invent.kde.org/plasma/plasma-login-manager)
 
-{ "name": "plasmalogin", "type": "Launcher" }
-{ "name": "plasmalogin-helper", "type": "Launcher" }
+{ "name": "plasmalogin", "type": "IN_DIFF" }
+{ "name": "plasmalogin-helper", "type": "IN_DIFF" }
