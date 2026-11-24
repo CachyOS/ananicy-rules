@@ -1,2 +1,2 @@
 # https://github.com/Alexays/waybar
-{ "name": "waybar", "type": "Service" }
+{ "name": "waybar", "nice": -6 }
