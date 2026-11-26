@@ -1,0 +1,2 @@
+# EasyTier - A simple, decentralized mesh VPN with WireGuard support (https://easytier.cn/)
+{ "name": "easytier-core", "type": "LowLatency_RT", "ionice": 1 }
