@@ -66,6 +66,9 @@
 { "name": "betterbird", "type": "Chat" }
 { "name": "betterbird-bin", "type": "Chat" }
 
+# KMail: https://apps.kde.org/kmail2/
+{ "name": "kmail", "type": "Chat" }
+
 # Franz and its forks: https://meetfranz.com/
 { "name": "ferdi", "type": "Chat" }
 { "name": "ferdium", "type": "Chat" }
