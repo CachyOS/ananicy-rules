@@ -1,0 +1,2 @@
+# A tool to detect when your YubiKey is waiting for a touch (https://github.com/maximbaz/yubikey-touch-detector)
+{ "name": "yubikey-touch-detector", "type": "Service" }
