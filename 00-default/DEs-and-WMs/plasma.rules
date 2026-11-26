@@ -32,3 +32,5 @@
 # https://github.com/KDE/kwallet
 { "name": "kwalletd6", "type": "Service" }
 { "name": "ksecretd", "type": "Service" }
+# https://github.com/KDE/akonadi-calendar
+{ "name": "kalendarac", "type": "Service" }
